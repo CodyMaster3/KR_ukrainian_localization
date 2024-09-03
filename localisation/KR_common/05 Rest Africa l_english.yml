@@ -1,0 +1,417 @@
+﻿l_english:
+
+### ADA: Adamawa
+ ADA:0 "Адамава"
+ ADA_ADJ:0 "Амадавськ"
+ ADA_DEF:0 "Адамава"
+
+ ADA_totalist:0 "Комуна Адамава"
+ ADA_totalist_ADJ:0 "Амадавськ"
+ ADA_totalist_DEF:0 "Комуна Адамава"
+ ADA_syndicalist:0 "Комуна Адамава"
+ ADA_syndicalist_ADJ:0 "Амадавськ"
+ ADA_syndicalist_DEF:0 "Комуна Адамава"
+ ADA_radical_socialist:0 "Комуна Адамава"
+ ADA_radical_socialist_ADJ:0 "Амадавськ"
+ ADA_radical_socialist_DEF:0 "Комуна Адамава"
+ ADA_authoritarian_democrat:0 "Кліка Амадава"
+ ADA_authoritarian_democrat_ADJ:0 "Adamawan"
+ ADA_authoritarian_democrat_DEF:0 "Кліка Амадава"
+ ADA_paternal_autocrat:0 "Емірат Амадава"
+ ADA_paternal_autocrat_ADJ:0 "Амадавськ"
+ ADA_paternal_autocrat_DEF:0 "Емірат Амадава"
+ ADA_national_populist:0 "Кліка Амадава"
+ ADA_national_populist_ADJ:0 "Амадавськ"
+ ADA_national_populist_DEF:0 "Кліка Амадава"
+
+### ANG: Angola
+ ANG:0 "Ангола"
+ ANG_ADJ:0 "Ангольськ"
+ ANG_DEF:0 "Ангола"
+
+ ### Characters ###
+ ANG_monsenhor_alves_da_cunha: "Monsenhor Alves da Cunha"
+
+### BOT: Bechuanaland
+ BOT:0 "Ботсвана"
+ BOT_ADJ:0 "Ботсванськ"
+ BOT_DEF:0 "Ботсвана"
+
+ ### Characters ###
+ BOT_seretse_khama: "Seretse Khama"
+
+### BRD: Urundi
+ BRD:0 "Урунді"
+ BRD_ADJ:0 "Урундійськ"
+ BRD_DEF:0 "Урунді"
+
+ ### Characters ###
+ BRD_Mwambutsa_IV: "Mwambutsa IV"
+
+### BRT: Barotseland
+ BRT:0 "Баротселенд"
+ BRT_ADJ:0 "Баротсійськ"
+ BRT_DEF:0 "Баротселенд"
+
+ BRT_totalist:0 "Комуна Баротселенд"
+ BRT_totalist_ADJ:0 "Баротсійськ"
+ BRT_totalist_DEF:0 "Комуна Баротселенд"
+ BRT_syndicalist:0 "Комуна Баротселенд"
+ BRT_syndicalist_ADJ:0 "Баротсійськ"
+ BRT_syndicalist_DEF:0 "Комуна Баротселенд"
+ BRT_radical_socialist:0 "Комуна Баротселенд"
+ BRT_radical_socialist_ADJ:0 "Баротсійськ"
+ BRT_radical_socialist_DEF:0 "Комуна Баротселенд"
+
+ ### Characters ###
+ BRT_Yeta_III: "Yeta III"
+
+### CMR: Cameroon
+ CMR:0 "Камерун"
+ CMR_ADJ:0 "Камерунськ"
+ CMR_DEF:0 "Камерун"
+
+ ### Characters ###
+ CMR_Alexander_Duala_Bell: "Alexander Duala Bell"
+ CMR_Karl_Atangana: "Karl Atangana"
+
+### KIV: Kivu
+ KIV:0 "Ківу"
+ KIV_ADJ:0 "Ківійськ"
+ KIV_DEF:0 "Ківу"
+
+ KIV_totalist:0 "Комуна Бойоман"
+ KIV_totalist_ADJ:0 "Бойоманськ"
+ KIV_totalist_DEF:0 "Комуна Бойоман"
+ KIV_syndicalist:0 "Комуна Бойоман"
+ KIV_syndicalist_ADJ:0 "Бойоманськ"
+ KIV_syndicalist_DEF:0 "Комуна Бойоман"
+ KIV_radical_socialist:0 "Комуна Бойоман"
+ KIV_radical_socialist_ADJ:0 "Бойоманськ"
+ KIV_radical_socialist_DEF:0 "Комуна Бойоман"
+ KIV_social_democrat:0 "Ліга Ківу"
+ KIV_social_democrat_ADJ:0 "Ківійськ"
+ KIV_social_democrat_DEF:0 "Ліга Ківу"
+ KIV_social_liberal:0 "Ліга Ківу"
+ KIV_social_liberal_ADJ:0 "Ківійськ"
+ KIV_social_liberal_DEF:0 "Ліга Ківу"
+ KIV_market_liberal:0 "Ліга Ківу"
+ KIV_market_liberal_ADJ:0 "Ківійськ"
+ KIV_market_liberal_DEF:0 "Ліга Ківу"
+ KIV_social_conservative:0 "Ліга Ківу"
+ KIV_social_conservative_ADJ:0 "Ківійськ"
+ KIV_social_conservative_DEF:0 "Ліга Ківу"
+ KIV_authoritarian_democrat:0 "Кліка Ківу"
+ KIV_authoritarian_democrat_ADJ:0 "Ківійськ"
+ KIV_authoritarian_democrat_DEF:0 "Кліка Ківу"
+ KIV_paternal_autocrat:0 "Кліка Ківу"
+ KIV_paternal_autocrat_ADJ:0 "Ківійськ"
+ KIV_paternal_autocrat_DEF:0 "Кліка Ківу"
+ KIV_national_populist:0 "Держава Ківу"
+ KIV_national_populist_ADJ:0 "Ківійськ"
+ KIV_national_populist_DEF:0 "Держава Ківу"
+
+ ### Characters ###
+ KIV_Louis_de_Gonzague_Bobozo: "Louis de Gonzague Bobozo"
+
+### KEN: Kenya
+ KEN:0 "Кенія"
+ KEN_ADJ:0 "Кенійськ"
+ KEN_DEF:0 "Кенія"
+
+ KEN_KIK:0 "Кікуюленд"
+ KEN_KIK_ADJ:0 "Кікуюськ"
+ KEN_KIK_DEF:0 "Кікуюленд"
+
+ ### Characters ###
+ KEN_Stanley_Mathenge: "Stanley Mathenge"
+ KEN_Thomas_Cholmondeley: "Tom Delamere"
+ KEN_Philip_Euen_Mitchell: "Philip Euen Mitchell"
+
+### MAD: Madagascar
+ MAD:0 "Мадагаскар"
+ MAD_ADJ:0 "Мадагаскарськ"
+ MAD_DEF:0 "Мадагаскар"
+ 
+ MAD_kingdom: "Королівство Імерина"
+ MAD_kingdom_ADJ: "Мадагаскарськ"
+ MAD_kingdom_DEF: "Королівство Імерина"
+
+ ### Characters ###
+ MAD_marie_louise_razinkeriefo: "Marie-Louise Razafinkeriefo"
+ MAD_marie_louise_razinkeriefo_regnal: "Marie-Louise I"
+
+### MZB: Mozambique
+ MZB:0 "Мозамбік"
+ MZB_ADJ:0 "Мозамбікськ"
+ MZB_DEF:0 "Мозамбік"
+
+ ### Characters ###
+ MZB_jose_augusto_da_costa_almeida: "José Augusto da Costa Almeida"
+
+### RWA: Ruanda
+ RWA:0 "Руанда"
+ RWA_ADJ:0 "Руандійськ"
+ RWA_DEF:0 "Руанда"
+
+ ### Characters ###
+ RWA_Yuhi_V: "Yuhi V"
+
+### TKE: Tshuapa Clique
+ TKE:0 "Кліка Чуапа"
+ TKE_ADJ:0 "Чуапаськ"
+ TKE_DEF:0 "Кліка Чуапа"
+
+ ### Characters ###
+ TKE_Justin_Kokolo: "Justin Kokolo"
+
+### TZN: Azania
+ TZN:0 "Азанія"
+ TZN_ADJ:0 "Азанійськ"
+ TZN_DEF:0 "Азанія"
+
+ TZN_fed:0 "Східна Африка"
+ TZN_fed_ADJ:0 "Східноафриканськ"
+ TZN_fed_DEF:0 "Федерація Східної Африки"
+
+ TZN_GER:0 "Східна Африка"
+ TZN_GER_ADJ:0 "Східноафриканськ"
+ TZN_GER_DEF:0 "Східна Африка"
+
+ ### Characters ###
+ TZN_Muhamed_Husan: "Muhamed Husan"
+
+### UGA: Uganda
+ UGA:0 "Уганда"
+ UGA_ADJ:0 "Угандськ"
+ UGA_DEF:0 "Уганда"
+
+ ### Characters ###
+ UGA_Mutesa_II: "Mutesa II"
+ UGA_Ignatius_K_Musaazi: "Ignatius K. Musaazi"
+ UGA_Andrew_Cohen: "Andrew Cohen"
+
+### ZAM: Zambesia
+ ZAM:0 "Замбезія"
+ ZAM_ADJ:0 "Замбезійськ"
+ ZAM_DEF:0 "Замбезія"
+
+ ZAM_bemba:0 "Бембаленд"
+ ZAM_bemba_ADJ:0 "Бембськ"
+ ZAM_bemba_DEF:0 "Бембаленд"
+
+ ### Characters ###
+ ZAM_Kanyanta: "Makumba Kanyanta"
+ ZAM_Ronald_Storrs: "Ronald Storrs"
+
+### ZAN: Zanzibar
+ ZAN:0 "Занзібар"
+ ZAN_ADJ:0 "Занзібарськ"
+ ZAN_DEF:0 "Занзібар"
+
+ ### Characters ###
+ ZAN_Khalifa_II_bin_Harub_Al_Said: "Khalifa II bin Harub Al-Said"
+
+### Focus Tree ###
+ african_minors_focus:0 "Дерево фокусів мінорів Африки"
+
+ AFR_Independence_Conflict:0 "Захист суверенітету"
+ AFR_Independence_Conflict_desc:0 "Розпад Міттельафрики дав [ROOT.GetNameDef] можливість заявити про себе як про суверенну державу, давайте не витрачатимемо її марно.\n\nUnion, Work, Justice!"
+
+ AFR_the_German_Remnants:0 "[AFR_FormerOverlord_ADJ]і залишки"
+ AFR_the_German_Remnants_desc:0 "Поспішний кінець колоніального правління залишив по собі безліч солдатів. Однак він також залишив по собі пристойну кількість військового майна, яке зберігається на складах у ключових точках нашої країни."
+
+ AFR_Analyse_their_Equipment:0 "Аналіз обладнання"
+ AFR_Analyse_their_Equipment_desc:0 "При [AFR_FormerOverlord_ADJ]ій адміністрації, наших людей не навчали використанню сучасного обладнання, яке наші колоніальні господарі застосовували для утримання [ROOT.GetAdjective]ої нації у підпорядкуванні. Хоча більша частина цього обладнання потрапила до наших рук, ми повинні навчитися ним користуватися, перш ніж застосовувати його на полі бою."
+
+ AFR_Petition_French_Republic:0 "Петиція Республіці Франція"
+ AFR_Petition_French_Republic_desc:0 "[ROOT.GetNameDefCap] потрібна зброя, і це здається найбільш очевидним місцем, куди можна звернутися."
+
+ AFR_Petition_French_Commune:0 "Петиція Комуні Франція"
+ AFR_Petition_French_Commune_desc:0 "Комуна може з розумінням поставитися до наших потреб."
+
+ AFR_Open_Recruitment_Program:0 "Програма відкритого набору"
+ AFR_Open_Recruitment_Program_desc:0 "Держава [ROOT.GetNameDef] потребує будь-якої допомоги на передовій!"
+
+ AFR_independence_push:0 "Поштовх до незалежності"
+ AFR_independence_push_desc:0 "Держава [ROOT.GetNameDefCap] вперше відчула смак свободи і не збирається так просто відмовлятися від можливості бути незалежним!"
+
+ AFR_modern_african_army:0 "Сучасна африканська армія"
+ AFR_modern_african_army_desc:0 "Ми зібрали все розрізнене спорядження, яке змогли знайти, і навчилися використовувати нову зброю та тактику. Хоча багато чого ще треба зробити, ми на шляху до створення єдиної та потужної армії, готової протистояти будь-якому воєначальнику, якого ми зустрінемо!"
+
+ AFR_a_Homegrown_Industry:0 "Вітчизняна промисловість"
+ AFR_a_Homegrown_Industry_desc:0 "Відсутність значного промислового виробництва призведе до того, що наша нація зазнає поразки у боротьбі з іншими, більш розвиненими в економічному плані країнами. Щоб не допустити цього, нам необхідно почати та швидко просувати індустріалізацію."
+ AFR_a_Homegrown_Industry_2:0 "Розвиток інфраструктури"
+ AFR_a_Homegrown_Industry_2_desc:0 "За наших [AFR_FormerOverlord_ADJ]их повелителів, інфраструктурою нехтували. З розширенням індустріалізації ми маємо інвестувати в будинки та дороги, не тільки для процвітання для наших громадян, але й для підтримки наших солдатів на фронті."
+ AFR_a_Homegrown_Industry_3:0 "Промислове обладнання"
+ AFR_a_Homegrown_Industry_3_desc:0 "Розвиток нашого сільського господарства та промисловості значно розвинув нашу країну. Хоча ще багато потрібно зробити, ми зробили перші кроки до функціонуючої, сучасної економіки."
+ AFR_a_Homegrown_Industry_4:0 "База важкої промисловості"
+ AFR_a_Homegrown_Industry_4_desc:0 "Інвестиції у важку промисловість будуть дорогими, але вони того варті, вносячи значний внесок у наш економічний розвиток. Таким чином, ми зможемо виробляти військове обладнання більшими темпами."
+ AFR_a_Homegrown_Industry_5:0 "[ROOT.GetAdjective]а зброя"
+ AFR_a_Homegrown_Industry_5_desc:0 "Після краху [AFR_FormerOverlord_ADJ]ої адміністрації, в державі [ROOT.GetNameDef] залишилася велика кількість військової техніки. Однак, якщо ми хочемо довгострокове процвітання та безпеку держави [ROOT.GetNameDef], було б розумно інвестувати в заводи з виробництва озброєнь, щоб не залежати від іноземного спорядження."
+
+ AFR_international_waters:0 "Міжнародні води"
+ AFR_international_waters_desc:0 "Забезпечення доступу до моря має величезне значення, особливо під час кризи. Маючи доступ до моря, ми зможемо отримувати сировину та допомогу, яких ми відчайдушно потребуємо."
+ AFR_join_international_community:0 "Приєднання до міжнародної спільноти"
+ AFR_join_international_community_desc:0 "Позиції нашого уряду зміцнилася, ми оголосили себе вільною та суверенною державою і готові приєднатися до міжнародної спільноти. Насамперед ми маємо звернути увагу на країни, які готові запропонувати нам підтримку і неважливо, чи зацікавлені вони у підтримці нашої незалежності чи просто шукають нові можливості."
+
+ AFR_petition_BEL:0 "Спорядження з держави [BEL.GetNameDef]"
+ AFR_petition_BEL_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_BRA:0 "Спорядження з держави [BRA.GetNameDef]"
+ AFR_petition_BRA_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_CAN:0 "Спорядження з держави [CAN.GetNameDef]"
+ AFR_petition_CAN_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_EGY:0 "Спорядження з держави [EGY.GetNameDef]"
+ AFR_petition_EGY_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_ENG:0 "Спорядження з держави [ENG.GetNameDef]"
+ AFR_petition_ENG_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_FRA:0 "Спорядження з держави [FRA.GetNameDef]"
+ AFR_petition_FRA_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_GER:0 "Спорядження з держави [GER.GetNameDef]"
+ AFR_petition_GER_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_LIB:0 "Спорядження з держави [LIB.GetNameDef]"
+ AFR_petition_LIB_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_NFA:0 "Спорядження з держави [NFA.GetNameDef]"
+ AFR_petition_NFA_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_POR:0 "Спорядження з держави [POR.GetNameDef]"
+ AFR_petition_POR_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_RAJ:0 "Спорядження з держави [RAJ.GetNameDef]"
+ AFR_petition_RAJ_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+ AFR_petition_SAF:0 "Спорядження з держави [SAF.GetNameDef]"
+ AFR_petition_SAF_desc:0 "Не всі необхідні нам боєприпаси можуть бути виготовленні всередині країни. Звернення до нашого благодійника з петицією про надання зброї дуже допоможе нам."
+
+ AFR_military_advisors_BEL:0 "[BEL.GetAdjective]ий нагляд"
+ AFR_military_advisors_BEL_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [BEL.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_BRA:0 "[BRA.GetAdjective]ий нагляд"
+ AFR_military_advisors_BRA_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [BRA.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_CAN:0 "[CAN.GetAdjective]ий нагляд"
+ AFR_military_advisors_CAN_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [CAN.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_EGY:0 "[EGY.GetAdjective]ий нагляд"
+ AFR_military_advisors_EGY_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [EGY.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_ENG:0 "[ENG.GetAdjective]ий нагляд"
+ AFR_military_advisors_ENG_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [ENG.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_FRA:0 "[FRA.GetAdjective]ий нагляд"
+ AFR_military_advisors_FRA_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [FRA.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_GER:0 "[GER.GetAdjective]ий нагляд"
+ AFR_military_advisors_GER_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [GER.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_LIB:0 "[LIB.GetAdjective]ий нагляд"
+ AFR_military_advisors_LIB_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [LIB.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_NFA:0 "[NFA.GetAdjective]ий нагляд"
+ AFR_military_advisors_NFA_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [NFA.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_POR:0 "[POR.GetAdjective]ий нагляд"
+ AFR_military_advisors_POR_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [POR.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_RAJ:0 "[RAJ.GetAdjective]ий нагляд"
+ AFR_military_advisors_RAJ_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [RAJ.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+ AFR_military_advisors_SAF:0 "[SAF.GetAdjective]ий нагляд"
+ AFR_military_advisors_SAF_desc:0 "Наші офіцери можуть сміливо і рішуче боротися за нашу незалежність, але нажаль вони досі недосвідчені. За допомогою держави [SAF.GetNameDef], яка курує наші військові справи, ми зможемо створити сучасну армію і вивчити нову тактику."
+
+ AFR_economy_BEL:0 "Економічна допомога"
+ AFR_economy_BEL_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [BEL.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_BRA:0 "Економічна допомога"
+ AFR_economy_BRA_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [BRA.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_CAN:0 "Економічна допомога"
+ AFR_economy_CAN_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [CAN.GetNameDef] , ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_EGY:0 "Економічна допомога"
+ AFR_economy_EGY_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [EGY.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_ENG:0 "Економічна допомога"
+ AFR_economy_ENG_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [ENG.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_FRA:0 "Економічна допомога"
+ AFR_economy_FRA_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [FRA.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_GER:0 "Економічна допомога"
+ AFR_economy_GER_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [GER.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_LIB:0 "Економічна допомога"
+ AFR_economy_LIB_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [LIB.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_NFA:0 "Економічна допомога"
+ AFR_economy_NFA_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [NFA.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_POR:0 "Економічна допомога"
+ AFR_economy_POR_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [POR.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_RAJ:0 "Економічна допомога"
+ AFR_economy_RAJ_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [RAJ.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+ AFR_economy_SAF:0 "Економічна допомога"
+ AFR_economy_SAF_desc:0 "Завдяки впровадженню іноземних товарів та послуг з держави [SAF.GetNameDef], ми зможемо розвивати нашу економіку набагато швидше."
+
+ AFR_investment_BEL:0 "[BEL.GetAdjective]е диво"
+ AFR_investment_BEL_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_BRA:0 "[BRA.GetAdjective]е диво"
+ AFR_investment_BRA_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_CAN:0 "[CAN.GetAdjective]е диво"
+ AFR_investment_CAN_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] to prosper. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_EGY:0 "[EGY.GetAdjective]е диво"
+ AFR_investment_EGY_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_ENG:0 "[ENG.GetAdjective]е диво"
+ AFR_investment_ENG_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_FRA:0 "[FRA.GetAdjective]е диво"
+ AFR_investment_FRA_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_GER:0 "[GER.GetAdjective]е диво"
+ AFR_investment_GER_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_LIB:0 "[LIB.GetAdjective]е диво"
+ AFR_investment_LIB_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_NFA:0 "[NFA.GetAdjective]е диво"
+ AFR_investment_NFA_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_POR:0 "[POR.GetAdjective]е диво"
+ AFR_investment_POR_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_RAJ:0 "[RAJ.GetAdjective]е диво"
+ AFR_investment_RAJ_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+ AFR_investment_SAF:0 "[SAF.GetAdjective]е диво"
+ AFR_investment_SAF_desc:0 "Незалежно від намірів наших благодійників, які допомагають нашому розвитку, ніхто не може стверджувати, що їхня допомога дозволила державі [ROOT.GetNameDef] процвітати. Ми знаходимося на шляху до економічного дива."
+
+ AFR_join_cairo_pact:0 "Приєднання до Каїрського Пакту"
+ AFR_join_cairo_pact_desc:0 "Єгипетські інвестиції, виявилися життєво важливими для виживання нашої нації. Ми повинні відплатити їм за доброту, приєднавшись до Каїрського Пакту."
+ AFR_join_phalanstere:0 "Приєднання до Фаланстеру"
+ AFR_join_phalanstere_desc:0 "Без наших друзів з Інтернаціоналу наша нація, не досягла б такого процвітання. Через відсутність промислового потенціалу ми навряд чи зможемо повернути їм борги найближчим часом. Однак ми можемо відплатити їм, оформивши наш вступ до Фаланстеру."
+ AFR_join_phalanstere_ENG:0 "Приєднання до Фаланстеру"
+ AFR_join_phalanstere_ENG_desc:0 "Без наших друзів з Інтернаціоналу наша нація, не досягла б такого процвітання. Через відсутність промислового потенціалу ми навряд чи зможемо повернути їм борги найближчим часом. Однак ми можемо відплатити їм, оформивши наш вступ до Фаланстеру."
+ AFR_join_mitteleuropa:0 "Приєднання до Міттельєвропи"
+ AFR_join_mitteleuropa_desc:0 "Без наших німецьких друзів наша країна, не досягла б такого процвітання. Через відсутність промислового потенціалу ми навряд чи зможемо найближчим часом повернути їм борги. Однак ми можемо відплатити їм, оформивши наш вступ до Міттельєвропи."
+ AFR_join_iedc_POR:0 "Приєднання до ІРЕР"
+ AFR_join_iedc_POR_desc:0 "Без наших португальських друзів наша країна, не досягла б такого процвітання. Через відсутність промислового потенціалу ми навряд чи зможемо найближчим часом повернути їм борги. Проте ми можемо відплатити їм, оформивши наш вступ до Імперської Ради Економічного Розвитку."
+ AFR_join_iedc_CAN:0 "Приєднання до ІРЕР"
+ AFR_join_iedc_CAN_desc:0 "Без наших канадських друзів наша країна, не досягла б такого процвітання. Через відсутність промислового потенціалу ми навряд чи зможемо найближчим часом повернути їм борги. Проте ми можемо відплатити їм, оформивши наш вступ до Імперської Ради Економічного Розвитку."
+ AFR_join_iedc_NFA:0 "Приєднання до ІРЕР"
+ AFR_join_iedc_NFA_desc:0 "Без наших французьких друзів наша країна, не досягла б такого процвітання. Через відсутність промислового потенціалу ми навряд чи зможемо найближчим часом повернути їм борги. Проте ми можемо відплатити їм, оформивши наш вступ до Імперської Ради Економічного Розвитку."
+
+### Ideas ###
+ AFR_military_advisors_from_BEL:0 "[BEL.GetAdjective]і військові радники"
+ AFR_military_advisors_from_BRA:0 "[BRA.GetAdjective]і військові радники"
+ AFR_military_advisors_from_CAN:0 "[CAN.GetAdjective]і військові радники"
+ AFR_military_advisors_from_EGY:0 "[EGY.GetAdjective]і військові радники"
+ AFR_military_advisors_from_ENG:0 "[ENG.GetAdjective]і військові радники"
+ AFR_military_advisors_from_FRA:0 "[FRA.GetAdjective]і військові радники"
+ AFR_military_advisors_from_GER:0 "[GER.GetAdjective]і військові радники"
+ AFR_military_advisors_from_LIB:0 "[LIB.GetAdjective]і військові радники"
+ AFR_military_advisors_from_NFA:0 "[NFA.GetAdjective]і військові радники"
+ AFR_military_advisors_from_POR:0 "[POR.GetAdjective]і військові радники"
+ AFR_military_advisors_from_RAJ:0 "[RAJ.GetAdjective]і військові радники"
+ AFR_military_advisors_from_SAF:0 "[SAF.GetAdjective]і військові радники"
+
+ AFR_economic_boost:0 "Швидкий економічний ріст"
+
+### Events ###
+ afr.1.t:0 "Допомога з-за кордону"
+ afr.1.d:0 "Наше положення нестабільне. Колоніальний уряд не підготував нас до незалежності. Ми маємо знайти іноземного благодійника."
+ afr.1.BEL:0 "Звернутися до [BEL.GetNameDef] за допомогою."
+ afr.1.BRA:0 "Звернутися до [BRA.GetNameDef] за допомогою."
+ afr.1.CAN:0 "Звернутися до [CAN.GetNameDef] за допомогою."
+ afr.1.EGY:0 "Звернутися до [EGY.GetNameDef] за допомогою."
+ afr.1.ENG:0 "Звернутися до [ENG.GetNameDef] за допомогою."
+ afr.1.FRA:0 "Звернутися до [FRA.GetNameDef] за допомогою."
+ afr.1.GER:0 "Звернутися до [GER.GetNameDef] за допомогою."
+ afr.1.LIB:0 "Звернутися до [LIB.GetNameDef] за допомогою."
+ afr.1.NFA:0 "Звернутися до [NFA.GetNameDef] за допомогою."
+ afr.1.POR:0 "Звернутися до [POR.GetNameDef] за допомогою."
+ afr.1.RAJ:0 "Звернутися до [RAJ.GetNameDef] за допомогою."
+ afr.1.SAF:0 "Звернутися до [SAF.GetNameDef] за допомогою."
+ afr.1.alone:0 "Ми чудово справляємось самі."
+
+ afr.2.t:0 "[FROM.GetNameDefCap] просить по допомогу"
+ afr.2.d:0 "Держава [FROM.GetNameDef] звернулася до нас із приводу потенційного партнерства. Колоніальне правління Німеччини залишило їх непідготовленими до незалежності і вони прагнуть придбати необхідний капітал, щоб налагодити свою економіку."
+ afr.2.a:0 "Ми надішлемо те, що вони просять."
+ afr.2.b:0 "Вони самі по собі."
+
+ afr.3.t:0 "[FROM.GetNameDefCap] погоджується допомогти"
+ afr.3.d:0 "Держава [FROM.GetNameDefCap] погодилася вступити у партнерство з нами."
+ afr.3.a:0 "Чудово."
+
+ afr.4.t:0 "[FROM.GetNameDefCap] відмовляє у допомозі"
+ afr.4.d:0 "Держава [FROM.GetNameDefCap] відмовилася вступити у партнерство з нами."
+ afr.4.a:0 "Ми впораємося самі!"

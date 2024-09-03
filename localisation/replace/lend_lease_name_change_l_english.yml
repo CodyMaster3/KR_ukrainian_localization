@@ -1,0 +1,97 @@
+﻿l_english:
+
+ lend_lease_string_caps: "Матеріальна допомога"
+ lend_lease_string: "матеріальна допомога"
+
+ #autonomy_l_english
+ MONTHLY_REQUEST_LL_TO_MASTER: "§RЗапит на постачання матеріальної допомоги від суб'єкта збільшить їхню автономію§!"
+ MONTHLY_REQUEST_LL_TO_PUPPET: "§RЗапит на постачання матеріальної допомоги від володаря зменшить нашу автономію§!"
+
+ #core_l_english
+ FUEL_DAILY_GAIN_FROM_LEND_LEASE: "Від $lend_lease_string_caps$: $NUM|H$"
+ FUEL_DAILY_REQUIRED_FROM_LEND_LEASE: " $lend_lease_string_caps$: $NUM|H$"
+
+ #country_l_english
+ ARMY_EXPERIENCE_DESC: "По мірі використання оснащення в бою, Ви отримуєте досвід армії. Це означає, що Ви отримуєте досвід армії, коли Ваші §Hдивізії§! беруть участь у битвах або якщо Ви надсилаєте оснащення своїм союзникам шляхом §Hнадання матеріальної допомоги§!.\nТакож досвід можна отримувати від §Hназемних навчань§! військ, які мають принаймні рівень $UNIT_TRAINING_LEVEL|Y$, а також від певних §Hнаціональних фокусів§!. Деякі §Hміністри§! можуть збільшити розмір отримуваного досвіду.\n\nДосвід армії необхідний для створення та редагування §Hшаблонів дивізій§!."
+ AIR_EXPERIENCE_DESC: "Коли Ваші літаки борються з ворогом, виконуючи місії, або проводять §Hповітряні навчанння§!, Ви отримуєте досвід авіації. Це означає, що Ви отримуєте досвід армії, коли Ваші §Hавіакрила§! беруть участь у битвах або якщо Ви надсилаєте оснащення своїм союзникам шляхом §Hнадання матеріальної допомоги§!.\nПевні §Hнаціональні фокуси§! дають додатковий досвід, а деякі §Hміністри§! можуть збільшити розмір отримуваного досвіду.\n\nДосвід авіації використовується для розробки кращих моделей літаків."
+
+ #deployment_l_english
+ DEPLOYMENT_LEND_LEASE_COUNTRY: "$lend_lease_string_caps$: $COUNTRY$"
+
+ #designer_l_english
+ ALLOW_FOREIGN_EQUIPMENT_TT: "Вимкніть, щоби заборонити все поточне та майбутнє іноземне оснащення, куди входить отримане шляхом надання матеріальної допомоги та захоплене у ворога."
+
+ #diplomacy_l_english
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ прийнята"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\nДержава §Y$COUNTRY|U$§! §Gпогодилася§! на нашу матеріальну допомогу.\n\nНаша матеріальна підтримка допоможе їм у їхніх справах."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "$lend_lease_string_caps$ відхилена"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE: "\nДержава §Y$COUNTRY|U$§! §Rвідмовилася§! від нашої матеріальної допомоги!\n\nВони не отримають нашу матеріальну підтримку."
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Зміни матеріальної допомоги прийняті"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\nДержава §Y$COUNTRY|U$§! §Gпогодилася§! на наші зміни матеріальної допомоги.\n\nНаша продовжувана матеріальна підтримка допоможе їм у їхніх справах."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Зміни матеріальної допомоги відхилені"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\nДержава §Y$COUNTRY|U$§! §Rвідмовилася§! від наших змін матеріальної допомоги!\n\nВони більше не отримуватимуть нашу матеріальну підтримку."
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_TITLE: "Відповідь на запит матеріальної допомоги"
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_HEADER: "Держава $COUNTRY|UH$ відповіла на наш запит про матеріальну допомогу."
+ DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_DESC_SOMETHING: "Матеріальна допомога тепер:"
+ DIPLOMACY_LEND_LEASE_TITLE: "Почати надавати матеріальну допомогу"
+ DIPLOMACY_LEND_LEASE_EXISTING_TITLE: "Змінити матеріальну допомогу"
+ DIPLOMACY_LEND_LEASE_CANCEL_TITLE: "Скасувати матеріальну допомогу"
+ DIPLOMACY_LEND_LEASE_DEAL_DECLINE_POSTFIX: "§RВідхилення§! зупинить будь-яку матеріальну допомогу від держави $ACTOR$"
+ DIPLOMACY_LEND_LEASE_CONVOYS_REQUERD: "Ця матеріальна допомога потребуватиме require $VALUE|H$ конвоїв."
+ DIPLOMACY_LEND_LEASE_REASON_ENEMY: "Ми не можемо надсилати матеріальну допомогу ворогам."
+ DIPLOMACY_LEND_LEASE_REASON_TARGET_AT_WAR: "Щоб надіслати матеріальну допомогу, @$TAG$$WHO|H$ мусить бути в стані війни."
+ DIPLOMACY_LEND_LEASE_REASON_PUPPET: "Ми завжди можемо надсилати матеріальну допомогу нашим маріонеткам."
+ DIPLOMACY_LEND_LEASE_NO_EQUIPMENT_CATEGORY: "У цій категорії нема доступного для надання матеріальної допомоги оснащення"
+ LEND_LEASE_VEHICLES_BUTTON: "§TМатеріальна допомога бронетехнікою§!"
+ LEND_LEASE_INFANTRY_BUTTON: "§TМатеріальна допомога оснащенням піхоти й артилерією§!"
+ LEND_LEASE_AIRCRAFT_BUTTON: "§TМатеріальна допомога літаками§!"
+ LEND_LEASE_NAVAL_BUTTON: "§TМатеріальна допомога конвоями§!"
+ LEND_LEASE_CURRENT_HEADER: "Поточна матеріальної допомоги:"
+ LEND_LEASE_CURRENT_NONE: "Нема поточної матеріальної допомоги"
+ DIPLOMACY_INCOMING_LEND_LEASE_TITLE: "Попросити матеріальну допомогу"
+ DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE: "Змінити вхідну матеріальну допомогу"
+ DIPLOMACY_INCOMING_LEND_LEASE_CANCEL_TITLE: "Скасувати вхідну матеріальну допомогу"
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY: "Ми не можемо просити матеріальну допомогу у наших ворогів."
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR: "Щоб попросити матеріальну допомогу, ми мусимо бути в стані війни."
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET: "Ми завжди можемо просити матеріальну допомогу у нашого володаря."
+ lend_lease_initiator_desc: "$COUNTRY|UY$ надає матеріальну допомогу іншим державам"
+ lend_lease_initiator_extended_desc: "$COUNTRY1|UY$ підтримує державу $COUNTRY2|Y$ шляхом надання матеріальної допомоги"
+ lend_lease_receiver_desc: "$COUNTRY|UY$ отримує допомогу від інших держав шляхом надання матеріальної допомоги"
+ lend_lease_receiver_extended_desc: "$COUNTRY1|UY$ підтримує державу $COUNTRY2|Y$ шляхом надання матеріальної допомоги"
+
+ #game_rules_l_english
+ RULE_ALLOW_LEND_LEASE: "$lend_lease_string_caps$"
+ RULE_ALLOW_LEND_LEASE_FREE_DESC: "Держави можуть постачати озброєння за допомогою надання матеріальної допомоги куди завгодно при будь-якому рівні світової напруженості."
+ RULE_ALLOW_LEND_LEASE_LIMITED_DESC: "Матеріальна допомога обмежена рівнем світової напруженості та правилами ідеології."
+ RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_DESC: "Держави можуть постачати озброєння за допомогою надання матеріальної допомоги лише державам з однаковою правлячою ідеологією."
+ RULE_ALLOW_LEND_LEASE_SAME_FACTION_DESC: "Держави можуть постачати озброєння за допомогою надання матеріальної допомоги лише державам в одному альянсі."
+ RULE_ALLOW_LEND_LEASE_BLOCKED_DESC: "Держави не можуть постачати озброєння за допомогою надання матеріальної допомоги жодній державі."
+
+ #logistics_l_english
+ LOGISTICS_NEED_LEND_LEASE_LOW_VALUE: "$lend_lease_string_caps$: $NEED|^1Y$ од."
+ LOGISTICS_NEED_LEND_LEASE_HIGH_VALUE: "$lend_lease_string_caps$: $NEED|^0Y$ од."
+ LOGISTICS_GAINED_LEND_LEASE: "Від матеріальної допомоги: $GAINED|Y$ од."
+ LOGISTICS_STORAGE_GAINED_LEND_LEASE: "§TВід матеріальної допомоги: $AMOUNT|Y$ од.§!"
+
+ #modifiers_l_english
+ MODIFIER_LEND_LEASE_TENSION_LIMIT: "Ліміт напруженості для надання матеріальної допомоги"
+ MODIFIER_REQUEST_LEASE_TENSION_LIMIT: "Ліміт напруженості для запиту про матеріальну допомогу"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD: "Приріст свободи від надання матеріальної допомоги володареві"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_DESC: "Вплив надісланої володареві матеріальної допомоги на отримання або втрату автономії суб'єкта."
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT: "Приріст свободи суб'єкта від надання матеріальної допомоги від володаря"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC: "Вплив надання матеріальної допомоги від володаря на отримання або втрату автономії суб'єкта."
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR: "Приріст свободи від надання матеріальної допомоги володареві"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC: "Вплив надісланої володареві матеріальної допомоги на отримання або втрату автономії суб'єкта."
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR: "Приріст свободи суб'єкта від надання матеріальної допомоги від володаря"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC: "Вплив надання матеріальної допомоги від володаря на отримання або втрату автономії суб'єкта."
+
+ #topbar_l_english
+ LEND_LEASE_TENSION_DESC: "Потрібно $VAL|%Y0$ напруженості, щоби надіслати матеріальну допомогу.\n"
+
+ #trade_l_english
+ TRADE_ROUTE_CONVOY_LEND_LEASE_IMPORT: "Імпорт матеріальною допомогою із держави $FR|H$ ($CONVOYS|Y$ £convoy_texticon£)"
+ TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT: "Експорт матеріальною допомогою у державу $TO|H$ ($CONVOYS|Y$ £convoy_texticon£)"
+
+ #waroverview_l_english
+ WARSCORE_BREAKDOWN_LENDLEASE_GIVEN: "Надіслана матеріальна допомога: $AMOUNT|Y0$"
+ WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "Отримана матеріальна допомога: §R-$AMOUNT|0$§!"

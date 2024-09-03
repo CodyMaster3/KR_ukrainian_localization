@@ -1,0 +1,311 @@
+﻿l_english:
+
+### Generic Faction Joining ###
+ generic_events.10.t: "Союз з [FROM.GetNonIdeologyNameDef]?"
+ generic_events.10.d: "Міжнародні відносини часто є мінливими, угоди та домовленості швидко змінюються від покоління до покоління. Іноді навіть протягом життя одного покоління пакти підписуються і розриваються через зміну інтересів. Нестабільність, що виникла після "Чорного Понеділка" та інших політичних подій у світі, посилила побоювання багатьох слабких країн, що великі держави, які наносять удари, застануть їх посередині.\n\nВ той час, як дехто вдається до ізоляції або через власні внутрішні негаразди, або сподіваючись, що нейтралітет зробить їх не вартими часу для різних держав, які полюють на них, [FROM.GetNameDefCap] обрала протилежний підхід. Вирішивши всі внутрішні проблеми, люди з [FROM.GetNameDefCap] тепер дивляться назовні, сподіваючись знайти захист, який надають альянси. Ми, можливо, через кращі географічні умови, військову міць або ідеологічну послідовність, є вибором союзника для [ROOT.GetFactionName].\n\nПитання залишається в тому, чи приймемо ми їх? Ще один союзник у нашому пакті означає додаткові ресурси для наших об'єднаних сил, хоча будь-яка додаткова небезпека, яку він додає нашій фракції, є небезпекою, яку ми будемо сприймати як спільну. Необхідно враховувати будь-які конкуруючі претензії, а також розбіжності, які вони можуть викликати між членами фракції. Яким має бути наше рішення?"
+ generic_events.10.a: "Разом ми сильніші!"
+ generic_events.10.b: "Чудова пропозиція, надішліть її до [faction_leader.GetNonIdeologyNameDef]!"
+ generic_events.10.c: "Якщо подумати, то ні..."
+
+ generic_events.11.t: "[FROM.GetNonIdeologyNameDefCap] прийняла!"
+ generic_events.11.d: "Вислухавши наше прохання про вступ до їхнього альянсу, [FROM.GetNameDefCap] прийняв нашу заявку, і тепер ми готові стати членом [FROM.GetFactionName]. Ми сподіваємося, що це підвищить нашу безпеку в ці тривожні часи, оскільки ми прагнемо забезпечити захист нашого народу від зовнішніх сил та іноземного втручання.\n\nОднак це не означає, що ця угода є безкоштовною. На нас покладаються певні сподівання щодо нашого внеску у спільну оборону країн [FROM.GetFactionName], і ми, ймовірно, будемо втягнуті у конфлікти, пов'язані з цим пактом. Це включає в себе можливість бути втягнутими у війни, ініційовані членами цього пакту.\n\nМи йдемо в майбутнє разом, наші долі тепер переплетені як словом, так і силою зброї. Якщо пощастить, ми отримаємо від цієї угоди набагато більше, ніж втратили в автономії."
+ generic_events.11.a: "Чудово!"
+
+ generic_events.12.t: "[FROM.GetNonIdeologyNameDefCap] пропонує союз з [FROM.GetNonIdeologyNameDef]"
+ generic_events.12.d: "FROM звернулася до FROM.FROM з пропозицією домовитися про союз, FROM передав запит лідеру фракції."
+ generic_events.12.a: "Дозволити їм приєднатися."
+ generic_events.12.b: "Вони нам не потрібні."
+
+ generic_events.13.t: "[FROM.GetNonIdeologyNameDefCap] прийняла!"
+ generic_events.13.d: "Лідер фракції прийняв альянс. ROOT - потенційний член, FROM - лідер фракції, FROM.FROM - країна, що веде переговори."
+ generic_events.13.a: "Чудово."
+
+ generic_events.14.t: "[FROM.GetNonIdeologyNameDefCap] прийняла!"
+ generic_events.14.d: "Лідер фракції прийняв альянс. ROOT - країна, що веде переговори, FROM - потенційний член, FROM.FROM - лідер фракції."
+ generic_events.14.a: "Чудово."
+
+ generic_events.15.t: "[FROM.GetNonIdeologyNameDefCap] відмовилася!"
+ generic_events.15.d: "Лідер фракції відмовився від альянсу. ROOT - потенційний член, FROM - лідер фракції, FROM.FROM - країна, що веде переговори."
+ generic_events.15.a: "Це їхня втрата."
+
+ generic_events.16.t: "[FROM.GetNonIdeologyNameDefCap] відмовилася!"
+ generic_events.16.d: "Лідер фракції відмовився від альянсу. ROOT - країна, що веде переговори, FROM - потенційний член, FROM.FROM - лідер фракції."
+ generic_events.16.a: "Що?"
+
+ generic_events.17.t: "[FROM.GetNonIdeologyNameDefCap] відмовилася!"
+ generic_events.17.d: "Незважаючи на наші переконливі заклики про те, що ми можемо бути ефективним учасником і членом їхнього альянсу, на наш жаль, [FROM.GetNameDef] відхилив наш запит на приєднання до [FROM.GetFactionName]. У певному сенсі цього можна було очікувати: альянси часто бувають делікатними і пов'язаними з небезпеками, і при їх створенні слід бути обережними. Проте, ця відмова залишає нас у болючому місці. Або вони не мають наміру захищати нас, або, що більш цинічно, розглядають нас як майбутню мішень на полі бою.\n\nТоді ми повинні поспішати з пошуком дієвих засобів національної безпеки. Незалежно від того, чи це означає пошук іншого альянсу для захисту від вторгнення, чи звернення до кількох фракцій як доброзичливого нейтрального посередника, чи перехід до збройного захисту всередині країни, ми повинні забезпечити безпеку наших людей. Фракція [FROM.GetFactionName] може жалкувати, а може і не жалкувати, що відмовила нам, але важливо, щоб ми не жалкували про такий результат."
+ generic_events.17.a: "Це їхня втрата."
+
+ generic_events.18.t: "Союз з [FROM.GetNonIdeologyNameDef]?"
+ generic_events.18.d: "Міжнародні відносини часто є мінливими, угоди та домовленості швидко змінюються від покоління до покоління. Іноді навіть протягом життя одного покоління пакти підписуються і розриваються через зміну інтересів. Нестабільність, що виникла після "Чорного Понеділка" та інших політичних подій у світі, посилила побоювання багатьох слабких країн, що великі держави, які наносять удари, застануть їх посередині.\n\nПрагнучи переслідувати спільні інтереси, [FROM.GetFactionName] об'єдналися у всеосяжний військовий альянс. Вони прагнули нашого членства, пропонуючи нам потенціал подальшого захисту (як від зовнішніх загроз, так і від самих себе), а в обмін на поглиблення військових та економічних зв'язків ми станемо частиною сильнішого та об'єднаного блоку.\n\nВступ до альянсу, однак, не позбавлений ризику. Ми, ймовірно, будемо втягнуті в будь-які конфлікти, що виникатимуть у зв'язку з цим альянсом, і цілком можливо, що наші внески переважатимуть переваги, які ми отримаємо від членства. Важливо, щоб ми, як нація, ретельно зважили витрати і вигоди від такої угоди."
+ generic_events.18.a: "Разом ми сильніші!"
+ generic_events.18.b: "Якщо подумати, то ні..."
+
+ generic_events.19.t: "[FROM.GetNonIdeologyNameDefCap] прийняла!"
+ generic_events.19.d: "Після деяких роздумів [FROM.GetNameDefCap] прийняв наше запрошення приєднатися до [ROOT.GetFactionName], на що ми дуже сподівалися. Новий член нашого альянсу, як правило, вітається, приносячи додаткову безпеку один для одного і, як мінімум, забезпечуючи мир між членами альянсу. Ми сподіваємося, що їхній внесок у вигляді військових сил, фінансування та дипломатичної ваги сприятиме просуванню спільних інтересів [ROOT.GetFactionName], але попереду нас чекають деякі проблеми.\n\nЩе один союзник у нашому пакті означає додаткові ресурси для наших об'єднаних сил, хоча будь-яка додаткова небезпека, яку він додає для нашої фракції, є небезпекою, яку ми будемо сприймати як спільну. Будь-які конкуруючі претензії повинні бути прийняті до уваги, а також будь-який розбрат, який вони можуть викликати між членами фракції.\n\nНам потрібно буде старанно працювати над тим, щоб ці питання були згладжені і щоб цей альянс працював для всіх (або, принаймні, для нас самих). Однак це не повинно затьмарити дипломатичну перемогу, яку ми сьогодні здобули для всіх наших народів."
+ generic_events.19.a: "Чудово!"
+
+ generic_events.20.t: "[FROM.GetNonIdeologyNameDefCap] відмовилася!"
+ generic_events.20.d: "Після деяких роздумів, на наш жаль, [FROM.GetNameDef] відхилив наше запрошення приєднатися до [ROOT.GetFactionName]. На жаль, це не рідкість, коли йдеться про створення альянсів. Деякі країни побоюються втрати дипломатичної гнучкості, яку може спричинити формальне зобов'язання, сподіваючись уникнути втягування у програшний конфлікт або бажаючи приєднатися до більш підходящого альянсу. Можливо також, що вони мають плани, які є взаємовиключними з нашими цілями, хоча, сподіваємось, не в антагоністичній формі.\n\nЯк би там не було, [FROM.GetNameDef] не створить і не зруйнує наш альянс. Принаймні, так повинно бути, якщо наша фракція хоче мати хоч якусь вагу. Ми так чи інакше досягнемо наших цілей, і якщо їм пощастить, [FROM.GetNameDef] не надто пошкодує про своє погане рішення."
+ generic_events.20.a: "Це їхня втрата."
+
+### Incoming War-ning ###
+ generic_events.30.t: "Готуйтеся до війни!"
+ generic_events.30.d: "Ми отримали численні повідомлення про те, що [From.GetAdjective]і війська наразі накопичують сили, і що через [Root.GetAdjective]ий кордон ведеться активна розвідка. Військові кажуть, що очевидно, що [From.GetNameDef] планує вторгнення в [Root.GetNameDef], яке може розпочатися в будь-який час протягом наступних кількох тижнів."
+ generic_events.30.a: "Ми повинні бути готові!"
+ generic_events.31.d: "Ми отримали тривожну звістку від [From.From.GetNameDef] про те, що [From.From.GetAdjective]і війська наразі накопичують сили, і що через [From.From.GetAdjective]ий кордон ведеться активна розвідка. Військові кажуть, що очевидно, що [From.From.GetNameDef] планує вторгнення в [From.From.GetNameDef], яке може розпочатися в будь-який час протягом наступних кількох тижнів."
+ generic_events.32.d: "Ми отримали повідомлення від наших союзників у [From.GetNameDef], що їхні війська наразі накопичують сили, і що через [attack_target.GetAdjective]ий кордон ведеться велика розвідка. [From.GetNameDef] планує вторгнення в [attack_target.GetNameDef], яке може розпочатися в будь-який час протягом наступних кількох тижнів."
+
+### Returning Cores ###
+ return_cores_to_ally: "Повернути [From.GetAdjective]і землі"
+ return_cores_to_ally_desc: "[Root.GetAdjective]ий уряд обговорює, що робити з [From.GetAdjective]ими землями, які ми зараз займаємо - землями, на які ми не маємо жодних законних прав. Чи повинні ми повернути ці землі нашим [From.GetAdjective]им союзникам?"
+ return_cores_to_subject: "Повернути [From.GetAdjective]і землі"
+ return_cores_to_subject_desc: "[Root.GetAdjective]ий уряд обговорює, що робити з [From.GetAdjective]ими землями, які ми зараз займаємо - землями, на які ми не маємо законних прав. Чи повинні ми повернути ці землі нашим підданим у [From.GetNameDef]?"
+
+ generic_events.75.t: "[From.From.GetAdjective]і землі"
+ generic_events.75.d: "[Root.GetAdjective]ий уряд обговорює, що робити з [return_to.GetAdjective]ими землями, які ми зараз займаємо - землями, на які ми не маємо законних прав. Чи повинні ми повернути їм ці землі?"
+ generic_events.75.a: "Так, повернути їм всі землі."
+ KR_will_return_all: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями або претензіями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include states that are [Root.GetAdjective] §Yclaimed§! or §Ycore§! states."
+ generic_events.75.b: "Так, поверніть їм землю... але збережіть найбільш життєво важливі регіони"
+ KR_will_return_rest: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями або претензіями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include states that are [Root.GetAdjective] §Yclaimed§! or §Ycore§! states, nor will it include §Yvital§! states such as canals."
+ generic_events.75.c: "Повернути їм лише їхні основні землі"
+ KR_will_return_cores: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include [Root.GetAdjective] §Yclaimed§! or §Ycore§! states, nor §Yvital§! states such as canals. Any [return_to.GetAdjective] §Yclaims§! will also be retained."
+ generic_events.75.e: "Ми збережемо все!"
+ KR_will_not_return: "Ми §Rне§! повернемо жодної з їхніх земель, і нас більше не попросять про це."
+
+ generic_events.76.t: "Держава [From.GetNameDefCap] повернула [Root.GetAdjective]і землі"
+ generic_events.76.d: "Наші союзники в [From.GetNameDefCap] повернули нам деякі з наших власних земель!"
+ generic_events.76.a: "Чудово!"
+
+### Ideology ###
+ KR_different_ideology_close: "Інша ідеологія"
+ KR_different_ideology: "Інша ідеологія"
+ KR_similar_ideology_close: "Подібна ідеологія"
+ KR_similar_ideology: "Подібна ідеологія"
+ KR_similar_ideology_distant: "Подібна ідеологія"
+ KR_same_ideology: "Однакова ідеологія"
+ KR_ideology_allowed: "Міністр дозволений для цієї ідеології"
+ KR_factional_rivalry: "Фракційне суперництво"
+ head_of_gov_available: "§RГлави урядів не можуть бути додані або видалені вручну.§! Їх можна змінити лише за допомогою подій, фокусів, рішень тощо.\n\nУ цьому списку представлені всі можливі глави урядів країн, тому люди в ньому можуть мати розбіжності з чинним главою, перебувати в іншій країні або навіть бути мертвими."
+ minister_available: "§RМіністри не можуть бути додані або видалені вручну.§! Їх можна змінити лише за допомогою подій, фокусів, рішень тощо.\n\nЦей список представляє всіх можливих міністрів країни, тому люди в ньому можуть бути в розбіжності з чинним урядом, перебувати в іншій країні або навіть померти."
+ military_staff_available: "Цей військовослужбовець живий і готовий служити державі."
+
+ government_is_loc: "Нинішня правляча партія: "
+ government_is_not_loc: "Нинішня правляча партія не: "
+
+ KR_is_socialist: "$government_is_loc$§Y$totalist$§!, §Y$syndicalist$§! або §Y$radical_socialist$§!"
+ KR_is_socialist_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$syndicalist$§! або §Y$radical_socialist$§!"
+
+ KR_is_elected: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! або §Y$social_conservative$§!"
+ KR_is_elected_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! або §Y$social_conservative$§!"
+
+ KR_is_democratic: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
+ KR_is_democratic_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
+
+ KR_is_authoritarian: "$government_is_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
+ KR_is_authoritarian_NOT: "$government_is_not_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
+
+ KR_is_dictatorship: "$government_is_loc$§Y$paternal_autocrat$§! або §Y$national_populist$§!"
+ KR_is_dictatorship_NOT: "$government_is_not_loc$§Y$paternal_autocrat$§! або §Y$national_populist$§!"
+
+ KR_right_wing_democracy: "$government_is_loc$§Y$market_liberal$§! або §Y$social_conservative$§!"
+ KR_right_wing_democracy_NOT: "$government_is_not_loc$§Y$market_liberal$§! або §Y$social_conservative$§!"
+
+ KR_left_wing_democracy: "$government_is_loc$§Y$social_democrat$§! або §Y$social_liberal$§!"
+ KR_left_wing_democracy_NOT: "$government_is_not_loc$§Y$social_democrat$§! або §Y$social_liberal$§!"
+
+ KR_is_any_authoritarian: "$government_is_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
+ KR_is_any_authoritarian_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
+
+ KR_is_liberal: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§! або §Y$market_liberal$§!"
+ KR_is_liberal_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§! або §Y$market_liberal$§!"
+
+ KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
+ KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
+
+### Party Popularity Tooltips ###
+ popularity_ideology_tooltip: "Ваша нинішня правляча партія: §H[?current_party_ideology_group.GetTokenLocalizedKey]§!"
+ popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
+ party_popularity_delayed_tooltip: "Популярність партії відображає контроль чинного уряду над країною та його підтримку населенням. Політичні партії з високою популярністю більш здатні просувати свій політичний порядок денний і стабілізувати країну."
+
+ party_popularity_tooltip: "§HПопулярність партії§![GetPopularityPPGain]"
+ party_popularity_tooltip_long: "§H\n\nЕфекти від нинішньої популярності нашої партії:§!\nЩоденний приріст політичної влади: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionTotalist][GetCoalitionSyndicalist][GetCoalitionRadicalSocialist][GetCoalitionSocialDemocrat][GetCoalitionSocialLiberal][GetCoalitionMarketLiberal][GetCoalitionSocialConservative][GetCoalitionAuthoritarianDemocrat][GetCoalitionPaternalAutocrat][GetCoalitionNationalPopulist]"
+
+ party_popularity_dynamic_modifier: "Популярність партії"
+ party_popularity_dynamic_modifier_ideology_mapped: "Популярність партії"
+ party_popularity_dynamic_modifier_coalition: "Коаліції"
+
+ party_pop_coalition: "\n\n§HПартнери по коаліції:§!\n"
+ party_pop_coalition_totalist: "- [?token:totalist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_syndicalist: "- [?token:syndicalist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_radical_socialist: "- [?token:radical_socialist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_democrat: "- [?token:social_democrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_liberal: "- [?token:social_liberal.GetTokenLocalizedKey]\n"
+ party_pop_coalition_market_liberal: "- [?token:market_liberal.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_conservative: "- [?token:social_conservative.GetTokenLocalizedKey]\n"
+ party_pop_coalition_authoritarian_democrat: "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_paternal_autocrat: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_national_populist: "- [?token:national_populist.GetTokenLocalizedKey]\n"
+
+ add_to_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! приєднається до коаліції."
+ remove_from_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! вийде з коаліції."
+
+ has_coalition_with_target: "Перебуває в коаліції з §H[?coalition_target.GetTokenLocalizedKey]s§!."
+ has_coalition_with_target_NOT: "Не перебуває в коаліції з §H[?coalition_target.GetTokenLocalizedKey]s§!."
+
+ coalition_stability_tooltip: "Наразі партнери коаліції надають $RIGHT|G%0$ їхньої популярності як додатковий §Hприріст політичної влади§!."
+
+### At War Notice ###
+ has_scripted_peace: "Ми в стані війни"
+ has_scripted_peace_desc: "Країна перебуває у стані війни і сповнена рішучості досягти перемоги - хоча, швидше за все, наш опір трохи крихкіший, ніж здається. (Примітка: це існує для війн, де існує сценарій мирної події, і, швидше за все, ця подія відбудеться задовго до того, як буде досягнута ця підвищена межа капітуляції, просто щоб ви знали.)"
+
+### Demobilisation ###
+ mobilisation_penalty_modifier: "Верхній ліміт дивізій"
+
+ unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
+
+ unit_limit_factory_bonus: "Ліміт дивізії"
+ unit_limit_bonus: "Ліміт дивізії"
+ unit_limit_subject_bonus: "Додатковий ліміт дивізій для володаря"
+
+ unit_limit_label: "§HМаксимально підтримувані дивізії§!\nДивізії: [?max_divisions|H0]\n\nБазове значення: [?base_units|G1]\n   - Від загального населення: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - З підконтрольних регіонів: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nМножник кількості заводів: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nЗа замовчуванням: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
+ unit_limit_desc: "Кожна країна має можливість утримувати лише певну кількість окремих військових підрозділів, перш ніж її економіка та інфраструктура не впораються з їхнім утриманням.\n\nМаксимальна кількість підтримуваних одиниць базується на §Hнаселенні§! та §Hкількості підконтрольних регіонів§!,  а потім множиться на відношення цих значень до §Hкількості заводів§! у регіонах.\n\nУ §Hгромадянських війнах§!, базові значення обчислюються від суми всіх регіонів, якими володіють всі учасники.[above_unit_limit_desc]"
+
+ unit_limit_desc_above_limit: "\n\n--------------\n\n§RНаразі ми перевищили наші можливості, і єдиним способом зменшити навантаження на нашу країну буде виведення деяких наших підрозділів.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+
+ unit_limit_reached_cap_desc: "\n(Обмежено максимум [?300|H0])"
+ unit_limit_noncore_population_desc: "\n   - Від неосновного населення: [?non_core_base|G1]"
+ unit_limit_subject_population_bonus_desc: "\n   - Від населення §HСуб'єкта§!: [?subject_base_units|G1]"
+ unit_limit_subject_state_bonus_desc: "\n   - Від регіонів §HСуб'єкта§!: [?subject_states|G0]"
+ unit_limit_modifier_was_capped_desc: "\n(Обмежено мінімумом [?0.5|H%])"
+ unit_limit_modified_by_desc: "\n\nПодальші зміни:"
+ unit_limit_faction_leader_desc: "\n   - Лідер фракції: §G+15%§!"
+ unit_limit_bonus_used_desc: "\nНаціональні духи: [?modifier@unit_limit_bonus|=+0]"
+
+ unit_limit_low_economic_mobilisation: "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_war_economy: "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+
+### Tooltips ###
+ KR_party_pop_less_than_100: "Менше, ніж §Y100%§! підтримки [Root.GetRulingParty]"
+ is_ally_of_ROOT: "Є союзником [ROOT.GetNameDef]"
+ has_coalition_with: "Перебуває в коаліції з §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
+
+ KR_getting_faction_invite: "Наразі нас запрошують до фракції."
+ KR_getting_faction_invite_NOT: "Наразі нас §Rне§! запрошують до фракції."
+
+### Decisions ###
+ generic_raise_stability: "[generic_raise_stability_text]"
+ generic_raise_stability_desc: "[generic_raise_stability_desc_text]"
+
+ generic_raise_stability_socialist: "Покращення умов праці"
+ generic_raise_stability_socialist_desc: "Робота на заводі важка і пов'язана з багатьма небезпеками. Покращення умов праці наших заводських робітників призведе до скорочення виробництва в короткостроковій перспективі, але довгострокові вигоди того варті."
+
+ generic_raise_stability_liberal: "Законодавчі свободи"
+ generic_raise_stability_liberal_desc: "Можливо, найпростіший спосіб підвищити стабільність у нашій країні - це дати людям те, чого вони хочуть. Це буде пов'язано з деякими незручними компромісами, але в ідеалі це будуть лише тимчасові заходи, покликані заспокоїти людей, поки порядок не буде належним чином відновлений."
+
+ generic_raise_stability_conservative: "Поліцейські репресії"
+ generic_raise_stability_conservative_desc: "Безлад став нестримним. Ми повинні послабити обмеження для наших поліцейських сил і дати їм свободу виконувати свою роботу, заарештовуючи найгірших злочинців."
+
+ generic_raise_stability_authoritarian: "Відправити армію"
+ generic_raise_stability_authoritarian_desc: "Спосіб впоратися з безладом у нашій країні - відправити армію і повністю придушити його. Це не всім сподобається, це правда, але іноді воєнний стан є єдиною альтернативою."
+
+ generic_raise_support: "[generic_raise_support_text]"
+ generic_raise_support_desc: "[generic_raise_support_desc_text]"
+
+ rally_public_support: "Згуртувати громадську підтримку"
+ rally_public_support_desc: "Маючи певну політичну силу та певну промислову підтримку, ми згуртуємо наших прихильників на нашу справу. Хоча це потребуватиме часу та ресурсів, у довгостроковій перспективі це покращить наше політичне становище."
+
+ solidify_control: "Зміцнити контроль"
+ solidify_control_desc: "Тактовне використання політичної влади тут і ресурсів там, і ми усунемо наші політичні перешкоди; можливо, ми не зможемо позбутися всіх з них, але навіть позбувшись деяких, ми розчистимо наш шлях і покращимо нашу політичну силу в довгостроковій перспективі."
+
+ restructure_supply_system: "Реорганізувати залізничну систему"
+ restructure_supply_system_desc: "Перенаправляючи будівельні матеріали та залізничників, ми можемо швидко створити невелику кількість тимчасових звалищ уздовж деяких наших залізниць. Однак це не є стійким.\n\n§RТаке рішення можна прийняти лише один раз. Бонус зникне, якщо ви побудуєте більше 3 додаткових центрів постачання.§!"
+
+ debug_decisions: "Рішення для налагодження"
+ turn_off_plpc_debug: "Вимкнути конференції під керівництвом гравця"
+ turn_off_plpc_debug_desc: "Це тимчасово вимкне мирні конференції під керівництвом гравців - це означає, що мирні конференції відбуватимуться у звичайному режимі, а країни ШІ не вибуватимуть з них, якщо в них бере участь гравець."
+ turn_on_plpc_debug: "Увімкнути конференції під керівництвом гравця"
+ turn_on_plpc_debug_desc: "Це відновить нормальну функціональність мирних конференцій під керівництвом гравців. Країни зі штучним інтелектом завжди вибуватимуть з мирних конференцій, якщо гравець бере в них участь на боці переможця."
+ KR_player_leads_conferences: "Правило гри §YПершість гравця§! для мирних конференцій активно і §Gувімкнено§!\n"
+ KR_plpc_disable_tt: "Правило гри §YПершість гравця§! буде тимчасово §Rвідключено§!\n"
+ KR_plpc_enable_tt: "Правило гри §YПершість гравця§! знову буде §Gувімкнено§!\n"
+ KR_plpc_turned_off: "Правило гри §YПершість гравця§! для мирних конференцій активно, але в даний час §Rвідключено§!\n"
+ stt_highlight_states: "Позначені регіони"
+
+##################
+### Ideologies ###
+##################
+
+### Names ###
+ totalist: "Тоталізм"
+ syndicalist: "Синдикалізм"
+ radical_socialist: "Радикальний соціалізм"
+ social_democrat: "Соціал-демократизм"
+ social_liberal: "Соціал-лібералізм"
+ market_liberal: "Ринковий лібералізм"
+ social_conservative: "Соціал-консерватизм"
+ authoritarian_democrat: "Авторитарна демократія"
+ paternal_autocrat: "Патерналізм"
+ national_populist: "Націонал-популізм"
+
+### Nouns ###
+ totalist_noun: "Тоталісти"
+ syndicalist_noun: "Синдикалісти"
+ radical_socialist_noun: "RРадикальні соціалісти"
+ social_democrat_noun: "Соціал-демократи"
+ social_liberal_noun: "Соціал-ліберали"
+ market_liberal_noun: "Ліберали-риночники"
+ social_conservative_noun: "Соціал-консерватори"
+ authoritarian_democrat_noun: "Авторитарні демократи"
+ paternal_autocrat_noun: "Патерналісти"
+ national_populist_noun: "Націонал-популісти"
+
+### Ideology Grouping ###
+ kr_government_grouping: "Ідеологічна група"
+ totalist_desc: "Соціалістична"
+ syndicalist_desc: "Соціалістична"
+ radical_socialist_desc: "Соціалістична"
+ social_democrat_desc: "Ліберальна"
+ social_liberal_desc: "Ліберальна"
+ market_liberal_desc: "Ліберальна"
+ social_conservative_desc: "Консервативна"
+ authoritarian_democrat_desc: "Консервативна"
+ paternal_autocrat_desc: "Реакціонерна"
+ national_populist_desc: "Реакціонерна"
+
+### Subtype Descriptions ###
+ totalist_subtype_desc: "Термін "тоталізм" походить від Тоталістичної Хартії - угоди про співпрацю між Освальдом Мослі, Жоржем Валуа та Беніто Муссоліні, в якій були викладені основні принципи ідеології. Тоталісти відмовляються від федеративного елементу синдикалістської державної організації, стверджуючи, що до досягнення світової революції революційні держави повинні бути централізованими і мілітаризованими для боротьби з рештою капіталістичних держав. Ступінь трансформації суспільства тоталістичними режимами є значно більшим, часто доходить до тоталітарного контролю над суспільством і побудови культу особи. Термін "тоталітаризм" також часто використовується для опису лівих держав, які не належать до хартійного тоталітаризму, але, тим не менш, демонструють такі риси, як мілітаризація, централізація і тоталітарна трансформація суспільства."
+ syndicalist_subtype_desc: "Синдикалізм є провідною лівою революційною ідеологією, чий злет до світової популярності почався з Французької революції 1919 року. Хоча синдикалізм поділяється на різні течії, деякі з яких зазнали впливу інших ідеологій, таких як марксизм та анархізм, ортодоксальний синдикалізм базується на працях лідерів Генеральної конфедерації робітничого руху (ГКРР), кодифікованих в Ам'єнській хартії 1906 року, і вважає своїми попередниками Михайла Бакуніна та П'єра-Жозефа Прудона. Синдикалізм визначається поняттями революційної спонтанності та прямої дії - вірою в те, що самі робітники, організовані в профспілки, повинні боротися з капіталізмом, а не покладатися на зовнішніх агентів, таких як політичні партії. Трансформація капіталістичного суспільства в синдикалістське має відбутися через загальний страйк - загальнонаціональну відмову від капіталізму і передачу всіх засобів виробництва профспілкам. Синдикалістські держави є децентралізованими та федеративними, всі галузі промисловості об'єднані в синдикати, трудові ради, обрані від цих профспілок, керують місцевим самоврядуванням, а центральна влада належить національному конгресу представників профспілок. Однак ступінь реалізації цих принципів у різних країнах різниться."
+ radical_socialist_subtype_desc: "Радикальний соціалізм - це загальна назва для різних соціалістичних, комуністичних та анархістських ідеологій, які безпосередньо не пов'язані з синдикалізмом. Країни з такою ідеологією працюють з соціалістичною економікою, що зазвичай супроводжується певною виборною формою правління; їхньою кінцевою метою є створення раю для робітничого класу, деталі якого варіюються від руху до руху."
+ social_democrat_subtype_desc: "Соціал-демократія - це ідеологія, метою якої є реформування та гуманізація капіталізму шляхом приведення його у відповідність до етичних ідеалів соціального добробуту при збереженні капіталістичного способу виробництва, а не створення альтернативної соціалістичної економічної системи. Зазвичай просуваючи плюралістичну форму правління і жорстко регульовану ринкову економіку, існують і більш радикальні течії."
+ social_liberal_subtype_desc: "Соціальний лібералізм - це різновид ринкового лібералізму, головна відмінність якого полягає у включенні різних громадянських свобод до основних прав людини. Сповідуючи прогресивну соціальну та економічну політику, соціал-ліберали прагнуть створити суспільство, в якому кожна людина, незалежно від її статусу, може вільно жити власним життям з повними можливостями."
+ market_liberal_subtype_desc: "Ринкові ліберали вважають себе основною ліберальною ідеологією. Основними принципами ринкового лібералізму є нерегульований вільний ринок і демократична плюралістична політична система. Ринкові ліберали вважають, що чим вільніший ринок, тим вільніші люди, і вони будуть рішуче захищати політичні та економічні права особистості."
+ social_conservative_subtype_desc: "Консерватизм - це політична ідеологія, орієнтована на збереження традиційних вірувань, поглядів і філософії, а також традиційної динаміки влади в суспільстві при використанні демократичної системи. Виступаючи як проти радикальних, так і проти поміркованих змін статус-кво, консерватори прагнуть зберегти суспільство впорядкованим і стабільним. Зазвичай вони виступають за регульовану ринкову економіку, але не є винятком і більш ліберальна економічна політика."
+ authoritarian_democrat_subtype_desc: "Авторитарна демократія - це ідеологія, яка поєднує сильну виконавчу владу з представницьким парламентом і частково демократичною політичною системою. Авторитарні демократичні режими часто займають консервативну позицію щодо соціальних питань і сприяють ліберально-капіталістичній економіці з обмеженим втручанням держави. Ці режими мають на меті підтримувати національну стабільність і надавати народу одночасно популярний і відповідальний уряд."
+ paternal_autocrat_subtype_desc: "Патерналізм не є політичною ідеологією у звичайному розумінні цього слова, а скоріше загальним терміном для позначення ставлення цих урядів до своїх громадян: Весь народ є підданими лідера, монарха чи диктатора, і завданням і обов'язком лідера є вести державу і суспільство праведним і найкращим шляхом, об'єднуючи народ під своєю доброзичливою опікою. Ці країни зазвичай мають дуже авторитарну владу, консервативні суспільні погляди і контрольовану державою економіку."
+ national_populist_subtype_desc: "Охоплюючи різноманітні ультранаціоналістичні та мілітаристські рухи, націонал-популізм, як правило, прославляє відданість державі, об'єднання народу під владою сильного лідера та корпоративну економіку. Часто підтримуючи расову політику та насильницьку риторику, націонал-популізм рішуче виступає проти більшості інших політичних партій."
+
+### Drift ###
+ totalist_drift: "Щоденна підтримка тоталізму"
+ syndicalist_drift: "Щоденна підтримка синдикалізму"
+ radical_socialist_drift: "Щоденна підтримка радикального соціалізму"
+ social_democrat_drift: "Щоденна підтримка соціал-демократизму"
+ social_liberal_drift: "Щоденна підтримка соціал-лібералізму"
+ market_liberal_drift: "Щоденна підтримка ринкового лібералізму"
+ social_conservative_drift: "Щоденна підтримка соціал-консерватизму"
+ authoritarian_democrat_drift: "Щоденна підтримка авторитарної демократії"
+ paternal_autocrat_drift: "Щоденна підтримка патерналізму"
+ national_populist_drift: "Щоденна підтримка націонал-популізму"
+
+ totalist_acceptance: "Прийняття тоталістичної дипломатії"
+ syndicalist_acceptance: "Прийняття синдикалістської дипломатії"
+ radical_socialist_acceptance: "Прийняття радикально-соціалістичної дипломатії"
+ social_democrat_acceptance: "Прийняття соціал-демократичної дипломатії"
+ social_liberal_acceptance: "Прийняття соціально-ліберальної дипломатії"
+ market_liberal_acceptance: "Прийняття ринково-ліберальної дипломатії"
+ social_conservative_acceptance: "Прийняття соціально-консервативної дипломатії"
+ authoritarian_democrat_acceptance: "Прийняття дипломатії авторитарних демократів"
+ paternal_autocrat_acceptance: "Прийняття дипломатії патерналістів"
+ national_populist_acceptance: "Прийняття націонал-популістської дипломатії"

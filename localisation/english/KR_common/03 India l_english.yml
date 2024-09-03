@@ -1,0 +1,96 @@
+﻿l_english:
+ 
+ ASM:0 "Ассам"
+ ASM_ADJ:0 "Ассамськ"
+ ASM_DEF:0 "Ассам"
+ 
+ BNG:0 "Бенгалія"
+ BNG_ADJ:0 "Бенгальськ"
+ BNG_DEF:0 "Бенгалія"
+ 
+ BOM:0 "Махараштра"
+ BOM_ADJ:0 "Махараштрськ"
+ BOM_DEF:0 "Махараштра"
+ 
+ GUJ:0 "Гуджарат"
+ GUJ_ADJ:0 "Гуджаратськ"
+ GUJ_DEF:0 "Гуджарат"
+ 
+ HYD:0 "Хайдарабад"
+ HYD_ADJ:0 "Хайдарабадськ"
+ HYD_DEF:0 "Хайдарабад"
+ 
+ INR:0 "Бхаратійські повстанці"
+ INR_ADJ:0 "Бхаратійськ"
+ INR_DEF:0 "Бхаратійські повстанці"
+ 
+ KAS:0 "Кашмір"
+ KAS_ADJ:0 "Кашмірськ"
+ KAS_DEF:0 "Кашмір"
+ 
+ MYS:0 "Майсур"
+ MYS_ADJ:0 "Майсурськ"
+ MYS_DEF:0 "Майсур"
+ 
+ ORI:0 "Орісса"
+ ORI_ADJ:0 "Оріськ"
+ ORI_DEF:0 "Орісса"
+ 
+ PAK:0 "Пакистан"
+ PAK_ADJ:0 "Пакистанськ"
+ PAK_DEF:0 "Пакистан"
+ 
+ PAK_punjab:0 "Пенджаб"
+ PAK_punjab_ADJ:0 "Пенджабськ"
+ PAK_punjab_DEF:0 "Пенджаб"
+ 
+ PJB:0 "Халистан"
+ PJB_ADJ:0 "Халистанськ"
+ PJB_DEF:0 "Халистан"
+ 
+ RJS:0 "Раджастан "
+ RJS_ADJ:0 "Раджастанськ"
+ RJS_DEF:0 "Раджастан "
+ 
+ TRV:0 "Траванкор"
+ TRV_ADJ:0 "Траванкорськ"
+ TRV_DEF:0 "Траванкор"
+ 
+ HIN:0 "Індостан"
+ HIN_ADJ:0 "Індостанськ"
+ HIN_DEF:0 "Індостан"
+ 
+### World Tension ###
+ indian_wars_threat:0 "Війна за об'єднання Індії"
+
+### Characters ###
+ BNG_muzaffar_ahmad: "Muzaffar Ahmad"
+
+ GUJ_bahman_pestonji_wadia: "Bahman Pestonji Wadia"
+ GUJ_sayajirao_gaekwad_iii: "Sayajirao Gaekwad III"
+
+ HYD_osman_ali_khan: "Osman Ali Khan"
+ HYD_madapati_hanumantha_rao: "Madapati Hanumantha Rao"
+ HYD_syed_ahmed_el_edroos: "Syed Ahmed El-Edroos"
+ HYD_azam_jah: "Azam Jah"
+ HYD_kasim_razvi: "Kasim Razvi"
+
+ PAK_aga_khan_iii: "Aga Khan III"
+ PAK_liaquat_ali_khan: "Liaquat Ali Khan"
+ PAK_allama_mashriqi: "Allama Mashriqi"
+ PAK_akbar_khan: "Akbar Khan"
+ PAK_abul_ala_maududi: "Abul A'la Maududi"
+
+ PAK_ali_haidar: "Ali Haidar"
+ PAK_mahmood_khan_durrani: "Mahmood Khan Durrani"
+ PAK_shah_nawaz_khan: "Shah Nawaz Khan"
+
+ PJB_tara_singh: "Tara Singh"
+
+ RJS_sawai_man_singh_ii: "Sawai Man Singh II"
+
+ TRV_chithira_thirunal_balarama_varma: "Chithira Thirunal Balarama Varma"
+ TRV_chandrasekharan_nair: "Chandrasekharan Nair"
+ 
+ ### Tooltips ###
+ india_will_seize_ceylon_if_germany_at_war:0 "Цейлон буде захоплено, якщо це рішення буде прийнято в той час, коли Німеччина буде залучена до великої війни."

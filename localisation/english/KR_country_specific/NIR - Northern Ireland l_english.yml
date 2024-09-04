@@ -1,0 +1,57 @@
+﻿l_english:
+
+### Parties ###
+ NIR_totalist_party: "КЗРПІ"
+ NIR_totalist_party_long: "Комітет звільнення робітників Північної Ірландії"
+ NIR_syndicalist_party: "КЗРПІ"
+ NIR_syndicalist_party_long: "Комітет звільнення робітників Північної Ірландії"
+ NIR_radical_socialist_party: "КЗРПІ"
+ NIR_radical_socialist_party_long: "Комітет звільнення робітників Північної Ірландії"
+ NIR_social_democrat_party: "ЛППІ"
+ NIR_social_democrat_party_long: "Лейбористська партія Північної Ірландії"
+ NIR_social_liberal_party: "ЛПО-Л"
+ NIR_social_liberal_party_long: "Ліберальна партія Ольстера - Ліві"
+ NIR_market_liberal_party: "ЛПО-Ц"
+ NIR_market_liberal_party_long: "Ліберальна партія Ольстера - Центр"
+ NIR_social_conservative_party: "ЛПО"
+ NIR_social_conservative_party_long: "Лоялістська партія Ольстера"
+ NIR_authoritarian_democrat_party: "ДО"
+ NIR_authoritarian_democrat_party_long: "Добровольці Ольстера"
+ NIR_paternal_autocrat_party: "КОВО"
+ NIR_paternal_autocrat_party_long: "Комітет з оборони та відновлення Ольстера"
+ NIR_national_populist_party: "ПЛО"
+ NIR_national_populist_party_long: "Протестантська ліга Ольстера"
+
+### Ideas ###
+ NIR_NO_SURRENDER: "Не здаватися!"
+ NIR_NO_SURRENDER_desc: "Натхненні своєю лоялістською справою, протестанти Ольстера заприсяглися боротися і померти за свою свободу, хоч би чого їм це коштувало."
+ NIR_WEAKENED: "Ослаблені ірландськими репресіями"
+ NIR_WEAKENED_desc: "Кампанія безжальних ірландських репресій послабила Ольстерський рух зсередини ще до початку громадянської війни, завдавши шкоди керівництву Ольстерських добровольців і проникнувши в наші збройні сили для поширення дезінформації та порушення нашої тактики."
+ NIR_CATHOLICS: "Ольстерські католики"
+ NIR_CATHOLICS_desc: "Католики Ольстера, що становлять значну меншість населення, лояльні до Ірландської Республіки і не хочуть мати нічого спільного з державою Ольстер, яку вони розглядають як сектантську, явно засновану як протестантську державу для протестантського народу."
+
+### Country Names ###
+ NIR: "Північна Ірландія"
+ NIR_ADJ: "Північноірландськ"
+ NIR_DEF: "Північна Ірландія"
+
+### Characters ###
+ NIR_basil_brooke: "Basil Brooke"
+ NIR_wilfred_spender: "Wilfred Spender"
+ NIR_irish_workers_committee: "North of Ireland Workers Liberation Committee"
+ NIR_harry_midgley: "Harry Midgley"
+ NIR_denis_england: "Denis England"
+ NIR_dorothy_harnett: "Dorothy Harnett"
+
+ NIR_j_m_andrews: "J.M. Andrews"
+ NIR_brian_maginess: "Brian Maginess"
+ NIR_clarence_graham: "Clarence Graham"
+ NIR_tommy_henderson: "Tommy Henderson"
+ NIR_william_grant: "William Grant"
+ NIR_james_mccormick: "James Hanna MacCormick"
+ NIR_george_robinson: "George Robinson"
+ NIR_duncan_james_shaw: "Duncan James Shaw"
+ NIR_harry_lauder: "Harry Lauder"
+ NIR_cecil_longstreet: "Cecil Longstreet"
+ NIR_donald_harbridge: "Donald Harbridge"
+ NIR_war_council: "Ulster War Council"

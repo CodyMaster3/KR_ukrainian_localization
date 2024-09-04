@@ -1,0 +1,38 @@
+﻿l_english:
+
+### Parties ###
+ SEN_totalist_party: "ПАД"
+ SEN_totalist_party_long: "Партія Анд-Джов"
+ SEN_syndicalist_party: "ГСТС"
+ SEN_syndicalist_party_long: "Генеральний союз трудящих Сенегалу"
+ SEN_radical_socialist_party: "СПС"
+ SEN_radical_socialist_party_long: "Соціалістична партія Сенегалу"
+ SEN_social_democrat_party: "ПНС"
+ SEN_social_democrat_party_long: "Партія негритудів Сенегалу"
+ SEN_social_liberal_party: "ДПС"
+ SEN_social_liberal_party_long: "Демократична партія Сенагалу"
+ SEN_market_liberal_party: "Яакаар"
+ SEN_market_liberal_party_long: "Союз за республіку"
+ SEN_social_conservative_party: "Е"
+ SEN_social_conservative_party_long: "Еволуес"
+ SEN_authoritarian_democrat_party: "К"
+ SEN_authoritarian_democrat_party_long: "Кастомаристи"
+ SEN_paternal_autocrat_party: "СР-А"
+ SEN_paternal_autocrat_party_long: "Серерські рестовратори - Автократія"
+ SEN_national_populist_party: "СР-Н"
+ SEN_national_populist_party_long: "Серерські рестовратори - Нац. популісти"
+
+### Characters ###
+ SEN_lamine_gueye: "Lamine Gueye"
+
+ SEN_blaise_diagne: "Blaise Diagne"
+ SEN_blaise_diagne_leader_desc: ""
+
+ SEN_leopold_sendar_senghor: "Léopold Sédar Senghor"
+ SEN_leopold_sendar_senghor_leader_desc: ""
+
+ SEN_ngalandou_diouf: "Ngalandou Diouf"
+ SEN_ngalandou_diouf_leader_desc: ""
+
+ SEN_abdoulaye_ndiaye: "Abdoulaye N'Diaye"
+ SEN_abdoulaye_ndiaye_commander_desc: ""

@@ -1,0 +1,151 @@
+﻿l_english:
+
+ goyaz_focus: "Фокуси Гоязу"
+
+### Parties ###
+ GOY_social_democrat_party: "СДП"
+ GOY_social_democrat_party_long: "Соціал-демократична партія"
+ GOY_social_conservative_party: "РПГ"
+ GOY_social_conservative_party_long: "Республіканська партія Гоязу"
+ GOY_authoritarian_democrat_party: "ППП"
+ GOY_authoritarian_democrat_party_long: "Прогресивна парламентська партія"
+ GOY_paternal_autocrat_party: "ЦП"
+ GOY_paternal_autocrat_party_long: "Центристська партія"
+ GOY_national_populist_party: "ЛГ"
+ GOY_national_populist_party_long: "Ліга Гойя"
+ GOY_social_liberal_party: "ПРП"
+ GOY_social_liberal_party_long: "Позитивістська республіканська партія"
+ GOY_market_liberal_party: "ЛП"
+ GOY_market_liberal_party_long: "Ліберальна партія"
+ GOY_radical_socialist_party: "ФАГ"
+ GOY_radical_socialist_party_long: "Федерація анархістів Гоязу"
+ GOY_syndicalist_party: "КПГ"
+ GOY_syndicalist_party_long: "Конфедерація праці Гоязу"
+ GOY_totalist_party: "МПГ"
+ GOY_totalist_party_long: "Максимістська партія Гоязу"
+
+### Characters ###
+ GOY_heitor_ferreira_lima: "Heitor Ferreira Lima"
+ GOY_heitor_ferreira_lima_leader_desc: ""
+
+ GOY_joao_ponce_de_arruda: "João Ponce de Arruda"
+ GOY_joao_ponce_de_arruda_leader_desc: ""
+
+ GOY_dom_francisco_de_aquino_correia: "Dom Francisco de Aquino Correia"
+ GOY_dom_francisco_de_aquino_correia_leader_desc: ""
+
+ GOY_ramiro_noronha: "Ramiro Noronha"
+ GOY_ramiro_noronha_leader_desc: ""
+
+ GOY_leonidas_de_antero_matos: "Leonidas de Antero Matos"
+ GOY_leonidas_de_antero_matos_leader_desc: ""
+
+ GOY_jari_gomes: "Jari Gomes"
+ GOY_jari_gomes_leader_desc: ""
+
+### Ideas ###
+ GOY_rebilsing: "Новий режим"
+ GOY_repuilt: "Функціональне адміністрування"
+ GOYnoforeignfarmer: "Захоплені іноземні ферми"
+ GOYnoforeignfarmer_desc: ""
+ GOY_nasceumanacao_idea: "Відважна оборона"
+
+### National Focuses ###
+ GOY_levantai: "Levantai!"
+ GOY_levantai_desc: "Ми заслужили свою свободу, і ми ніколи її більше не віддамо!"
+
+ GOY_rebuildgovernment: "Перезавантаження уряду"
+ GOY_rebuildgovernment_desc: "Відбудова держави після десятиліть окупації - складне завдання, яке потребує нашої негайної уваги."
+
+ GOY_rid_of_imperialism: "Децентралізація уряду"
+ GOY_rid_of_imperialism_desc: "Наш уряд зараз все ще нагадує багатьом уряд Бразилії; ми повинні це змінити."
+
+ GOY_reorganisedjustice: "Реорганізація системи правосуддя"
+ GOY_reorganisedjustice_desc: "Відновлена конституція була введена в дію, для більшого блага нашої нації."
+
+ GOY_greatpublicworks: "Великі громадські роботи"
+ GOY_greatpublicworks_desc: "Багато наших найбільших міст були залишені гнити під час паулістської окупації. Ще одна річ, яка не станеться у вільному Гоязі."
+
+ GOY_thelayoftheland: "Рельєф землі"
+ GOY_thelayoftheland_desc: "Буде розпочато детальне обстеження землі та великі інфраструктурні роботи, щоб забезпечити процвітання нашої відродженої нації."
+
+ GOY_statefinishrebuilding: "Завершення відбудови держави"
+ GOY_statefinishrebuilding_desc: "Тепер люди розуміють, що ми на їхньому боці, а уряд функціонує належним чином. Goyaz vive!"
+
+ GOY_deporttheinvaders: "Арешт іноземних активів"
+ GOY_deporttheinvaders_desc: "Паулістичні крадії землі не мають права тут перебувати. Все, що може змінити цю ситуацію, - це підписання указу..."
+
+ GOY_milfacadm: "Масштабна програма переозброєння"
+ GOY_milfacadm_desc: "Наша нова нація повинна відбудувати свою армію, якщо вона хоче пережити ці неспокійні часи."
+
+ GOY_expelbrfarmers: "Захоплення іноземних ферм"
+ GOY_expelbrfarmers_desc: "Багато паулістів хотіли скористатися окупацією і вкрасти землі у наших фермерів, навіть якщо вони крадуть те, що належить нам, нехай навіть заочно. Ми більше не дозволимо цьому статися."
+
+ GOY_seizebrubran: "Конфіскація майна Паулістів"
+ GOY_seizebrubran_desc: "Бразильські приватні особи та компанії все ще впливають на нашу економіку та нашу долю. Ми не можемо дозволити цьому тривати!"
+
+ GOY_industrialinvestments: "Розвиток промисловості"
+ GOY_industrialinvestments_desc: "Протягом багатьох років наші підприємства страждали від важкого оподаткування, насильства та підпалів з боку окупантів-паулістів. Нам знадобляться сконцентровані зусилля, щоб відновити нашу промисловість."
+
+ GOY_industrialinvestments2: "Покращення розвитку промисловості"
+ GOY_industrialinvestments2_desc: "Тепер, коли наша промисловість відновилася, ми повинні розвивати її до ще більших висот!"
+
+ GOY_wartimeindustry: "Адаптація промисловості до війни"
+ GOY_wartimeindustry_desc: "Ми будемо захищати нашу свободу і незалежність за будь-яку ціну, навіть якщо це означатиме інвестиції у військову промисловість. Гоязи повинні бути в безпеці!"
+
+ GOY_airbaseexpansion: "Розширення авіабаз"
+ GOY_airbaseexpansion_desc: "Розширюймо наші аеродроми, щоб ними могли користуватися як наші ВПС, так і ВПС наших союзників."
+
+ GOY_fortify_goias: "Зміцнення Гоязу"
+ GOY_fortify_goias_desc: "Наша столиця ніколи не впаде перед іноземними загарбниками завдяки довгій і складній системі окопів, мінних загороджень, бункерів і постійного гарнізону."
+
+ GOY_militaryfactories: "Фокус на військовому виробництві"
+ GOY_militaryfactories_desc: "Військовим потрібна не лише наша підтримка, їм потрібна наша промисловість! Консерви, гранати, зброя, вантажівки - кожна дрібниця допомагає нашим молодим військовим."
+
+ GOY_newbornrethoric: "Відродження національної риторики"
+ GOY_newbornrethoric_desc: "Епічні дослідники величезної нової землі, які принесли цивілізацію в далекі куточки світу. Величний народ гоязів має в своїй крові спадщину першопрохідців і самої цивілізації."
+
+ GOY_natiobuilding: "Націєтворення"
+ GOY_natiobuilding_desc: "І молоді, і старі повинні знати, що ми тут не тільки для того, щоб захистити гоязів, але й кожного з них від тих, хто ненавидить нас і все, за що ми боремося."
+
+ GOY_patriot: "Патріотичний дух"
+ GOY_patriot_desc: "Виховувати патріотизм у пересічних громадян непросто, але необхідно, якщо ми хочемо бути не просто плямою на карті, а знову славною республікою."
+
+ GOY_nasceumanacao: "Nasce Uma Nação"
+ GOY_nasceumanacao_desc: "Тих, хто боровся за наш народ, навіть всупереч неймовірним труднощам; тих, хто боровся проти паулістської окупації; тих, хто у вигнанні допомагав нам повернути нашу свободу. Захисники Чако будуть вічно вшановані за їхні подвиги та жертви."
+
+ GOY_armyofgoyaz: "Армія Гоязу"
+ GOY_armyofgoyaz_desc: "Гояз буде захищатися до останньої людини, якщо буде потрібно, і ми будемо пильними, щоб уникнути зради паулістів."
+
+ GOY_officerrenewal: "Новий офіцерський корпус"
+ GOY_officerrenewal_desc: "Наші офіцери розбіглися після початку окупації, багато хто виїхав в еміграцію, інші створили партизанські загони. Ми повинні відновити боєздатність нашої армії, і тому ми докладемо зусиль, щоб їх розшукати і запросити назад."
+
+ GOY_weaponseffort: "Ліцензії на піхотне спорядження"
+ GOY_weaponseffort_desc: "Наразі в Гоязі є виробники, які мають достатню кваліфікацію, щоб зробити необхідне нам обладнання для підмітання. І для цього ми будемо звертатися до іноземців, купувати ліцензії та креслення."
+
+ GOY_arty: "Оновлення артилерії"
+ GOY_arty_desc: "Тих кількох артилерійських установок, що залишилися у окупантів, недостатньо для належного оснащення армії. Ми повинні діяти швидко, щоб виправити це, нашим людям на місцях потрібна вогнева міць!"
+
+ GOY_modernwarmachines: "Сучасні бойові машини"
+ GOY_modernwarmachines_desc: "Ми гарантуємо, що наші бронетанкові та мобільні сили зможуть конкурувати в цій мінливій епосі війни."
+
+ GOY_wewerentexpectingspecialforces: "Спецпризначенці республіки"
+ GOY_wewerentexpectingspecialforces_desc: "Ми матимемо спеціально підготовлених спецпризначенців, готових захищати свою країну, коли виникне така потреба."
+
+ GOY_legacyofthedefenders: "Спадщина першопрохідців"
+ GOY_legacyofthedefenders_desc: "Страйк о нульовій годині\nМаючи переважну вогневу міць\nЇх підживлює страх в очах ворогів\nЦе інфільтрація ударного загону..."
+
+ GOY_aircraft: "Поновлення авіаційних інвестицій"
+ GOY_aircraft_desc: "Наші військово-повітряні сили були в усіх відношеннях розформовані ще до того, як вони злетіли в повітря. Ми повинні інвестувати в нові літаки і персонал, якщо хочемо зберегти небо над Чако безпечним."
+
+ GOY_bombs: "Бомбардувальні ескадрильї"
+ GOY_bombs_desc: "Наша перевага в повітрі не матиме сенсу, якщо ми не зможемо обрушити на ворога дощ вогню та покарання!"
+
+### Country Names ###
+ GOY: "Гояз"
+ GOY_ADJ: "Гоязьк"
+ GOY_DEF: "Гояз"
+
+ GOY_REB: "Республіканська Армія Бразилії"
+ GOY_REB_ADJ: "Республіканськ"
+ GOY_REB_DEF: "Республіканська Армія Бразилії"

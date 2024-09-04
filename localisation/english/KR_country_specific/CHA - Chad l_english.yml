@@ -1,0 +1,27 @@
+﻿l_english:
+
+# Parties
+ CHA_totalist_party_long: "Чадські соціалісти"
+ CHA_totalist_party: "ЧС"
+ CHA_syndicalist_party_long: "Чадські соціалісти"
+ CHA_syndicalist_party: "ЧС"
+ CHA_radical_socialist_party_long: "Чадські соціалісти"
+ CHA_radical_socialist_party: "ЧС"
+ CHA_social_democrat_party_long: "Чадська прогресивна партія"
+  #Bechir Sow
+ CHA_social_democrat_party: "ЧПП"
+ CHA_social_liberal_party_long: "Чадський демократичний союз"
+  #Gontchome
+ CHA_social_liberal_party: "ЧДС"
+ CHA_market_liberal_party_long: "Французькі інтереси"
+  #French Business by Pierre Olivier Lapie
+ CHA_market_liberal_party: "ФІ"
+ CHA_social_conservative_party_long: "Уаддайська аристократія"
+  #Conservative Traditionalist Tobio dit Markinzaye
+ CHA_social_conservative_party: "УА"
+ CHA_authoritarian_democrat_party_long: "Вадайські лоялісти"
+ CHA_authoritarian_democrat_party: "ВЛ"
+ CHA_paternal_autocrat_party_long: "Багірмінські лоялісти"
+ CHA_paternal_autocrat_party: "БЛ"
+ CHA_national_populist_party_long: "Кліка Логона"
+ CHA_national_populist_party: "КЛ"

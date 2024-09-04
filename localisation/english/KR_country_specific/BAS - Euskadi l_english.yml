@@ -1,0 +1,40 @@
+﻿l_english:
+
+### Country Names ###
+ BAS: "Країна Басків"
+ BAS_ADJ: "Баскськ"
+ BAS_DEF: "Країна Басків"
+
+### Parties ###
+ BAS_totalist_party: "КПКБ"
+ BAS_totalist_party_long: "Комуністична партія Країни Басків"
+ BAS_radical_socialist_party: "БРСП"
+ BAS_radical_socialist_party_long: "Баскська робітнича соціалістична партія"
+ BAS_syndicalist_party: "НКП"
+ BAS_syndicalist_party_long: "Національна конфедерація праці"
+ BAS_social_democrat_party: "БПП"
+ BAS_social_democrat_party_long: "Баскська патріотична партія"
+ BAS_social_liberal_party: "БРС-Д"
+ BAS_social_liberal_party_long: "Баскський республіканський союз - демократи"
+ BAS_market_liberal_party: "БРС-Л"
+ BAS_market_liberal_party_long: "Баскський республіканський союз - ліберали"
+ BAS_social_conservative_party: "ППЕ-П"
+ BAS_social_conservative_party_long: "Правляча партія Еузо - Помірковані"
+ BAS_authoritarian_democrat_party: "ППЕ-Р"
+ BAS_authoritarian_democrat_party_long: "Правляча партія Еузо - Радикали"
+ BAS_paternal_autocrat_party: "БА"
+ BAS_paternal_autocrat_party_long: "Баскська армія"
+ BAS_national_populist_party: "ТА"
+ BAS_national_populist_party_long: "Традиціоналістична асоціація"
+
+### Characters ###
+ BAS_leandro_carro_hernaez: "Leandro Carro Hernáez"
+ BAS_manu_robles_arangiz: "Manu Robles Arangiz"
+ BAS_santiago_aznar_sarachanga: "Santiago Aznar Sarachaga"
+ BAS_tomas_bilbao_hospitalet: "Tomás Bilbao Hospitalet"
+ BAS_alfredo_espinosa_orive: "Alfredo Espinosa Orive"
+ BAS_manuel_de_irujo: "Manuel de Irujo"
+ BAS_jose_antonio_aguierre: "José Antonio Aguirre"
+ BAS_candido_saseta: "Cándido Saseta"
+ BAS_marcelino_oreja_elosegui: "Marcelino Oreja Elósegui"
+ BAS_luis_arana_goiri: "Luis Arana Goiri"

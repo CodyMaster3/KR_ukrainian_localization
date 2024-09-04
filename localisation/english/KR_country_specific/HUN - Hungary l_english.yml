@@ -1,0 +1,107 @@
+﻿l_english:
+
+### Parties ###
+ HUN_totalist_party: "ФТС"
+ HUN_totalist_party_long: "Фракція тоталітарних соціалістів"
+ HUN_syndicalist_party: "СП"
+ HUN_syndicalist_party_long: "Синдикалістська партія"
+ HUN_radical_socialist_party: "НСП"
+ HUN_radical_socialist_party_long: "Національна селянська партія"
+ HUN_social_democrat_party: "УСДП"
+ HUN_social_democrat_party_long: "Угорська соціал-демократична партія"
+ HUN_social_liberal_party: "НЛП"
+ HUN_social_liberal_party_long: "Націонал-ліберальна партія"
+ HUN_market_liberal_party: "НЛП"
+ HUN_market_liberal_party_long: "Національна лейбористська партія"
+ HUN_social_conservative_party: "ЄП"
+ HUN_social_conservative_party_long: "Єдина партія"
+ HUN_authoritarian_democrat_party: "ХПНС"
+ HUN_authoritarian_democrat_party_long: "Християнська партія національного союзу"
+ HUN_paternal_autocrat_party: "НПДГАРГ"
+ HUN_paternal_autocrat_party_long: "Незалежна партія дрібних господарів, аграрних робітників та громадян"
+ HUN_national_populist_party: "ПВН"
+ HUN_national_populist_party_long: "Партія волі нації"
+
+### Cosmetic Tags ###
+ HUN: "Угорщина"
+ HUN_ADJ: "Угорськ"
+ HUN_DEF: "Угорщина"
+
+ HUN_totalist: "Соціалістична Республіка Угорщина"
+ HUN_totalist_ADJ: "Угорськ"
+ HUN_totalist_DEF: "Соціалістична Республіка Угорщина"
+ HUN_syndicalist: "Соціалістична Республіка Угорщина"
+ HUN_syndicalist_ADJ: "Угорськ"
+ HUN_syndicalist_DEF: "Соціалістична Республіка Угорщина"
+ HUN_radical_socialist: "Соціалістична Республіка Угорщина"
+ HUN_radical_socialist_ADJ: "Угорськ"
+ HUN_radical_socialist_DEF: "Соціалістична Республіка Угорщина"
+
+### Characters ###
+ HUN_bela_kun: "Béla Kun"
+ HUN_arpad_szakasits: "Árpád Szakasits"
+ HUN_oszkar_jaszi: "Oszkár Jászi"
+ HUN_zoltan_tildy: "Zoltán Tildy"
+ HUN_istvan_bethlen: "István Bethlen"
+ HUN_laszlo_bardossy: "László Bárdossy"
+
+ HUN_kocsard_janky_de_bulcs: "Kocsárd Janky de Bulcs"
+ HUN_kocsard_janky_de_bulcs_commander_desc: ""
+
+ HUN_hugo_sonyi: "Hugó Sónyi"
+ HUN_hugo_sonyi_commander_desc: ""
+
+ HUN_vilmos_nagy_de_nagybaczon: "Vilmos Nagy de Nagybaczon"
+ HUN_vilmos_nagy_de_nagybaczon_commander_desc: ""
+
+ HUN_bela_miklos_de_dalnok: "Béla Miklós de Dálnok"
+ HUN_bela_miklos_de_dalnok_commander_desc: ""
+
+ HUN_dezso_laszlo: "Dezső László"
+ HUN_dezso_laszlo_commander_desc: ""
+
+ HUN_gusztav_jany: "Gusztáv Jány"
+ HUN_gusztav_jany_commander_desc: ""
+
+ HUN_lajos_veress_de_dalnok: "Lajos Veress de Dálnok"
+ HUN_lajos_veress_de_dalnok_commander_desc: ""
+
+ HUN_gusztav_denk_de_kistorony: "Gusztáv Denk de Kistorony"
+ HUN_gusztav_denk_de_kistorony_commander_desc: ""
+
+ HUN_dome_sztojay: "Döme Sztójay"
+ HUN_dome_sztojay_commander_desc: ""
+
+ HUN_szilard_bakay: "Szilárd Bakay"
+ HUN_szilard_bakay_commander_desc: ""
+
+ HUN_karoly_bartha_de_dalnokfalva: "Károly Bartha de Dálnokfalva"
+ HUN_karoly_bartha_de_dalnokfalva_commander_desc: ""
+
+ HUN_jeno_ratz: "Jenő Rátz"
+ HUN_jeno_ratz_commander_desc: ""
+
+ HUN_miklos_horthy_de_nagybanya: "Miklós Horthy de Nagybánya"
+ HUN_sandor_karacsony: "Sándor Karácsony"
+ HUN_bela_bangha: "Béla Bangha"
+ HUN_janos_kabay: "János Kabay"
+ HUN_gedeon_richter: "Gedeon Richter"
+ HUN_farkas_heller: "Farkas Heller"
+ HUN_rusztem_vambery: "Rusztem Vámbéry"
+ HUN_ferenc_chorin: "Ferenc Chorin"
+ HUN_mihaly_polanyi: "Mihály Polányi"
+ HUN_kalman_daranyi_de_pusztaszentgyorgyi: "Kálmán Darányi de Pusztaszentgyörgy"
+ HUN_gusztav_gratz: "Gusztáv Gratz"
+ HUN_vilmos_roder: "Vilmos Rőder"
+ HUN_kalman_hardy: "Kálmán Hardy"
+ HUN_richard_olaf_wulff: "Richárd Olaf Wulff"
+ HUN_sandor_magyarossy: "Magyarossy Sándor"
+ HUN_laszlo_hary: "László Háry"
+ HUN_istvan_birnbauer: "István Birnbauer"
+ HUN_arpad_bertalan: "Árpád Bertalan"
+ HUN_waldemar_kenese: "Waldemár Kenese"
+ HUN_henrik_werth: "Henrik Werth"
+ HUN_laszlo_hollosy_kuthy: "László Hollósy-Kuthy"
+ HUN_teofil_harosy: "Teofil Hárosy"
+ HUN_todor_karman: "Tódor Kármán"
+ HUN_leo_szilard: "Leó Szilárd"

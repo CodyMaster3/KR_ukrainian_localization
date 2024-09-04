@@ -1,0 +1,108 @@
+﻿l_english:
+
+### Parties ###
+ CAM_totalist_party: "НРПК"
+ CAM_totalist_party_long: "Народно-революційна партія кхмерів"
+ CAM_radical_socialist_party: "НГ"
+ CAM_radical_socialist_party_long: "Народна група"
+ CAM_syndicalist_party: "СПК"
+ CAM_syndicalist_party_long: "Синдикалістська партія Камбоджі"
+ CAM_social_democrat_party: "НГ"
+ CAM_social_democrat_party_long: "Народна група"
+ CAM_social_liberal_party: "ПД"
+ CAM_social_liberal_party_long: "Партія демократів"
+ CAM_market_liberal_party: "ПЛ"
+ CAM_market_liberal_party_long: "Партія лібералів"
+ CAM_social_conservative_party: "НЗ"
+ CAM_social_conservative_party_long: "Народні збори"
+ CAM_authoritarian_democrat_party: "НЗ"
+ CAM_authoritarian_democrat_party_long: "Народні збори"
+ CAM_paternal_autocrat_party: "КВ"
+ CAM_paternal_autocrat_party_long: "Кхмерське відродження"
+ CAM_national_populist_party: "КВ"
+ CAM_national_populist_party_long: "Кхмерське відродження"
+
+### Country Names ###
+ CAM: "Камбоджа"
+ CAM_ADJ: "Кхмерськ"
+ CAM_DEF: "Камбоджа"
+
+ CAM_totalist: "Демократична Кампучія"
+ CAM_totalist_ADJ: "Кхмерськ"
+ CAM_totalist_DEF: "Демократична Кампучія"
+ CAM_syndicalist: "Демократична Кампучія"
+ CAM_syndicalist_ADJ: "Кхмерськ"
+ CAM_syndicalist_DEF: "Демократична Кампучія"
+ CAM_radical_socialist: "Демократична Кампучія"
+ CAM_radical_socialist_ADJ: "Кхмерськ"
+ CAM_radical_socialist_DEF: "Демократична Кампучія"
+ CAM_social_democrat: "Камбоджа"
+ CAM_social_democrat_ADJ: "Кхмерськ"
+ CAM_social_democrat_DEF: "Камбоджа"
+ CAM_social_liberal: "Камбоджа"
+ CAM_social_liberal_ADJ: "Кхмерськ"
+ CAM_social_liberal_DEF: "Камбоджа"
+ CAM_market_liberal: "Камбоджа"
+ CAM_market_liberal_ADJ: "Кхмерськ"
+ CAM_market_liberal_DEF: "Камбоджа"
+ CAM_social_conservative: "Камбоджа"
+ CAM_social_conservative_ADJ: "Кхмерськ"
+ CAM_social_conservative_DEF: "Камбоджа"
+ CAM_authoritarian_democrat: "Камбоджа"
+ CAM_authoritarian_democrat_ADJ: "Кхмерськ"
+ CAM_authoritarian_democrat_DEF: "Камбоджа"
+ CAM_paternal_autocrat: "Камбоджа"
+ CAM_paternal_autocrat_ADJ: "Кхмерськ"
+ CAM_paternal_autocrat_DEF: "Камбоджа"
+ CAM_national_populist: "Камбоджа"
+ CAM_national_populist_ADJ: "Кхмерськ"
+ CAM_national_populist_DEF: "Камбоджа"
+ 
+ CAM_monarchy_social_democrat: "Королівство Камбоджа"
+ CAM_monarchy_social_democrat_DEF: "Королівство Камбоджа"
+ CAM_monarchy_social_liberal: "Королівство Камбоджа"
+ CAM_monarchy_social_liberal_DEF: "Королівство Камбоджа"
+ CAM_monarchy_market_liberal: "Королівство Камбоджа"
+ CAM_monarchy_market_liberal_DEF: "Королівство Камбоджа"
+ CAM_monarchy_social_conservative: "Королівство Камбоджа"
+ CAM_monarchy_social_conservative_DEF: "Королівство Камбоджа"
+ CAM_monarchy_authoritarian_democrat: "Королівство Камбоджа"
+ CAM_monarchy_authoritarian_democrat_DEF: "Королівство Камбоджа"
+ CAM_monarchy_paternal_autocrat: "Королівство Камбоджа"
+ CAM_monarchy_paternal_autocrat_DEF: "Королівство Камбоджа"
+ CAM_monarchy_national_populist: "Королівство Камбоджа"
+ CAM_monarchy_national_populist_DEF: "Королівство Камбоджа"
+
+### Events ###
+
+## Puppets, Monarch's Dead, Elections(?)
+ # No Republican choice yet until rework:
+ khmer_dom.1000.t: "Встановлення нового камбоджійського режиму"
+ khmer_dom.1000.d: "Тепер, коли ми відтворили Камбоджійську державу, дехто запропонував відновити камбоджійську монархію. Найбільш очевидним кандидатом став би Королівський дім Сісоват, нащадок поета-короля Анг Дуонга, який правив Камбоджею з 1840-х років як під владою французів, так і згодом сіамців. Іншим кандидатом на таку посаду могли б стати ті, хто перебуває під управлінням Королівського дому Нородома, який востаннє правив Камбоджею в 1904 році, що, з іншого боку, може виявитися гарним вибором, якщо ми хочемо встановити абсолютно новий порядок у Камбоджі. Після довгих обговорень ми дійшли висновку, що..."
+ khmer_dom.1000.a: "...Сісоват займе трон."
+ khmer_dom.1000.b: "...Нородом займе трон."
+
+# Sisowath Line
+ # 1941.4.23:
+ khmer_dom.1011.t: "Смерть Сісовата Монівонга"
+ khmer_dom.1011.d: "Король Сісоват Монівонг з [CAM.GetName], 2-й монарх Дому Сісоват, помер сьогодні вранці від старості. Спадкоємцем монарха стане його перший син Сісоват Монірет."
+
+# Norodom Line
+ # 1960.4.3:
+ khmer_dom.1012.t: "Смерть Нородома Сурамаріта"
+ khmer_dom.1012.d: "Король Нородом Сурамаріт з [CAM.GetName], 2-й монарх Дому Нородом, помер минулої ночі від старості. Спадкоємцем монарха стане його перший син Нородом Сіанук."
+
+### Characters ###
+ CAM_norodom_sihanouk: "Norodom Sihanouk"
+ CAM_norodom_suramarit: "Norodom Suramarit"
+ CAM_sisowath_monireth: "Sisowath Monireth"
+ CAM_sisowath_monivong: "Sisowath Monivong"
+ CAM_tou_samouth: "Tou Samouth"
+ CAM_lon_nol: "Lon Nol"
+ CAM_penn_nouth: "Penn Nouth"
+ CAM_chhean_vam: "Chhean Vam"
+ CAM_sisowath_youtevong: "Sisowath Youtevong"
+ CAM_son_ngoc_thanh: "Son Ngoc Thanh"
+ CAM_oum_chheang_sun: "Oum Chheang Sun"
+ CAM_sisowath_watchayavong: "Sisowath Watchayavong"
+ CAM_sam_an: "Sam An"

@@ -1,0 +1,138 @@
+﻿l_english:
+#§YGeneral Description\nBorn:§! §gMonth day, year, in place, Croatia-Slavonia, Austria-Hungary§!\n§YMilitary Career:§! §gtext
+
+### Country Names ###
+ CRO: "Хорватія"
+ CRO_ADJ: "Хорватськ"
+ CRO_DEF: "Хорватія"
+ 
+ CRO_totalist: "Соціалістична Республіка Хорватія"
+ CRO_totalist_ADJ: "Хорватськ"
+ CRO_totalist_DEF: "Соціалістична Республіка Хорватія"
+ CRO_syndicalist: "Соціалістична Республіка Хорватія"
+ CRO_syndicalist_ADJ: "Хорватськ"
+ CRO_syndicalist_DEF: "Соціалістична Республіка Хорватія"
+ CRO_radical_socialist: "Соціалістична Республіка Хорватія"
+ CRO_radical_socialist_ADJ: "Хорватськ"
+ CRO_radical_socialist_DEF: "Соціалістична Республіка Хорватія"
+
+ CRO_illyria: "Іллірія"
+ CRO_illyria_ADJ: "Іллірійськ"
+ CRO_illyria_DEF: "Іллірія"
+
+ CRO_illyria_totalist: "Соціалістична Республіка Іллірія"
+ CRO_illyria_totalist_ADJ: "Іллірійськ"
+ CRO_illyria_totalist_DEF: "Соціалістична Республіка Іллірія"
+ CRO_illyria_syndicalist: "Соціалістична Республіка Іллірія"
+ CRO_illyria_syndicalist_ADJ: "Іллірійськ"
+ CRO_illyria_syndicalist_DEF: "Соціалістична Республіка Іллірія"
+ CRO_illyria_radical_socialist: "Соціалістична Республіка Іллірія"
+ CRO_illyria_radical_socialist_ADJ: "Іллірійськ"
+ CRO_illyria_radical_socialist_DEF: "Соціалістична Республіка Іллірія"
+
+ CRO_illyria_habsburg: "Іллірія"
+ CRO_illyria_habsburg_ADJ: "Іллірійськ"
+ CRO_illyria_habsburg_DEF: "Іллірія"
+
+ CRO_illyria_habsburg_totalist: "Соціалістична Республіка Іллірія"
+ CRO_illyria_habsburg_totalist_ADJ: "Іллірійськ"
+ CRO_illyria_habsburg_totalist_DEF: "Соціалістична Республіка Іллірія"
+ CRO_illyria_habsburg_syndicalist: "Соціалістична Республіка Іллірія"
+ CRO_illyria_habsburg_syndicalist_ADJ: "Іллірійськ"
+ CRO_illyria_habsburg_syndicalist_DEF: "Соціалістична Республіка Іллірія"
+ CRO_illyria_habsburg_radical_socialist: "Соціалістична Республіка Іллірія"
+ CRO_illyria_habsburg_radical_socialist_ADJ: "Іллірійськ"
+ CRO_illyria_habsburg_radical_socialist_DEF: "Соціалістична Республіка Іллірія"
+
+### Parties ###
+ CRO_totalist_party: "СРП-А"
+ CRO_totalist_party_long: "Соціалістична робоча партія - Авангард"
+ CRO_syndicalist_party: "СРП-Р"
+ CRO_syndicalist_party_long: "Соціалістична робоча партія - Революціонери"
+ CRO_radical_socialist_party: "СРП-Ц"
+ CRO_radical_socialist_party_long: "Соціалістична робоча партія - Центристи"
+ CRO_social_democrat_party: "СДПХ"
+ CRO_social_democrat_party_long: "Соціал-демократична партія Хорватії"
+ CRO_social_liberal_party: "ХНСП"
+ CRO_social_liberal_party_long: "Хорватська народна селянська партія"
+ CRO_market_liberal_party: "ХСК"
+ CRO_market_liberal_party_long: "Хорватсько-сербська коаліція"
+ CRO_social_conservative_party: "ХХСПП"
+ CRO_social_conservative_party_long: "Хорватська християнська соціальна партія прав"
+ CRO_authoritarian_democrat_party: "НП"
+ CRO_authoritarian_democrat_party_long: "Народна партія"
+ CRO_paternal_autocrat_party: "ХПП"
+ CRO_paternal_autocrat_party_long: "Хорватська партія прав"
+ CRO_national_populist_party: "ХРР"
+ CRO_national_populist_party_long: "Хорватський революційний рух"
+
+### Ideas ###
+ CRO_croatian_command: "Хорватські офіцери"
+ CRO_croatian_command_desc: "Хорватський народ боровся, щоб утілити в реальність вільну від Австрії Іллірію, в той час як решта так званих іллірійців ховався в своїх містах і не робив ніщо. Саме з цієї причини ми маємо обмежити всі офіцерські пости хорватами за рахунок відчуження решти наших співвітчизників."
+
+### Intro Screen ###
+ CRO_country_intro_header: "Королівство Іллірія"
+ CRO_country_intro_content: "Триєдине королівство Іллірія, яке складається з колишніх Королівства Хорватія–Славонія, Королівства Далмація та Кондомініуму Боснія, було проголошене після кризи в Австро-Угорщині та німецької інтервенції в 1926 році. Створення Іллірії було запропоноване лояльними Відню хорватськими аристократами й офіцерами Австро-угорської армії, які присяглися в лояльності кайзерові Карлу й Австрії, але зажадали більшої автономії та закінчення угорського панування на землях південних слов'ян. І хоча триєдине королівство мусило б стати домом для хорватів-католиків, сербів-православних і босняків-мусульман, насправді ж між цими народами є багато суперечностей. Серби хочуть возз'єднатися зі своєю сербською вітчизною, босняки хочуть отримати більше незалежності, а хорвати, які мають відносу більшість у країні, хочуть зміцнити свою позицію в ній і реорганізувати її в Велику Хорватію. Але поки що австрійці допомагають нам утримувати порядок у нашому балканському королівстві."
+ illyria.1.a: "Наша красива батьківщина!"
+
+### Events ###
+ illyria.3.t: "Matica ilirska"
+ illyria.3.d: "«Matica ilirska» («Матиця іллірійська») є найстаршою освітньою організацією в Іллірії, яка розпочала свою діяльність у 1842 році як книговидавнича компанія. Головною метою «Матиці» є просування іллірійських культури та мови, а також підтримка взаєморозуміння між народами Іллірії. З допомогою «Матиці іллірійської» керівники Іллірії намагаються сформувати добре освічену й об'єднану іллірійську націю. Зараз одним із найважливіших завдань організації є кодифікація іллірійського мовного стандарту. Хоча ця робота й була складна, схоже, що найвідоміші іллірійські письменники та лінгвісти нарешті домовилися, які мовні правила наше молоде покоління буде вивчати в школах. Створення єдиної іллірійської нації все ближче!"
+ illyria.3.a: "Задумлива моя слов'янська душа, я – іллірієць!"
+ 
+ illyria.4.t: "Сараєвська угода"
+ illyria.4.d: "Нації нашого триєдиного королівства використовують одну південнослов'янську мову, але хорватська, сербська та боснійська її версії мають певні відмінності. Крім того, серби використовують кириличне письмо, в той час як хорвати та босняки віддають перевагу латиниці. «Matica ilirska» вже встановила єдині стандарти мови, яка буде використовуватися в нашому Королівстві, але ми досі не знаємо, як назвати нашу мову. Ми можемо назвати її «хорватською» та використовувати латинське письмо, оскільки складають більшість у нашій країні – 60% населення. Інша можлива назва – «сербохорватська» з використанням як латиниці, так і кирилиці для репрезентації ролі сербів, які є основною меншиною в Іллірії – 30% населення. Або ж ми можемо назвати мову «іллірійською» для заохочення об'єднання нашого народу та використовувати латиницю."
+ illyria.4.a: "Хорватська мова – єдина в Іллірії!"
+ illyria.4.b: "Хай живуть братерство та єдність! Мова – сербохорватська!"
+ illyria.4.c: "Ми – іллірійці й розмовляємо іллірійською!"
+ 
+ illyria.5.t: "Шосе «Єдність»"
+ illyria.5.d: "Будівництво шосе «Єдність» було запропоноване нашим прем'єр-міністром для з'єднання найбільших міст Іллірії – Заґреба, Сараєво та Подґориці. З австрійськими субсидіями ми зможемо знайти достатньо робітників і вже скоро завершити будівництво. Цей проєкт також допоможе знизити безробіття в багатьох наших регіонах і пожвавити будівельний ринок у Королівстві."
+ illyria.5.a: "Ми працювали, ми працюємо й ми працюватимемо ще більше!"
+
+### Characters ###
+ CRO_stjepan_radic: "Stjepan Radić"
+ CRO_srdan_budisavljevic: "Srđan Budisavljević"
+ CRO_ivo_pilar: "Ivo Pilar"
+ CRO_vitomir_korac: "Vitomir Korać"
+ CRO_vladimir_copic: "Vladimir Ćopić"
+
+ CRO_slavko_kvaternik: "Slavko Kvaternik"
+ CRO_slavko_kvaternik_commander_desc: ""
+
+ CRO_mihajlo_lukic: "Mihajlo Lukić"
+ CRO_mihajlo_lukic_commander_desc: ""
+
+ CRO_fedor_dragojlov: "Fedor Dragojlov"
+ CRO_fedor_dragojlov_commander_desc: ""
+
+ CRO_eduard_bunic_de_bona: "Eduard Bunić de Bona"
+ CRO_eduard_bunic_de_bona_commander_desc: ""
+
+ CRO_matija_canic: "Matija Čanić"
+ CRO_matija_canic_commander_desc: ""
+
+ CRO_vladimir_laxa: "Vladimir Laxa"
+ CRO_vladimir_laxa_commander_desc: ""
+
+ CRO_duro_jakcin: "Đuro Jakčin"
+ CRO_edgar_angeli: "Edgar Angeli"
+ CRO_nikola_steinfel: "Nikola Steinfel"
+ CRO_aleksandar_ehrmann: "Aleksandar Ehrmann"
+ CRO_oton_vinski: "Oton Vinski"
+ CRO_ivan_rikard_ivanovic: "Ivan Rikard Ivanović"
+ CRO_aloysius_stepinac: "Aloysius Stepinac"
+ CRO_andrija_artukovic: "Andrija Artuković"
+ CRO_vladimir_kosak: "Vladimir Košak"
+ CRO_ivan_subasic: "Ivan Šubašić"
+ CRO_stjepan_ivsic: "Stjepan Ivšić"
+ CRO_duro_basaricek: "Đuro Basariček"
+ CRO_miroslav_navratil: "Miroslav Navratil"
+ CRO_vilko_begic: "Vilko Begić"
+ CRO_slavko_stancer: "Slavko Štancer"
+ CRO_vladimir_kren: "Vladimir Kren"
+ CRO_ivan_prpic: "Ivan Prpić"
+ CRO_duro_dragicevic: "Đuro Dragičević"
+ CRO_milan_miesler: "Milan Miesler"
+ CRO_domobranske_akademija: "Domobranske Akademija"
+ CRO_mornaricka_akademija: "Mornarička Akademija"

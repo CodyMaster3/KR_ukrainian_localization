@@ -1,0 +1,60 @@
+﻿l_english:
+
+### Country Names ###
+ MDR: "Мадрас"
+ MDR_ADJ: "Мадраськ"
+ MDR_DEF: "Мадрас"
+
+ MDR_totalist: "Тамільська Комуна"
+ MDR_totalist_ADJ: "Тамільськ"
+ MDR_totalist_DEF: "Тамільська Комуна"
+ MDR_syndicalist: "Тамільська Комуна"
+ MDR_syndicalist_ADJ: "Тамільськ"
+ MDR_syndicalist_DEF: "Тамільська Комуна"
+ MDR_radical_socialist: "Тамільська Комуна"
+ MDR_radical_socialist_ADJ: "Тамільськ"
+ MDR_radical_socialist_DEF: "Тамільська Комуна"
+ MDR_national_populist: "Таміл Наду"
+ MDR_national_populist_ADJ: "Тамільськ"
+ MDR_national_populist_DEF: "Таміл Наду"
+
+ MDR_DRAV: "Дравідія Наду"
+ MDR_DRAV_ADJ: "Дравідійськ"
+ MDR_DRAV_DEF: "Дравідія Наду"
+
+ MDR_DRAV_totalist: "Дравідійська Комуна"
+ MDR_DRAV_totalist_ADJ: "Дравідійськ"
+ MDR_DRAV_totalist_DEF: "Дравідійська Комуна"
+ MDR_DRAV_syndicalist: "Дравідійська Комуна"
+ MDR_DRAV_syndicalist_ADJ: "Дравідійськ"
+ MDR_DRAV_syndicalist_DEF: "Дравідійська Комуна"
+ MDR_DRAV_radical_socialist: "Дравідійська Комуна"
+ MDR_DRAV_radical_socialist_ADJ: "Дравідійськ"
+ MDR_DRAV_radical_socialist_DEF: "Дравідійська Комуна"
+
+ MDR_TAMIL: "Таміл Наду"
+ MDR_TAMIL_ADJ: "Тамільськ"
+ MDR_TAMIL_DEF: "Таміл Наду"
+
+ MDR_TAMIL_totalist: "Тамільська Комуна"
+ MDR_TAMIL_totalist_ADJ: "Тамільськ"
+ MDR_TAMIL_totalist_DEF: "Тамільська Комуна"
+ MDR_TAMIL_syndicalist: "Тамільська Комуна"
+ MDR_TAMIL_syndicalist_ADJ: "Тамільськ"
+ MDR_TAMIL_syndicalist_DEF: "Тамільська Комуна"
+ MDR_TAMIL_radical_socialist: "Тамільська Комуна"
+ MDR_TAMIL_radical_socialist_ADJ: "Тамільськ"
+ MDR_TAMIL_radical_socialist_DEF: "Тамільська Комуна"
+
+### Events ###
+ madras.1.t: "Національні вибори 1936 року"
+ madras.1.d: "Вперше з часів індо-тамільської війни відбуваються вибори, незважаючи на підкорення під князівським чоботом. Розчарована рішенням Суббараяна завершити війну на поганих умовах, непопулярна нині партія Сварадж відмовилася від нього на користь Сатьямурті, який виступає за реконструкцію та стабільність. Партія "Справедливість", однак, стверджує, що "брахмани", Сварадж, мають на меті лише зубожіння тамілів і перетворення їх на слуг князів, висуваючи Рамасамі Періяра як свою людину на чолі Мадрасу."
+ madras.1.a: "Сварадж зберігає контроль."
+ madras.1.b: "Партія "Самопоміч" ламає традиції."
+
+### Characters ###
+ MDR_periyar_ramasamy: "Periyar Ramasamy"
+ MDR_paramasiva_subbarayan: "Paramasiva Subbarayan"
+ MDR_chakravarti_rajagopalachari: "Chakravarti Rajagopalachari"
+
+ MDR_ramakrishna_ranga_rao: "Ramakrishna Ranga Rao"

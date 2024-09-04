@@ -1,0 +1,170 @@
+﻿l_english:
+
+### CHA: Chad
+ CHA: "Чад"
+ CHA_ADJ: "Чадськ"
+ CHA_DEF: "Чад"
+
+ CHA_totalist: "Федерація Чад"
+ CHA_totalist_ADJ: "Чадськ"
+ CHA_totalist_DEF: "Федерація Чад"
+ CHA_syndicalist: "Федерація Чад"
+ CHA_syndicalist_ADJ: "Чадськ"
+ CHA_syndicalist_DEF: "Федерація Чад"
+ CHA_radical_socialist: "Федерація Чад"
+ CHA_radical_socialist_ADJ: "Чадськ"
+ CHA_radical_socialist_DEF: "Федерація Чад"
+ CHA_authoritarian_democrat: "Вадайська Імперія"
+ CHA_authoritarian_democrat_ADJ: "Вадайськ"
+ CHA_authoritarian_democrat_DEF: "Вадайська Імперія"
+
+ ### Characters ###
+ CHA_ahmed_koulamallah: "Ahmed Koulamallah"
+ CHA_mohamed_bechir_sow: "Mohamed Bechir Sow"
+ CHA_gontchome_sahoulba: "Gontchome Sahoulba"
+ CHA_pierre_olivier_lapie: "Pierre Olivier Lapie"
+ CHA_tobio_dit_markinzaye: "Tobio dit Markinzaye"
+ CHA_muhammad_urada_ibn_ibrahim: "Muhammad Urada ibn Ibrahim"
+ CHA_mahamat_abdelkader: "Mahamat Abdelkader"
+ CHA_yorgui_koli: "Yorgui Koli"
+
+ CHA_georges_koudoukou: "Georges Koudoukou"
+
+### GNA: Guinea
+ GNA: "Гвінея"
+ GNA_ADJ: "Гвінейськ"
+ GNA_DEF: "Гвінея"
+
+ GNA_totalist: "Гвінейський Союз"
+ GNA_totalist_ADJ: "Гвінейськ"
+ GNA_totalist_DEF: "Гвінейський Союз"
+ GNA_syndicalist: "Гвінейський Союз"
+ GNA_syndicalist_ADJ: "Гвінейськ"
+ GNA_syndicalist_DEF: "Гвінейський Союз"
+ GNA_radical_socialist: "Гвінейський Союз"
+ GNA_radical_socialist_ADJ: "Гвінейськ"
+ GNA_radical_socialist_DEF: "Гвінейський Союз"
+ GNA_national_populist: "Фуута Джало"
+ GNA_national_populist_ADJ: "Джалійськ"
+ GNA_national_populist_DEF: "Фуута Джало"
+
+ ### Characters ###
+ GNA_louis_placide_blacher: "Louis-Placide Blacher"
+ GNA_yacine_diallo: "Yacine Diallo"
+ GNA_tierno_abdourahmani: "Tierno Abdourahmani"
+ GNA_karamoko_dalen: "Karamoko Dalen"
+ GNA_reymond_sarif_easmon: "Reymond Sarif Easmon"
+
+### IVO: Ivory Coast
+ IVO: "Кот-д'Івуар"
+ IVO_ADJ: "Івуарійськ"
+ IVO_DEF: "Кот-д'Івуар"
+
+ ### Characters ###
+ IVO_Felix_Houphouet_Boigny: "Félix Houphouët-Boigny"
+
+### MLI: Mali
+ MLI: "Малі"
+ MLI_ADJ: "Малійськ"
+ MLI_DEF: "Малі"
+
+ MLI_totalist: "Малійська Комуна"
+ MLI_totalist_ADJ: "Малійськ"
+ MLI_totalist_DEF: "Малійська Комуна"
+ MLI_syndicalist: "Малійська Комуна"
+ MLI_syndicalist_ADJ: "Малійськ"
+ MLI_syndicalist_DEF: "Малійська Комуна"
+ MLI_radical_socialist: "Малійська Комуна"
+ MLI_radical_socialist_ADJ: "Малійськ"
+ MLI_radical_socialist_DEF: "Малійська Комуна"
+
+ ### Characters ###
+ MLI_modibo_keita: "Modibo Keïta"
+ MLI_mamadou_konate: "Mamadou Konaté"
+ MLI_mamby_sidibe: "Mamby Sidibé"
+ MLI_emile_belime: "Émile Bélime"
+ MLI_hamallah_bin_muhammad_al_tishiti: "Hamallah bin Muhammad al-Tishiti"
+ MLI_noukoun_kone: "Noukoun Kone"
+
+### MRT: Mauritania
+ MRT: "Мавританія"
+ MRT_ADJ: "Мавританськ"
+ MRT_DEF: "Мавританія"
+
+ MRT_national_populist: "Емірат Трарзан"
+ MRT_national_populist_ADJ: "Трарзанськ"
+ MRT_national_populist_DEF: "Емірат Трарзан"
+
+### NGR: Niger
+ NGR: "Нігер"
+ NGR_ADJ: "Нігерійськ"
+ NGR_DEF: "Нігер"
+
+ ### Characters ###
+ NGR_boubou_hama: "Boubou Hama"
+
+### SEN: Senegambia
+ SEN: "Сенегамбія"
+ SEN_ADJ: "Сенегамбійськ"
+ SEN_DEF: "Сенегамбія"
+
+ SEN_national_populist: "Держава Джолоф"
+ SEN_national_populist_ADJ: "Джолофійськ"
+ SEN_national_populist_DEF: "Держава Джолоф"
+
+### SIE: Sierra Leone
+ SIE: "Сьєрра-Леоне"
+ SIE_ADJ: "Сьєрралеонськ"
+ SIE_DEF: "Сьєрра-Леоне"
+
+ ### Characters ###
+ SIE_banja_tejan_sie: "Banja Tejan-Sie"
+ SIE_george_giffard: "George Giffard"
+ SIE_lashmer_whistler: "Lashmer Whistler"
+ SIE_john_karefasmart: "John Karefa-Smart"
+ SIE_amadu_wurie: "Amadu Wurie"
+ SIE_mohammad_sanusi_mustapha: "Mohammad Sanusi Mustapha"
+
+### SUD: Sudan
+ SUD: "Судан"
+ SUD_ADJ: "Суданськ"
+ SUD_DEF: "Судан"
+
+ ### Characters ###
+ SUD_abd_al_rahman_al_mahdi: "Abd al-Rahman al-Mahdi"
+ SUD_ali_abd_al_latif: "Ali Abd al Latif"
+ SUD_el_ferik_ibrahim_abboud: "El Ferik Ibrahim Abboud"
+
+### TOG: Togoland
+ TOG: "Тоголенд"
+ TOG_ADJ: "Тоголезьк"
+ TOG_DEF: "Тоголенд"
+
+ TOG_totalist: "Республіка Того"
+ TOG_totalist_ADJ: "Тоголезьк"
+ TOG_totalist_DEF: "Республіка Того"
+ TOG_syndicalist: "Республіка Того"
+ TOG_syndicalist_ADJ: "Тоголезьк"
+ TOG_syndicalist_DEF: "Республіка Того"
+ TOG_radical_socialist: "Республіка Того"
+ TOG_radical_socialist_ADJ: "Тоголезьк"
+ TOG_radical_socialist_DEF: "Республіка Того"
+
+ TOG_national_populist: "Того"
+ TOG_national_populist_ADJ: "Тоголезьк"
+ TOG_national_populist_DEF: "Того"
+
+### TUN: Tunisia
+ TUN: "Туніс"
+ TUN_ADJ: "Туніськ"
+ TUN_DEF: "Туніс"
+
+ TUN_totalist: "Туніська Комуна"
+ TUN_totalist_ADJ: "Туніськ"
+ TUN_totalist_DEF: "Туніська Комуна"
+ TUN_syndicalist: "Туніська Комуна"
+ TUN_syndicalist_ADJ: "Туніськ"
+ TUN_syndicalist_DEF: "Туніська Комуна"
+ TUN_radical_socialist: "Туніська Комуна"
+ TUN_radical_socialist_ADJ: "Туніськ"
+ TUN_radical_socialist_DEF: "Туніська Комуна"

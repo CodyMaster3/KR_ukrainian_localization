@@ -1,0 +1,51 @@
+﻿l_english:
+
+### Country Names
+ MLW: "Ньясаленд"
+ MLW_ADJ: "Ньясалендськ"
+ MLW_DEF: "Ньясаленд"
+
+ MLW_totalist: "Соціалістична Республіка Малаві"
+ MLW_totalist_ADJ: "Малавійськ"
+ MLW_totalist_DEF: "Соціалістична Республіка Малаві"
+ MLW_syndicalist: "Соціалістична Республіка Малаві"
+ MLW_syndicalist_ADJ: "Малавійськ"
+ MLW_syndicalist_DEF: "Соціалістична Республіка Малаві"
+ MLW_radical_socialist: "Соціалістична Республіка Малаві"
+ MLW_radical_socialist_ADJ: "Малавійськ"
+ MLW_radical_socialist_DEF: "Соціалістична Республіка Малаві"
+ 
+### Political Parties ###
+ MLW_totalist_party: "Ліга Мпамбулу"
+ MLW_syndicalist_party: "Ліга Мпамбулу"
+ MLW_radical_socialist_party: "Рух Млонда"
+ MLW_social_democrat_party: "Товариство Сторожової Вежі"
+
+ MLW_social_liberal_party: "АНН-Л"
+ MLW_social_liberal_party_long: "Асоціації народів Ньясаленду - Ліві"
+
+ MLW_market_liberal_party: "АНН-Ц"
+ MLW_market_liberal_party_long: "Асоціації народів Ньясаленду - Центристи"
+
+ MLW_social_conservative_party: "АНН-П"
+ MLW_social_conservative_party_long: "Асоціації народів Ньясаленду - Праві"
+
+ MLW_authoritarian_democrat_party: "ЗР-В"
+ MLW_authoritarian_democrat_party_long: "Законодавча рада - Вожді"
+
+ MLW_paternal_autocrat_party: "ЗР-А"
+ MLW_paternal_autocrat_party_long: "Законодавча рада - Аскарі"
+
+ MLW_national_populist_party: "Екстремісти-мілленаристи"
+
+### Characters ###
+ MLW_Flax_Katoba_Musopole: "Flax Katoba Musopole"
+ MLW_Elliot_Kenan_Kamwana: "Elliot Kenan Kamwana"
+ MLW_Charles_Domingo: "Charles Domingo"
+
+ MLW_Levi_Zililo_Mumba: "Levi Zililo Mumba"
+ MLW_Charles_Matinga: "Charles Matinga"
+ MLW_Hastings_Banda: "Hastings Banda"
+ MLW_James_Frederick_Sangala: "James Frederick Sangala"
+
+ MLW_George_Simeon_Mwase: "George Simeon Mwase"

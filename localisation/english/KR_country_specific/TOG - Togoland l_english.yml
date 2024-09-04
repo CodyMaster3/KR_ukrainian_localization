@@ -1,0 +1,27 @@
+﻿l_english:
+
+### Parties ###
+ TOG_social_democrat_party: "Юґенд"
+ TOG_social_democrat_party_long: "Тоголезький молодіжний рух"
+ TOG_social_conservative_party: "СВНП"
+ TOG_social_conservative_party_long: "Союз вождів та народів Півночі"
+ TOG_authoritarian_democrat_party: "ЛВ"
+ TOG_authoritarian_democrat_party_long: "Ліга вождів"
+ TOG_paternal_autocrat_party: "ТУ"
+ TOG_paternal_autocrat_party_long: "Тимчасовий уряд"
+ TOG_national_populist_party: "АЛ"
+ TOG_national_populist_party_long: "Антикатолицька ліга"
+ TOG_social_liberal_party: "ДСНТ"
+ TOG_social_liberal_party_long: "Демократичний союз населення Того"
+ TOG_market_liberal_party: "ТПП"
+ TOG_market_liberal_party_long: "Тоголезька прогресивна партія"
+ TOG_radical_socialist_party: "ТПР"
+ TOG_radical_socialist_party_long: "Тоголезька партія робітників"
+ TOG_syndicalist_party: "ТС"
+ TOG_syndicalist_party_long: "Тоголезькі синдикалісти"
+ TOG_totalist_party: "ТРК"
+ TOG_totalist_party_long: "Тоголезький революційний комітет"
+
+### Characters ###
+ TOG_Sylvanus_Olympio: "Sylvanus Olympio"
+ TOG_Alhaji_Grunshi: "Alhaji Grunshi"

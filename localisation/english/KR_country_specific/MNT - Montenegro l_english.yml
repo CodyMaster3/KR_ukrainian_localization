@@ -1,0 +1,146 @@
+﻿l_english:
+
+### Country Names ###
+ MNT: "Чорногорія"
+ MNT_ADJ: "Чорногорськ"
+ MNT_DEF: "Чорногорія"
+
+ MNT_totalist: "Соціалістична Республіка Чорногорія"
+ MNT_totalist_ADJ: "Чорногорськ"
+ MNT_totalist_DEF: "Соціалістична Республіка Чорногорія"
+ MNT_syndicalist: "Соціалістична Республіка Чорногорія"
+ MNT_syndicalist_ADJ: "Чорногорськ"
+ MNT_syndicalist_DEF: "Соціалістична Республіка Чорногорія"
+ MNT_radical_socialist: "Соціалістична Республіка Чорногорія"
+ MNT_radical_socialist_ADJ: "Чорногорськ"
+ MNT_radical_socialist_DEF: "Соціалістична Республіка Чорногорія"
+
+### Parties ###
+ MNT_totalist_party: "ЛКЧ"
+ MNT_totalist_party_long: "Ліга комуністів Чорногорії"
+ MNT_syndicalist_party: "ЦПР"
+ MNT_syndicalist_party_long: "Центральна профспілка робітників"
+ MNT_radical_socialist_party: "СРП"
+ MNT_radical_socialist_party_long: "Соціалістична робоча партія"
+ MNT_social_democrat_party: "СДПЧ"
+ MNT_social_democrat_party_long: "Соціал-демократична партія Чорногорії"
+ MNT_social_liberal_party: "ЧФП"
+ MNT_social_liberal_party_long: "Чорногорська федералістська партія"
+ MNT_market_liberal_party: "ДП"
+ MNT_market_liberal_party_long: "Демократична партія"
+ MNT_social_conservative_party: "НП"
+ MNT_social_conservative_party_long: "Народна партія"
+ MNT_authoritarian_democrat_party: "ДРЧ"
+ MNT_authoritarian_democrat_party_long: "Державна рада Чорногорії"
+ MNT_paternal_autocrat_party: "СНП"
+ MNT_paternal_autocrat_party_long: "Справжня народна партія"
+ MNT_national_populist_party: "ОСМ"
+ MNT_national_populist_party_long: "Об'єднана сербська молодь"
+ 
+### Events ###
+
+ mnt.1.t: "Реставрація Петрович-Негоша"
+ mnt.1.d: "Реставрація Петрович-Негоша"
+ mnt.1.a: "Реставрація Петрович-Негоша"
+
+### National ideas ###
+
+ MNT_independent_montenegro: "Čojstvo i Junaštvo"
+ MNT_independent_montenegro_desc: ""Мужність і героїзм" - етичний ідеал чорногорської культури, описаний Марком Міляновим. Чорногорці прості та скромні, але не соромляться захищати тих, кого потрібно захищати та хоробрість у найсуворіші часи. Протягом століть гірські чорногорські племена чинили опір загарбникам всюди, а їх скромні хайдучі втілювали в собі ідеал Мужності та Героїзму."
+ MNT_peasant_cooperatives1: "Селянські кооперативи"
+
+ MNT_free_education1: "Безкоштовна освіта"
+
+ MNT_for_the_honour1: "За право, честь та свободу Чорногорії"
+
+ MNT_opium1: "Опіумний прибуток"
+
+ MNT_serbophobia1: "Сербофобія"
+
+### Focuses ###
+
+ montenegro_focus: "Фокуси Чорногорії"
+ MNT_socialist: "Соціалістична Чорногорія"
+ MNT_connection_to_the_people: "Зв'язок із народом"
+ MNT_national_equality: "Національна рівність"
+ MNT_agrarian_reform: "Аграрна реформа"
+ MNT_industrialisation: "Шахта Нікшич"
+ MNT_democratic: "Демократична Чорногорія"
+ MNT_land_reform: "Земельна реформа"
+ MNT_peasant_cooperatives: "Селянські кооперативи"
+ MNT_free_education: "Безкоштовна освіта"
+ MNT_equality_of_religion: "Рівноправність релігії"
+ MNT_reactionary: "Традиційна Чорногорія"
+ MNT_legacy_of_greens: "Спадщина зелених"
+ MNT_for_the_honour: "Za pravo, cast i slobodu Crne Gore"
+ MNT_serbophobia: "Сербофобія"
+ MNT_montenegrin_nationalism: "Чорногорський націоналізм"
+ MNT_army: "Армія Чорногорії"
+ MNT_memories_of_christmas_uprising: "Спогади про Різдвяне повстання"
+ MNT_lessons_of_balkan_war: "Уроки Балканської війни"
+ MNT_arms_modernisation: "Модернізація озброєння"
+ MNT_artillery_modernisation: "Модернізація артилерії"
+ MNT_arms_industry: "Збройна промисловість"
+ MNT_start_of_an_airforce: "Народження ВПС"
+ MNT_economy: "Економіка Чорногорії"
+ MNT_farming_subsidies: "Субсидії фермерським господарствам"
+ MNT_opium: "Опіумні ферми"
+ MNT_wood_industry: "Експорт деревини"
+ MNT_beer: "Пивоварня Trebjesa"
+ MNT_railways: "Лінія Подгориця - Никшич"
+ MNT_port: "Порт Бар"
+ MNT_powerplant: "Elektroprivreda Crne Gore"
+ MNT_research: "Університет Чорногорії"
+
+### Decisions Categories ###
+
+ MNT_port_decisions: "Наше вікно у світ"
+
+### Decisions ###
+
+ MNT_connect_to_port: "З'єднати порт із залізницею"
+ MNT_coastal_facilities: "Капітальний ремонт берегових споруд"
+ MNT_merchant_navy: "Зібрати торговельний флот"
+
+### Characters ###
+ MNT_blazo_jovanovic: "Blažo Jovanović"
+ MNT_sekula_drljevic: "Sekula Drljević"
+ MNT_krsto_popovic: "Krsto Popović"
+ MNT_pavle_durisic: "Pavle Đurišić"
+ MNT_mitar_martinovic: "Mitar Martinović"
+ MNT_mihailo_petrovic_njegos: "Mihailo I"
+ MNT_novica_radovic: "Novica Radović"
+ MNT_milovan_djilas: "Milovan Djilas"
+ MNT_vasilija_vukotic: "Vasilija Vukotić"
+ MNT_jovan_plamenac: "Jovan Plamenac"
+ MNT_lazar_mijuskovic: "Lazar Mijušković"
+ MNT_gavrilo_dozic: "Gavrilo Dožić"
+ MNT_ljubomir_vuksanovic: "Ljubomir Vuksanović"
+ MNT_andrija_radovic: "Andrija Radović"
+ MNT_blazo_dukanovic: "Blažo Đukanović"
+ MNT_bajo_stanisic: "Bajo Stanišić"
+ MNT_army_reform_group: "Army Reform Group"
+ 
+ ### Cosmetic Tag ###
+
+ MTN_kingdom_social_democrat: "Королівство Чорногорія"
+ MTN_kingdom_social_democrat_ADJ: "Чорногорськ"
+ MTN_kingdom_social_democrat_DEF: "Королівство Чорногорія"
+ MTN_kingdom_social_liberal: "Королівство Чорногорія"
+ MTN_kingdom_social_liberal_ADJ: "Чорногорськ"
+ MTN_kingdom_social_liberal_DEF: "Королівство Чорногорія"
+ MTN_kingdom_market_liberal: "Королівство Чорногорія"
+ MTN_kingdom_market_liberal_ADJ: "Чорногорськ"
+ MTN_kingdom_market_liberal_DEF: "Королівство Чорногорія"
+ MTN_kingdom_social_conservative: "Королівство Чорногорія"
+ MTN_kingdom_social_conservative_ADJ: "Чорногорськ"
+ MTN_kingdom_social_conservative_DEF: "Королівство Чорногорія"
+ MTN_kingdom_authoritarian_democrat: "Королівство Чорногорія"
+ MTN_kingdom_authoritarian_democrat_ADJ: "Чорногорськ"
+ MTN_kingdom_authoritarian_democrat_DEF: "Королівство Чорногорія"
+ MTN_kingdom_paternal_autocrat: "Королівство Чорногорія"
+ MTN_kingdom_paternal_autocrat_ADJ: "Чорногорськ"
+ MTN_kingdom_paternal_autocrat_DEF: "Королівство Чорногорія"
+ MTN_kingdom_national_populist: "Королівство Чорногорія"
+ MTN_kingdom_national_populist_ADJ: "Чорногорськ"
+ MTN_kingdom_national_populist_DEF: "Королівство Чорногорія"

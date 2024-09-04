@@ -1,0 +1,38 @@
+﻿l_english:
+
+### Country Names ###
+ PRE: "Пруссія"
+ PRE_ADJ: "Прусськ"
+ PRE_DEF: "Пруссія"
+
+ PRE_totalist: "Східнонімецький Союз"
+ PRE_totalist_ADJ: "Східнонімецьк"
+ PRE_totalist_DEF: "Східнонімецький Союз"
+ PRE_syndicalist: "Східнонімецький Союз"
+ PRE_syndicalist_ADJ: "Східнонімецьк"
+ PRE_syndicalist_DEF: "Східнонімецький Союз"
+ PRE_radical_socialist: "Східнонімецький Союз"
+ PRE_radical_socialist_ADJ: "Східнонімецьк"
+ PRE_radical_socialist_DEF: "Східнонімецький Союз"
+
+### Parties ###
+ PRE_totalist_party: "КРПН-С"
+ PRE_totalist_party_long: "Комуністична робоча партія Німеччини - Східнонімецька"
+ PRE_syndicalist_party: "КРПН-С"
+ PRE_syndicalist_party_long: "Комуністична робоча партія Німеччини - Східнонімецька"
+ PRE_radical_socialist_party: "КРПН-С"
+ PRE_radical_socialist_party_long: "Комуністична робоча партія Німеччини - Східнонімецька"
+ PRE_social_democrat_party: "СДПН-С"
+ PRE_social_democrat_party_long: "Соціал-демократична партія Німеччини – Східнонімецька"
+ PRE_social_liberal_party: "ЗН"
+ PRE_social_liberal_party_long: "Зелений фронт"
+ PRE_market_liberal_party: "НЛП"
+ PRE_market_liberal_party_long: "Націонал-ліберальна партія"
+ PRE_social_conservative_party: "КП"
+ PRE_social_conservative_party_long: "Консервативна партія"
+ PRE_authoritarian_democrat_party: "НФНС"
+ PRE_authoritarian_democrat_party_long: "Національний фронт німецьких станів"
+ PRE_paternal_autocrat_party: "Мілітаррегієрунг"
+ PRE_paternal_autocrat_party_long: "Військовий уряд"
+ PRE_national_populist_party: "ННП"
+ PRE_national_populist_party_long: "Німецька народна партія"

@@ -1,0 +1,40 @@
+﻿l_english:
+
+### Parties ###
+ CAT_totalist_party: "КРЛ"
+ CAT_totalist_party_long: "Крайні республіканські ліві"
+ CAT_syndicalist_party: "НКТ"
+ CAT_syndicalist_party_long: "Національна конфедерація трудящих"
+ CAT_radical_socialist_party: "ЄСПК"
+ CAT_radical_socialist_party_long: "Єдина соціалістична партія Каталонії"
+ CAT_social_democrat_party: "РЛК"
+ CAT_social_democrat_party_long: "Республіканська ліва Каталонія"
+ CAT_social_liberal_party: "КРД"
+ CAT_social_liberal_party_long: "Каталонська республіканська дія"
+ CAT_market_liberal_party: "КРД"
+ CAT_market_liberal_party_long: "Каталонська республіканська дія"
+ CAT_social_conservative_party: "КДС"
+ CAT_social_conservative_party_long: "Каталонський демократичний союз"
+ CAT_authoritarian_democrat_party: "КЛ"
+ CAT_authoritarian_democrat_party_long: "Каталонська ліга"
+ CAT_paternal_autocrat_party: "ТС"
+ CAT_paternal_autocrat_party_long: "Традиціоналістська спільнота"
+ CAT_national_populist_party: "ТдС"
+ CAT_national_populist_party_long: "Тільки для себе!"
+
+### Country Names ###
+ CAT: "Каталонія"
+ CAT_ADJ: "Каталонськ"
+ CAT_DEF: "Каталонія"
+
+### Characters ###
+ CAT_angel_samblancat_i_salanova: "Ángel Samblancat i Salanova"
+ CAT_joan_garcia_i_oliver: "Joan Garcia i Oliver"
+ CAT_joan_comorera_i_soler: "Joan Comorera i Soler"
+ CAT_lluis_companys_i_jover: "Lluís Companys i Jover"
+ CAT_lluis_nicolau_i_dolwer: "Lluís Nicolau i d'Olwer"
+ CAT_joaquim_de_camps_i_arboix: "Joaquim de Camps i Arboix"
+ CAT_manuel_carrasco_i_formiguera: "Manuel Carrasco i Formiguera"
+ CAT_francesc_cambo_i_batlle: "Francesc Cambó i Batlle"
+ CAT_joaquim_bau_i_nolla: "Joaquim Bau i Nolla"
+ CAT_daniel_cardona_i_civit: "Daniel Cardona i Civit"

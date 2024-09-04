@@ -1,0 +1,34 @@
+﻿l_english:
+
+### Parties ###
+ PNG_totalist_party: "КТ"
+ PNG_totalist_party_long: "Комітет тринадцяти"
+ PNG_syndicalist_party: "КТ"
+ PNG_syndicalist_party_long: "Комітет тринадцяти"
+ PNG_radical_socialist_party: "КТ"
+ PNG_radical_socialist_party_long: "Комітет тринадцяти"
+ PNG_social_democrat_party: "АМ"
+ PNG_social_democrat_party_long: "Асоціація метисів"
+ PNG_social_conservative_party: "АМ"
+ PNG_social_conservative_party_long: "Асоціація метисів"
+ PNG_social_liberal_party: "АМ"
+ PNG_social_liberal_party_long: "Асоціація метисів"
+ PNG_market_liberal_party: "АМ"
+ PNG_market_liberal_party_long: "Асоціація метисів"
+ PNG_authoritarian_democrat_party: "КК"
+ PNG_authoritarian_democrat_party_long: "Культ карго"
+ PNG_paternal_autocrat_party: "КК"
+ PNG_paternal_autocrat_party_long: "Культ карго"
+ PNG_national_populist_party: "КК"
+ PNG_national_populist_party_long: "Культ карго"
+
+### Country Names ###
+ PNG: "Папуа"
+ PNG_ADJ: "Папуанськ"
+ PNG_DEF: "Папуа"
+
+### Country leaders ###
+ PNG_sumsuma: "Sumsuma"
+ PNG_sumsuma_leader_desc: ""
+
+ PNG_bohun: "Bohun"

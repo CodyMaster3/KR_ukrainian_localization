@@ -1,0 +1,38 @@
+﻿l_english:
+
+### Country Names ###
+ EPR: "Східна Пруссія"
+ EPR_ADJ: "Східнопрусськ"
+ EPR_DEF: "Східна Пруссія"
+
+ EPR_totalist: "Східно-Прусська Соціалістична Республіка"
+ EPR_totalist_ADJ: "Східнопрусськ"
+ EPR_totalist_DEF: "Східно-Прусська Соціалістична Республіка"
+ EPR_syndicalist: "Східно-Прусська Соціалістична Республіка"
+ EPR_syndicalist_ADJ: "Східнопрусськ"
+ EPR_syndicalist_DEF: "Східно-Прусська Соціалістична Республіка"
+ EPR_radical_socialist: "Східно-Прусська Соціалістична Республіка"
+ EPR_radical_socialist_ADJ: "Східнопрусськ"
+ EPR_radical_socialist_DEF: "Східно-Прусська Соціалістична Республіка"
+
+### Parties ###
+ EPR_totalist_party: "КРПН-СП"
+ EPR_totalist_party_long: "Комуністична робітнича партія Німеччини - Східна Пруссія"
+ EPR_syndicalist_party: "КРПН-СП"
+ EPR_syndicalist_party_long: "Комуністична робітнича партія Німеччини - Східна Пруссія"
+ EPR_radical_socialist_party: "КРПН-СП"
+ EPR_radical_socialist_party_long: "Комуністична робітнича партія Німеччини - Східна Пруссія"
+ EPR_social_democrat_party: "СДПСП"
+ EPR_social_democrat_party_long: "Соціал-демократична партія Східної Пруссії"
+ EPR_social_liberal_party: "ЗФ"
+ EPR_social_liberal_party_long: "Зелений фронт"
+ EPR_market_liberal_party: "ЛЕБ"
+ EPR_market_liberal_party_long: "Ліга економіки та будівництва"
+ EPR_social_conservative_party: "ПБ"
+ EPR_social_conservative_party_long: "Прусський блок"
+ EPR_authoritarian_democrat_party: "НБССК"
+ EPR_authoritarian_democrat_party_long: "Національний блок селян та середнього класу"
+ EPR_paternal_autocrat_party: "НБССК"
+ EPR_paternal_autocrat_party_long: "Національний блок селян та середнього класу"
+ EPR_national_populist_party: "ННП"
+ EPR_national_populist_party_long: "Німецька народна партія"

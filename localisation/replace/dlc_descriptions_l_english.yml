@@ -1,22 +1,26 @@
 ﻿l_english:
 
 #Man the Guns
- DLC_DESCRIPTION_dlc023: "Це доповнення містить наступні можливості:\n£white_dot The §YShip Designer§!\n£white_dot Amphibious Landing Vehicles\n£white_dot Встановлення мін та розмінування\n£white_dot Альтернативні маршрути транспортування"
+ DLC_DESCRIPTION_dlc023: "Це доповнення включає такі особливості:\n£white_dot §YКорабельний конструктор§!\n£white_dot Десантні машини-амфібії\n£white_dot Встановлення мін та розмінування\n£white_dot Альтернативні маршрути транспортування"
 
 #La Resistance
- DLC_DESCRIPTION_dlc028: "Це доповнення містить наступні можливості:\n£white_dot §YIntelligence Agencies§!\n£white_dot Scout Planes and Armoured Cars"
+ DLC_DESCRIPTION_dlc028: "Це доповнення включає такі особливості:\n£white_dot §YРозвідувальні агентства§!\n£white_dot Літаки-розвідники та бронеавтомобілі"
 
 #Battle for the Bosporus
- DLC_DESCRIPTION_dlc031: "Це доповнення є §Rпакетом вмісту§!\nВоно не містить жодних нових механік"
+ DLC_DESCRIPTION_dlc031: "Це доповнення є §Rпакетом вмісту§!\nВін не містить жодних нових механік"
 
 #No Step Back
- DLC_DESCRIPTION_dlc034: "Це доповнення містить наступні можливості:\n£white_dot The §YTank Designer§!\n£white_dot Spirits of the Army, Navy & Air Force\n£white_dot Scorched Earth Tactics\n£white_dot Railway Gun Units"
+ DLC_DESCRIPTION_dlc034: "Це доповнення включає такі особливості:\n£white_dot §YКонструктор танків§!\n£white_dot Духи армії, флоту та авіації\n£white_dot Тактика спаленої землі\n£white_dot Залізничні гарматні підрозділи"
 
 #By Blood Alone
- DLC_DESCRIPTION_dlc036: "Це доповнення містить наступні можливості:\n£white_dot The §YPlane Designer§!\n£white_dot Unit Medals"
+ DLC_DESCRIPTION_dlc036: "Це доповнення включає такі особливості:\n£white_dot §YКонструктор літаків§!\n£white_dot Бойові медалі"
 
 #Arms Against Tyranny
- DLC_DESCRIPTION_dlc038: "Це доповнення містить наступні можливості:\n£white_dot §YMilitary Industrial Organisations§!\n£white_dot The International Market\n£white_dot Special Force Doctrines"
+ DLC_DESCRIPTION_dlc038: "Це доповнення включає такі особливості:\n£white_dot §YВійськово-промислові організації§!\n£white_dot Міжнародний ринок\n£white_dot Доктрини сил спеціального призначення"
 
 #Trial of Allegiance
- DLC_DESCRIPTION_dlc040: "This DLC is a §RContent Pack§!\nIt contains no new mechanics"
+ DLC_DESCRIPTION_dlc040: "Це доповнення є §Rпакетом вмісту§!\nВін не містить жодних нових механік"
+
+TRIAL_OF_ALLEGIANCE: "Trial of Allegiance"
+DLC_OWNED_TEXT: "§GВи володієте цим вмістом!§!"
+DLC_NOT_OWNED_TEXT: "§HКлацніть, щоби відвідати сторінку цього вмісту в крамниці.§!"

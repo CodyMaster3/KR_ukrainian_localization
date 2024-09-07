@@ -1,18 +1,18 @@
 ﻿l_english:
 
 ### Country Names ###
- TRU: "Trucial States"
- TRU_ADJ: "Trucial"
- TRU_DEF: "the Trucial States"
+ TRU: "Договірний Оман"
+ TRU_ADJ: "Договірнооманськ"
+ TRU_DEF: "Договірний Оман"
 
- TRU_totalist: "Socialist Federation of the Gulf"
- TRU_totalist_DEF: "the Socialist Federation of the Gulf"
- TRU_syndicalist: "United Socialist Syndicates of Arabia"
- TRU_syndicalist_DEF: "the United Socialist Syndicates of Arabia"
- TRU_radical_socialist: "Socialist Federation of the Gulf"
- TRU_radical_socialist_DEF: "the Socialist Federation of the Gulf"
+ TRU_totalist: "Соціалістична федерація Перської затоки"
+ TRU_totalist_DEF: "Соціалістична федерація Перської затоки"
+ TRU_syndicalist: "Об'єднані соціалістичні синдикати Аравії"
+ TRU_syndicalist_DEF: "Об'єднані соціалістичні синдикати Аравії"
+ TRU_radical_socialist: "Соціалістична федерація Перської затоки"
+ TRU_radical_socialist_DEF: "Соціалістична федерація Перської затоки"
 
 ### Characters ###
- TRU_hamad_bin_isa_al_khalifa: "Hamad ibn Isa Al-Khalifa"
- TRU_shakhbut_bin_sultan_al_nahyan: "Shakhbut ibn Sultan Al Nahyan"
- TRU_zayed_bin_sultan_al_nahyan: "Zayed ibn Sultan Al Nahyan"
+ TRU_hamad_bin_isa_al_khalifa: "Хамад ібн Іса аль-Халіфа"
+ TRU_shakhbut_bin_sultan_al_nahyan: "Шахбут бін Султан Аль Нагаян"
+ TRU_zayed_bin_sultan_al_nahyan: "Заїд бін Султан Аль Нагаян"

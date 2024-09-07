@@ -1,238 +1,238 @@
 ﻿l_english:
 
 ### Scripted GUI ###
- mitteleuropa_title: "Mitteleuropa"
+ mitteleuropa_title: "Серединна Європа"
 
- mitteleuropa_open_button: "§YMitteleuropa§!"
+ mitteleuropa_open_button: "§YСерединна Європа§!"
  mitteleuropa_open_button_desc: "[ROOT.GetMitteleuropaButtonDesc]"
- mitteleuropa_open_button_desc_enabled: "The Central European Customs Union, also known as §HMitteleuropa§!, is the economic alliance unifying the German bloc, an uncomfortable compromise between German supremacy and progressive vision of pan-European cooperation. Its internal structure is complicated, but its key institutions are the §HMitteleuropa Conference§!, a summit of delegates from all member states that takes place every six months, and the §HMitteleuropa Commission§!, a bureaucratic authority controlled by the member states whose §HPresidency§! is reelected by each Conference.\n\nIn the Mitteleuropa §HTab§!, you are able to see the President country, all member states, and a list of possible §HAgendas§! to propose for the next Conference. Each member state is able to invest §HPolitical Power§! to promote their Agenda of choice or try to be elected the next §HMitteleuropa President§!. At the end of the cycle and the beginning of the next Conference, the President will select and activate §Htwo§! Agendas from the three most supported Agendas - as well as their own Agenda, if they selected any. Then, a new President election will take place and the cycle continues.\n\nAs the founder and most powerful country, §H[GER.GetNameWithFlag]§! has access to a focus tree to unlock new Agenda types and initiate Mitteleuropa reform - as well as §Hbend the conference to their favour...§!\n\nThe Presidency of Mitteleuropa is held by §Y[MIT.GetNameWithFlag]§!\nThe next meeting of the Mitteleuropa Commission will happen in roughly §Y[GER.GetMitteleuropaNextElection]§!."
- mitteleuropa_open_button_desc_disabled: "§YWill become active in 1937§!."
+ mitteleuropa_open_button_desc_enabled: "Центральноєвропейський митний союз, також відомий як §HСерединна Європа§!, економічний альянс, що об'єднує німецький блок, незручним компромісом між німецьким верховенством і прогресивним баченням загальноєвропейської співпраці. Його внутрішня структура є складною, але ключовими інституціями є §HКонференція Серединної Європи§!, саміт представників усіх країн-членів, який відбувається кожні шість місяців, і §HКомісія Серединної Європи§!, бюрократичний орган, контрольований державами-членами, чиє §HПрезидентство§! переобирається на кожній конференції.\n\nУ вкладці §HСерединної Європи§!, ви можете побачити країну-президента, усіх країн-членів, та список можливих §HAgendas§! to propose for the next Conference. Each member state is able to invest §HPolitical Power§! to promote their Agenda of choice or try to be elected the next §HMitteleuropa President§!. At the end of the cycle and the beginning of the next Conference, the President will select and activate §Htwo§! Agendas from the three most supported Agendas - as well as their own Agenda, if they selected any. Then, a new President election will take place and the cycle continues.\n\nAs the founder and most powerful country, §H[GER.GetNameWithFlag]§! has access to a focus tree to unlock new Agenda types and initiate Mitteleuropa reform - as well as §Hbend the conference to their favour...§!\n\nThe Presidency of Mitteleuropa is held by §Y[MIT.GetNameWithFlag]§!\nThe next meeting of the Mitteleuropa Commission will happen in roughly §Y[GER.GetMitteleuropaNextElection]§!."
+ mitteleuropa_open_button_desc_disabled: "§YПочне діяти у 1937 році§!."
 
- mitteleuropa_leader_title: "President"
- mitteleuropa_leader_desc: "The Presidency of Mitteleuropa is held by §Y[MIT.GetNameDef]§!"
+ mitteleuropa_leader_title: "Президент"
+ mitteleuropa_leader_desc: "Президентом Серединної Європи є §Y[MIT.GetNameDef]§!"
 
- mitteleuropa_next_election_title: "Next Election"
+ mitteleuropa_next_election_title: "Наступні вибори"
  mitteleuropa_next_election_value: "[GetMitteleuropaNextElection]"
- mitteleuropa_next_election_desc: "The next meeting of the Mitteleuropa Commission will happen in roughly §Y[GER.GetMitteleuropaNextElection]§!."
- mitteleuropa_next_election_days: "§Y[?days_to_next_election]§! days"
- mitteleuropa_next_election_soon: "§YImminent§!"
+ mitteleuropa_next_election_desc: "Наступне засідання Комісії Серединної Європи відбудеться приблизно через §Y[GER.GetMitteleuropaNextElection]§!."
+ mitteleuropa_next_election_days: "§Y[?days_to_next_election]§! днів"
+ mitteleuropa_next_election_soon: "§YНеминуче§!" #(&?)
 
- agenda_score_title: "Agenda Score"
+ agenda_score_title: "Рейтинг порядку денного" #(&?)
  agenda_score_tooltip: "[!agenda_score_breakdown_button_click]"
 
  agenda_score_tooltip_title: "§Y$agenda_score_title$§!"
- agenda_score_tooltip_base: "Base from §YControlled Factories§!: [?num_of_controlled_factories|G0]"
+ agenda_score_tooltip_base: "Основа з §Yпідконтрольних заводів§!: [?num_of_controlled_factories|G0]"
  agenda_score_tooltip_multiplier: "$mitteleuropa_industry_score$: [?modifier@mitteleuropa_industry_score|+=%0]"
  agenda_score_tooltip_bonus_score: "$mitteleuropa_score$: [?modifier@mitteleuropa_score|+0]"
- agenda_score_tooltip_investment: "£pol_power §YPolitical Power§! investment: [?MIT_agenda_investment|+0]"
- agenda_score_tooltip_final: "Final Score: [?mtth:mitteleuropa_agenda_score_calculation|G0]"
- agenda_score_tooltip_other_supporters: "From Supporters: §G[GetMitteleuropaAgendaSupportersScore]§!"
+ agenda_score_tooltip_investment: "Вклад £pol_power §YПолітичної влади§!: [?MIT_agenda_investment|+0]"
+ agenda_score_tooltip_final: "Фінальний результат: [?mtth:mitteleuropa_agenda_score_calculation|G0]"
+ agenda_score_tooltip_other_supporters: "Від прибічників: §G[GetMitteleuropaAgendaSupportersScore]§!"
 
- agenda_add_score_desc: "Increase your agenda score at the cost of £pol_power §YPolitical Power§!."
- agenda_sub_score_desc: "Recover invested £pol_power §YPolitical Power§! at the cost of agenda score."
+ agenda_add_score_desc: "Підвищити бал порядку денного за рахунок £pol_power §YПолітичної влади§!."
+ agenda_sub_score_desc: "Повернути вкладені £pol_power §YПолітичної влади§! за рахунок балів порядку денного."
 
- add_score_commands: "§GClick§! to spend [GetMitteleuropaSmallCost] £pol_power to increase the score by [GetMitteleuropaSmallValue]\n§GCtrl + Click§! to spend [GetMitteleuropaMediumCost] £pol_power to increase the score by [GetMitteleuropaMediumValue]\n§GShift + Click§! to spend [GetMitteleuropaLargeCost] £pol_power to increase the score by [GetMitteleuropaLargeValue]\n§GCtrl + Shift + Click§! to spend [GetMitteleuropaHugeCost] £pol_power to increase the score by [GetMitteleuropaHugeValue]"
- subtract_score_commands: "§GClick§! to recover [GetMitteleuropaSmallValue] £pol_power, reducing the score by [GetMitteleuropaSmallCost]\n§GCtrl + Click§! to recover [GetMitteleuropaMediumValue] £pol_power, reducing the score by [GetMitteleuropaMediumCost]\n§GShift + Click§! to recover [GetMitteleuropaLargeValue] £pol_power, reducing the score by [GetMitteleuropaLargeCost]\n§GCtrl + Shift + Click§! to recover [GetMitteleuropaHugeValue] £pol_power, reducing the score by [GetMitteleuropaHugeCost]"
+ add_score_commands: "§GКлацніть§! щоб витратити [GetMitteleuropaSmallCost] £pol_power щоб підвищити бал на [GetMitteleuropaSmallValue]\n§GCtrl + клацніть§! щоб витратити [GetMitteleuropaMediumCost] £pol_power щоб підвищити бал на [GetMitteleuropaMediumValue]\n§GShift + клацніть§! щоб витратити [GetMitteleuropaLargeCost] £pol_power щоб підвищити бал на [GetMitteleuropaLargeValue]\n§GCtrl + Shift + клацніть§! щоб витратити [GetMitteleuropaHugeCost] £pol_power щоб підвищити бал на [GetMitteleuropaHugeValue]"
+ subtract_score_commands: "§GКлацніть§! щоб повернути [GetMitteleuropaSmallValue] £pol_power, зменшивши бал на [GetMitteleuropaSmallCost]\n§GCtrl + клацніть§! щоб повернути [GetMitteleuropaMediumValue] £pol_power, зменшивши бал на [GetMitteleuropaMediumCost]\n§GShift + клацніть§! щоб повернути [GetMitteleuropaLargeValue] £pol_power, зменшивши бал на [GetMitteleuropaLargeCost]\n§GCtrl + Shift + клацніть§! щоб повернути [GetMitteleuropaHugeValue] £pol_power, зменшивши бал на [GetMitteleuropaHugeCost]"
 
  member_entry_title: "§Y[THIS.GetName]§!"
 
  member_entry_desc: "[THIS.GetMitteleuropaVotingStatus]"
 
- member_entry_proposing_agenda: "§Y[THIS.GetNameDefCap]§! is currently leading a lobbying effort in favour of §Y[?MIT_supported_agenda:agenda_idea.GetTokenLocalizedKey]§!."
- member_entry_supporting_agenda: "§Y[THIS.GetNameDefCap]§! is currently supporting the §Y[?MIT_supported_agenda:agenda_supporters^0.GetAdjective]§! lobbying effort in favour of §Y[?MIT_supported_agenda:agenda_idea.GetTokenLocalizedKey]§!."
- member_entry_neutral: "§Y[THIS.GetNameDefCap]§! is currently not supporting any agendas."
+ member_entry_proposing_agenda: "§Y[THIS.GetNameDefCap]§! наразі очолює лобіювання на користь §Y[?MIT_supported_agenda:agenda_idea.GetTokenLocalizedKey]§!."
+ member_entry_supporting_agenda: "§Y[THIS.GetNameDefCap]§! наразі підтримує §Y[?MIT_supported_agenda:agenda_supporters^0.GetAdjective]§! лобіювання на користь §Y[?MIT_supported_agenda:agenda_idea.GetTokenLocalizedKey]§!."
+ member_entry_neutral: "§Y[THIS.GetNameDefCap]§! наразі не підтримує жодного порядку денного."
 
  main_agenda_supporter_title: "§Y[?top_agenda:agenda_supporters^0.GetName]§!"
 
  top_agenda_icon_title: "§Y[?top_agenda:agenda_idea.GetTokenLocalizedKey]§!"
  top_agenda_icon_desc: "[!top_agenda_reward_loc_button_click]"
 
- agenda_list_title: "Possible Agendas"
+ agenda_list_title: "Можливі порядки денні"
 
  agenda_button_title: "[?agenda:agenda_idea.GetTokenLocalizedKey]"
  agenda_button_score: "([?agenda:agenda_score|Y0])"
- agenda_button_tooltip: "[?agenda:agenda_idea.GetTokenLocalizedKey]\nTotal Support: [?agenda:agenda_score|Y0]"
- agenda_button_tooltip_delayed: "[!agenda_button_click_enabled]\n§YEffects if enacted:§!\n[!agenda_reward_loc_button_click]"
+ agenda_button_tooltip: "[?agenda:agenda_idea.GetTokenLocalizedKey]\nЗагальна підтримка: [?agenda:agenda_score|Y0]"
+ agenda_button_tooltip_delayed: "[!agenda_button_click_enabled]\n§YЕфекти у разі впровадження:§!\n[!agenda_reward_loc_button_click]"
 
- top_agendas_title: "Most Supported Agendas"
+ top_agendas_title: "Найбільш підтримані порядки денні"
  top_agenda_name: "[?top_agenda:agenda_idea.GetTokenLocalizedKey]"
- top_agenda_score: "Support: [?top_agenda:agenda_score|Y1]"
+ top_agenda_score: "Підтримка: [?top_agenda:agenda_score|Y1]"
 
- MIT_recent_agenda_change: "§Y[ROOT.GetNameDefCap]§! has already recently chosen to support an agenda and must wait [?MIT_recent_agenda_change:days_left|Y0] days to vote again."
+ MIT_recent_agenda_change: "§Y[ROOT.GetNameDefCap]§! вже нещодавно вирішила підтримати порядок денний і має чекати [?MIT_recent_agenda_change:days_left|Y0] днів для повторного голосування."
 
  MIT_generic_industrial_projects: "$MIT_generic_industrial_projects_idea$"
- MIT_generic_industrial_projects_idea: "Support for Industrial Projects"
- MIT_generic_industrial_projects_idea_desc: "Create a more friendly environment for civilian industries throughout Mitteleuropa and finance production expansion."
+ MIT_generic_industrial_projects_idea: "Підтримка промислових проєктів"
+ MIT_generic_industrial_projects_idea_desc: "Створити більш сприятливе середовище для цивільної промисловості по всій Серединній Європі та забезпечити фінансування розширення виробництва."
 
  MIT_generic_industrial_projects_improved_idea: "$MIT_generic_industrial_projects_idea$"
  MIT_generic_industrial_projects_improved_idea_desc: "$MIT_generic_industrial_projects_idea_desc$"
 
  MIT_generic_arms_industry: "$MIT_generic_arms_industry_idea$"
- MIT_generic_arms_industry_idea: "Support for Arms Industry"
- MIT_generic_arms_industry_idea_desc: "Offer cheap loans to military manufacturers throughout Mitteleuropa and strengthen international arms manufacturing cooperation."
+ MIT_generic_arms_industry_idea: "Підтримка військової промисловості"
+ MIT_generic_arms_industry_idea_desc: "Пропонувати дешеві кредити військовим виробникам по всій Серединній Європі та зміцнювати міжнародну співпрацю у сфері виробництва зброї."
 
  MIT_generic_arms_industry_improved_idea: "$MIT_generic_arms_industry_idea$"
  MIT_generic_arms_industry_improved_idea_desc: "$MIT_generic_arms_industry_idea_desc$"
 
  MIT_generic_infrastructure: "$MIT_generic_infrastructure_idea$"
- MIT_generic_infrastructure_idea: "Support for Infrastructure Projects"
- MIT_generic_infrastructure_idea_desc: "Offer cheap loans to infrastructure projects and send advisors on construction from Germany to member states."
+ MIT_generic_infrastructure_idea: "Підтримка інфраструктурних проєктів"
+ MIT_generic_infrastructure_idea_desc: "Пропонувати дешеві кредити на інфраструктурні проєкти та надсилати радників з питань будівництва з Німеччини до країн-членів союзу."
 
  MIT_generic_infrastructure_improved_idea: "$MIT_generic_infrastructure_idea$"
  MIT_generic_infrastructure_improved_idea_desc: "$MIT_generic_infrastructure_idea_desc$"
 
  MIT_generic_financial_bailout: "$MIT_generic_financial_bailout_idea$"
- MIT_generic_financial_bailout_idea: "Financial Injection"
- MIT_generic_financial_bailout_idea_desc: "Organise an injection of capital from German and other European banks into the economies of member states."
+ MIT_generic_financial_bailout_idea: "Фінансове вливання"
+ MIT_generic_financial_bailout_idea_desc: "Організувати вливання капіталу німецьких та інших європейських банків в економіку країн-членів."
 
  MIT_generic_financial_bailout_improved_idea: "$MIT_generic_financial_bailout_idea$"
  MIT_generic_financial_bailout_improved_idea_desc: "$MIT_generic_financial_bailout_idea_desc$"
 
  MIT_generic_industrial_advisors: "$MIT_generic_industrial_advisors_idea$"
- MIT_generic_industrial_advisors_idea: "Mitteleuropa Industrial Advisors"
- MIT_generic_industrial_advisors_idea_desc: "Send German advisors on industry and technology to member states of Mitteleuropa."
+ MIT_generic_industrial_advisors_idea: "Промислові радники Серединної Європи"
+ MIT_generic_industrial_advisors_idea_desc: "Направити німецьких радників з питань промисловості та технологій до країн-членів Серединної Європи."
 
  MIT_generic_industrial_advisors_improved_idea: "$MIT_generic_industrial_advisors_idea$"
  MIT_generic_industrial_advisors_improved_idea_desc: "$MIT_generic_industrial_advisors_idea_desc$"
 
  MIT_generic_arms_experts: "$MIT_generic_arms_experts_idea$"
- MIT_generic_arms_experts_idea: "Mitteleuropa Arms Experts"
- MIT_generic_arms_experts_idea_desc: "Send experts on arms construction from the Imperial German Army to member states of Mitteleuropa."
+ MIT_generic_arms_experts_idea: "Експерти з озброєнь Серединної Європи"
+ MIT_generic_arms_experts_idea_desc: "Направити експертів з розробки зброї з Імперської німецької армії до країн-членів Серединної Європи"
 
  MIT_generic_arms_experts_improved_idea: "$MIT_generic_arms_experts_idea$"
  MIT_generic_arms_experts_improved_idea_desc: "$MIT_generic_arms_experts_idea_desc$"
 
  MIT_generic_cohesion_fund: "$MIT_generic_cohesion_fund_idea$"
- MIT_generic_cohesion_fund_idea: "Cohesion Fund Support"
- MIT_generic_cohesion_fund_idea_desc: "Provide funds to Eastern European states to reduce their underdevelopment and bring them closer to Western economic levels."
+ MIT_generic_cohesion_fund_idea: "Підтримка Фонду згуртованості"
+ MIT_generic_cohesion_fund_idea_desc: "Надавати кошти східноєвропейським країнам для скорочення їх відсталості та наближення до західних економічних рівнів."
 
  MIT_generic_legal_reform: "$MIT_generic_legal_reform_idea$"
- MIT_generic_legal_reform_idea: "Advisors for Legal Reform"
- MIT_generic_legal_reform_idea_desc: "Send advisors from German universities and courts to member states of Mitteleuropa to provide advice on legislation and coordinate their laws with Mitteleuropa agreements."
+ MIT_generic_legal_reform_idea: "Радники з правової реформи"
+ MIT_generic_legal_reform_idea_desc: "Направити радників з німецьких університетів та судів до країн-членів Серединної Європи для надання консультацій з питань законодавства та узгодження їхніх законів з угодами Серединної Європи."
 
  MIT_directive_system: "$MIT_directive_system_idea$"
- MIT_directive_system_idea: "§RCreate the Directive System§!"
- MIT_directive_system_idea_desc: "Directives are resolutions by the Mitteleuropa Commission on goals or projects - they are mandatory to reach in some time, but their implementation falls on the member states independently, retaining their autonomy. §YImproves the effect of agendas somewhat.§!"
+ MIT_directive_system_idea: "§RСтворити систему директив§!"
+ MIT_directive_system_idea_desc: "Директиви — це резолюції Комісії Серединної Європи щодо цілей або проєктів — вони є обов'язковими для досягнення через певний час, але їх виконання покладається на країни-члени самостійно, зберігаючи їхню автономію. §YДещо покращує ефект порядків денних.§!"
 
  MIT_consultative_assembly: "$MIT_consultative_assembly_idea$"
- MIT_consultative_assembly_idea: "§RCreate the Consultative Assembly§!"
- MIT_consultative_assembly_idea_desc: "The conference of foreign affairs ministers will be replaced with delegates from national parliaments, who organise themselves by ideology rather than nationality. §YReduces power imbalance in the Conference and increases effect of spending Political Power in the Mitteleuropa mechanic.§!"
+ MIT_consultative_assembly_idea: "§RСтворити консультативну асамблею§!"
+ MIT_consultative_assembly_idea_desc: "Конференція міністрів закордонних справ буде замінена представниками національних парламентів, які об'єднані за ідеологічною, а не національною ознакою. §YЗменшує дисбаланс влади в конференції та збільшує ефект від витрачання політичної влади в механізмі Серединної Європи.§!"
 
  MIT_qualified_majority: "$MIT_qualified_majority_idea$"
- MIT_qualified_majority_idea: "§REstablish the Principle of Qualified Majority§!"
- MIT_qualified_majority_idea_desc: "Create a system where every vote must gain not only a majority of the Conference, but also indirectly at least 60 percent of the total population of Mitteleuropa, will ensure Germany must negotiate with as many member states as possible to gain their approval, and the organisation will become more pluralistic."
+ MIT_qualified_majority_idea: "§RЗаснувати принцип кваліфікованої більшості§!"
+ MIT_qualified_majority_idea_desc: "Створити систему, за якої кожен голос повинен отримати не лише більшість голосів на конференції, але й опосередковано щонайменше 60 відсотків від загальної кількості населення Серединної Європи, забезпечить Німеччині необхідність вести переговори з якомога більшою кількістю держав-членів, щоб отримати їхнє схвалення, а організація стане більш плюралістичною."
 
  MIT_assembly_approval: "$MIT_assembly_approval_idea$"
- MIT_assembly_approval_idea: "§RMandate Assembly Approval for Institutional Appointments§!"
- MIT_assembly_approval_idea_desc: "All major appointments to the Mitteleuropa administration will be approved by the members of the Conference. §YModifies the Mitteleuropa spirit.§!"
+ MIT_assembly_approval_idea: "§RЗатвердження мандатної асамблеї для інституційних призначень§!"
+ MIT_assembly_approval_idea_desc: "Всі основні призначення в адміністрації СЄ будуть затверджуватися членами Конференції. §YЗмінює дух Серединної Європи§!"
 
  MIT_regulation_system: "$MIT_regulation_system_idea$"
- MIT_regulation_system_idea: "§RCreate the Regulation System§!"
- MIT_regulation_system_idea_desc: "Regulations are resolutions by the Mitteleuropa Commission which are mandatory to follow by all member states no matter their stance on the policy. §YImproves the effect of agendas and raises power imbalance in the Conference.§!"
+ MIT_regulation_system_idea: "§RСтворити систему регулювання§!"
+ MIT_regulation_system_idea_desc: "Регулювання - це резолюції Комісії Серединної Європи, які є обов'язковими для виконання всіма державами-членами, незалежно від їхньої позиції щодо політики. §YПокращує вплив порядку денного та збільшує дисбаланс сил на конференції.§!"
 
  MIT_budget_quota: "$MIT_budget_quota_idea$"
- MIT_budget_quota_idea: "§REstablish the Budget Contribution Quota§!"
- MIT_budget_quota_idea_desc: "All voting in the Conference is now weighted according to the country's contribution to the budget of Mitteleuropa, drastically in favour of Germany as this is their project first and foremost. §YMakes Mitteleuropa mechanics much cheaper for the sitting President.§!"
+ MIT_budget_quota_idea: "§RВстановити квоту бюджетного внеску§!"
+ MIT_budget_quota_idea_desc: "Всі голосування на конференції тепер зважуються відповідно до внеску країни до бюджету Серединної Європи, різко на користь Німеччини, оскільки це, в першу чергу, їхній проєкт. §YЦе робить механіку Серединної Європи набагато дешевшою для чинного президента.§!"
 
  MIT_enforcement_directorate: "$MIT_enforcement_directorate_idea$"
- MIT_enforcement_directorate_idea: "§REstablish the Directorate of Enforcement§!"
- MIT_enforcement_directorate_idea_desc: "Establish a Directorate which will oversee all of the member states and hold power to sanction states which do not follow Mitteleuropa regulations to the letter. §YModifies the Mitteleuropa spirit.§!"
+ MIT_enforcement_directorate_idea: "§RЗаснувати виконавчу дирекцію§!"
+ MIT_enforcement_directorate_idea_desc: "Заснувати дирекцію, яка здійснюватиме нагляд за всіма країнами-членами та матиме повноваження застосовувати санкції до держав, які не дотримуються правил Серединної Європи в повному обсязі. §YЗмінює дух Серединної Європи.§!"
 
  MIT_enlargement_directorate: "$MIT_enlargement_directorate_idea$"
- MIT_enlargement_directorate_idea: "§REstablish the Directorate of Enlargement§!"
- MIT_enlargement_directorate_idea_desc: "Allow the Mitteleuropa President to invite countries into Mitteleuropa."
+ MIT_enlargement_directorate_idea: "§RЗаснувати директорат з питань розширення§!"
+ MIT_enlargement_directorate_idea_desc: "Дозволити Президенту СЄ запрошувати країни до союзу."
 
  MIT_common_travel_area: "$MIT_common_travel_area_idea$"
- MIT_common_travel_area_idea: "§REstablish the European Common Travel Area§!"
- MIT_common_travel_area_idea_desc: "Establish a common travel area in Mitteleuropa. §YModifies the Mitteleuropa spirit.§!"
+ MIT_common_travel_area_idea: "§RЗаснувати Європейський спільний туристичний простір§!"
+ MIT_common_travel_area_idea_desc: "Створити спільний простір для подорожей у Серединній Європі. §YЗмінює дух Серединної Європи§!"
 
  MIT_support_local_production: "$MIT_support_local_production_idea$"
- MIT_support_local_production_idea: "Support for Local Production"
- MIT_support_local_production_idea_desc: "Establish regulations on certain local products to protect them from competition that is caused by the creation of the common travel area."
+ MIT_support_local_production_idea: "Підтримка місцевого виробництва"
+ MIT_support_local_production_idea_desc: "Встановити правила щодо певних місцевих продуктів, щоб захистити їх від конкуренції, викликаної створенням спільного туристичного простору."
 
  MIT_mitteleuropa_loans: "$MIT_mitteleuropa_loans_idea$"
- MIT_mitteleuropa_loans_idea: "Mitteleuropa Loans"
- MIT_mitteleuropa_loans_idea_desc: "Provide cheap loans to member states from the Bank of Central Europe for national development."
+ MIT_mitteleuropa_loans_idea: "Кредити Серединної Європи"
+ MIT_mitteleuropa_loans_idea_desc: "Надавати дешеві кредити країнам-членам від Банку Центральної Європи для національного розвитку."
 
  MIT_europamark: "$MIT_europamark_idea$"
- MIT_europamark_idea: "§RCreate the Europamark§!"
- MIT_europamark_idea_desc: "Create a common reserve currency for Mitteleuropa. §YModifies the Mitteleuropa spirit.§!"
+ MIT_europamark_idea: "§RСтворити Євромарку§!"
+ MIT_europamark_idea_desc: "Створити спільну резервну валюту для Серединної Європи. §YЗмінює дух Серединної Європи§!"
 
  MIT_central_europe_bank: "$MIT_central_europe_bank_idea$"
- MIT_central_europe_bank_idea: "§RCreate the Bank of Central Europe§!"
- MIT_central_europe_bank_idea_desc: "Create a central bank for Mitteleuropa. §YModifies the Mitteleuropa spirit.§!"
+ MIT_central_europe_bank_idea: "§RСтворити Банк Центральної Європи§!"
+ MIT_central_europe_bank_idea_desc: "Створити центральний банк для Серединної Європи. §YЗмінює дух Серединної Європи.§!"
 
  MIT_challenge_leadership: "$MIT_challenge_leadership_idea$"
- MIT_challenge_leadership_idea: "§CChallenge the Current Leadership§!"
- MIT_challenge_leadership_idea_desc: "Rally the member states of Mitteleuropa to try to remove the current Mitteleuropa Chairman and appoint the leader of the challenging faction as the new Chairman."
+ MIT_challenge_leadership_idea: "§CКинути виклик чинному керівництву§!"
+ MIT_challenge_leadership_idea_desc: "Згуртувати країни-члени Серединної Європи, щоб спробувати усунути нинішнього голову Серединної Європи і призначити лідера опозиційної фракції новим головою."
 
  MIT_defied_leadership_challenge: "Defied Leadership Challenge"
 
 ### Economic Sphere GUI elements ###
- KR_mitteleuropa_name: "§YMitteleuropa§!"
+ KR_mitteleuropa_name: "§YСерединна Європа§!"
  KR_mitteleuropa_desc: "§L$MIT_mitteleuropa_modifier_desc$§!"
 
 ### Modifiers ###
- mitteleuropa_score: "Mitteleuropa Score"
+ mitteleuropa_score: "Показник Серединної Європи" #  (&?)
  mitteleuropa_score_tooltip: "$mitteleuropa_score$: $RIGHT|+=0$"
 
- mitteleuropa_industry_score: "Mitteleuropa Score from Industry"
+ mitteleuropa_industry_score: "Показник Серединної Європи у промисловості"
  mitteleuropa_industry_score_tooltip: "$mitteleuropa_industry_score$: $RIGHT|+=%2$"
 
- mitteleuropa_investment_cost: "Mitteleuropa Investment Cost"
+ mitteleuropa_investment_cost: "Інвестиційні витрати в Серединній Європі"
  mitteleuropa_investment_cost_tooltip: " $mitteleuropa_investment_cost$: $RIGHT|-=%0$"
 
 ### Tooltips ###
- MIT_already_in_tt: "§R§Y[FROM.GetNameWithFlag]§! is already a member of Mitteleuropa.§!"
- MIT_not_in_same_faction_tt: "§R§Y[FROM.GetNameWithFlag]§! is not a member of [ROOT.GetFactionName].§!"
+ MIT_already_in_tt: "§R§Y[FROM.GetNameWithFlag]§! вже є членом Серединної Європи.§!"
+ MIT_not_in_same_faction_tt: "§R§Y[FROM.GetNameWithFlag]§! не є членом [ROOT.GetFactionName].§!"
  MIT_requires_enlargement_agenda_tt: "§RRequires enactment of the §Y$MIT_enlargement_directorate$§! agenda.§!"
- MIT_can_invite_subject_only_if_overlord_is_member_tt: "§RTheir overlord §Y[FROM.overlord.GetNameWithFlag]§! is not a member of Mitteleuropa.§!"
+ MIT_can_invite_subject_only_if_overlord_is_member_tt: "§RЇхній правитель §Y[FROM.overlord.GetNameWithFlag]§! не є членом Серединної Європи.§!"
 
- MIT_is_active: "The §YMitteleuropa System§! is active"
- MIT_is_active_NOT: "The §YMitteleuropa System§! is not active"
+ MIT_is_active: "§YСистема Серединної Європи§! активна"
+ MIT_is_active_NOT: "T§YСистема Серединної Європи§! не активна"
 
- MIT_is_current_president: "Is the §YPresident of the Mitteleuropean Commission§!"
- MIT_is_current_president_NOT: "Is §Rnot§! the §YPresident of the Mitteleuropean Commission§!"
+ MIT_is_current_president: "Є §YПрезидентом Комісії Серединної Європи§!"
+ MIT_is_current_president_NOT: "§RНе є§! §YПрезидентом Комісії Серединної Європи§!"
 
- MIT_mechanics_unlocked: "The §YMitteleuropa§! Mechanics are now enabled."
- MIT_focus_unlocked: "The §YMitteleuropa§! Focus Tree is now unlocked."
+ MIT_mechanics_unlocked: "§YСерединна Європа§! Механіки увімкнено."
+ MIT_focus_unlocked: "§YСерединна Європа§! Дерево фокусів розблоковано."
 
- MIT_becomes_new_chairman: "§Y[ROOT.GetNameWithFlag]§! becomes the new §YPresident of the Mitteleuropean Commission§!"
+ MIT_becomes_new_chairman: "§Y[ROOT.GetNameWithFlag]§! стає новим §YПрезидентом Комісії Серединної Європи§!"
 
 ### Dynamic Modifiers ###
- MIT_mitteleuropa_modifier: "Member of Mitteleuropa"
- MIT_mitteleuropa_modifier_desc: "Officially titled the Central European Economic Union, Mitteleuropa is a customs and economic union unifying Germany and its sphere of influence, established after the Weltkrieg. Member states of Mitteleuropa find the impact of this agreement mixed - while the economic connections with Germany are beneficial, the agreement is heavily weighted in German favour."
+ MIT_mitteleuropa_modifier: "Член Серединної Європи"
+ MIT_mitteleuropa_modifier_desc: "Офіційна назва «Центральноєвропейський економічний союз» - це митний та економічний союз, що об'єднує Німеччину та сферу її впливу, створений після Другої світової війни. Країни-члени Серединної Європи вважають вплив цієї угоди неоднозначним - хоча економічні зв'язки з Німеччиною є вигідними, угода має значну перевагу на користь Німеччини."
 
- MIT_modify_mitteleuropa_modifier: "Modify §Y$MIT_mitteleuropa_modifier$§! by"
+ MIT_modify_mitteleuropa_modifier: "Змінює §Y$MIT_mitteleuropa_modifier$§! by"
  MIT_targeted_and_research_modifiers_tt: "[THIS.GetMitteleuropaBerlinBureaucracyActive]"
 
  MIT_berlin_bureaucracy_modifier: "(§Y[GER.GetNameWithFlag]§!)\n   $MODIFIER_CIC_TO_TARGET_FACTOR$: [?0.05|R=%]\n   $MODIFIER_TRADE_TO_TARGET_FACTOR$: [?0.25|G=%]\n\n"
- MIT_enforcement_directorate_modifier: "Cheapens the §YMitteleuropa§! mechanics for §Y[GER.GetNameWithFlag]§!."
- MIT_enlargement_directorate_modifier: "Unlocks Diplomatic Action: §YInvite to Mitteleuropa§!"
- MIT_regulation_system_modifier: "§YImproves the effects§! of all generic §YMitteleuropa§! agendas."
+ MIT_enforcement_directorate_modifier: "Здешевлює механіки §YСерединної Європи§! для §Y[GER.GetNameWithFlag]§!."
+ MIT_enlargement_directorate_modifier: "Розблоковує дипломатичну дію: §YЗапрошення до Серединної Європи§!"
+ MIT_regulation_system_modifier: "§YПокращує ефекти§! з усіх загальних порядків денних §YСерединної Європи§!."
 
 ### Economic Spheres ###
  MIT_tooltip: "[GetMitteleuropaName]"
 
- MIT_tooltip_leader: "Leader of §YMitteleuropa§!"
- MIT_tooltip_member: "Member of §YMitteleuropa§!"
+ MIT_tooltip_leader: "Лідер §YСерединної Європи§!"
+ MIT_tooltip_member: "Член §YСерединної Європи§!"
 
  MIT_tooltip_desc: "[GetMitteleuropaDesc]"
  MIT_tooltip_desc_text: "§L$MIT_mitteleuropa_modifier_desc$§!"
 
 ### Scripted Diplomatic Actions ###
- MIT_INVITE_MEMBER_TITLE: "Invite to Mitteleuropa"
- MIT_INVITE_MEMBER_ACTION_DESC: "Invite this country to the Central European Customs Union."
- MIT_INVITE_MEMBER_ACTION_SEND_DESC: "[FROM.GetName] is in the German bloc, but has not yet joined the Central European Customs Union. We should invite them."
+ MIT_INVITE_MEMBER_TITLE: "Запросити до Серединної Європи"
+ MIT_INVITE_MEMBER_ACTION_DESC: "Запросити цю країну до Центральноєвропейського митного союзу."
+ MIT_INVITE_MEMBER_ACTION_SEND_DESC: "[FROM.GetName] знаходиться в німецькому блоці, але ще не приєдналася до Центральноєвропейського митного союзу. Ми повинні їх запросити."
 
- ai_reason_base_reluctance: "Base Reluctance"
- ai_reason_subject: "§Y[FROM.GetNameDefCap]§! is a puppet of §Y[ROOT.GetNameDef]§!"
- ai_reason_same_government_type: "§Y[FROM.GetNameDefCap]§! has a similar government to §Y[ROOT.GetNameDef]§!"
- ai_reason_opinion: "§Y[FROM.GetAdjective]§! opinion of §Y[ROOT.GetNameDef]§!"
- ai_reason_major: "§Y[FROM.GetNameDefCap]§! is considered a Major Country"
- ai_reason_industry_difference: "Industry difference of countries"
+ ai_reason_base_reluctance: "Базове небажання"
+ ai_reason_subject: "§Y[FROM.GetNameDefCap]§! є маріонеткою §Y[ROOT.GetNameDef]§!"
+ ai_reason_same_government_type: "§Y[FROM.GetNameDefCap]§! має уряд, подібний до §Y[ROOT.GetNameDef]§!"
+ ai_reason_opinion: "§Y[FROM.GetAdjective]§! думка про §Y[ROOT.GetNameDef]§!"
+ ai_reason_major: "§Y[FROM.GetNameDefCap]§! — велика держава"
+ ai_reason_industry_difference: "Промислові відмінності між країнами"
 
-### Events ###
+### Events ### # ((+))
  germany_mitteleuropa_events.1.t: "Mitteleuropa Commission Summit: Choice of Agenda"
  germany_mitteleuropa_events.1.d.no_voting: "Delegates from all Mitteleuropa states gather in Berlin for biannual discussion as well as negotiations on the direction of the bloc's activities. Though hundreds of different issues will be discussed, only those which received the attention of enough member states will receive the time of day they need. It will also be up to the Chairman of the Mitteleuropean Commission, who is currently from [MIT.GetNameDef], to select which of the many proposals will be implemented by the bureaucratic authorities.\n\nHowever, it appears that no proposals were brought to the table, so the summit passed without anything important passed."
  germany_mitteleuropa_events.1.d.unanimous: "Delegates from all Mitteleuropa states gather in Berlin for biannual discussion as well as negotiations on the direction of the bloc's activities. Though hundreds of different issues will be discussed, only those which received the attention of enough member states will receive the time of day they need. It will also be up to the Chairman of the Mitteleuropean Commission, who is currently from [MIT.GetNameDef], to select which of the many proposals will be implemented by the bureaucratic authorities.\n\nThe proposal put forward by the chairman has found no competition, and so it will be implemented."

@@ -66,20 +66,6 @@
  MAL_national_populist_ADJ: "Малайзьк"
  MAL_national_populist_DEF: "Шривіджайська Імперія"
 
- SAR: "Саравак"
- SAR_ADJ: "Саравакськ"
- SAR_DEF: "Саравак"
-
- SAR_totalist: "Соціалістична Республіка Саравак"
- SAR_totalist_ADJ: "Саравакськ"
- SAR_totalist_DEF: "Соціалістична Республіка Саравак"
- SAR_syndicalist: "Соціалістична Республіка Саравак"
- SAR_syndicalist_ADJ: "Саравакськ"
- SAR_syndicalist_DEF: "Соціалістична Республіка Саравак"
- SAR_radical_socialist: "Соціалістична Республіка Саравак"
- SAR_radical_socialist_ADJ: "Саравакськ"
- SAR_radical_socialist_DEF: "Соціалістична Республіка Саравак"
-
 ### Characters ###
  MAL_ibrahim_i_of_johor: "Ibrahim I of Johor"
  MAL_yusof_bin_ishak: "Yusof bin Ishak"

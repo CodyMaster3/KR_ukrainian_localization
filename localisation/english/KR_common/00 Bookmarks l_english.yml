@@ -9,6 +9,18 @@
  KR_scenario_name: "Спадщина Вельткригу"
  KR_scenario_desc: "На світанку 1936 року спадщина Вельткригу важким тягарем лягає на плечі нового покоління. Німеччина стоїть у центрі світу, неперевершена потуга, але біля її ніг лежать вороги, як старі, так і нові: від французького синдикалістського Інтернаціоналу до старої Антанти, від незламної Росії до сонця, що сходить, яке не розкаюється. У той самий час Німеччина, завдяки своїм величезним можливостям, небезпечно перенапружується, її союзники в Константинополі та Відні відчужуються, а по той бік Атлантики американський колосс хитається. Минуло сімнадцять років після закінчення війни, і мало хто очікує, що новий рік принесе переломний момент, але незабаром одна-єдина іскра може бути достатньою, щоб запалити порохову бочку заново..."
 
+### Nation Selection Screen ###
+ new_this_patch_title: "НОВЕ В ЦЬОМУ ПАТЧІ"
+
+ feature_highlight_icon_0_tt: "§YКористувацькі досягнення§!\nЦе оновлення містить 116 користувацьких досягнень, які можна розблокувати під час проходження гри.\n\n§YПРИМІТКА:§!\n£white_dot The ability to unlock custom achievements is enabled by default.\n£white_dot You can toggle it in the £kr_options_icon  Ingame Options Menu.\n£white_dot You do not need to be in Ironman Mode to unlock achievements.\n£white_dot To preserve your progress, you will need to enable Cloud Saves.\n\nВи можете скористатися консольною командою §4debug_custom_achievements§! щоб скинути розблоковані досягнення.\nЦе вплине на всі користувацькі досягнення, які ви заробили, а не лише на досягнення для Kaiserreich."
+ feature_highlight_icon_1_tt: "§YBeiyang Content Expansion§!\n§LBorn from the Xinhai Revolution, the Chinese Republic would ultimately shatter into numerous pieces as local generals and warlords claimed the spirit of the Five Races Under One Union. Fighting to claim its legacy, the cliques would be united by the §YZhili§! in 1929.§!\n\nIn this update, the §zNorthern Zhili§!, §aFengtian§!, the §YSouthern Zhili§!, and other descendants of the Beiyang Republic have received various expansions and overhauls of their content."
+ feature_highlight_icon_2_tt: "§YReworked Annexations§!\nAnnexations and Partitions have been completely reworked to allow for more dynamic gameplay.\n\nInstead of timed missions, you will be able to release subjects once their home continent has been liberated from the enemy. Until then, you will have to keep their territory under military occupation."
+
+ highlight_minor_0_tt: "§gSichuan's§! content for its §zZhili Remnants§! has been updated.\nТепер у ньому є §Yнові національі фокуси§!, §Yподії§!, §Yперсонажі§! та §Yбільше§!."
+ highlight_minor_1_tt: "The §mLeague of Eight Province's§! content has been updated.\nIt has received §Ynew military§! and §Yforeign policy focus trees§!, new §Ycharacters§! and §Ymore§!."
+ highlight_minor_2_tt: "All of the §cQing§!'s §zZhili§! content has been updated.\nIt now features §Ynew national focus effects§!, §Yevents§!, §Ycharacters§! and §Ymore§!."
+
+
 #######################
 ### Current Nations ###
 #######################

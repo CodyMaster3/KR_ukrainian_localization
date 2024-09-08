@@ -20,14 +20,14 @@
  is_valid_annexation_state: "Належить §Y[ROOT.GetNameWithFlag]§! і §Rне§! a core or claimed"
 
 ### Events and Decisions ###
- annexation_decisions:0 "Рішення про анексію"
- annexation_decisions_desc:0 "Отримавши контроль над новими ділянками землі, ми тепер маємо вирішити, що з цим робити. Окупація може бути дорогою та дестабілізуючою, але вона дає нам прямий доступ до багатств цих нових земель. З іншого боку, створення маріонеткових урядів уникає таких труднощів, але не завжди так надійне. У будь-якому випадку, доля народів лежить у наших руках."
+ annexation_decisions: "Рішення про анексію"
+ annexation_decisions_desc: "Отримавши контроль над новими ділянками землі, ми тепер маємо вирішити, що з цим робити. Окупація може бути дорогою та дестабілізуючою, але вона дає нам прямий доступ до багатств цих нових земель. З іншого боку, створення маріонеткових урядів уникає таких труднощів, але не завжди так надійне. У будь-якому випадку, доля народів лежить у наших руках."
 
- annex.give_to_ally:0 "Передайте його нашим [?target.GetAdjective]им союзникам."
- annex.give_to_neutral:0 "Віддати його державі [?target.GetNonIdeologyNameDef] - він нам не потрібен."
+ annex.give_to_ally: "Передайте його нашим [?target.GetAdjective]им союзникам."
+ annex.give_to_neutral: "Віддати його державі [?target.GetNonIdeologyNameDef] - він нам не потрібен."
 
- annex.occupation:0 "Військова окупація - єдине рішення."
- annex.integration:0 "Ассимілювати в [Root.GetAdjective]у територію"
+ annex.occupation: "Військова окупація - єдине рішення."
+ annex.integration: "Ассимілювати в [Root.GetAdjective]у територію"
 
  annex.europe.give_to_gex:0 "[GEX.GetGrantTerritoryEventOption]"
 
@@ -40,8 +40,8 @@
  annex.asia.give_to_gea:0 "[GEA.GetGrantTerritoryEventOption]"
  annex.asia.give_to_dei:0 "[DEI.GetGrantTerritoryEventOption]"
 
- annex.china.release_china:0 "[ROOT.china_annexation_release_event_option]"
- annex.china.release_china_take_coastline:0 "[ROOT.china_annexation_release_event_option_take_coast]"
+ annex.china.release_china: "[ROOT.china_annexation_release_event_option]"
+ annex.china.release_china_take_coastline: "[ROOT.china_annexation_release_event_option_take_coast]"
  annex.china.give_to_china: "Віддати землі державі [china_ally_target.GetNameDef]!"
  annex.china.give_to_china_take_coastline: "Забрати узбережжя, решту віддати д-ві [china_ally_target.GetNameDef]!"
  annex.china.fading_sun_return_to_china: "Передати землі д-ві [japan_forced_return.GetNameDef] за умовами договору."

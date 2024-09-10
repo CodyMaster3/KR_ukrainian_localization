@@ -194,8 +194,8 @@
  MIT_is_current_president: "Є §YПрезидентом Комісії Серединної Європи§!"
  MIT_is_current_president_NOT: "§RНе є§! §YПрезидентом Комісії Серединної Європи§!"
 
- MIT_mechanics_unlocked: "§YСерединна Європа§! Механіки увімкнено."
- MIT_focus_unlocked: "§YСерединна Європа§! Дерево фокусів розблоковано."
+ MIT_mechanics_unlocked: "Механіки §YСерединної Європи§! увімкнено."
+ MIT_focus_unlocked: "Дерево фокусів §YСерединної Європи§! розблоковано."
 
  MIT_becomes_new_chairman: "§Y[ROOT.GetNameWithFlag]§! стає новим §YПрезидентом Комісії Серединної Європи§!"
 

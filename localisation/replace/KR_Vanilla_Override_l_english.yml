@@ -42,8 +42,11 @@
  CREATING_CHKSUM: "Проводимо пряме керівництво"
  GENERATING_GRADIENT_BORDERS: "Починаємо революцію"
 
- play_in_english_tt: "Розкажіть про українську локалізацію вашим знайомим. Хай квітне укр. спільнота!"
- 
+ OLD_SAVEGAME: "§RЦе збереження з іншої версії гри та не може бути завантажене.§!\n$rollback_tt$"
+ OLD_SAVEGAME_POPUP: "Це збереження з іншої версії гри та не може бути завантажене.\n$rollback_tt$"
+ OLD_SAVEGAME_ALLOWED: "§RЦе збереження з іншої версії гри і може поводитися неочікувано при завантаженні.§!\n$rollback_tt$"
+ rollback_tt: "Попередні версії Kaiserreich доступні за посиланнями\n§4github.com/Kaiserreich/Kaiserreich-4-Archive/tags§!"
+
  FE_SELECT_COUNTRY: "Вибрати країну"
 
  FLEET_NAME: "$NUMBER$ флот держави $COUNTRY$"
@@ -55,11 +58,11 @@
  COMMAND_GROUP_NAME_GENERIC: "$N$-а армія"
  ARMY_GROUP_NAME_GENERIC: "$N$-а група армій"
 
-#These two don't seem to work
-#COMMAND_GROUP_NAME_GER: "$N$. Armee"
-#ARMY_GROUP_NAME_GER: "$N$. Armeegruppe"
-
-#missing from vanilla
+ #These two don't seem to work
+ #COMMAND_GROUP_NAME_GER: "$N$. Armee"
+ #ARMY_GROUP_NAME_GER: "$N$. Armeegruppe"
+ 
+ #missing from vanilla
  diff_normal_player: "Регуляр"
  interwar_antitank: "Міжвоєнна ПТО"
 

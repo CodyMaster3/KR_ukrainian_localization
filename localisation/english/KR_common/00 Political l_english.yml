@@ -162,11 +162,21 @@
 ### Demobilisation ###
  mobilisation_penalty_modifier: "Верхній ліміт дивізій"
 
- unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
+ unit_limit_title: "Max Supported Divisions"
+
+ unit_limit_count: "[unit_limit_count_loc]"
+ unit_limit_count_disabled: "НЕОБМЕЖЕНИЙ"
+ unit_limit_count_above: "[?num_actual_divisions|R0]/[?max_divisions|Y0]"
+ unit_limit_count_equal: "[?num_actual_divisions|Y0]/[?max_divisions|Y0]"
+ unit_limit_count_below: "[?num_actual_divisions|G0]/[?max_divisions|Y0]"
 
  unit_limit_factory_bonus: "Ліміт дивізії"
  unit_limit_bonus: "Ліміт дивізії"
+ unit_limit_factor: "Ліміт дивізії"
  unit_limit_subject_bonus: "Додатковий ліміт дивізій для володаря"
+
+ unit_limit_breakdown: "[unit_limit_breakdown]"
+ unit_limit_breakdown_default: "§HMaximum Supported Divisions§!\nCurrent Maximum: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]"
 
  unit_limit_label: "§HМаксимально підтримувані дивізії§!\nДивізії: [?max_divisions|H0]\n\nБазове значення: [?base_units|G1]\n   - Від загального населення: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - З підконтрольних регіонів: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nМножник кількості заводів: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nЗа замовчуванням: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
  unit_limit_desc: "Кожна країна має можливість утримувати лише певну кількість окремих військових підрозділів, перш ніж її економіка та інфраструктура не впораються з їхнім утриманням.\n\nМаксимальна кількість підтримуваних одиниць базується на §Hнаселенні§! та §Hкількості підконтрольних регіонів§!,  а потім множиться на відношення цих значень до §Hкількості заводів§! у регіонах.\n\nУ §Hгромадянських війнах§!, базові значення обчислюються від суми всіх регіонів, якими володіють всі учасники.[above_unit_limit_desc]"
@@ -186,6 +196,13 @@
  unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
  unit_limit_war_economy: "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
  unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+
+ unit_limit_above_limit_desc: "\n--------------\n$unit_limit_above_limit_text$"
+ unit_limit_above_limit_text: "§RWe have currently exceeded our capacity, and the only way to alleviate the stress on our country will be to remove some of our divisions.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+
+ unit_limit_breakdown_desc: "[unit_limit_breakdown_desc]"
+ unit_limit_breakdown_desc_enabled: "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them.\n\nThe maximum number of supported units is based on the country's §Hpopulation§! and §Hnumber of owned states§!, and is then multiplied by a ratio of this value to the §Hnumber of factories§! in the states.\n\nIn §Hcivil wars§!, the base values are calculated from the sum of all states owned by all participants."
+ unit_limit_breakdown_desc_disabled: "§HMaximum Supported Divisions§! has been disabled by game rules."
 
 ### Tooltips ###
  KR_party_pop_less_than_100: "Менше, ніж §Y100%§! підтримки [Root.GetRulingParty]"

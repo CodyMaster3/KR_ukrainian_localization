@@ -25,28 +25,233 @@
 
  annex.give_to_ally: "Передайте його нашим [?target.GetAdjective]им союзникам."
  annex.give_to_neutral: "Віддати його державі [?target.GetNonIdeologyNameDef] - він нам не потрібен."
+ annex.give_to_overlord: "Передайте його нашому [ROOT.overlord.GetAdjective]ому володарю." # (&?)
 
- annex.occupation: "Військова окупація - єдине рішення."
+#annex.occupation: "Військова окупація - єдине рішення."
  annex.integration: "Ассимілювати в [Root.GetAdjective]у територію"
+ annex.cancel: "Поки що нічого не робити."
 
- annex.europe.give_to_gex:0 "[GEX.GetGrantTerritoryEventOption]"
+ annex.give_to_britain: "[britain.GetGrantTerritoryEventOption]"
+ annex.give_to_france: "[france.GetGrantTerritoryEventOption]"
+ annex.give_to_belgium: "[belgium.GetGrantTerritoryEventOption]"
+ annex.give_to_portugal: "[portugal.GetGrantTerritoryEventOption]"
+ annex.give_to_spain: "[spain.GetGrantTerritoryEventOption]"
+ annex.give_to_japan: "[japan.GetGrantTerritoryEventOption]"
+ annex.give_to_russia: "[russia.GetGrantTerritoryEventOption]"
 
- annex.africa.give_to_france:0 "[france.GetGrantTerritoryEventOption]"
- annex.africa.give_to_maf:0 "[MAF.GetGrantTerritoryEventOption]"
- annex.africa.give_to_cmr:0 "[CMR.GetGrantTerritoryEventOption]"
- annex.africa.give_to_tzn:0 "[TZN.GetGrantTerritoryEventOption]"
- annex.africa.give_to_saf:0 "[SAF.GetGrantTerritoryEventOption]"
+ annex.give_to_italy: "[ROOT.annexations_give_to_italy_single_or_multiple]"
+ annex.give_to_italy_single: "[italy.GetGrantTerritoryEventOption]"
+ annex.give_to_italy_multiple: "Віддайте її італійцям." # (&?)
 
- annex.asia.give_to_gea:0 "[GEA.GetGrantTerritoryEventOption]"
- annex.asia.give_to_dei:0 "[DEI.GetGrantTerritoryEventOption]"
+# Americas
+ annex.americas.release_united_central_america: "Створити Центральноамериканську Федерацію."
+ annex.americas.release_brazil: "Звільнити лояльний уряд Бразилії."
+ annex.americas.release_brazilian_splinter: "Реорганізувати штати як незалежну республіку."
 
+ annex.americas.give_to_united_states: "[united_states.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_canada: "[canada.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_mexico: "[mexico.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_centroamerica: "[centroamerica.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_guatemala: "[guatemala.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_panama: "[panama.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_west_indies: "[west_indies.GetGrantTerritoryEventOption]"
+
+ annex.americas.give_to_colombia: "[colombia.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_venezuela: "[venezuela.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_guyana: "[guyana.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_ecuador: "[ecuador.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_peru: "[peru.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_bolivia: "[bolivia.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_paraguay: "[paraguay.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_argentina: "[argentina.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_chile: "[chile.GetGrantTerritoryEventOption]"
+
+ annex.americas.give_to_brazil: "[brazil.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_brazil_splinter_one: "[brazil_one.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_brazil_splinter_two: "[brazil_two.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_brazil_splinter_three: "[brazil_three.GetGrantTerritoryEventOption]"
+
+ annex.americas.give_to_owner_of_buenos_aires: "[buenos_aires.GetGrantTerritoryEventOption]"
+ annex.americas.give_to_owner_of_santa_cruz: "[santa_cruz.GetGrantTerritoryEventOption]"
+
+# Europe
+ annex.europe.release_germany_republic: "Створити Республіку Німеччина!"
+ annex.europe.release_germany_socialist: "Створити Соціалістичну Німеччину!"
+ annex.europe.release_germany_hohenzollern: "Відновити Німецьку Імперію!"
+ annex.europe.release_germany_romanov: "Коронувати князя Бориса, як Німецького Імператора!"
+
+ annex.europe.release_danubia_republic: "Звільнити об'єднану Дунайську республіку."
+ annex.europe.release_danubia_habsburg: "Відновити владу Габсбургів над Дунаєм."
+
+ annex.europe.give_to_ireland: "[ireland.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_england: "[england.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_denmark: "[denmark.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_norway: "[norway.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_netherlands: "[netherlands.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_germany: "[germany.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_prussia: "[prussia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_east_prussia: "[east_prussia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_switzerland: "[switzerland.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_austria: "[austria.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_hungary: "[hungary.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_bohemia: "[bohemia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_slovakia: "[slovakia.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_croatia: "[croatia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_serbia: "[serbia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_romania: "[romania.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_transylvania: "[transylvania.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_bulgaria: "[bulgaria.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_greece: "[greece.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_turkey: "[turkey.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_galicia: "[galicia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_poland: "[poland.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_baltic: "[baltic.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_lithuania: "[lithuania.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_belarus: "[belarus.GetGrantTerritoryEventOption]"
+
+ annex.europe.release_italy_republic: "Звільнити Італійську Республіку."
+ annex.europe.release_italy_federation: "Звільнити Італійську Федерацію."
+ annex.europe.release_italy_socialist: "Звільнити [SRI.GetNameDef]."
+ annex.europe.release_italy_kingdom: "Відновити Савойську монархію."
+
+ annex.europe.offer_to_italy: "[ROOT.annexations_offer_to_italy_single_or_multiple]"
+ annex.europe.offer_to_italy_single: "Запропонувати її [?valid_italian_targets_offer^0.GetNonIdeologyNameDef] в обмін на союз." # (&?)
+ annex.europe.offer_to_italy_multiple: "Запропонуйте її італійцям в обмін на союз." # (&?)
+
+ annex.europe.give_to_british_exiles: "[british_exiles.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_nfa: "[france_exile.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_frp: "[france_puppet.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_owner_of_hanover: "[hanover.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_lower_austria: "[lower_austria.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_tyrol: "[tyrol.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_venetia: "[venetia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_lombardy: "[lombardy.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_piedmont: "[piedmont.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_pyrenees: "[pyrenees.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_owner_of_carniola: "[carniola.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_carinthia: "[carinthia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_central_hungary: "[central_hungary.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_transdanubia: "[transdanubia.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_owner_of_belgrade: "[belgrade.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_morava: "[morava.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_central_croatia: "[central_croatia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_muntenia: "[muntenia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_varna: "[varna.GetGrantTerritoryEventOption]"
+
+ annex.europe.give_to_owner_of_masuria: "[masuria.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_kalisz: "[kalisz.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_lower_silesia: "[lower_silesia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_krakow: "[krakow.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_lwow: "[lwow.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_volhynia: "[volhynia.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_pinsk: "[pinsk.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_chelm: "[chelm.GetGrantTerritoryEventOption]"
+ annex.europe.give_to_owner_of_stavropol: "[stavropol.GetGrantTerritoryEventOption]"
+
+# Middle East
+ annex.middle_east.give_to_georgia: "[georgia.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_armenia: "[armenia.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_azerbaijan: "[azerbaijan.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_mountain_republic: "[mountain_republic.GetGrantTerritoryEventOption]"
+
+ annex.middle_east.give_to_ottomans: "[ottomans.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_kurdistan: "[kurdistan.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_persia: "[persia.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_syria: "[syria.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_iraq: "[iraq.GetGrantTerritoryEventOption]"
+
+ annex.middle_east.give_to_arabia: "[arabia.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_hejaz: "[hejaz.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_trucial_states: "[trucial_states.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_muscat: "[muscat.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_yemen: "[yemen.GetGrantTerritoryEventOption]"
+
+ annex.middle_east.give_to_egypt: "[egypt.GetGrantTerritoryEventOption]"
+ annex.middle_east.give_to_cyrenaica: "[cyrenaica.GetGrantTerritoryEventOption]"
+
+ annex.middle_east.give_to_owner_of_fars: "[fars.GetGrantTerritoryEventOption]"
+
+# Africa
+ annex.africa.give_to_morocco: "[morocco.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_mauritania: "[mauritania.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_senegal: "[senegal.GetGrantTerritoryEventOption]"
+
+ annex.africa.give_to_somalia: "[somalia.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_ethiopia: "[ethiopia.GetGrantTerritoryEventOption]"
+
+ annex.africa.give_to_mittelafrika: "[mittelafrika.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_cameroon: "[cameroon.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_azania: "[azania.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_kenya: "[kenya.GetGrantTerritoryEventOption]"
+
+ annex.africa.give_to_mozambique: "[mozambique.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_zimbabwe: "[zimbabwe.GetGrantTerritoryEventOption]"
+ annex.africa.give_to_south_africa: "[south_africa.GetGrantTerritoryEventOption]"
+
+# Asia
+ annex.asia.release_united_central_asia: "Створити Центральноазійську Федерацію."
+ annex.asia.give_to_alash: "[alash.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_turkestan: "[turkestan.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_bukhara: "[bukhara.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_khiva: "[khiva.GetGrantTerritoryEventOption]"
+
+ annexations.asia.give_to_transamur: "[transamur.GetGrantTerritoryEventOption]"
+
+ annex.asia.release_republican_india: "Звільнити Індійську Республіку."
+ annex.asia.release_princely_india: "Відновити Федерацію Раджів."
+ annex.asia.release_british_india: "Відновити Домініон Індії."
+
+ annex.asia.give_to_india: "[india.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_princely_india: "[india_princely.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_british_india: "[india_british.GetGrantTerritoryEventOption]"
+
+ annex.asia.give_to_afghanistan: "[afghanistan.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_pakistan: "[pakistan.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_punjab: "[punjab.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_khalistan: "[khalistan.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_hyderabad: "[hyderabad.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_madras: "[madras.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_mysore: "[mysore.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_orissa: "[orissa.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_bengal: "[bengal.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_assam: "[assam.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_nepal: "[nepal.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_bhutan: "[bhutan.GetGrantTerritoryEventOption]"
+
+ annex.asia.give_to_burma: "[burma.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_siam: "[siam.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_cambodia: "[cambodia.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_inc: "[indochina.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_german_east_asia: "[german_east_asia.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_indonesia: "[indonesia.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_malaysia: "[malaysia.GetGrantTerritoryEventOption]"
+
+ annex.asia.give_to_owner_of_sindh: "[sindh.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_owner_of_bihar: "[bihar.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_owner_of_bombay: "[bombay.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_owner_of_madurai: "[madurai.GetGrantTerritoryEventOption]"
+ annex.asia.give_to_owner_of_andhra: "[andhra.GetGrantTerritoryEventOption]"
+
+# Oceania
+ annex.oceania.give_to_australia: "[australia.GetGrantTerritoryEventOption]"
+ annex.oceania.give_to_new_zealand: "[new_zealand.GetGrantTerritoryEventOption]"
+ annex.oceania.give_to_philippines: "[philippines.GetGrantTerritoryEventOption]"
+
+# China
  annex.china.release_china: "[ROOT.china_annexation_release_event_option]"
  annex.china.release_china_take_coastline: "[ROOT.china_annexation_release_event_option_take_coast]"
  annex.china.give_to_china: "Віддати землі державі [china_ally_target.GetNameDef]!"
  annex.china.give_to_china_take_coastline: "Забрати узбережжя, решту віддати д-ві [china_ally_target.GetNameDef]!"
  annex.china.fading_sun_return_to_china: "Передати землі д-ві [japan_forced_return.GetNameDef] за умовами договору."
 
- release_china_sun_fo: "Підсилити помірних Суня Фо!"
+ release_china_csp: "Встановити синдикалістський уряд у Китаї."
  release_china_lkmt: "Підсилити Лівий Гоміньдан!"
  release_china_rngroc: "Звільнити Реорганізований Уряд Китаю!"
  release_china_fengtian: "Відновити Фентянський Уряд!"
@@ -64,26 +269,42 @@
  annex.2.a: "Слава!"
  
 #Generic Land Exchange Events
- annex.5.t: "An Offer from [From.GetNameDef]"
- annex.5.desc: "A delegation from [From.GetNameDef] has arrived with an offer: in exchange for us assuming control over a number of our claimed lands, now in [From.GetAdjective] possession, they ask for [Root.GetNameDef] to join the [From.GetFactionName]. It is a tempting offer, though it means abandoning any of our current alliances and wars."
- annex.5.a: "We agree to their alliance"
- annex.5.b: "Absolutely not"
+ annex.5.t_romania: "[FROM.GetNameDefCap] пропонує Трансільванію"
+ annex.5.t_generic: "Пропозиція від держави [From.GetNameDef]"
+ annex.5.desc_italy: "Делегація від держави [From.GetNameDef] прибула з цікавою пропозицією: в обмін на те, що ми візьмемо під свій контроль більшу частину Італії, землі, якої зараз перебувають у [From.GetAdjective]ому володінні, вони просять державу [Root.GetNameDef] приєднатися до [From.GetFactionName]. Це приваблива пропозиція, хоча вона означає відмову від будь-якого з наших поточних альянсів та війн."
+ annex.5.desc_papacy: "Делегація від держави [From.GetNameDef] прибула з цікавою пропозицією: в обмін на те, що ми візьмемо під свій контроль більшу частину Центральної Італії, землі, якої зараз перебувають у [From.GetAdjective]ому володінні, вони просять державу [Root.GetNameDef] приєднатися до [From.GetFactionName]. Це приваблива пропозиція, хоча вона означає відмову від будь-якого з наших поточних альянсів та війн."
+ annex.5.desc_romania: "Хід геополітики в останні роки, як це часто буває, створив деякі незвичні ситуації. Для румунів найбільший резонанс викликало входження Трансільванії до сфери впливу держави [FROM.GetFactionName] - після трагічної поразки у Великій війні, демонтаж австрійської держави породив багато надій на те, що Великий Союз все ще може бути досягнутий.\n\n Держава [FROM.GetNameDef], схоже, розуміє це. Сьогодні уряд отримав листа, в якому пояснюється, що вони готові передати нам Трансільванію - за умови, що ми негайно приєднаємося до їхнього альянсу. Само собою зрозуміло, що можливість досягти мети, до якої прагнули багато румунів протягом останніх кількох десятиліть, є дуже привабливою - але вона не обходиться без ризику. Очевидно, що зв'язування з [FROM.GetFactionName] втягне нас у будь-які конфлікти, в які вони можуть вступити, незалежно від того, чи відповідають вони інтересам Румунії. Це вже не кажучи про вроджені дипломатичні ризики перегрупування, які загрожують відштовхнути від нас будь-яких друзів, яких ми вже маємо. Питання, таким чином, полягає в наступному: як багато ми готові ризикувати заради об'єднання всіх румунів?"
+ annex.5.desc_serbia: "До керівництва Сербії звернувся представник держави [FROM.GetNameDef]. За їхніми словами, нове територіальне придбання [FROM.GetAdjective]им урядом на Балканах - це ситуація, яка потребує більш довгострокового вирішення, і вони мало що виграють від окупації. Вони знають про давні сербські амбіції щодо об'єднання південних слов'ян у єдину державу, і про їхні постійні невдачі в цій справі, незважаючи на те, що ідея Югославії, безсумнівно, все ще приваблива.\n\nПропозиція проста. Території, що необхідні для формування Югославії, в обмін на вступ Сербії в альянс [FROM.GetFactionName].\n\nБільшість в уряді вважають цю пропозицію надто хорошою, щоб бути правдою, інші поширюють думку про те, що їх втягнуть у подальше небажане кровопролиття. Звичайно, це означатиме розрив з будь-якими нинішніми союзниками, що ті ж самі голоси називають зверхнім ставленням до них, але це майже напевно було б того варте."
+ annex.5.desc_generic: "Делегація від держави [From.GetNameDef] прибула з цікавою пропозицією: в обмін на те, що ми візьмемо на себе контроль над рядом наших претензійних земель, які зараз перебувають у [From.GetAdjective]ому володінні, вони просять державу [Root.GetNameDef] приєднатися до [From.GetFactionName]. Це приваблива пропозиція, хоча вона означає відмову від будь-якого з наших поточних альянсів та війн."
+ annex.5.a_romania: "Немає занадто високої ціни за спасіння."
+ annex.5.a_generic: "Ми згодні на їх союз!"
+ annex.5.b_romania: "Не сьогодні, друзі мої."
+ annex.5.b_generic: "Точно ні."
 
- annex.6.t: "[From.GetNameDefCap] Agrees"
- annex.6.desc: "The [From.GetAdjective] government was more than happy to exchange the return of their land for an alliance with us."
- annex.6.a: "Excellent!"
+ annex.6.t_generic: "[From.GetNameDefCap] згодна"
+ annex.6.desc_romania: "Як і очікувалося, [FROM.GetName] щойно надіслала свою згоду на наші умови щодо трансильванської пропозиції. Трансільванія буде передана якнайшвидше, що завершить для нас великий стратегічний переворот."
+ annex.6.desc_serbia: "На подив, серби прийняли пропозицію про союз в обмін на території, яких вони так прагнуть.\n\nДовгоочікувана Югославія тепер може бути створена, [ROOT.GetName] отримає союзника на Балканах, а альянс [ROOT.GetFactionName] стане більшим!"
+ annex.6.desc_generic: "[From.GetAdjective]ий уряд був щасливий обміняти повернення своїх земель на альянс із нами."
+ annex.6.a_romania: "Ми знищуємо ворогів, роблячи їх своїми друзями."
+ annex.6.a_serbia: "Hej, Sloveni!"
+ annex.6.a_generic: "Чудово!"
 
- annex.7.t: "[From.GetNameDefCap] has Refused"
- annex.7.desc: "The [From.GetAdjective] government apparently does not want their lands back badly enough, or do not trust our offer. Either way, they have refused to join our alliance."
- annex.7.a: "Their loss, it seems"
+ annex.7.t_generic: "[From.GetNameDefCap] відмовилася"
+ annex.7.desc_romania: "Схоже, ми не розуміємо [FROM.GetName] так добре, як ми думали - вони щойно надіслали повідомлення, в якому ввічливо, але коротко відхиляють нашу пропозицію про передачу Трансільванії. Здається, міністерство закордонних справ досить приголомшене цією новиною."
+ annex.7.desc_serbia: "Заявивши про невпевненість у тому, що їхній нинішній уряд зможе впоратися з передачею території, і натякнувши на небажання бути втягнутими у подальші конфлікти, серби шокували дипломатичний корпус своєю відмовою від щедрої пропозиції. Схоже, тепер нам доведеться створити місцеві уряди для управління регіоном."
+ annex.7.desc_generic: "The [From.GetAdjective]ий уряд недостатньо сильно хоче повернути свої землі, або не довіряє нам. У будь-якому випадку вони відмовилися приєднатися до нашого альянсу."
+ annex.7.a_generic: "Їх втрата."
 
- annex.8.t: "[From.GetNameDefCap] Abandons the [Root.GetFactionName]"
- annex.8.desc: "It appears an offer made by [From.From.GetNameDef] for the return of claimed lands was too much for [From.GetNameDef] to refuse. They have abandoned our alliance and joined the [From.From.GetFactionName]. Perhaps it is land we could never have delivered to them, but even so - it is a bitter pill to swallow."
- annex.8.a: "Hopefully we do not end up on opposing sides..."
+ annex.8.t_romania: "[From.GetNameDefCap] зраджує нас!"
+ annex.8.t_generic: "[From.GetNameDefCap] залишає [Root.GetFactionName]"
+ annex.8.desc_romania: "Нас спіткала зрада! Досі всі вважали державу [FROM.GetNameDef] вірним союзником у хаотичний час - але, мабуть, дружба в політиці - крихка річ. Сьогодні стало відомо, що держава [FROM.GetNameDef] веде таємні переговори з державою [FROM.FROM.GetNameDef], маючи намір досягти угоди про задоволення їхніх претензій на Трансільванію в обмін на союз. Це могло б не бути такою драматичною травмою, якби ми не дізналися про це з повідомлення про завершення угоди - і наступне вигнання наших військ з держави [FROM.GetNameDef].\n\nНас застала зненацька ця новина, і реакція всередині і поза урядом варіюється від шоку, відчаю до вимог змусити державу [FROM.GetNameDef] заплатити за їхню дволикість."
+ annex.8.desc_generic: "Схоже, що пропозиція держави [From.From.GetNameDef] щодо повернення захоплених земель була занадто великою для держави [From.GetNameDef] щоб відмовитися. Вони покинули наш альянс і приєдналися до [From.From.GetFactionName]. Можливо, це землі, які ми ніколи не змогли б їм надати, але навіть у цьому випадку - це гірка пігулка, яку доведеться проковтнути."
+ annex.8.a_romania: "І це після всього, через що ми пройшли!"
+ annex.8.a_generic: "Сподіваюся, ми не опинимося на протилежних сторонах..."
 
- annex.18.t:0 "Повернення територій!"
- annex.18.d:0 "[From.GetAdjective]ий уряд прийняв рішення повернути нам землі, в раніше окупованої австрійцями Італії."
- annex.18.a:0 "Слава!"
+ annex.18.t: "Повернення територій!"
+ annex.18.d: "[From.GetAdjective]ий уряд прийняв рішення повернути нам землі, в раніше окупованої австрійцями Італії."
+ annex.18.a: "Слава!"
 
  annex.184.t:0 "Реставрація династії О'Ніл"
  annex.184.d:0 "Після того, як ми дали незалежність Ірландії, надійшли пропозиції щодо відновлення ірландської монархії. Найкращими кандидатами є нащадки Брайана О'Ніл. Його нащадки зараз проживають у Португалії."
@@ -94,115 +315,42 @@
  annex.185.d:0 "Хорхе Марія О'Ніл погодився оселитися у Дублінському замку, як Верховний король Ірландії. Прибувши сьогодні вранці, Еодх виступив із промовою на пагорбі Тари, підтвердивши, що він буде сильним та справедливим правителем. У той час, як республіканці обурюються, багато хто прийняв нового короля."
  annex.185.a:0 "O'Neill Abú!"
 
- annex.240.t:0 "Доля Папської області"
- annex.240.d:0 "Наше недавнє завоювання на півночі Італії подарували нам землі, які повинні належати Папі Римському, судячи з договору 1919 року. Ми можемо віддати ці землі просто так або зажадати від Папи підпорядкування. Чи можемо залишити їх собі."
- annex.240.a:0 "Віддайте землі Папі."
- annex.240.b:0 "Віддайте землі в обмін на підпорядкування."
- annex.240.c:0 "Окупуйте!"
+ annex.200.t: "Кому віддати Італію?"
+ annex.200.desc: "TEMP: desc needed."
+ annex.200.a: "[?valid_italian_targets_grant^0.GetNonIdeologyNameDefCap]"
+ annex.200.b: "[?valid_italian_targets_grant^1.GetNonIdeologyNameDefCap]"
+ annex.200.c: "[?valid_italian_targets_grant^2.GetNonIdeologyNameDefCap]"
+ annex.200.d: "[?valid_italian_targets_grant^3.GetNonIdeologyNameDefCap]"
+ annex.200.e: "[?valid_italian_targets_grant^4.GetNonIdeologyNameDefCap]"
+ annex.200.f: "[?valid_italian_targets_grant^5.GetNonIdeologyNameDefCap]"
+ annex.200.g: "[?valid_italian_targets_grant^6.GetNonIdeologyNameDefCap]"
+ annex.200.h: "[?valid_italian_targets_grant^7.GetNonIdeologyNameDefCap]"
+ annex.200.i: "[?valid_italian_targets_grant^8.GetNonIdeologyNameDefCap]"
 
- annex.241.t:0 "Наші землі"
- annex.241.d:0 "Країна, яка завоювала північ Італії, вирішила повернути нам наші землі, посилаючись на договір 1919. Очевидно, ми маємо подякувати їм за цю велику перемогу нашої держави."
- annex.241.a:0 "Папські землі возз'єднані."
-
- annex.242.t:0 "Щедра пропозиція"
- annex.242.d:0 "Країна, що завоювала північ Італії, вирішила повернути наші землі в обмін на наше формальне підпорядкування їм. Хоч ми і втратимо незалежність у зовнішній політиці, ми повернемо наші землі. Необхідно все обміркувати."
- annex.242.a:0 "Ми приймаємо пропозицію."
- annex.242.b:0 "Ми ніколи не вклонимось!"
-
- annex.243.t:0 "Згода Папи"
- annex.243.d:0 "Папа погодився відмовитись від незалежності у зовнішній політиці в обмін на землі, які ми йому пообіцяли. Настала наша черга виконати обіцянки."
- annex.243.a:0 "Дуже добре."
-
- annex.244.t:0 "Відмова Папи"
- annex.244.d:0 "Папа вигнав наших дипломатів, розлючений пропозицією підкорити Святий Престол будь-кому. Схоже, переговори провалилися."
- annex.244.a:0 "Ким він себе вважає!?"
-
- annexation_PAL_CONQ:0 "Доля Палестини"
- annexation_PAL_CONQ_desc:0 "Наші армії взяли під контроль південну частину Леванту, і місцеве палестинське населення вимагає самоврядування. Ми маємо вирішити, що робити з регіоном."
- annex.247.a:0 "Звільнити уряд Палестини."
- annex.247.b:0 "Віддайте її нашим [TUR.GetAdjective]им друзям."
- annex.247.c:0 "Віддайте її нашим [SYR.GetAdjective]им друзям."
- annex.247.d:0 "Віддайте її нашим [EGY.GetAdjective]им друзям."
-
-#Italy
- annex.281.t:0 "Пропозиція від [From.GetNameDef]"
- annex.281.d.allitaly:0 "Делегація з держави [From.GetNameDef] прибула з цікавою пропозицією: в обмін на те, щоб ми взяли під свій контроль більшу частину Італії, землі, що знаходяться зараз у [From.GetAdjective]ому володінні, вони просять державу [Root.GetNameDef] приєднатися до альянсу [From.GetFactionName]. Це приваблива пропозиція, хоча вона означає відмову від будь-якого з наших поточних альянсів та воєн."
- annex.281.d.centralitaly:0 "Делегація з держави [From.GetNameDef] прибула з цікавою пропозицією: в обмін на те, щоб ми взяли під свій контроль більшу частину Центральної Італії, землі, що знаходяться зараз у [From.GetAdjective]ому володінні, вони просять державу [Root.GetNameDef] приєднатися до альянсу [From.GetFactionName]. Це приваблива пропозиція, хоча вона означає відмову від будь-якого з наших поточних альянсів та воєн."
- annex.281.d.piedmont:0 "Делегація з держави [From.GetNameDef] прибула з цікавою пропозицією: в обмін на те, щоб ми повернулися на материк і взяли на себе контроль над П'ємонтом, землі, які зараз перебувають у [From.GetAdjective]ому володінні, вони просять державу [Root.GetNameDef] приєднатися до альянсу [From.GetFactionName]. Це приваблива пропозиція, хоча вона означає відмову від будь-якого з наших поточних альянсів та воєн."
- annex.281.a:0 "Ми згодні на союз."
- annex.281.b:0 "Точно ні."
-
- annex.282.t:0 "[From.GetNameDefCap] згодна"
- annex.282.d:0 "[From.GetAdjective]ий уряд був щасливий обміняти повернення своїх земель на альянс із нами."
- annex.282.a:0 "Чудово!"
-
- annex.283.t:0 "[From.GetNameDefCap] відмовилася"
- annex.283.d:0 "[From.GetAdjective]ий уряд недостатньо сильно хоче повернути свої землі, або не довіряє нам. У будь-якому випадку вони відмовилися приєднатися до нашого альянсу."
- annex.283.a:0 "Їх втрата."
-
- annex.284.t:0 "[From.GetNameDefCap] залишає [Root.GetFactionName]"
- annex.284.d:0 "Схоже, що пропозиція держави [From.From.GetNameDef] про повернення земель в Італії була надто великою, щоб [From.GetNameDef] відмовилася. Вони покинули наш альянс і приєдналися до альянсу [From.From.GetFactionName]. Можливо, це землі, які ми ніколи не змогли б їм надати, але навіть у цьому випадку - це гірка пігулка, яку доведеться проковтнути."
- annex.284.a:0 "Сподіваюся, ми не опинимося на протилежних сторонах."
-
-#Serbia
- annex.285.t:0 "Пропозиція від держави [From.GetNameDef]"
- annex.285.d:0 "До керівництва Сербії звернувся представник держави [FROM.GetNameDef]. За їхніми словами, нове територіальне придбання [FROM.GetAdjective]им урядом на Балканах - це ситуація, яка потребує більш довгострокового вирішення, і вони мало що виграють від окупації. Вони знають про давні сербські амбіції щодо об'єднання південних слов'ян у єдину державу, і про їхні постійні невдачі в цій справі, незважаючи на те, що ідея Югославії, безсумнівно, все ще приваблива.\n\nПропозиція проста. Території, що необхідні для формування Югославії, в обмін на вступ Сербії в альянс [FROM.GetFactionName].\n\nБільшість в уряді вважають цю пропозицію надто хорошою, щоб бути правдою, інші поширюють думку про те, що їх втягнуть у подальше небажане кровопролиття. Звичайно, це означатиме розрив відносин з будь-якими нинішніми союзниками."
- annex.285.a:0 "Де поставити підпис?"
- annex.285.b:0 "Тут має бути якась каверза."
-
- annex.286.t:0 "[From.GetNameDefCap] згодна"
- annex.286.d:0 "На подив, серби прийняли пропозицію про союз в обмін на території, яких вони так прагнуть.\n\nДовгоочікувана Югославія тепер може бути створена, [ROOT.GetName] отримає союзника на Балканах, а альянс [ROOT.GetFactionName] стане більшим!"
- annex.286.a:0 "Hej, Sloveni!"
-
- annex.287.t:0 "[From.GetNameDefCap] відмовляється"
- annex.287.d:0 "Заявивши про невпевненість у тому, що їхній нинішній уряд зможе впоратися з передачею території, і натякнувши на небажання бути втягнутими у подальші конфлікти, серби шокували дипломатичний корпус своєю відмовою від щедрої пропозиції. Схоже, тепер нам доведеться створити місцеві уряди для управління регіоном."
- annex.287.a:0 "Їхня втрата."
-
- annex.288.t:0 "[From.GetNameDefCap] залишає альянс [Root.GetFactionName]"
- annex.288.d:0 "Схоже, що пропозиція держави [From.From.GetNameDef] про передачу їхніх територій на Балканах було занадто велике для держави [From.GetNameDef] щоб відмовитись. Вони відмовилися від нашого союзу та приєдналися до альянсу [From.From.GetFactionName]. Це гірка пігулка, яку треба проковтнути."
- annex.288.a:0 "Сподіваюся, ми не опинимося на протилежних сторонах..."
-
-#Romania
- annex.289.t: "[FROM.GetNameDefCap] Offers Transylvania"
- annex.289.d: "The course of geopolitics in recent years has, as it often does, created some unusual situations. For Romanians, the one that has had the biggest reverberations is the entry of Transylvania into the [FROM.GetFactionName]'s sphere - after the tragic defeat in the Great War, the dismantlement of the Austrian state has raised many hopes that the Great Union may still be achieved after all.\n\n[FROM.GetNameDef] seems to understand this. The government received a note today explaining that they are very prepared to hand Transylvania over to us - on the condition that we will promptly join their alliance. Needless to say, the opportunity to achieve the goal held by many Romanians over the last few decades is a highly tempting one - but it does not come without risk. Entangling ourselves with the [FROM.GetFactionName] obviously would throw us into any conflicts they may enter, regardless of them being in Romania's interests. This is to say nothing of the innate diplomatic risks of realignment, which would threaten to alienate any friends we may already have. The question, therefore, is this: how much are we willing to risk for the union of all Romanians?"
- annex.289.a: "No price is too high for salvation."
- annex.289.b: "Not today, my friends."
-
- annex.290.t: "[FROM.GetNameDefCap] Accepts"
- annex.290.d: "As expected, [FROM.GetName] has just sent their acceptance of our terms regarding the Transylvanian proposal. Transylvania will be transferred as soon as possible - completing for us a great strategic coup."
- annex.290.a: "We destroy our enemies by making them our friends."
-
- annex.291.t: "[FROM.GetNameDefCap] Refuses"
- annex.291.d: "It seems that we do not understand [FROM.GetName] as well as we thought - they have just sent a message that politely but curtly declines our proposal to transfer Transylvania. The foreign office seems to be rather stunned by this news."
- annex.291.a: "Nobody wants to talk to each other anymore..."
-
- annex.292.t: "[FROM.GetNameDefCap] Betrays Us!"
- annex.292.d: "Treachery has fallen upon us! Until now, all thought of [FROM.GetNameDef] as a steadfast ally in a chaotic time - but apparently friendship is a fragile thing in politics. It came to light today that [FROM.GetNameDef] has been involved in secret negotiations with [FROM.FROM.GetNameDef], with the intent of reaching an agreement to satisfy their claims on Transylvania in exchange for an alliance. This may not have been such a dramatic injury had we not learned of it from an announcement of the deal's completion - and the following expulsion of our forces from [FROM.GetNameDef].\n\nWe have been caught completely flat-footed by the news, and reactions inside and outside of the government range from shock, to despair, to demands that [FROM.GetNameDef] be made to pay for their duplicity."
- annex.292.a: "And after everything we've been through!"
+ annex.201.t: "Кому запропонувати Італію?"
+ annex.201.desc: "TEMP: desc needed."
+ annex.201.a: "[?valid_italian_targets_offer^0.GetNonIdeologyNameDefCap]"
+ annex.201.b: "[?valid_italian_targets_offer^1.GetNonIdeologyNameDefCap]"
+ annex.201.c: "[?valid_italian_targets_offer^2.GetNonIdeologyNameDefCap]"
+ annex.201.d: "[?valid_italian_targets_offer^3.GetNonIdeologyNameDefCap]"
+ annex.201.e: "[?valid_italian_targets_offer^4.GetNonIdeologyNameDefCap]"
+ annex.201.f: "[?valid_italian_targets_offer^5.GetNonIdeologyNameDefCap]"
+ annex.201.g: "[?valid_italian_targets_offer^6.GetNonIdeologyNameDefCap]"
+ annex.201.h: "[?valid_italian_targets_offer^7.GetNonIdeologyNameDefCap]"
+ annex.201.i: "[?valid_italian_targets_offer^8.GetNonIdeologyNameDefCap]"
 
 #Event for Chinese tag to notify return of concessions from Japan
  annex.300.t: "Японія повертає концесії у Китаї"
  annex.300.d: "За підсумками мирних переговорів, які пройшли після нашої перемоги над японцями, вони погодилися повернути усі китайські концесії, що захопили раніше. Тож ми повернули те, що належало нам по праву. Ще одна перемога для Китаю та ще одна ганебна поразка для його ворогів. Вік Принижень ще на крок ближче до завершення."
  annex.300.a: "Впливу Японії у Китаї підійшов кінець."
 
-## let's sort these out ##
+### Annexation Events ###
+#annexation_germany_desc: "For the last fifty years, the German Empire has stood united in the centre of Europe. From the once-Polish lands of Prussia to the Francophone Catholic west, from Lower Saxony in the north to Bavaria in the south, the conservative Kaiserreich created one nation where before there had been many. However, with our victory, we have a chance to radically restructure the German state structure. Our total conquest has shattered the spirit of German civil resistance, and we essentially have unlimited license to choose whichever government, or governments, serve our interests in Central Europe."
 
- annexation_GER_CONQ:0 "Доля Німеччини"
- annexation_GER_CONQ_desc:0 "[annexation_GER_CONQ_description]"
- annexation_GER_CONQ_desc_RUS:0 "Німецька Імперія розгромлена! Наші хоробрі солдати з гордістю марширують по Унтер-ден-Ліндену, продемонструвавши тим самим безперечну перемогу [Root.GetAdjective]их збройних сил у смертельній боротьбі проти німців! Тепер ми маємо вирішити, що робити із землями нашого колишнього ворога."
- annexation_GER_CONQ_desc_other:0 "Наші армії перемогли колись горду Німеччину, тепер нам залишається тільки вирішити, що робити з землями нашого колишнього ворога!"
- annex.1000.a:0 "Створити Республіку Німеччина!"
- annex.1000.b:0 "Створити Соціалістичну Німеччину!"
- annex.1000.c:0 "Відновити Німецьку Імперію!"
- annex.1000.d:0 "Коронувати князя Бориса, як Німецького Імператора!"
- annex.1000.e:0 "Розколоти Німеччину на маленькі регіони."
- annex.1000.f:0 "Відновити Німецьку Імперію під керівництвом Відня!"
-
- annexation_ALSACE_CONQ:0 "Доля Ельзас-Лотарингії"
- annexation_ALSACE_CONQ_desc:0 "Наші армії взяли під свій контроль Ельзас-Лотарінгію, регіон, який протягом останніх 70 років оспорюється Францією та Німеччиною. Тепер ми маємо вирішити, що робити з цією землею."
- annex.1001.a:0 "[france.GetGrantTerritoryEventOption]"
- annex.1001.b:0 "[german_palatinate.GetGrantTerritoryEventOption]"
- annex.1001.c:0 "[german_baden.GetGrantTerritoryEventOption]"
+ annexation_alsace_lorraine: "Доля Ельзас-Лотарингії"
+ annexation_alsace_lorraine_desc: "Наші армії взяли під свій контроль Ельзас-Лотарінгію, регіон, який протягом останніх 70 років оспорюється Францією та Німеччиною. Тепер ми маємо вирішити, що робити з цією землею."
+ annex.1001.a: "[german_palatinate.GetGrantTerritoryEventOption]"
+ annex.1001.b: "[german_baden.GetGrantTerritoryEventOption]"
 
  annexation_LUX_CONQ:0 "Доля Люксембургу"
  annexation_LUX_CONQ_desc:0 "Велике Герцогство Люксембург колись було незалежною державою. Під час Вельткрігу, німецька армія окупувала Велике Герцогство, яке пізніше було включено до Німецької Імперії. Тепер, коли наше панування в Європі забезпечене, у нашій владі вирішити, що буде з цією державою."
@@ -279,22 +427,15 @@
  annex.1013.d:0 "[AUS.GetGrantTerritoryEventOption]"
  annex.1013.e:0 "Інтегрувати землі Південної Німеччини."
 
- annexation_POL_CONQ:0 "Доля Польщі"
- annexation_POL_CONQ_desc:0 "Наші війська марширують вулицями Варшави, не зустрічаючи жодного опору. Тепер ми маємо вирішити, що робити з їхніми землями."
+ annexation_poland: "Доля Польщі"
+ annexation_poland_desc: "Наші війська марширують вулицями Варшави, не зустрічаючи жодного опору. Тепер ми маємо вирішити, що робити з їхніми землями."
  annex.1014.a: "Звільнити Республіку Польща."
- annex.1014.b: "Звільнити Республіку Польща і включити до неї Галичину."
- annex.1014.c: "Відновити монархію Гогенцоллернів."
- annex.1014.d: "Відновити монархію Гогенцоллернів і включити Галичину."
- annex.1014.e: "Встановити монархію Габсбургів."
- annex.1014.f: "Встановити монархію Габсбургів та включити Галичину."
- annex.1014.g: "Встановити німецьке військове правління."
- annex.1014.h: "Анексувати польські землі."
+ annex.1014.b: "Відновити монархію Гогенцоллернів."
+ annex.1014.c: "Встановити монархію Габсбургів."
+ annex.1014.d: "Встановити німецьке військове правління."
 
  annexation_BIALYSTOK_CONQ:0 "Доля регіону [97.GetName]"
  annexation_BIALYSTOK_CONQ_desc:0 "Область навколо регіону [97.GetName] тепер знаходиться під нашим контролем, ми маємо вирішити, що з нею робити."
- annex.1015.a:0 "Віддати її державі [poland.GetNameDef]."
- annex.1015.b:0 "Віддати її державі [belarus.GetNameDef]."
- annex.1015.c:0 "Віддати її державі [lithuania.GetNameDef]."
 
  annexation_EST_CONQ:0 "Доля Естонії"
  annexation_EST_CONQ_desc:0 "Більшість Естонії опинилася під нашим контролем, оскільки наші війська окупували цей регіон. Тепер ми маємо вирішити, що з цим робити."
@@ -2073,3 +2214,44 @@
  annex.5042.a:0 "Звільнити Судан."
  annex.5042.b:0 "Віддайте Нубію Єгипту та звільніть решту Судану."
  annex.5042.c:0 "Віддати її державі [EGY.GetNameDef]."
+
+ annexation_ogaden: "Доля Огадену"
+ annexation_ogaden_desc: "Спірні прикордонні території між Ефіопією та Сомалі були взяті під наш контроль, оскільки наші війська окупували регіон. Тепер ми повинні вирішити, що з ними робити."
+
+ annexation_jubaland: "Доля Джубаленду"
+ annexation_jubaland_desc: "Спірні прикордонні території між Кенією і Сомалі були взяті під наш контроль після того, як наші війська окупували регіон. Тепер ми повинні вирішити, що з ними робити."
+
+ annexation_gebaia: "The Fate of Portuguese Guinea"
+ annexation_gebaia_desc: "With our new occupation of the former Portuguese colony of Guinea the choice of setting up a puppet government partly run by locals instead of a new colony has been brought up, should we go forward with this idea?"
+ annex.5045.a: "Form the state of [GNB.GetNameDef]."
+
+ annexation_equatorial_guinea: "The Fate of Equatorial Guinea"
+ annexation_equatorial_guinea_desc: "With our new occupation of the former Spanish colony of Equatorial Guinea the choice of setting up a puppet government partly run by locals instead of a new colony has been brought up, should we go forward with this idea?"
+ annex.5046.a: "Form the state of [EQG.GetNameDef]."
+
+ annexation_rif: "The Fate of the Rif"
+ annexation_rif_desc: "The coastal strip of Morocco known as the Rif is now under our control, we must decide what to do with it."
+
+ annexation_ifni: "The Fate of Ifni"
+ annexation_ifni_desc: "The small port city of Ifni is now under our control, we must decide what to do with it."
+
+ annexation_gambia: "The Fate of the Gambia"
+ annexation_gambia_desc: "The coastal region of the Gambia is now under our control, we must decide what to do with it."
+
+ annexation_lourenco_marques: "The Fate of Lourenço Marques"
+ annexation_lourenco_marques_desc: "The southern half of Mozambique is now under our control, we must decide what to do with it."
+
+ annexation_middle_congo: "The Fate of Middle Congo"
+ annexation_middle_congo_desc: "The western portion of the Congo Basin, originally a French colony, is now under our control, we must decide what to do with it."
+ annex.5051.a: "[leopoldville.GetGrantTerritoryEventOption]"
+
+ annexation_indian_ocean_islands: "The Fate of [FROM.FROM.GetName]"
+ annexation_indian_ocean_islands_desc: "[FROM.FROM.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it."
+ annex.5052.a: "[madagascar.GetGrantTerritoryEventOption]"
+ annex.5052.b: "[ceylon.GetGrantTerritoryEventOption]"
+
+ annexation_cabinda: "The Fate of [FROM.GetName]"
+ annexation_cabinda_desc: "[FROM.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it."
+ annex.5053.a: "[loanda.GetGrantTerritoryEventOption]"
+ annex.5053.b: "[lower_congo.GetGrantTerritoryEventOption]"
+ annex.5053.c: "[middle_congo.GetGrantTerritoryEventOption]"

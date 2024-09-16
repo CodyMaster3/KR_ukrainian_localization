@@ -28,12 +28,12 @@
  KR_welcome_splash_tab_2_content: "[GetCountryGuide]"
 
  ## TAB 3 ##
- KR_welcome_splash_tab_3_content: "§YЗверніть увагу на наступне:§!\n£white_dot \n£white_dot \n£white_dot \n\n£white_dot \n\n£white_dot \n\n\n\n§YПовідомлення про проблеми:§!\nЦей мод все ще знаходиться в розробці, тому можливі баги та вильоти. Якщо у вас виникнуть проблеми, повідомте про них нашому §YGitHub issue tracker§!, щоб допомогти нам швидко їх виправити. Посилання можна знайти в меню паузи."
+ KR_welcome_splash_tab_3_content: "§YЗверніть увагу на наступне:§!\n£white_dot \n£white_dot \n£white_dot \n\n£white_dot \n\n£white_dot \n\n\n\n§YПовідомлення про проблеми:§!\nЦей мод все ще знаходиться в розробці, тому можливі баги та вильоти. Якщо у вас виникнуть проблеми, повідомте про них нашому §YТрекері проблем на GitHub§!, щоб допомогти нам швидко їх виправити. Посилання можна знайти в меню паузи."
  KR_welcome_splash_tab_3_content_0: "Кайзеррайх накладає обмеження на дипломатичні дії, такі як §Rранні війни§!, §Rсоюзи§!, та §Rрівні автономії§!.\nКайзеррайх також включає §CЛіміти дивізій§! та §CДемобілізаційну§! механіку для покращення продуктивності наприкінці гри.\nПротягом §YМирної конференції§!, обов'язково анексуйте всі можливі регіони. Ви зможете пізніше звільнити країни з анексованих територій через §Cрішення§!.\n§YСпеціальні правила гри§! - це меню налаштувань, що дозволяє налаштувати багато параметрів, зокрема §CДолі країн§!, §CПершість гравця під час мирних конференцій§!, та §CState and Country Transfer Tool§!.\n§YМеню параметрів у грі§! можна відкрити, натиснувши значок орла у верхньому правому куті. Це дозволяє регулювати §Cчастоту подій та новин§! і включити §Cдинамічне перейменування§! регіонів та міст."
 
  ## TAB 4 ##
  KR_CURRENT_VERSION: "1.2"
- KR_CURRENT_VERSION_NAME: "Імперія завдає удару у відповідь"
+ KR_CURRENT_VERSION_NAME: "За заслуги"
  KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
  KR_welcome_splash_tab_4_header: "§YЛаскаво просимо до $KR_CURRENT_VERSION_COMBINED$\n\n\n\n\n\nСтворено з любов’ю Kaiserreich Team:§!"
  KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$"
@@ -164,14 +164,122 @@
  kr_help_title:0 "§YВступний екран§!"
  kr_help_tooltip:0 "Для отримання інформації про те, як грати в мод"
 
- rename_text:0 "Ендоніми"
- rename_tooltip:0 "§GКлацніть§!, щоб увімкнути динамічне перейменування регіонів та міст на основі їх поточного власника."
+ custom_achievements_text: "Досягнення КР"
+ custom_achievements_tooltip: "§GКлацніть§! щоб увімкнути можливість розблокування користувацьких досягнень."
+
+ rename_text: "Ендоніми"
+ rename_tooltip: "§GКлацніть§!, щоб увімкнути динамічне перейменування регіонів та міст на основі їх поточного власника."
 
  regional_news_text:0 "Регіональні новин"
  regional_news_tooltip:0 "§GКлацніть§!, щоб перемикати спливаючі вікна для глобальних подій, які безпосередньо впливають на країни, які їх отримують."
 
  world_news_text:0 "Світові новини"
  world_news_tooltip:0 "§GКлацніть§!, щоб увімкнути спливаючі вікна новин для всіх глобальних подій, незалежно від актуальності для країни, в якій вони відбуваються."
+
+### Economic Spheres GUI ###
+ is_in_economic_sphere: "Є частиною §Yекономічної сфери§!"
+ is_in_economic_sphere_NOT: "§RНе§! є частиною §Yекономічної сфери§!"
+
+ is_economic_sphere_leader: "Лідер §Yекономічної сфери§!"
+ is_economic_sphere_leader_NOT: "§RНе§! є лідером §Yекономічної сфери§!"
+
+ is_in_same_economic_sphere_as_ROOT: "Знаходиться в тій самій §Yекономічній сфері§!, що й §Y[ROOT.GetNameWithFlag]§!"
+ is_in_same_economic_sphere_as_ROOT_NOT: "§RНе§! знаходиться в тій самій §Yекономічній сфері§!, що й §Y[ROOT.GetNameWithFlag]§!"
+
+ is_in_same_economic_sphere_as_FROM: "Is in the same §Yекономічної сфери§! as §Y[FROM.GetNameWithFlag]§!"
+ is_in_same_economic_sphere_as_FROM_NOT: "Is §Rnot§! in the same §Yекономічної сфери§! as §Y[FROM.GetNameWithFlag]§!"
+
+ is_in_same_economic_sphere_as_PREV: "Is in the same §Yекономічної сфери§! as §Y[PREV.GetNameWithFlag]§!"
+ is_in_same_economic_sphere_as_PREV_NOT: "Is §Rnot§! in the same §Yекономічної сфери§! as §Y[PREV.GetNameWithFlag]§!"
+
+ is_in_economic_sphere_led_by_ROOT: "Is part of §Y[ROOT.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+ is_in_economic_sphere_led_by_ROOT_NOT: "Is §Rnot§! part of §Y[ROOT.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+
+ is_in_economic_sphere_led_by_FROM: "Is part of §Y[FROM.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+ is_in_economic_sphere_led_by_FROM_NOT: "Is §Rnot§! part of §Y[FROM.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+
+ is_in_economic_sphere_led_by_PREV: "Is part of §Y[PREV.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+ is_in_economic_sphere_led_by_PREV_NOT: "Is §Rnot§! part of §Y[PREV.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+
+ is_leader_of_economic_sphere_of_ROOT: "Is the leader of §Y[ROOT.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+ is_leader_of_economic_sphere_of_ROOT_NOT: "Is §Rnot§! the leader of §Y[ROOT.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+
+ is_leader_of_economic_sphere_of_FROM: "Is the leader of §Y[FROM.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+ is_leader_of_economic_sphere_of_FROM_NOT: "Is §Rnot§! the leader of §Y[FROM.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+
+ is_leader_of_economic_sphere_of_PREV: "Is the leader of §Y[PREV.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+ is_leader_of_economic_sphere_of_PREV_NOT: "Is §Rnot§! the leader of §Y[PREV.GetNameWithFlag]§!'s §Yекономічної сфери§!"
+
+ economic_sphere_button_tooltip: "§Y[GetEconomicSphereName]§!"
+ economic_sphere_button_tooltip_delayed: "§L[GetEconomicSphereDesc]§!"
+
+ economic_sphere_default_name: "[PREV.GetName] Економічна сфера"
+ economic_sphere_default_icon: "GFX_goal_generic_positive_trade_relations_gold"
+ economic_sphere_default_desc: ""
+
+### International Market Triggers ###
+ trade_partners_at_peace: "Countries At Peace"
+ trade_partners_at_war: "Countries At War"
+ trade_partners_majors: "Major Countries"
+ trade_partners_faction_leader: "Faction Leader"
+ trade_partners_faction_members: "All Faction Members"
+ trade_partners_major_faction_members: "Major Faction Members"
+ trade_partners_minor_faction_members: "Minor Faction Members"
+ trade_partners_reichspakt: "All [GER.GetFactionName] Countries"
+ trade_partners_internationale: "All [INT.GetFactionName] Countries"
+ trade_partners_entente: "All [ENT.GetFactionName] Countries"
+ trade_partners_moscow_accord: "All [RUS.GetFactionName] Countries"
+ trade_partners_co_prosperity_sphere: "All [JAP.GetFactionName] Countries"
+ trade_partners_overlord: "Overlord"
+ trade_partners_puppets_of_same_overlord: "Puppets of Our Overlord"
+ trade_partners_same_economic_sphere: "Members of Our Economic Sphere"
+ trade_partners_mitteleuropa: "Members of $mitteleuropa_title$"
+ trade_partners_phalanstere: "Members of the $INT_phalanstere$"
+ trade_partners_iedc: "Members of the $CAN_iedc$"
+ trade_partners_geacps: "Members of the $JAP_asian_economic_sphere$"
+ trade_partners_non_aggression_pacts: "Non-Aggression Pact Signatories"
+ trade_partners_guarantors: "Guarantors"
+ trade_partners_same_government: "Countries with the Same Government"
+ trade_partners_different_government: "Countries with a Different Government"
+ trade_partners_same_government_type: "Countries with the Same Government Type"
+ trade_partners_different_government_type: "Countries with a Different Government Type"
+ trade_partners_socialists: "All Socialist Countries"
+ trade_partners_non_socialists: "All Non-Socialist Countries"
+ trade_partners_totalists: "$totalist$ Countries"
+ trade_partners_syndicalists: "$syndicalist$ Countries"
+ trade_partners_radical_socialists: "$radical_socialist$ Countries"
+ trade_partners_is_elected: "$social_democrat$, $social_liberal$, $market_liberal$ or $social_conservative$ Countries"
+ trade_partners_is_democratic: "$social_democrat$, $social_liberal$, $market_liberal$, $social_conservative$ or $authoritarian_democrat$ Countries"
+ trade_partners_is_liberal: "$social_democrat$, $social_liberal$ or $market_liberal$ Countries"
+ trade_partners_is_conservative: "$social_conservative$ or $authoritarian_democrat$ Countries"
+ trade_partners_social_democrats: "$social_democrat$ Countries"
+ trade_partners_social_liberals: "$social_liberal$ Countries"
+ trade_partners_market_liberals: "$market_liberal$ Countries"
+ trade_partners_social_conservatives: "$social_conservative$ Countries"
+ trade_partners_is_authoritarian: "$authoritarian_democrat$, $paternal_autocrat$ or $national_populist$ Countries"
+ trade_partners_is_dictatorship: "$paternal_autocrat$ or $national_populist$ Countries"
+ trade_partners_authoritarian_democrats: "$authoritarian_democrat$ Countries"
+ trade_partners_paternal_autocrats: "$paternal_autocrat$ Countries"
+ trade_partners_national_populists: "$national_populist$ Countries"
+ trade_partners_monarchies: "All Monarchies"
+ trade_partners_republics: "All Republics"
+ trade_partners_north_america: "North American Countries"
+ trade_partners_central_america: "Central American Countries"
+ trade_partners_caribbean: "Caribbean Countries"
+ trade_partners_south_america: "South American Countries"
+ trade_partners_europe: "European Countries"
+ trade_partners_africa: "African Countries"
+ trade_partners_north_africa: "North African Countries"
+ trade_partners_africa_except_north: "Subsaharan African Countries"
+ trade_partners_asia: "Asian Countries"
+ trade_partners_india: "Indian Countries"
+ trade_partners_asia_except_india: "East Asian Countries"
+ trade_partners_middle_east: "Middle Eastern Countries"
+ trade_partners_oceania: "Oceanian Countries "
+ trade_partners_neighbours: "Neighbours"
+ trade_partners_same_continent_neighbours: "Same Continent Neighbours"
+ trade_partners_home_area_neighbours: "Home Area Neighbours"
+
 
 ### Static Modifiers ###
  volunteer_limit_plus_three:0 "Increased Volunteer Limit"
@@ -187,22 +295,24 @@
  INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
 
 ### Autonomy Levels ###
- kr_integrated_puppet:0 "Інтегрована маріонетка"
- kr_occupied_puppet:0 "Окупована маріонетка"
- kr_default_puppet:0 "Маріонетка"
- kr_autonomous_puppet:0 "Автономна маріонетка"
- kr_colonial_government:0 "Колоніальний уряд"
- kr_french_colonial_government:0 "Колоніальний уряд"
- kr_nominal_puppet:0 "Номінальна маріонетка"
- kr_special_autonomous_dependency:0 "Залежна територія"
- kr_initial_wif_puppet:0 "Федеративна колонія"
- kr_soclib_wif_puppet:0 "Федеративний Домініон"
- kr_ottoman_emirate:0 "Османський емірат"
- kr_ottoman_international_zone:0 "Міжнародний мандат"
- kr_federated_state:0 "Конфедеративна держава"
- kr_crownland:0 "Коронна земля"
- kr_oststaat:0 "Остштаат"
- kr_oststaat_autonomous:0 "Автономний Остштаат"
+ integrated_puppet: "Інтегрована маріонетка"
+ occupied_puppet: "Окупована маріонетка"
+ default_puppet: "Маріонетка"
+ autonomous_puppet: "Автономна маріонетка"
+ colonial_government: "Колоніальний уряд"
+ french_colonial_government: "Колоніальний уряд"
+ nominal_puppet: "Номінальна маріонетка"
+ special_autonomous_dependency: "Залежна територія"
+ initial_wif_puppet: "Федеративна колонія"
+ soclib_wif_puppet: "Федеративний Домініон"
+ ottoman_emirate: "Османський емірат"
+ ottoman_international_zone: "Міжнародний мандат"
+ federated_state: "Конфедеративна держава"
+ crownland: "Коронна земля"
+ oststaat: "Остштаат"
+ oststaat_autonomous: "Автономний Остштаат"
+ kr_mitteleuropa_integrated_member: "Інтегрований член Міттельєвропи"
+ autonomous_territory: "Автономна територія"
 
 ### Autonomy Tooltips ###
  can_lower_autonomy_level:0 "Можете знизити автономію"
@@ -217,19 +327,32 @@
 
 ### Opinion Modifiers ###
  KR_friendly:0 "Доброзичливий"
- KR_close_allies:0 "Близькі союзники"
- KR_deal_with_devil:0 "Угода з Дияволом"
- KR_returned_land:0 "Повернули нашу землю"
- KR_liberated_us:0 "Звільнив нас"
- KR_approves_of_govt:0 "Схвалено урядом"
- KR_pleased:0 "Задоволений нами"
- KR_displeased:0 "Незадоволений нашими діями"
- KR_disapproves_of_govt:0 "Не схвалює уряд"
- KR_hates_govt:0 "Злий на уряд"
- KR_outraged:0 "Обурений"
  KR_hostile:0 "Ворожий"
- KR_trade_agreement:0 "Торгова угода"
- KR_trade_sanctions:0 "Торгові санкції"
+ KR_liberated_us:0 "Звільнив нас"
+ KR_loyal_subject: "Loyal Subject"
+ KR_diplomatic_mission: "Дипломатична місія"
+
+ KR_close_allies: "Близькі союзники"
+ KR_returned_land: "Повернули нашу землю"
+ KR_approves_of_govt: "Схвалено урядом"
+ KR_pleased: "Задоволений нами"
+ KR_displeased: "Незадоволений нашими діями"
+ KR_disapproves_of_govt: "Не схвалює уряд"
+ KR_diplomatic_row: "Дипломатична суперечка"
+ KR_hates_govt: "Злий на уряд"
+ KR_outraged: "Обурений"
+ KR_supported_us: "Підтримав наш уряд" # (&?)
+ KR_supported_our_enemies: "Підтримав наших ворогів"
+
+ KR_trade_agreement: "Торгова угода"
+ KR_trade_sanctions: "Торгові санкції"
+
+ KR_different_ideology_close: "Інша ідеологія"
+ KR_different_ideology: "Інша ідеологія"
+ KR_similar_ideology_close: "Схожа ідеологія"
+ KR_similar_ideology: "Схожа ідеологія"
+ KR_similar_ideology_distant: "Схожа ідеологія"
+ KR_same_ideology: "Однакова ідеологія" # (&?)
 
 ### Focus Filters ###
  FOCUS_FILTER_PRODUCTION:0 "Виробництво"
@@ -238,6 +361,7 @@
  FOCUS_FILTER_AIRFORCE_BONUS:0 "ВПС"
  FOCUS_FILTER_RESISTANCE:0 "Опір"
  FOCUS_FILTER_LEC_CURRENCY:0 "Валютні резерви"
+ FOCUS_FILTER_GER_PREPAREDNESS: "War Preparedness"
 
 ### Autonomy Events ###
  FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§! більше не є §HОкупованою маріонеткою§!."
@@ -249,31 +373,6 @@
  compliance_integration_80:0 "Інтеграція"
  territorial_integration:0 "Інтеграція"
  territorial_integration_tt:0 "Націоналізує регіон при досягненні §H50% або 80% підпорядкування§! (значення залежить від регіону)."
-
-### Map Modes ###
- MAPMODE_CORES_CLAIMS_MAP_MODE:0 "§Y$MAPMODE_CORES_CLAIMS_MAP_MODE_NAME$§! режим мапи"
- MAPMODE_CORES_CLAIMS_MAP_MODE_NAME:0 "Національна/претензії"
- MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION:0 "Показує поточні національні регіони та претензії."
-
- cores_claims_map_mode_tooltip:0 "§Y[FROM.GetName]§! ([FROM.Owner.GetFlag] [FROM.Owner.GetName])"
- cores_claims_map_mode_tooltip_delayed:0 "[FROM.GetCoreClaimMapModeTooltip]"
-
- cores_claims_map_mode_tooltip_core:0 "§Y[FROM.GetName]§! є §Yнаціональним регіоном§! для §Y[ROOT.GetNameWithFlag]§!."
- cores_claims_map_mode_tooltip_potential_core_50:0 "§Y[FROM.GetName]§! є §Yпотенційно національною§! в §Y[ROOT.GetNameWithFlag]§!. Вона стане національною при досягненні рівня підпорядкування §Y50%§!."
- cores_claims_map_mode_tooltip_potential_core_80:0 "§Y[FROM.GetName]§! є §Yпотенційно національною§! в §Y[ROOT.GetNameWithFlag]§!. Вона стане національною при досягненні рівня підпорядкування §Y80%§!."
- cores_claims_map_mode_tooltip_claim:0 "§Y[FROM.GetName]§! має §Yпретензії§! на §Y[ROOT.GetNameWithFlag]§!."
- cores_claims_map_mode_tooltip_owned:0 "§Y[FROM.GetName]§! є §Yокупованою§! для §Y[ROOT.GetNameWithFlag]§!."
- 
- MAPMODE_OPINION_MAP_MODE: "§Y$MAPMODE_OPINION_MAP_MODE_NAME$§! режим мапи"
- MAPMODE_OPINION_MAP_MODE_NAME: "Відносини"
- MAPMODE_OPINION_MAP_MODE_DESCRIPTION: "Показує думку інших країн про нас."
-
- opinion_map_mode_tooltip: "§Y[FROM.controller.GetNameWithFlag]§!"
- opinion_map_mode_tooltip_delayed: "[FROM.GetOpinionMapModeTooltip]"
-
- opinion_map_mode_tooltip_delayed2: "ROOT is [ROOT.GetName]\nFROM is [FROM.GetName]\nFROM.FROM is [FROM.FROM.GetName]"
-
- opinion_map_mode_tooltip_delayed_desc: "Їх думка про нас: [?FROM.controller:opinion@ROOT|+=0]\nНаша думка про них: [?ROOT.opinion@FROM.controller|+=0]"
 
 ### World Tension ##
  AL_avricourt_shelled:0 "Село Аврікур обстріляне §Y[GER.GetNonIdeologyNameDef]§!"
@@ -450,11 +549,11 @@
  unit_leader.2.a:0 "Нещасний."
 
 ### Government in Exile Events ###
- mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective] лідер у вигнанні пропонує свої послуги"
+ mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective]ий лідер у вигнанні пропонує свої послуги"
  mtg_exile_leader_added.1.desc:0 "Після довгої і небезпечної подорожі через утримувану ворогом територію і кілька нейтральних країн [From.GetName] нарешті прибув до столиці. Після невеликого відпочинку лідер [From.GetSheHe] запропонував свою допомогу в нашій.\n\nСудячи з повідомлень, [From.GetSheHe] «прагне повернутися до свого звичайного заняття – вбивств і руйнувань»."
  mtg_exile_leader_added.1.a:0 "Ваша боротьба ще не закінчена."
 
- mtg_exile_government.2.title:0 "[From.GetAdjective] уряд у вигнанні"
+ mtg_exile_government.2.title:0 "[From.GetAdjective]ий уряд у вигнанні"
  mtg_exile_government.2.desc:0 "[From.GetLeader] офіційно просить уряд [Root.GetAdjective] дозволу повернутися до стану [From.GetNameDef] і відновити тимчасовий уряд партії [From.GetRulingPartyLong] підготуватися до повоєнного світу»."
  mtg_exile_government.2.a:0 "Пора їм повернутися на свою територію."
  mtg_exile_government.2.b:0 "Час ще не настав."
@@ -465,11 +564,11 @@
  mtg_exile_government.3.b:0 "Ми не будемо служити під їх початком."
 
  mtg_exile_government.4.title:0 "Держава [From.GetName] приймає пропозицію про інтеграцію флоту"
- mtg_exile_government.4.desc:0 "[From.GetAdjective] уряд повідомив нам, що вони приймають нашу пропозицію, і відтепер їхні кораблі діятимуть під нашим командуванням."
+ mtg_exile_government.4.desc:0 "[From.GetAdjective]ий уряд повідомив нам, що вони приймають нашу пропозицію, і відтепер їхні кораблі діятимуть під нашим командуванням."
  mtg_exile_government.4.a:0 "Чудово."
 
  mtg_exile_government.5.title:0 "Держава [From.GetName] відкидає пропозицію про інтеграцію флоту"
- mtg_exile_government.5.desc:0 "[From.GetAdjective] уряд повідомив нам, що їхні моряки нізащо не будуть служити під командуванням офіцерів іншої країни. Вони хочуть допомагати нам, але не мають наміру втрачати незалежність."
+ mtg_exile_government.5.desc:0 "[From.GetAdjective]ий уряд повідомив нам, що їхні моряки нізащо не будуть служити під командуванням офіцерів іншої країни. Вони хочуть допомагати нам, але не мають наміру втрачати незалежність."
  mtg_exile_government.5.a:0 "Вони ставлять свою гордість вище за інтереси альянсу."
 
  mtg_generic.1.title:0 "Держава [From.GetName] насильно змінює уряд"
@@ -487,6 +586,11 @@
  modifier_army_sub_unit_category_mobile_infantry_attack_factor:0 "Атака Кав/Мот/Мех"
  modifier_army_sub_unit_category_mobile_infantry_defence_factor:0 "Захист Кав/Мот/Мех"
  modifier_army_sub_unit_category_mobile_infantry_speed_factor:0 "Швидкість Кав/Мот/Мех"
+
+ modifier_army_sub_unit_category_mot_artillery_brigade_attack_factor: "Атака моторизованої артилерії"
+ modifier_army_sub_unit_category_mot_artillery_brigade_defence_factor: "Захист моторизованої артилерії"
+ modifier_army_sub_unit_category_mot_artillery_brigade_speed_factor: "Швидкість моторизованої артилерії"
+ modifier_army_sub_unit_category_mot_artillery_brigade_max_org_factor: "Організація моторизованої артилерії" 
 
 ### Research Bonus Names ###
  refinery_bonus:0 "Бонус НПЗ"
@@ -615,6 +719,43 @@
  
  tech_improved_logistics: "Покращена логістична група"
  tech_improved_logistics_effect: "Відкриває §H$tech_improved_logistics$\n$logistics_company$§!\n      Використання запасів: [?-.10|=-%0]\n      Використання палива: [?-.05|=-%0]"
+
+ tech_early_helicopters: "Ранні утилітарні гелікоптери" # (&?)
+ tech_early_helicopters_effect: "Відкриває §Y$tech_early_helicopters$§!\n   $MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$\n§H$category_recon$§!\n   $STAT_ARMY_RECON$§G+1§!"
+
+ tech_human_wave_tactics: "$tactic_human_wave_tactics$"
+ tech_human_wave_tactics_effect: "Відкриває тактику: §Y$tactic_human_wave_tactics$§!"
+
+ long_range_patrol_support_tech: "$long_range_patrol_support$"
+ long_range_patrol_support_tech_effect: "Відкривєа §Y$long_range_patrol_support$§! роту логістики."
+ modifier_army_sub_unit_long_range_patrol_support_attack_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_attack_factor$: $RIGHT|+=%2$"
+ modifier_army_sub_unit_long_range_patrol_support_defence_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_defence_factor$: $RIGHT|+=%2$"
+
+ winter_logistics_support_tech: "$winter_logistics_support$"
+ winter_logistics_support_tech_effect: "Відкриває §Y$winter_logistics_support$§! роту логістики."
+
+ tech_extensive_reconaissance: "Широкомасштабна розвідка"
+ tech_extensive_reconaissance_effect: "Вікриває §H$tech_extensive_reconaissance$§!\n$tech_extensive_reconaissance_effect_tooltip$"
+ tech_extensive_reconaissance_effect_tooltip: "§Y$category_recon$§!:\n   $STAT_ARMY_RECON$[?1|=+%1]\n   §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0]\n   §Y$forest$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$hills$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$mountain$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$marsh$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$plains$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]"
+ tech_extensive_reconaissance_modifier_tooltip: "§Y$category_recon$§!: $STAT_ARMY_RECON$[?1|=+%1], §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0], §Y$forest$§!, §Y$hills$§!, §Y$mountain$§!, §Y$marsh$§!, §Y$plains$§! and §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]"
+
+ tech_strengthened_support_companies: "Посилені роти логістики"
+ tech_strengthened_support_companies_effect: "Відкриває §H$tech_strengthened_support_companies$§!\n$tech_strengthened_support_companies_effect_tooltip$"
+ tech_strengthened_support_companies_effect_tooltip: "§Y$category_support_battalions$§!:\n   $STAT_COMMON_MAX_ORG$[?10|=+1]\n   $STAT_COMMON_MAX_STRENGTH$[?5|=G1]"
+ tech_strengthened_support_companies_modifier_tooltip: "§Y$category_support_battalions$§!: $STAT_COMMON_MAX_ORG$[?10|=+1], $STAT_COMMON_MAX_STRENGTH$[?5|=+1]"
+
+ tech_anti_armour_tactics: "Протиброньова тактика"
+ tech_anti_armour_tactics_effect: "Enables §H$tech_anti_armour_tactics$§!\n$tech_anti_armour_tactics_effect_tooltip$"
+ tech_anti_armour_tactics_effect_tooltip: "§Y$category_all_infantry$§!:\n   $STAT_ARMY_HARD_ATTACK$[?0.25|=+%0]\n   $STAT_COMMON_PIERCING$[?1|=+%0]"
+ tech_anti_armour_tactics_modifier_tooltip: "§Y$category_all_infantry$§!: $STAT_ARMY_HARD_ATTACK$[?0.25|=+%0], $STAT_COMMON_PIERCING$[?1|=+%0]"
+
+ jungle_pioneers_support_tech: "Першопрохідці джунглів"
+ jungle_pioneers_support_tech_effect: "Відкриває §Y$jungle_pioneers_support$§! роту логістики."
+
+ tech_river_boats: "Річкові човни" # (&?)
+ tech_river_boats_effect: "Відкриває §H$tech_river_boats$§!\n$tech_river_boats_effect_tooltip$"
+ tech_river_boats_effect_tooltip: "§Y$category_all_infantry$§!:\n   $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0]\n   $STAT_ADJUSTER_ATTACK$[?0.1|=+%0]\n   $STAT_ADJUSTER_DEFENCE$[?0.05|=+%0]"
+ tech_river_boats_modifier_tooltip: "§Y$category_all_infantry$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0], $STAT_ADJUSTER_ATTACK$[?0.1|=+%0], $STAT_ADJUSTER_DEFENCE$[?0.05|=+%0]"
 
  ### Units ###
  rangers:0 "Рейнджери"

@@ -13,12 +13,14 @@
  KR_authoritarian_sic:0 "Контрольована законодавча влада"
  KR_socialist_sic:0 "Уповноважені профспілки"
  KR_colonial_government_sic:0 "Колоніальний уряд"
+ KR_colonial_government_paperless_sic: "$KR_colonial_government_sic$"
 
 ### Political ###
  KR_backroom_backstabber:0 "Таємний маніпулятор"
  KR_compassionate_gentleman:0 "Доброзичливий джентльмен"
  KR_flamboyant_brute:0 "Яскравий грубіян"
  KR_great_compromiser:0 "Майстер компромісу"
+ KR_happy_amateur: "Happy Amateur"
  KR_iron_fisted_brute:0 "Владний грубіян"
  KR_man_of_the_people:0 "Людина з народу"
  KR_naive_optimist:0 "Наївний оптиміст"
@@ -67,7 +69,8 @@
  KR_tank_proponent:0 "Прихильник танків"
  KR_war_propagandist:0 "Військовий пропагандист"
  KR_young_guard:0 "Молода гвардія"
-
+ KR_militia_organiser: "Militia Organiser"
+ 
 ### Research ###
  KR_education_reformer:0 "Реформатор освіти"
  KR_electronics_expert:0 "Експерт з електроніки"
@@ -108,6 +111,7 @@
  KR_pious_intellectual:0 "Благочестивий інтелектуал"
  KR_heartless_lawyer:0 "Безсердечний адвокат"
  KR_teleological_planner:0 "Телеологічний планувальник"
+ KR_faithful_lieutenant: "Faithful Lieutenant"
 
 ##################################
 ### Generic Seconds in Command ###
@@ -125,7 +129,7 @@
  KR_economic_reformer_sic:0 "$KR_economic_reformer$"
  KR_flamboyant_brute_sic:0 "$KR_flamboyant_brute$"
  KR_great_compromiser_sic:0 "$KR_great_compromiser$"
- KR_happy_amateur_sic:0 "Happy Amateur"
+ KR_happy_amateur_sic:0 "$KR_happy_amateur$"
  KR_iron_fisted_brute_sic:0 "$KR_iron_fisted_brute$"
  KR_local_tyrant_sic:0 "Local Tyrant"
  KR_man_of_the_people_sic:0 "$KR_man_of_the_people$"
@@ -160,7 +164,6 @@
  KR_harbiye_officer_sic: "Офіцер Харбіє"
  KR_son_of_spartak_sic: "Син Спартака"
  KR_free_thinking_intellectual_sic: "Вільнодумний інтелектуал"
- KR_face_of_the_military_sic: "Обличчя військового істеблішменту"
  
  ### ASY ###
  KR_supportive_metropolitan:0 "Підтримуючий митрополит"
@@ -326,6 +329,14 @@
 ### IND ###
  KR_integration_proponent:0 "Прихильник інтеграції"
 
+ ### IRE ###
+ KR_big_fellow_3: "$IRE_big_fellow_1$"
+ KR_the_chief_4: "$IRE_the_chief_1$"
+ KR_agrarian_firebrand: "Agrarian Firebrand"
+ KR_passionate_feminist: "Passionate Feminist"
+ KR_passionate_feminist_2: "$KR_passionate_feminist$"
+ KR_consummate_proceduralist: "Consummate Proceduralist"
+
 ### IRQ ###
  KR_conniving_opportunist:0 "Підступний опортуніст"
  KR_paramilitary_leader:0 "Лідер воєнізованого формування"
@@ -354,6 +365,10 @@
  KR_desert_spy_ring:0 "Шпигуни пустелі"
  KR_armed_caravans:0 "Добре озброєні каравани"
  KR_pliant_authorities:0 "Податлива влада"
+
+### LEP ###
+ KR_flour_king: "Flour King"
+ KR_general_guillotine: "General Guillotine"
 
 ### LIT ###
  KR_daimler_benz_engineer:0 "Інженер Даймлер-Бенц"
@@ -418,6 +433,18 @@
  
 ### QIE ###
  KR_army_chief_imperial_commissioner:0 "Імперський комісар"
+ KR_idealistic_monarchist: "Idealistic Monarchist"
+ KR_contentious_peacemaker: "Contentious Peacemaker"
+ KR_hero_of_chinese_liberalism: "Hero of Chinese Liberalism"
+ KR_conductor_of_the_banking_clans: "Conductor of the Banking Clans"
+ KR_devout_constitutionalist: "Devout Constitutionalist"
+ KR_leftist_lawyer: "Leftist Lawyer"
+ KR_speaker_of_the_assembly: "Speaker of the Assembly"
+ KR_detested_educator: "Detested Educator"
+ KR_director_general: "Director General"
+
+### HNN ###
+ KR_resented_attache: "Resented Attaché"
 
 ### ROM ###
  KR_the_capitanul_sic:0 "Căpitanul"
@@ -466,6 +493,11 @@
 ### SWF ###
  KR_la_pasionaria:0 "La Pasionaria"
 
+### SZC ###
+ KR_gentleman_polymath_sic: "Gentleman Polymath"
+ KR_establishment_navigator_sic: "Establishment Navigator"
+ KR_marshal_of_tianjin: "Marshal of Tianjin"
+
 ### TIB ###
  KR_foreign_buddhist:0 "Буддист-іноземець"
 
@@ -475,6 +507,7 @@
  KR_geopolitical_theorist: "Теоретик геополітики"
  KR_natiocrat: "Націократ"
  KR_cooperatives_proponent: "Прихильник кооперативів"
+ KR_cooperatives_proponent_2: "$KR_cooperatives_proponent$"
  KR_man_of_the_centre: "Людина центру"
  KR_voices_of_our_rebirth: "Голос нашого відродження"
  KR_council_of_jurors: "Голова Ради присяжних"
@@ -495,6 +528,10 @@
  UKR_metropolitan_of_kyiv_and_all_ukraine: "Митрополит Київський і всієї України"
  KR_MHC_maknovite: "Махновець\n(Експерт)"
  KR_MHC_propaganda: "Пропаганда\n(Експерт)"
+ KR_MHC_chief_otaman: "The Chief Otaman\n(Expert)"
+ KR_MHC_chief_otaman_2: "The Chief Otaman\n(Expert)"
+ KR_MHC_chief_otaman_3: "The Chief Otaman\n(Expert)"
+ KR_MHC_chief_otaman_4: "The Chief Otaman\n(Expert)"
  KR_commissioner_of_poale_zion: "Commissioner of Poale Zion"
  KR_mathematical_pioneer: "Піонер математики"
  KR_incendiary_demagogue: "Запальний демагог"
@@ -533,7 +570,6 @@
  KR_patriotic_director:0 "Патріотичний директор"
  KR_master_engineer:0 "Головний інженер"
  KR_public_works_administrator:0 "Адміністратор громадських робіт"
- KR_revelatory_speaker:0 "Відвертий спікер"
  KR_christian_nationalist:0 "Християнський націоналіст"
  KR_committed_internationalist:0 "Переконаний інтернаціоналіст"
  KR_father_of_the_assembly_line:0 "Батько конвеєру"
@@ -558,6 +594,7 @@
  
 ### XSM ###
  KR_clan_council_sic:0 "Рада кланів"
+ KR_nationalist_imam: "Nationalist Imam"
 
 ####################################################
 ### Generic Military Staff - ported from vanilla ###

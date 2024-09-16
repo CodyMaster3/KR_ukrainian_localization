@@ -1,34 +1,53 @@
 ﻿l_english:
 
- austrian_empire_faction:0 "Австро-угорська монархія"
- austrian_sphere:0 "Дунай-адріатичний союз"
- Belgrade_Pact:0 "Белградський пакт"
- benesam:0 "БеНіСот"
- buenos_aires_lima_faction:0 "Вісь Буенос-Айрес-Ліма"
- cairo_pact:0 "Каїрський пакт"
- CEN_anti_revolutionary_alliance:0 "Народний авангард"
- CEN_liberal_pact:0 "Ліберальний пакт"
- CEN_revolutionary_front:0 "Революційний фронт"
- co_prosperity_sphere:0 "Велика сфера співпроцвітання"
- colombia_gran_alliance:0 "Андський пакт"
- cos_carib_faction:0 "Карибський демократичний союз"
- CHI_song_faction:0 "Китайсько-тихоокеанська асоціація"
- CHI_totalist_faction:0 "Синосфера"
- CHI_wang_faction:0 "Східний інтернаціонал"
- Entente:0 "Антанта"
- golestan_pact_faction:0 "Голестанський пакт"
- GXC_RKMT_faction:0 "Китайсько-тихоокеанська рада безпеки"
- indian_alliance_faction:0 "Індійський союз"
- reichspakt:0 "Райхспакт"
- moscow_accord:0 "Московський пакт"
- SCA_nordic_council_faction:0 "Північна рада"
- SA_socialist_states:0 "Південноамериканські соціалістичні штати"
- SA_dismantle_patagonia:0 "Коаліція з ліквідації Андезії"
- SHX_feng_faction:0 "Національно-визвольний фронт"
- SHX_yan_faction:0 "Азійсько-тихоокеанський рух неприєднання"
- syndicalist_asia:0 "Східний синдикалістський союз"
- syndicalist_asia_per:0 "Азіатський соціалістичний союз"
- third_internationale:0 "Третій інтернаціонал"
- fourth_internationale:0 "Четвертий інтернаціонал"
- SOV_faction:0 "Східний фронт Третього Інтернаціоналу"
- montevideo_treaty:0 "Пакт Монтевідео"
+ ### STARTING AND MAJOR FACTIONS ###
+ austrian_empire_faction: "Австро-угорська монархія"
+ austrian_sphere: "Дунай-адріатичний союз"
+ co_prosperity_sphere: "Велика сфера співпроцвітання"
+ Entente: "Антанта"
+ moscow_accord: "Московський пакт"
+ reichspakt: "Райхспакт"
+ third_internationale: "Третій Інтернаціонал"
+
+ ### REGIONAL FACTIONS ###
+
+ ## Central America & the Caribbean ##
+ CEN_anti_revolutionary_alliance: "Народний авангард"
+ CEN_liberal_pact: "Ліберальний пакт"
+ CEN_revolutionary_front: "Революційний фронт"
+ cos_carib_faction: "Карибський демократичний союз"
+
+ ## South America ##
+ buenos_aires_lima_faction: "Вісь Буенос-Айрес-Ліма"
+ colombia_gran_alliance: "Андський пакт"
+ montevideo_treaty: "Пакт Монтевідео"
+ SA_socialist_states: "Південноамериканські соціалістичні штати"
+ SA_dismantle_patagonia: "Коаліція з ліквідації Андезії"
+
+ ## Western / Southern Europe ##
+ benesam: "БеНіСот"
+ celtic_confederation: "Кельтська конфедерація"
+
+ ## Central / Northern Europe ##
+ SCA_nordic_council_faction: "Північна рада"
+
+ ## Eastern / Southeast Europe & Central Asia ##
+ Belgrade_Pact: "Белградський пакт"
+ eastern_front_internationale: "Східний фронт Третього Інтернаціоналу"
+ fourth_internationale: "Четвертий Інтернаціонал"
+ small_pact: "Малий пакт"
+
+ ## Caucasus & Middle East ##
+ cairo_pact: "Каїрський пакт"
+ golestan_pact_faction: "Голестанський пакт"
+
+ ## East Asia ##
+ CHI_song_faction: "Китайсько-тихоокеанська асоціація"
+ CHI_totalist_faction: "Синосфера"
+ CHI_wang_faction: "Східний Інтернаціонал"
+ GXC_RKMT_faction: "Китайсько-тихоокеанська рада безпеки"
+ SHX_feng_faction: "Національно-визвольний фронт"
+ SHX_yan_faction: "Азійсько-тихоокеанський рух неприєднання"
+
+ ## South Asia & Oceania ##
+ eastern_syndicalist_union: "Східний синдикалістський союз"

@@ -15,6 +15,8 @@
  UKR_radical_socialist_party_long: "Український соціалістичний блок - Українська партія соціалістів-революціонерів/Радянсько-революційний блок"
  UKR_social_democrat_party: "УСБ-УСДРП"
  UKR_social_democrat_party_long: "Український соціалістичний блок - Українська соціал-демократична робітнича партія"
+ UKR_republican_council: "Рада Республіки" # (&?)
+ UKR_republican_council_long: "Рада Республіки (Республіканська рада)" # (&?)
  UKR_social_liberal_party: "УРДП"
  UKR_social_liberal_party_long: "Українська радикально-демократична партія"
  UKR_market_liberal_party: "ВСЗ/Протофіс"
@@ -31,6 +33,8 @@
  UKR_national_populist_party_long: "Легія українських націоналістів"
  UKR_social_democrat_no_usb: "УСДРП"
  UKR_social_democrat_no_usb_long: "Українська соціал-демократична робітнича партія"
+ UKR_social_democrat_usp: "УСП"
+ UKR_social_democrat_usp_long: "Українська соціалістична партія\n§gПісля великої перемоги на післявоєнних виборах УСДРП та помірковане крило УПС-Р об'єдналися в одну партію. Разом зі своїми дрібними партнерами з Р-РБ та рештою радикалів з УПС-Р вона зараз є беззаперечним гегемоном лівої політики в Україні.§!\n"
  UKR_radical_socialist_no_usb: "УПС-Р/Р-РБ"
  UKR_radical_socialist_no_usb_long: "Українська партія соціалістів-революціонерів/Радянсько-революційний блок"
 

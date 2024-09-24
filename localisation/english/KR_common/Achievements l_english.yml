@@ -4,8 +4,8 @@
 
 ### Titles and Conditions
 
- 000_legacy_of_the_weltkrieg_achievement_NAME: "The Legacy of the Weltkrieg"
- 000_legacy_of_the_weltkrieg_achievement_DESC: "Survive the Second Weltkrieg."
+ 000_legacy_of_the_weltkrieg_achievement_NAME: "Спадщина Вельткригу"
+ 000_legacy_of_the_weltkrieg_achievement_DESC: "Пережити Другий Вельткриг."
 
  GER_believe_in_the_heart_of_the_cards_achievement_NAME: "Believe In The Heart Of The Cards"
  GER_believe_in_the_heart_of_the_cards_achievement_DESC: "As Germany, win the Black Monday card game at the earliest possible date."
@@ -106,8 +106,8 @@
  AUS_held_together_by_super_glue_achievement_and_love_NAME: "Held Together By Super Glue And Love"
  AUS_held_together_by_super_glue_achievement_and_love_DESC: "As Austria, use military force to integrate your subjects into the Imperial government."
 
- ROM_fourth_rome_achievement_NAME: "The Fourth Rome"
- ROM_fourth_rome_achievement_DESC: "As Romania, realise the Great Union by conquering and integrating Transylvania, Dobrudja, and Silistria."
+ ROM_fourth_rome_achievement_NAME: "Четвертий Рим"
+ ROM_fourth_rome_achievement_DESC: "Будучи Румунією, реалізувати Великий Союз, завоювавши та інтегрувавши Трансільванію, Добруджу та Сілістрію."
 
  SER_hej_sloveni_achievement_NAME: "Hej, Sloveni!"
  SER_hej_sloveni_achievement_DESC: "As Serbia, form Yugoslavia."
@@ -115,8 +115,8 @@
  BUL_art_of_sore_losing_achievement_NAME: "The Art of Sore Losing"
  BUL_art_of_sore_losing_achievement_DESC: "As Bulgaria, become National Populist by losing the Fourth Balkan War, and succesfully reconquer your starting territory."
 
- BUL_enemies_to_lovers_achievement_NAME: "Enemies to Lovers"
- BUL_enemies_to_lovers_achievement_DESC: "As Bulgaria, lose the Fourth Balkan War, then join the Belgrade Pact and help them defeat Austria."
+ BUL_enemies_to_lovers_achievement_NAME: "Від ворогів до коханців"
+ BUL_enemies_to_lovers_achievement_DESC: "Будучи Болгарією, програти Четверту Балканську війну, потім приєднатися до Белградського пакту і допомогти їм розгромити Австрію."
 
  GRE_greeks_shall_inherit_achievement_NAME: "The Greeks Shall Inherit The Earth"
  GRE_greeks_shall_inherit_achievement_DESC: "As Greece, reconquer Greek Macedonia and survive the Second Weltkrieg."
@@ -163,14 +163,14 @@
  USA_from_sea_to_shining_sea_achievement_NAME: "From Sea to Shining Sea"
  USA_from_sea_to_shining_sea_achievement_DESC: "As the Pacific States, win the Second American Civil War."
 
- USA_sons_of_liberty_achievement_NAME: "The Sons of Liberty"
- USA_sons_of_liberty_achievement_DESC: "As New England, win the Second American Civil War."
+ USA_sons_of_liberty_achievement_NAME: "Сини Свободи"
+ USA_sons_of_liberty_achievement_DESC: "Виграти Другу американську громадянську війну за Нову Англію."
 
  ARG_reconquest_of_the_desert_achievement_NAME: "The Reconquest of the Desert"
  ARG_reconquest_of_the_desert_achievement_DESC: "As Argentina, successfully reclaim Patagonia and depose Chile's socialist government."
 
- FOP_sons_of_the_hills_achievement_NAME: "The Sons of the Hills"
- FOP_sons_of_the_hills_achievement_DESC: "As the Patagonian Workers' Front, defeat the Argentinian government and seize Buenos Aires."
+ FOP_sons_of_the_hills_achievement_NAME: "Сини пагорбів"
+ FOP_sons_of_the_hills_achievement_DESC: "Будучи Патагонським робітничим фронтом, розгромити аргентинський уряд і захопити Буенос-Айрес."
 
  CHINA_QIE_to_govern_a_nation_by_morality_achievement_NAME: "To Govern a Nation By Morality"
  CHINA_QIE_to_govern_a_nation_by_morality_achievement_DESC: "As the Zhili Clique, unite China."
@@ -247,8 +247,8 @@
  SCA_a_scan_do_attitude_achievement_NAME: "A Scan-do Attitude"
  SCA_a_scan_do_attitude_achievement_DESC: "Form the Nordic Federation as either Sweden, Norway, or Denmark."
 
- SWE_scandinavian_twins_achievement_NAME: "Scandinavian Twins"
- SWE_scandinavian_twins_achievement_DESC: "As Sweden, re-create the union with Norway."
+ SWE_scandinavian_twins_achievement_NAME: "Скандинавські близнюки"
+ SWE_scandinavian_twins_achievement_DESC: "За Швецію, відновити союз з Норвегією."
 
  SER_consequences_of_my_actions_achievement_NAME: "Well, Well, Well, If It Isn't The Consequences Of My Own Actions"
  SER_consequences_of_my_actions_achievement_DESC: "As Serbia, find out what happens when you rely too much on the Konspiracija."
@@ -304,7 +304,7 @@
  ITA_road_to_redemption_achievement_NAME: "The Road to Redemption"
  ITA_road_to_redemption_achievement_DESC: "As Italy, own all of the Unredeemed Lands."
 
- MIT_bear_trap_achievement_NAME: "Bear Trap"
+ MIT_bear_trap_achievement_NAME: "Ведмежий капкан"
  MIT_bear_trap_achievement_DESC: "As an Oststaat, inflict a million casualties against Russia."
 
  POL_selling_out_achievement_NAME: "Selling Out"
@@ -343,8 +343,8 @@
  CHINA_little_trouble_in_big_china_achievement_NAME: "Little Trouble in Big China"
  CHINA_little_trouble_in_big_china_achievement_DESC: "As any Chinese faction, reconquer all of China's claimed territory (including Tibet, Mongolia, Xinjiang, and Taiwan.)"
 
- 00_gatekeeper_achievement_NAME: "The Gatekeeper"
- 00_gatekeeper_achievement_DESC: "Simultaneously own the Panama Canal and Singapore."
+ 00_gatekeeper_achievement_NAME: "Вартовий брами"
+ 00_gatekeeper_achievement_DESC: "Одночасно володіти Панамським каналом і Сінгапуром."
 
  LBA_caravan_simulator_achievement_NAME: "Caravan Simulator 1936"
  LBA_caravan_simulator_achievement_DESC: "As Cyrenaica, upgrade all of your caravan stations to the maximum level."

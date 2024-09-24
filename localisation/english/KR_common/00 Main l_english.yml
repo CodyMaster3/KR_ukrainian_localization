@@ -349,9 +349,9 @@
 
  KR_different_ideology_close: "Інша ідеологія"
  KR_different_ideology: "Інша ідеологія"
- KR_similar_ideology_close: "Схожа ідеологія"
- KR_similar_ideology: "Схожа ідеологія"
- KR_similar_ideology_distant: "Схожа ідеологія"
+ KR_similar_ideology_close: "Подібна ідеологія"
+ KR_similar_ideology: "Подібна ідеологія"
+ KR_similar_ideology_distant: "Подібна ідеологія"
  KR_same_ideology: "Однакова ідеологія" # (&?)
 
 ### Focus Filters ###

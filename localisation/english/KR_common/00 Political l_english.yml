@@ -78,18 +78,6 @@
  generic_events.76.a: "Чудово!"
 
 ### Ideology ###
- KR_different_ideology_close: "Інша ідеологія"
- KR_different_ideology: "Інша ідеологія"
- KR_similar_ideology_close: "Подібна ідеологія"
- KR_similar_ideology: "Подібна ідеологія"
- KR_similar_ideology_distant: "Подібна ідеологія"
- KR_same_ideology: "Однакова ідеологія"
- KR_ideology_allowed: "Міністр дозволений для цієї ідеології"
- KR_factional_rivalry: "Фракційне суперництво"
- head_of_gov_available: "§RГлави урядів не можуть бути додані або видалені вручну.§! Їх можна змінити лише за допомогою подій, фокусів, рішень тощо.\n\nУ цьому списку представлені всі можливі глави урядів країн, тому люди в ньому можуть мати розбіжності з чинним главою, перебувати в іншій країні або навіть бути мертвими."
- minister_available: "§RМіністри не можуть бути додані або видалені вручну.§! Їх можна змінити лише за допомогою подій, фокусів, рішень тощо.\n\nЦей список представляє всіх можливих міністрів країни, тому люди в ньому можуть бути в розбіжності з чинним урядом, перебувати в іншій країні або навіть померти."
- military_staff_available: "Цей військовослужбовець живий і готовий служити державі."
-
  government_is_loc: "Нинішня правляча партія: "
  government_is_not_loc: "Нинішня правляча партія не: "
 
@@ -162,7 +150,7 @@
 ### Demobilisation ###
  mobilisation_penalty_modifier: "Верхній ліміт дивізій"
 
- unit_limit_title: "Max Supported Divisions"
+ unit_limit_title: "Максимально підтримувані дивізії"
 
  unit_limit_count: "[unit_limit_count_loc]"
  unit_limit_count_disabled: "НЕОБМЕЖЕНИЙ"

@@ -17,7 +17,7 @@
  mitteleuropa_next_election_days: "§Y[?days_to_next_election]§! днів"
  mitteleuropa_next_election_soon: "§YНеминуче§!" #(&?)
 
- agenda_score_title: "Рейтинг програми" #(&?)
+ agenda_score_title: "Бали програми" #(&?)
  agenda_score_tooltip: "[!agenda_score_breakdown_button_click]"
 
  agenda_score_tooltip_title: "§Y$agenda_score_title$§!"
@@ -28,8 +28,8 @@
  agenda_score_tooltip_final: "Фінальний результат: [?mtth:mitteleuropa_agenda_score_calculation|G0]"
  agenda_score_tooltip_other_supporters: "Від прибічників: §G[GetMitteleuropaAgendaSupportersScore]§!"
 
- agenda_add_score_desc: "Підвищити рейтинг програми за рахунок £pol_power §Yполітичної влади§!."
- agenda_sub_score_desc: "Повернути вкладені £pol_power §Yполітичної влади§! за рахунок рейтингу порядку денного."
+ agenda_add_score_desc: "Підвищити бал програми за рахунок £pol_power §Yполітичної влади§!."
+ agenda_sub_score_desc: "Повернути вкладені £pol_power §Yполітичної влади§! за рахунок балу програми."
 
  add_score_commands: "§GКлацніть§! щоб витратити [GetMitteleuropaSmallCost] £pol_power щоб підвищити бал на [GetMitteleuropaSmallValue]\n§GCtrl + клацніть§! щоб витратити [GetMitteleuropaMediumCost] £pol_power щоб підвищити бал на [GetMitteleuropaMediumValue]\n§GShift + клацніть§! щоб витратити [GetMitteleuropaLargeCost] £pol_power щоб підвищити бал на [GetMitteleuropaLargeValue]\n§GCtrl + Shift + клацніть§! щоб витратити [GetMitteleuropaHugeCost] £pol_power щоб підвищити бал на [GetMitteleuropaHugeValue]"
  subtract_score_commands: "§GКлацніть§! щоб повернути [GetMitteleuropaSmallValue] £pol_power, зменшивши бал на [GetMitteleuropaSmallCost]\n§GCtrl + клацніть§! щоб повернути [GetMitteleuropaMediumValue] £pol_power, зменшивши бал на [GetMitteleuropaMediumCost]\n§GShift + клацніть§! щоб повернути [GetMitteleuropaLargeValue] £pol_power, зменшивши бал на [GetMitteleuropaLargeCost]\n§GCtrl + Shift + клацніть§! щоб повернути [GetMitteleuropaHugeValue] £pol_power, зменшивши бал на [GetMitteleuropaHugeCost]"

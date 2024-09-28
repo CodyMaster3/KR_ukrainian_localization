@@ -8,19 +8,19 @@
  ### KR Titles ###
  #################
 
- generic_KR_general_purpose_organization: "General Purpose Manufacturer"
+ generic_KR_general_purpose_organization: "Універсальний виробник"
 
  #########################################
  ### KR Subtitles (initial trait name) ###
  #########################################
 
- generic_KR_general_purpose_initial_trait: "General Purpose Designer"
+ generic_KR_general_purpose_initial_trait: "Універсальний дизайнер" # (&?)
 
  ##################
  ### KR Headers ###
  ##################
 
- KR_mio_header_artillery: "Artillery"
+ KR_mio_header_artillery: "Артилерія"
  KR_mio_header_infantry_equipment: "Infantry Equipment"
  KR_mio_header_motorised: "Motorised"
  KR_mio_header_support_equipment: "Support Equipment"

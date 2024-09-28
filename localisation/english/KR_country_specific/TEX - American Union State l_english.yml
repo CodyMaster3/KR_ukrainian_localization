@@ -49,7 +49,7 @@
  #Lindbergh:
  TEX_head_in_the_clouds: "Голова у хмарах"
  #Dies Jr:
- TEX_paranoid_anti_socialist: "Paranoid Anti-Socialist"
+ TEX_paranoid_anti_socialist: "Параноїдальний антисоціаліст"
 
 ### Ideas ###
  TEX_righteous_nation: "The Rightful President"
@@ -79,15 +79,15 @@
  TEX_expanded_fbi: "Expanded FBI"
  TEX_renewed_tariffs: "Renewed Tariffs"
 
- TEX_Moseley_plan1: "Moseley Reform Plan"
+ TEX_Moseley_plan1: "План реформ Мослі"
  TEX_Moseley_plan1_desc: "With Approval of the Government, General Moseley has begun reorganising the military and centralising the command structure. Soon our army will be able to correctly take a position, consolidate and quickly plan for the next movement."
- TEX_Moseley_plan2: "Moseley Reform Plan"
+ TEX_Moseley_plan2: "План реформ Мослі"
  TEX_Moseley_plan2_desc: "The first step in Moseley's plan to reform the military is to take a tally of the officers deserving of promotion for heroism and those deserving of demotion for immorality. Those deserving will be recalled to the capital to receive new guidelines Moseley has developed."
- TEX_Moseley_plan3: "Moseley Reform Plan"
+ TEX_Moseley_plan3: "План реформ Мослі"
  TEX_Moseley_plan3_desc: "The second step for Moseley is to assess the state of the forts and weapon stocks scattered across the country. It will be very difficult to centralise our resources if we cannot locate them in an emergency."
- TEX_Moseley_plan4: "Moseley Reform Plan"
+ TEX_Moseley_plan4: "План реформ Мослі"
  TEX_Moseley_plan4_desc: "With the officers now galvanised and communication secured, it is time for Moseley to arrange the order of battle around the national strategy. This may disappoint generals who enjoyed the rabble of the civil war, but this is progress."
- TEX_Moseley_plan5: "Moseley Reform Plan"
+ TEX_Moseley_plan5: "План реформ Мослі"
  TEX_Moseley_plan5_desc: "With Moseley's reforms finished, our army now stands at the forefront of military tactics and organisation, with an expanded logistical service and fast-reacting command chains that allow us not only to plan ahead of the battle but to also react fast enough to enemy movement as to always be prepared."
  TEX_Danford_plan1: "Danford Reform Plan"
  TEX_Danford_plan1_desc: "With Approval of the Government, General Danford has begun reorganising the military and standardisation of ordnance. Soon our army will be able to deliver the most efficient force to the enemy with the fewest casualties possible."

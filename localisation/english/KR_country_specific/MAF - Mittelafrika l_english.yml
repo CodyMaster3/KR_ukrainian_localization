@@ -73,42 +73,37 @@
  MAF_germany_national_populist_DEF: "Німецька Імперія"
  
 ### Characters ###
- MAF_Hermann_von_Goering: "Hermann von Göring"
- MAF_Hermann_von_Goering_leader_desc: ""
+ MAF_Karl_Ritter: "Karl Ritter"
+ MAF_Karl_Ritter_leader_desc: "§YLeader Description\nBorn:§! June 5th, 1883, in Marktredwitz, Upper Franconia, Kingdom of Bavaria, German Empire\n§YPolitical Career:§! $MAF_Karl_Ritter_leader_desc_body$"
+ MAF_Karl_Ritter_leader_desc_body: "Karl Ritter arrived in a Mittelafrika that had for many years been subject to the whims of the various military cliques that had formed in the aftermath of the 1919 and 1925 pacification campaigns, and while he initially hoped to break this status quo, he found that although he was legally in charge, the German army's tradition of 'independent action' did not make it particularly amenable to being told what to do. By 1936 he has largely abandoned these efforts, taking comfort in the fact that at least in Africa, things rarely change... or do they?"
+
+ MAF_Georg_Kraut: "Georg von Kraut"
+ MAF_Georg_Kraut_leader_desc: "§YLeader Description\nBorn:§! October 5th, 1870, in Hildesheim, Province of Hanover, Kingdom of Prussia\n§YPolitical Career:§! $MAF_Georg_Kraut_leader_desc_body$"
+ MAF_Georg_Kraut_leader_desc_body: "During the Weltkrieg, von Kraut was one of the most senior officers in East Africa, after Generals von Lettow-Vorbeck and Wahle. He took command of the battles of Kilimanjaro, Saliata Hill, and Latema Nek, leading the troops to victory each time. After the war, he took divisional command and put down rebellions in the Upper Kongo and Ruvuma Valley. In 1925, he would be the one to negotiate the entry of German troops into British East Africa and conduct the occupation. Later, he would become commander of all armed forces in Mittelafrika. To the extent that the Schutztruppe has a leader, it's him. With Generaloberst Georg von Kraut in command, we can expect to continue the finest German military traditions."
 
  MAF_Ernst_Juenger: "Ernst Jünger"
- MAF_Ernst_Juenger_leader_desc: ""
+ MAF_Ernst_Juenger_leader_desc: "§YLeader Description\nBorn:§! March 29th, 1895, in Heidelberg, Grand Duchy of Baden, German Empire\n§YPolitical Career:§! $MAF_Ernst_Juenger_leader_desc_body$"
+ MAF_Ernst_Juenger_leader_desc_body: "Awarded the Pour le Mérite for his service in the Weltkrieg, Jünger is something of a renaissance man. He is both an accomplished author, with his best-seller 'Storm of Steel' and an educated entomologist, using his time in Africa to discover and document numerous species while introducing our Askari to 'stormtrooper tactics'. Jünger broke with the German Army after a dispute carried through a series of articles published in military journals in the mid-20s.\n\nUnable to convince the General Staff to adopt his views, he took a transfer to Africa, where he was free to implement his theories on the importance of psychology in modern warfare. Proclaiming a new era in colonial governance, Ernst Jünger will bring what he calls a 'new spirit of 'adventure' to the colonisation of Africa, as well as help us reform our infantry tactics."
 
- MAF_Franz_Ritter_von_Epp: "Franz Ritter von Epp"
- MAF_Franz_Ritter_von_Epp_leader_desc: ""
-
- MAF_Georg_Kraut: "Georg Kraut"
- MAF_Georg_Kraut_leader_desc: ""
-
- MAF_Ludwig_Bockholt: "Ludwig Bockholt"
- MAF_Ludwig_Bockholt_leader_desc: ""
+ MAF_Fritz_Kolbe: "Fritz Kolbe"
+ MAF_Fritz_Kolbe_leader_desc: "§YLeader Description\nBorn:§! September 25th, 1900, in Berlin, Province of Brandenburg, Kingdom of Prussia, German Empire\n§YPolitical Career:§! $MAF_Fritz_Kolbe_leader_desc_body$"
+ MAF_Fritz_Kolbe_leader_desc_body: "Fritz Kolbe rose through the ranks of the Colonial Office not by patronage and favour, but by diligence and ability. It was his raw intellect that brought him into the service of Karl Ritter, and it was with Karl Ritter that he went to Mittelafrika. When his superior began to falter, Kolbe picked up the pace - and has run much of the day-to-day operations of the governor's office, ensuring a smooth transition when he found himself formally in charge after the former governor's downfall."
 
  MAF_Rudolf_Asmis: "Rudolf Asmis"
- MAF_Rudolf_Asmis_leader_desc: ""
+ MAF_Rudolf_Asmis_leader_desc: "§YLeader Description\nBorn:§! June 12th, 1879, in Mesekenhagen, Province of Pomerania, Kingdom of Prussia, German Empire\n§YPolitical Career:§! $MAF_Rudolf_Asmis_leader_desc_body$"
+ MAF_Rudolf_Asmis_leader_desc_body: "Dr. Asmis is a jurist with a long career in the Reichskolonialamt. He has served as a district officer in Togoland, Consul to the Belgian Congo, Counsellor to the General Government of Belgium, delegate to the Shanghai Convention, and, most recently, head of the Reichskolonialamt. His most notable and controversial work has been with his policy of 'Bezirksleiterrecht', a policy of legitimising and formalising local and tribal law, and giving district officers the power to defer to this law in place of German Law. This has been tried in Samoa with some success in reducing conflict with the locals. With such a long history in Imperial and Foreign affairs, he naturally has a close relationship with key individuals in the Colonial Office, and will favour their ideas in decision making. A gifted diplomat with global experience as the head of the Reichskolonialamt, Dr Asmis is eager to see Africa fulfil a key role in Germany's Weltpolitik."
 
- MAF_Theodor_von_Hassel: "Theodor von Hassel"
- MAF_Theodor_von_Hassel_leader_desc: ""
-
- MAF_Thomas_Fasti_Dinesen: "Thomas Fasti Dinesen"
- MAF_Jules_Cousin: "Jules Cousin"
- MAF_Albert_von_Goering: "Albert von Göring"
- MAF_Carl_Schmitt: "Carl Schmitt"
- MAF_Walther_Rathenau: "Walther Rathenau"
- MAF_Julian_Scherner: "Julian Scherner"
- MAF_Oskar_von_Preussen: "Oskar von Preußen"
+ MAF_Hermann_Meyer_Rabingen: "Hermann Meyer-Rabingen"
+ MAF_Adolf_von_Duisburg: "Adolf von Duisburg"
  MAF_Theodor_von_Hippel: "Theodor von Hippel"
  MAF_Alfred_von_Randow: "Alfred von Randow"
- MAF_Hermann_Detzner: "Hermann Detzner"
+ MAF_Hans_Suren: "Hans Surén"
  MAF_Ferdinand_Schoerner: "Ferdinand Schörner"
+ MAF_Adolf_Heusinger: "Adolf Heusinger"
  MAF_Heinrich_Kirchheim: "Heinrich Kirchheim"
  MAF_Hans_Hollaender: "Hans Holländer"
  MAF_Max_von_Looff: "Max von Looff"
- MAF_Richard_Wenig: "Richard Wenig"
+ MAF_Ernst_Felix_Krueder: "Ernst-Felix Krüder"
 
  MAF_Reichskolonialamt: "Reichskolonialamt"
  MAF_reichskolonialamt_sic: "German Oversight"
@@ -118,7 +113,10 @@
  MAF_Erich_Groener: "Erich Gröner"
  MAF_Jan_Cornelius_van_Sambeek: "Jan Cornelius van Sambeek"
  MAF_Max_von_Schenckendorff: "Max von Schenckendorff"
+
+ MAF_Hellmuth_Felmy: "Hellmuth Felmy"
  MAF_Ernst_Udet: "Ernst Udet"
+ MAF_Ludwig_Bockholt: "Ludwig Bockholt"
 
 ### Companies ###
  otavi_minen_eisenbahn: "Otavi Minen- und Eisenbahn-Gesellschaft"
@@ -131,7 +129,6 @@
  maf_dpaeb: "Deutsche Pan-Afrikanische Eisenbahn"
  rumpler_afrika: "Rumpler Flugzeugwerke Mittelafrika"
  focke_wulf_afrika: "Focke Wulf Afrika"
- goring_flugzeugwerke: "Von Göring Flugzeugwerke"
  maf_kaiserliche_werft: "Kaiserliche Werft Daressalam"
  deutsche_ost_afrika_linie: "Deutsche Ost-Afrika Linie"
 
@@ -1212,36 +1209,59 @@
  mittel.213.a: "Некомпетентні ідіоти!"
  
  ## Kenyan Events ##
- mittel.400.t: "Центральна асоціація Кікуйю"
- mittel.400.d: "Коли ми увійшли на британську територію 1925 року, британський контроль над цими землями був небезпечно слабкий, після семи років воєнних дій. Британські удари 1925 року збіглися з серією протестів місцевого населення. У 1925 році місія Шотландської церкви оголосила практику жіночого обрізання неприпустимою для християн, мотивуючи заборону тим, що ці дії калічать жінок. Однак для основної етнічної групи регіону - Кікуйю, практика, яку вони називають іруа, є основою племінного закону та релігії. Вони настільки твердо були проти подібної заборони, що це викликало навіть розкол у християнській спільноті Кікуйюланда. Англіканська церква пішла за прикладом Шотландської і теж заборонила цю практику. У відповідь Кікуйю створили свою власну 'Африканську церкву'. Вони організовували свої власні церковні школи, які були розсадником націоналізму Кікуйю. Водночас, революція в Британії призвела до схизми в самих Шотландській та Англіканській церквах. У Кентерберійському соборі Британський союз проголосив архієпископа Джона Гоббіса главою всіх послідовників англіканства у світі, водночас у Канаді британський король своєю владою глави Англіканської церкви Архієпископа Космо Гордона Ланга главою церковної спільноти. У Шотландській церкві стався аналогічний розкол. Зараз не можна з упевненістю сказати, кого англіканські очільники вважають істинним главою церкви, але, можливо, вони прислухаються до архієпископа Гарріса, який виступає проти імперіалізму в Африці."
- mittel.400.a: "Хіба вони не можуть розібратися із цим самі."
+ mittel.410.t: "A Complaint from Nairobi"
+ mittel.410.d: "In an unexpected turn of events, the Legislative Council of Kenya has lodged a complaint with the Governor's Office about our 'unjust' shielding of von Kraut, demanding that we either sack von Kraut or pay a hefty settlement directly from the state coffers. Some reaction was to be expected as some of the plaintiffs represented by Kenyatta were British citizens, but for one of the Protectorates to actually dare to take action against Germany is unprecedented and likely a bluff."
+ mittel.410.a: "Shall we have a chat?"
+ mittel.410.b: "This will blow over."
 
- mittel.401.t: "Політика Кенійських гірських поселень"
- mittel.401.d: "Гори Кенії є одним з небагатьох районів Африки, придатних для заснування білих поселень. Рідкісна комбінація прохолодних узгір'їв і благодатних ґрунтів створюють у цій області клімат схожий на Європейський, і робить її придатною для фермерства. Тож не дивно, що земля тут користується попитом. На жаль, ці землі практично не використовувалися. Британські поселенці краще почувалися як власники землі, дозволяючи місцевим Кікуйю її обробляти. Якщо ми відкриємо цю територію для невеликих німецьких фермерських господарств, ми зможемо збільшити продуктивність і зміцнити свій вплив у регіоні. Але це так само зробить нестачу землі ще більш помітною."
- mittel.401.a: "Дозволити німецькі поселення."
- mittel.401.b: "Залишимо британські протекторати британцям."
+ mittel.412.t: "Kenya's Demands"
+ mittel.412.d: "After a thorough discussion of the problem at hand, and why the dismissal of von Kraut was politically unfeasible - to which the head of the Kenyan delegation, the emblematic Ewart Scott Grogan, seemed very sympathetic - alternative means of settling the matter were discussed at length over tea (why the British are so fond of this plonk remains to be seen). The meeting ended on a reasonably amicable note, given the circumstances, but the Kenyan delegation remained firm in their demand for compensation."
+ mittel.412.a: "We will pay."
+ mittel.412.b: "What a waste of time."
+
+ mittel.414.t: "Standoff at Taveta"
+ mittel.414.d: "Following our outright dismissal of their concerns, it appears that Kenya has mobilised the East African King's African Rifles to block the railway at Taveta in a grand gesture of defiance. They have announced that they will occupy the railway indefinitely if their demands are not met. Outgoing trains have been stopped at the border. This will disrupt rail traffic, especially towards the DKAEB-owned sections between Nairobi and Djibouti."
+ mittel.414.a: "Fine, give them what they want."
+ mittel.414.b: "Two can play that game."
+
+ mittel.416.t: "Standoff at Taveta"
+ mittel.416.d: "Following a diplomatic row over the outcome of the Kenyatta Affair and a standoff at Taveta, on the border between the Colony and Protectorate of Kenya and German East Africa, word has reached us that Governor [MAF.GetLeader] has ordered the mobilisation of the Schutztruppe to put down the 'instigators'. While this would hardly be the first time the Schutztruppe has been called into action to secure the Mittelafrikan railway network, it would be the first time since 1919 that the German military has taken up arms against the British. It would be an escalation of unprecedented proportions and must be stopped NOW."
+ mittel.416.a: "Tell them to stand down immediately."
+
+ mittel.418.t: "Colonial Office Intervenes"
+ mittel.418.d: "Berlin has got wind of our plans to break through the blockade by force and has sent us an order to stand down and yield to the demands of the Kenyan Legislative Council, together with a stern reprimand for the needless escalation of the matter. The Colonial Office will certainly be watching our administration more closely now."
+ mittel.418.a: "Fine."
+
+ mittel.420.t: "Центральна асоціація Кікуйю"
+ mittel.420.d: "Коли ми увійшли на британську територію 1925 року, британський контроль над цими землями був небезпечно слабкий, після семи років воєнних дій. Британські удари 1925 року збіглися з серією протестів місцевого населення. У 1925 році місія Шотландської церкви оголосила практику жіночого обрізання неприпустимою для християн, мотивуючи заборону тим, що ці дії калічать жінок. Однак для основної етнічної групи регіону - Кікуйю, практика, яку вони називають іруа, є основою племінного закону та релігії. Вони настільки твердо були проти подібної заборони, що це викликало навіть розкол у християнській спільноті Кікуйюланда. Англіканська церква пішла за прикладом Шотландської і теж заборонила цю практику. У відповідь Кікуйю створили свою власну 'Африканську церкву'. Вони організовували свої власні церковні школи, які були розсадником націоналізму Кікуйю. Водночас, революція в Британії призвела до схизми в самих Шотландській та Англіканській церквах. У Кентерберійському соборі Британський союз проголосив архієпископа Джона Гоббіса главою всіх послідовників англіканства у світі, водночас у Канаді британський король своєю владою глави Англіканської церкви Архієпископа Космо Гордона Ланга главою церковної спільноти. У Шотландській церкві стався аналогічний розкол. Зараз не можна з упевненістю сказати, кого англіканські очільники вважають істинним главою церкви, але, можливо, вони прислухаються до архієпископа Гарріса, який виступає проти імперіалізму в Африці."
+ mittel.420.a: "Хіба вони не можуть розібратися із цим самі."
+
+ mittel.421.t: "Політика Кенійських гірських поселень"
+ mittel.421.d: "Гори Кенії є одним з небагатьох районів Африки, придатних для заснування білих поселень. Рідкісна комбінація прохолодних узгір'їв і благодатних ґрунтів створюють у цій області клімат схожий на Європейський, і робить її придатною для фермерства. Тож не дивно, що земля тут користується попитом. На жаль, ці землі практично не використовувалися. Британські поселенці краще почувалися як власники землі, дозволяючи місцевим Кікуйю її обробляти. Якщо ми відкриємо цю територію для невеликих німецьких фермерських господарств, ми зможемо збільшити продуктивність і зміцнити свій вплив у регіоні. Але це так само зробить нестачу землі ще більш помітною."
+ mittel.421.a: "Дозволити німецькі поселення."
+ mittel.421.b: "Залишимо британські протекторати британцям."
  
  mittel.402.t: "Земельна криза в Кенійських горах"
  mittel.402.d: "Допущення німецьких поселень у горах Кенії загострило вже існуючі проблеми в регіоні, спричинивши спекуляцію землею і зростання цін на неї, що вийшло з-під контролю, так само як і конфлікти на ґрунті розмежування. Щоб усе стало ще гірше, у місцевих Кукую чоловік не може вважатися дорослим, доки не володіє хоча б клаптиком землі. Під це були виділені племінні землі, але вони вже критично перенаселені, і більшість з них не володіє землею, а працює на британських плантаторів. На додаток до цього, дедалі більше землі в племінних зонах захоплюються місцевими вождями. І цей дефіцит землі призводить до заворушень з усіх боків."
  mittel.402.a: "Знищіть найменш ефективні британські плантації."
  mittel.402.b: "Відкличте німецьких поселенців."
- mittel.402.c: "Використовуйте Кукую для проектів з освоєння землі."
+ mittel.402.c: "Використовуйте Кукую для проєктів з освоєння землі."
 
- mittel.403.t: "Смерть Верховного вождя Варухи"
- mittel.403.d: "Шокуюча подія: невідомий застрелив Верховного вождя Варухі ва Кунг`у сьогодні при світлі дня. Варухі був нашим головним прихильником серед Кукую. Наші спецслужби відзначають підйом релігійної жорстокості серед Кукую. Можливо, вони проводять магічні ритуали під покровом ночі і приносять клятви винищити всіх білих поселенців. Вбивством Верховного вождя Варухи, до якого був приставлений охоронець і який був високо оцінений нашою адміністрацією, вони демонструють, що немає нікого в Кенійських горах, кого вони не могли б убити."
- mittel.403.a: "Оголосити надзвичайний стан в Кенії."
+ mittel.423.t: "Смерть Верховного вождя Варухи"
+ mittel.423.d: "Шокуюча подія: невідомий застрелив Верховного вождя Варухі ва Кунг`у сьогодні при світлі дня. Варухі був нашим головним прихильником серед Кукую. Наші спецслужби відзначають підйом релігійної жорстокості серед Кукую. Можливо, вони проводять магічні ритуали під покровом ночі і приносять клятви винищити всіх білих поселенців. Вбивством Верховного вождя Варухи, до якого був приставлений охоронець і який був високо оцінений нашою адміністрацією, вони демонструють, що немає нікого в Кенійських горах, кого вони не могли б убити."
+ mittel.423.a: "Оголосити надзвичайний стан в Кенії."
  
- mittel.404.t: "Освоєння землі завершено"
- mittel.404.d: "Наше освоєння землі в Кенії завершено. Осушивши болота, внісши пестициди, побудувавши дамби та змінивши русла річок ми збільшили кількість придатних до використання земель, помітно зменшивши напруження кризи."
- mittel.404.a: "За Німеччину!"
+ mittel.424.t: "Освоєння землі завершено"
+ mittel.424.d: "Наше освоєння землі в Кенії завершено. Осушивши болота, внісши пестициди, побудувавши дамби та змінивши русла річок ми збільшили кількість придатних до використання земель, помітно зменшивши напруження кризи."
+ mittel.424.a: "За Німеччину!"
  
- mittel.405.t: "Людина в лісі"
- mittel.405.d: "Роздратовані обмеженнями, комендантською годиною і випадковими перевірками члени племен Кукую, Енбу і Меру почали залишати свої будинки і йти в непрохідні пагорби і гори Абердара, гірської Кенії і скель Мау. Звідти вони почали кампанію опору проти нас і британців, завдаючи ударів і по колоністах, і по військових, використовуючи у своїх атаках найбільш варварські методи і тактики."
- mittel.405.a: "Відправте армію."
+ mittel.425.t: "Людина в лісі"
+ mittel.425.d: "Роздратовані обмеженнями, комендантською годиною і випадковими перевірками члени племен Кукую, Енбу і Меру почали залишати свої будинки і йти в непрохідні пагорби і гори Абердара, гірської Кенії і скель Мау. Звідти вони почали кампанію опору проти нас і британців, завдаючи ударів і по колоністах, і по військових, використовуючи у своїх атаках найбільш варварські методи і тактики."
+ mittel.425.a: "Відправте армію."
 
- mittel.406.t: "Мау-Мау переможені"
- mittel.406.d: "Після довгої партизанської війни з повстанням Мау-Мау в Кенії ми, нарешті, змогли заарештувати, вбити або стратити більшу частину лідерів повстанців і винищити більшу частину їхніх воїнів. Якийсь час Кенія буде мирною..."
- mittel.406.a: "Триразове ура Міттельафриці!"
+ mittel.426.t: "Мау-Мау переможені"
+ mittel.426.d: "Після довгої партизанської війни з повстанням Мау-Мау в Кенії ми, нарешті, змогли заарештувати, вбити або стратити більшу частину лідерів повстанців і винищити більшу частину їхніх воїнів. Якийсь час Кенія буде мирною..."
+ mittel.426.a: "Триразове ура Міттельафриці!"
 
 ## Collapse Events ##
  mittel.20001.t: "Нігерія відокремлюється від Міттельафрики"

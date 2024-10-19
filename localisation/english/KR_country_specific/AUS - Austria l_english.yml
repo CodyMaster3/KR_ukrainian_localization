@@ -745,6 +745,10 @@
  austria.4.d: "Онук уславленого засновника конгломерату Шкода помер сьогодні від серцевої недостатності.\n\nЕміль фон Шкода, який носив ім'я засновника компанії, змінив свого батька Карла на посаді глави в 1929 році. Коли його дід заснував компанію і керував її злетом, Карл вів компанію через світову війну, бачачи ще більші висоти. З іншого боку, Карл так і не досяг такої популярності, як засновник, часто погано поводився зі своїми чеськими співробітниками. Еміль не міг бути таким самим у цьому відношенні; досконало володіючи чеською мовою, він часто співчував своїм робітникам і міг без проблем розмовляти з ними. Крім того, він провів компанію через деякі з її найбільших труднощів, пов'язаних із кризою Creditanstalt та Чорним Понеділком.\n\nНа жаль, зі смертю Еміля та його молодшого брата, який помер на початку цього року, чоловіча лінія родини Шкода перервалася. У той час як величезний стан сім'ї буде розділено між його молодшою ​​сестрою Гедвігом і матріархом сім'ї Герміною, керівництво компанії, швидше за все, відійде від них. Однак Шкода нікуди не подінеться і продовжуватиме бути титаном збройової промисловості.\n\nДе-факто, лідерство тепер перейшло до Федерації Австрійської Промисловості та її засновника Ханса Лауда, який наразі очолив компанію Veitscher."
  austria.4.a: "Їхня лінія перервалася, але їхні імена безсмертні."
 
+ austria.5.t: "Аламут - найновіша книга Володимира Бартола" # Formerly in 00 Literature events.txt
+ austria.5.d: "Словенці — одна з найменш обговорюваних меншин нашої імперії, хоча навіть після сотень років перебування у її складі вони зберегли свою мову та культуру. Найновіший бестселер на слов'яномовних територіях, написаний Бартолом, — це історія боротьби турків і персів за контроль над фортецею Аламут. Дія відбувається в 11 столітті, коли турки-сельджуки почали експансію в Малу Азію. Підозрюють, що незабаром книга буде перекладена німецькою та іншими мовами."
+ austria.5.a: "Чудово!"
+
  aus.elections.1.t: "Австрійські вибори 1936 року"
  aus.elections.1.d: "З того часу, як почалася федералізація, і 'австрійські вибори' були здебільшого скорочені до німецькомовної частини імперії, дві великі партії домінували в австрійській політиці: ХСП та СДРП.\n\nУ роки також проводяться жорсткі вибори; СДРП і ХСП мають зовсім різні ідеї боротьби з економічною кризою, що триває. Програма СДРП спрямована на полегшення тяжкого становища працівника з приділенням особливої ​​уваги посібникам з безробіття та державного втручання. З іншого боку, ХСП виконує програму серйозних змін жорсткої економії."
  aus.elections.1.a: "Це народний вибір."
@@ -832,21 +836,6 @@
  austria.108.t: "Бурбони відмовляються"
  austria.108.d: "Розгніваний нашою останньою зрадою і щиро сумнівається в користі нашої дружби, сицилійський посол повідомив наш уряд, що між Неаполем і Віднем не повинно бути жодної угоди. Ми повинні покладатися на Мілан і Венецію як італійський союзник."
  austria.108.a: "Чорт."
- 
-### Austria bribes independent BUL with Macedonia ###
- austria.109.t: "Пропозиція з Відня"
- austria.109.d: "Схоже, що австрійцям удалося перемогти сербів – цього разу без нашої допомоги. Бачачи, що ми все ще відновлюємось після нашого попереднього приниження, посол Відня зробив щедру пропозицію: якщо ми підпишемо з ними повний військовий союз, нам повернуть Македонію. Бачачи, що ми все ще важливі для їхніх балканських задумів як противага Сербії та Румунії, їхня пропозиція має сенс, і у нас мало причин відмовлятися."
- austria.109.a: "Щедра пропозиція."
- austria.109.b: "Ми більше ніколи не довірятимемо австрійцям!"
- 
- austria.110.t: "Болгарія погоджується"
- austria.110.d: "Не дивно, що болгари погодились на нашу щедру пропозицію. В обмін на Македонію вони тепер у нашій фракції."
- austria.110.a: "Чудово."
- 
- austria.111.t: "Болгарія відмовляється"
- austria.111.d: "Неймовірно, але болгари все ще скривджені нашими минулими побоюваннями та сміливо відмовилися від нашої щедрої пропозиції. Болгарське его явно не знає кордонів."
- austria.111.a: "Нехай Загреб подбає про це."
- austria.111.b: "Нехай Белград цим займеться."
  
 #############################
 ### THE AUSGLEICH OF 1937 ###
@@ -1454,27 +1443,27 @@
 ### Characters ###
 
  AUS_alfred_klahr: "Alfred Klahr"
- AUS_pierre_ramus: "Pierre Ramus"
  AUS_friedrich_adler: "Friedrich Adler"
  AUS_karl_renner: "Karl Renner"
+ AUS_gustav_stolper: "Gustav Stolper"
  AUS_wilhelm_miklas: "Wilhelm Miklas"
  AUS_franz_dinghofer: "Franz Dinghofer"
 
  AUS_karl_von_habsburg: "Karl von Habsburg-Lothringen"
  AUS_karl_von_habsburg_regnal: "Karl I"
- AUS_karl_von_habsburg_leader_desc: ""
+ AUS_karl_von_habsburg_leader_desc: "§YLeader Description\nBorn:§! August 17th, 1887, in Persenbeug Castle, Persenbeug-Gottsdorf, Lower Austria, Austria-Hungary\n§YPolitical Career:§! After his uncle Franz Ferdinand was assassinated in 1914, Karl von Habsburg-Lothringen became the designated successor of Kaiser Franz Josef, upon whose death Karl inherited the many thrones of the Habsburg Empire in late 1916. In spite of victory in the Weltkrieg, Austria remained burdened by an archaic political system and unrest. Emperor Karl now has the arduous task of reforming the ailing Empire despite numerous internal and external threats."
 
  AUS_otto_von_habsburg: "Otto von Habsburg-Lothringen"
- AUS_otto_von_habsburg_regnal: "Otto"
- AUS_otto_von_habsburg_leader_desc: ""
+ AUS_otto_von_habsburg_regnal: "Otto I"
+ AUS_otto_von_habsburg_leader_desc: "§YLeader Description\nBorn:§! November 20th, 1912, in Wartholz Castle, Reichenau an der Rax, Lower Austria, Austria-Hungary\n§YPolitical Career:§! Emperor Otto von Habsburg-Lothringen has succeeded his father, Karl, as monarch of Austria. Otto, despite his young age, has grand ambitions of an Empire whose disparate peoples share but one national identity. His laconic speech and youthful charm have culminated in Otto garnering frequent media attention."
 
  AUS_eugen_von_habsburg: "Eugen von Habsburg-Lothringen"
 
  AUS_karl_albrecht_von_habsburg: "Karol Albrecht von Habsburg-Lothringen"
  AUS_karl_albrecht_von_habsburg_regnal: "Karol Olbracht"
  AUS_karl_albrecht_von_habsburg_polish: "Karol Olbracht Habsburg-Lotaryński"
- AUS_karl_albrecht_von_habsburg_leader_desc: ""
- AUS_karl_albrecht_von_habsburg_POL_leader_desc: ""
+ AUS_karl_albrecht_von_habsburg_leader_desc: "Karl Albrecht von Habsburg-Lothringen, Austrian by birth, is a stalwart advocate for the Polish. Given charge of the, at-last, devolved Galician region within Cisleithania, Karl Albrecht does his best to represent the interests of his adopted people within the Empire."
+ AUS_karl_albrecht_von_habsburg_POL_leader_desc: "Karol Olbracht von Habsburg-Lothringen, Austrian by birth, is a stalwart advocate for the Polish. When Emperor Karl plotted to annex Polish lands to Austria, Karol Olbracht advocated fiercely against it. Though amicable to his native Austria, as king of Poland, Karol continues to fight for the Polish people."
 
  AUS_joseph_august_von_habsburg: "Joseph August von Habsburg-Lothringen"
  AUS_joseph_august_von_habsburg_hungarian: "József Ágost Habsburg-Lotaringiai"

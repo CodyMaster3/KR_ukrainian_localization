@@ -16,7 +16,6 @@
  KR_phalanstere_name_INT: "Лідер Інтернаціонального Фаланстеру"
  KR_phalanstere_name: "Член Інтернаціонального Фаланстеру"
  
- KR_phalanstere_desc_INT: "Інтернаціональний Фаланстер - це організація економічного розвитку та співробітництва між соціалістичними країнами. Фаланстер прагне краще координувати ресурси між країнами-членами та здійснює численні програми підтримки індустріалізації у менш багатих країнах."
  KR_phalanstere_desc: "Інтернаціональний Фаланстер - це організація економічного розвитку та співробітництва між соціалістичними країнами. Фаланстер прагне краще координувати ресурси між країнами-членами та здійснює численні програми підтримки індустріалізації у менш багатих країнах."
  
  FRA_syndicalist_agitation: "Синдикалістська агітація: §R40%§!"
@@ -30,6 +29,9 @@
  FRA_wave_of_dissent: "Хвиля незгоди"
 
  is_controlled_by_INT_or_ally_tt: "контролюється членом §YІнтернаціоналу§!"
+
+ FRA_blocks_operation_eulen: "§GCompleting this focus impedes §Y[GER.GetNameWithFlag]§! from progressing on the focus§! §Y$GER_operation_eulen$§!.\n\n§RIf §Y$GER_operation_eulen$§! is launched, the bonuses will be lost!§!"
+ FRA_failed_operation_eulen: "§LDue to the success of the German §Y$GER_operation_eulen$§!, significant effort will be diverted towards calming down Catholic unrest, greatly reducing the potential effect of this initiative.§!"
 
 ### World Tension ###
  FRA_rearmament_threat: "Переозброєння Франції"
@@ -60,6 +62,11 @@
  ateliers_de_saint_nazaire: "Ateliers et Chantiers de Saint-Nazaire Penhoët"
  fcm: "FCM"
 
+### MIO Traits ###
+ FRA_mio_trait_automitrailleuses: "Automitrailleuses"
+ FRA_mio_trait_b1_bis_suspension: "B1 bis Suspension"
+ FRA_mio_trait_l_35: "L/35"
+
 ### Ideas ###
  FRA_communard_spirit: "Дух комунару"
  FRA_communard_spirit_desc: "Ми - спадщина Паризької комуни, першої соціалістичної держави, коли-небудь створеної, а потім жорстоко придушеної республіканськими реакціонерами. 1920 року робітники нарешті помстилися і повалили військову хунту "Партії порядку". Ми, сини та дочки комунарів, повинні захищати нашу державу та наш дух, нами більше не будуть командувати тирани!"
@@ -84,10 +91,10 @@
  
  FRA_ruralism_idea: "Аграризм"
  FRA_ruralism_idea_desc: "Широкомасштабні реформи нашої промисловості та економіки означають, що ми більше не маємо великих промислових центрів, що оточують густонаселені міста. Це, до речі, робить будь-яку спробу ворожих сил підірвати або навіть зруйнувати нашу економіку набагато складніше, незважаючи на те, що наші найбільші промислові центри набагато менші і набагато численніші, ніж вони в Європі."
- 
- FRA_market_socialism_idea: "Ринковий соціалізм"
- FRA_market_socialism_idea_desc: "Ринковий соціалізм - це більше, ніж соціалістична інтерпретація ринкової економіки. Ми можемо зробити нашу громадянську економіку більш динамічною та ефективною, не вдаючись до прямого втручання або проходження, в більшості випадків, повільних та роздутих профспілок, просто помістивши все нові робочі кооперативи у справедливу та рівну конкурентну економіку."
- 
+
+ FRA_collective_properties_idea: "Collective Properties"
+ FRA_collective_properties_idea_desc: "Private property is incompatible with freedom of the individual. This, in theory, is a principle even Orthodox Syndicalists agree with us on. However, for decades the old capitalist city planning and public norms have been left mostly unchanged, it is now time to put an end to this. With the promotion of communal living practices and the consolidations of coops into common property, our society is bound to become more equal and less wasteful."
+
  FRA_mass_production_idea: "Масове виробництво"
  FRA_mass_production_idea_desc: "Фабрики завжди мали серйозну перевагу перед ремісниками. Створюючи ланцюжки виробничих завдань, можуть виробляти за короткий проміжок часу багаторазово більше продукції незрівнянної якості; і замість постійних спроб переосмислити цей процес, давайте покращимо його. Щоб перемогти німецьких капіталістів, ми прагнемо абсолютної ефективності виробництва."
  
@@ -175,9 +182,6 @@
  FRA_cut_off_capitalists_idea: "Блокада капіталістів"
  FRA_cut_off_capitalists_idea_desc: "Капіталісти, як і раніше, пишаються своїми колоніальними завоюваннями. Плоди їхніх пограбувань все ще вільно течуть через відкрите море, але якщо ми подбаємо про це, то викрадене майно африканських, азіатських та американських робітників більше не збагачуватиме імперіалістів."
  
- French_Revanchism_idea: "Французький реваншизм"
- French_Revanchism_idea_desc: "Ми довго готувалися до цієї неминучої війни. Ми давно вигнали Петена та його віровчення, але це ще не означає, що ми забудемо, за що загинули наші брати в Арденнах, Вердені та Шмен-де-Дам. Ми помстимось за них і раз і назавжди повернемо собі те, що по праву заслужили своєю кров'ю."
- 
  Revolutionary_spirit: "Революційний дух"
  Revolutionary_spirit_desc: "Виживання та процвітання синдикалістського світу буде забезпечене лише після падіння останнього бастіону імперіалізму. Ми маємо бути готовими до мобілізації та знищення кожного реакційного уряду. Одного разу Інтернаціонал охопить усі моря та континенти!"
  
@@ -194,12 +198,13 @@
  
 ### Parties ###
  FRA_totalist_party: "Я/С"
- 
  FRA_totalist_party_long: "Якобінці/Сореліанці"
  
  FRA_syndicalist_party: "Робітники"
- 
+ FRA_syndicalist_party_long: "Comités Syndicalistes Révolutionnaires"
+
  FRA_radical_socialist_party: "Анархісти"
+ FRA_radical_socialist_party_long: "Association des Fédéralistes Anarchistes"
  
  FRA_social_democrat_party: "РСП"
  FRA_social_democrat_party_long: "Республікансько-соціалістична партія"
@@ -223,7 +228,9 @@
  FRA_national_populist_party_long: "Аксьон Франсез"
  
  FRA_sorelians: "Сореліанці"
+ FRA_sorelians_long: "Confédération Nationale-Syndicaliste"
  FRA_jacobins: "Якобінці"
+ FRA_jacobins_long: "Parti Socialiste de France"
  FRA_parti_communiste: "ФКП"
  FRA_parti_communiste_long: "Французька комуністична партія"
  
@@ -472,7 +479,6 @@
 ### Intro Screen ###
  FRA_country_intro_header: "Французька Комуна"
  FRA_country_intro_content: "Третя Республіка впала так само, як і народилася: зовні розгромлена німецькою зброєю, а всередині зіткнувшись із комуністичною революцією. У листопаді 1919 року ВКТ оголосила Загальний революційний страйк, що паралізував країну і призвів до падіння буржуазного уряду. "Партія порядку" була недостатньо сильна, щоб покласти край безладдям, і в наступні місяці французький істеблішмент був вигнаний з країни коаліцією лівих сил у короткій, але жорстокій громадянській війні.\n\nПротягом останніх п'ятнадцяти років самопроголошена "Французька Комуна" об'єдналася під синдикалістсько-соціалістичною ідеєю на чолі з Комітетом громадської безпеки. Однак до 1936 року компроміс, досягнутий з метою відновлення зруйнованої країни та захисту плодів революції від іноземної загрози, вважається багатьма критиками дедалі застарілими, і частішають заклики до радикальнішої політики. Франція все більше впевнена у своїй стабільності та своєму призначенні, але французькі революційні підвалини розрізнені, і неясно, які саме ідеологічні течії найближчими роками переважатимуть..."
- comfrance.1.a: "Aux armes, citoyens!"
  
  FRA_guide: "§MAnarchistes / Travaillistes / Jacobins / Sorelians§! (§RRadical Socialist§! / §rSyndicalist§! / §oTotalist§!):\n£white_dot In the 1936 elections, have any faction obtain a majority by supporting them 3 times or more.\n\n§MNo majority in elections§! (§rSyndicalist§!)\n£white_dot In the 1936 election, do not support any faction more than 2 times.\n\n§MRadical Jacobin Reformation§! (§oTotalist§!)\n£white_dot Have the Jacobins obtain a majority in the 1936 elections.\n£white_dot Choose to sweep away the old system.\n£white_dot Bring Léon Blum and the Popular Front to trial.\n£white_dot Execute them.\n£white_dot Failing to purge the Popular Front will lead to a coup by General Gamelin, restoring the Travaillistes to power."
  
@@ -932,7 +938,16 @@
  comfrance.156.b: "Перемагають "Сореліанці" - Тоталізм переможе."
  comfrance.156.c: "Перемагають "Анархісти" - Суспільство без держави!"
  comfrance.156.e: "Перемагають "Якобінці" - Ми справжні комунари."
- 
+
+ comfrance.157.t: "Camarade Valois' Speech"
+ comfrance.157.d: "Comrade Valois has humbly come to the representatives of the nation's workers with one modest request: for him to be given the tools to triumph in the struggle against the enemies of the Revolution. Years of Sorelian rule and the streamlining of procedures and production for the war effort have made this demand a formality: Valois and his government are already nearly all-powerful. Naturally, all appearances have been dutifully maintained: Sorelian rethoric is one of radical syndicalism, and the election of the CNS was to be a reform towards the ethos of the revolutionary days. But slowly, surely, power was concentrated in the hands of Sorelians. Proletarian democracy is alive, but it serves only one mistress: the grand historical, revolutionary purpose of all Frenchmen, the War to save civilisation itself from bourgeois decay.\n\nValois is more comfortable with courteous theoretical debate than grand speeches. His leadership has reflected this temperament, and though often forceful, to not say violent, the Sorelians have a rather placid leader. Comrade Valois did not have the makings of a dictator and did not wish to be one: he sees himself as merely imbued by the accidents of History with the role of unworthy guide of the French proletariat. But today Valois found within himself oratory skills on par with the greatest revolutionary tribunes. Passionately arguing for the executive to be granted emergency powers, so that once and for all the Revolution may triumph first across Europe, then the World, he concluded his speech with a promise to hunt down Reaction wherever it may hide, to rapturous applause. He had found, of course, a receptive audience: believers were enraptured, remaining adversaries did not wish to wake up tomorrow to armed comrades accusing them of counter-revolutionary activity. And so a vote granting the government vast emergency powers nearly unanimously passed, as enthusiastic representatives shouted "Vive Camarade-Chef Valois!""
+ comfrance.157.a: "Death to Reaction, wherever she hides!"
+
+ comfrance.158.t: "The Rising Sun"
+ comfrance.158.d: "An award ceremony, frequent sight these days, as our heroes are given the recognition they deserve for their efforts at the front. Camarade Valois, eager to mingle with his fellow worker-combatant, is never too busy to salute them, listen to stories from the front, hear about the heroic sacrifice of a comrade. This time, it was a cavalry unit, federal dragoons. Though their horseback-riding days were behind them and these were now a fierce mechanised force, tip of the spear driven into Reaction's darkened heart, the spirit of the cavalry remained strong: brave or foolhardy, critics would say aristocratic, but none could deny their courage. As Comrade Valois reviewed these troops, his eye was caught by a bright, blood-red banner affixed to the leading tank: crimson flying proudly, adorned with the Sun's flaming rays, in its heart the symbols of the Revolution.\n\nImpossible to mistake it, the symbol was in every history book: this was an ad hoc reproduction of the Oriflamme, the ancient kings of France's sacred war banner, the golden flame cleansing away their enemy, updated to serve the Proletariat. When Valois inquired about this odd sight, an increasingly nervous officer attempted to explain this was nothing more than a unit tradition, initiative from soldiers reviving childish dreams of chivalry. He was no doubt expecting scandal, perhaps punishment, as before the Comrade-Chief cut him off he was attempting to assume full responsibility. Instead, Valois was full of enthusiasm: indeed, what better way to show the inherent revolutionary character of the French nation that to root our symbols in those of the glorious victories of our ancestors? The Frenchman has always been a mover of history, our past is nothing to shun. So full of enthusiasm in fact, that the Chief promised the banner would soon be flown alongside the federal and red flags, reintroduced as France's war banner in her grand civilisational duty."
+ comfrance.158.a: "Our comrades might not share this view..."
+ comfrance.158.b: "Trust the boundless creativity of the masses! Forward, under the rising sun of socialism!"
+
  comfrance.159.t: "Париж втрачено!"
  comfrance.159.d: "Париж, "місто вогнів", колиска революції та столиця Франції, був захоплений ворогом! Поки він стикається з опором цивільного населення, ми маємо швидко контратакувати та повернути повний контроль над містом."
  comfrance.159.a: ""Раби повстануть...""
@@ -1005,7 +1020,39 @@
  comfrance.1000.t: "Гамелен марширує Парижем"
  comfrance.1000.d: "Кілька днів тому генерал Моріс Гамелен здійснив успішний переворот проти Якобінського режиму Марселя Деа. Хоча це схоже на рішучу атаку на демократичну систему Комуни, багато хто стверджує, що Якобінці знищили б демократичну систему, якби не втручання Гамелена. Гамельєн пообіцяв відновити Францію в традиційному синдикалізмі, і процес деякобініцізаціі вже йде. Досі невідомо, якими будуть його плани. Ми можемо тільки чекати..."
  comfrance.1000.a: "Дивно, м'яко кажучи."
- 
+
+ comfrance.1031.t: "Orthodox Syndicalists Elected in France"
+ comfrance.1031.d: "The Commune of France is the world's leading socialist nation, united as a federation of city communes and directed by the Comité de Salut Public, the primary executive. Ever since its inception, however, the Second Commune was not uniform in its policy - numerous factions arose, each one with their own idea of which path France should take. As the time for revenge against Germany and the World Revolution closes in, the CGT election of 1936 is set to be very important...\nThe replacement for the disgraced Marceau Pivert arose from his own faction, the Orthodoxes, who named [FRA.GetLeader], who now hold the leading position in the CSP. They stand for an extension of democracy, and draw inspiration from the British to decentralise the Commune."
+ comfrance.1031.a: "Interesting."
+
+ comfrance.1033.t: "Jacobins Elected in France"
+ comfrance.1033.d: "The Commune of France is the world's leading socialist nation, united as a federation of city communes and directed by the Comité de Salut Public, the chief executive. Ever since its inception, however, the Second Commune was not uniform in its policy - numerous factions arose, each one with their own idea of which path France should take. As the time for revenge against Germany and the World Revolution closes in, the CGT election of 1936 is set to be very important...\n\nThe replacement for the disgraced Marceau Pivert arose from the Jacobins, with [FRA.GetLeader] as their leader, an extremist faction standing in favour of increased centralisation. They now hold the majority in the CSP."
+ comfrance.1033.a: "Interesting."
+
+ comfrance.1034.t: "Sorelians Elected in France"
+ comfrance.1034.d: "The Commune of France is the world's leading socialist nation. It is a federation of city communes directed by the Comité de Salut Public, the chief executive. Since its inception, the Second Commune has not been uniform in its policy; numerous factions with their own distinct direction for France have vied for power. With revenge against Germany and the World Revolution approaching, the election of 1936 was set to be very important...\n\nThe disgraced Marceau Pivert's replacement arose from the Sorelians, the Sorelians named Georges Valois as their leader, who now hold the majority in the CSP. The Sorelians are orthodox syndicalists, and advocate centralisation with the Bourse Générale du Travail - the \"parliament\" - as the chief institution."
+ comfrance.1034.a: "Interesting."
+
+ comfrance.1035.t: "Anarchistes Elected in France"
+ comfrance.1035.d: "The Commune of France is the world's leading socialist nation, united as a federation of city communes and directed by the Comité de Salut Public, the chief executive. Ever since its inception, however, the Second Commune was not uniform in its policy - numerous factions arose, each one with their own idea of which path France should take. As the time for revenge against Germany and the World Revolution closes in, the CGT election of 1936 is set to be very important...\n\nThe replacement for the disgraced Marceau Pivert arose from the Anarchistes, a movement inspired by the Ukrainian revolutionary Nestor Makhno. The Anarchistes now lead the CSP and favour greater regional freedom and a drastic cut in the CSP's powers."
+ comfrance.1035.a: "Interesting."
+
+ comfrance.1036.t: "Electoral Gridlock in France"
+ comfrance.1036.d: "The Commune of France is the world's leading socialist nation, united as a federation of city communes and directed by the Comité de Salut Public, the chief executive. Ever since its inception, however, the Second Commune was not uniform in its policy - numerous factions arose, each one with their own idea of which path France should take. As the time for revenge against Germany and the World Revolution closes in, the CGT election of 1936 is set to be very important...\n\nIt was so important, in fact, that none of the four factions could acquire a majority. Much like before the election, a coalition must be found, but how will this change the shape of the Commune's politics? Only the men in the CSP itself know."
+ comfrance.1036.a: "Interesting."
+
+ comfrance.1037.t: "The Ninth International Congress"
+ comfrance.1037.d: "Socialist delegates from around the world are gathered in and around Paris for the latest congress of their movement. The Third Internationale was created by French socialists after the 1920 revolution and has since helped steer the efforts of the labour movement. Dominated by syndicalists, the Internationale however intends to be a broad-tent organisation and thus welcomes reds of all stripes. Delegates were greeted by a military parade and a rousing speech in Versailles, clad in red for the occasion.\n\nAt the top of the agenda is the spread of revolutionary fervour, particularly to Asia and North America, conflict in Spain, policy on colonialism and requirements for membership of the Internationale's military alliance."
+ comfrance.1037.a: "An interesting development."
+
+ comfrance.1038.t: "The Tenth International Congress"
+ comfrance.1038.d: "The Ninth Congress of the Third Internationale, held in Paris, dealt with spreading the ideology overseas, supporting socialist movements and strengthening the ties between existing socialist nations, and thanks to the gathering's success, the Tenth International Congress has been called, to be held in London.\n\nRepresentatives from the entire world were greeted by a British artillery salute, a Scottish bagpipe chorus and an overall warm reception. As Europe rolls closer and closer to war, military and economic cooperation between the socialists is expected to be the primary topic of discussion, and France and Britain will once again call the shots on the Internationale's policy."
+ comfrance.1038.a: "Interesting."
+
+ comfrance.1039.t: "Creation of the International Avant-Garde"
+ comfrance.1039.d: "A combined effort by the Commune of France and the Union of Britain a few days ago has birthed the International Avant-Garde, a programme that aims to create a united art style for art and genre for music, as well as new literary techniques, each of them encouraged to be socialist, unorthodox, anti-traditionalist and anti-religious.\n\nIt's reported that artists, writers and musicians from all around the world will participate in this programme, from the United States to South Africa to Japan. The first festival to show off the fruits of the programme is planned to happen within two years at Cannes. Is this the dawn of the new, syndicalist entertainment?"
+ comfrance.1039.a: "Solidarity forever!"
+
 ### Decisions ###
  FRA_liberate_europe_category: "Визволення Європи"
  FRA_liberate_europe_category_desc: "З кайзером назавжди покінчено, настав час зруйнувати цей світ дощенту!"
@@ -1072,132 +1119,141 @@
  FRA_radical_socialist: "Французька Комуна"
  FRA_radical_socialist_ADJ: "Французьк"
  FRA_radical_socialist_DEF: "Французька Комуна"
+ FRA_neosocialist: "Французька Соціалістична Республіка"
+ FRA_neosocialist_DEF: "Французька Соціалістична Республіка"
+ FRA_neosocialist_ADJ: "Неосоціалістичн"
 
 ### Characters ###
  FRA_marcel_deat: "Marcel Déat"
- FRA_marcel_deat_leader_desc: ""
+ FRA_marcel_deat_leader_desc: "§YLeader Description\nBorn:§! March 7th, 1894, Guérigny, Nièvre, French Republic\n§YPolitical Career:§! Marcel Déat has upended the Communard political system. A Revisionist who has frequently made public his contempt for syndicalism, Déat stands in opposition to much of France's political establishment. His many enemies both within and outside France could lead to his, and perhaps also the Commune's, downfall."
+
+ FRA_adrien_marquet: "Adrien Marquet"
+ FRA_adrien_marquet_leader_desc: "§YLeader Description\nBorn:§! October 6th, 1884, Bordeaux, Gironde, French Republic\n§YPolitical Career:§! Jacobin of the first hour, Adrien Marquet has been ceaseless in promoting and showcasing Déat's \"Constructive Revolution\" through his rulership of the Bordeaux Commune. With the Jacobins having secured a majority in the BGT, Marquet has been appointed to use his leadership experience to put an end to anarchic chaos."
 
  FRA_georges_valois: "Georges Valois"
- FRA_georges_valois_leader_desc: ""
+ FRA_georges_valois_leader_desc: "§YLeader Description\nBorn:§! October 7th, 1878, Paris, Seine, French Republic\n§YPolitical Career:§! Georges Valois, an adherent to the national-syndicalist teachings of Georges Sorel, has become chairman of the Bourse Générale du Travail. Valois advocates the unification of the chairmanships of the Bourse Générale du Travail and Comité de Salut Public, a precursor in the eyes of many Communards, to tyranny."
 
  FRA_marcel_cachin: "Marcel Cachin"
- FRA_marcel_cachin_leader_desc: ""
+ FRA_marcel_cachin_leader_desc: "§YLeader Description\nBorn:§! September 20th, 1869, Paimpol, Côtes-du-Nord, French Empire\n§YPolitical Career:§! Marcel Cachin, former diplomat and bureau chief of the state-owned newspaper, Humanité, has become chairman of the Commune of France. While a Leninist, his diplomatic attitude and general charisma, allow him to retain some degree cordiality with syndicalists and anarchists."
 
  FRA_leon_jouhaux: "Léon Jouhaux"
- FRA_leon_jouhaux_leader_desc: ""
+ FRA_leon_jouhaux_leader_desc: "§YLeader Description\nBorn:§! July 1st, 1879, in Paris, Seine, French Republic\n§YPolitical Career:§! Léon Jouhaux has been elected Chairman of the Bourse Générale du Travail. Jouhaux, as a revolutionary trade unionist, participated in the general strike of 1919 which precipitated the Commune's establishment. He is an adherent of orthodox French syndicalism, a true centrist among the factions of the Commune."
 
  FRA_vincent_auriol: "Vincent Auriol"
- FRA_vincent_auriol_leader_desc: ""
+ FRA_vincent_auriol_leader_desc: "§YLeader Description\nBorn:§! August 27th, 1884, Revel, Haute-Garonne, French Republic\n§YPolitical Career:§! Vincent Auriol, long accused by hardline syndicalists of harbouring sympathies for the bourgeoisie, has become chairman of the Bourse Générale du Travail. He advocates the gradual transition to a more democratic system of government in the Commune."
 
  FRA_jacques_doriot: "Jacques Doriot"
- FRA_jacques_doriot_leader_desc: ""
+ FRA_jacques_doriot_leader_desc: "§YLeader Description\nBorn:§! September 26th, 1898, Bresles, Oise, French Republic\n§YPolitical Career:§! Jacques Doriot, veteran of the Great War, returned from captivity in Germany to find a France forever changed. His personal transformation from moderate socialist, to Leninist, and now national-syndicalist, has instilled in him an engrained proclivity for compromise."
 
  FRA_benoit_frachon: "Benoît Frachon"
- FRA_benoit_frachon_leader_desc: ""
+ FRA_benoit_frachon_leader_desc: "§YLeader Description\nBorn:§! May 13th, 1893, in Le Chambon-Feugerolles, Loire, French Republic\n§YPolitical Career:§! Benoît Frachon, a veteran of the French Civil War, has become chairman of the Bourse Générale du Travail. While a syndicalist, he is sympathetic towards the opposing anarchist faction; to that end, he has declared mending the Commune's factionalism the chief goal of his chairmanship."
 
  FRA_pierre_monatte: "Pierre Monatte"
- FRA_pierre_monatte_leader_desc: ""
+ FRA_pierre_monatte_leader_desc: "§YLeader Description\nBorn:§! January 15th, 1881, in Monlet, Haute-Loire, French Republic\n§YPolitical Career:§! Worker. Militant. Revolutionary. Pierre Monatte has had an immense influence on our nation, leading us confidently for over a decade now. Born on January 15th, 1881, he was a renowned trade unionist before the Great War and had been unjustly arrested several times for various syndicalist 'crimes' against Capital, such as his participation in righteous protests in the aftermath of the Courrières mining disaster. Having quickly risen through the ranks of the General Confederation of Labour, he was even briefly forced into exile by the Republic's repression of the movement. When the War broke out, he was of the few to dare say a resounding no to collaboration with the bourgeois government, shortly before being sent to the front. This prescience and his reputation as a stalwart, tireless revolutionary meant that when the time came, Monatte played a critical role in the overthrowing of the old order, and was in an excellent place to steer the new proletarian course of our nation.\n\nBecoming one of the main organisers of the 'Orthodoxes', and certainly their most influential member, his leadership led the union of the previously feuding 'Centrists' and 'Ultras' to victory in the 1926 elections, capturing the Presidency. A master politician, Monatte has managed to stay afloat through a fragile coalition with the Anarchists, ever juggling their demands, along with the other, fractal factions that are so important in the parliament. Yet the man at the top will always be a target, and to say the position he holds is coveted would be an understatement. As knives sharpen in every dark corner, how long can the light keep them at bay?"
 
  FRA_conseil_de_defense_federal: "Conseil de Défense Fédéral"
 
  FRA_pierre_jules_cot: "Pierre Jules Cot"
 
  FRA_maurice_gamelin: "Maurice Gamelin"
- FRA_maurice_gamelin_leader_desc: ""
- FRA_maurice_gamelin_commander_desc: ""
+ FRA_maurice_gamelin_leader_desc: "§YLeader Description\nBorn:§! September 20th, 1872, in Paris, Seine, French Republic\n§YPolitical Career:§! General Maurice Gamelin has overthrown the Jacobin regime of Marcel Déat. While his coup is an obvious affront to the already dubious Communard democratic process, many now regard Gamelin as the saviour of the Commune, and even syndicalism itself."
+ FRA_maurice_gamelin_commander_desc: "§YGeneral Description\nBorn:§! §gSeptember 20th, 1872, in Paris, Seine, French Republic§!"
 
  FRA_georges_catroux: "Georges Catroux"
- FRA_georges_catroux_commander_desc: ""
+ FRA_georges_catroux_commander_desc: "§YGeneral Description\nBorn:§! §gJanuary 29th, 1877, in Limoges, Haute-Vienne, French Republic§!"
 
  FRA_gaston_billotte: "Gaston Billotte"
- FRA_gaston_billotte_commander_desc: ""
+ FRA_gaston_billotte_commander_desc: "§YGeneral Description\nBorn:§! §gFebruary 10th, 1875, in Sommeval, Aube, French Republic§!"
 
  FRA_charles_delestraint: "Charles Delestraint"
- FRA_charles_delestraint_commander_desc: ""
+ FRA_charles_delestraint_commander_desc: "§YGeneral Description\nBorn:§! §gMarch 12th, 1879, in Biache-Saint-Vaast, Pas-de-Calais, French Republic§!"
 
  FRA_marie_pierre_koenig: "Marie-Pierre Koenig"
- FRA_marie_pierre_koenig_commander_desc: ""
+ FRA_marie_pierre_koenig_commander_desc: "§YGeneral Description\nBorn:§! §gOctober 10th, 1898, in Caen, Calvados, French Republic§!"
 
  FRA_ernest_petit: "Ernest Petit"
- FRA_ernest_petit_commander_desc: ""
+ FRA_ernest_petit_commander_desc: "§YGeneral Description\nBorn:§! §gFebruary 20th, 1888, in Paimbœuf, Loire-Inférieure, French Republic§!"
 
  FRA_henri_tanguy: "Henri Tanguy"
- FRA_henri_tanguy_commander_desc: ""
+ FRA_henri_tanguy_commander_desc: "§YGeneral Description\nBorn:§! §gJune 12th, 1908, in Morlaix, Finistère, French Republic§!"
 
  FRA_rene_olry: "René Olry"
- FRA_rene_olry_commander_desc: ""
+ FRA_rene_olry_commander_desc: "§YGeneral Description\nBorn:§! §gJune 28th, 1880, in Lille, Nord, French Republic§!"
 
  FRA_diego_brosset: "Diego Brosset"
- FRA_diego_brosset_commander_desc: ""
+ FRA_diego_brosset_commander_desc: "§YGeneral Description\nBorn:§! §gOctober 3rd, 1898, in Buenos Aires, Argentine Republic§!"
 
  FRA_jean_edouard_verneau: "Jean-Édouard Verneau"
- FRA_jean_edouard_verneau_commander_desc: ""
+ FRA_jean_edouard_verneau_commander_desc: "§YGeneral Description\nBorn:§! §gAugust 29th, 1890, in Vignot, Meuse, French Republic§!"
 
  FRA_georges_revers: "Georges Revers"
- FRA_georges_revers_commander_desc: ""
+ FRA_georges_revers_commander_desc: "§YGeneral Description\nBorn:§! §gJuly 30th, 1891, in Saint-Malo, Ille-et-Vilaine, French Republic§!"
 
  FRA_andre_boris: "André Boris"
- FRA_andre_boris_commander_desc: ""
+ FRA_andre_boris_commander_desc: "§YGeneral Description\nBorn:§! §gAugust 23rd, 1878, in Toul, Meurthe-et-Moselle, French Republic§!"
 
  FRA_nestor_makhno: "Nestor Makhno"
- FRA_nestor_makhno_commander_desc: ""
+ FRA_nestor_makhno_commander_desc: "§YGeneral Description\nBorn:§! §gNovember 8th, 1888, in Huliaipole, Yekaterinoslav Governorate, Russian Empire§!\n§YMilitary Career:§! §gBorn in extreme poverty in rural Eastern Ukraine, Nestor Makhno experienced the worst of the late Russian Empire - he lost his father when he was ten months old and any chance at gaining an education at ten years old, as he had to abandon school to work odd jobs to feed his family. He developed a primal rage for the landlord and the factory-owner, led a wildcat strike against his landlord when he was twelve, and fully devoted himself to the impending revolution since he was seventeen, after witnessing the Revolution of 1905. He led anarchist study groups, skirmished with the police, and was ultimately convicted to a life sentence of hard labour.\n\nSickly, yet energetic, Makhno was released after the February Revolution, and immediately travelled to Ukraine to continue his work. Now, he was no longer a propagandist, but a revolutionary leader. After being briefly exiled from Huliapole due to the German occupation, he bore witness to the rise of the Bolsheviks, which he denounced as a "paper revolution" and returned home in July 1918. There, he set up the Revolutionary Insurgent Army and began a year long war of resistance against the Germans and Ukrainian nationalists. Though brutal and not at all educated in army affairs, Makhno earned the favour of the countryside and gave the Hetman a much tougher fight than expected before being forced to flee. Ultimately, he arrived in the Commune of France, which he immediately denounced as yet another paper revolution. Uninterested in its intellectual foundations, Makhno merely saw disunity, inaction and oligarchy which threatened to overturn the accomplishments of the Revolution by creating yet another aristocracy. Much like Bolshevik exiles, he was integrated into the Federal Army, and earned a following with tales of his exploits - however, he was a maverick in the officer corps, clashing with his superiors and ignoring his duties. Neither him nor the Army were satisfied, so, Makhno left for the wider world - serving in revolutionary volunteer corps throughout the post-war to further the world revolution instead. This path has brought him to Patagonia - where he can serve the cause while being out of mind for the Communards."
 
  FRA_henri_adeline: "Henri Adeline"
- FRA_henri_adeline_commander_desc: ""
+ FRA_henri_adeline_commander_desc: "§YGeneral Description\nBorn:§! §gMay 8th, 1898, in Verdun, Meuse, French Republic§!"
+
+ FRA_aime_doumenc: "Aimé Doumenc"
+ FRA_aime_doumenc_commander_desc: "§YGeneral Description\nBorn:§! §gNovember 16th, 1880, in Grenoble, Isère, French Republic§!"
 
  FRA_raoul_magrin_vernerey: "Raoul Magrin Vernerey"
- FRA_raoul_magrin_vernerey_commander_desc: ""
+ FRA_raoul_magrin_vernerey_commander_desc: "§YGeneral Description\nBorn:§! §gFebruary 7th, 1892, in Budapest, Kingdom of Hungary, Austria-Hungary§!"
 
  FRA_joseph_putz: "Joseph Putz"
- FRA_joseph_putz_commander_desc: ""
+ FRA_joseph_putz_commander_desc: "§YGeneral Description\nBorn:§! §gApril 24th, 1895, in Brussels, Brabant, Kingdom of Belgium§!"
 
  FRA_andre_marty: "André Marty"
- FRA_andre_marty_commander_desc: ""
+ FRA_andre_marty_commander_desc: "§YGeneral Description\nBorn:§! §gNovember 6th, 1886, in Perpignan, Pyrénées-Orientales, French Republic§!"
 
  FRA_georges_blanchard: "Georges Blanchard"
- FRA_georges_blanchard_commander_desc: ""
+ FRA_georges_blanchard_commander_desc: "§YGeneral Description\nBorn:§! §gDecember 9th, 1877, in Orléans, Loiret, French Republic§!"
 
  FRA_clement_blanc: "Clément Blanc"
- FRA_clement_blanc_commander_desc: ""
+ FRA_clement_blanc_commander_desc: "§YGeneral Description\nBorn:§! §gOctober 1st, 1897, in Perpignan, Pyrénées-Orientales, French Republic§!"
 
  FRA_paul_legentilhomme: "Paul Legentilhomme"
- FRA_paul_legentilhomme_commander_desc: ""
+ FRA_paul_legentilhomme_commander_desc: "§YGeneral Description\nBorn:§! §gMarch 26th, 1884, in Valognes, Manche, French Republic§!"
 
  FRA_florimond_bonte: "Florimond Bonte"
- FRA_florimond_bonte_commander_desc: ""
+ FRA_florimond_bonte_commander_desc: "§YGeneral Description\nBorn:§! §gJanuary 22nd, 1890, in Tourcoing, Nord, French Republic§!"
 
  FRA_aubert_frere: "Aubert Frère"
- FRA_aubert_frere_commander_desc: ""
+ FRA_aubert_frere_commander_desc: "§YGeneral Description\nBorn:§! §gAugust 21st, 1881, in Grévillers, Pas-de-Calais, French Republic§!\n§YMilitary Career:§! §gBorn the 6th of 11 children, he would receive a Christian education before entering the Saint-Cyr military school at the age of 19. Most of his early career was spent in Morocco before returning to France in 1912. His first experience during the Weltkrieg would be at the battle of Charleroi, and he would later fight at both Verdun and the Somme. He would be promoted first to battalion commander in the first infantry regiment, and later the head of a battalion of Alpine troops. He would be injured three times and be cited eight times before the war ended."
 
  FRA_henri_frenay: "Henri Frenay"
- FRA_henri_frenay_commander_desc: ""
+ FRA_henri_frenay_commander_desc: "§YGeneral Description\nBorn:§! §gNovember 11th, 1905, in Lyon, Rhône, French Republic"
 
  FRA_louis_buisson: "Louis Buisson"
- FRA_louis_buisson_commander_desc: ""
+ FRA_louis_buisson_commander_desc: "§YGeneral Description\nBorn:§! §gDecember 14th, 1889, in Le Bourget-du-Lac, Savoie, French Republic"
 
  FRA_francois_darlan: "François Darlan"
- FRA_francois_darlan_admiral_desc: ""
+ FRA_francois_darlan_admiral_desc: "§YAdmiral Description\nBorn:§! §gAugust 7th, 1881, in Nérac, Lot-et-Garonne, French Republic§!\n§YNaval Career:§! §gJean Louis Xavier François Darlan was born to a family long connected to the navy. He would graduate from the École Navale in 1902, and during the Great War would notably serve in an artillery battery at the Battle of Verdun. Swept in the chaos of the Revolution and spurned by his patriotism and moderate left-wing convictions, Darlan would rejoin the Communard Navy and over the next several years would rise rapidly through the ranks. He is now one of the most respected men in the French Navy, proud of the institution he has helped to rebuild.§!"
 
  FRA_raoul_castex: "Raoul Castex"
- FRA_raoul_castex_admiral_desc: ""
+ FRA_raoul_castex_admiral_desc: "§YAdmiral Description\nBorn:§! §gOctober 27th, 1878, in Saint-Omer, Pas-de-Calais, French Republic"
 
  FRA_andre_georges_lemmonier: "André-Georges Lemonnier"
- FRA_andre_georges_lemmonier_admiral_desc: ""
+ FRA_andre_georges_lemmonier_admiral_desc: "§YAdmiral Description\nBorn:§! §gFebruary 24th, 1896, in Guingamp, Côtes-du-Nord, French Republic"
 
  FRA_gabriel_auphan: "Gabriel Auphan"
- FRA_gabriel_auphan_admiral_desc: ""
+ FRA_gabriel_auphan_admiral_desc: "§YAdmiral Description\nBorn:§! §gNovember 4th, 1894, in Alès, Gard, French Republic"
 
  FRA_philippe_auboyneau: "Philippe Auboyneau"
- FRA_philippe_auboyneau_admiral_desc: ""
+ FRA_philippe_auboyneau_admiral_desc: "§YAdmiral Description\nBorn:§! §gNovember 9th, 1899, in Constantinople, Ottoman Empire"
 
  FRA_marcel_gensoul: "Marcel Gensoul"
- FRA_marcel_gensoul_admiral_desc: ""
+ FRA_marcel_gensoul_admiral_desc: "§YAdmiral Description\nBorn:§! §gOctober 12th, 1880, in Montpellier, Hérault, French Republic"
 
  FRA_louis_lazare_kahn: "Louis-Lazare Kahn"
- FRA_louis_lazare_kahn_desc: ""
+ FRA_louis_lazare_kahn_desc: "§YAdmiral Description\nBorn:§! §gOctober 13th, 1895, in Versailles, Seine-et-Oise, French Republic"
 
  FRA_edouard_peisson: "Édouard Peisson"
- FRA_edouard_peisson_admiral_desc: ""
+ FRA_edouard_peisson_admiral_desc: "§YAdmiral Description\nBorn:§! §gMarch 7th, 1896, in Marseille, Bouches-du-Rhône, French Republic"
 
  FRA_irene_and_frederic_joliot_curie: "Irène & Frédéric Joliot-Curie"
  FRA_robert_esnault_pelterie: "Robert Esnault-Pelterie"
@@ -1217,9 +1273,12 @@
  FRA_henri_barbe: "Henri Barbé"
  FRA_gabriel_lafaye: "Gabriel Lafaye"
  FRA_joseph_paul_boncour: "Joseph Paul Boncour"
- FRA_jacque_duclos: "Jacque Duclos"
+ FRA_jacques_duclos: "Jacques Duclos"
  FRA_jean_zyromski: "Jean Zyromski"
  FRA_jacques_sadoul: "Jacques Sadoul"
  FRA_suzanne_girault: "Suzanne Girault"
 
  FRA_confederation_general_du_travail: "Confédération Générale du Travail"
+
+ FRA_odette_sansom: "Odette Sansom"
+ FRA_richard_sorge: "Richard Sorge"

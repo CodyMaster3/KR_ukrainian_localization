@@ -38,8 +38,8 @@
  TUR_ADJ: "Турецьк"
  TUR_DEF: "Туреччина"
 
- TUR_totalist: "Соціалістична Республіка Туреччина"
- TUR_totalist_DEF: "Соціалістична Республіка Туреччина"
+ TUR_totalist: "Республіка Туреччина"
+ TUR_totalist_DEF: "Республіка Туреччина"
  TUR_syndicalist: "Соціалістична Республіка Туреччина"
  TUR_syndicalist_DEF: "Соціалістична Республіка Туреччина"
  TUR_radical_socialist: "Соціалістична Республіка Туреччина"
@@ -96,7 +96,26 @@
  TUR_ottoman_federation_paternal_autocrat_DEF: "Піднесена Османська Федерація"
  TUR_ottoman_federation_national_populist: "Піднесена Османська Федерація"
  TUR_ottoman_federation_national_populist_DEF: "Піднесена Османська Федерація"
- 
+
+ TUR_ottoman_turkey: "Османи"
+ TUR_ottoman_turkey_ADJ: "Османськ"
+ TUR_ottoman_turkey_DEF: "Османи"
+
+ TUR_ottoman_turkey_social_democrat: "Османська держава"
+ TUR_ottoman_turkey_social_democrat_DEF: "Османська держава"
+ TUR_ottoman_turkey_social_liberal: "Османська держава"
+ TUR_ottoman_turkey_social_liberal_DEF: "Османська держава"
+ TUR_ottoman_turkey_market_liberal: "Османська держава"
+ TUR_ottoman_turkey_market_liberal_DEF: "Османська держава"
+ TUR_ottoman_turkey_social_conservative: "Османська держава"
+ TUR_ottoman_turkey_social_conservative_DEF: "Османська держава"
+ TUR_ottoman_turkey_authoritarian_democrat: "Османська держава"
+ TUR_ottoman_turkey_authoritarian_democrat_DEF: "Османська держава"
+ TUR_ottoman_turkey_paternal_autocrat: "Османська держава"
+ TUR_ottoman_turkey_paternal_autocrat_DEF: "Османська держава"
+ TUR_ottoman_turkey_national_populist: "Османська держава"
+ TUR_ottoman_turkey_national_populist_DEF: "Османська держава"
+
 #############
 # Companies #
 #############

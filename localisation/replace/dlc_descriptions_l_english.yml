@@ -21,6 +21,10 @@
 #Trial of Allegiance
  DLC_DESCRIPTION_dlc040: "Це доповнення є §Rпакетом вмісту§!\nВін не містить жодних нових механік"
 
+#Götterdämmerung
+ DLC_DESCRIPTION_dlc043: "Це доповнення включає такі особливості:\n£white_dot §YСпеціальні проєкти§!\n£white_dot Рейди"
+
+GOTTERDAMMERUNG: "Götterdämmerung"
 TRIAL_OF_ALLEGIANCE: "Trial of Allegiance"
 DLC_OWNED_TEXT: "§GВи володієте цим вмістом!§!"
 DLC_NOT_OWNED_TEXT: "§HКлацніть, щоби відвідати сторінку цього вмісту в крамниці.§!"

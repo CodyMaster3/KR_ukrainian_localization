@@ -487,9 +487,6 @@
  SWI_nuclear_research_idea: "Комісія з вивчення ядерної енергії"
  SWI_nuclear_research_idea_desc: "Дослідницькій комісії з ядерної енергії доручено дослідити можливість включення ядерної зброї до наших збройних сил."
 
- SWI_tech_sharing_idea: "Обмін технологіями"
- SWI_tech_sharing_idea_desc: "Ми обмінюємося нашими технологіями із союзниками і навпаки."
-
  SWI_populist_fortress_idea: "Національні фортеці"
  SWI_populist_fortress_idea_desc: "Наша нація благословенна безліччю природних захистів. Включення цих природних бар'єрів у нові оборонні мережі зробить нашу націю практично невразливою для будь-якого потенційного загарбника."
 
@@ -570,7 +567,6 @@
 ### Intro Screen ###
  SWI_country_intro_header: "Держава Швейцарія"
  SWI_country_intro_content: "Швейцарська Конфедерація побачила кризу у 19 столітті. У кількох кантонах переважали ліберальні рухи, що закликають до більшої демократії та більшого централізму. Це зустріло опозицію католицьких, консервативно домінуючих кантонів, які сформували Зондербунд у 1845 році. Війна Зондербунда вибухнула 1847 року, коли ліберали стали переможцями. У 1848 році була ратифікована Федеральна конституція, перетворивши вільну лігу кантонів на федеральну державу з новою федеральною столицею в Берні. Нова конституція створила нові інститути, такі як Федеральна рада (Бундесрат), Федеральні збори (Bundesversammlung) та Федеральний суд (Bundesgericht). Швейцарія залишалася нейтральною протягом усього Вельткріга, хоча були різні внутрішні конфлікти між німецькими та франкомовними громадянами Швейцарії. Крім того, виникли економічні проблеми, які повністю оточені тим, що країна була воюючими країнами. На той час радикальні ліві отримали велику підтримку, а 1919 року страйк у Женеві, який викликав робочий рух, намагався пробитися через великі соціальні зміни. Спроба зазнала невдачі через страх поширити французький синдикалізм та подальші репресії з боку швейцарського уряду, але після цього було розпочато соціальні реформи, що призвело до підвищення заробітної плати та скорочення робочих днів. У 1919 році було введено систему пропорційного представництва. Консервативний Freisinnige втратив більшість, в той час як соціал-демократи стали сильнішими. У 30-ті роки внутрішня політика регулювалася у відповідь конфлікт між соціал-демократами і консерваторами. Боротьба між громадами у Швейцарії нині набуває більше політичних цінностей: французи більш соціалістичні, німці консервативніші, а італійці більш священні. Чи зростаюча войовничість у Європі матиме наслідки для нейтральної Конфедерації?"
- swiss.41.a: "Далі!"
  
  SWI_guide: "§MPeace and Reconciliation§! (§SSocial Democrat§!, §lSocial Liberal§!, §mMarket Liberal§!, §cSocial Conservative§!)\n£white_dot When French agents have been found subverting the Federal government in Romandie, you can either choose to disband the local governments in the French cantons or respect the constitution and do nothing. Should you choose the latter, socialists will be trying to take over the Romandie region. Click the option to crush their uprising. No matter which option you chose in the beginning, France will demand the return to Haute-Savoie after some time. When prompted by a French ultimatum, conceed. After a few days, the focus "Peace and Reconciliation" will bypass. Wait until the 1939 elections to choose your preferred party.\n\n§MAustrian Alliance/German Aid§! (§SSocial Democrat§!, §lSocial Liberal§!, §mMarket Liberal§!, §cSocial Conservative§!)\n£white_dot When French agents have been found subverting the Federal government in Romandie, you can either choose to disband the local governments in the French cantons or respect the constitution and do nothing. Should you choose the latter, socialists will be trying to take over the Romandie region. Click the option to crush their uprising. No matter which option you chose in the beginning, France will demand the return to Haute-Savoie after some time. When prompted by a French ultimatum, seek foreign aid. An event will pop up where you can either §gGermany§! or §YAustria§!. If none exists or none agrees, §NEugen Bircher§! will coup unlocking the §NEnemy On All Sides§! path. Should you be able to ally one or the other, the 1939 elections will enable you to get your preferred party in power.\n\n§MBend to France§! (§oTotalist§!, §rSyndicalist§!)\n£white_dot When French agents have been found subverting the Federal government in Romandie, choose to respect the constitution. The socialists will then try to take over Romandie and with your input succeed and march further east taking over all of Switzerland and bypassing the focus "Bend to France". Continue down the tree to decide what the new Swiss flag shall be and whether the §ototalist Jakob Herzog§! or the §rsyndicalist Executive Council§! should remain in power.\n\n§MBend to France - Puppet§! (§oTotalist§!, §rSyndicalist§!)\n£white_dot When French agents have been found subverting the Federal government in Romandie, choose to disband the local government in the French cantons. After some time, the French will demand the return of Haute-Savoie to which you will want to agree. There will be a slim chance of France demanding more concessions. Should they demand more, Switzerland will be forced to accept French overlordship. Eventually, you will have to decide between the §ototalist Jakob Herzog§! and the §rsyndicalist Executive Council§! to take power.\n\n§MEnemies on All Sides§! (§NNational Populist§!)\n£white_dot When French agents have been found subverting the Federal government in Romandie, choose to respect the constitution. The socialists will then try to take over Romandie. Here you need to choose the first option "Romandie has been taken by socialists" bypassing the focus "Enemies on All Sides". Continue the focus tree to have §NEugen Bircher§! coup the government. This will unlock a minigame to secure his power by reaching 80% party popularity for §NNational Populist§!. Should you fail, the Federal Council will be reestablished under the §csocial conservative KKP§! and you will be on the Peace and Reconciliation path."
 
@@ -1103,13 +1099,10 @@
  swiss.140.d: "Незважаючи на нашу щедру пропозицію миру перед швейцарським наступом, ми отримали звістку про те, що швейцарці відмовляються від будь-яких пропозицій миру. Здається, що шалений швейцар настільки впевнений у своїй непереможності, що вони думають, що зможуть перемогти всю Французьку Комуну. Ми із задоволенням знищимо цих дурнів."
  swiss.140.a: "Вони надто самовпевнені."
 
- swiss.141.t: "Мир із Францією!"
- swiss.141.d: "Сьогодні прибула новина про те, що Швейцарія досягла мирної угоди із Францією. Це перемога як для нас самих, так і для швейцарців. Синдикалістична загроза показала свою слабкість перед лицем усього світу!"
+ swiss.141.t: "Мир з [FROM.GetNonIdeologyName]!"
+ swiss.141.d.switzerland: "Ми перемогли у війні проти [FROM.GetNonIdeologyName]! Люди радіють на вулицях, а по всій країні проходять паради на честь наших переможних військ. Настав час святкувати!"
+ swiss.141.d.other: "Сьогодні надійшла новина, що Швейцарія досягла миру з [FROM.GetNonIdeologyName] шляхом переговорів. Це перемога як для нас, так і для швейцарців, і синдикалістська загроза показала свою слабкість перед усім світом!"
  swiss.141.a: "Мир відновлено."
- 
- swiss.142.t: "Перемога!"
- swiss.142.d: "Ми перемогли у війні проти Франції! Люди вийшли на вулиці, паради проходять на честь наших переможних військ у всій країні. Настав час святкувати!"
- swiss.142.a: "Ми досягли миру."
 
  swiss.143.t: "Окупація Верхньої Савої"
  swiss.143.d: "В 1815 році на Віденському конгресі Швейцарія отримала законне право підтримувати нейтралітет Верхньої Савої в обмін на відмову від усіх офіційних претензій у регіоні. Під час Вельткріга, коли Франція впала перед революціонерами-синдикалістами, швейцарський уряд вважав за необхідне відправити солдатів для захисту регіону від хаосу того часу.\n\nПісля того, як справжній французький уряд втік до Африки, Швейцарія зберегла свою військову окупацію регіону доти, доки Франція не повернеться на материк, щоб повернути його.\n\nЦе, звичайно, не дуже добре допомагало ладнати з нинішнім урядом у Парижі, який активно намагається повернути провінцію."
@@ -1567,20 +1560,20 @@
 
 ### Characters ###
  SWI_jakob_herzog: "Jakob Herzog"
- SWI_jakob_herzog_leader_desc: ""
+ SWI_jakob_herzog_leader_desc: "§YLeader Description\nBorn:§! July 27th, 1882, in Lucerne, Switzerland\n§YPolitical Career:§! Jakob \"Joggi\" Herzog was born into a family of Catholic Swiss Germans. Having lost his parents at an early age, Herzog was raised in an orphanage, before taking on a carpenter's apprenticeship as a young man. He eventually abandoned this career and fell in with the radical politics of the Swiss Social Democrats and the International Union of Socialist Youth Organisations. He became a close collaborator to the Youth International's German president Willi Münzenberg, serving as his vice-president during the Weltkrieg. Herzog's combative and hotheaded personality eventually saw him expelled from the Social Democrats, whereafter he formed his own group \"Forderung\" (Demand), which was strongly influenced by the Christian Socialist and Anarcho-Syndicalist ideas of Fritz Brupbacher and Jules Humbert-Droz. During the Swiss General Strike of 1918 Herzog rallied disaffected soldiers and students in Zurich to take up arms against the government, forming a Zurich Workers Council in hopes of replicating the success of the Russian Revolution. The chaotic uprising failed and Herzog was imprisoned for ten months, during which time his political ideas moved in a more authoritarian and militant direction. Upon his release he studied the Dutch Marxist Anton Pannenkoek's \"Tribunist\" movement and later took a great interest in the ideas of the French Socialist Revolution, particularly the Sorelians. Even so, Herzog began forging his own ideological path, establishing a more personalistic leadership in Forderung. Though he had once been an anarchist, Herzog now called for the creation of centralised Syndicalist states based upon \"revolutionary parliamentarism\" and criticised the \"inconsistencies, opportunism and elitism\" of moderate Syndicalists. His views on Christian Socialism took decisive influence from the French Sorelians, a far cry from the ideals of his former idols Brupbacher and Humbert-Droz. In 1921 he forged an unlikely alliance with his old rivals Léon Nicole and Fritz Platten, cooperating with their Solidarité (Solidarity) group to strengthen the radical Swiss trade unions. This partnership deepened in 1927 with the founding of \"die Arbeiterwache\", or \"le Garde Ouvrière\" (The Workers Guard), a dedicated political paramilitary for the Swiss socialist movement, that has served as Herzog's main source of influence outside of the more close knit Forderung group."
 
  SWI_jules_humbert_droz: "Jules Humbert-Droz"
- SWI_jules_humbert_droz_leader_desc: ""
+ SWI_jules_humbert_droz_leader_desc: "§YLeader Description\nBorn:§! September 23rd, 1891, in La Chaux-de-Fonds, Neuchâtel, Switzerland\n§YPolitical Career:§! Jules Humbert-Droz was born into Francophone, Protestant family in the canton of Neuchâtel. His parents and grandparents had longstanding connections to the Swiss labour movement, so Jules was raised in a radical, working class environment that heavily influenced his future beliefs. He subsequently graduated from the University of Neuchâtel with a thesis about the contradictions and compatibilities between Socialism and Christianity, before taking up work as a pastor and writer for local left-wing newspapers. When Switzerland escalated its "armed neutrality" during the Weltkrieg and expanded conscription, Jules became a conscientious objector and went to jail several times for his anti-militarism as well as his participation in the 1918 General Strike. The year afterwards he moved to Paris and founded the newspaper \"Le Phare\" (The Lighthouse), to promote Syndicalist ideas and solidarity between the French and Swiss socialist movements. He was subsequently recruited to aid the Third Internationale, where his responsibility was primarily the Romance-speaking world. After nearly a decade of service to the revolution he returned to Switzerland, where he sought to reconcile the Swiss Social Democratic Party with the Third Internationale, to limited success. Jules was a man of many contradictions, a zealously devoted Christian who nevertheless always defended the Parisian political line, even as tensions in France escalated over anti-clericalism. He turned the other cheek when radicals questioned his whether his ardent pacifism did more to harm the revolution than help it.\n\nTo Jules, pacifism did not preclude waging a righteous struggle, but it mandated him to oppose the senseless violence he saw embodied by men such as Jakob Herzog and Léon Nicole. He rejected their paramilitary methods and turned towards mainstream politics, hoping to usher in a Syndicalist revolution by the ballot. He was later elected to the National Council representing Zürich, though Neuchâtel still remains as his primary base of operations as he serves as its local Social Democratic Party's de-facto leader."
 
  SWI_robert_grimm: "Robert Grimm"
- SWI_robert_grimm_leader_desc: ""
+ SWI_robert_grimm_leader_desc: "§YLeader Description\nBorn:§! April 16th, 1881, in Wald, Zurich, Switzerland\n§YPolitical Career:§! Born April 16th, 1881, to a German Protestant family in the village of Wald, Zurich, Robert Grimm grew up the son of a machine fitter and weaver, which taught him the skills to gain an apprenticeship as a printer. Familiar with industrial machinery, he excelled in the workshops of Oerlikon, the industrial sector of the city of Zurich an embarked on his 'Wanderjahre' (journeyman years) in 1905. This wide trip across Germany, France, Austria and Italy introduced him to radical Marxist ideas. Upon his return he joined the Swiss Social Democratic Party and was subsequently blacklisted due to an attempt to organise his workplace outside of Basel. Bereft of employment, Robert turned to journalism and political activism, leaving Basel-Stadt in favour of Bern, where he participated in the strikes of 1906 and 1912. By the outbreak of the Weltkrieg, Robert turned away from the failed optimism of the Second International and towards the ambitions of Bolshevism, spending time in the company of the Russian exile Vladimir Lenin. In the wake of the February Revolution, he helped to negotiate Lenin's return and unsuccessfully sought to utilise his influence among German workers to mediate a separate peace between Russia and Germany. A year later he organised the Olten Action Committee in the eponymous Solothurn town of Olten.\n\nEconomic collapse and a looming famine had necessitated the Swiss Government to decree the conscription of all civilians to aid in public works, which faced nationwide resistance. When his comrades hesitated, Robert effectively hijacked the Social Democratic Party to push for a general strike, in hopes that it would break the back of the Federal Council and establish a Swiss People's Republic. The 1918 Swiss Landesstreik/Grève du Pays (National Strike) was short and brutal, leaving several workers dead and a near military coup shaking the country, as the army intervened to crush the uprising. Robert, who has ever since then been known as the 'Father of the National Strike', faced years in prison but upon his release returned to fighting for workers rights and maintained an immense political influence. In recent years he has drifted between both the moderate and radical wings of the socialist movement, but he has never forgotten his roots and has always been ready for the day that the glorious Swiss revolution, dreamed of in 1918, can truly be made real."
 
  SWI_swiss_federal_council: "Swiss Federal Council"
- SWI_swiss_federal_council_leader_desc: ""
+ SWI_swiss_federal_council_leader_desc: "Founded in 1848, the Swiss Federal Council is a seven-member executive council which serves as the collective head of state for Switzerland. Each council member heads one of seven different federal departments, and the position of Federal President moves between the seven Councillors every year, with the current year's Vice President serving as the next year's President."
 
  SWI_eugen_bircher: "Eugen Bircher"
- SWI_eugen_bircher_leader_desc: ""
- SWI_eugen_bircher_commander_desc: ""
+ SWI_eugen_bircher_leader_desc: "§YLeader Description\nBorn:§! February 17th, 1882, in Aarau, Aargau, Switzerland\n§YPolitical Career:§! A Germanophile and diehard anti-Syndicalist, Eugen Bircher is a physician by trade and invented several groundbreaking procedures dealing with arthroscopy of the knee. After the rise of Syndicalism in France Bircher largely gave up his medical work and founded the SVV, which quickly pervaded Swiss military and political circles as a counterbalance to the rising tide of Socialism in the nation."
+ SWI_eugen_bircher_commander_desc: "§YGeneral Description\nBorn:§! §gFebruary 17th, 1882, in Aarau, Aargau, Switzerland§!\n§YMilitary Career:§! §gAlong with Henri Guisan, Bircher occupies the highest rank of the Swiss military available during peacetime. However, unlike his equal, he spends much of his time in politics, spearheading a semi-secret far-right organisation with great influence in the Swiss government."
 
  SWI_hans_heinrich_itschner: "Hans Heinrich Itschner"
  SWI_fritz_brupbacher: "Fritz Brupbacher"
@@ -1605,31 +1598,37 @@
  SWI_hans_hausamann: "Hans Hausamann"
 
  SWI_henri_guisan: "Henri Guisan"
- SWI_henri_guisan_commander_desc: ""
+ SWI_henri_guisan_commander_desc: "§YGeneral Description\nBorn:§! §gOctober 21st, 1874, in Mézières, Vaud, Switzerland§!\n§YMilitary Career:§! §gBorn in a French-speaking part of Switzerland, Guisan originally attended school and studied agricultural medicine. However, after entering the Swiss military in 1894, he has gradually climbed the ranks, and was promoted to Lieutenant General in 1932, the highest rank in peacetime. Guisan participates in politics less than many of his peers, and views the best path forward as neutrality by deterrence, supporting strong and elaborate defences to make conquering Switzerland a long and painful feat."
 
  SWI_ulrich_wille_jr: "Ulrich Wille junior"
- SWI_ulrich_wille_jr_desc: ""
+ SWI_ulrich_wille_jr_desc: "§YGeneral Description\nBorn:§! §gOctober 12th, 1877, in Thun, Bern, Switzerland§!\n§YMilitary Career:§! §gThe son of a professional officer in the Swiss Army, Wille junior first studied law graduating with a doctorate. Then he chose to follow his father's footsteps becoming a professional officer in the infantry in 1901. In the next decades, Wille junior would rise up the ranks achieving the highest rank in peace time, Lieutenant General in 1933. Like father, like son, Wille is a germanophile being particularly fascinated by Prussian Militarism and holds many personal ties with the German Elite."
+
+ SWI_jules_borel: "Jules Borel"
+ SWI_jules_borel_desc: "§YGeneral Description\nBorn:§! §gAugust 18th, 1884, in Couvet, Neuchâtel, Switzerland§!"
 
  SWI_gustave_combe: "Gustave Combe"
- SWI_gustave_combe_commander_desc: ""
+ SWI_gustave_combe_commander_desc: "§YGeneral Description\nBorn:§! §gMay 27th, 1882, in Orbe, Vaud, Switzerland§!"
 
  SWI_hermann_flueckiger: "Hermann Flückiger"
- SWI_hermann_flueckiger_commander_desc: ""
+ SWI_hermann_flueckiger_commander_desc: "§YGeneral Description\nBorn:§! §gApril 30th, 1885, in Bargen, Bern, Switzerland§!"
 
  SWI_jakob_labhardt: "Jakob Labhardt"
- SWI_jakob_labhardt_commander_desc: ""
+ SWI_jakob_labhardt_commander_desc: "§YGeneral Description\nBorn:§! §gJanuary 28th, 1881, in Steckborn, Thurgau, Switzerland§!"
 
  SWI_jean_de_muralt: "Jean de Muralt"
- SWI_jean_de_muralt_commander_desc: ""
+ SWI_jean_de_muralt_commander_desc: "§YGeneral Description\nBorn:§! §gJuly 18th, 1877, in Zürich, Switzerland§!"
 
  SWI_jakob_huber: "Jakob Huber"
- SWI_jakob_huber_commander_desc: ""
+ SWI_jakob_huber_commander_desc: "§YGeneral Description\nBorn:§! §gNovember 1st, 1883, in Jonen, Aargau, Switzerland§!"
 
  SWI_louis_de_montmollin: "Louis de Montmollin"
- SWI_louis_de_montmollin_commander_desc: ""
+ SWI_louis_de_montmollin_commander_desc: "§YGeneral Description\nBorn:§! §gNovember 17th, 1893, in Savagnier, Neuchâtel, Switzerland§!"
 
  SWI_hans_bandi: "Hans Bandi"
- SWI_hans_bandi_commander_desc: ""
+ SWI_hans_bandi_commander_desc: "§YGeneral Description\nBorn:§! §gJuly 19th, 1882, in Bern, Switzerland§!"
+
+ SWI_friedrich_prisi: "Friedrich Prisi"
+ SWI_friedrich_prisi_commander_desc: "§YGeneral Description\nBorn:§! §gDecember 25th, 1875, in Uebeschi, Bern, Switzerland§!"
 
  SWI_fritz_rihner: "Fritz Rihner"
  SWI_etienne_primault: "Etienne Primault"

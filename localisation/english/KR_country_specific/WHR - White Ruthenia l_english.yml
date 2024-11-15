@@ -1,6 +1,6 @@
 ﻿l_english:
 
- Belarus_Tree:0 "Фокуси Білорусі"
+ Belarus_Tree:0 "Фокуси Білої Русі"
 
 ### Parties ###
  WHR_totalist_party:0 "БРО"
@@ -526,9 +526,9 @@
  WHR_bypass_research_slots: "Ми вже розширили навчальні заклади"
 
 ### Country Names ###
- WHR:0 "Білорусь"
+ WHR:0 "Біла Русь"
  WHR_ADJ:0 "Білоруськ"
- WHR_DEF:0 "Білорусь"
+ WHR_DEF:0 "Біла Русь"
  
  WHR_totalist:0 "Соціалістична Республіка Білорусь"
  WHR_totalist_ADJ:0 "Білоруськ"
@@ -567,9 +567,9 @@
  WHR_BEL_DEF:0 "Білорусь"
 
  ### White Ruthenia ###
- WHR_GER:0 "Білорусь"
+ WHR_GER:0 "Біла Русь"
  WHR_GER_ADJ:0 "Білоруськ"
- WHR_GER_DEF:0 "Білорусь"
+ WHR_GER_DEF:0 "Біла Русь"
 
  ### Kryvia ###
  WHR_KRY:0 "Кривія"

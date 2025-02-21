@@ -926,3 +926,6 @@
  TEX_curtis_emerson_lemay: "Кертіс Емерсон Лемей"  
  TEX_otto_paul_weyland: "Отто Пол Вейланд"  
  TEX_dewitt_clinton_ramsey: "Девітт Клінтон Ремсі"
+
+### Global and Country Flags ###
+ ACW_supported_TEX: "$has_completed_decision$$ACW_support_aus_dec$§!"

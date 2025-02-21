@@ -10,6 +10,7 @@
 
 ### Main Menu ###
  play_in_english_tt: "Розкажіть про українську локалізацію вашим знайомим. Хай квітне укр. спільнота!"
+ savegame_crash_workaround_tt: "§YHOI4 1.15.4 вийшла 21 січня 2025.§!\n§5На жаль, багато збережень, створених до її виходу, миттєво вилітають при звичайному завантаженні.§!\n\n§YЯкщо це торкнулося будь-якої з ваших кампаній, спробуйте наступне:§!\n£white_dot §tНе завантажуйте гру§! безпосередньо з головного меню або натисканням кнопки \"Продовжити\" в лаунчері.\n£white_dot Натомість, §5почніть нову гру§! й завантажтеся.\n£white_dot Відкрийте ігрове меню і завантажтеся у потрібне збереження, натиснувши \"§5Завантажити гру§!\"."
 
 ### Splash Screen ###
  KR_welcome_splash_tab_1: "Країна"
@@ -18,9 +19,27 @@
  KR_welcome_splash_tab_4: "Титри"
  mod_options_button_text: "Продовжити"
 
- ## TAB 1 ##
+ ## TAB 1 - all needed to avoid starting errors ##
  KR_welcome_splash_tab_1_header: "[ROOT.GetCountryIntroHeader]"
  KR_welcome_splash_tab_1_content: "[ROOT.GetCountryIntroContent]"
+ country_intro_header: "$KR_scenario_name$"
+ country_intro_header_1: "$KR_scenario_desc$"
+ country_intro_header_2: "$KR_scenario_desc$"
+ country_intro_header_3: "$KR_scenario_desc$"
+ country_intro_header_4: "$KR_scenario_desc$"
+ country_intro_header_5: "$KR_scenario_desc$"
+
+ country_intro_content: "$KR_scenario_desc$"
+ country_intro_content_1: "$KR_scenario_desc$"
+ country_intro_content_2: "$KR_scenario_desc$"
+ country_intro_content_3: "$KR_scenario_desc$"
+ country_intro_content_4: "$KR_scenario_desc$"
+ country_intro_content_5: "$KR_scenario_desc$"
+
+ guide: ""
+ guide_1: ""
+ guide_2: ""
+ guide_3: ""
 
  ## TAB 2 ##
  KR_welcome_splash_tab_2_reveal_spoilers_button: "Розкрити спойлери?"
@@ -32,11 +51,12 @@
  KR_welcome_splash_tab_3_content_0: "Кайзеррайх накладає обмеження на дипломатичні дії, такі як §Rранні війни§!, §Rсоюзи§!, та §Rрівні автономії§!.\nКайзеррайх також включає §CЛіміти дивізій§! та §CДемобілізаційну§! механіку для покращення продуктивності наприкінці гри.\nПротягом §YМирної конференції§!, обов'язково анексуйте всі можливі регіони. Ви зможете пізніше звільнити країни з анексованих територій через §Cрішення§!.\n§YСпеціальні правила гри§! - це меню налаштувань, що дозволяє налаштувати багато параметрів, зокрема §CДолі країн§!, §CПершість гравця під час мирних конференцій§!, та §CState and Country Transfer Tool§!.\n§YМеню параметрів у грі§! можна відкрити, натиснувши значок орла у верхньому правому куті. Це дозволяє регулювати §Cчастоту подій та новин§! і включити §Cдинамічне перейменування§! регіонів та міст."
 
  ## TAB 4 ##
- KR_CURRENT_VERSION: "1.3.2"
+ KR_CURRENT_VERSION: "1.4.3"
  KR_CURRENT_VERSION_NAME: "Серед блакитних морів"
  KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
- KR_welcome_splash_tab_4_header: "§YЛаскаво просимо до $KR_CURRENT_VERSION_COMBINED$\n\n\n\n\n\nСтворено з любов’ю Kaiserreich Team:§!"
- KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$"
+ KR_welcome_splash_tab_4_upper_header: "§YЛаскаво просимо до $KR_CURRENT_VERSION_COMBINED$§!"
+ KR_welcome_splash_tab_4_lower_header: "Створено з любов’ю командою Kaiserreich:§!"
+ KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$"
  
  KR_welcome_splash_tab_4_content_0: "Наша команда з усіх куточків світу наполегливо працювала, щоб презентувати вам нову версію, і ми раді, що ви вирішили пограти в неї.\n\nМи сподіваємося, що вам сподобається грати в Kaiserreich так само, як нам!"
  KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Angel  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Cassrabbit"
@@ -163,8 +183,8 @@
  kr_options_title: "§YПараметри Кайзеррайху§!"
  kr_options_tooltip: "Перемикання параметрів гри, характерних для Кайзеррайху"
  
- kr_help_title: "§YВступний екран§!"
- kr_help_tooltip: "Для отримання інформації про те, як грати в мод"
+ kr_help_title: "§YЕкран інформації про країну§!"
+ kr_help_tooltip: "Клацніть, щоб відкрити §Yвступне вікно§!.\n\nМістить:\n£white_dot "
 
  custom_achievements_text: "Досягнення КР"
  custom_achievements_tooltip: "§GКлацніть§! щоб увімкнути можливість розблокування користувацьких досягнень."

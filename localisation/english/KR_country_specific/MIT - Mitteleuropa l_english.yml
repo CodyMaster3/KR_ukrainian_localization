@@ -11,13 +11,23 @@
  mitteleuropa_leader_title: "Президент"
  mitteleuropa_leader_desc: "Президентом Міттельєвропи є §Y[MIT.GetNameDef]§!"
 
- mitteleuropa_next_election_title: "Чергові вибори"
+ mitteleuropa_next_election_title: "Наступні вибори"
  mitteleuropa_next_election_value: "[GetMitteleuropaNextElection]"
  mitteleuropa_next_election_desc: "Наступне засідання Комісії Міттельєвропи відбудеться приблизно через §Y[GER.GetMitteleuropaNextElection]§!."
  mitteleuropa_next_election_days: "§Y[?days_to_next_election]§! днів"
- mitteleuropa_next_election_soon: "§YНеминуче§!" #(&?)
+ mitteleuropa_next_election_soon: "§YНеминуче§!"
 
- agenda_score_title: "Бали програми" #(&?)
+ mitteleuropa_small_value: "[?global.MIT_small_value|Y=1]"
+ mitteleuropa_medium_value: "[?global.MIT_medium_value|Y=1]"
+ mitteleuropa_large_value: "[?global.MIT_large_value|Y=1]"
+ mitteleuropa_huge_value: "[?global.MIT_huge_value|Y=1]"
+
+ mitteleuropa_small_cost: "[?MIT_small_value_temp|R=1]"
+ mitteleuropa_medium_cost: "[?MIT_medium_value_temp|R=1]"
+ mitteleuropa_large_cost: "[?MIT_large_value_temp|R=1]"
+ mitteleuropa_huge_cost: "[?MIT_huge_value_temp|R=1]"
+
+ agenda_score_title: "Бали програми"
  agenda_score_tooltip: "[!agenda_score_breakdown_button_click]"
 
  agenda_score_tooltip_title: "§Y$agenda_score_title$§!"
@@ -25,8 +35,13 @@
  agenda_score_tooltip_multiplier: "$mitteleuropa_industry_score$: [?modifier@mitteleuropa_industry_score|+=%0]"
  agenda_score_tooltip_bonus_score: "$mitteleuropa_score$: [?modifier@mitteleuropa_score|+0]"
  agenda_score_tooltip_investment: "Вклад £pol_power §Yполітичної влади§!: [?MIT_agenda_investment|+0]"
- agenda_score_tooltip_final: "Фінальний результат: [?mtth:mitteleuropa_agenda_score_calculation|G0]"
+ agenda_score_tooltip_final: "Фінальна к-сть балів: [?mtth:mitteleuropa_agenda_score_calculation|G0]"
  agenda_score_tooltip_other_supporters: "Від прибічників: §G[GetMitteleuropaAgendaSupportersScore]§!"
+
+ agenda_score_value_default: "[?MIT_supported_agenda:agenda_score]"
+ agenda_score_value_fallback: "[?mtth:mitteleuropa_agenda_score_calculation]"
+
+ agenda_score_supporters_value: "[?other_supporters_value]"
 
  agenda_add_score_desc: "Підвищити бал програми за рахунок £pol_power §Yполітичної влади§!."
  agenda_sub_score_desc: "Повернути вкладені £pol_power §Yполітичної влади§! за рахунок балу програми."
@@ -307,7 +322,7 @@
  germany_mitteleuropa_events.21.a: "Зрадники!"
 
  germany_mitteleuropa_events.1000.t: "Центральноєвропейський митний союз повертається до роботи"
- germany_mitteleuropa_events.1000.d: "Після того, як початок економічної кризи, спричиненої біржовим крахом «чорного понеділка», змусив Німеччину на рік відвернути увагу від зовнішньої політики, Центральноєвропейський митний союз, більш відомий як Мітельєвропа, знову повернувся до активної діяльності. Знову проводяться саміти міністрів закордонних справ країн-членів організації, кожен з яких має на меті координувати економіку альянсу та сприяти спрощенню товарообігу. З часом Мітельєвропа розширилася до кількох офіційних і неофіційних сфер діяльності - і інтереси країн-членів можуть вимагати від неї допомоги в тій чи іншій галузі.\n\nЗвісно, деякі інтелектуали та політики бачать трохи більше, мріють про можливість реформувати організацію і створити щось нове... Німецька економічна гегемонія? Здійснення загальноєвропейських мрій? Час покаже."
+ germany_mitteleuropa_events.1000.d: "Після того, як початок економічної кризи, спричиненої біржовим крахом «чорного понеділка», змусив Німеччину на рік відвернути увагу від зовнішньої політики, Центральноєвропейський митний союз, більш відомий як Мітельєвропа, знову повернувся до активної діяльності. Знову проводяться саміти міністрів закордонних справ країн-членів організації, кожен з яких має на меті координувати економіку альянсу та сприяти спрощенню товарообігу. З часом Мітельєвропа розширилася до кількох офіційних і неофіційних сфер діяльності — інтереси країн-членів можуть вимагати від неї допомоги в тій чи іншій галузі.\n\nЗвісно, деякі інтелектуали та політики бачать трохи більше, мріють про можливість реформувати організацію і створити щось нове... Німецька економічна гегемонія? Здійснення загальноєвропейських мрій? Час покаже."
  germany_mitteleuropa_events.1001.d: "Центральноєвропейський митний союз, більш відомий як Мітельєвропа, знову повернувся до активної діяльності. Знову проводяться саміти міністрів закордонних справ країн-членів організації, кожен з яких має на меті координувати економіку альянсу та сприяти спрощенню товарообігу. З часом Мітельєвропа розширилася до кількох офіційних і неофіційних сфер діяльності - і інтереси країн-членів можуть вимагати від неї допомоги в тій чи іншій галузі.\n\nЗвісно, деякі інтелектуали та політики бачать трохи більше, мріють про можливість реформувати організацію і створити щось нове... Німецька економічна гегемонія? Здійснення загальноєвропейських мрій? Час покаже."
  germany_mitteleuropa_events.1000.a: "Добре."
 

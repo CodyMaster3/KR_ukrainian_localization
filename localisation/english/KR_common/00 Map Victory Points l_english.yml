@@ -2,6 +2,7 @@
 
  VICTORY_POINTS_37: "Савонлінна"
  VICTORY_POINTS_37_RENAME: "[PREV.Controller.GetVictoryPointName_37]"
+ VICTORY_POINTS_37_RUSSIAN: "Neyshlot"
  VICTORY_POINTS_37_SWEDISH: "Nyslott"
 
  VICTORY_POINTS_53: "Ставангер"
@@ -21,17 +22,17 @@
  VICTORY_POINTS_121: "Ярославль"
  VICTORY_POINTS_121_RENAME: "[PREV.Controller.GetVictoryPointName_121]"
 
- VICTORY_POINTS_122:0 "Берген"
- VICTORY_POINTS_122_RENAME:0 "[PREV.Controller.GetVictoryPointName_122]"
+ VICTORY_POINTS_122: "Берген"
+ VICTORY_POINTS_122_RENAME: "[PREV.Controller.GetVictoryPointName_122]"
 
  VICTORY_POINTS_130: "Сундсвалль"
  VICTORY_POINTS_130_RENAME: "[PREV.Controller.GetVictoryPointName_130]"
 
- VICTORY_POINTS_153:0 "Віллемстад"
- VICTORY_POINTS_153_RENAME:0 "[PREV.Controller.GetVictoryPointName_153]"
+ VICTORY_POINTS_153: "Віллемстад"
+ VICTORY_POINTS_153_RENAME: "[PREV.Controller.GetVictoryPointName_153]"
 
- VICTORY_POINTS_156:0 "Фалун"
- VICTORY_POINTS_156_RENAME:0 "[PREV.Controller.GetVictoryPointName_156]"
+ VICTORY_POINTS_156: "Фалун"
+ VICTORY_POINTS_156_RENAME: "[PREV.Controller.GetVictoryPointName_156]"
  
  VICTORY_POINTS_165: "Міккелі"
  VICTORY_POINTS_165_RENAME: "[PREV.Controller.GetVictoryPointName_165]"

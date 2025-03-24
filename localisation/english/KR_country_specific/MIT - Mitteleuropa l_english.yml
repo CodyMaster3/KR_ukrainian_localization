@@ -11,11 +11,11 @@
  mitteleuropa_leader_title: "Президент"
  mitteleuropa_leader_desc: "Президентом Міттельєвропи є §Y[MIT.GetNameDef]§!"
 
- mitteleuropa_next_election_title: "Наступні вибори"
+ mitteleuropa_next_election_title: "Вибори за"
  mitteleuropa_next_election_value: "[GetMitteleuropaNextElection]"
  mitteleuropa_next_election_desc: "Наступне засідання Комісії Міттельєвропи відбудеться приблизно через §Y[GER.GetMitteleuropaNextElection]§!."
  mitteleuropa_next_election_days: "§Y[?days_to_next_election]§! днів"
- mitteleuropa_next_election_soon: "§YНеминуче§!"
+ mitteleuropa_next_election_soon: "§YСкоро§!"
 
  mitteleuropa_small_value: "[?global.MIT_small_value|Y=1]"
  mitteleuropa_medium_value: "[?global.MIT_medium_value|Y=1]"

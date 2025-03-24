@@ -28,7 +28,11 @@
  afg.4.t: "Уряд Делі відмовив нам!"
  afg.4.d: "Британці відмовляються визнавати наші законні вимоги."
  afg.4.a: "Війна продовжується!"
- 
+
+ afg.20.t: "[RAJ.GetNameDefCap] Surrenders!"
+ afg.20.d: "A great victory has been won today, the forces of [RAJ.GetNameDef] have been completely routed and their leadership has agreed to surrender to our demands. The nation has at last avenged all those who were felled by the British dogs, and ensured that it shall never again be subjugated by them."
+ afg.20.a: "None shall ever again doubt our might!"
+
  afg.5.t: "Масова втеча шиїтів"
  afg.5.d: "За останні десятиліття, ситуація з шиїтами у Афганістані була складною. Після закінчення війни ситуація не стала кращою, а нова війна може ще більше ускладнити її. Шиїтські імами в провінціях Херат та Фара закликають шиїтську меншину до втечі до Ірану. Сподіваємось, що іранці повернуть їх, адже нам потрібні люди."
  afg.5.a: "Зрадники!"
@@ -85,26 +89,32 @@
  afg.19.a: "Вітаю!"
  
 ### Parties ###
- AFG_totalist_party: "ПІ"
- AFG_totalist_party_long: "Партія інтернацірналістів"
- AFG_syndycalist_party: "РС"
- AFG_syndycalist_party_long: "Радикальні синдикалісти"
- AFG_radical_socialist_party: "РЗ"
- AFG_radical_socialist_party_long: "Радикальні Західники"
- AFG_social_democrat_party: "СДПА"
- AFG_social_democrat_party_long: "Соціал-демократична партія Афганістану"
- AFG_social_liberal_party: "ЛПА"
- AFG_social_liberal_party_long: "Ліберальна партія Афганістану"
- AFG_market_liberal_party: "Західники"
- AFG_market_liberal_party_long: "Західники"
- AFG_social_conservative_party: "Академіки"
- AFG_social_conservative_party_long: "Академіки"
- AFG_authoritarian_democrat_party: "КУ"
- AFG_authoritarian_democrat_long: "Королівський уряд"
- AFG_paternal_autocrat_party: "КУ"
- AFG_paternal_autocrat_party_long: "Королівський уряд"
- AFG_national_populist_party: "РІ"
- AFG_national_populist_party_long: "Радикальні ісламісти"
+ AFG_totalist_party: "Kabul Student's Union"
+ AFG_totalist_party_long: "Ettehadia-ye Muhasselin-e Pohantun-e Kabul (Kabul Student's Union)"
+
+ AFG_syndicalist_party: "Kabul Student's Union"
+ AFG_syndicalist_party_long: "Ettehadia-ye Muhasselin-e Pohantun-e Kabul (Kabul Student's Union)"
+
+ AFG_radical_socialist_party: "National Front"
+ AFG_radical_socialist_party_long: "Jabha-ye Melli (National Front)"
+
+ AFG_social_democrat_party: "National Front"
+ AFG_social_democrat_party_long: "Jabha-ye Melli (National Front)"
+
+ AFG_social_liberal_party: "Intellectual Circles"
+ AFG_social_liberal_party_long: "Roshanfekran (Intellectual Circles)"
+
+ AFG_market_liberal_party: "Young Afghans"
+ AFG_market_liberal_party_long: "Jawanan-e Afghan (Young Afghans)"
+
+ AFG_social_conservative_party: "Ulemma"
+
+ AFG_authoritarian_democrat_party: "Afghan Army"
+
+ AFG_paternal_autocrat_party: "Bārakzai"
+
+ AFG_national_populist_party: "Afghan Army (National Club)"
+ AFG_national_populist_party_long: "Afghan Army (Klup-e Melli)"
  
 ### Country Names ###
  AFG: "Афганістан"
@@ -117,14 +127,13 @@
  AFG_syndicalist_DEF: "Демократична Республіка Афганістан"
  AFG_radical_socialist: "Демократична Республіка Афганістан"
  AFG_radical_socialist_DEF: "Демократична Республіка Афганістан"
- AFG_national_populist: "Ісламська Держава Афганістан"
- AFG_national_populist_DEF: "Ісламська Держава Афганістан"
  
 ### Tooltips ###
  AFG_chaos_tooltip: "Цей вибір занурить Афганістан у безодню хаосу. У разі, якщо нинішній уряд впаде, владу захоплять або радикальні ісламісти, або генерал Надір."
 
 ### Intro Screen ###
- AFG_country_intro_header: "The Emirate of Afghanistan"
+ AFG_country_intro_background: "GFX_AFG_intro"
+ AFG_country_intro_header: "The Kingdom of Afghanistan"
  AFG_guide: "§MAmanullah Restores Order§! (§PPaternal Autocrat§!)\n£white_dot Win or do not declare the 5th Anglo-Afghan War.\n£white_dot In the event of a defeat, let the king do as he likes and suppress the rebellion.\n£white_dot This can still lead to him being ousted so it is recommended to select the §YAmanullah Retains Control§! rule in the game rules.\n\n§MNadir Takes Over§! (§PPaternal Autocrat§!)\n£white_dot In the event of a defeat, let Nadir depose Amanullah and proclaim himself king."
 
 ### Characters ###
@@ -135,19 +144,36 @@
  AFG_habibullah_kalakani_leader_desc: "§YLeader Description\nBorn:§! January 19th, 1891, in Kalakan, Emirate of Afghanistan\n§YPolitical Career:§! An ethnic Tajik, Kalakani was a longtime officer in the Afghan Royal Army who deserted a bit before the chaos of the collapse of the British Empire. Using that chaos and the regular army's pre-occupation, Kalakani turned to a life of crime. Once the army managed to restore a modicum of order, however, Kalakani fled and sought the protection of his Tajik co-ethnics.\nOutspokenly opposed to the reforms and modernisation campaigns of Amanullah Khan, Kalakani came to head a rural ultra-conservative movement bearing his name. Rather shockingly, his movement successfully overthrew Amanullah and Kalakani has won the Afghan crown."
 
  AFG_mohammad_nadir_khan: "Мухаммад Надір Шах"
+ AFG_mohammad_nadir_khan_army_chief_desc: "§YBorn:§! §LApril 9th, 1883, in Dehra, North-Western Provinces and Oudh, British India§!"
  AFG_wali_khan: "Валі Шах"
+ AFG_wali_khan_high_command_desc: "§YBorn:§! §LApril 16th, 1888, in Dehra, North-Western Provinces and Oudh, British India§!"
  AFG_mohammad_daoud_khan: "Мухаммад Дауд Шах"
+ AFG_mohammad_daoud_khan_high_command_desc: "§YBorn:§! §LJuly 18th, 1909, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_nasrullah_khan: "Насруллах Шах"
+ AFG_nasrullah_khan_sic_desc: "§YBorn:§! §L1874, in Samarkand, Samarkand Oblast, Russian Empire§!"
  AFG_mahmud_khan: "Махмуд Шах"
+ AFG_mahmud_khan_sic_desc: "§YBorn:§! §L1890, in Dehra, North-Western Provinces and Oudh, British India§!"
  AFG_mohammad_ghobar: "Ґулам Мухаммад Ґобар"
+ AFG_mohammad_ghobar_sic_desc: "§YBorn:§! §L1897, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_abdul_hadi_dawi: "Абдул Гаді Даві"
+ AFG_abdul_hadi_dawi_sic_desc: "§YBorn:§! §L1894, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_mohammad_hashim_khan: "Мухаммад Гашим Шах"
+ AFG_mohammad_hashim_khan_high_command_desc: "§YBorn:§! §L1884, in Dehra, North-Western Provinces and Oudh, British India§!"
  AFG_mohammad_gul_khan_momand: "Мухаммад Ґул Шах Муманд"
+ AFG_mohammad_gul_khan_momand_high_command_desc: "§YBorn:§! §LJanuary 17th, 1885, in Andrabayo, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_inayatullah_khan: "Інаятуллах Шах"
+ AFG_inayatullah_khan_high_command_desc: "§YBorn:§! §LOctober 1888, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_ali_ahmad_khan: "Алі Ахмад Шах"
+ AFG_ali_ahmad_khan_high_command_desc: "§YBorn:§! §L1883, in Mashhad, Khorasan Province, Sublime State of Persia§!"
  AFG_faiz_mohammad_khan_zikeria: "Фаїз Мухаммад Шах Зикерія"
+ AFG_faiz_mohammad_khan_zikeria_advisor_desc: "§YBorn:§! §L1892, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_mohammad_yusuf: "Мухаммад Юсуф"
+ AFG_mohammad_yusuf_advisor_desc: "§YBorn:§! §LJanuary 21st, 1917, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_abdul_ahad_wardak: "Абдул Агад Вардак"
+ AFG_abdul_ahad_wardak_advisor_desc: "§YBorn:§! §L1880, in Wardak, Kabul Vilayet, Emirate of Afghanistan§!"
  AFG_abdul_majid_zabuli: "Абдул Маджид Забулі"
- ARG_sher_khan_nashir: "Шер Шах Нашир"
-AFG_abdul_rahman_mahmoodi: "Abdul Rahman Mahmoodi"
+ AFG_abdul_majid_zabuli_advisor_desc: "§YBorn:§! §LAugust 14th, 1896, in Husain Khail, Kabul Vilayet, Emirate of Afghanistan§!"
+ AFG_sher_khan_nashir: "Шер Шах Нашир"
+ AFG_sher_khan_nashir_advisor_desc: "§YBorn:§! §Lin Ghazni, Kabul Vilayet, Emirate of Afghanistan§!"
+ AFG_abdul_rahman_mahmoodi: "Abdul Rahman Mahmoodi"
+ AFG_abdul_rahman_mahmoodi_leader_desc: "§YBorn:§! §L1909, in Kabul, Kabul Vilayet, Emirate of Afghanistan§!"

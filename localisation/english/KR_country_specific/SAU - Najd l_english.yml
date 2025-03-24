@@ -269,7 +269,6 @@
 ## Intro Screen ##
  SAU_country_intro_header: "Емірат Неджд"
  SAU_country_intro_content: "Вельткріг був однією з багатьох ознак того, що нам, Саудам, судилося правити цією землею. У годину своєї найбільшої гордині Хашиміти були кинуті своїми невірними підданими і залишені на поталу туркам і псам. Наше бездіяльність у війні, щоб уникнути османської відплати, виявилося вдалим і дозволило пережити всі напасті. Тепер ми чекаємо свого часу, збираючи воїнів, гроші та досвід, щоб завдати удару по Рашидам, які думають, що можуть грати по обидва боки, приймаючи хашимітських воїнів і схиляючись перед Портою. Настав час об'єднати Аравію під нашим прапором!"
- saud.1.a: "Хай живуть Сауди!"
  
 ### Events
  saud.2.t: "Саудівська Аравія"
@@ -379,26 +378,24 @@
 
 ### Characters ###
  SAU_abdulaziz_ibn_saud: "Abdulaziz Ibn Saud"
- SAU_abdulaziz_ibn_saud_leader_desc: ""
+ SAU_abdulaziz_ibn_saud_leader_desc: "§YBorn:§! §LJanuary 15th, 1875, in Riyadh, Emirate of Najd§!\n§YBackground:§! §LAbdulaziz Ibn Saud, the mortal rival of many dead men, now turns his sights towards Saud ibn Abdulaziz Al-Rashid. This rivalry began when the young Ibn Saud was ejected from his tent in Riyadh by the Rashids. Never a pawn of Emirs, Ibn Saud's father rallied the destitute men of the coastal Emirates to the great goal of his dynasty, Wahhabism. The Rashids were then ejected at the cost of many men, including their only western ally. Ibn Saud himself started many feud the Saudis inherited, as he expressed hatred towards any Arab who turned their nose up towards Bedouins. This seed of anger had passed onto his men, who inherited his ferocity and may turn this youthful fury against him yet.§!"
 
- SAU_saud_bin_abdulaziz_al_saud: "Saud bin Abdulaziz al-Saud"
- SAU_rashid_bin_abdul_aziz_bin_saud_bin_mohammed_al_saud: "Rashid bin Abdul-Aziz bin Saud bin Mohammed al-Saud"
- SAU_abdallah_bin_abdul_rahman_al_saud: "Abdullah bin Abdul Rahman al-Saud"
- SAU_saad_bin_abdulaziz_al_saud: "Sa'ad bin Abdulaziz al-Saud"
- SAU_khalid_bin_abdulaziz_al_Saud: "Khalid bin Abdulaziz al-Saud"
+ SAU_saud_bin_abdulaziz_al_saud: "Saud ibn Abdulaziz al-Saud"
+ SAU_rashid_bin_abdul_aziz_bin_saud_bin_mohammed_al_saud: "Rashid ibn Abdul-Aziz ibn Saud ibn Mohammed al-Saud"
+ SAU_abdallah_bin_abdul_rahman_al_saud: "Abdullah ibn Abdul Rahman al-Saud"
+ SAU_saad_bin_abdulaziz_al_saud: "Sa'ad ibn Abdulaziz al-Saud"
+ SAU_khalid_bin_abdulaziz_al_Saud: "Khalid ibn Abdulaziz al-Saud"
 
- SAU_sultain_otaibi_leader_desc: ""
-
- SAU_muhammad_bin_abdul_rahman_al_saud: "Muhammad bin Abdul Rahman al-Saud"
- SAU_abdullah_bin_jiluwi_al_saud: "Abdullah bin Jiluwi al-Saud"
- SAU_faisal_bin_abdulaziz_al_saud: "Faisal bin Abdulaziz al-Saud"
- SAU_khalid_bin_muhammad_al_saud: "Khalid bin Muhammad al-Saud"
- SAU_saad_bin_abdul_rahman_al_saud: "Sa'ad bin Abdul Rahman al-Saud"
+ SAU_muhammad_bin_abdul_rahman_al_saud: "Muhammad ibn Abdul Rahman al-Saud"
+ SAU_abdullah_bin_jiluwi_al_saud: "Abdullah ibn Jiluwi al-Saud"
+ SAU_faisal_bin_abdulaziz_al_saud: "Faisal ibn Abdulaziz al-Saud"
+ SAU_khalid_bin_muhammad_al_saud: "Khalid ibn Muhammad al-Saud"
+ SAU_saad_bin_abdul_rahman_al_saud: "Sa'ad ibn Abdul Rahman al-Saud"
  SAU_noura_bint_abdul_rahman_al_saud: "Noura bint Abdul Rahman al-Saud"
- SAU_muhammad_bin_abdulaziz_al_saud: "Muhammad bin Abdulaziz al-Saud"
- SAU_mansour_bin_abdulaziz_al_saud: "Mansour bin Abdulaziz al-Saud"
- SAU_abdullah_bin_faisal_al_saud: "Abdullah bin Faisal al-Saud"
- SAU_muhammad_bin_abdullah_bin_aiban_al_nasiri: "Muhammad bin Abdullah al-Aiban"
+ SAU_muhammad_bin_abdulaziz_al_saud: "Muhammad ibn Abdulaziz al-Saud"
+ SAU_mansour_bin_abdulaziz_al_saud: "Mansour ibn Abdulaziz al-Saud"
+ SAU_abdullah_bin_faisal_al_saud: "Abdullah ibn Faisal al-Saud"
+ SAU_muhammad_bin_abdullah_bin_aiban_al_nasiri: "Muhammad ibn Abdullah al-Aiban"
  SAU_yusuf_yasin: "Yusuf Yasin"
  SAU_muhammad_ibn_ibrahim_al_ash_sheikh: "Muhammad ibn Ibrahim Al ash-Sheikh"
  SAU_army_council: "Army Council"

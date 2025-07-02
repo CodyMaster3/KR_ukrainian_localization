@@ -5,7 +5,17 @@
 ########################################################################################
 l_english:
 
-### Parties ###
+ ################
+ ### Factions ###
+ ################
+
+ intermarium: "Intermarium" #created by POL_found_intermarium decision
+ legion_of_the_slavic_nations: "Legion of the Slavic Nations" #created by POL_found_slavic_union decision
+
+ ###############
+ ### Parties ###
+ ###############
+
  POL_totalist_party: "ПКРП"
  POL_totalist_party_long: "Польська комуністична робоча партія"
  POL_syndicalist_party: "СП"
@@ -56,21 +66,26 @@ l_english:
  POL_national_populist3_party: "НО"
  POL_national_populist3_party_long: "Національна організація"
 
-### Country Names ###
+ #####################
+ ### Country Names ###
+ #####################
+
  POL: "Польща"
  POL_ADJ: "Польськ"
  POL_DEF: "Польща"
 
- POL_totalist: "Соціалістична Республіка Польща"
- POL_totalist_DEF: "Соціалістична Республіка Польща"
- POL_syndicalist: "Соціалістична Республіка Польща"
- POL_syndicalist_DEF: "Соціалістична Республіка Польща"
- POL_radical_socialist: "Соціалістична Республіка Польща"
- POL_radical_socialist_DEF: "Соціалістична Республіка Польща"
- POL_social_democrat: "Народна Республіка Польща"
- POL_social_democrat_DEF: "Народна Республіка Польща"
- POL_social_liberal: "Народна Республіка Польща"
- POL_social_liberal_DEF: "Народна Республіка Польща"
+ POL_totalist: "Польська Соціалістична Республіка"
+ POL_totalist_DEF: "Польська Соціалістична Республіка"
+ POL_syndicalist: "Польська Соціалістична Республіка"
+ POL_syndicalist_DEF: "Польська Соціалістична Республіка"
+ POL_radical_socialist: "Польська Соціалістична Республіка"
+ POL_radical_socialist_DEF: "Польська Соціалістична Республіка"
+
+ POL_social_democrat: "Польська Народна Республіка"
+ POL_social_democrat_DEF: "Польська Народна Республіка"
+ POL_social_liberal: "Польська Народна Республіка"
+ POL_social_liberal_DEF: "Польська Народна Республіка"
+
  POL_market_liberal: "Республіка Польща"
  POL_market_liberal_DEF: "Республіка Польща"
  POL_social_conservative: "Республіка Польща"
@@ -83,136 +98,288 @@ l_english:
  POL_national_populist_DEF: "Республіка Польща"
 
  POL_kingdom: "Польща"
- POL_kingdom_ADJ: "Польськ"
  POL_kingdom_DEF: "Польща"
 
- POL_gengov_paternal_autocrat: "Генерал-губернаторство Варшау"
- POL_gengov_paternal_autocrat_DEF: "Генерал-губернаторство Варшау"
+ POL_AUS_kingdom: "Польща"
+ POL_AUS_kingdom_DEF: "Польща"
 
- POL_AUS_kingdom: "Королівство Польща"
- POL_AUS_kingdom_ADJ: "Польськ"
- POL_AUS_kingdom_DEF: "Королівство Польща"
+ POL_gengov: "Генерал-губернаторство Варшау"
+ POL_gengov_DEF: "Генерал-губернаторство Варшау"
 
- POL_zapa: "Центрально-Європейська Конфедерація"
+ POL_zapa: "Центральноєвропейська Конфедерація"
  POL_zapa_ADJ: "Польсько-чехословацьк"
- POL_zapa_DEF: "Центрально-Європейська Конфедерація"
+ POL_zapa_DEF: "Центральноєвропейська Конфедерація"
 
- POL_commonwealth_totalist: "Річ Посполита"
- POL_commonwealth_totalist_ADJ: "Посполитськ"
- POL_commonwealth_totalist_DEF: "Річ Посполита"
- POL_commonwealth_syndicalist: "Річ Посполита"
- POL_commonwealth_syndicalist_ADJ: "Посполитськ"
- POL_commonwealth_syndicalist_DEF: "Річ Посполита"
- POL_commonwealth_radical_socialist: "Річ Посполита"
- POL_commonwealth_radical_socialist_ADJ: "Посполитськ"
- POL_commonwealth_radical_socialist_DEF: "Річ Посполита"
- POL_commonwealth_social_democrat: "Річ Посполита"
- POL_commonwealth_social_democrat_ADJ: "Польсько-литовськ"
- POL_commonwealth_social_democrat_DEF: "Річ Посполита"
- POL_commonwealth_social_liberal: "Річ Посполита"
- POL_commonwealth_social_liberal_ADJ: "Польсько-литовськ"
- POL_commonwealth_social_liberal_DEF: "Річ Посполита"
- POL_commonwealth_market_liberal: "Річ Посполита"
- POL_commonwealth_market_liberal_ADJ: "Польсько-литовськ"
- POL_commonwealth_market_liberal_DEF: "Річ Посполита"
- POL_commonwealth_social_conservative: "Річ Посполита"
- POL_commonwealth_social_conservative_ADJ: "Польсько-литовськ"
- POL_commonwealth_social_conservative_DEF: "Річ Посполита"
- POL_commonwealth_authoritarian_democrat: "Річ Посполита"
- POL_commonwealth_authoritarian_democrat_ADJ: "Польсько-литовськ"
- POL_commonwealth_authoritarian_democrat_DEF: "Річ Посполита"
- POL_commonwealth_paternal_autocrat: "Річ Посполита"
- POL_commonwealth_paternal_autocrat_ADJ: "Польсько-литовськ"
- POL_commonwealth_paternal_autocrat_DEF: "Річ Посполита"
- POL_commonwealth_national_populist: "Річ Посполита"
- POL_commonwealth_national_populist_ADJ: "Польсько-литовськ"
- POL_commonwealth_national_populist_DEF: "Річ Посполита"
+ POL_commonwealth: "Річ Посполита"
+ POL_commonwealth_ADJ: "Посполитськ"
+ POL_commonwealth_DEF: "Річ Посполита"
 
  POL_slavic_union_national_populist: "Слов'янський Національний Союз"
  POL_slavic_union_national_populist_DEF: "Слов'янський Національний Союз"
  POL_slavic_union_national_populist_ADJ: "Слов'янськ"
 
-### Leaders ###
- POL_august_iv_desc: ""
- POL_aleksander_ii_advisor_desc: ""
- POL_aleksander_ii_desc: ""
- POL_kazimierz_zakrzewski_desc: ""
- POL_leah_feldman_desc: ""
- POL_jerzy_cseszejko_sochacki_desc: ""
- POL_zygmunt_zaremba_desc: ""
- POL_norbert_barlicki_desc: ""
- POL_norbert_barlicki_text: ""
- POL_stanislaw_wojciechowski_leader_desc: ""
- POL_jan_woznicki_desc: ""
- POL_jan_woznicki_text: ""
- POL_gabriel_narutowicz_desc: ""
- POL_stanislaw_mikolajczyk_desc: ""
- POL_jozef_chacinski_leader_desc: ""
- POL_jozef_chacinski_leader_text: ""
- POL_adam_chadzynski_leader_desc: ""
- POL_adam_chadzynski_leader_text: ""
- POL_wladyslaw_grabski_desc: ""
- POL_wojciech_korfanty_desc: ""
- POL_edward_rydz_smigly_hos_desc: ""
- POL_leon_berbecki_hos_desc: ""
- POL_adam_doboszynski_hos_desc: ""
- POL_mieczyslaw_michalowicz_leader_desc: ""
- POL_wolfgang_von_kries_leader_desc: ""
- POL_eustachy_sapieha_leader_desc: ""
+ ##################
+ ### Characters ###
+ ##################
 
-## SiC
- POL_antoni_ponikowski_sic_desc: ""
- POL_jozef_chacinski_sic_desc: ""
- POL_aleksy_cwiakowski_sic_desc: ""
- POL_eustachy_sapieha_sic_desc: ""
- POL_eustachy_sapieha_sic_text: ""
- POL_adam_chadzynski_sic_desc: ""
- POL_wladyslaw_studnicki_sic_desc: ""
- POL_stanislaw_dubois_sic_desc: ""
- POL_norbert_barlicki_sic_desc: ""
- POL_jan_woznicki_sic_desc: ""
- POL_maksymilian_malinowski_sic_desc: ""
- POL_boguslaw_miedzinski_sic_desc: ""
- POL_tadeusz_bielecki_sic_desc: ""
- POL_pawel_lew_marek_sic_desc: ""
- POL_stanislaw_bukowiecki_sic_desc: ""
+ ### Country Leaders ###
+ POL_august_von_hohenzollern: "August IV"
+ POL_august_von_hohenzollern_leader_desc: "§YBorn:§! §LJanuary 29th, 1887, in the Potsdam City Palace, Potsdam, Province of Brandenburg, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LBorn August Wilhelm Heinrich Günther Viktor of Prussia, August IV of the house of Hohenzollern was crowned King of Poland in the silver regalia of August III in 1921. As a Prince in Germany, he was criticised by his father, Kaiser Wilhelm II, for his love of jewellery and for keeping the company of artists in his Potsdam villa. As King of Poland for the last fifteen years, he has attempted to rule well, despite his reign being dogged by allegations of his own effeminate personal mannerisms, as well as by his strained relationship with his wife, neither of which serve him well in a deeply conservative, Catholic country.\n\nOn a political level, he has been compelled to hand more power to the Sejm, becoming a genuine constitutional monarch whose functions are largely ceremonial, and whose prerogative powers are largely wielded by his prime minister. King August's unfortunate fate is seemingly to be disliked by all sides: to the nationalists he is a symbol of intolerable German domination, to the pragmatists he is a necessary evil, and to the Kaiser he is his least favourite son.§!"
 
-## Advisors
- POL_maurucy_zamoyski_desc: ""
- POL_stanislaw_downarowicz_desc: ""
- POL_janusz_radziwill_desc: ""
- POL_wolfgang_von_kries_desc: ""
- POL_wolfgang_von_kries_text: ""
+ POL_alexander_von_hohenzollern_regnal: "Aleksander II"
+ POL_alexander_von_hohenzollern: "Alexander Ferdinand von Hohenzollern"
+ POL_alexander_von_hohenzollern_advisor_desc: "§YBorn:§! §LDecember 26th, 1912, in Berlin, Province of Brandenburg, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LPrince Alexander Ferdinand was only eight years old when his family moved to Poland. His youth would be overshadowed by the quite distant and difficult relationship of his parents, and the pressure of expectations: he would have to take up the throne of Poland eventually. Alexander pursued a career in the military, following typical footsteps for a German aristocrat. While he has been educated in Polish culture and language, he remains mediocre in it at best. That does not stop him from being the most popular member of the Polish royal house, and it is widely hoped that he will eventually marry a Polish woman.§!"
+ POL_alexander_von_hohenzollern_leader_desc: "§YBorn:§! §LDecember 26th, 1912, in Berlin, Province of Brandenburg, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LKing Aleksander II, born Alexander Ferdinand was only eight years old when his family moved to Poland. His youth would be overshadowed by the quite distant and difficult relationship of his parents, and the pressure of expectations: he would have to take up the throne of Poland eventually. Alexander pursued a career in the military, following typical footsteps for a German aristocrat. His service in the Polish Air Force won him much fame and admiration from the Polish public, and in many ways the shared war-time troubles have made him way more accepted in Poland than his father ever was. His decision to marry a Slavic noblewoman instead of a German one also helped to convince the Polish public of their king's dedication to Poland, not to Germany. However, Aleksander is untested in politics, and one can only guess how good a peace-time leader he will be.§!"
 
-## Generals
- POL_konstanty_rokossowski_commander_desc: ""
+ POL_feliks_kon: "Feliks Kon"
+ POL_feliks_kon_leader_desc: "§YBorn:§! §LMay 18th, 1864, in Kamionek, Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!"
 
- POL_edward_rydz_smigly_desc: ""
+ POL_kazimierz_zakrzewski: "Kazimierz Zakrzewski"
+ POL_kazimierz_zakrzewski_leader_desc: "§YBorn:§! §LNovember 4th, 1900, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LPerhaps the leading visionary among the Polish left, Kazimierz Zakrzewski has come a long way from the Krakówian suburbs, to Paris, and back to Poland again. Born in 1900, young Kazimierz started up an academic career in his father's footsteps. His studies were abruptly cut short when the young idealistic-minded student of Antiquity joined the Polish Legions with high hopes of liberating his country from the Tsarist yoke. Like many other Legionnaires, after the war Zakrzewski was disillusioned by the new Kingdom of Poland, which was regarded as little more than a German puppet regime by many. During this time he became interested in the philosophy of socialist thinkers such as Sorel, Jouhaux and Brzozowski, and joined radical \"Zetists\", who sought to combine patriotism and social revolution. After his graduation in 1923, he decided to leave for France. Both to study the Antiquity, but perhaps even more importantly - to study the revolution.\n\nWhat was meant to be a mere visit became years, as Dr. Zakrzewski joined the Patriotic Union, a syndicalist organisation composed of Polish exiles and émigres. The brilliant young historian quickly became an influential name in France, tirelessly publishing both syndicalist texts (written under pseudonym Nostromo) and histories of Byzantium. In a decade he solidified his place as the chairman of the entire Polish Revolutionary Committee, but also became a trusted ally of Jacques Doriot's clique of Sorelians, and a spokesman for \"revolutionary nationalism\".\n\nIn his years in exile, Zakrzewski has developed his own syndicalist theory that rejects Marxism and anarcho-syndicalism, and instead venerates the Nation as natural, proletarian force, which symbolises the united will of the proletariat's creative power. His ideal \"organic labour democracy\" would be state guided by strong, democratically elected leader and the worker elite through labour unions, kept safe through vigilance of the soldier-worker.§!"
 
- POL_kazimierz_sosnkowski_desc: ""
+ POL_leah_feldman: "Leah Feldman"
+ POL_leah_feldman_leader_desc: "§YBorn:§! §LSeptember 1898, in Odessa, Kherson Governorate, Russian Empire§!\n§YBackground:§! §LLeah Feldman is a truly remarkable woman - she has witnessed Russian, French and British revolutions, fought against the Cossacks with Nestor Makhno, and organised Jewish resistance movements in Palestine. Even her birthplace is not known for sure - she claims Warsaw, while her British passport states Odessa. What is known, however, is that she grew up in a poor Polish-Jewish émigre family in London, and became involved with the local anarchist movement early on. In 1918, she sailed for Petrograd to witness the birth of the first truly socialist nation, but was quickly horrified by the brutality of the Bolsheviks, and decided to join with Nestor Makhno's forces instead - fighting against both the Reds and the Whites until the anarchists were defeated and forced to escape.\n\nFeldman ended up in the young French Commune and joined Lew Marek's group of Polish anarcho-syndicalists. During these years she became truly interested in Poland's cause and was one of the most active members of the Polish Revolutionary Committee after Dr. Zakrzewski, whom she disagreed with in nearly everything. Unlike Zakrzewski, Feldman travelled considerably, joining the British Revolution and later toiled in Palestine for the Jewish freedom. \"The Makhnovist Grandma\", as she was affectionately nicknamed, is truly a professional, international revolutionary - one with bright ideals and little patience for compromise. With the revolution in Poland, she faces her most daunting task yet - guiding the young syndicalist nation through the war and internal strife towards true freedom, and not let it slide to Zakrzewski's authoritarian ambitions.§!"
 
- GER_heinz_guderian_desc: ""
+ POL_jerzy_cseszejko_sochacki: "Jerzy Czeszejko-Sochacki"
+ POL_jerzy_cseszejko_sochacki_leader_desc: "§YBorn:§! §LNovember 29th, 1892, in Nieżyn, Chernigov Governorate, Russian Empire§!\n§YBackground:§! §LJerzy Czeszejko-Sochacki studied in Saint Petersburg and was deeply connected to Russian, Lithuanian and Polish communist movements already during the Great War. After the collapse of the Bolsheviks, his party was forced underground - like most of the Polish far-left - and Czeszejko-Sochacki went to exile in France. There he found new ideological foundation from the teaching of Marcel Cachin and the French councilist approach to the revolution. In Poland, Czeszejko-Sochacki has been somewhat outside the power struggle around Zakrzewski.§!"
 
- GAL_wladyslaw_sikorski_desc: ""
+ POL_zygmunt_zaremba: "Zygmunt Zaremba"
+ POL_zygmunt_zaremba_leader_desc: "§YBorn:§! §LApril 28th, 1895, in Piotrków, Piotrków Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LZygmunt Zaremba joined the Polish Socialist Party at a very young age, for similar reasons as many others - to further the cause of Polish independence, like his family had done a generation before in the January Uprising. Zaremba was an active student organiser and the youngest member elected to the Central Workers' Committee of the PPS. However, he was not a follower of Piłsudski, nor did he see cooperating with the Germans as a way out. Quite to the contrary, he was adamantly against any kind of coalition talks or cooperation with the monarchy in Poland. His belief in uncompromising workers' democracy seems unflinching, and this attitude has sent him to prison multiple times. Since his latest release, he has been operating from Galicia, crafting connections between Polish and Ukrainian socialist independence activists along with his Ukrainian wife, Natalia. Unlike Kazimierz Zakrzewski and the ZZZ's leadership in France, Zaremba never believed that the Polish liberation could come from any other source than Poles - and their brothers in neighbouring countries.§!"
 
- POL_jozef_haller_desc: ""
+ POL_norbert_barlicki: "Norbert Barlicki"
+ POL_norbert_barlicki_leader_desc: "§YBorn:§! §LJune 6th, 1880, in Sieciechów, Radom Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LNorbert Barlicki rose to national prominence in 1918, when he vehemently opposed the Brest Treaty and read the declaration of free election to the Council of State. For this, he was imprisoned in the Modlin Fortress, and was released only after the war was over. His most radical socialist stances moderated quite a bit afterwards. Instead of the hardline socialist line that many in his party believed in, Barlicki was a man of the united front. Be it idealism or pragmatism, he believed that the best way to help the Polish people was inside the system, through untiring grassroots work to improve people's livelihoods. For this, he fostered close ties with the People's Party, having been affiliated with them already since the PSL's foundation.\n\nThis cooperation finally brought fruit as grand old man of the PSL, Tomasz Nocznicki, became prime minister in the 1930s, with Barlicki a cabinet minister. Many reforms and the widely successful Four-Year Plan were seen as proof that the German-imposed monarchy could serve the common people's interest - and even if the government eventually fell, it gave the current PPS-PSL alliance a very concrete goal.\n\nBarlicki's optimism was unfounded, as after the chaotic 1938 election the Centrolew bloc was swiftly denied forming a government despite their victory. Seeing no other options, Barlicki eventually caved in to the radicals of the bloc, and protests turned into revolution, with the overthrowing of the monarchy and declaration of the republic. In a twist of fate, the only man with faith that the monarchy could have been salvaged, became the republic's first leader. Norbert Barlicki could forge an alliance between the workers and the peasants that overthrew the king, now he needs to keep the front united.§!"
 
- POL_stanislaw_sosabowski_desc: ""
+ POL_stanislaw_wojciechowski: "Stanisław Wojciechowski"
+ POL_stanislaw_wojciechowski_leader_desc: "§YBorn:§! §LMarch 15th, 1869, in Kalisz, Kalisz Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LStanisław Wojciechowski was born to a middle-class family in the suburbs of Kalisz, and like many of his compatriots, started his radicalisation during his studies. He participated in the founding congress of the Polish Socialist Party in Paris in 1892, and was an active trade union organiser, often at odds with the police. The French authorities expelled him, and Wojciechowski made his way back to the Kingdom of Poland, where he threw himself into activism. He worked closely with Józef Piłsudski and the PPS, but also maintained contacts to the National Democrats, as he believed that the entire Polish political establishment is needed for independence.\n\nAfter 1905, Wojciechowski started to become disillusioned with political parties and trade unions, and instead focused on agricultural cooperatives as the basis of Polish liberty, and tried to improve the life in the Polish countryside. These efforts were cut short by the Great War. Wojciechowski evacuated to Russia with the National Committee, and tried yet again to forge an alliance with the National Democrats, with little success. Disappointed, he returned to the Kingdom of Poland in 1918, with his family and focused on the social activities and food relief in the war-torn kingdom. In the 1920s, he joined the PSL and became a university lecturer. In his lectures, he always stressed the importance of economic democratisation as a precursor to political democratisation, and held that as long as the kingdom was dominated by capitalists and great landowners, Poland cannot truly be a democracy. A long-time senator, Minister of Agriculture in the Nocznicki cabinet and chairman of the Society of Cooperatives, Wojciechowski is a respected and experienced politician and social activist. While initially reluctant to accept the presidency, he was convinced by interpartisan support from the Sejm to stand for one term - merely to safeguard the young republic's critical first years, and then to withdraw from politics.§!"
 
- POL_adam_koc_desc: ""
- POL_leon_berbecki_desc: ""
- POL_jozef_dowbor_musnicki_desc: ""
- POL_zbigniew_antonowicz_desc: ""
- POL_mikolaj_boltuc_desc: ""
- POL_wladyslaw_anders_desc: ""
- POL_henryk_dobrzanski_desc: ""
- POL_juliusz_rommel_desc: ""
- POL_waclaw_stachiewicz_desc: ""
- POL_stanislaw_magnuszewski_desc: ""
- POL_antoni_szylling_desc: ""
- POL_boleslaw_wieniawa_dlugoszowski_desc: ""
+ POL_jan_woznicki: "Jan Woźnicki"
+ POL_jan_woznicki_leader_desc: "§YBorn:§! §LAugust 15th, 1881, in Nieszawa, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LJan Woźnicki is part of the right wing of the PSL. He became a member of the National Democrats in 1904 as part of the struggle against Russification of the education system. He was imprisoned by the Tsarist authorities in 1906 for using his position as teacher to organise resistance, and soon after left the National Democrats, disappointed in Roman Dmowski's peaceful stance and principle of non-violent resistance.\n\nInstead, Woźnicki joined the Polish Legions and soon after, the PSL. He has served in the Sejm multiple times, primarily focusing on education and anti-corruption programmes. The past two decades have made him respected on both sides of the political spectrum as a reliable centrist.§!"
 
- POL_jozef_unrug_desc: ""
+ POL_gabriel_narutowicz: "Gabriel Narutowicz"
+ POL_gabriel_narutowicz_leader_desc: "§YBorn:§! §LMarch 29th, 1865, in Telsze, Kovno Governorate, Russian Empire§!\n§YBackground:§! §LGabriel Narutowicz was born in a Samogitian village in Lithuania. His father was a progressive landowner who had abolished serfdom on his lands, and his mother had been a scholar of the Enlightenment. This upbringing gave Gabriel and his brother Stanisław a strong national-progressive philosophy. While his brother stayed in Lithuania, Gabriel had to flee from Tsarist authorities, and he graduated as an engineer in Switzerland. As an experienced construction engineer, he was invited to Galicia-Lodomeria in 1920 to organise post-war reconstruction and oversee infrastructural reforms. He served as Foreign Minister from 1924, Minister of Public Works in 1928, and finally Premier of his own government in 1934. After the reunification of Poland, Narutowicz became a bridge between the People's movements on both sides of the border, and is especially popular among the minorities as relatively moderate liberal politician.§!"
+
+ POL_mieczyslaw_michalowicz: "Mieczyslaw Michałowicz"
+ POL_mieczyslaw_michalowicz_leader_desc: "§YBorn:§! §LSeptember 10th, 1876, in Saint-Petersburg, Saint-Petersburg Governorate, Russian Empire§!"
+
+ POL_wincenty_witos: "Wincenty Witos"
+ POL_wincenty_witos_sic_desc: "§YBorn:§! §LJanuary 21st, 1874, in Wierzchosławice, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+ POL_wincenty_witos_leader_desc: "$POL_wincenty_witos_sic_desc$\n§YBackground:§! §LBorn in an impoverished and illiterate peasant family in Galicia, Wincenty Witos has dedicated his life to the peasant struggle. At the age of 19, he published his first political article in the Lwów-based newspaper \"Przyjaciel Ludu\", subsequently joining the Galician PSL in 1895, then climbing the ranks as mayor of his native Wierzchosławice, then as a deputy of the Galician Diet in 1914.\n\nWith the split of the PSL at the end of 1913, Witos remained with the \"Piast\" conservative faction, which he ended up becoming the president of in 1916. Over the next 20 years, he has served with distinction as a member of the Diet, including several stints as Marshal of Galicia. Now that Poland is made whole, Witos has successfully moulded his more conservative faction of PSL into a form more palatable to the broader Polish electorate, and remains a strong advocate of the peasant cause in Poland.§!"
+
+ POL_stanislaw_mikolajczyk: "Stanisław Mikołajczyk"
+ POL_stanislaw_mikolajczyk_leader_desc: "§YBorn:§! §LJuly 18th, 1901, in Dorsten-Holsterhausen, Province of Westphalia, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LStanisław Mikołajczyk was born into a family of a miners in Prussian countryside. He never progressed into higher education, but that did not stop Mikołajczyk from joining the Prussian section of the People's Party and from organising rural youth movements against Germanisation policies in the Province of Posen. Organising peasant strikes and protests did not bring him support among German authorities, but he did manage to escape any prison sentences. Working together with the Poznanese National Democrats, Mikołajczyk managed to help many Poles buy land and defend their right of ownership against the German Settlement Commission. After annexation of the Province of Posen to Poland, Mikołajczyk was elected into the national Sejm with strong support from his home region. His experiences from the struggles in the Posen Province have convinced him of the need for broad coalitions in Polish politics, as he sees Germans as a greater threat than the National Democrats.§!"
+
+ POL_jozef_chacinski: "Józef Chaciński"
+ POL_jozef_chacinski_leader_desc: "§YBorn:§! §LMarch 13th, 1889, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LJózef Chaciński became involved with the National Democratic youth organisations from an early age, while studying law in Warsaw. After a brief period of imprisonment by the Tsarist authorities, he left the country in 1909 and studied in Switzerland. There he built contacts with the National Democratic movement, and after his return to Poland, joined the Christian-National Party - part of the ChZJN bloc - and became a very visible politician within the bloc, trying to moderate the most radical ideas in the Polish right. Chaciński is a solidarist and believes that both excess liberalism and socialism have failed to increase common people's happiness, but also that the National Democrats should not forget the common peasants.§!"
+
+ POL_adam_chadzynski: "Adam Chądzyński"
+ POL_adam_chadzynski_leader_desc: "§YBorn:§! §LNovember 18th, 1882, in Górki-Grubaki, Siedlce Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LAdam Chądzyński comes from family of minor landowners, and was initially involved in the National League, but split from them in 1908 over the question of collaboration with the Russians. Chądzyński came to lead the National Worker's Union (NZR), a solidarist and Christian working-class party. The NZR became positioned as a small independent party between MKP and ChZJN, maintaining a small but loyal base. Chądzyński pragmatically supported the Ponikowski governments, but could just as easily side with ChZJN when preferable. This position as an odd centrist between the more right-wing Christian Democrats and the liberal PSL has made Chądzyński much more influential than the mere popularity of his party would suggest.§!"
+
+ POL_wladyslaw_grabski: "Władysław Grabski"
+ POL_wladyslaw_grabski_leader_desc: "§YBorn:§! §LJuly 7th, 1874, in Borów, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LWładysław Grabski comes from a noble family that made fortunes through sugar beet farming, which secured a good education for Władysław and his siblings, Stanisław and Zofia. Władysław studied agrarian economics, and took over the family estate after his father's death. He believed in the role of the education of the peasantry as a means of strengthening the Polish national identity, and ran an illegal Polish-language school for peasant children. Eventually, he was imprisoned by Tsarist authorities, before becoming a member of the National League, and being elected to the Russian Duma. From there, he focused on improving the quality of life in the Polish countryside, in cooperation with the authorities.\n\nGrabski was imprisoned by the Germans in 1917 after criticising their economic policy in occupied Poland too harshly, but as a silver lining could complete his third volume devoted to the situation of Polish peasantry. Ironically, he went straight from prison to becoming a minister in the Józef Świeżyński's government, thanks to his skill and popularity in Poland. In 1919 he founded the ChZJN with his brother, leading the party to become a major power in the Sejm for over a decade. Even though he stepped aside from leadership positions within the party after the 1920s, he has remained possibly the most popular National Democrat politician in Poland.§!"
+
+ POL_wojciech_korfanty: "Wojciech Korfanty"
+ POL_wojciech_korfanty_leader_desc: "§YBorn:§! §LApril 20th, 1873, in Sadzawki, Province of Silesia, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LWojciech Korfanty grew up in Silesia, and from early age took part in the struggle for the Polish language and culture against the Prussian authorities. He was expelled from his secondary school after making negative remarks about Otto von Bismarck, but nonetheless graduated in economics and joined the National League. After a brief imprisonment for agitation and leaving Endecja, Korfanty founded his own Democratic-National Society and was elected to the Reichstag, with even some German support. His deeply held Christian Democratic convictions made him relatively popular among Catholics across the language barrier, and it made him somewhat of a centrist candidate after Upper Silesia's integration into Republic of Poland, as he is Christian Democrat but not adherent of Roman Dmowski.§!"
+
+ POL_edward_rydz_smigly: "Edward Rydz-Śmigły"
+ POL_edward_rydz_smigly_leader_desc: "§YBorn:§! §LMarch 11th, 1886, in Brzeżany, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LAs a son of an impoverished family from Eastern Galicia, who lost both of his parents before his tenth birthday, young Edward's life did not seem to offer much. He became a soldier under the pseudonym \"Śmigły\", first for Austria-Hungary and later for Józef Piłsudski's Legions. He would rise through the ranks as a fast and dedicated commander but after refusing to take the oath of fidelity to Kaiser Wilhelm II in the Oath Crisis of 1917, he went to Kraków and assumed leadership of the Polish Military Organisation which opposed both the Central Powers and Russia.\n\nBy 1919 it was clear that Germany would win the war. Rydz-Śmigły first tried to keep up resistance before switching to peaceful opposition in Kraków.\n\nIn 1925 he could finally return to Poland as part of the mass pardoning of former Polish Legionnaires by King August IV. Barred from military command, he instead focused on his political career and was elected into the Senate where became a voice of the former Polish legionaries where it was suspected that he was still in contact with Piłsudski himself.\n\nAs the political situation in Poland was growing less stable, Rydz-Śmigły and other like-minded men founded the OZN, the Camp of National Unity. OZN would become a loose clique of Endecja-influenced but ideology-scarce nationalists who believe the Kingdom of Poland was coming to an end and would be replaced by a new order of authoritarian Polish nationalism under military leadership.\n\nNow propelled into power through their military coup, Rydz-Śmigły wields wide powers including most held by the former monarchy. His regime relies on pretension of being apolitical, nationalist and Piłsudskite, capable of unifying all Poles regardless of their political affiliations. In practice, the Sejm is a rubber stamp manned by pro-OZN politicians and all important decisions are made by Rydz-Śmigły's clique which follows rigorous military hierarchy allowing the First Marshal of Poland, Rydz-Śmigły himself, to reign supreme.§!"
+ POL_edward_rydz_smigly_army_chief_desc: "§YBorn:§! §LMarch 11th, 1886, in Brzeżany, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LAs a son of an impoverished family from Eastern Galicia, who lost both of his parents before his tenth birthday, young Edward's life did not seem to offer much. His foster family was wealthy enough to offer Rydz, a promising painter and artist, a chance to get an education. In the Jagiellonian University Rydz joined the Union of Active Combat and Riflemen's Association and became an adherent of Józef Piłsudski. Adopting the pseudonym \"Śmigły\", he decided to devote himself to the cause of an independent Poland.\n\nIn 1914, Rydz-Śmigły left the Austro-Hungarian army to join Piłsudski's Legions, rising through the ranks fast as a brave and dedicated commander. His rise was cut short in the Oath Crisis in 1917 when he refused to take the oath of fidelity to Kaiser Wilhelm II. His colleagues Piłsudski and Sosnkowski were imprisoned and Rydz-Śmigły was forbidden from wearing a uniform. Not willing to give up the fight, he went to Kraków and assumed leadership of the Polish Military Organisation, this time working against both the Central Powers and Russia. Under his leadership, the POW greatly expanded, and even tried to form an alliance with the National Democrats and Józef Haller's Corps in Russia with little success.\n\nBy 1919 it was clear that Germany would win the war. Rydz-Śmigły continued the resistance, but eventually even he had to admit that the Kingdom of Poland was there to stay. Not wanted in this new Kingdom, he stayed some time in Kraków organising Polish opposition groups, and in 1925 he could finally return to Poland as part of mass pardoning of former Polish Legionnaires by King August IV. Barred from military command, he instead focused on his political career, and was elected into the Senate as an independent, though definitely nationalist-minded candidate. He became a voice of the former Polish legionaries, and it was suspected that he was still in regular contact with Piłsudski himself. As the political situation in Poland has grown less stable, Rydz-Śmigły has started to plan to form his own nationalist bloc with like-minded officers.§!\n\n§YNotes: Well-known for his contacts to the Polish far-right and anti-monarchist organisations. Personally incredibly popular among the Poles.§!"
+
+ POL_roman_dmowski: "Roman Dmowski"
+ POL_roman_dmowski_leader_desc: "§YBorn:§! §LAugust 9th, 1865, in Kamionek, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_adam_doboszynski: "Adam Doboszyński"
+ POL_adam_doboszynski_leader_desc: "§YBorn:§! §LJanuary 11th, 1904, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LAdam Doboszyński was born into a family of landed gentry in Kraków. His father was a lawyer and a liberal politician. At first, it did not seem obvious that he would become one of the most prolific Polish far-right theorists - his youth was relatively normal, and he was only a child during the Great War. After his father's death in 1929, Adam took over the family estate near Kraków. During this time, he started writing.\n\nThe Creditanstalt Crisis in 1931 shook the whole Austro-Hungarian realm dramatically, and inspired Doboszyński to associate with the National Democrat movement in both Poland and Galicia, becoming increasingly dissatisfied with the state of both Polands. Doboszyński travelled widely and became greatly inspired by theorists of distributism, such as Gilbert Chesterton, and the larger movement of Catholic social teachings. Doboszyński became a political theorist in his own right, and started to merge Polish nationalism with the social science of the Catholic Church. Using the relatively liberal publishing laws of Galicia to become a prolific author, his texts were distributed widely on both sides of the border. Doboszyński criticised both capitalism and socialism as structures that crush the human spirit, and called for a spiritual awakening of the Poles. Many say that he correctly predicted the German economic crash of 1936.\n\nBy 1936, Doboszyński had become a National Democrat organiser and speaker, touring the Polish countryside and agitating against the foreign monarchs ruling over Poles, against the Freemasons and Jews who controlled the Polish society, against the socialists and liberals who did not understand the good of Poland. Despite multiple close calls with the police and periods of underground activity, Doboszyński's fame only grew, and reached its pinnacle when he led a raid into Myślenice and stuck against the town's Jewish population with his militia. After a minimal time in prison, he fled to Russia, to the National League's exiled leadership, and became the leader of the National Democrat movement after Dmowski's death.\n\nIn power, Doboszyński is finally in a position to put his theories into practice. In his vision, the ideal society is that of the pre-Enlightenment era, where industrialisation had not yet released man's greed and lust, and where a strong family unit and the Church provided meaningful and moral social surroundings for people. It is his belief that with tireless work, this bygone golden age of humanity can be brought back.§!"
+
+ POL_wolfgang_von_kries: "Wolfgang von Kries"
+ POL_wolfgang_von_kries_leader_desc: "§YBorn:§! §LNovember 27th, 1868, in Schmentau, Province of Prussia, Kingdom of Prussia, North German Confederation§!\n§YBackground:§! §LBorn in rural Pomerania to a Thuringian family, von Kries aimed for an administrative career. He served in the army, as was expected from a Prussian nobleman, and was appointed into the administration of the Generalgouvernement Warschau during the Weltkrieg. He proved to be a natural-born organiser, with an eye for detail and great ability to learn everything there was to know about his new duties. These qualities secured him promotions, and by the end of the war he was the Governor-General of Poland. With this role he saw through many economic reforms in Poland, such as the creation of the Polish Mark. After the coronation of August IV, von Kries, who knew the Polish situation possibly better than any other German, was kept as the king's right-hand man and eventually stationed to Poland permanently as a military attaché and head of the German military mission in Poland.§!"
+
+ POL_eustachy_sapieha: "Eustachy Sapieha"
+ POL_eustachy_sapieha_leader_desc: "§YBorn:§! §LAugust 2nd, 1881, in Biłka Szlachecka, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LEustachy Sapieha comes from an old princely family of szlachta, rich and well-known. His political career began in 1916, when he became a relief organiser in Warsaw and an associate of Józef Piłsudski. He became one of the earliest diplomats in the service of the Kingdom of Poland, and was sent to Switzerland to negotiate with the Polish National Committee. Despite Roman Dmowski not being willing to cooperate, many centrist National Democrats joined the Interpartisan Circle from Sapieha's encouragement. Eustachy Sapieha would serve as the Polish ambassador in Austria in the 1920s and became part of King August IV's inner circle. Politically, he is seen as a liberal-conservative centrist and is known as an opportunist politician and tenacious negotiator.§!"
+
+ ### Seconds-in-Command & Advisors ###
+ POL_antoni_ponikowski: "Antoni Ponikowski"
+ POL_antoni_ponikowski_sic_desc: "§YBorn:§! §LMay 29th, 1878, in Siedlce, Siedlce Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LAntoni Ponikowski has become something of the king's trusted man. Initially a member of the National Democrats and later the Christian Democrats, Ponikowski was among the Polish intellectuals during the Great War who turned towards building the Kingdom of Poland, rather than continue Roman Dmowski's hopeless war. Ponikowski became one of the leading figures of the Interpartisan Political Circle, formed out of the conservatives and moderate liberals who supported the Regency.\n\nPonikowski has served multiple times as the prime minister. During his terms, Ponikowski has sought to walk the narrow middle path, cooperating both with moderate liberals and Christian Democrats. Ponikowski has been largely untainted by political scandals and is a commonly a patron for Polish composers. At the latter stages of his political career, his retirement had already been planned, but the immensely close 1934 election could not allow anyone else to form a cabinet.§!"
+
+ POL_aleksy_cwiakowski: "Aleksy Ćwiakowski"
+ POL_aleksy_cwiakowski_sic_desc: "§YBorn:§! §LApril 5th, 1895, in Sygontka, Piotrków Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LAleksy Ćwiakowski was born into a peasant family near Częstochowa and studied law in the Jagiellonian University. He was briefly active in the Polish Military Organisation, but abandoned activism quickly and joined the PSL. Disappointed in the party's anti-monarchist stance, he founded his own party, the Progressive Peasant Union, which eventually merged into the MKP in 1934.\n\nĆwiakowski came to represent the young wing of the monarchists, and focused his efforts in winning over the peasantry with policies competing with the PSL's ones. As a surprise decision from the king, Ćwiakowski was appointed as the prime minister after the 1938 election as someone new and a visionary who could reform the monarchy into something with lasting popular support.§!"
+
+ POL_wladyslaw_studnicki: "Władysław Studnicki"
+ POL_wladyslaw_studnicki_sic_desc: "§YBorn:§! §LNovember 15th, 1867, in Dyneburg, Vitebsk Governorate, Russian Empire§!\n§YBackground:§! §LWładysław Studnicki was a socialist radical in his youth, and was sent to Siberia for eight years. After his exile, he moved to Vienna and shifted rightwards in his political beliefs. However, he did not embrace National Democrat passivism - rather, he argued that an independent Poland could only be achieved through an alliance with the Central Powers and the dismemberment of Russia. He briefly flirted with the idea of an Austro-Polish union, but after the Dual Monarchy's failures in the Great War, Studnicki became convinced of a pro-German orientation being the only sensible option.\n\nHis rise to national prominence started in 1916, when he was deeply involved in founding the Kingdom of Poland, and was among the chief negotiators for the treaty that secured Chełm for Poland. His political organisation, The Polish Statehood Party, grew into a large part of the MKP with support from Polish Germans, industrialists and other pro-German conservatives. In Studnicki's beliefs, democracy has no special value compared to the continuing statehood of Poland - which should ultimately be the only thing that matters.§!"
+
+ POL_stanislaw_dubois: "Stanisław Dubois"
+ POL_stanislaw_dubois_sic_desc: "§YBorn:§! §LJanuary 9th, 1901, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LStanisław Dubois is the great-grandson of an officer of the Napoleonic army, and the son of a lawyer. His political awakening came in 1918, when Norbert Barlicki held a speech demanding free elections in the Kingdom of Poland and condemning the Treaty of Brest. Already a radical student, in Barlicki's tutorship Dubois adopted radically socialist views - though unlike his mentor, Dubois hardly moderated with age. He became an organiser and activist in the PPS, and was appointed as an editor of Poland's most popular political magazine, the Robotnik, in the late 1920s. During his editorship, the Robotnik was often censored for its uncompromising critique towards the monarchy's elites.\n\nWhile his mentor Barlicki became the leader of the party's moderates, Dubois radicalised in the other direction, continuously pushing for a more uncompromising stance, building contacts with the far-left and radical republicans. During the 1938 revolution, Dubois was the leading figure in organising the general strike, and became de-facto leader of the uprising in Warsaw. Now appointed as prime minister, Dubois is finally in a position to ensure that Poland never again slips into authoritarianism.§!"
+
+ POL_maksymilian_malinowski: "Maksymilian Malinowski"
+ POL_maksymilian_malinowski_sic_desc: "§YBorn:§! §LJune 23rd, 1860, in Ciechocin, Province of West Prussia, Kingdom of Prussia§!\n§YBackground:§! §LMaksymilian Malinowski was born in the German partition, and as a teacher became involved in the Polish struggle against Germanisation policies. He became a publisher of peasant activist papers and eventually moved to Warsaw after he was no longer welcome in Prussia. There he joined the National League in 1900, though he was quickly disappointed in the passivist stance of Roman Dmowski.\n\nMalinowski started to sketch an ideology of his own, in his magazine \"Zarania.\" His followers sought to liberate the Polish peasantry from the aristocracy and the clergy, and turn the Polish villages into the centre of Polish culture and welfare. He became one of the founding members of the PSL in 1918 and served in the Sejm multiple times, staunchly opposing the nobility and the church. The old man of the party, he is as sharp as ever in leading the country after the revolution.§!"
+
+ POL_boguslaw_miedzinski: "Bogusław Miedziński"
+ POL_boguslaw_miedzinski_sic_desc: "§YBorn:§! §LMarch 22nd, 1891, in Miastków Kościelny, Siedlce Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LBogusław Miedziński became involved with the PPS Combat Organisation already when he was 15 years old, and dedicated his early years to the Polish Legions. As an able organiser, Miedziński became adjutant and second-in-command to Edward Rydz-Śmigły in the Polish Military Organisation. It was during these years when he developed unflinching loyalty towards Rydz, and became part of his small group of trusted companions. After the ceasefire, the men stayed in contact, even if they were forced to the side-lines of the political life in the kingdom. Miedziński was elected to the Sejm from the PSL's list, and quickly gained the reputation of a political opportunist and backstabber, and an opponent to the monarchy, loyal only to other ex-Legionaries. He envisioned the ideal Republic of Poland to be guided by the military, likening it to the rule of the Shogun in medieval Japan - and this military leader would naturally be Rydz-Śmigły.§!"
+
+ POL_tadeusz_bielecki: "Tadeusz Bielecki"
+ POL_tadeusz_bielecki_sic_desc: "§YBorn:§! §LJanuary 30th, 1901, in Słupia, Kielce Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LA young teacher disillusioned with the monarchy, Tadeusz Bielecki became a National Democrat activist in the 1920s, and organised school strikes against Jews in Polish universities. He proved a charismatic leader and gathered many of the \"young nationalists\" around him, trying to find a middle ground between Roman Dmowski's conservative National Democrat ideology, and the new more radical strains emulating Legionarism and other totalitarian movements. During this time, he essentially became the leader of National Democrats within the Kingdom of Poland, before being tried for espionage on behalf of the Russians. Bielecki left Poland and made his way to Russia, to take part in the National League's actions in exile. Seen as a possible crown prince to the old and sickly Roman Dmowski, his collaboration with Adam Doboszyński was imperative for the success of the National Uprising, and gaining the trust of the wider National Democrat movement.§!"
+
+ POL_pawel_lew_marek: "Paweł Lew Marek"
+ POL_pawel_lew_marek_sic_desc: "§YBorn:§! §LAugust 16th, 1901, in Radymno, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LPaweł Marek was a Galician Jew initially active in Lwów, where he tried to forge cooperation between Polish, Jewish and Ukrainian anarcho-syndicalists. After having multiple clashes with the authorities, he emigrated to France, where he joined the National Revolutionary Committee of Polish socialist exiles. In 1931, he was sent to Poland to coordinate syndicalist activities there, and under his leadership the Anarchist Federation of Poland grew into a formidable organisation, inspired by the dream of democratic syndicalism and a Poland free of ethnic persecution and political oppression.§!"
+
+ POL_stanislaw_bukowiecki: "Stanisław Bukowiecki"
+ POL_stanislaw_bukowiecki_sic_desc: "§YBorn:§! §LApril 27th, 1867, in Włonice, Lublin Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LStanisław Bukowiecki, the grand old man of Polish syndicalism, was acquainted with Kazimierz Zakrzewski from the Polish Youth Union \"Zet\" and was a member of the National League for a time. Despite losing his eyesight entirely, the blind judge was appointed as the Minister of Justice in the first government of the Kingdom of Poland. He worked to humanise the judicial system of Poland, but was eventually side-lined by more conservative judges. Bukowiecki became an odd left-nationalist politician, who preached social solidarity and religious tolerance, while maintaining contacts with Zakrzewski and his national syndicalist movement.§!"
+
+ POL_maurycy_zamoyski: "Maurycy Klemens Zamoyski"
+ POL_maurycy_zamoyski_advisor_desc: "§YBorn:§! §LJune 30th, 1871, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LCount Maurycy Zamoyski comes from a wealthy aristocratic family with significant estates in both Galicia and Poland proper. Zamoyski had already joined the National League by 1905, and became a proponent of cooperation between the Slavic brothers of Poland and Russia. Despite his pro-Entente sympathies, and even his role as the vice-president of the Polish National Committee in 1918, he returned to Poland in 1919 and was elected to the Senate in the first elections. Zamoyski, possibly the richest man in Poland, maintained a cautious stance towards the monarchy and was among the top patrons of ChZJN. However, he has preferred to appear as a moderate in politics, and not tie himself too tightly into any single political party.§!"
+
+ POL_stanislaw_downarowicz: "Stanisław Downarowicz"
+ POL_stanislaw_downarowicz_advisor_desc: "§YBorn:§! §LMarch 28th, 1874, in Łochów, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LStanisław Downarowicz was a strangely centrist independence activist. Despite his initial cooperation with the PPS, which led to his imprisonment by Tsarist authorities, he acted as a Rifle Team organiser without following either Piłsudski or Dmowski. During this time he was in exile in Galicia, building many contacts in Lwów, until he could return to the Kingdom. He joined the Polish Progressive Party in 1910, which would later become one of the core parties inside the MKP, and has kept to a moderate liberal political path ever since. Downarowicz is among the most visible faces among MKP's progressives, who seek to liberalise the kingdom, rather than go ever-deeper into authoritarianism.§!"
+
+ POL_janusz_radziwill: "Janusz Radziwiłł"
+ POL_janusz_radziwill_advisor_desc: "§YBorn:§! §LSeptember 3rd, 1880, in Berlin, Province of Brandenburg, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LPrince Janusz Radziwiłł, often titled the man behind the king, is a wealthy aristocrat and magnate, whose palace in Warsaw has become the unofficial meeting place of the Polish landowning and corporate elite. He has been a supporter of the monarchy from its very first days, and was the Regency Council's ambassador to the negotiations concerning the appointment of the Polish king. Some say that he should have insisted on an Austrian monarch; others applaud him for his negotiation skills that secured Chełm for Poland. Ever since, he has been in the heart of August IV's circle of advisors, carefully balancing between supporting the king, and acting as an independent-minded conservative, able to draw allies from across all political parties.§!"
+
+ POL_the_sejm: "Sejm"
+ POL_the_sejm_sic_desc: ""  # TO-DO
+
+ POL_august_hlond: "August Hlond"
+ POL_august_hlond_advisor_desc: "§YBorn:§! §LJuly 5th, 1881, in Brzenskowitz, Province of Silesia, Kingdom of Prussia, German Empire§!"
+
+ POL_wieslaw_gerlicz: "Wiesław Gerlicz"
+ POL_wieslaw_gerlicz_advisor_desc: "§YBorn:§! §LJuly 14th, 1872, in Abramów, Lublin Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_andrzej_wierzbicki: "Andrzej Wierzbicki"
+ POL_andrzej_wierzbicki_advisor_desc: "§YBorn:§! §LJune 7th, 1877, in Chava, Tambov Governorate, Russian Empire§!"
+
+ POL_marian_dabrowski: "Marian Dąbrowski"
+ POL_marian_dabrowski_advisor_desc: "§YBorn:§! §LSeptember 27th, 1878, in Mielec, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_michal_kalecki: "Michał Kalecki"
+ POL_michal_kalecki_advisor_desc: "§YBorn:§! §LJune 22nd, 1899, in Łódź, Piotrków Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_cezaria_jedrzejewiczowa: "Cezaria Jędrzejewiczowa"
+ POL_cezaria_jedrzejewiczowa_advisor_desc: "§YBorn:§! §LAugust 2nd, 1885, in Dorpat, Governorate of Livonia, Russian Empire§!"
+
+ POL_wanda_wasilewska: "Wanda Wasilewska"
+ POL_wanda_wasilewska_advisor_desc: "§YBorn:§! §LJanuary 21st, 1905, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_henryk_ehrlich: "Henryk Ehrlich"
+ POL_henryk_ehrlich_advisor_desc: "§YBorn:§! §LApril 13th, 1882, in Lublin, Lublin Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_stanislawa_paleolog: "Stanisława Paleolog"
+ POL_stanislawa_paleolog_advisor_desc: "§YBorn:§! §LMay 4th, 1892, in Rumno, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_tadeusz_kossakowski: "Tadeusz Kossakowski"
+ POL_tadeusz_kossakowski_advisor_desc: "§YBorn:§! §LJanuary 27th, 1888, in Kishinev, Bessarabia Governorate, Russian Empire§!"
+
+ POL_tadeusz_schaetzel: "Tadeusz Schaetzel"
+ POL_tadeusz_schaetzel_advisor_desc: "§YBorn:§! §LMarch 12th, 1891, in Brzeżany, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_jozef_zajac: "Józef Zając"
+ POL_jozef_zajac_air_chief_desc: "§YBorn:§! §LMarch 14th, 1891, in Rzeszów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_ludomil_rayski: "Ludomił Rayski"
+ POL_ludomil_rayski_air_chief_desc: "§YBorn:§! §LDecember 29th, 1892, in Czasław, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_edmund_knoll_kownacki: "Edmund Knoll-Kownacki"
+ POL_edmund_knoll_kownacki_high_command_desc: "§YBorn:§! §LJuly 12th, 1891, in Pomiechówek, Płock Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_stefan_rowecki: "Stefan Rowecki"
+ POL_stefan_rowecki_high_command_desc: "§YBorn:§! §LDecember 25th, 1895, in Piotrków, Piotrków Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_ludwik_skrzynski: "Ludwik Skrzyński"
+ POL_ludwik_skrzynski_high_command_desc: "§YBorn:§! §LAugust 26th, 1893, in Odessa, Kherson Governorate, Russian Empire§!"
+
+ POL_mieczyslaw_smorawinski: "Mieczysław Smorawiński"
+ POL_mieczyslaw_smorawinski_high_command_desc: "§YBorn:§! §LDecember 25th, 1893, in Kalisz, Kalisz Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_stefan_adolf_mossor: "Stefan Adolf Mossor"
+ POL_stefan_adolf_mossor_theorist_desc: "§YBorn:§! §LOctober 23rd, 1896, in Kraków, Kingdom of Galicia and Lodomeria, Austria-Hungary§!"
+
+ POL_mieczyslaw_rawicz_myslowski: "Mieczysław Rawicz-Mysłowski"
+ POL_mieczyslaw_rawicz_myslowski_high_command_desc: "§YBorn:§! §LOctober 29th, 1896, in Nowy Dwór, Kherson Governorate, Russian Empire§!"
+
+ POL_wiktor_thommee: "Wiktor Thommée"
+ POL_wiktor_thommee_high_command_desc: "§YBorn:§! §LDecember 30th, 1881, in Sventiany, Vilna Governorate, Russian Empire§!"
+
+ POL_mieczyslaw_dabkowski: "Mieczysław Dąbkowski"
+ POL_mieczyslaw_dabkowski_high_command_desc: "§YBorn:§! §LMay 21st, 1880, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_edward_szystowski: "Edward Szystowski"
+ POL_edward_szystowski_high_command_desc: "§YBorn:§! §LNovember 2nd, 1896, in Vindava, Courland Governorate, Russian Empire§!"
+
+ POL_witold_urbanowicz: "Witold Urbanowicz"
+ POL_witold_urbanowicz_high_command_desc: "§YBorn:§! §LMarch 30th, 1908, in Olszanka, Suwałki Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_janusz_de_beaurain: "Janusz de Beaurain"
+ POL_janusz_de_beaurain_high_command_desc: "§YBorn:§! §LDecember 25th, 1893, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_xawery_czernicki: "Xawery Czernicki"
+ POL_xawery_czernicki_high_command_desc: "§YBorn:§! §LOctober 16th, 1882, in Giedejki, Oshmyanskiy District, Vilna Governorate§!"
+
+ POL_janusz_groszkowski: "Janusz Groszkowski"
+ POL_janusz_groszkowski_advisor_desc: "§YBorn:§! §LMarch 21st, 1898, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_ludwik_hirszfeld: "Ludwik Hirszfeld"
+ POL_ludwik_hirszfeld_advisor_desc: "§YBorn:§! §LAugust 5th, 1884, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_zygmunt_pulawski: "Zygmunt Puławski"
+ POL_zygmunt_pulawski_advisor_desc: "§YBorn:§! §LOctober 24th, 1901, in Lublin, Lublin Governorate, Kingdom of Poland, Russian Empire§!"
+
+ POL_stanislaw_karlowski: "Stanisław Karłowski"
+ POL_stanislaw_karlowski_advisor_desc: "§YBorn:§! §LAugust 5th, 1879, in Grąbków, Province of Posen, Kingdom of Prussia, German Empire§!"
+
+ ### Generals ###
+ POL_konstanty_rokossowski: "Konstanty Rokossowski"
+ POL_konstanty_rokossowski_commander_desc: "§YBorn:§! §LDecember 21st, 1896, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LBorn to a mixed Polish-Russian family, Konstanty Rokossowski hails from the noble Rokossowski family, even though his father, a railway officer, was as removed from traditional nobility as one could get. Rokossowski had a difficult childhood: he lost his father early in his life and he had to abandon school in order to make a living for the rest of his family. He caught up by reading books in Russian and Polish in his spare time, only to fuel his life-long conflict on whether he was Russian, Polish, or something in between.\n\nIn 1914, alongside his cousin Franz, the 18-year old Konstanty signed up for the retreating Russian armies and became a cavalryman, serving with distinction and achieving the rank of non-commissioned officer. They had to part ways when the October Revolution broke out however - Franz joined the Polish Military Organisation, and Konstanty was one of the first to volunteer for the Red Army. There, he quickly rose in rank as a capable cavalry commander but he could not turn the tide - the Soviet regime collapsed and fell, and Rokossowski was forced to flee.\n\nAfter years of soul-searching across Europe, he ended up in France, where he came into contact with the Polish socialists in exile and enrolled in the French army officer corps. Though he maintains contact with the other former Bolsheviks, Rokossowski has grown distant from the Russian revolutionary cause and thus did not follow them to Argentina - his eyes turn towards Poland instead. Perhaps there, in his other homeland, he can find purpose.§!"
+
+ POL_kazimierz_sosnkowski: "Kazimierz Sosnkowski"
+ POL_kazimierz_sosnkowski_army_chief_desc: "§YBorn:§! §LNovember 19th, 1885, in Warsaw, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LKazimierz Sosnkowski, descended from poor nobility on his mother's side, was a passionate composer and interested in architecture in his youth. His academic career was cut short by the revolutionary mood in Poland, which prompted him to join the Polish Socialist Party and their struggle against the Tsarist officials, because he saw it as the only organisation that was willing to truly fight for an independent Poland. He was forced to move to Kraków to avoid the Russian police, and there he met Józef Piłsudski, a man he would idolise like so many other to-be-Legionnaires. He continued the fight in the PPS Combat Organisation and was a co-founder of the Riflemen's Association, finishing his studies of architecture in the meantime.\n\nDuring the Weltkrieg, Sosnkowski became Piłsudski's right-hand-man and proved to be a brilliant and cool-headed field commander. He was arrested alongside Piłsudski and Slawek during the Oath Crisis and spent the remainder of the war in prison. During his imprisonment he played over 500 games of chess with Piłsudski, developing a passion for the game. After the war he abandoned his political activism for some time, focusing on music instead.\n\nSosnkowski was allowed to return to the army in the late 1920s, but was kept to the sidelines due to his close friendship with Piłsudski. Too skilled to be kept in menial duties for long, eventually he served in multiple military delegations and other organisational duties, speaking fluent German, French, English, Italian, Russian and Greek.§!\n\n§YNotes: Suspected to harbour sympathies for the republicans, but is officially apolitical.§!"
+
+ POL_jozef_haller_von_hallenburg: "Józef Haller"
+ POL_jozef_haller_von_hallenburg_army_chief_desc: "§YBorn:§! §LJune 4th, 1873, in Jurczyce, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LJózef Haller von Hallenburg was born into a minor szlachta family near Kraków. Both his father and grandfather took part in the failed Polish uprisings, and he was raised in deeply patriotic and Catholic surroundings. Young von Hallenburg received a top-quality education, going through Lemberg, Hungary and Moravia before attending the Artillery School in Vienna. He served 15 years in the Austro-Hungarian army, but resigned in 1910 because \"the Austrian Artillery had no more to teach to him.\" Instead, Haller dedicated himself to social work in Galicia, organising the Farmers' Association and the Polish section of the Boy Scouts.\n\nHaller joined the Polish Legions and served with valor on the Galician front. His unit broke through the Carpathians through the legendary Legions' Mountain Pass, and assaulted Stanisławów. He was among the most famous and popular commanders who decided to swear allegiance to Kaiser Wilhelm II in the Oath Crisis, which secured him a post in the leadership of the Polish Auxiliary Corps.\n\nHe vehemently protested Poland's fate in the Brest Treaty, but the acquisition of the province of Chełm and failure of the Entente general offensive of 1918 kept him on the German side. By the war's end, he was integrated into the newly-founded Polish Army as divisional commander. Haller was active in associations such as the Scouts, the Red Cross and gained renown as someone who stood up for the veterans, and worked much to ensure secure pensions and respect for them in the Kingdom. Politically, Haller is a supporter of the ChZJN and of National Democratic politics.§!"
+
+ POL_stanislaw_sosabowski: "Stanisław Sosabowski"
+ POL_stanislaw_sosabowski_commander_desc: "§YBorn:§! §LMay 8th, 1892, in Stanisławów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LStanisław Sosabowski was born to a poor working-class family in Stanisławów. During his meagre studies he became involved with activist, pioneering, and scouting organisations, before being drafted into the Austro-Hungarian army in 1913. His baptism of fire was in the great Przemyśl fortress. Sosabowski took part in mountain fighting in Slovakia and was grievously wounded multiple times, receiving all medals available for non-commissioned officers before the end of the war.\n\nAt his own request, Sosabowski was transferred to Lublin and took part in organising the Army of the Kingdom of Poland after being promoted to lieutenant. He continued his studies in the Warsaw Military Academy after the war, and focused on the training of the Polish special forces and later on even took part in German Fallschmirjäger exercises, planning to implement the usage of paratroopers into the Polish special service.§!"
+
+ POL_adam_koc: "Adam Koc"
+ POL_adam_koc_sic_desc: "§YBorn:§! §LJuly 31st, 1891, in Suwałki, Suwałki Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LAdam Koc was born into an aristocratic family from Podlasie. His career in independence activism began during the 1905 revolution as he took part in a school strike - an action that led to Koc being expelled from his school. He joined the National Workers' Union, a pro-Endecja party, and radicalised further during his studies in Kraków. Even though he considered Władysław Studnicki his mentor, Koc nonetheless joined the Union of Active Struggle despite its socialist leanings. He met Józef Piłsudski and the other famous Legionnaires and eventually became Slawek's deputy in the Polish Military Organisation, organising partisan actions behind the lines in the Russian part of Poland.\n\nAs the war continued, Koc wanted desperately to get to the frontline. As it was impossible to cross no-mans-land, he travelled illegally through Finland, and after multiple unexpected problems he made his way to Piłsudski's headquarters and officially joined the Legion. He ended up participating in the occupation of Lublin, but after getting caught for taking part in nationalist agitation among the Lublin Poles, he was sent to the frontline despite his bad eyesight. There, he was badly wounded, but kept organising support for Piłsudski in hospital, and later, in imprisonment.\n\nAfter his release in 1919, Koc befriended Edward Rydz-Śmigły during their brief exile in Galicia before being allowed to return to their homeland. He was elected to the Sejm as a nonpartisan delegate, though he supported the Christian-Democratic Party in many of their initiatives. Also active in many veterans' organisations, Koc became an important figure among the Polish right-wing, often being seen as Rydz-Śmigły's right-hand man.§!\n\n§YNotes: Associate of Edward Rydz-Śmigły.§!"
+
+ POL_leon_berbecki: "Leon Berbecki"
+ POL_leon_berbecki_army_chief_desc: "§YBorn:§! §LJuly 28th, 1874, in Lublin, Lublin Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LThe \"old man of the Polish army\", Leon Berbecki has a military career of over 40 years behind him. His family was patriotic, and Berbecki volunteered for the Russian army, seeing combat in the Far East and rising through the ranks. However, he avoided being conscripted to the Russian army in 1914, and instead joined the Polish Legions and served under Józef Piłsudski. Unlike most of the Legionaries, he agreed to lead the Polish Auxiliary Corps after the Oath Crisis.\n\nBerbecki became the founding father of the Polnische Wehrmacht, being the first military training inspector, and later inspector of the Polish military schools. Countless young officers learned to fear his explosive temperament during his long career of educating the new generation of soldiers. Berbecki's personal views are still very much influenced by Piłsudski, though he has argued that the Oath Crisis shouldn't be seen as Piłsudski's defining factor, but rather his belief that Poland can only be safe in cooperation with other powers, and that ultimately Russia is the existential enemy, not Germany.§!"
+
+ POL_jozef_dowbor_musnicki: "Józef Dowbor-Muśnicki"
+ POL_jozef_dowbor_musnicki_commander_desc: "§YBorn:§! §LOctober 25th, 1867, in Garbów, Lublin Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LJózef Dowbor-Muśnicki's roots can be traced to a Calvinist Lithuanian family who settled Sandomierz in the 17th century. He served thirty years in the Russian Army, seeing action in the Far East and in the Great War. By 1917 he was a Lieutenant General and appointed as the commander-in-chief of the Polish forces in Russia, with the goal of organising the Polish soldiers into their own national units. The Polish Corps in Russia had roughly 64,000 men at their command, making Dowbor-Muśnicki an important warlord in the constantly shifting Russian political situation, where initially the Poles cooperated with Aleksandr Kerensky's government, since it had promised autonomy for Russian minorities.\n\nWhen the October Revolution brought the Bolsheviks to power, Dowbor-Muśnicki tried to tread the path of neutrality, but was thrown into the White side after the Poles resisted all attempts to disarm them. His corps took control of the city of Bobruisk in White Ruthenia, and held against the Bolsheviks until the Brest-Litovsk Treaty was signed and the Bolsheviks retreated from the western governorates. The German army surrounded Bobruisk, and a standoff ensued. Many of Dowbor-Muśnicki's officers sought to fight the Germans to the last, and tried to pull off an unsuccessful coup against the esteemed general. After their failure, Dowbor-Muśnicki surrendered, and was transferred to the newly-established Kingdom of Poland as a prisoner of war alongside his army.\n\nAfter the war, Dowbor-Muśnicki entered the service of the new Polish Army, and became one of its most experienced generals. He has done much to ensure the army's apolitical nature - both by keeping the radicals from promotions, but also by turning a blind eye to old events. In Dowbor-Muśnicki's words, he is a nationalist and only a nationalist, believing that the military men should not hold political opinions. This attitude has made him seem very supportive towards the status quo of the German-backed monarchy, and his enemies in the political extremes like to paint Dowbor-Muśnicki as a coward who has only served foreign masters all his life. His supporters - especially \"the Dowborians\", the men from his corps, venerate him as wise and pragmatic leader, who has saved countless lives.§!"
+
+ POL_zbigniew_antonowicz: "Zbigniew Antonowicz"
+ POL_zbigniew_antonowicz_commander_desc: "§YBorn:§! §LNovember 14th, 1894, in Kalisz, Kalisz Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LZbigniew Antonowicz's military career began in 1915, when he volunteered for the Puławy Legion, which was created as a Russian counterpart to the Polish Legions fighting with the Central Powers. Antonowicz lost an eye when the Legion was covering the Russian retreat over the Nurcem River. Despite his wounds, he managed to bring reinforcement orders to his unit HQ. After a year of recovering, he continued the war regardless. The Legion was later disbanded, and in 1917 he joined Józef Dowbor-Muśnicki's 1st Polish Corps. Alongside the unit, he was eventually integrated into the Polish Army. As an able engineer, Antonowicz's military career has been mostly focused on fortification works.§!"
+
+ POL_mikolaj_boltuc: "Mikołaj Bołtuć"
+ POL_mikolaj_boltuc_commander_desc: "§YBorn:§! §LDecember 20th, 1893, in Saint-Petersburg, Saint-Petersburg Governorate, Russian Empire§!\n§YBackground:§! §LMikołaj Bołtuć graduated from the Pavlovsk Infantry School in 1914 and was sent straight into the firing line. He fought on the Baltic Front and in 1917 as part of the Polish Legion in the Finnish Civil War, which fought against the Finnish Reds mostly on the Karelian Front. After the collapse of the Tsarist regime, Bołtuć joined the 3rd Polish Corps in Russia, mostly operating in Ukraine. In June 1918 the unit capitulated to Austrian forces, and among others Bołtuć was sent to Poland after agreeing to serve in the new royal army. Bołtuć is seen as a dependable and careful leader, and is a personally firm believer of an apolitical and nonreligious military.§!"
+
+ POL_wladyslaw_anders: "Władysław Anders"
+ POL_wladyslaw_anders_commander_desc: "§YBorn:§! §LAugust 11th, 1892, in Błonie, Warsaw Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LWładysław Anders is from an old Reformed Livonian German family. He entered the Russian army in 1910 as a volunteer and sought to serve in the dragoons, being an ardent lover of horse riding. He fought on the Romanian Front, and was wounded multiple time during the Weltkrieg. After the collapse of the Russian Army, Anders joined Józef Dowbor-Muśnicki's 1st Polish Corps in Russia and fought alongside them until the corps surrendered to the Germans at Bobruisk and was eventually integrated into the Polish Army. Like Dowbor-Muśnicki, Anders is staunchly apolitical.\n\nAnders is quite a famous equestrian, and is also an active member of the Military Automobile and Motorcycle Club. To him, cavalry is a rapid weapon, and at a time where cavalry is losing their ability compared to modern weapons, something else must take their place as a rapid, mobile force capable of flanking manoeuvres. This mindset, and his brilliant combat record, brought him the command of the first Polish Armoured Division, formed as part of Heinz Guderian's reforms.§!"
+
+ POL_henryk_dobrzanski: "Henryk Dobrzanski"
+ POL_henryk_dobrzanski_army_chief_desc: "§YBorn:§! §LJune 22nd, 1897, in Jasło, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LHenryk Dobrzański was barely 18 when he abandoned his studies, lied about his age and joined the Polish Legions, where he was a reckless cavalryman and earned a rapid promotion. During the Oath Crisis, he was in the minority of the Legionaries who accepted to swear allegiance to the Kaiser. He proved his loyalty yet again in Rarańcza, where his superior, Józef Haller, ordered the unit to turn against their Austrian allies and escape to the Russian side. Dobrzański and men close to him did not obey, and were imprisoned in a Hungarian prison camp for the mutiny of their comrades. After the war, he returned to the Polish service, and showed a good understanding of manoeuvre warfare and hit-and-run tactics. In civilian life he is a famous horse rider, who has brought Poland international fame in winning numerous prestigious races and competitions.§!"
+
+ POL_juliusz_rommel: "Juliusz Rómmel"
+ POL_juliusz_rommel_commander_desc: "§YBorn:§! §LJune 3rd, 1881, in Grodno, Grodno Governorate, Russian Empire§!\n§YBackground:§! §LJuliusz Rómmel comes from the old, polonised Baltic German family of von Rummel. He followed his family's military tradition and joined the Russian Army, rising rapidly through the ranks during the Russo-Japanese War and on the Austrian Front in the Great War. He led 3rd Polish Corps in Kyïv in 1917, when he surrendered with his men to the Austrian Army, and was swiftly integrated into the new Polish Army. In the last war, he was proved especially skilled in manoeuvre warfare on the wide plains of Ukraine, utilising cavalry and light artillery effectively - though his opponents often paint him as the very example of anachronism who still believes in the strategies of 1917 to fight his wars.§!"
+
+ POL_waclaw_stachiewicz: "Wacław Stachiewicz"
+ POL_waclaw_stachiewicz_commander_desc: "§YBorn:§! §LNovember 19th, 1894, in Lwów, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LWacław Stachiewicz was always more loyal to Edward Rydz-Śmigły than to Józef Piłsudski, having acted as Rydz's close associate already in the Polish Legions. Stachiewicz is an intelligent and well-educated soldier with deep interests in military topology and cartography. As an able officer, he was accepted to the newly-founded Polish army and has primarily been in organisational roles, though his career advance has been slow, as its been hampered by his close association with nationalist circles.§!\n\n§YNotes: Associate of Edward Rydz-Śmigły.§!"
+
+ POL_stanislaw_magnuszewski: "Stanisław Magnuszewski"
+ POL_stanislaw_magnuszewski_commander_desc: "§YBorn:§! §LSeptember 17th, 1888, in Dyneburg, Vitebsk Governorate, Russian Empire§!\n§YBackground:§! §LStanisław Magnuszewski was born in Latvia and from an early age aimed for a military career, graduating from the Alexeyev Military School in Moscow as part of the military engineering corps. Magnuszewski was primarily an organiser and an engineer, rather than a very bold soldier. He rose steadily and eventually served under General Józef Dowbor Muśnicki's corps, and was involved in the dramatic capture of Bobruisk fortress by the Polish Corps. Like the entire unit, he was demobilised and integrated into the Polnische Wehrmacht. During peacetime, he has served as a military teacher.§!"
+
+ POL_antoni_szylling: "Antoni Szylling"
+ POL_antoni_szylling_high_command_desc: "§YBorn:§! §LAugust 31st, 1884, in Płoniawy, Łomża Governorate, Kingdom of Poland, Russian Empire§!\n§YBackground:§! §LAntoni Szylling was forced into a military career after multiple clashes with Tsarist authorities threatened prolonged imprisonment. He was a member of a secret socialist combat organisation, owned numerous illegal weapons, and after a brief arrest, he was drafted into Russian army in lieu of continuing his sentence. Despite this rocky start, he proved to be a decent officer, and was a Major by the time Russia exited the war. After being taken prisoner, Szylling agreed to serve in the new Polish army. He is best described as a cautious, bland tactician, who avoids risks and fulfils orders to the word. Such attitude has served him well in the army, leading to several promotions.§!"
+
+ POL_boleslaw_wieniawa_dlugoszowski: "Bolesław Wieniawa-Długoszowski"
+ POL_boleslaw_wieniawa_dlugoszowski_commander_desc: "§YBorn:§! §LJuly 22nd, 1881, in Maksymówka, Kingdom of Galicia and Lodomeria, Austria-Hungary§!\n§YBackground:§! §LBolesław Wieniawa-Długoszowski is a colourful officer. Doctor, poet, a man whose two passions are women and horses. In his youth, the young scion of the prestigious Wieniawa family would rather associating with the bohemian art scene, than focusing on his studies. His serial relationships and conversion to Protestantism already made him quite infamous in the high echelons of Polish society. In contrast, his military career began similarly to many others'. He joined the Riflemen's Association and followed Józef Piłsudski through the trenches of Eastern Europe as his personal adjutant, where he was decorated with the highest awards for bravery for his daring cavalry operations.\n\nWieniawa-Długoszowski spent some time imprisoned alongside Piłsudski, but was allowed to continue serving in the newly-established Polish Army. He was passionate about cavalry warfare, and acted as trainer and inspector whenever he was not posted abroad as military attaché, or in some kind of trouble - such as being sentenced to five days in prison for duelling. Art remained his true passion, and he arguably spent more time translating literature into Polish, and writing his own works, than he spent in military exercises.§!"
+
+ ### Admirals ###
+ POL_jozef_unrug: "Józef Unrug"
+ POL_jozef_unrug_navy_chief_desc: "§YBorn:§! §LOctober 7th, 1884, in Brandenburg an der Havel, Province of Brandenburg, Kingdom of Prussia, German Empire§!\n§YBackground:§! §LBorn Joseph von Unruh, Unrug was raised as part of the wealthy Prussian aristocracy with a long military tradition. He graduated from the naval college in 1907 and commanded a U-boat in the Weltkrieg. Von Unruh was already before the war disenchanted with modern Germany, and developed a strange form of polonophilia, believing that the Poles had the romanticism and the passion that was lacking in Germany. This was supported by him being partially of Polish descent from his father's side. He disagreed with Germany's new Mahanist doctrine of a blue water navy. As a romanticist disappointed with the Kaiserliche Marine, he was mostly kept in training duties in the Baltic. After the war, he has served in Germany's Baltic Fleet before the tumultuous events of the Second Weltkrieg and the re-establishment of the Polish navy after two centuries. Now Józef Unrug, the admiral has been able to combine two of his passions: sailing and Polish culture.§!"
+
+ POL_jerzy_swirski: "Jerzy Świrski"
+
+ ### Operatives ###
+ POL_krystyna_skarbek: "Krystyna Skarbek"
 
 ### Companies ###
  cop: "COP"
@@ -232,6 +399,10 @@ l_english:
  sto_gdansk: "Stocznia Gdańska"
  huta_stalowa_wola: "HSW SA"
 
+### MIO Traits ###
+ POL_mio_trait_cruiser_tanks: "Cruiser Tanks"
+ POL_mio_trait_multi_role_tank_designer: "Multi-Role Tank Designer"
+
 ### Scripted Loc ###
  POL_supported_party_pps: "Польська соціалістична партія"
  POL_supported_party_national_union: "Національний союз"
@@ -240,10 +411,15 @@ l_english:
 
 ### Traits ###
  POL_effeminate_king: "Ефемерний король"
+ POL_effeminate_king_trait_desc: "§LThe King is noted for his flamboyant jewellery and for keeping the company of artists rather than officers. It does not make him hugely popular with the Poles, but it makes him even less popular with his father, the Kaiser.§!"
  POL_geheimrat: "Гехаймрат"
+ POL_geheimrat_desc: "§LThe King prefers to delegate many matters of state to his royal advisors in the Privy Council. They are often picked to act as experts of the subjects the King has not much interest in, such as military matters.§!"
  POL_geheimrat1: "Гехаймрат"
+ POL_geheimrat1_desc: "§LThe King is known to delegate much power to his prominently German council of officers, industrialists and landowners, putting their interests first and foremost.§!"
  POL_geheimrat2: "Гехаймрат"
+ POL_geheimrat2_desc: "§LThe King's Privy Council is predominantly composed of Austrophile industrialists and magnates, who speak in favour of deeper economic connections to Galicia and the Dual Monarchy.§!"
  POL_geheimrat3: "Гехаймрат"
+ POL_geheimrat3_desc: "§LThe King has surrounded himself with predominantly Polish nobility to advise him in the matters of state, who use their political connections to assist the King.§!"
  POL_patron_of_the_painters: "Покровитель художників"
  POL_figurehead_hohenzollern: "Лялька Гогенцоллернів"
  POL_king_of_the_elite: "Король еліти"
@@ -253,6 +429,7 @@ l_english:
  POL_marshal_of_the_nation: "Маршал нації"
  POL_dictator_of_revolution: "Головнокомандувач"
  POL_the_kaiser_maker: "Виробник Кайзера"
+ POL_last_hohenzollern: "The Last Hohenzollern"
  POL_man_of_united_front: "Людина Об'єднаного фронту"
  POL_revolutionary_nationalist: "Революційний націоналіст"
  POL_lifelong_agitator: "Довічний агітатор"
@@ -261,9 +438,13 @@ l_english:
  POL_opportunistic_negotiator: "Оппортуністичний переговорник"
  KR_peoples_army_theorist: "Теоретик Народної армії"
 
- infantry_equipment_producer_offense_mass: "Виробник піхотного спорядження"
+ INT_polish_exile_trait: "Polish Exile"
+ INT_polish_exile_trait_desc: "§LA member of the Polish socialist underground, forced to flee Poland for their safety and currently serving the Internationale in the hopes of seeing a socialist Poland arise.§!"
 
-### Focuses ###
+ ###############
+ ### Focuses ###
+ ###############
+
  Poland_Focus_Tree: "Дерево фокусів Польщі"
 
  POL_Emergency_Session: "Надзвичайна сесія"
@@ -695,9 +876,12 @@ l_english:
  POL_Hunt_and_Harass: "Полювання та переслідування"
  POL_Hunt_and_Harass_desc: "На відміну від багатьох інших країн, нам пощастило, що ми розташовані на Балтиці – море, яке дає менше переваг гігантським військово-морським силам, що домінують в океанах. Нечисленні шляхи відходу з цього моря роблять його ідеальним для використання рейдерів і підводних човнів, які можуть заманити в пастку і знищити сили, що нічого не підозрюють. Цієї лінії думки дотримуються прихильники більш активної військово-морської позиції, які активно атакуватимуть тих, хто досить дурний, щоб спробувати провести свої судна польським озером."
  POL_Marriage_to_the_Sea: "Шлюб із морем"
- POL_Marriage_to_the_Sea_desc: "Оскільки наш флот продовжує процвітати, багато хто заговорив про стару ідею "шлюбу з морем". - Партнерство, яке новостворений флот, як ми сподіваємося, зможе захистити. Почасти зі щирих стратегічних переконань, а частково як заяви національного престижу, є ті, хто закликає до будівництва флагманського корабля для польського флоту. Корабель, який стоятиме як пам'ятник нашого зв'язку з морем, яке ніколи більше не буде порушено."
+ POL_Marriage_to_the_Sea_desc: "Оскільки наш флот продовжує процвітати, багато хто заговорив про стару ідею \"шлюбу з морем\". - Партнерство, яке новостворений флот, як ми сподіваємося, зможе захистити. Почасти зі щирих стратегічних переконань, а частково як заяви національного престижу, є ті, хто закликає до будівництва флагманського корабля для польського флоту. Корабель, який стоятиме як пам'ятник нашого зв'язку з морем, яке ніколи більше не буде порушено."
 
-### Ideas ###
+ ########################
+ ### National Spirits ###
+ ########################
+
  POL_professional_army: "Професійна армія"
  POL_professional_army_desc: "Основу армії Польщі складають Польські легіони та Польські допоміжні сили, сформовані під австро-німецьким командуванням під час війни. "Непокірні" німецькі офіцери зазвичай прямують до Польщі, де війська використовуються як випробувальний полігон для техніки, в якій німецьке верховне командування не впевнене чи навіть зневажливо ставиться. З цієї причини, незважаючи на численні проблеми країни, Польща зберігає передову військову перевагу, завдяки чому можливості її військ перевершують їх досить скромні кошти."
 
@@ -752,27 +936,8 @@ l_english:
  POL_polish_control: "Незалежна економіка"
  POL_polish_control_desc: ""
 
- POL_issues_at_hand: "Ті, хто залишився позаду"
- POL_issues_at_hand_modifier_tt: "[POL_Issues_MonthlyPopulation]\n[POL_Issues_ConsumerGoods]\n[POL_Issues_MaxEfficiency]\n[POL_Issues_ResearchSpeed]"
  POL_issues_at_hand_modifier: "£pol_idea Ті, хто залишився позаду"
- POL_issues_at_hand_desc: "Польське суспільство бореться з багатьма проблемами – бідністю, нерівністю, неграмотністю, але найбільша проблема – це земля, на якій воно розташоване. Земельна власність у Польщі вкрай нерівномірна – кілька дуже великих маєтків пережили російське панування та контролюють сільськогосподарський ринок, тоді як десятки – можливо, сотні – тисяч дрібних сімейних ферм залишаються у злиднях. Були зроблені обмежені спроби проведення земельної реформи, але вони не принесли результатів, в основному через нерішучість уряду та брак коштів. Демографічний бум останнього десятиліття лише посилив проблеми, наближаючи їх до переломного моменту.\n--------------\n[POL_Issues_MonthlyPopulation]\n[POL_Issues_ConsumerGoods]\n[POL_Issues_MaxEfficiency]\n[POL_Issues_ResearchSpeed]"
-
- POL_issues_at_hand_monthly_population_text: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?POL_issues_at_hand_monthly_population|+=%1]"
- POL_issues_at_hand_monthly_population_text_last: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?POL_issues_at_hand_monthly_population|+=%1]"
- POL_issues_at_hand_monthly_population_tooltip: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: $RIGHT|+=%1$"
-
- POL_issues_at_hand_consumer_goods_text: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?POL_issues_at_hand_consumer_goods|H%0]"
- POL_issues_at_hand_consumer_goods_text_last: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?POL_issues_at_hand_consumer_goods|H%0]"
- POL_issues_at_hand_consumer_goods_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|H%0$"
-
- POL_issues_at_hand_max_efficiency_text: "$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?POL_issues_at_hand_max_efficiency|+=%]"
- POL_issues_at_hand_max_efficiency_text_last: "$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?POL_issues_at_hand_max_efficiency|+=%]"
- POL_issues_at_hand_max_efficiency_tooltip: "$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: $RIGHT|+=%$"
-
- POL_issues_at_hand_research_speed_text: "$MODIFIER_RESEARCH_SPEED_FACTOR$: [?POL_issues_at_hand_research_speed|+=%]"
- POL_issues_at_hand_research_speed_tooltip: "$MODIFIER_RESEARCH_SPEED_FACTOR$: $RIGHT|+=%$"
-
- POL_modifies_issues_at_hand: "Змінить §YТі, хто залишився позаду§! на"
+ POL_issues_at_hand_modifier_desc: "Польське суспільство бореться з багатьма проблемами – бідністю, нерівністю, неграмотністю, але найбільша проблема – це земля, на якій воно розташоване. Земельна власність у Польщі вкрай нерівномірна – кілька дуже великих маєтків пережили російське панування та контролюють сільськогосподарський ринок, тоді як десятки – можливо, сотні – тисяч дрібних сімейних ферм залишаються у злиднях. Були зроблені обмежені спроби проведення земельної реформи, але вони не принесли результатів, в основному через нерішучість уряду та брак коштів. Демографічний бум останнього десятиліття лише посилив проблеми, наближаючи їх до переломного моменту."
 
  POL_coalition_broken: "Коаліція розбита"
  POL_labour_strikes: "Широкомасштабні страйки!"
@@ -952,8 +1117,10 @@ l_english:
  POL_land_issue_solved: "Модернізоване землекористування"
  POL_land_reform_tt: "Ми почнемо §Gреформування§! землекористування."
  POL_land_reform_change_tt: "Наша нинішня земельна реформа стає радикальнішою."
+ POL_redistribute_land_ongoing: "§Y$POL_redistribute_land$§! is currently active in another state"
  POL_limited_reform_tt: "Більш обмежену реформу буде легше здійснити, але вона, природно, буде менш ефективною."
  POL_radical_reform_tt: "Ретельна земельна реформа вимагатиме набагато більше роботи, вона також буде більш ефективною."
+ POL_radical_reform_modifier: "Radical Land Reforms"
  POL_Construct_Agricultural_Infrastructure: "Будівництво сільськогосподарської інфраструктури"
  POL_Rural_Credit_Programme: "Програма сільського кредитування"
  POL_agricultural_infra: "Завершене будівництво сільськогосподарської інфраструктури"
@@ -961,7 +1128,7 @@ l_english:
 
 ##Investigations
  POL_Investigations: "Н.К.Б."
- POL_Investigations_desc: "Після того, як так звана "Краківська змова" показала справжні, тривожні масштаби прихованих контактів з іноземними державами та радикальними політичними рухами навіть серед поміркованих політиків, почалася ціла низка масштабних розслідувань.\n\nУ Сеймі було проведено спеціальний закон, що дозволяє створення §YНаціональної комісії безпеки§! - Komisja Obrony Narodowej, на чолі із сумнозвісним міністром Феліціаном Славоєм Складковським. Цей орган уповноважений функціонувати §Rдо наступних виборів.§!"
+ POL_Investigations_desc: "Після того, як так звана \"Краківська змова\" показала справжні, тривожні масштаби прихованих контактів з іноземними державами та радикальними політичними рухами навіть серед поміркованих політиків, почалася ціла низка масштабних розслідувань.\n\nУ Сеймі було проведено спеціальний закон, що дозволяє створення §YНаціональної комісії безпеки§! - Komisja Obrony Narodowej, на чолі із сумнозвісним міністром Феліціаном Славоєм Складковським. Цей орган уповноважений функціонувати §Rдо наступних виборів.§!"
  POL_ongoing_investigation: "Розслідування триває."
  POL_investigate_unions: "Розслідувати діяльність профспілок"
  POL_investigate_unions_desc: ""
@@ -986,26 +1153,8 @@ l_english:
  POL_intel3_tt: "§gУсі розслідування коштуватимуть на 30£GFX_pol_power менше.§!"
 
 ### Black Monday
- POL_black_monday: "Чорний Понеділок"
- POL_black_monday_modifier: "£pol_idea Чорний Понеділок"
- POL_black_monday_desc: "Крах Берлінського фондового ринку в Німеччині призвів до таких же катастрофічних наслідків у Польщі. По всій країні німецькі підприємства пішли або збанкрутували, тоді як наш промисловий сектор, що зароджується, повністю зупинився. Для виходу з цієї кризи потрібен час та значні зусилля.\n--------------\n[POL_BM_ConsumerGoods]\n[POL_BM_Stability]\n[POL_BM_ConstructionSpeed]\n[POL_BM_FactoryOutput]"
-
- POL_black_monday_consumer_goods_text: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?POL_black_monday_consumer_goods|H%0]"
- POL_black_monday_consumer_goods_text_last: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?POL_black_monday_consumer_goods|H%0]"
- POL_black_monday_consumer_goods_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|H%0$"
-
- POL_black_monday_stability_text: "$MODIFIER_STABILITY_FACTOR$: [?POL_black_monday_stability|+=%]"
- POL_black_monday_stability_text_last: "$MODIFIER_STABILITY_FACTOR$: [?POL_black_monday_stability|+=%]"
- POL_black_monday_stability_tooltip: "$MODIFIER_STABILITY_FACTOR$: $RIGHT|+=%$"
-
- POL_black_monday_construction_speed_text: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?POL_black_monday_construction_speed|+=%]"
- POL_black_monday_construction_speed_text_last: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?POL_black_monday_construction_speed|+=%]"
- POL_black_monday_construction_speed_tooltip: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%$"
-
- POL_black_monday_factory_output_text: "Обсяг заводського виробництва: [?POL_black_monday_factory_output|+=%]"
- POL_black_monday_factory_output_tooltip: "Обсяг заводського виробництва: $RIGHT|+=%$"
-
- POL_modifies_black_monday: "Змінить §YЧорний Понеділок§! на"
+ POL_black_monday_modifier: "Чорний Понеділок"
+ POL_black_monday_modifier_desc: "Крах Берлінського фондового ринку в Німеччині призвів до таких же катастрофічних наслідків у Польщі. По всій країні німецькі підприємства пішли або збанкрутували, тоді як наш промисловий сектор, що зароджується, повністю зупинився. Для виходу з цієї кризи потрібен час та значні зусилля.\n--------------\n[POL_BM_ConsumerGoods]\n[POL_BM_Stability]\n[POL_BM_ConstructionSpeed]\n[POL_BM_FactoryOutput]"
 
  POL_Public_Work_Programmes: "Програми громадських робіт"
  POL_Cooperative_Subsidies: "Кооперативні субсидії"
@@ -1025,11 +1174,11 @@ l_english:
  POL_Economy_of_the_Kingdom: "Польська економіка"
  POL_Economy_of_the_Kingdom_desc: "Польща є великим споживчим ринком із великою кількістю робочої сили. Це робить країну привабливою для німецького та австро-чеського бізнесу. Угоди про вільну торгівлю з ними принесли Польщі процвітання, але також зростання нерівності та зниження контролю над економікою.\n\n§YНа додаток до прямих наслідків, контроль над менш ніж 50% економіки матиме наслідки для Польщі, якщо вона повстане проти Німеччини.§!"
 
- ger_eco_icon_value: "[?POL.POL_GER_influence|0H]"
+ ger_eco_icon_value: "[?POL.POL_GER_influence|0H]§Y%§!"
  ger_eco_full_influence_breakdown: "[ROOT.GetNameWithFlag] має [?POL.POL_GER_influence|0]% §Yекономічного впливу§!\n"
- aus_eco_icon_value: "[?POL.POL_AUS_influence|0H]"
+ aus_eco_icon_value: "[?POL.POL_AUS_influence|0H]§Y%§!"
  aus_eco_full_influence_breakdown: "[ROOT.GetNameWithFlag] має [?POL.POL_AUS_influence|0]% §Yекономічного впливу§!\n"
- pol_eco_icon_value: "[?POL.POL_influence|0H]"
+ pol_eco_icon_value: "[?POL.POL_influence|0H]§Y%§!"
  pol_eco_full_influence_breakdown: "[ROOT.GetNameWithFlag] має [?POL.POL_influence|0]% §Yекономічного впливу§!\n"
 
  pol_eco_texticon: "[ROOT.GetFlag] §Y5%§!"
@@ -1038,9 +1187,15 @@ l_english:
  pol_ger_eco_texticon: "[GER.GetFlag] §Y5%§!"
  pol_ger_eco_texticon_blocked: "[GER.GetFlag] §R5%§!"
  pol_ger_eco_texticon_tooltip: "Це коштує $pol_ger_eco_texticon_blocked$ економічного впливу для виконання цього рішення."
+ pol_ger_eco_texticon_ten: "[GER.GetFlag] §Y10%§!"
+ pol_ger_eco_texticon_ten_blocked: "[GER.GetFlag] §R10%§!"
+ pol_ger_eco_texticon_ten_tooltip: "Це коштує $pol_ger_eco_texticon_ten_blocked$ економічного впливу для виконання цього рішення."
  pol_aus_eco_texticon: "[AUS.GetFlag] §Y5%§!"
  pol_aus_eco_texticon_blocked: "[AUS.GetFlag] §R5%§!"
  pol_aus_eco_texticon_tooltip: "Це коштує $pol_aus_eco_texticon_blocked$ економічного впливу для виконання цього рішення."
+ pol_aus_eco_texticon_ten: "[AUS.GetFlag] §Y10%§!"
+ pol_aus_eco_texticon_ten_blocked: "[AUS.GetFlag] §R10%§!"
+ pol_aus_eco_texticon_ten_tooltip: "Це коштує $pol_aus_eco_texticon_ten_blocked$ економічного впливу для виконання цього рішення."
 
  POL_influence_decreasing: "[POL.GetFlag] економічний вплив знижується!"
  POL_GER_influence_decreasing: "[GER.GetFlag] економічний вплив знижується!"
@@ -1123,8 +1278,6 @@ l_english:
  POL_crossroads_resources_text: "$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?POL_crossroads_resources|+=%]"
  POL_crossroads_resources_tt: "$MODIFIER_LOCAL_RESOURCES_FACTOR$: $RIGHT|+=%$"
 
- POL_modifies_crossroads_tt: "Змінить §YПерехрестя Європи§! на"
-
 #German-Polish decisions
 
 #Polish-Austrian interactions
@@ -1179,7 +1332,7 @@ l_english:
  POL_nationalist_stop: "§[POL_ruling_party]Загроза перевороту минула, і націоналістичне повстання вже неможливе.§!"
 
  POL_revolution_preparation: "§tПеребуваючи у стані війни з Інтернаціоналом, хвилювання переростуть у революцію, коли\n1) підтримка соціалістів становитиме не менше 25%,\n2) Інтернаціонал перейде Рейн, або підтримка соціалістів становитиме понад 50%§!"
- POL_revolution_preparation_SOV: "§tПід час війни з Інтернаціоналом хвилювання переростуть у революцію, якщо\n1) підтримка соціалістів становитиме не менше 25%,\n2) Інтернаціонал перейде Рейн, Східний фронт Рейхспакту зазнає поразки, або підтримка соціалістів становитиме понад 50%§!"
+ POL_revolution_preparation_EFTI: "§tПід час війни з Інтернаціоналом хвилювання переростуть у революцію, якщо\n1) підтримка соціалістів становитиме не менше 25%,\n2) Інтернаціонал перейде Рейн, Східний фронт Рейхспакту зазнає поразки, або підтримка соціалістів становитиме понад 50%§!"
  POL_revolution_ready: "§tРеволюція розпочнеться!§!"
  POL_coup_preparation: "§nПід час війни, після початку Вельткріга, хвилювання переростуть у повстання, якщо\n1) підтримка націоналістів становитиме не менше 25%,\n2) Східний фронт Рейхспакту зазнає поразки, або підтримка націоналістів становитиме понад 50%§!"
  POL_coup_ready: "§nПовстання розпочнеться!§!"
@@ -1231,7 +1384,6 @@ l_english:
  POL_invite_ally: "Союз з [FROM.GetName]"
  POL_found_slavic_union: "Декларація Слов'янського союзу"
  POL_add_to_union_tt: "Активує рішення щодо інтеграції @LIT @CZE @SLO @UKR @WHR у великий Західнослов'янський Союз."
- POL_SLAVIC_UNION: "Легіон слов'янських народів"
  POL_war_warning_tt: "§RЦе може спровокувати війну з Росією чи навіть з Інтернаціоналом!§!"
 
  POL_Marshals_Cult: "Культ першого маршала"
@@ -1289,21 +1441,18 @@ l_english:
 # Expansion category
  POL_expansion: "Територіальна експансія та інтеграція"
 
- POL_normal_war_goals: "Атакувати [FROM.GetName]"
  POL_ultimatum_to_czechia: "Ультиматум до [FROM.GetName]"
- POL_integrate_state: "Інтегрувати [From.GetName]"
  POL_establish_claim: "Вимагати [From.GetName]"
  POL_claim_cost_tt: "Збільшує вартість подальших претензій на §R8§!"
  POL_PLC_decisions_tt: "Розблокує рішення щодо §Yвстановленню претензій§! на окупованій російській території. Ви отримаєте національний дух залежно від масштабу ваших претензій."
  POL_intermarium_tt: "§CЩоб Україна і Білорусь могли приєднатися до Річі Посполитої, претензії мають бути встановлені шляхом прийняття рішень або силової анексії.§!"
- POL_owns_36_states: "Володіє щонайменше 36 регіонами"
+ POL_owns_25_states: "Володіє щонайменше 25 регіонами"
  POL_chjena_nonatpop_tt: "§RГілка фокуса 'Виняткова особа' буде заблокована.§!"
 
  POL_economic_restructuring_1: "Націоналізація економіки"
  POL_economic_restructuring_2: "Організація економіки трудящих"
 
 ### Tooltips ###
- POL_after_360_days: "Через §Y360§! днів:"
  POL_literacy_reforms_tooltip: "Зменшення тривалості \"§YКампанії з поширення грамотності у сільській місцевості§!\" на §Y180§! днів."
  POL_endecja_collaborates: "Росія не підтримує націонал-демократів!"
 
@@ -1329,26 +1478,27 @@ l_english:
  POL_war_required: "§YЦей шлях вимагає, щоб Німеччина була відвернена великою війною.§!"
  POL_trade_finished: "$has_completed_decision$$POL_renegotiate_economic_treaties$§!"
  POL_ongoing_exercise: "Не має постійних військових навчань."
- POL_INTERMARIUM: "Міжмор'я"
  POL_scales_with_eco_tt: "Ефект збільшується з @POL економічним впливом."
- kr_slavic_union_member: "Підписанти Слов'янського союзу"
+ slavic_union_member: "Підписанти Слов'янського союзу"
  POL_slavic_union_member: "Підписанти Слов'янського союзу"
  POL_no_parasol: "§RЦей шлях закритий, якщо Росія є соціалістичною.§!"
 
  POL_Dawn_of_Progress_effect_tooltip_wargoals: "§gСтворюватиме цілі війни проти недемократичних сусідів, якщо Польща не перебуває у союзі.§!"
 
+ POL_is_gengov: "Is the §Y$POL_gengov$§!"
+ POL_is_gengov_NOT: "Is not the §Y$POL_gengov$§!"
+
 ### Bookmark ###
  POL_KR_gathering_storm_desc: "Акт 5 листопада, можливо, вперше за понад сто років наніс польську державу на карту, але не все так добре. Незважаючи на те, що в перші роки існування держави стабільна економіка зростала, смерть Пілсудського у 1935 році висвітлила непопулярність Августа IV, а республіканські, націоналістичні та соціалістичні сили почали агітувати проти його уряду.\n\nКоли над Європою згущуються хмари, а німецька гегемонія, здається, починає згасати, мало хто знає, що чекає на королівство Августа IV..."
 
 ### Intro Screen ###
+ POL_country_intro_background: "GFX_POL_intro"
  POL_country_intro_header: "Королівство Польща"
  POL_country_intro_content: "Два десятиліття тому тисячі поляків боролися і вмирали за Центральних Держав. Ця бурхлива співпраця з двома з трьох колишніх держав-розділювачів призвела до створення Королівства Польського, держави, яка від самого початку була компромісом, вирізаним із колишньої російської території. Надії на об'єднання з австрійською Польщею були відкинуті на самому початку, оскільки Німеччина прагнула відторгнути Польщу від австрійців та забезпечити собі вільне правління над так званою "Гренцмарком.". Німці навіть анексували так звану "Польську прикордонну смугу" з метою подальшої колонізації, але її повернули після падіння диктатури Людендорфа, залишивши поляків у сумнівах щодо намірів Німеччини. Від первісних німецьких амбіцій залишилося лише кілька речей - хитке правління короля Августа IV та професійний, навчений пруссаками "Польський вермахт.".\n\nПопри все, Королівство вижило і зуміло знайти відносне процвітання. Будучи раніше найбільш промислово розвиненим регіоном Російської Імперії, Польща отримала велику вигоду зі свого членства в Міттельєвропі та економічного співробітництва зі своїми сусідами, оскільки німецькі та австро-угорські інвестиції принесли польським містам робочі місця та економічне зростання. Помірковано ліберальна політика короля Августа IV та його готовність дотримуватись польської конституції завоювали йому певну підтримку протягом багатьох років, але під поверхнею поглиблюються серйозні проблеми.\n\nПольща, як і більшість країн Східної Європи, як і раніше, залишається аграрною країною. Розрив між зростаючими містами та сільською місцевістю, що в основному належить німецькій та польській знаті, з роками тільки збільшувався, формуючи масу безземельної, безробітної бідноти, яка прагне змін. Ці соціальні проблеми підживлюють політичну радикалізацію, що відбувається з обох боків політичного спектра. Традиційно сильні польські ліві добре організовані та вступили в союз із ліберально-аграрними партіями, закликаючи до демократизації, земельної реформи і навіть до республіки. Соціалістичні організації постійно конфліктують із ультраправими групами, які черпають свою підтримку в антинімецьких та антисемітських настроях. Усі три антимонархічні фракції сходяться в одному: знищення королівства та усунення монарха Гогенцоллерна... Навіть якщо для цього доведеться пролити багато крові."
 
  POL_country_intro_header_1: "Шахова дошка двох кайзерів"
  POL_country_intro_content_1: "Польща набагато менше перебуває під впливом Німеччини, ніж може здатися на перший погляд – незважаючи на те, що король є сином Вільгельма II, між ними мало загальної симпатії. Август IV, аматор мистецтва та культури, залишив більшу частину управління державою своєму уряду та його Гехеймрату, що складається з німецьких, австрійських та польських діячів, таких як промислові магнати та військові. Саме у цій раді, домагаючись прихильності короля, розігруються політичні інтриги. Найвпливовіший голос на даний момент належить Вольфгангу фон Крісу, військовому з великим досвідом і який часто фігурує як гарант німецьких військових інтересів у Польщі.\n\nФон Кріс очолює Німецьку Військову Місію у Польщі, завдання якої входить нагляд і навчання польської армії. Він став значною мірою проектом Хайнца Гудеріана, який повільно формує польську армію відповідно до свого бачення сучасних механізованих елітних сил. Німеччина також володіє KKWP, державною залізничною компанією, забезпечуючи її зв'язок із східними державами.\n\nПоляки постійно покладалися на підтримку Австрії, яка тримала німців на відстані. Дунайські держави мають помітний вплив на суспільне життя Польщі завдяки зв'язкам шляхти з австрійською аристократією, чеським інвестиціям у польську промисловість та проавстрійській риториці багатьох ліберальних політиків. Не секрет, що Австрія активно прагне зміцнити свої позиції в Польщі, і багато поляків вірять, що вона нарешті позбавить їх владної Німеччини. Берлін, однак, залишається насторожим, оскільки стратегічне становище Польщі між ними та Сходом є питанням національної безпеки."
  
- POL_guide: "§MCircle Kingdom§! (§mMarket Liberal§!)\n£white_dot In the 1938 election, have over 50% combined monarchist and nationalist support with monarchists being higher than nationalists.\n\n§MMKP-SP Kingdom§! (§gAuthoritarian Democrat§!)\n£white_dot In the 1938 election, appoint Studnicki.\n£white_dot Ensure that mass protests do not organise after the election.\n\n§MChjena Kingdom§! (§cSocial Conservative§!)\n£white_dot In the 1938 election, have over 50% combined monarchist and nationalist support with nationalists being higher than monarchists.\n\n§MPPS / PP Republic§! (§lSocial Liberal§! / §SSocial Democrat§!)\n£white_dot In the 1938 election, have over 50% combined republican and socialist support and appoint either above party.\n£white_dot Have the government dismissed by taking the focus Shackle the Senate or Curtail the Geheimrat\nWait for the Organise Mass Protests mission to time out, and do not send in Guderian to secure the capital.\n\n§MChjena Republic§! (§cSocial Conservative§!)\n£white_dot Either:\n£white_dot As Social Liberal or Social Democrat republic, pass Secularisation while nationalist support is higher than republican.\n£white_dot In the national populist uprising, fail the mission to control the Sejm.\n\n§MNationalists - OZN§! (§PPaternal Autocrat§!)\n£white_dot As a Social Conservative monarchy or republic, start Operation Parasol during the Weltkrieg.\n\n§MSocialists - ZSP and SZW / PPS - L§! (§rSyndicalist§! / §RRadical Socialist§!)\n£white_dot Have over 50% socialist support during the Weltkrieg, and the mission Revolutionary Mood Spreading will turn into an uprising.\n£white_dot Don't give Zakrzewski emergency powers.\n\n§MSocialists - ZSP Radicals§! (§oTotalist§!)\n£white_dot Same as above, but give Zakrzewski emergency powers and keep them.\n\n§MNationalists - ON§! (§NNational Populist§!)\n£white_dot Have over 50% nationalist support during the Weltkrieg as a non-Social Conservative Poland, and the mission Anti-German Agitation will turn into an uprising.\n£white_dot Do not fail the consolidation missions."
-
  POL_country_intro_header_2: "Республіканський рух"
  POL_country_intro_content_2: "Так званий польський республіканський рух складається з ліволіберальних та центристських радикалів, що загалом примикають до опозиційного блоку "Центролев", формально відомого як Союз Захисту Права та Свободи Народу. Хоча партії Центролев, ПНП і ПСП, офіційно визнають монархію і навіть формували уряд у минулому, не секрет, що багато хто в їхніх лавах хотів би бачити скидання німецького короля і проголошення нової, прогресивної республіки. Вони є найбільшим і найвпливовішим антимонархічним блоком, який користується великою підтримкою як у самій Польщі, так і за галицьким кордоном, де їхня популярність ще вища серед галицьких поляків, які розглядають республіканську справу як шлях до об'єднання польського народу.\n\nНа щастя для нас, республіканський рух є найменш войовничим із наших внутрішніх розбіжностей, і його прихильники вірять у більш пасивний опір та мирні протести. Вони також готові до певної міри працювати в рамках системи, поки король продовжує йти шляхом конституціоналізму та демократії. Однак, якщо ми застосуємо проти них жорсткі заходи, більш ніж ймовірно, що багато з їх прихильників ще більше радикалізуються і звернуться до екстремістських ідей."
 
@@ -1357,6 +1507,8 @@ l_english:
 
  POL_country_intro_header_4: "Національний комітет"
  POL_country_intro_content_4: "Польський Національний Комітет, створений Антантою як маріонетковий уряд Польщі під час Вельткрігу, не дав нам спокою навіть через стільки років. Їхній лідер, Роман Дмовський, сам перебуває у вигнанні в Москві, але, як і раніше, має величезний вплив на польських правих. Навіть зараз, коли його націонал-демократи відтіснені на політичну узбіччя, не секрет, що багато хто, як і раніше, відчуває до нього відданість.\n\nВкрай правих можна розділити на дві фракції - консервативних націоналістів, які готові неохоче співпрацювати з нами, але без вагань ударять нам у спину, якщо це означатиме повну незалежність Польщі, і радикальних націоналістів, таких як ONR.\n\nЦі ультранаціоналісти відповідальні за десятки нападів на наш уряд та своїх політичних ворогів, перейнявши свою тактику у східних дикунів, таких як Кодряну та Савінков. Вони затяті антинімецькі, антисемітські, антиістеблішментські і не піддаються викупленню. Проте помірніші націоналісти можуть бути задоволені, якщо тільки наша політика доведе, що ми не приносимо католицьку, консервативну природу Польщі в жертву примхам соціалістів та лібералів."
+
+ POL_guide: "§MMKP Kingdom§! (§mMarket Liberal§!)\n£white_dot In the 1938 election, have over 50% combined monarchist and nationalist support with monarchists being higher than nationalists.\n\n§MMKP-SP Kingdom§! (§aAuthoritarian Democrat§!)\n£white_dot In the 1938 election, appoint Studnicki.\n£white_dot Ensure that mass protests do not organise after the election.\n\n§MChjena Kingdom§! (§cSocial Conservative§!)\n£white_dot In the 1938 election, have over 50% combined monarchist and nationalist support with nationalists being higher than monarchists.\n\n§MPPS / PSL Republic§! (§lSocial Liberal§! / §SSocial Democrat§!)\n£white_dot In the 1938 election, have over 50% combined republican and socialist support and appoint either above party.\n£white_dot Have the government dismissed by taking the focus Shackle the Senate or Curtail the Geheimrat\nWait for the Organise Mass Protests mission to time out, and do not send in Guderian to secure the capital.\n\n§MChjena Republic§! (§cSocial Conservative§!)\n£white_dot Either:\n£white_dot As Social Liberal or Social Democrat republic, pass Secularisation while nationalist support is higher than republican.\n£white_dot In the national populist uprising, fail the mission to control the Sejm.\n\n§MNationalists - OZN§! (§PPaternal Autocrat§!)\n£white_dot As a Social Conservative monarchy or republic, start Operation Parasol during the Weltkrieg.\n\n§MSocialists - ZSP and SZW / PPS - L§! (§rSyndicalist§! / §RRadical Socialist§!)\n£white_dot Have over 50% socialist support during the Weltkrieg, and the mission Revolutionary Mood Spreading will turn into an uprising.\n£white_dot Don't give Zakrzewski emergency powers.\n\n§MSocialists - ZSP Radicals§! (§oTotalist§!)\n£white_dot Same as above, but give Zakrzewski emergency powers and keep them.\n\n§MNationalists - ON§! (§nNational Populist§!)\n£white_dot Have over 50% nationalist support during the Weltkrieg as a non-Social Conservative Poland, and the mission Anti-German Agitation will turn into an uprising.\n£white_dot Do not fail the consolidation missions."
 
 ### Events ###
 
@@ -1886,7 +2038,8 @@ l_english:
  poland.204.c: "Максиміліан Малиновський – надійна альтернатива."
 #
  poland.205.t: "Гудеріан повертається із Польщі"
- poland.205.d: "Офіцери військової місії у Польщі повернулися до Німеччини, головним серед них був Хайнц Гудеріан. Невелика група німців змогла таємно вивезти себе за підтримки кількох лоялістів, коли революціонери захопили більшу частину країни. Тепер, на німецькій землі, Гудеріан заприсягся відплатити за приниження та зраду армії, яку він допомагав навчати протягом багатьох років."
+ poland.205.d.revolt: "Офіцери військової місії у Польщі повернулися до Німеччини, головним серед них був Хайнц Гудеріан. Невелика група німців змогла таємно вивезти себе за підтримки кількох лоялістів, коли революціонери захопили більшу частину країни. Тепер, на німецькій землі, Гудеріан заприсягся відплатити за приниження та зраду армії, яку він допомагав навчати протягом багатьох років."
+ poland.205.d.chill: "The officers of the military mission in Poland have returned to Germany, Heinz Guderian and Wolfgang von Kries being the most noteworthy ones. They have spent the past years in [POL.GetNameDef] as military advisors and organisers for the King August IV, and it is largely their achievement that the Polish Army boasts being the best-disciplined force out of our eastern Slavic allies. Now their work is complete, and Guderian is offering his services to the Fatherland once more."
  poland.205.a: "Ми мали знати..."
 #
  poland.206.t: "Перший президент"
@@ -1895,6 +2048,7 @@ l_english:
  poland.206.b: "Станіслав Войцеховський."
  poland.206.c: "Ян Возницький."
  poland.206.e: "Габріель Нарутович."
+ poland.206.f: "Вінцентій Вітос."
  
  poland.207.t: "Крах дуалістичної монархії"
  poland.207.d: "Руйнування імперії Габсбургів завдало удару по Польщі. Багато бізнес-контрактів та дипломатичних договорів було анульовано за одну ніч, а проавстрійський напрямок нашої політики опинився під загрозою зриву. Побачимо, як виглядатиме нова Центральна Європа."
@@ -1911,9 +2065,11 @@ l_english:
  #for GER:
  poland.219.t: "Декларація Республіки Польща"
  poland.219.d: "Катастрофа обрушилася додому Гогенцоллернов - революція у Польщі скинула короля Августа IV і проголосила республіку, очолювану селянами. Багато хто розглядає революцію як потужний удар по престижу Німеччини, що, безсумнівно, посилить хвилювання на Сході – і змусить нас виглядати слабкими перед росіянами. Ще більшим приниженням є те, що новонароджена Польська Республіка підтримується Австрією і незабаром може приєднатися до їхньої сфери.\n\nЯструби в нашому уряді закликають до сміливих дій - навіть відновлення монархії силою зброї. Прагматичніші державні діячі визнають, що було б даремно підтримувати ще одну непопулярну монархію в Польщі - але їх новий уряд можна було б змусити прийняти ті самі договори, що й Королівство. Можливо, це також розглядатиметься як поблажливість до поляків, що дозволить нам отримати там таку необхідну підтримку."
+ poland.219.d2: "Catastrophe has struck the House of Hohenzollern - a revolution in Poland has overthrown King August IV and declared a republic, led by peasants. Many see the revolution as a massive blow to German prestige, and will no doubt increase unrest in the East - and make us look weak in front of the Russians.\n\nThe hawks in our government are calling for bold moves - the restoration of the monarchy through force of arms, even. More pragmatic statesmen do admit that it would be a wasted effort to prop up another unpopular monarchy in Poland - but their new government could be coerced to accept all the same treaties as the Kingdom had. Perhaps it would also be seen as lenience towards the Poles, winning us some hard-needed support there."
  poland.219.a: "Це обурливо! Август IV має бути відновлений!"
  poland.219.b: "Поки вони виконують свої договори, ми їх терпітимемо."
  poland.219.c: "Не звертайте на них уваги. Вони незабаром самі попросяться до нас."
+ POL_loyalty_secure_tt: "§GThanks to our economic influence, the Polish Republic is assured to accept re-joining our alliance.§!"
 #
  poland.220.t: "Ультиматум із Німеччини"
  poland.220.d: "Вимоги Німеччини прості: повне повернення статус-кво. Король Август IV буде повернуто на трон, будуть призначені нові вибори, а особи, причетні до планування повстання, будуть засуджені та засуджені відповідно до чинних законів Королівства.\n\nНа практиці це означало б повністю повернути час назад – і будь-яка людина в Польщі може зрозуміти, що це марна спроба. Ця вимога розглядається як вирішальний спосіб для Берліна розпочати переговори, не здавшись надто компромісною чи слабкою.\n\nНаша відповідь може бути такою..."
@@ -2110,6 +2266,10 @@ l_english:
  poland.258.d: "У рамках розділу колишнього Королівства Галичина-Володимирія було вирішено, що регіон Закарпаття буде включений до складу [ROOT.GetAdjective]их земель."
  poland.258.a: "Чудово!"
 
+ poland.259.t: "An Almost Lawful Coup"
+ poland.259.d: "The day is here. The plan is in action. As agreed, the Sejm and the Council of Ministers leveraged their power to bypass ordinary parliamentary process, and granted General Edward Rydz-Śmigły supreme power to 'take action to ensure inviolability of Polish territory and the constitution.' In his role as the Chief of State, the general was essentially handed executive power by the Sejm. Almost immediately, Warsaw was put under martial law to ensure smooth transfer of power. In combined operation by the military and the police, potential dissidents or German spies were arrested in droves. A new body of Council of State was formed mainly from conservative politicians and military men to advise Rydz."
+ poland.259.a: "Free, finally."
+
  #for POL:
  poland.260.t: "Сецесія Великої Польщі"
  poland.260.d: "У той час як німецькі армії зазнають поразки, а їхні численні вороги просуваються все далі, поляки східних територій, так званої "Великої Польщі", скористалися моментом і заявили про свій намір відокремитися від Німецької імперії. Верховна народна рада обрала своїм головою силезського поляка Войцеха Корфанти, людину, відому як невтомний захисник польської культури на основі християнських принципів. Поради взяли під контроль багато прикордонних регіонів за допомогою імпровізованих ополчень.\n\nОпір був незначним, як через повну дезорганізацію німецької армії, так і через звернення Войцеха Корфанти до німців, особливо до німецьких католиків, де він представив конфлікт як наднаціональну християнську справу, де німці та поляки обидва перебувають у праведному хрестовому поході проти синдикалістів.\n\nБагато німців у Познані, Данцизі та інших прикордонних регіонах висловили свою підтримку ідеї Корфанти. Зрештою, якщо Німеччина розвалюється, чи не краще шукати притулку на сході, аніж жити під владою тиранічних синдикалістів?"
@@ -2143,12 +2303,14 @@ l_english:
  poland.270.c: "Ян Возницький."
  poland.270.e: "Юзеф Хацінський."
  poland.270.f: "Габріель Нарутович."
+ poland.270.g: "Вінцентій Вітос."
  poland.271.c: "Мечислав Михалович."
  poland.272.a: "Адам Хадзинський."
  poland.272.b: "Владислав Грабський."
  poland.272.c: "Євстафій Сапега."
  poland.272.e: "Юзеф Хацінський."
  poland.272.f: "Войцех Корфанти."
+ poland.272.g: "Вінцентій Вітос."
 
 #Truce event chain
  poland.273.t: "Польська делегація з питань миру"
@@ -2195,20 +2357,10 @@ l_english:
  poland.281.d: "Воно почалося з вимоги уряду [RUS.GetLeader] прибрати колабораціоністів та радикальних соціалістів з урядових та громадських постів, інакше мирні відносини з Москвою "не можуть бути прийняті як належне". Поставлені у безвихідь, нові вибори були організовані за бажанням Росії.\n\nУ цій новій ситуації панували націонал-демократи. Правлячі партії воєнного часу були засуджені за всі смерті і руйнування, викликані війною, а політики Ендеції представляли себе як єдиний розумний варіант, здатний захистити Польщу від соціалізму, що настає із заходу, і забезпечити співпрацю з Росією.\n\nНа гнітючих виборах, що проходили під величезним іноземним тиском, Національна партія здобула переконливу перемогу, а Адам Добошинський був обраний президентом із сильними виконавчими повноваженнями. Незважаючи на видимість демократичного переходу влади, усім ясно, що вибори під дулами автоматів - це не демократія, а лише узаконений переворот."
  poland.281.a: "Довіряти Москві було помилкою."
 
- poland.283.t: "Відень збожеволів"
- poland.283.d: "Після нищівного ультранаціоналістичного перевороту проти імператора Карла, високоавторитарний і німецький шовіністичний режим закріпив владу у Відні. Це спричинило велике заворушення на землях подвійної монархії, особливо в слов’янських коронних землях, де зараз панують повстанські настрої. Ми не можемо з чистим сумлінням підтримувати наш союз із Віднем за цих обставин."
- poland.283.a: "Повідомте Відень про наше рішення..."
- poland.283.b: "...і запитайте, чи бажають галичани приєднатися до нас."
-
  poland.284.t: "Німеччина наближається до альянсу"
  poland.284.d: "Тепер, коли ми опинились неприєднаними, Німеччина швидко знову накинулася на нас. Хоч і більш ввічливим тоном, ніж минулого разу, вони знову запропонували нам військовий союз. З нинішньою нестабільністю в Дунайському регіоні це принаймні захистить нас від, можливо, ворожих дій австрійського ультранаціоналістичного режиму. Однак такий союз дійсно нагадує багатьом підкорення Польщі під Німеччиною під час правління Августа IV, і тому також пропонувалися більш відкриті відносини. Здається, німці теж це зрозуміли і готові прийняти простіший Договір про дружбу."
  poland.284.a: "Об’єднаймося з ними — цього разу з власної волі."
  poland.284.b: "Тримаймо німців на відстані витягнутої руки."
-
- poland.285.t: "Приєднатися до Польщі?"
- poland.285.d: "Польський уряд звернувся до нас із пропозицією остаточно об’єднати наші дві країни та гарантувати процвітання польського народу серед розвалу Австро-Угорської імперії."
- poland.285.a: "Ми приєднаємось!"
- poland.285.b: "Ніколи."
 
  #Black Monday & Economy
  poland.297.t: "Борги дрібних фермерів стрімко зростають"
@@ -2903,8 +3055,10 @@ l_english:
  poland.800.d: "Не секрет, що Август Вільгельм вважає свою корону радше обов'язком, ніж пристрастю. Чутки про його намір відмовитися від престолу і зректися престолу на користь сина ходили останні кілька років часто, і, схоже, вони мали під собою реальні підстави. Королівська сім'я мовчки промацувала лід, намагаючись зрозуміти, чи Олександр сприйматиметься прихильніше, ніж його батько. Після його одруження та широко розрекламованої кар'єри в польській армії, можна з упевненістю сказати, що спадкоємець принц набагато популярніший, ніж його батько.\n\nКоролівство знаходиться у відносно безпечному становищі, і особисто король із задоволенням відійшов би убік і зосередився на своїх мистецьких та культурних захопленнях."
  poland.800.a: "Дайте йому відпочити. Олександр буде чудовим королем!"
 
- poland.801.t: "The Kaiser-Maker"
- poland.801.d: "Коли здавалося, що всі надії втрачені, а імперія Гогенцоллернів перебуває на межі знищення, допомога прийшла з найнесподіванішого місця. Польська армія разом зі своїми союзниками відмовилася здатися і запекло билася далі. [?casualties] поляків лежали мертвими в могилах героїв, своєю кров'ю купивши захоплення та довіру німців. Попри все, визволителем та Гогенцоллерном у Берліні сьогодні є [POL.GetLeader]. Місто все ще лежить у руїнах після подвійних боїв, але його центр було відновлено достатньо, щоб зробити його презентабельним для параду, який новоявлений кайзер [GER.GetLeader] приймає разом із людиною, якій він завдячує своєю короною, [POL.GetLeader]. На честь польських жертв, частини Першої польської бронетанкової дивізії, "Чорні дияволи", пройдуть під Бранденбурзькою брамою як перші солдати параду.\n\nНевідомо, чи це була ідея короля, чи тільки його польських радників, але питання про Позена було порушено на приватних переговорах із німцями. Протягом кількох місяців під час війни цей регіон де-факто перебував під контролем Польщі, і багато поляків із цього регіону билися під біло-червоним прапором. Тимчасовий уряд Німеччини неохоче погодився з тим, що "нехай жителі Позена самі вирішують, до якої країни вони хочуть належати." Такий крок було б неможливо уявити лише кілька років тому, але в нинішній ситуації це неможливо заперечити. Царство Польське не тільки вільне, але і є визволителем всього Кайзеррейху."
+ poland.801.t.kaiser: "The Kaiser-Maker"
+ poland.801.t: "The Last Hohenzollern"
+ poland.801.d.kaiser: "Коли здавалося, що всі надії втрачені, а імперія Гогенцоллернів перебуває на межі знищення, допомога прийшла з найнесподіванішого місця. Польська армія разом зі своїми союзниками відмовилася здатися і запекло билася далі. [?casualties] поляків лежали мертвими в могилах героїв, своєю кров'ю купивши захоплення та довіру німців. Попри все, визволителем та Гогенцоллерном у Берліні сьогодні є [POL.GetLeader]. Місто все ще лежить у руїнах після подвійних боїв, але його центр було відновлено достатньо, щоб зробити його презентабельним для параду, який новоявлений кайзер [GER.GetLeader] приймає разом із людиною, якій він завдячує своєю короною, [POL.GetLeader]. На честь польських жертв, частини Першої польської бронетанкової дивізії, \"Чорні дияволи\", пройдуть під Бранденбурзькою брамою як перші солдати параду.\n\nНевідомо, чи це була ідея короля, чи тільки його польських радників, але питання про Позена було порушено на приватних переговорах із німцями. Протягом кількох місяців під час війни цей регіон де-факто перебував під контролем Польщі, і багато поляків із цього регіону билися під біло-червоним прапором. Тимчасовий уряд Німеччини неохоче погодився з тим, що \"нехай жителі Позена самі вирішують, до якої країни вони хочуть належати.\" Такий крок було б неможливо уявити лише кілька років тому, але в нинішній ситуації це неможливо заперечити. Царство Польське не тільки вільне, але і є визволителем всього Кайзеррейху."
+ poland.801.d: "All hope was lost. The Hohenzollern Empire of Germany was in ruins. In a twist of irony, the nascent German republic was saved by none other than a Hohenzollern - Alexander Ferdinand, grandson of Kaiser Wilhelm II, the King of Poland. The Royal Polish Army stood steadfast, repelling all enemies from German soil, and won the admiration of the German people with their blood and toil. The republican government could only look with distaste as the young Hohenzollern was paraded as the saviour of the nation, as the units of First Polish Armoured Division, the Black Devils, rolled through the Brandenburg Gate as the first soldiers in the parade.\n\nIt is not clear if it was the king's idea, or merely his Polish advisors', but the question of Posen was raised in private negotiations with the Germans. The region was de facto controlled by Poland for months during the war, and many Poles from the region had fought under the white-red flag. The temporary German government begrudgingly accepted to \"let the people of Posen decide which country they wish to belong.\" Such a move would have been impossible to imagine just a few years ago, but in the current situation it does not seem possible to deny. The Kingdom of Poland is not only free, but also the liberator of the entire Kaiserreich of old."
  poland.801.a: "Німецька Імперія ще не втрачена!"
 
  poland.889.t: "Союз із Галичиною"
@@ -3095,6 +3249,15 @@ l_english:
  polandflavor.43.d: "Після нещодавньої революції у Польщі місцева циганська громада швидко спробувала адаптуватися до політичних обставин. Король циган - посада, яку тривалий час обіймала могутня сім'я Квієк, - оголосив, що він зрікається свого титулу і приймає титул "Prezydent cygański" (Президент циган). Це рішення викликало суперечки в циганській спільноті, оскільки деякі звинувачують монарха, який став президентом, у надмірній пошані до поляків.\n\nБагато представників циганської громади сподівалися, що німецька влада, яка встановила монархію Гогенцоллернів, зможе стримати ексцеси польського супрематизму, але ще з'ясувати, чи зможе циганське населення продовжувати вести свій традиційний спосіб життя під егідою самоврядної Польщі. Поки що надмірне насильство щодо циган, схоже, вдалося запобігти, але чи будуть задоволені прагнення Квієків до власного "президентства" ще з'ясувати. Вже зараз кілька членів сім'ї претендують на пост "короля", ігноруючи передбачувану нову роль "президента"."
  polandflavor.43.a: "Що далі, Голова ромів?"
 
+ polandflavor.44.t: "Splitting Hairs"
+ polandflavor.44.d: "News has reached the administration in Warsaw over an internal conflict within the \"Old Catholic Mariavite Church\" based in Płock. Ever since its founder, Sister Maria Kozłowska, perceived by them as a saint, passed away in 1921, the Church was headed by Archbishop Jan Maria Kowalski. The Archbishop's reforms, which he called \"understandings\" were controversial to say the least. First was the introduction of Holy Communion under both both kinds during the anniversary of the founder's death, followed by removing the celibate and introduction of so-called \"Priestly Sisters\", with one of them even becoming a Bishop. As a result of these reforms, many have left this denomination and rejoined the Roman Catholic Church. However some wanted to remain within the Church, but remove the problematic Archbishop.\n\nAs such, two meetings of the church elders were called, which ended with removal of the Archbishop Kowalski, forced renouncing of his goods and relocation from Płock to nearby Felicjanów. Archbishop Jan Maria conceded and moved to Felicjanów with a circle of his followers, but soon after, they called the proceedings of the elders illegal, claiming that the spiritual leader cannot be removed, but can only resign. This decision caused a split in the Church, which ended up with most followers remaining loyal to \"Płock Denomination\", however many left the church altogether.\n\nAfter the split, the \"Płock Denomination\" would keep the name of \"Old Catholic Mariavite Church\", while the \"Felicjanów Denomination\" would go back the the first original name of the Church, \"The Catholic Mariavite Church\". Soon after, Archbishop Jan Maria was imprisoned after an appeal from the leader of Płock Mariavites, Bishop Klemens Maria Feldman, who also called on the local government to secure the Felicjanów assets, to \"prevent them from being plundered by other Mariavite sisters\"."
+ polandflavor.44.a: "Isn't a split in the Church comprising of 500 people essentially killing it?"
+ polandflavor.44.b: "Tell me more about Mariavites."
+
+ polandflavor.45.t: "Mariae Vitam Imitantes"
+ polandflavor.45.d: "The Mariavite Church is based on doctrines and actions of Sister Maria Franciszka Kozłowska. Originally the Sister-Superior of \"Poor Sisters of Saint Clara\", in 1893 she claimed to have visions from God that she called \"The Work of Great Misericordia\", after which she became known as the \"Mateczka\". The visions criticise immoral actions of the clergy, which in turn corrupts the believers. Only way to fix it is the cult of the Blessed Sacrament and imitating the life of Saint Mary. Due to the visions happening in a time of great corruption within the Polish Church, the Sister's revelations attracted some followers. Soon she presented them to bishops of Lublin, Płock and Warsaw, and even went as far as to presenting them to Pope Pius X.\n\nIn 1904, the Roman Inquisition decreed the dismantlement of Mariavite Congregation and made Sister Kozłowska a persona non-grata. After attempts to initiate the decree in 1906, many parishes declared independence from their Bishops and converted to Mariavisitm. This caused Pope Pius X to condemn the church in his \"Tribus circiter\" enciclica, however the Tsarist administration fully legalised the Church.\n\nThe church decreed for masses to be held in Polish, instead of Latin. They also reject the Catholic doctrines about Indulgences or Papal Infallibility. While Mariavites limited the Cult of Saints, after the passing of \"Mateczka\" she instantly became revered as the most important saint. The recently imprisoned Archbishop Jan Maria Kowalski of \"Felicjanów Denomination\" went even further in belief reforms. After alleged visions from God, he declared the new Holy Trinity composed of Jesus Christ, the Son, God-Father in the form of Saint Mary, and the Holy Spirit, taking the form of \"Mateczka\", the Saint Sister Kozłowska."
+ polandflavor.45.a: "That explains the \"Mateczka\" or why each one of them is called \"Maria\"."
+
  ###World News Events###
 
  polandnews.1.t: "Польща підписала мир із Інтернаціоналом"
@@ -3202,94 +3365,3 @@ l_english:
  polandnews.13.e: "Ті, хто прагне утискувати трудящих, вважають своїх ворогів нескінченними."
  polandnews.13.f: "Новий мінімум для імперського проекту Німеччини."
  polandnews.13.g: "Радикально."
-
-### Characters ###
-    ### Country Leaders
- POL_feliks_kon: "Feliks Kon"
- POL_kazimierz_zakrzewski: "Kazimierz Zakrzewski"
- POL_zygmunt_zaremba: "Zygmunt Zaremba"
- POL_leah_feldman: "Leah Feldman"
- POL_jerzy_cseszejko_sochacki: "Jerzy Czeszejko-Sochacki"
- POL_norbert_barlicki: "Norbert Barlicki"
- POL_stanislaw_wojciechowski: "Stanisław Wojciechowski"
- POL_stanislaw_mikolajczyk: "Stanisław Mikołajczyk"
- POL_jan_woznicki: "Jan Woźnicki"
- POL_gabriel_narutowicz: "Gabriel Narutowicz"
- POL_mieczyslaw_michalowicz: "Mieczyslaw Michałowicz"
- POL_jozef_chacinski: "Józef Chaciński"
- POL_adam_chadzynski: "Adam Chądzyński"
- POL_eustachy_sapieha: "Eustachy Sapieha"
- POL_wladyslaw_grabski: "Władysław Grabski"
- POL_wojciech_korfanty: "Wojciech Korfanty"
- POL_edward_rydz_smigly: "Edward Rydz-Śmigły"
- POL_jozef_haller_von_hallenburg: "Józef Haller"
- POL_roman_dmowski: "Roman Dmowski"
- POL_adam_doboszynski: "Adam Doboszyński"
- POL_august_iv: "August IV"
-    ### Generals
- POL_konstanty_rokossowski: "Konstanty Rokossowski"
- POL_adam_koc: "Adam Koc"
- POL_leon_berbecki: "Leon Berbecki"
- POL_zbigniew_antonowicz: "Zbigniew Antonowicz"
- POL_jozef_dowbor_musnicki: "Józef Dowbor-Muśnicki"
- POL_stanislaw_sosabowski: "Stanisław Sosabowski"
- POL_mikolaj_boltuc: "Mikołaj Bołtuć"
- POL_wladyslaw_anders: "Władysław Anders"
- POL_stanislaw_magnuszewski: "Stanisław Magnuszewski"
- POL_artur_gorski: "Artur Gorski"
- POL_henryk_dobrzanski: "Henryk Dobrzanski"
- POL_kazimierz_sosnkowski: "Kazimierz Sosnkowski"
- POL_juliusz_rommel: "Juliusz Rómmel"
- POL_waclaw_stachiewicz: "Wacław Stachiewicz"
- POL_antoni_szylling: "Antoni Szylling"
- POL_boleslaw_wieniawa_dlugoszowski: "Bolesław Wieniawa-Długoszowski"
-    ### Admirals
- POL_jozef_unrug: "Józef Unrug"
- POL_jerzy_swirski: "Jerzy Świrski"
-    ### Second in Command
- POL_antoni_ponikowski: "Antoni Ponikowski"
- POL_aleksy_cwiakowski: "Aleksy Ćwiakowski"
- POL_wladyslaw_studnicki: "Władysław Studnicki"
- POL_maksymilian_malinowski: "Maksymilian Malinowski"
- POL_stanislaw_dubois: "Stanisław Dubois"
- POL_tadeusz_bielecki: "Tadeusz Bielecki"
- POL_pawel_lew_marek: "Paweł Lew Marek"
- POL_stanislaw_bukowiecki: "Stanisław Bukowiecki"
- POL_boguslaw_miedzinski: "Bogusław Miedziński"
- POL_the_sejm_sic: "Sejm"
-    ### Political Advisors
- POL_maurucy_zamoyski: "Maurycy Klemens Zamoyski"
- POL_stanislaw_downarowicz: "Stanisław Downarowicz"
- POL_janusz_radziwill: "Janusz Radziwiłł"
- POL_wolfgang_von_kries: "Wolfgang von Kries"
- POL_alexander_von_hohenzollern: "Alexander Ferdinand von Hohenzollern"
- POL_august_hlond: "August Hlond"
- POL_alexander_ii: "Aleksander II"
- POL_wieslaw_gerlicz: "Wiesław Gerlicz"
- POL_andrzej_wierbicki: "Andrzej Wierzbicki"
- POL_marian_dabrowski: "Marian Dąbrowski"
- POL_michal_kalecki: "Michał Kalecki"
- POL_cezaria_jedrzejewiczowa: "Cezaria Jędrzejewiczowa"
- POL_wanda_wasilewska: "Wanda Wasilewska"
- POL_henryk_ehrlich: "Henryk Ehrlich"
- POL_stanislawa_paleolog: "Stanisława Paleolog"
- POL_tadeusz_schaetzel: "Tadeusz Schaetzel"
- POL_jozef_zajac: "Józef Zając"
- POL_ludomil_rayski: "Ludomił Rayski"
- POL_edmund_knoll_kownacki: "Edmund Knoll-Kownacki"
- POL_stefan_rowecki: "Stefan Rowecki"
- POL_ludwik_skrzynski: "Ludwik Skrzyński"
- POL_mieczyslaw_smorawinski: "Mieczysław Smorawiński"
- POL_tadeusz_kossakowski: "Tadeusz Kossakowski"
- POL_stefan_adolf_mossor: "Stefan Adolf Mossor"
- POL_mieczyslaw_rawicz_myslowski: "Mieczysław Rawicz-Mysłowski"
- POL_wiktor_thommee: "Wiktor Thommée"
- POL_mieczyslaw_dabkowski: "Mieczysław Dąbkowski"
- POL_edward_szystowski: "Edward Szystowski"
- POL_witold_urbanowicz: "Witold Urbanowicz"
- POL_janusz_de_beaurain: "Janusz de Beaurain"
- POL_xawery_czernicki: "Xawery Czernicki"
- POL_janusz_groszkowski: "Janusz Groszkowski"
- POL_ludwik_hirszfeld: "Ludwik Hirszfeld"
- POL_zygmunt_pulawski: "Zygmunt Puławski"
- POL_stanislaw_karlowski: "Stanisław Karłowski"

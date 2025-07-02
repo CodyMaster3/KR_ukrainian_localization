@@ -1,6 +1,11 @@
 ﻿l_english:
 
- serbia_focus: "Фокуси Сербії"
+ serbia_focus: "Дерево Фокусів Сербії"
+
+### Factions ###
+ balkan_socialist_federation: "Балканська соціалістична федерація" #created by SER_YUG_balkan_socialist_federation focus and renamed by SER_YUG_balkan_socialist_federation focus
+ belgrade_pact: "Белградський пакт" #created by pact.1 event
+ non_aligned_movement: "Рух неприєднання" #created by SER_YUG_anti_imperialist_vanguard focus and renamed by SER_YUG_anti_imperialist_vanguard focus
 
 ### Traits ###
  SER_vodja: "Vođa"
@@ -11,74 +16,76 @@
 
 ### Parties ###
  SER_totalist_party: "СРП"
- SER_totalist_party_long: "Сербський комуністичний революційний альянс 'Пелагіч'"
+ SER_totalist_party_long: "Сербський комуністичний революційний альянс 'Пелагіч'\n§LOriginating from revolutionary emigrés in Russia as the “Yugoslav Communist Group” (Jugoslovenska komunistička grupa), the association fought for the Soviet Red Army until 1919 when they recognized the fate of the Russian Revolution was unsalvageable. After returning to the Balkans, the organization split over the issue of Western Syndicalism, with Vukašin Marković and the entirety of the Serbian branch keeping to their Bolshevik inspirations, while Vladimir Ćopić and most of the Illyrian side adopted to it in part, forming the “Yugoslav International Company” in France to support future socialist and syndicalist revolutions.§!\n"
  SER_syndicalist_party: "ЦПР"
- SER_syndicalist_party_long: "Центральна профспілка робітників"
+ SER_syndicalist_party_long: "Центральна профспілка робітників\n§LThe Wahhabites/Vahabiti (or as they call themselves “Heroic Communists”) are perhaps the most intransigent faction of the SRP on both sides of the border. A movement coming from the more suppressed and vengeful parts of the Yugoslav working class and the criminal elements, they were harshly persecuted under Aleksandar II and have not forgotten the role of careerist bureaucrats in it. Led by the charismatic and brutish Montenegrin Petko Miletić, the faction can broadly be described as workerist, as they detest the influence of the intelligentsia within the party and are more than a little suspicious of the peasantry.§!\n"
  SER_radical_socialist_party: "СРП"
- SER_radical_socialist_party_long: "Соціалістична робоча партія"
+ SER_radical_socialist_party_long: "Соціалістична робоча партія\n§LThe Socialist Workers' Party is a Serbian Marxist and Yugoslavist political party walking a fine line between reformism and revolutionary aspirations. Founded in 1919 during the twilight of radical movements from France to Russia, merging Montenegrin revolutionaries and the remains of the Serbian Social Democratic Party (Srpska socijaldemokratska partija) after the expulsion of the moderate and chauvinistic faction organized around Živko Topalović. The party was quickly declared illegal by Aleksandar II's Royal dictatorship, but fortunes soon turned to their favor as the monarchy was overthrown by a popular revolution in 1926. Since then the party has been steadily building up a support base primarily in Belgrade, but also in Montenegro and Zlatibor, making it a serious political contender.§!\n"
  SER_social_democrat_party: "СПС"
- SER_social_democrat_party_long: "Соціалістична партія Сербії"
+ SER_social_democrat_party_long: "Соціалістична партія Сербії\n§LThe Socialist Party emerged from the ‘centralist’ faction of the Socialist Workers’ Party, which argued that Serbia was not ready for a workers’ revolution and that the SRP should follow the principles of the Second International. After their expulsion, they reconstituted as the SPS. It is a social democratic party organized mostly along the lines of the German SPD, although with a more overtly ”patriotic” bend and is closely allied with the Republicans as its junior partner.§!\n"
  SER_social_liberal_party: "Републиканска странка"
- SER_social_liberal_party_long: "Сербська республіканська партія"
+ SER_social_liberal_party_long: "Сербська республіканська партія\n§LThe history of Republicanism in Serbia finds its roots all throughout the 19th century, however the real beginnings of the movement were in 1901, when disgruntled Radical-Liberals split off from the Radical Party, forming the Independent Radical Party. While it didn’t openly embrace Republicanism, its fiercely parliamentarian, democratic and socialist-sympathetic views inevitably aligned it against the Obrenović dynasty in 1903 and the Karađorđević dynasty in the early 1920s, reforming under the name of the Serbian Republican Party (Srpska republikanska stranka).\n\nAs dynastic rule became increasingly associated with tyranny and Austrian subjugation, popular sentiment rose in favor of a republic, and in turn, of the Republican Party. The monarchy came crashing down in 1926 when the Revolution broke out, and the Republicans rode the movement. Since then, they have enjoyed a dominant position in Serbian politics, however, few people know of their secret dealings with the Konspiracija.§!\n"
  SER_market_liberal_party: "НРС"
- SER_market_liberal_party_long: "Народно-радикальна партія"
+ SER_market_liberal_party_long: "Народно-радикальна партія\n§LThe People’s Radical Party has a long and venerable history in Serbian politics, being founded around the followings of Nikola Pašić and Svetozar Marković. While its roots lie in radical and socialist ideologies, the party has since its inception experienced a pivot towards conservatism.\n\nWhile the Radicals were easily the dominant political force in pre-Weltkrieg Serbia, their popularity waned first due to Serbia’s catastrophic defeat, and fell completely out of favour with the onset of Aleksandar II’s royal dictatorship. The party was completely banned until 1926, when the republican government allowed their return to the political stage. They now operate as the main opposition, in contrast to the more progressive Republicans.§!\n"
  SER_social_conservative_party: "Земљорадничка странка"
- SER_social_conservative_party_long: "Аграрна партія"
+ SER_social_conservative_party_long: "Аграрна партія\n§LDespite being a small party, and claiming to represent the interests of farmers, the Agrarians are a surprisingly diverse group. While traditional agrarian conservatives have an important position, they are far from the only significant faction, with groups going as far as advocating for agrarian socialism having a foothold in the party. Broadly speaking, they cooperate with the Radicals, viewing the Republicans and Socialists as too focused on urban communities.§!\n"
  SER_authoritarian_democrat_party: "ДПСД"
- SER_authoritarian_democrat_party_long: "Державна партія сербських демократів"
+ SER_authoritarian_democrat_party_long: "Державна партія сербських демократів\n§LFormed in the wake of the Weltkrieg’s disastrous end at the initiative of then-Prime Minister Vojislav Veljković, the DSDS acted from its inception as an Austrophilic and monarchist force. It acted in support of the royal dictatorship until the latter’s downfall in 1925. Despite not being banned outright following the Revolution, its authoritarian and unpopular governance has reduced its political influence in the present day to nothing.§!\n"
  SER_paternal_autocrat_party: "БР"
- SER_paternal_autocrat_party_long: "Біла рука"
+ SER_paternal_autocrat_party_long: "Біла рука\n§LThe White Hand traces its origins to the plot which overthrew the Obrenović dynasty in the May Coup of 1903, with a split amongst the officers responsible, notably between Dragutin Dimitrijević and Petar Živković. These men would go on to found the Black and White Hands, respectively.\n\nWhile the Black Hand was outlawed in 1917, the White Hand enthusiastically supported Aleksandar II’s dictatorship until the Revolution, when they were forced underground. Staunch monarchists, they actively work on undermining the republican government with the eventual goal of a restoration of Petar II.§!\n"
  SER_national_populist_party: "Конспірація"
- SER_national_populist_party_long: "Конспірація / Сербський культурний клуб"
+ SER_national_populist_party_long: "Конспірація / Сербський культурний клуб\n§LA heterogeneous mix of individuals from across the far right, the Konspiracija is a nationalist group of officers and intellectuals who saw the Republican Revolution as an opportunity to claw their way into power. Established after the model of the Black Hand in the years before the ousting of Aleksandar II, it has since gained the trappings of a “deep state” within Serbian politics, wielding great influence over the traditional parties and the army.\n\nThe Konspiracija, via the Serbian Cultural Club, advocates for the establishment of a Greater Serbia, through the liberation of all Serbs from Austro-Hungarian and Bulgarian domination.§!\n"
 
 ### Alternative Parties ##
  SER_sarez_party: "СРС"
- SER_sarez_party_long: "Сербська радикальний союз"
+ SER_sarez_party_long: "Сербська радикальний союз\n§LWith their goals seemingly aligned, the Agrarian and Radical parties have fused into the Serbian Radical Union (abbreviated to “Sarez”). The bloc inherits the priorities of its constituent parties, claiming to represent both the specific needs of the farmer and of the Serbian nation as a whole. Time will tell if this powerful bloc remains simply a dominant force in parliamentary politics or a platform for authoritarian ambitions.§!\n"
+ SER_sarez_party_long_consolidated: "Srpska radikalna zajednica (Serbian Radical Union)\n§LThe Sarez has evolved past its original mission of representing the interests of Serbs, urban or rural. It is now a vehicle through which the will of its leader, Milan Stojadinović, is made manifest, without the distractions of parliamentary politics. With the opposition puppeted and the Greenshirts intimidating intellectuals and voters alike, the Sarez, and thus Stojadinović, looks to retain its stranglehold on Serbian political life for the foreseeable future.§!\n"
  SER_sarez_breakaway_party: "СНРП"
- SER_sarez_breakaway_party_long: "Справжня народна-радикальна партія"
+ SER_sarez_breakaway_party_long: "Справжня народна-радикальна партія\n§LWith Stojadinović’s consolidation of power, some moderate members of the original Radical Party have chosen to split from the Sarez. Declaring the formation of a “true” Radical Party, they can do little but regret their role in the end of Serbian democracy and await better times.§!\n"
  SER_national_consolidation_party: "СКНО"
- SER_national_consolidation_party_long: "Сербський комітет із національного об'єднання"
+ SER_national_consolidation_party_long: "Сербський комітет із національного об'єднання\n§With the commanding majority of the Sarez behind him and the outbreak of war with Serbia’s enemies, President Stojadinović has managed to get most factions in the Skupština to agree to a government of national unity, with elections suspended “until the South Slavs are united”. Serbian democracy rests on a knife’s edge, with its future resting entirely in the President’s hands.  §!\n"
  SER_royal_paternal_autocrat_party: "СРСД"
- SER_royal_paternal_autocrat_party_long: "Сербська радикальна селянська демократія"
+ SER_royal_paternal_autocrat_party_long: "Сербська радикальна селянська демократія\n§LWith the royalist coup of 1936 a success, Prime Minister Petar Živković has overseen the banning of all political parties, and of the formation of the SRSD to act as a supporting and legitimising force for the institution of monarchy, much as the DSDS had done during Aleksandar II’s dictatorship. It is strongly nationalist, centralist and secularist, also espousing significant Yugoslavist rhetoric.§!\n"
  SER_national_populist_party_puppet: "ВХ"
- SER_national_populist_party_puppet_long: "Військова хунта"
+ SER_national_populist_party_puppet_long: "Військова хунта\n§LThe Serbian military has a long history of involvement in politics relative to its existence. The previous infiltration of this institution by the Konspiracija has given rise to an entire generation of radicalised officers, who now have the chance to transform Serbia in their own image.§!\n"
  SER_radical_socialist_breakaway_party: "КПС"
- SER_radical_socialist_breakaway_party_long: "Комуністична партія Сербії"
+ SER_radical_socialist_breakaway_party_long: "Комуністична партія Сербії\n§LThe Socialist Workers' Party is a Serbian Marxist and Yugoslavist political party walking a fine line between reformism and revolutionary aspirations. Founded in 1919 during the twilight of radical movements from France to Russia, merging Montenegrin revolutionaries and the remains of the Serbian Social Democratic Party (Srpska socijaldemokratska partija) after the expulsion of the moderate and chauvinistic faction organized around Živko Topalović. The party was quickly declared illegal by Aleksandar II's Royal dictatorship, but fortunes soon turned to their favor as the monarchy was overthrown by a popular revolution in 1926.\n\nAll of the party’s efforts seem to have come to naught in the wake of their failed, short-lived governance of the Serbian state. More radical members of the Socialist Workers’ Party who believed the revolution had been betrayed have coalesced in the KPS, and seek the achievement of revolution by any means necessary.§!\n"
  SER_syndicalist_breakaway_party: "КПС"
  SER_totalist_breakaway_party: "КПС"
  SER_radical_monarchist_party: "СНР-П"
- SER_radical_monarchist_party_long: "Сербський національний рух 'Пробудження'"
+ SER_radical_monarchist_party_long: "Сербський національний рух 'Пробудження'\n§LCoalesced around the controversial Dimitrije Ljotić, Buđenje (“Awakening”) has experienced a meteoric to prominence following the instatement of the November 6th Dictatorship. It is an unabashedly extremist movement, virulently anti-semitic and anti-capitalist, praising the monarchy as the societal pinnacle of an idealised “Dinaric” race, to which they claim all South Slavs belong.§!\n"
  SER_zbor_party: "ОАОП"
- SER_zbor_party_long: "Об'єднана активна організація праці"
+ SER_zbor_party_long: "Об'єднана активна організація праці\n§LBringing together several like-minded extremist and monarchist organisations, Ljotić now commands a large-scale political movement, which has inherited various political and social views. They are all, however, united in their belief in South Slavic supremacy, as well as monarchism, corporatism, and religious fanaticism.§!\n"
  SER_democratic_party: "СДП"
- SER_democratic_party_long: "Сербська демократична партія"
+ SER_democratic_party_long: "Сербська демократична партія\n§LFollowing the success of the March Conspiracy and the ousting of Živković and Ljotić, democracy was restored in the Kingdom of Serbia, leaving the Republicans in an awkward position. While some hardline anti-monarchists remain outside of politics, most of the former Republicans have reorganised to work within the system. Rebranded to the Democratic Party, they espouse much of the left-leaning, progressive rhetoric the Republicans did before the 1936 coup. §!\n"
 
 # Yugoslavian variants
  SER_YUG_national_populist_party: "КН"
- SER_YUG_national_populist_party_long: "Крайні націоналісти"
+ SER_YUG_national_populist_party_long: "Крайні націоналісти\n§LEven though Yugoslavism has been redeemed in the eyes of its namesake peoples through victory over the Austrians, there remain members of each ethnicity who are opposed to the idea, often advocating for strong and independent nation-states. While this nationalist sentiment is unlikely to ever fade completely, for now these nationalists are pushed to the fringes of the political sphere.§!\n"
  SER_YUG_democratic_party: "ЮДП"
- SER_YUG_democratic_party_long: "Югославська демократична партія"
+ SER_YUG_democratic_party_long: "Югославська демократична партія\n§LStyling itself “the first Yugoslav party”, due to its composition out of a Serbian, Croatian and Slovene party, the Democratic party is for this reason characterised by divisions between differences in their interpretation of Yugoslavism. Within the party, visions of federalism or integralism conflict, but they share in common a desire to keep the South Slavs from ever being divided again.§!\n"
  SER_YUG_republican_democratic_party: "РДП"
- SER_YUG_republican_democratic_party_long: "Республіканська демократична партія"
+ SER_YUG_republican_democratic_party_long: "Республіканська демократична партія\n§LStyling itself “the first Yugoslav party”, due to its composition out of a Serbian, Croatian and Slovene party, the Republican-Democratic party is for this reason characterised by divisions between differences in their interpretation of Yugoslavism. Within the party, visions of federalism or integralism conflict, but they share in common a desire to keep the South Slavs from ever being divided again. §!\n"
  SER_YUG_jarez_party: "ЮРС"
- SER_YUG_jarez_party_long: "Югославський радикальний союз"
+ SER_YUG_jarez_party_long: "Югославський радикальний союз\n§LThe Serbian Radical Union have found themselves a Serbian nationalist party within a multiethnic state. With the surge in popularity of more left-leaning parties in the rest of the country, the Sarez finds itself the hegemon of Serbian nationalism. Rebranding to the Yugoslav Radical Union (Jarez), it champions the Serbian national cause, viewing Yugoslavia as a dilution of a Greater Serbia. §!\n"
+ SER_YUG_authoritarian_democrat_party_long: "Narodna radikalna stranka (People's Radical Party)\n§LThe People’s Radical Party have found themselves a Serbian nationalist party within a multiethnic state. With the surge in popularity of more left-leaning parties in the rest of the country, the NRS finds itself the hegemon of Serbian nationalism. It champions the Serbian national cause, viewing Yugoslavia as a dilution of a Greater Serbia.§!\n"
  SER_YUG_slovene_party: "СНП"
- SER_YUG_slovene_party_long: "Словенська народна партія"
+ SER_YUG_slovene_party_long: "Словенська народна партія\n§LA titan of Slovene politics, the People’s Party has survived the unification of Slovenia with the rest of the South Slavic lands and has carved out an important role in representing Slovene national interests. They are proponents of a conservative, Christian democracy, significantly influenced by the Austrian Christlichsoziale.\n\nWhile for now, they remain highly supportive of Slovenia’s integration into Yugoslavia, straying too far from a federal direction could cause them to withdraw support for the central government.§!\n"
  SER_YUG_hpss_party: "ХНСП"
- SER_YUG_hpss_party_long: "Хорватська народна селянська партія"
+ SER_YUG_hpss_party_long: "Хорватська народна селянська партія\n§LInstrumental in the creation of Illyria within the Austrian monarchy, the HPSS have traditionally been an agrarian and anti-militarist party representing Croatian interests. They have retained this role within the Yugoslav state, becoming a strong opponent to further centralisation. They have a pronounced republican bent, inherited from their co-founder, Stjepan Radić.§!\n"
  SER_YUG_orjuna_party: "ОЮН"
- SER_YUG_orjuna_party_long: "Організація югославських націоналістів"
+ SER_YUG_orjuna_party_long: "Організація югославських націоналістів\n§LFanatically nationalist and anti-socialist, the ORJUNA is an organisation aiming to stamp out any resistance to Yugoslav unity, be it from within or without. Though dominated by Dalmatian Croats, its ranks include members from throughout the country, all showcasing a disdain for parliamentary politics.\n\nUnlike many in the young country, they regard Gavrilo Princip as a role model instead of the man who nearly doomed the South Slavs. Thus, they do not shy away from terrorist methods.§!\n"
 
  SER_YUG_royal_paternal_autocrat_party: "ЮРСД"
- SER_YUG_royal_paternal_autocrat_party_long: "Югославська радикальна селянська демократія"
+ SER_YUG_royal_paternal_autocrat_party_long: "Югославська радикальна селянська демократія\n§LWith the triumph of the Kingdom of Serbia over the hated Austrians and the establishment of the Kingdom of Yugoslavia, the SRSD has assimilated like-minded parties throughout the new state, renaming itself accordingly. It remains a centralist and secular force, committed to holding the South Slavs together by any means necessary.§!\n"
  SER_YUG_new_royal_paternal_autocrat_party: "ЮНП"
- SER_YUG_new_royal_paternal_autocrat_party_long: "Югославська національна партія"
+ SER_YUG_new_royal_paternal_autocrat_party_long: "Югославська національна партія\n§LWith the triumph of the Kingdom of Serbia over the hated Austrians and the establishment of the Kingdom of Yugoslavia, the SRSD has assimilated like-minded parties throughout the new state, renaming itself accordingly. It remains a centralist and secular force, committed to holding the South Slavs together by any means necessary.§!\n"
  SER_YUG_radical_socialist_party: "СРПЮ"
- SER_YUG_radical_socialist_party_long: "Соціалістична робоча партія Югославії"
+ SER_YUG_radical_socialist_party_long: "Соціалістична робоча партія Югославії\n§LThe SRPJ is the primary successor to the Serbian Socialist Workers' Party, and has inherited much of its policies and positions. Though internal divisions exist on the nature of the exact implementation of socialist principles, they remain the primary proponent of revolutionary socialism on the Yugoslav political scene.§!\n"
  SER_YUG_syndicalist_party: "СПЮ"
- SER_YUG_syndicalist_party_long: "Синдикалістська партія Югославії"
+ SER_YUG_syndicalist_party_long: "Синдикалістська партія Югославії\n§LEmerging as a dissident faction of the nascent SRPJ following the Vukovar Congress, the SnPJ stands in firm opposition to the former. Instead of the \"Serbian socialism\" championed by the SRPJ, they propose a closer ideological alignment to the British and French, viewing the alternative as tainted by nationalism and counterproductive to the world revolution.§!\n"
  SER_YUG_social_democrat_party: "СПЮ (Соціалісти)"
- SER_YUG_social_democrat_party_long: "Соціалістична партія Югославії"
+ SER_YUG_social_democrat_party_long: "Соціалістична партія Югославії\n§LWith an agreement out of reach at the Vukovar Congress, the moderate socialists and social democrats from across Yugoslavia have officially denounced their more radical counterparts, instead choosing to work within the democratic process. Whether this is simply to improve the lot of the worker within a capitalist system, or to work towards an eventual peaceful transition to socialism, the SPJ has seemingly renounced revolutionary tendencies forever.§!\n"
 
  SER_serbian_chetnik_organisation: "Четники"
  SER_serbian_chetnik_organisation_long: "Сербська організація четників"
@@ -97,10 +104,6 @@
 
  SER_asos_long: "Антиреакційна асамблея за визволення Сербії"
 
-### Factions ###
- non_aligned_movement: "Рух неприєднання"
- balkan_soc_federation: "Балканська соціалістична федерація"
-
 ### Companies ###
  sartid: "SARTID"
  univerzitet_beogradu: "Univerzitet u Beogradu"
@@ -108,10 +111,10 @@
  fabrika_uzice: "Fabrika Oružja i Municije Užice"
  zastava: "Zastava"
  vojnotehnicki_beograd: "Vojnotehnički Institut Beograd"
- ikarbus: "Ikarbus"
+ ikarbus: "Ikarus Automobili"
  industrija_masina_komponenata: "Industrija Mašina i Komponenata"
  jadransko_brodogradiliste: "Jadransko Brodogradiliste" #Adriatic Shipyard
- ikarus_aircraft: "Ikarus"
+ ikarus_aircraft: "Ikarus Aeroplani"
  rogozarski: "Rogožarski"
  aeroput: "Aeroput"
 
@@ -192,7 +195,7 @@
 
  SER_harmony_of_classes: "Класова гармонія"
  SER_harmony_of_classes_desc: "Нарешті, під керівництвом Республіканської партії, сербський народ зможе повною мірою насолодитися перевагами соціально-економічного прогресу - гармонійним суспільством, де будь-яка людина з будь-якого класу може претендувати на повноцінне життя."
- 
+
  SER_montenegro_experiment_idea: "Чорногорський експеримент"
 
  SER_national_labor_union_council_idea: "Національна рада профспілок"
@@ -333,12 +336,8 @@
 ### Tech Sharing ###
  balkan_research_name: "Балканська дослідницька ініціатива"
  balkan_research_desc: ""
- 
- SER_balkan_research_idea: "Балканська дослідницька ініціатива"
- SER_balkan_research_idea_tooltip: "Приєднатися до §HБалканської дослідницької ініціативи§!\n    $MODIFIER_RESEARCH_SPEED_FACTOR$: [?0.05|+=%]"
 
  SER_spawned_resistance: "Опір четників"
- SER_spawned_resistance_tt: "Завершення цього фокусу дасть негативні модифікатори до §Yшвидкості§!, §Yзахисту§! та §Yлокальної розвідки§! армії у всіх болгарських землях, на які претендувала Сербія."
 
 ### Decisions ###
 
@@ -441,8 +440,8 @@
  SER_remove_nedic_desc: "Брати Недічі є одними з ключових командирів у Сербській Армії, і якщо Мілан надто впливовий, щоб його прибирати, то його брат, Мілутін, все ще вразливий. Ми можемо вигадати якусь мумбо-юмбу тому, що його роль у реформуванні ВПС була недостатньою, і відсунути його на менш важливу посаду, а на його місце призначити нових, лояльних офіцерів."
  SER_remove_ilic: "Усунути Боголюба Іліча"
  SER_remove_ilic_desc: "Боголюб Іліч, як ми підозрюємо, є одним із лідерів таємного суспільства Конспірація, але через явний ідеологічний дисонанс він вступив у конфлікт з багатьма своїми колегами в армії в наступні роки. Ми можемо посилити цю напруженість і зібрати необхідну критичну масу, щоб усунути його з посади та призначити нових лояльних офіцерів."
- SER_remove_vukcevic: "Усунути Драголюба Михайловича"
- SER_remove_vukcevic_desc: "Драголюб Михайлович - не член таємного товариства Конспірація, але тим не менш неспокійний командир. Передбачуваний монархіст і командувач, який постійно вступає в конфлікт з іншими членами вищого командування, може бути легко зміщений і замінений більш лояльними офіцерами."
+ SER_remove_mihailovic: "Усунути Драголюба Михайловича"
+ SER_remove_mihailovic_desc: "Драголюб Михайлович - не член таємного товариства Конспірація, але тим не менш неспокійний командир. Передбачуваний монархіст і командувач, який постійно вступає в конфлікт з іншими членами вищого командування, може бути легко зміщений і замінений більш лояльними офіцерами."
 
 #Decisions to deal with terrorism as a puppet
  SER_fighting_domestic_enemies: "Боротьба з внутрішніми ворогами"
@@ -529,8 +528,6 @@
  MAC_national_populist_party: "$MAC_party$"
  MAC_national_populist_party_long: "$MAC_party_long$"
 
- MAC_ivan_mihajlov_leader_desc: ""
-
  IMRO_idea: "Внутрішня Македонська Революційна Організація"
  IMRO_idea_desc: "Багато десятиліть тому ВМРО сіяли страх у серцях османських турків та сербів, використовуючи партизанську тактику та тероризм для звільнення Македонії від будь-якого іноземного тирана. Нове покоління виросло у вільній Болгарії, але сьогодні, коли серби знову підкорили собі Вардарську долину, їм доведеться довести, що вони такі ж злісні, як їхні предки. Свобода або смерть!"
  IMRO_kuusou_mesorogiwi_idea: "Сучасний Месолонгіон"
@@ -595,10 +592,9 @@
  SER_counter_assassinations_desc: "Македонські терористи ведуть кампанію терору, і ми робитимемо те саме. Знищимо їхніх агентів, націлимося на їхніх командирів і зробимо все, що в наших силах, щоб розвалити керівництво організації. Якщо вони хочуть терору, вони його отримають!"
  SER_stray_dog_war: "Війна бродячих псів"
  SER_stray_dog_war_desc: "ВМРО не єдина організація, вона отримує значну підтримку з-за кордону – там вони окупували область Пірин у Болгарії та вимагають гроші для фінансування своїх пригод. Хоча ми не можемо отримати доступ до Пірину, наші грецькі друзі можуть - і ми можемо підштовхнути їх до розпалу прикордонного конфлікту між ними та Болгарією, щоб видворити ВМРО зі своєї території."
- SER_stray_dog_war_tt: "В даний час цей фокус знаходиться в стадії завершення."
  SER_stray_dog_war_req_tt: "§YПловдив§!: має модифікатор: §YОкупація Піринської Македонії§!\n"
  SER_stray_dog_war_results_tt: "Видаляє модифікатор: §YОкупація Піринської Македонії:§!\n"
- 
+
  IMRO_focus: "Фокуси ВМРО"
  IMRO_war_of_independence: "Визвольна війна"
  IMRO_propaganda_of_the_deed: "Пропаганда подвигів"
@@ -794,7 +790,6 @@
  SER_Dusan_Proclamation: "Душанська прокламація"
 
  SER_Balkan_Research_Initiative_decisions: "Балканська дослідницька ініціатива"
- SER_Invite_Country: "Запросити державу [From.GetNameDef]"
 
  SER_economic_council_decision: "Укласти Пакт організації"
  SER_economic_council_decision_desc: "У рамках нашого прагнення до поглиблення зв'язків з нашими союзниками та покращення економічного становища всього балканського регіону ми можемо запропонувати створення економічного союзу. Для керівництва ним буде сформовано Економічну Раду, що складається з торгових та фінансових експертів країн-учасниць, яка консультуватиме лідерів Белградського пакту. Чим більше членів погодяться, тим сильнішими будуть переваги."
@@ -802,6 +797,8 @@
  SER_economic_council_expansion_desc: "Поки що економічний союз виявляється дуже вигідним для всіх його членів, і ми можемо покращити його й надалі, проводячи нову політику, запропоновану економічною радою."
  SER_economic_council_application: "Звернутися до Пакту організації"
  SER_economic_council_application_desc: "Ми пропустили початкове створення Пакту організації через війну, але тепер, коли світ повернувся, ми можемо знову подати заявку на участь в організації."
+ SER_give_BUL_research_slot: "Help [BUL.GetName] Close the Gap"
+ SER_give_BUL_research_slot_desc: "The dream of the South Slavs has been realized with the formation of Yugoslavia. Yet, we must not forget our friends, especially [BUL.GetName]. Though they were our adversaries in the Fourth Balkan War only a few years ago, they have since turned the page, burying the hatchet and joining the Belgrade Pact. As the leader of the Pact, it is our duty to ensure their stability and prosperity, paving the path for a lasting peace in the Balkans."
 
 ### Flags ###
  SER_diplomatic_action: "Вже в контакті із фракцією"
@@ -825,16 +822,10 @@
 
  SER_the_dream_of_yugoslavia_tooltip: "Отримує національний дух §H$SER_the_dream_of_yugoslavia$§!, який надає\nЛіміт дивізій: [?8|+=0]\n§H[AUS.GetNameDefCap]§!:\n     $MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n     $MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n§H[CRO.GetNameDefCap]§!:\n     $MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n     $MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     $MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n     $MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]"
  SER_the_dream_of_yugoslavia_tooltip_no_AUS: "Отримує національний дух §H$SER_the_dream_of_yugoslavia$§!, який надає\nЛіміт дивізій: [?8|+=0]\n§H[CRO.GetNameDefCap]§!:\n     $MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n     $MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n§H[HUN.GetNameDefCap]§!:\n     $MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]\n     $MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY$: [?0.1|+=%1]"
- SER_The_Dream_Fulfilled_tooltip: "Модифікатор §H$SER_the_dream_of_yugoslavia$§! \n$MODIFIER_ARMY_MORALE_FACTOR$: [?0.05|+=%1]\n$MODIFIER_STABILITY_FACTOR$: [?0.05|+=%]"
 
- SER_has_black_monday: "Має національний дух §H$SER_black_monday$§!"
- SER_has_black_monday_NOT: "Не має національного духу §H$SER_black_monday$§!"
  SER_has_reduced_black_monday: "Знижує вплив національного духу §H$SER_black_monday$§!"
 
- SER_has_scarred_nation: "Має національний дух §HНація зі шрамами§!"
-
  SER_accepted_bulgaria_union: "Ми прийняли пропозицію Болгарії про югославський союз"
- SER_if_ENT_agrees: "Якщо §H[ENT.GetFlag] [ENT.GetNameDef]§! згоден:"
 
  SER_check_decision_tooltip: "Завітайте на вкладку §YРішення§!, щоб прочитати про механіку виборів та поточну ситуацію."
 
@@ -850,10 +841,12 @@
  SER_The_Belgrade_Salonica_Railway_can_complete_tt: "Виконує вимоги національного фокусу §HЗалізниця Белград-Салоніки§!"
 
  SER_has_republic_tt: "Сербія – несоціалістична республіка"
- 
+
  SER_bulgaria_integration_tooltip: "Не інтегровані болгарські території"
- 
+
  SER_in_faction: "є незалежним членом фракції"
+
+ SER_loses_stambo_ally: "§RThe restoration of the monarchy will not be taken kindly by our repubican Yugoslavist allies in Bulgaria§!"
 
 ### Focuses ###
 
@@ -941,7 +934,6 @@
 
  SER_state_of_national_consolidation: "Держава Національної Консолідації"
  SER_state_of_national_consolidation_desc: "Геополітична ситуація, в якій опинилася Сербія, потребує масштабного перегляду нашої внутрішньої політики. Ми маємо колективно зрозуміти, що зможемо досягти югославської мрії лише за повної мобілізації всіх активів Сербії. Це порушення демократії, але тимчасове та необхідне."
- SER_new_focuses_unlocked: "Будуть розблоковані нові фокуси."
 
  SER_organise_greenshirts: "Зеленосорочники"
  SER_organise_greenshirts_desc: "Хоча вони існують уже кілька років, Зеленосорочники, особисте збройне воєнізоване формування Мілана Стоядиновича, можуть лише посилюватися, і ми навіть можемо стверджувати, що потреби Держави Національної Консолідації вимагають озброєних громадян, щоб вдавати, що все гаразд."
@@ -1418,7 +1410,6 @@
 
  SER_radio_free_belgrade: "Зв'язок з сільським ополченням"
  SER_radio_free_belgrade_desc: "Іллірійські села, як і їхні сербські побратими, є общинними, і їхня сільська місцевість, як і раніше, рясніє озброєними громадянами - від простих селян до наслідувачів гайдуків. Вступаючи з ними в таємні контакти, ми можемо залучати прихильників, збирати розвіддані та готуватися до неминучого повстання."
- SER_radio_free_belgrade_tt: "Змінити §HПланування Сербської війни§! на\nМісцева розвідка для ворога: §R15%§!"
 
  SER_precani_pivot: "Покластися на Пречани"
  SER_precani_pivot_desc: "Сербська меншість в австрійських землях, звана пречанами, історично були найгарячішими прихильниками союзу з Сербією та створення Югославії – факт, який ми можемо використати для отримання бази підтримки серед населення під час війни проти Австрії."
@@ -1431,7 +1422,6 @@
 
  SER_piedmontianism: "П'ємонтство"
  SER_piedmontianism_desc: "Німеччина була утворена прусською військовою могутністю, а Італія - ​​п'ємонтською. Таким чином, Югославія має бути утворена сербською військовою могутністю, і тому турбота про сербську армію у війні проти Австрії має бути нашим першим пріоритетом."
- SER_piedmontianism_tt: "Змінити §HПланування Сербської війни§! на\n$MODIFIER_ARMY_SPEED_FACTOR_FOR_CONTROLLER$: §R-25%§!\n$MODIFIER_LOCAL_ORG_REGAIN$: §R-10%§!"
 
  SER_popular_mobilization: "Мобілізація населення"
  SER_popular_mobilization_desc: "Така маленька країна як Сербія ніколи не зможе перемогти імперію Габсбургів, навіть якщо на її боці будуть балканські держави. Наш єдиний вихід - налаштувати південних слов'ян імперії проти них і підняти масові повстання в їхньому тилу, які приведуть нас до перемоги."
@@ -1734,16 +1724,23 @@
  SER_YUG_royal_grace: "Королівська милість"
  SER_YUG_royal_grace_desc: "Король Петро II Карагеоргович відрізняється від свого батька - це монарх, який виріс і здобув освіту на Заході, керований здібним двором, який вважає своїм головним пріоритетом реалізацію конституційної монархії. Нехай милість нашого Сучасного Карагеорговича торкнеться всіх народів Югославії!"
 
+ SER_pavle_heir_name_tt: "One day he will assume the throne as §YPavle I§!."
+ SER_petar_heir_name_tt: "One day he will assume the throne as §YPetar III§!."
+ SER_mihajlo_heir_name_tt: "One day he will assume the throne as §YMihajlo II§!."
+ SER_dusan_heir_name_tt: "One day he will assume the throne as §YDušan II§!."
+ SER_aleksandar_heir_name_tt: "One day he will assume the throne as §YAleksandar III§!."
+ SER_albert_heir_name_tt: "One day he will assume the throne as §YAlbert I§!."
+
 ### Bookmark ###
  SER_KR_gathering_storm_desc: "Під час іншої знаменитої революції 1925 року сербський народ нарешті повалив свою монархію і створив Сербську Республіку, яскраве світло свободи і демократії на Балканах. Протягом останніх десяти років Республіка знемагала під обмеженнями Вартольцського договору, але перша ж ознака слабкості Австрії неодмінно призведе до того, що ці кайдани будуть скинуті. Чи зможуть серби повернути те, що вони втратили під час Вельткригу, і знову запалити факел югославізму - і все це при збереженні свободи, якої вони нарешті досягли?"
 
 ### Intro Screen ###
+ SER_country_intro_background: "GFX_SER_intro"
  SER_country_intro_header: "Республіка Сербія"
  SER_country_intro_content: "Вбивство ерцгерцога Франца Фердинанда Гаврило Принципом, боснійським сербським націоналістом, стало каталізатором, який спричинив початок Вельткріга. Хоча сербські війська билися доблесно і заслужили повагу всього світу, загальмувавши просування Центральних держав на кілька місяців, до кінця 1915 року вся територія країни виявилася окупованою. Поділена на австро-угорську та болгарську окупаційні зони, Сербія експлуатувалася та спалювалася, її противники прагнули помститися за те, що вони вважали за варварський режим. Однак це лише посилило опір на території країни, і до 1918 року ситуація з обох боків фронту змінилася. Австро-Угорщина під тиском своїх німецьких союзників нарешті розпочала мирні переговори, а сербський опір на Корфу, бачачи жалюгідний стан Антанти, дійшов висновку, що навіть гіркий світ кращий за анексію. Король Петар зрікся престолу, і на трон зійшов його син Олександр II, який у 1919 році підписав каральний Вартхольцький договір - він відновив єдину Сербію в австро-угорській окупаційній зоні, назавжди пов'язану з австрійською сферою впливу.\n\nСоціалістичний рух, що підбадьорився в Белграді, натхненний російською і французькою революціями, і опозиція Народно-радикальної партії змусили Олександра II вжити жорстких заходів. Політичне життя було припинено, соціалістичний рух заборонено, а підтримки порядку в переможеній країні було запроваджено королівську диктатуру. Однак цей акт тільки посилив напруженість у країні, і в 1925 вона вилилася в революцію. Військові, об'єднані в таємне суспільство Конспірація, вчинили акт непокори своєму королеві та організували вбивство Олександра II 3 грудня, що призвело королівську диктатуру до краху. Прем'єр-міністр Воїслав Велькович здався опозиції, яка проголосила Сербську Республіку.\n\nПісля короткого дипломатичного протистояння тимчасовий уряд Любомира Стояновича визнав Вартхольцький договір, а Відень у свою чергу визнав республіканський уряд. Сьогодні Сербія є палаючим символом демократії на Балканах - принаймні на перший погляд. Однак насправді, хоча уряд і проголошує такі шляхетні цілі, як мир, добробут та процвітання, ніщо в сербському уряді не відбувається без схвалення Конспірації. Це військове таємне суспільство, навмисно стилізоване під Чорну Руку, прагне одного і лише одного - звільнення всіх сербів за межами Республіки. Знову ж таки в тіні таїться й інша змова - Біла Рука, очолювана Петаром Живковичем, яка чекає нагоди повалити республіканське міжцарство і відновити на престолі неповнолітнього сина Олександра II.\n\nНа початку 1936 року Сербія все ще номінально є державою-клієнтом Австро-Угорщини, але з кожною секундою ця хватка стає дедалі слабшою, і коли вона нарешті впаде, всі вороги Сербії можуть здригнутися."
- serbia.0.a: "Сербія знову стане великою!"
- 
+
  SER_guide: "§MRepublicans Remain§! (§lSocial Liberal§!)\n£white_dot Win the 1936 election with any government led by the Republicans.\nIf the Radical Socialists are in the coalition, fight the coup by calling on the group the conspirators didn't ally with in the \"Unrest Among the Chetniks\" event.\n\n§MRadicals - Democracy Retained / National Consolidation§! (§mMarket Liberal§! / §cSocial Conservative§! / §gAuthoritarian Democrat§! / §PPaternal Autocrat§!)\n£white_dot Win the 1936 election with any government led by the Radicals.\n£white_dot Taking the focus The Sarez will turn you Social Conservative.\n£white_dot Taking the focus The State of National Consolidation will turn you Authoritarian Democrat.\n£white_dot Finishing the political focus tree after taking The State of National Consolidation will turn you Paternal Autocrat, with an option to invite Petar II to restore the monarchy or continue Stojadinovic's rule.\n\n§MVictory to the People§! (§RRadical Socialist§!)\n£white_dot Win the 1936 election with any government led by the Socialist Workers.\n£white_dot Fight the coup by calling on the group the conspirators didn't ally with in the event \"Unrest Among the Chetniks\".\n£white_dot Complete all three timed missions before they expire.\n\n§MRoyalist Coup - Živković Endures / National Regeneration§! (§PPaternal Autocrat§! / §NNational Populist§!)\n£white_dot Win the 1936 election with any government that includes the Socialist Workers.\n£white_dot Fall to the coup by calling on the group the conspirators did ally in the event \"Unrest Among the Chetniks\".\n£white_dot Favoring one branch of the political tree will lead to that branch's faction becoming dominant becoming dominant after Petar comes of age in August 1941:\n£white_dot Enshrine Military Dominance > Paternal Autocrat\n£white_dot National Regeneration > National Populist"
- 
+
 ### Events ###
  serbia.1.t: "Чорний понеділок ударяє по Сербії!"
  serbia.1.d: "Сербія була спустошена Вельткрігом більше, ніж будь-яка інша країна. Вона втратила чверть свого населення, а вся країна залишилася розграбованою, половина її території була анексована Болгарією, а решта змушена була піти на величезні поступки Австрійської імперії. І все ж таки, незважаючи на все це, Сербія вистояла, повільно відновлюючи стабільну, хоч і ослаблену економіку, засновану на сільськогосподарському виробництві та вільній торгівлі. Реформи прем'єр-міністра короля Олександра II, Воїслава Вельковича, були скасовані республіканським урядом, і тому стабільний сербський динар, який він боровся, зберігався протягом 1930-х років.\n\nКрах фондового ринку в Берліні звів нанівець більшу частину цієї роботи. Хоча Сербія не так прив'язана до німецької економіки, як інші країни регіону, крах світової торгівлі призвів до скорочення експорту сільськогосподарської продукції і, таким чином, залишив більшу частину економіки в порожнечі. Вже готується пакет заходів у відповідь і реформ, але населення, яке здобуло прямий удар по кишені, вже не так сильно довіряє Республіканській партії. Зрештою, вони повинні були запобігти цьому..."
@@ -2131,6 +2128,15 @@
  serbia.75.d: "Депутати Скупщини, які рішуче виступили проти путчу та зуміли уникнути домашнього арешту, вирушили на південь країни, де в Чорногорії вони реформувалися в оболонку парламенту. Більшість депутатів були робітниками-соціалістами, соціалістами та лівими республіканцями, у яких було найбільше причин боятися нового режиму Конспірації і, отже, чинити опір йому.\n\nХоча було кілька батальйонів та резервістів, які перейшли на їхній бік, вигнана Скупщина спочатку здавалася беззубою, доки не почала укладати союзи з войовничими лівими югославськими. Колишні пелагичівські партизани під керівництвом Вукашина Марковича повставали один за одним, за ними пішли чорногорські, македонські та албанські сепаратисти, що дозволило цьому руху зміцнити напівміцний контроль над півднем країни.\n\nУ Цетіні воно оголосило про створення Антиреакційної скупщини за визволення Сербії і фактично перетворилося на революційну організацію, пов'язану з Третім Інтернаціоналом."
  serbia.75.a: "Ці зрадники мають бути роздавлені!"
 
+ serbia.76.t: "The Great Betrayal"
+ serbia.76.d: "The actions of President Stamboliyski, in going through with the unthinkable and pledging a formal alliance with the Serbians, were still fresh in the minds of all Bulgarians. It would be an understatement to say that it was controversial and without much debate, but for the most part, it seemed to be swept up in the whole host of other changes that had come to Bulgaria in recent years.\n\nToday this decision has given even more reason to its controversy, as Serbian premier Milan Stojadinović has gone against all pledges of supposed Yugoslavist republican brotherhood, and declared that the Serbian monarchy is to be reinstated.\n\nThe response has been almost unanimous, and the government is hearing for Bulgaria to sever all relations with Serbia immediately. The question remains as where else will Bulgaria be able to look to in the world, and if the dream of a true Yugoslavia is fully extinguished forever."
+ serbia.76.a: "We can never stand for this!"
+ serbia.76.b: "Surely they don't really mean it? This has to be a joke."
+
+ serbia.77.t: "Fall of the Bulgarian Eagle"
+ serbia.77.d: "With a swift and sudden stroke, the Bulgarian overlordship over the Balkans has been overthrown. Their so-called 'Greater Bulgaria' turned out to be a paper tiger - attacked from multiple sides, divided between multiple fronts, it suffered the same fate as it did in 1913. We have once again been reunited with our brethren across the Great Morava, and have even reclaimed the lands of Macedonia, which, in spite of what the locals claim, have always been the heritage of the Serbian Empire. Those who doubted our government's course have been silenced by our tremendous victory, at least for now.\n\nA few less enthusiastic voices claim that our nation will struggle to reintegrate the newly reconquered territories, but they are only a handful and their concerns are generally shunned by the optimists in the parliament in Belgrade."
+ serbia.77.a: "Excellent."
+
  serpuppet.1.t: "Сербія під болгарською окупацією"
  serpuppet.1.d: "Внаслідок війни між Белградським Договором та Болгарією з метою знищення болгарської гегемонії на Балканах і незважаючи на чисельну перевагу наших армій, Сербія зазнала поразки. З цього моменту болгарські війська увійшли до Белграду і опанували останні осередки опору. Попередній уряд був частково заарештований, інша партія втекла.\n\nБолгарська влада поставила при владі Живоїна Періча, лідера Державної партії сербських демократів. Ця партія вже була при владі у 1920-1925 роках, але була повалена внаслідок республіканської революції. Тепер їм належить перебудувати країну та відновити свою політику."
  serpuppet.1.a: "Потрібно побудувати нову країну."
@@ -2212,6 +2218,16 @@
  serpuppet.17.t: "Нам вдалося проголосити незалежність"
  serpuppet.17.d: "Поки Болгарія була повернута спиною, ми встигли стати незалежними. Але не зненацька, деякі, схоже, повідомили про це..."
  serpuppet.17.a: "До смерті."
+
+ serpuppet.100.t: "The [SER.GetAdjective] Monarchy"
+ serpuppet.100.d: "The Serbian Monarchy has had a storied history, with the House of Obrenović emerging as Princes of an independent Serbia shortly after the 1878 Congress of Berlin. Raised to a King in 1882, their Austro-philic foreign policy drew the ire of Pan-Serbian ultranationalists, who staged a bloody palace coup in 1903 and killed King Alexander I. The National Assembly then invited the exiled Petar Karađorđević, descendent of an earlier Prince Alexander deposed by the Obrenovićs, to take the throne, reflecting a shift towards an Russo-philic foreign alignment. Contrasting with the generally unpopular King Alexander I, King Petar I was fairly popular for respecting constitutional rule and reigning during Serbian victories in the Balkan wars.\n\nSerbia's fortunes took a turn for the worse in the Great War. Crown Prince Alexander I, who effectively took charge of the monarchy after the start of the war, narrowly avoided losing the throne to the Montenegrin Prince during peace talks. His father abdicated the throne rather than accept the separate peace Alexander lobbied for, and thus Alexander became King Alexander II of Serbia.\n\nThe ensuing Treaty of Wartholz was deeply unpopular in Serbia, and Alexander's rule took an authoritarian turn in 1919 using a miners' strike as a pretext for his Obznana. With the help of Prime Minister Vojislav Veljković, Alexander ruled through the Central Powers backed \"State Party of Serbian Democrats\", turning the nation into a de facto royal dictatorship. Just a few years later however, the King was shot dead in 1925 amid mass protests, throwing the nation into chaos and resulting in the creation of the republic.\n\nHis son, Crown Prince Petar, was whisked into exile. The question of the monarchy by and large fell to the wayside in the ensuing years, with territorial revanchism often taking priority. However, with the fall of Belgrade once again to foreign powers in just a generation, the Serbian political scene is back at a crossroads. It will be up to us to \"guide\" this new state in the correct direction."
+ #Note: I left it vague whether or not Petar got restored earlier.
+ serpuppet.100.a: "[SER.GetName] shall become a Republic."
+ serpuppet.100.b: "[SER.GetName] shall become a Monarchy."
+
+ serpuppet.101.t: "Coronation of King Petar"
+ serpuppet.101.d: "Petar II Karađorđević has finally come of age recently and the [SER.GetAdjective] government has worked to organise a lavish coronation ceremony attended by representatives from [ROOT.GetName] and other allied states. While traditionally held on his birthday, logistical complications emerged and ultimately the ceremony was set for today - an anniversary of the initial restoration of the monarchy by [Root.GetAdjective] occupation authorities, a solemn reminder of the continued dominance of foreign powers on the country. Of course, both [SER.GetAdjective] and [ROOT.GetAdjective] officials thoroughly deny any deliberate connection, insisting it was merely a coincidence.\n\nRegardless of the politics, the ceremony was grand. As he swore an oath to defend the (remaining) integrity of [SER.GetName], he was symbolically granted all the powers of the throne. Of course, in practice, little has changed. Just as the regency council had little influence in the practical governing of the country, power remains largely in the hands of the Prime Minister - hand-picked by our ambassador a few years ago. King Petar II may be a symbol of stability and tradition, but he is also a reminder of the ruthless international environment that marred the reigns of the last few Kings."
+ serpuppet.101.a: "May he rule well."
 
  serflavor.1.t: "Белградський пакт"
  serflavor.1.d: "Газети Болгарії сьогодні переповнені новинами з Сербії - дипломатична подія, яка, на думку багатьох, готувалась роками, пакт між сербами, румунами та греками, нарешті, завершено, і таким чином народився Бєлградський пакт. Мало хто дивиться на цю угоду наївно - болгарський політичний консенсус, незалежно від того, чи схиляється він ліворуч чи праворуч, розуміє, що сторони, що підписали договір, будуть використовувати його як зброю проти Болгарії.\n\nДеякі були налаштовані тривожніше, ніж інші. Найбільша щоденна газета Софії 'Ранок' надрукувала великими жирними літерами: 'ВІЙНА НАБЛИЖАЄТЬСЯ! СЕРБИ МОБІЛІЗУЮТЬСЯ ДЛЯ ЗАХОПЛЕННЯ МАКЕДОНІЇ!'. Тривога була пов'язана з однією з проголошених цілей Белградського конгресу - "закликати до нового порядку на Балканах", що болгарські консерватори могли інтерпретувати лише як заклик до повалення Великої Болгарії. У тій самій газеті було опубліковано статтю Миколи Жекова, генерала болгарської армії, який стверджував, що Болгарія зовсім не готова до ведення війни та єдине рішення - негайно звернутися до Німеччини та Австро-Угорщини з проханням про посередництво. Співпраця з німцями, які так жорстоко експлуатували нас під час Вельткрігу, нещодавно вважалася немислимою, і можливо, досі вважається такою, але сьогодні все можливо...\n\nСербські, турецькі та грецькі представники в Народній скупщині виступили на підтримку пакту - румунська делегація від виборчого округу в Добруджі, проте, була стриманішою. Зрештою їх еквівалентом майбутнього визволителя є екстремістська Залізна гвардія..."
@@ -2399,20 +2415,29 @@
  serflavor.36.d: "Міністерство закордонних справ Сербії отримало нове та несподіване послання з Канади - воно походить від спадкоємця та нинішнього претендента на Королівство Сербія Петра Карагеорговича. Наслідний принц був вивезений зі свого будинку в Белграді, коли йому було всього два роки, і виховувався принцом Павлом у Канаді, де він підлещувався перед британською знатью і жив далеко від батьківщини. Однак тепер, коли він подорослішав, патріотичний заклик повернутися на батьківщину змусив його запитати, чи має він шанс повернутися.\n\nНаслідний принц заприсягся, що після повернення додому він відмовиться від претензій на сербський престол і проживе решту життя як приватна особа в Белграді. Крім того, він заприсягся уникати політичних справ і не підтримувати жодних монархічних організацій у Сербії, які домагатимуться його реставрації. Однак навіть у цьому випадку присутність спадкоємця в Сербії, безперечно, мобілізує місцевих роялістських агітаторів - чи варто надавати Петру право на повернення?"
  serflavor.36.a: "Він може повернутися як приватна особа."
  serflavor.36.b: "Ні, Республіка ніколи не дозволить йому повернутися."
- 
+
  serflavor.37.t: "П'ята Балканська війна"
  serflavor.37.d: "Сербські війська збираються на кордоні з Австро-Угорщиною - на відміну від двадцятирічної давності, вони не мобілізовані для оборони від загарбників із півночі, а готуються до нападу, маючи намір раптовим ударом розколоти імперію Габсбургів і призвести до її загибелі. Хоча режим у Белграді може сяяти впевненістю, викидаючи пропаганду про звільнення своїх братів за річкою Дріна, настрій на місцях набагато менш оптимістичний. У листах сербських солдатів, які готуються до війни, звучить загальна тема: 'Чи має Белградський пакт шанс у цій війні?' Двадцять років тому Сербія виступила проти Австро-Угорської імперії, і незважаючи на всю хоробрість, виявлену сербськими солдатами під час кампанії, їхню країну розірвали на частини, побили і спалили. Сьогодні їхні вороги ще сильніші, а союзники ще слабші - так чи є підстави бути впевненими у своїй перемозі?\n\nОднак війна починається незалежно, і для політиків у Белграді, схоже, немає іншого виходу, крім завдати удару зараз. Ті, хто хоче звільнити своїх південних слов'ян, побоюються, що якщо Австрію дати спокій надовго, вона відновиться і омолодиться, і її неможливо буде оскаржити. Ті, хто вірить у справу югославізму, бояться, що якщо їхнє полум'я не розгориться знову, або, не дай боже, Сербія знову програє війну, то мрія про південнослов'янську єдність стане історією. Серби та хорвати будуть розділені назавжди, і остання надія на югославське братство згасне.\n\nЯкщо тільки пакт не здобуде малоймовірну перемогу."
  serflavor.37.a: "Ми маємо використати наш останній шанс."
- 
+
  serflavor.38.t: "Чорногорські федералісти перемагають на місцевих виборах"
  serflavor.38.d: "За кілька місяців до парламентських виборів у Сербській Республіці, у Чорногорії відбулися місцеві вибори мерів та районних рад – і Чорногорська Федералістська Партія (Crnogorska federalistička stranka, CFS) здобула вражаючу перемогу. Більшість мерів, районних рад та інших помітних виборних посад у Чорногорії наразі обіймають її члени. Крім того, ЧФП планує претендувати на місця в чорногорському парламенті на парламентських виборах, а обидва його лідери, Секула Дрльович та Новиця Радович, балотуються до Скупщини.\n\nЧФП є помірним наступником чорногорських зелених, партизанського руху, лояльного до будинку Петровича-Негоша, що діяло у Чорногорії у 1920-х роках. Коли Центральні держави проголосили об'єднання Сербії та Чорногорії в маріонеткове королівство під владою Карагеорговичів, ці партизани організувалися в гірському регіоні і залишалися активними аж до Республіканської революції. У той час, як радикальні члени руху продовжували боротьбу, оскільки вони навряд чи могли розраховувати на відновлення будинку Петровича-Негоша навіть у чорногорській федеративній одиниці всередині Сербії, помірні та чорногорські політики на чолі з Дрлевичем та Радовичем намагалися вести переговори. Президент Яша Проданович амністував їх і підписав закон про кілька поступок чорногорцям, таких як збільшення місцевої автономії та визнання чорногорської мови.\n\nТепер, коли настав 1936 рік, ЧФП залишається впливовою силою у Чорногорії, і їхні депутати у Скупщині можуть відіграти вирішальну роль у зміні результатів виборів, залежно від того, з ким вони вирішать працювати."
  serflavor.38.a: "Чорногорці ні з ким не працюють!"
  serflavor.38.b: "Вони створюють альянс із республіканцями."
  serflavor.38.c: "Вони ведуть переговори з соціалістами щодо федералізації."
- 
+
  serflavor.39.t: "Хто стане сербським Савінковим?"
  serflavor.39.d: "Вплив приходу до влади Бориса Савінкова, який проголосив нову ідеологічну основу для майбутнього Росії і, можливо, всієї Європи, неможливо недооцінити. Особливо в Сербії, країні з глибокими історичними та культурними зв'язками зі східнослов'янським гегемоном. Новий політичний трактат із досить провокаційною назвою - 'Хто буде сербським Савінковим?' - поширився по всій Сербії, а його автором є Велібор Йоніч.\n\nЙонич - ветеран республіканської революції, професор політики та історії, який став членом Республіканської партії після Вельткріга - проте після революції він покинув її і тимчасово відійшов від політики. Будучи затятим націоналістом з авторитарними нахилами, він розглядав революцію як "національне відродження" від династії, яка зазнала краху, та ліберальна демократія, встановлена ​​після цього, не задовольнила його мрії.\n\nУ книзі "Хто буде сербським Савінковим?", Йонич намагається провести паралель між Російською Республікою до Савінкова і Сербією, обидві слов'янські держави "схожого духовного складу", які були спокушені ілюзіями ліберальної демократії після поразки у війні. Росія була захоплена диктатором, який дотримується нового ідеологічного кредо, яке Йонич називає 'національно-революційним' - явно радикальним і спрямованим проти статус-кво, але ідея, яка прагне повернути країну туди, де їй справді потрібно зосередитися, це реваншизм.\n\nПитання, винесене в заголовок трактату, риторичне, Йонич не дає на нього відповіді - проте він пише, що не тільки чекає на захоплення сербської революції, а й вітає цей 'кінець опіату сербського народу'."
  serflavor.39.a: "Сподіваюся, ніхто"
+
+ serflavor.40.t: "Birth of the Crown Prince"
+ serflavor.40.d: "Today, on [GetDate], the Royal Family and the Kingdom rejoice, for the next-in-line to the throne, a healthy boy, has just been born to King Peter II and his wife, Queen Alexandra.\n\nThe joyous occasion has been marked throughout the country with cannon fire, bellringing and a festive Te Deum at St. Michael's Cathedral, celebrated by the Patriarch himself. The Prime Minister has also announced that, in order to properly celebrate the momentuous occasion, numerous prisoners will be pardoned or will have their sentences reduced. Not only that, but new schools are planned to be built throughout the country and an extraordinary debt forgiveness programme is to be implemented, to help the vast rural population of the Kingdom and endear them to the baby boy, their future King.\n\nThe prince will be baptised with water blessed from the Monastery of Hilandar on Mount Athos, founded by Saint Sava himself and bearer of the Icon of the Three-Handed Theotokos, and the ceremony is to be attended by Albert of the British Royal Family, a close friend of King Petar, who was invited to serve as the prince's godfather, as well as by his royal cousin Mihai of Romania, with whom Petar developed a bond after returning to Serbia. In addition, large crowds are expected to attend the ceremony, and join in the happiness of the House of Karadordevic."
+ serflavor.40.a: "He shall be named Pavle, after my beloved uncle."
+ serflavor.40.b: "He shall be named Petar, after my illustrious grandfather."
+ serflavor.40.c: "He shall be named Mihajlo, after my Romanian cousin."
+ serflavor.40.e: "He shall be named Aleksandar, to honour and redeem my father's name."
+ serflavor.40.f: "He shall be named Albert, after his godfather."
+ serflavor.40.g: "He shall be named Dušan, to honour our Nemanjic forebears."
 
  yugmechanics.1.t: "Хорватія повстає!"
  yugmechanics.1.d: "Наші стосунки з хорватським населенням погіршилися настільки, що воно взялося за зброю проти нас! Виник підпільний опір, що підтримується широкими верствами населення та ветеранами війни проти Австрії. Хоча знищення цього повстання дозволить ліквідувати найжорстокіших сепаратистів, це буде коштувати багатьох життів, і ми маємо бути впевнені, що таке не повториться."
@@ -2533,13 +2558,13 @@
  yugoslavia.17.d3: "На з'їзді були присутні соціалісти всіх ідеологічних напрямів по всій Югославії – і кілька тижнів дебатів, дискусій та конфліктів закінчилися повним провалом. І сербська, і іллірійська сторона Конгресу постійно критикували керівництво СРП за нездатність скористатися своєю перемогою на виборах у Сербії 1936 року - моментом, який мав стати остаточною перемогою для партії, але призвів до компромісу та провалу.\n\nУ результаті соціалістичні рухи Югославії розпалися, соціал-демократи залишили з'їзд, щоб продовжити самостійну роботу як Соціалістичну партію Югославії, а хорватські соціалісти сконцентрувалися навколо Синдикалістської партії як головного випробування сербської СРП у революційній соціалістичній ніші."
  yugoslavia.17.d4: "На з'їзді були присутні соціалісти всіх ідеологічних напрямів по всій Югославії – і кілька тижнів дебатів, дискусій та конфліктів, нарешті, завершились частковою згодою. Помірковані соціалісти дуже швидко залишили з'їзд, розчаровані його революційним напрямом, і продовжили свою роботу як Соціалістична партія Югославії, тоді як решта з'їзду підготувала проект всеосяжного об'єднання всієї радикальної соціалістичної лівої в Соціалістичну робітничу партію Югославії. Хоча партія продовжує стикатися з низкою проблем, таких як питання про те, чи збереже неминуча соціалістична революція Югославію чи розпадеться на етнічні держави, оскільки вона є штучним створенням, на даний момент соціалістичний єдиний фронт стоїть на місці."
  yugoslavia.17.a: "Нехай буде так"
- 
+
  yugoslavia.18.t: "Новое руководство для Авангардной партии"
  yugoslavia.18.d: "Після Вуковарського з'їзду новостворені іллірійські соціалісти порушили питання про лідерство. Трифун Кацлерович, обраний президентом Сербії в 1936 році, досі керував Югославією, але словенський і хорватський блок у партії оскаржив це, заявивши, що хоча його м'яка направляюча рука була ефективною досі, його перебування при владі означає увічнення сербського панування. Чи не повинна об'єднана Югославія відійти від цього, якщо вона хоче уявити себе державою для всіх югославів?\n\nКоаліція боснійських та хорватських депутатів запропонувала кандидатуру Мілана Горкіча – боснійського соціалістичного ідеолога чеського походження, який до Визвольної війни активно працював в Іллірії під владою Габсбургів. Горкіч пропонує, що національне питання для соціалістичної Югославії так само важливе, як і класове питання. Соціалістична держава не повинна бути гнобителем народів і повинна їх представляти - СРПЮ, на його думку, слід реорганізувати, створивши субпартії для кожної великої етнічної групи, а саму країну зробити більш федеративною.\n\nСербська фракція партії, прагнучи компромісу, запропонувала кандидатуру Моші Піяде, відомого сербського письменника-соціаліста та ідеолога сефардського єврейського походження, який відіграв ключову роль у поширенні соціалістичної ідеології в Сербській республіці та розробці ідеологічних постулатів сербської СРП. У разі обрання Піяде закликає до ще більш суворого дотримання соціалістичної доктрини, об'єднання Югославії за етнічною ознакою та очищення партії від 'лівих помилок'. Нарешті, деякі можуть погодитися зберегти Трифуна Кацлеровича - зрештою, навіть хорвати, словенці і боснійці можуть його поважати..."
  yugoslavia.18.a: "Президент Кацлерович досі добре керував нами."
- yugoslavia.18.b: "Моша Піяде зробить партію по-справжньому доктринальною!" 
- yugoslavia.18.c: "Мілан Горкіч встановить мир між югославами!" 
- 
+ yugoslavia.18.b: "Моша Піяде зробить партію по-справжньому доктринальною!"
+ yugoslavia.18.c: "Мілан Горкіч встановить мир між югославами!"
+
  yugoslavia.19.t: "Міжпартійна критика"
  yugoslavia.19.d: "Минуло кілька років, а Югославія все ще стоїть на порозі етнічного конфлікту. Дедалі більше членів СРПЮ розчаровуються в уряді Мілана Горкіча. Вони все частіше стали критикувати лідера партії як правого девіаціоніста, чия політика виявилася невдалою, і навколо колишнього члена хорватської СРП Йосипа Броза утворилася досить дієздатна коаліція.\n\nБроз теж засуджував Горкіча як правого девіаціоніста, стверджуючи, що його увага до національного питання явно походить з його прихованих націоналістичних симпатій. Натомість Югославія повинна прагнути до інтеграції всіх національностей, розкиданих Балканами, в одну федеральну, 'югославську' державу - інакше вона може не пережити наступні десятиліття. Однак у критиків Броза є проти нього багато аргументів, оскільки його відданість соціалізму не надто доктринальна, і є підозра, що якщо він отримає гору над Горкичем, то за прагматичної необхідності піде на компроміс із соціалістичними ідеалами, такими як ринкова економіка.\n\nУ Сараєво був скликаний надзвичайний з'їзд партії, і до його закінчення одна сторона в партії, напевно, витіснить іншу."
  yugoslavia.19.a: "Горкіч витримує вотум недовіри та зміцнює контроль."
@@ -2551,44 +2576,31 @@
  SER_DEF: "Сербія"
 
  SER_totalist: "Соціалістична Республіка Сербія"
- SER_totalist_ADJ: "Сербськ"
  SER_totalist_DEF: "Соціалістична Республіка Сербія"
  SER_syndicalist: "Соціалістична Республіка Сербія"
- SER_syndicalist_ADJ: "Сербськ"
  SER_syndicalist_DEF: "Соціалістична Республіка Сербія"
  SER_radical_socialist: "Соціалістична Республіка Сербія"
- SER_radical_socialist_ADJ: "Сербськ"
  SER_radical_socialist_DEF: "Соціалістична Республіка Сербія"
 
  SER_republic_totalist: "Соціалістична Республіка Сербія"
- SER_republic_totalist_ADJ: "Сербськ"
  SER_republic_totalist_DEF: "Соціалістична Республіка Сербія"
  SER_republic_syndicalist: "Соціалістична Республіка Сербія"
- SER_republic_syndicalist_ADJ: "Сербськ"
  SER_republic_syndicalist_DEF: "Соціалістична Республіка Сербія"
  SER_republic_radical_socialist: "Республіка Сербія"
- SER_republic_radical_socialist_ADJ: "Сербськ"
  SER_republic_radical_socialist_DEF: "Республіка Сербія"
  SER_republic_social_democrat: "Республіка Сербія"
- SER_republic_social_democrat_ADJ: "Сербськ"
  SER_republic_social_democrat_DEF: "Республіка Сербія"
  SER_republic_social_liberal: "Республіка Сербія"
- SER_republic_social_liberal_ADJ: "Сербськ"
  SER_republic_social_liberal_DEF: "Республіка Сербія"
  SER_republic_market_liberal: "Республіка Сербія"
- SER_republic_market_liberal_ADJ: "Сербськ"
  SER_republic_market_liberal_DEF: "Республіка Сербія"
  SER_republic_social_conservative: "Республіка Сербія"
- SER_republic_social_conservative_ADJ: "Сербськ"
  SER_republic_social_conservative_DEF: "Республіка Сербія"
  SER_republic_authoritarian_democrat: "Республіка Сербія"
- SER_republic_authoritarian_democrat_ADJ: "Сербськ"
  SER_republic_authoritarian_democrat_DEF: "Республіка Сербія"
  SER_republic_paternal_autocrat: "Республіка Сербія"
- SER_republic_paternal_autocrat_ADJ: "Сербськ"
  SER_republic_paternal_autocrat_DEF: "Республіка Сербія"
  SER_republic_national_populist: "Сербська Держава"
- SER_republic_national_populist_ADJ: "Сербськ"
  SER_republic_national_populist_DEF: "Сербська Держава"
 
  YUG_mon: "Югославія"
@@ -2596,34 +2608,24 @@
  YUG_mon_DEF: "Югославія"
 
  YUG_mon_totalist: "Соціалістична Республіка Югославія"
- YUG_mon_totalist_ADJ: "Югославськ"
  YUG_mon_totalist_DEF: "Соціалістична Республіка Югославія"
  YUG_mon_syndicalist: "Соціалістична Республіка Югославія"
- YUG_mon_syndicalist_ADJ: "Югославськ"
  YUG_mon_syndicalist_DEF: "Соціалістична Республіка Югославія"
  YUG_mon_radical_socialist: "Соціалістична Республіка Югославія"
- YUG_mon_radical_socialist_ADJ: "Югославськ"
  YUG_mon_radical_socialist_DEF: "Соціалістична Республіка Югославія"
  YUG_mon_social_democrat: "Югославія"
- YUG_mon_social_democrat_ADJ: "Югославськ"
  YUG_mon_social_democrat_DEF: "Югославія"
  YUG_mon_social_liberal: "Югославія"
- YUG_mon_social_liberal_ADJ: "Югославськ"
  YUG_mon_social_liberal_DEF: "Югославія"
  YUG_mon_market_liberal: "Югославія"
- YUG_mon_market_liberal_ADJ: "Югославськ"
  YUG_mon_market_liberal_DEF: "Югославія"
  YUG_mon_social_conservative: "Югославія"
- YUG_mon_social_conservative_ADJ: "Югославськ"
  YUG_mon_social_conservative_DEF: "Югославія"
  YUG_mon_authoritarian_democrat: "Королівство Югославія"
- YUG_mon_authoritarian_democrat_ADJ: "Югославськ"
  YUG_mon_authoritarian_democrat_DEF: "Королівство Югославія"
  YUG_mon_paternal_autocrat: "Королівство Югославія"
- YUG_mon_paternal_autocrat_ADJ: "Югославськ"
  YUG_mon_paternal_autocrat_DEF: "Королівство Югославія"
  YUG_mon_national_populist: "Королівство Югославія"
- YUG_mon_national_populist_ADJ: "Югославськ"
  YUG_mon_national_populist_DEF: "Королівство Югославія"
 
  YUG_fed: "Югославія"
@@ -2631,34 +2633,24 @@
  YUG_fed_DEF: "Югославія"
 
  YUG_fed_totalist: "Соціалістична Федеративна Республіка Югославія"
- YUG_fed_totalist_ADJ: "Югославськ"
  YUG_fed_totalist_DEF: "Соціалістична Федеративна Республіка Югославія"
  YUG_fed_syndicalist: "Соціалістична Федеративна Республіка Югославія"
- YUG_fed_syndicalist_ADJ: "Югославськ"
  YUG_fed_syndicalist_DEF: "Соціалістична Федеративна Республіка Югославія"
  YUG_fed_radical_socialist: "Соціалістична Федеративна Республіка Югославія"
- YUG_fed_radical_socialist_ADJ: "Югославськ"
  YUG_fed_radical_socialist_DEF: "Соціалістична Федеративна Республіка Югославія"
  YUG_fed_social_democrat: "Сполучені Штати Югославії"
- YUG_fed_social_democrat_ADJ: "Югославськ"
  YUG_fed_social_democrat_DEF: "Сполучені Штати Югославії"
  YUG_fed_social_liberal: "Сполучені Штати Югославії"
- YUG_fed_social_liberal_ADJ: "Югославськ"
  YUG_fed_social_liberal_DEF: "Сполучені Штати Югославії"
  YUG_fed_market_liberal: "Сполучені Штати Югославії"
- YUG_fed_market_liberal_ADJ: "Югославськ"
  YUG_fed_market_liberal_DEF: "Сполучені Штати Югославії"
  YUG_fed_social_conservative: "Сполучені Штати Югославії"
- YUG_fed_social_conservative_ADJ: "Югославськ"
  YUG_fed_social_conservative_DEF: "Сполучені Штати Югославії"
  YUG_fed_authoritarian_democrat: "Сполучені Штати Югославії"
- YUG_fed_authoritarian_democrat_ADJ: "Югославськ"
  YUG_fed_authoritarian_democrat_DEF: "Сполучені Штати Югославії"
  YUG_fed_paternal_autocrat: "Сполучені Штати Югославії"
- YUG_fed_paternal_autocrat_ADJ: "Югославськ"
  YUG_fed_paternal_autocrat_DEF: "Сполучені Штати Югославії"
  YUG_fed_national_populist: "Сполучені Штати Югославії"
- YUG_fed_national_populist_ADJ: "Югославськ"
  YUG_fed_national_populist_DEF: "Сполучені Штати Югославії"
 
  YUG_rep: "Югославія"
@@ -2666,110 +2658,154 @@
  YUG_rep_DEF: "Югославія"
 
  YUG_rep_totalist: "Соціалістична Республіка Югославія"
- YUG_rep_totalist_ADJ: "Югославськ"
  YUG_rep_totalist_DEF: "Соціалістична Республіка Югославія"
  YUG_rep_syndicalist: "Соціалістична Республіка Югославія"
- YUG_rep_syndicalist_ADJ: "Югославськ"
  YUG_rep_syndicalist_DEF: "Соціалістична Республіка Югославія"
  YUG_rep_radical_socialist: "Соціалістична Республіка Югославія"
- YUG_rep_radical_socialist_ADJ: "Югославськ"
  YUG_rep_radical_socialist_DEF: "Соціалістична Республіка Югославія"
  YUG_rep_social_democrat: "Республіка Сербів, Хорватів та Словенців"
- YUG_rep_social_democrat_ADJ: "Югославськ"
  YUG_rep_social_democrat_DEF: "Республіка Сербів, Хорватів та Словенців"
  YUG_rep_social_liberal: "Республіка Сербів, Хорватів та Словенців"
- YUG_rep_social_liberal_ADJ: "Югославськ"
  YUG_rep_social_liberal_DEF: "Республіка Сербів, Хорватів та Словенців"
  YUG_rep_market_liberal: "Республіка Сербів, Хорватів та Словенців"
- YUG_rep_market_liberal_ADJ: "Югославськ"
  YUG_rep_market_liberal_DEF: "Республіка Сербів, Хорватів та Словенців"
  YUG_rep_social_conservative: "Республіка Сербів, Хорватів та Словенців"
- YUG_rep_social_conservative_ADJ: "Югославськ"
  YUG_rep_social_conservative_DEF: "Республіка Сербів, Хорватів та Словенців"
  YUG_rep_authoritarian_democrat: "Республіка Югославія"
- YUG_rep_authoritarian_democrat_ADJ: "Югославськ"
  YUG_rep_authoritarian_democrat_DEF: "Республіка Югославія"
  YUG_rep_paternal_autocrat: "Республіка Югославія"
- YUG_rep_paternal_autocrat_ADJ: "Югославськ"
  YUG_rep_paternal_autocrat_DEF: "Республіка Югославія"
  YUG_rep_national_populist: "Республіка Югославія"
- YUG_rep_national_populist_ADJ: "Югославськ"
  YUG_rep_national_populist_DEF: "Республіка Югославія"
 
 ### Characters ###
- MAC_ivan_mihajlov: "Ivan Mihajlov"
- MAC_imro_joint_command: "IMRO Joint Command"
-
-### Characters ###
  SER_petar_ii: "Petar II"
- SER_petar_ii_leader_desc: ""
+ SER_petar_ii_leader_desc: "§YBorn:§! §LSeptember 6th, 1923, in the Old Royal Palace, Belgrade, Kingdom of Serbia§!\n§YBackground:§! §LThe first and only child of Aleksandar II Karađorđević, the last King of Serbia before the \"republican\" interregnum, Petar II was only two years old when he was taken from the overrun Royal Palace and handed over to the hands of Petar Živković. The young heir to the throne was moved out of the country and ended up in Canada, where the loyalists of the Karađorđević dynasty gave him to Prince Pavle, first cousin of Aleksandar II and a friend of the British royal family. While the White Hand continued the fight in the fallen Kingdom, the Prince was given the task of raising his nephew.\n\nThus, Petar grew up in the relatively liberal environment of Canada. He spent his childhood attending balls, speaking in English, and caring little about the impoverished Balkan state he still claimed the throne of. Though his guardian taught him little in the way of statecraft, the Westminster system he witnessed imprinted deep upon him. Once the time came for the young King to return home, he brought this British thinking with him.\n\nPersonality-wise, Petar is impulsive, naive and a hopeless idealist. His imagination of the political situation rarely coincides with reality. Though his kingdom may pale in comparison to his childhood home, he nevertheless sees the well-being of his subjects as his duty, even at the expense of political capital. This makes the young King easy to play with for those with actual political acumen. Thus, even if Petar may have good ideas in his mind, he has always been a tool for those who hold real power, and likely always will be.§!"
 
  SER_temporary_national_representation: "Temporary National Representation"
+ SER_temporary_national_representation_leader_desc: "§YBackground:§! §LPrior to the first elections being held in the now-united Yugoslavia, the new state is temporarily being ruled by representatives chosen from each of its constituent nations.§!"
 
  SER_milan_grol: "Milan Grol"
- SER_milan_grol_leader_desc: ""
+ SER_milan_grol_leader_desc: "§YBorn:§! §LSeptember 12th, 1876, in Belgrade, Principality of Serbia§!\n§YBackground:§! §LMilan Grol received a multi-disciplinary education studying philosophy, literature, theatre and arts. After a stint in Paris, he returned to Serbia in 1902 as a teacher and a writer, frequently lambasting King Alexander I and the Obrenovic dynasty in the press. Around this time, he began to affiliate with the left, joining the Independent Radical Party. His career in theatre came to an end with the start of the Weltkrieg. He moved to Geneva during the conflict and began to rededicate his life towards his political writings and activism.\n\nThe end of the war would see Serbia occupied and humiliated. Grol returned to his homeland to see a devastated nation, and soon helped found the Serbian Republican party. Victory in the 1931 elections saw Grol assume the post of Prime Minister under Dragisa Vasic. As a consequence, he was seen as the natural successor to Vasic, and went on to win the Presidency. Carrying legacy of Ljubomir Stojanovic on his shoulders, Milan Grol and his party are now empowered to bring about the reforms they've dreamed of over the land.§!"
 
- SER_albert_kramer: "Albert Kramer"
  SER_dimitrije_ljotic: "Dimitrije Ljotić"
+ SER_dimitrije_ljotic_sic_desc: "§YBorn:§! §LAugust 12th, 1891, in Belgrade, Kingdom of Serbia§!"
  SER_mirko_korolija: "Mirko Korolija"
+ SER_mirko_korolija_leader_desc: "§YBorn:§! §LSeptember 9th, 1886, in Kistanje, Kingdom of Dalmatia, Austria-Hungary§!"
  SER_nikola_uzunovic: "Nikola Uzunović"
+ SER_nikola_uzunovic_leader_desc: "§YBorn:§! §LMay 3rd, 1873, in Niš, Danube Vilayet, Ottoman Empire§!"
  SER_mosa_pijade: "Moša Pijade"
+ SER_mosa_pijade_leader_desc: "§YBorn:§! §LJanuary 3rd, 1890, in Belgrade, Kingdom of Serbia§!"
  SER_milan_gorkic: "Milan Gorkić"
+ SER_milan_gorkic_leader_desc: "§YBorn:§! §LFebruary 19th, 1904, in Bosanski Brod, Banja Luka District, Condominium of Bosnia and Herzegovina, Austria-Hungary§!"
  SER_josip_broz: "Josip Broz"
+ SER_josip_broz_leader_desc: "§YBorn:§! §LMay 7th, 1892, in Kumrovec, Varaždin County, Kingdom of Croatia-Slavonia, Austria-Hungary§!"
  SER_vukasin_markovic: "Vukašin Marković"
+ SER_vukasin_markovic_leader_desc: "§YBorn:§! §LAugust 12th, 1874, in Stijena, Principality of Montenegro§!"
 
  SER_trifun_kaclerovic: "Trifun Kaclerović"
- SER_trifun_kaclerovic_leader_desc: ""
+ SER_trifun_kaclerovic_leader_desc: "§YBorn:§! §LFebruary 14th, 1879, in Boka, Torontál County, Kingdom of Hungary, Austria-Hungary§!\n§YBackground:§! §LThe \"old man of the socialists\", Trifun \"Triša\" Kaclerović became involved in the socialist movement during his student years. In the leadup to the May Coup of 1903, he and his fellow students organised a protest against the increasingly absolute Aleksandar I Obrenović. He remained in opposition even after the king's assassination and the rise of the Karađorđevićs. Now a leading member of the Social Democratic Party, Kaclerović spent the years leading up to World War I fighting for labour rights, representing the workers in the Skupština and demanding rights for socialists.\n\nThe end of the Weltkrieg saw the socialist movement split. Some, radicalised by the Russian and French Revolutions, turned to violence. Others shunned themselves from the ideology entirely, or clung onto reformism even in the tense atmosphere of postwar Serbia. Kaclerović led his faction of the Social Democrats to the nascent Socialist Workers' Party, and commanded it for the following decades. A grand hegemon of the left, the SRP unites everyone from social democrats to open Syndicalists. Kaclerović stands at the top of it all - all of them can respect this elderly, collected founder of modern Serbian socialism.§!"
+
+ SER_nikola_grulovic: "Nikola Grulović"
+ SER_nikola_grulovic_leader_desc: "§YBorn:§! §LDecember 4th, 1888, Beška, County of Syrmia, Kingdom of Croatia-Slavonia§!"
 
  SER_zivko_topalovic: "Živko Topalović"
+ SER_zivko_topalovic_leader_desc: "§YBorn:§! §LMarch 21st, 1886, in Užice, Kingdom of Serbia§!"
 
  SER_dragomir_vasic: "Dragomir Vasić"
- SER_dragomir_vasic_leader_desc: ""
+ SER_dragomir_vasic_leader_desc: "§YBorn:§! §LOctober 2nd, 1885, in Gornji Milanovac, Morava District, Kingdom of Serbia§!\n§YBackground:§! §LDragomir \"Dragiša\" Vasić is the second President of the Serbian Republic, elected with the initiative of the Republican Party in 1931. Vasić unfortunately happened to belong to the generation of Serbian men and women sent to die in the trenches of the Balkan Wars and the Weltkrieg. It was there, during the Second Balkan War, that Vasić the revolutionary began to develop — and Vasić the writer. His first real attempt, a short story titled \"Pačko\", depicts a Serbian soldier in the Battle of Bregalnica. Pitying a felled Bulgarian officer, he tries to give him a proper burial in no man's land, only to be shot by the enemy while erecting a wooden cross. This revolutionary fervour slowly lead to disillusion with the Karađorđević dynasty — especially after the Salonika Trial, as one of the members of the Black Hand executed was his cousin Ljubomir Vulović.\n\nAfter the war, Vasić returned to Serbia along the remaining exiles, pursued a legal career, and founded the newspaper \"Progress\". However, it was soon shut down and his lawyer's licence suspended by the Royal Dictatorship for defending communists. In reaction, he joined the Republican Party and became a member of its main board, a crucial member of the underground organisation - not only thanks to his literary skill, but also his numerous contacts within the Serbian Army. When the Revolution came, Vasić joined it, was elected to the Skupština, and accepted his role as the Ambassador to the Commune of France. While visiting Paris and seeing its achievements did not convert him to a Syndicalist, it nevertheless fascinated him.\n\nThe Konspiracija, suspicious of President Jaša Prodanović's anti-militarist stance, forced him out of power in 1931. Discreetly inviting Vasić to succeed him in the next election, they expected him to be easier to control thanks to his past in the Black Hand. Reluctantly, Vasić agreed, and stands today as a leader torn between his progressive outlook and his debt to the conspirators. To him, the fight against Bulgaria is not just a matter of irredentism - it is a matter of liberty. Time and time again the Serbs have proven to be its beacon in the Balkans while the Bulgarians dabble in dim absolutism. But can Serbia really claim to be a harbinger of liberty in this state?§!"
 
  SER_milan_stojadinovic: "Milan Stojadinović"
- SER_milan_stojadinovic_leader_desc: ""
+ SER_milan_stojadinovic_leader_desc: "§YBorn:§! §LAugust 4th, 1888, in Čačak, Rudnik District, Kingdom of Serbia§!\n§YBackground:§! §LNamed after King Milan of Serbia, Milan Stojadinović was born to the family of a rural judge, and followed the same course as many in the Serbian intellectual class. A childhood friend of Živko Topalović, he sympathised with socialism in his youth, before pursuing national liberation over class struggle. Ending up in the People's Radical Party instead. Stojadinović spent the time before the Weltkrieg outside of Serbia, studying in Western universities and representing the Ministry of Finance abroad, and returned to his homeland just in time to serve in the Balkan Wars.\n\nThe Serbian exiles in Corfu, including Stojadinović, needed bureaucrats — men who would make sure that as few of their thinned ranks starve and wither away. Stojadinović, as a clerk in the Ministry of Finance, distinguished himself as a capable economist and negotiator, helping stabilise the Serbian dinar, raise funding for the remnants of the Army, and ensure distribution of the scarce resources. The Prime Minister and leader of the Radicals, Nikola Pašić, recognised his efforts, and Stojadinović became his protege. When Pašić was dismissed after the end of the war on Aleksandar II's orders, Stojadinović resigned as well. He returned to a modest and calm life as a banker and university professor.\n\nThe tide of the Republican Revolution caught Stojadinović as well, many saw him as a republican sympathiser. When Aca Stanojević invited him to the refounded Radical Party, he accepted. Years pass, the old generation of Radicals pass away, and the calm, collected and intelligent economist Stojadinović was the natural fit to lead them. The dilemma of unifying the South Slavs is on his mind, but so are the lessons passed down to him by his mentor: \"When it comes to the grand design which God has for the Serbian nation, there can be no compromise or half-measures\". Freedom is strong, but collective, absolute power can be stronger.§!"
 
  SER_milan_gavrilovic: "Milan Gavrilović"
+ SER_milan_gavrilovic_leader_desc: "§YBorn:§! §LNovember 23rd, 1882, in Belgrade, Kingdom of Serbia§!"
  SER_zivojin_peric: "Živojin Perić"
+ SER_zivojin_peric_leader_desc: "§YBorn:§! §LJanuary 3rd, 1868, in Stubline, Belgrade District, Kingdom of Serbia§!"
 
  SER_petar_zivkovic: "Petar Živković"
- SER_petar_zivkovic_leader_desc: ""
+ SER_petar_zivkovic_leader_desc: "§YBorn:§! §LJanuary 1st, 1879, in Negotin, Krajina District, Principality of Serbia§!\n§YBackground:§! §LTo his enemies, he is known as a deadly intricate webweaver, a nefarious puppetmaster who held Aleksandar II hostage and crafted the infamous Royal Dictatorship following the Weltkrieg. To his followers, he is known as the most loyal a monarchist could possibly be, a soldier who has stood by the House of Karađorđević as long as he lived. Petar Živković was born in 1879 and followed the prestigious career of military service. He rose to become a member of the Royal Guard, a position in which he played a crucial role during the events in 1903, as he was the guard who opened the entrance to the Royal Court and allowed the Black Hand to extinguish the House of Obrenović. Živković soon became disillusioned with the Black Hand, however, believing that their leader Apis was plotting to overthrow the Karađorđevićs as well. Following the advice of Crown Prince Aleksandar, Petar created the White Hand - a rival to the Black Hand, dedicated to the protection of the ruling dynasty.\n\nDuring the Weltkrieg, Živković disposed of his Black Hand rivals at last, sentencing Apis and his comrades to death in the Thessaloniki Process. Though Serbia lost the war, his power only continued to grow. It was his advice that Aleksandar followed when proclaiming the Obznana and declaring the Royal Dictatorship. Some even rumoured that he held the King's dirty secrets, forcing the monarch to dance to his will. Unfortunately, as powerful as he was, he could not predict, nor prevent, the Revolution. In the midst of the monarchy's collapse, he made sure to secure the two-year-old heir, Petar II, and place him in the hands of Prince Pavle in Canada. The White Hand transformed into a secret society, taking revenge on the Republican officers, sowing terror and plotting their return to power. Always more accustomed to court politics than terrorism, Živković despised this change, instead spending his time in exile coordinating his underlings. Waiting for the moment to return - until, someday, he can finally right the wrongs of the last decade.§!"
+ SER_petar_zivkovic_commander_desc: "§YBorn:§! §LJanuary 1st, 1879, in Negotin, Krajina District, Principality of Serbia§!"
 
  SER_collective_leadership: "Collective Leadership"
  SER_petar_bojovic: "Petar Bojović"
+ SER_petar_bojovic_commander_desc: "§YBorn:§! §LJune 16th, 1858, in Miševići, Bosnia Vilayet, Ottoman Empire§!"
  SER_konstantin_popovic: "Konstantin Popović"
- SER_blazo_jovanovic: "Blažo Jovanović"
+ SER_konstantin_popovic_commander_desc: "§YBorn:§! §LMarch 4th, 1908, in Belgrade, Kingdom of Serbia§!"
+ SER_arsenije_jovanovic: "Arsenije Jovanović"
+ SER_arsenije_jovanovic_commander_desc: "§YBorn:§! §LMarch 24th, 1907, in Zavala, Principality of Montenegro§!"
  SER_milan_nedic: "Milan Nedić"
+ SER_milan_nedic_commander_desc: "§YBorn:§! §LSeptember 2nd, 1878, in Grocka, Belgrade, Principality of Serbia§!"
  SER_milorad_petrovic: "Milorad Petrović"
+ SER_milorad_petrovic_army_chief_desc: "§YBorn:§! §LApril 18th, 1882, in Sumrakovac, Timok District, Kingdom of Serbia§!"
  SER_dragoljub_mihailovic: "Dragoljub Mihailović"
+ SER_dragoljub_mihailovic_high_command_desc: "§YBorn:§! §LApril 27th, 1893, in Ivanjica, Čačak District, Kingdom of Serbia§!"
  SER_ljubomir_maric: "Ljubomir Marić"
+ SER_ljubomir_maric_army_chief_desc: "§YBorn:§! §LJanuary 18th, 1878, in Galovići, Užice District, Principality of Serbia§!"
  SER_milutin_nedic: "Milutin Nedić"
+ SER_milutin_nedic_air_chief_desc: "§YBorn:§! §LOctober 26th, 1882, in Sopot, Belgrade District, Kingdom of Serbia§!"
  SER_dusan_trifunovic: "Dušan Trifunović"
+ SER_dusan_trifunovic_high_command_desc: "§YBorn:§! §LMarch 13th, 1880, in Svilajnac, Resava District, Principality of Serbia§!"
  SER_bogoljub_ilic: "Bogoljub Ilić"
+ SER_bogoljub_ilic_sic_desc: "§YBorn:§! §LFebruary 22nd, 1881, in Požarevac, Principality of Serbia§!"
  SER_dusan_simovic: "Dušan Simović"
+ SER_dusan_simovic_sic_desc: "§YBorn:§! §LOctober 28th, 1882, in Kragujevac, Kingdom of Serbia§!"
+ SER_dragoljub_dinic: "Dragoljub Mijajlo Dinić"
+ SER_dragoljub_dinic_high_command_desc: "§YBorn:§! §LAugust 31st, 1881, in Kragujevac, Principality of Serbia§!"
  SER_milan_spasic: "Milan Spasić"
+ SER_milan_spasic_high_command_desc: "§YBorn:§! §LNovember 8th, 1909, in Belgrade, Kingdom of Serbia§!"
 
- SER_mihailo_ilic: "Mihailo Ilić"
  SER_sima_markovic: "Sima Marković"
+ SER_mihailo_ilic_sic_desc: "§YBorn:§! §LNovember 8th, 1888, in Kragujevac, Kingdom of Serbia§!"
+ SER_mihailo_ilic: "Mihailo Ilić"
+ SER_sima_markovic_sic_desc: "§YBorn:§! §LSeptember 11th, 1888, in Belgrade, Kingdom of Serbia§!"
  SER_aleksandar_cincar_markovic: "Aleksandar Cincar-Marković"
- SER_konstantin_pecanac: "Konstantin Pečanać"
+ SER_aleksandar_cincar_markovic_sic_desc: "§YBorn:§! §LJune 20th, 1889, in Belgrade, Kingdom of Serbia§!"
+
  SER_serbian_cultural_club: "Serbian Cultural Club"
+ SER_serbian_cultural_club_advisor_desc: "§YFounded:§! §L1932, in Belgrade, Serbian Republic§!"
  SER_aleksandar_rankovic: "Aleksandar Ranković"
+ SER_aleksandar_rankovic_advisor_desc: "§YBorn:§! §LNovember 28th, 1909, in Draževac, Belgrade District, Kingdom of Serbia§!"
+ SER_konstantin_pecanac: "Konstantin Pećanac"
+ SER_konstantin_pecanac_advisor_desc: "§YBorn:§! §L1879, in Dečani, Vilayet of Kosovo, Ottoman Empire§!"
  SER_slobodan_jovanovic: "Slobodan Jovanović"
+ SER_slobodan_jovanovic_advisor_desc: "§YBorn:§! §LDecember 3rd, 1869, in Újvidék, Bács-Bodrog County, Kingdom of Hungary, Austria-Hungary§!"
  SER_filip_filipovic: "Filip Filipović"
+ SER_filip_filipovic_advisor_desc: "§YBorn:§! §LJune 21st, 1878, in Čačak, Rudnik District, Principality of Serbia§!"
  SER_milan_srskic: "Milan Srškić"
+ SER_milan_srskic_advisor_desc: "§YBorn:§! §LMarch 3rd, 1880, in Belgrade, Principality of Serbia§!"
  SER_ninko_peric: "Ninko Perić"
+ SER_ninko_peric_advisor_desc: "§YBorn:§! §LMay 14th, 1886, in Bojić, Podrinje District, Kingdom of Serbia§!"
 
  SER_milan_acimovic: "Milan Aćimović"
+ SER_milan_acimovic_advisor_desc: "§YBorn:§! §LMay 31st, 1898, in Pinosava, Belgrade District, Kingdom of Serbia§!"
  SER_dragutin_gavrilovic: "Dragutin Gavrilović"
+ SER_dragutin_gavrilovic_advisor_desc: "§YBorn:§! §LMay 25th, 1882, in Čačak, Kingdom of Serbia§!"
  SER_mladen_zujovic: "Mladen Žujović"
+ SER_mladen_zujovic_advisor_desc: "§YBorn:§! §LJune 5th, 1895, in Belgrade, Kingdom of Serbia§!"
  SER_momcilo_nincic: "Momčilo Ninčić"
+ SER_momcilo_nincic_advisor_desc: "§YBorn:§! §LJune 10th, 1876, in Jagodina, Morava District, Principality of Serbia§!"
  SER_milos_savcic: "Miloš Savčić"
+ SER_milos_savcic_advisor_desc: "§YBorn:§! §LJuly 26th, 1865, in Svilajnac, Resava District, Principality of Serbia§!"
  SER_dobrica_matkovic: "Dobrica Matković"
+ SER_dobrica_matkovic_advisor_desc: "§YBorn:§! §LNovember 29th, 1887, in Šarani, Rudnik District, Kingdom of Serbia§!"
 
  SER_petar_kosic: "Petar Kosić"
+ SER_petar_kosic_high_command_desc: "§YBorn:§! §LMay 13th, 1881, in Bujačić, Valjevo District, Principality of Serbia§!"
  SER_dragomir_stojanovic: "Dragomir Stojanović"
+ SER_dragomir_stojanovic_high_command_desc: "§YBorn:§! §LAugust 17th, 1878, in Knjaževac, Timok District, Principality of Serbia§!"
  SER_navy_army_command: "Under Army Command"
- SER_arso_jovanovic: "Arsenije Jovanović"
- 
- SER_event_only: "Може бути доданий лише за подією."
+ SER_navy_army_command_navy_chief_desc: "§YBackground:§! §LThe command of the navy has been assigned to the army, to allow for greater cooperation between the armed forces.§!"
+ SER_zdenko_ulepic: "Zdenko Ulepić"
+ SER_zdenko_ulepic_air_chief_desc: "§YBorn:§! §LJune 5th, 1906, in Ljubljana, Duchy of Carniola, Austria-Hungary§!"
+
+ SER_dusko_popov: "Duško Popov"
+
+ SER_event_only: "May only be added by event."
+
+### Characters ###
+ MAC_ivan_mihajlov: "Ivan Mihajlov"
+ MAC_ivan_mihajlov_leader_desc: "§YBorn:§! §LAugust 26th, 1896, in Novo Selo, Vilayet of Kosovo, Ottoman Empire§!\n§YBackground:§! §LIvan Mihajlov was born to a Bulgarian speaking family in the mountains of Macedonia. A region soon ripped and torn by ethnic tensions and war. Even his life is a good glimpse into rapid-fire changes which the region had to endure. Mihajlov began his studies in a Bulgarian men's high school in Thessaloniki before it was closed by the Greek administration during the First Balkan War. Thus he briefly transferred to a Serbian one in Skopje, before finally finishing his education in Bulgarian-occupied Macedonia. Finally moving on to study law in Sofia. During the Weltkrieg, Mihajlov enlisted in the Bulgarian army, and came into personal contact with IMRO leader Todor Aleksandrov.\n\nAfter the war, Mihajlov became Aleksandrov's personal secretary. The IMRO, having accomplished its goals at last, dissolved. To consolidate their gains, Aleksandrov led Mihajlov and the right-wing faction of the organisation into the \"Association Against Serbian Bandits\". A paramilitary organisation tasked with eradicating Serbian resistance and paving the way for the Bulgarisation of the Western Provinces. In time, the Association transformed into the Ohrana, an intimidating Macedonian paramilitary and a far-right haven.\n\nIn 1930, injured by a Serbian Chetnik ambush, Aleksandrov retired from an active role in the organisation. His protege Mihajlov assumed his stead. He fully embraced Ohrana's alliance with the National Legions and volunteered for the Fourth Balkan War alongside hundreds of his peers. When the war ended with his home seized by the Serbs yet again, he chose to follow his mentor's footsteps. Alongside his fellow Macedonian veterans and refugees, Mihajlov infiltrated the Serbian-Bulgarian border and proclaimed the restoration of the IMRO. Intent to free Macedonia from the oppressors in Belgrade no matter how much blood is shed along the way.§!"
+
+ MAC_imro_joint_command: "IMRO Joint Command"
+ MAC_imro_joint_command_commander_desc: "§YFounded:§! §Lin Skopje, Macedonia§!"

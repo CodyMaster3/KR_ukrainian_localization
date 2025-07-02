@@ -21,16 +21,42 @@
  PRU_BM_lvl1_desc: "Нарешті, наша економіка повністю вилікувалася від наслідків Чорного Понеділка."
  PRU_backontrack: "Нормалізація економіки"
  PRU_backontrack_desc: "Наша економіка справді оговталася від Чорного Понеділка, а надані нами стимули забезпечують її зростання в майбутньому."
+ PRU_unstable_union_idea: "Unstable Union"
+ PRU_unstable_union_idea_desc: "It will take a great deal of time and effort to stabilise the restored union ever since its dissolution a century ago. Therefore, we must act carefully in order for Peru-Bolivia to reclaim its place in the sun."
+ PRU_sa_hegemony_idea: "Building our Hegemony"
+ PRU_sa_hegemony_idea_desc: "We must make history remember the struggle we underwent in order to cement Peru-Bolivia's place as the sole South American hegemon."
+ PRU_sa_hegemony_achieved_idea: "Hegemon of South America"
+ PRU_sa_hegemony_achieved_idea_desc: "Our armies triumphed against every contender who held our core territory across the continent, and now is the time to rejoice, for Peru-Bolivia is the Hegemon of South America!"
+ PRU_united_army_idea: "United Army"
+ PRU_united_army_idea_desc: "Uniting the armies of Peru and Bolivia into a singular Peru-Bolivian army will increase the fluidity and effectiveness of our future reclamation wars."
  PRU_united_studies: "Федеральний обмін технологіями"
  PRU_united_studies_desc: "Створення Федерації між Перу і Болівією означає, що наші найбільші уми зможуть працювати спільно."
  PRU_federated_admin: "Федеративна адміністрація"
  PRU_federated_admin_desc: "Наш союз, який тепер має Конституцію та інші закони в його основі, тепер більш стійка держава, ніж раніше."
+ PRU_peruvian_military_idea: "Peruvian Military"
+ PRU_peruvian_military_idea_desc: "Widespread reforms to each branch of our military is necessary to combat foes on land, in the air, and over the ocean."
+ PRU_rearmament_idea: "General Rearmament"
+ PRU_rearmament_idea_desc: "Our equipment stockpiles are sorely lacking, however, by focusing on quantity as opposed to quality, we can fully equip our troops for battle."
  PRU_military_lobby: "Лобіювання яструбів"
  PRU_military_lobby_desc: "Виробники військового спорядження як домашні, так і закордонні, серйозно лобіюють свої інтереси в уряді."
+ PRU_expanded_spec_forces_idea: "Expanded Special Forces"
+ PRU_expanded_spec_forces_idea_desc: "Expanding our special forces will bring diversity to the fields of battle on which our armies can fight. We shall succeed in all fields of warfare to keep our enemies on their toes."
  PRU_gottagofast: "Армія руху"
  PRU_gottagofast_desc: "Перуанська армія тепер пристосувалася до сучасної війни, її ідея про досягнення переваги у швидкості над противником проникла в наш офіцерський корпус."
  PRU_planning_speed: "Гнучкі плани"
  PRU_planning_speed_desc: "Жоден план не проживе довше, ніж зіткнення з ворогом, тож ми маємо завжди адаптуватися, щоб Перу завжди перемагало!"
+ PRU_initial_stabilisation_idea: "Initial Stabilisation Efforts"
+ PRU_initial_stabilisation_idea_desc: "[PRU.GetLeader]'s tenure in Peru has seen a number of challenges, implementing various measures to tackle these issues one by one will prove vital to securing our rule."
+ PRU_order_peace_work_idea: "Order, Peace, Work"
+ PRU_order_peace_work_idea_desc: "Order, Peace, Work, this is the motto for which we will guide our nation by. A regime guided by our Caudillo shall maintain order and peace so that every good citizen in our nation may work to the betterment of themselves, and the country."
+ PRU_apra_ban_idea: "Expanded APRA Ban"
+ PRU_apra_ban_idea_desc: "Applying a gentle hand to try and rehabilitate moderates in APRA was a mistake, now it seems the only solution is to extend the ban, to solidify the safety of our nation."
+ PRU_peru_first_idea: "Peru First"
+ PRU_peru_first_idea_desc: "Creating a strong national identity is the first step towards ensuring that Peru does not fall into chaos once more, we will not allow any dissidents to undermine our rule."
+ PRU_heir_to_virreynato_idea: "Heir to the Virreynato"
+ PRU_heir_to_virreynato_idea_desc: "Under the return of the UR to power, Agüero has pledged to restore the old glory of the Virreynato to modern Peru."
+ PRU_peruvian_militarism_idea: "Peruvian Militarism"
+ PRU_peruvian_militarism_idea_desc: "The military plays a strong role in our nation, with a longstanding history. It is only natural to empower and renew this sense of militarism to better stand toe to toe in this modern age."
  PRU_knights_of_peru: "Лицарі Нового світу"
  PRU_knights_of_peru_desc: "Наші солдати, справжні лицарі справедливості та християнства, тепер прагнуть до чернечого ідеалу зречення; адже поле бою - не місце, де можна розслабитися!"
  PRU_imperial_splendour: "Імперська велич"
@@ -39,14 +65,35 @@
  PRU_conquistador_legacy_desc: "Ми - спадкоємці Пісарро, який переміг сотні тисяч невірних, будучи озброєним тільки його розумом, вірою і вірними товаришами. Наша армія робить нас гордими і зміцнює нашу віру."
  PRU_hispanidad_imperial: "Hispanidad Imperial"
  PRU_hispanidad_imperial_desc: "Наша спадщина, наша історія, все це веде до сьогоднішнього дня, коли ми повинні прийняти це і розтрощити тих, хто відвернувся від Христа заради рейхсмарки або Маркса. Дні ворогів усього кращого і доброго в Перу полічені!"
+ PRU_trickle_down_idea: "Trickle Down Tactics"
+ PRU_trickle_down_idea_desc: "By employing tactics that rely on empowering the wealthy in our nation, we will assuredly prosper off of their continued support."
+ PRU_synth_oil_idea: "Oil Expansion"
+ PRU_synth_oil_idea_desc: "Oil is a vital resource not only for our military but to trade abroad, by expanding the amount of oil we are able to produce, the more we will profit."
+ PRU_socialist_question_idea1: "Dealing with APRA"
+ PRU_socialist_question_idea1_desc: "We must act decisively and make a decision to tackle the issue of radicalised Aprists destablising our country."
+ PRU_socialist_question_idea2: "Aprists Pacified"
+ PRU_socialist_question_idea2_desc: "Having either applied a gentle hand or an iron fist towards the Aprist problem, our nation will thrive."
+ PRU_conservative_admin_idea: "New Conservative Administration"
+ PRU_conservative_admin_idea_desc: "Replacing the current cabinet with like-minded officials will go a long way in implementing our reforms."
+ PRU_suppress_caudillo_idea: "Suppressing Caudillo Supporters"
+ PRU_suppress_caudillo_idea_desc: "Besides the Aprists, there are many who look fondly upon our former Caudillo, Sánchez Cerro. This will not do, we must discourage his radical ideology and stamp out any of his diehard supporters."
+ PRU_suppressed_caudillo_idea: "Caudillo Supporters Dealt With"
+ PRU_suppressed_caudillo_idea_desc: "Having publicised Cerro's atrocities and convinced many of the population of this disillusionment, we can finally reconstruct Peruvian democracy."
+ PRU_welfare_beginnings_idea: "Welfare State Foundations"
+ PRU_welfare_beginnings_idea_desc: "Turning our nation into that of a Welfare State will require a monumental effort by our administration. As such, we will be forced to reallocate many of our factories and funds, but the end result will be nothing short of paradise."
+ PRU_empowered_trade_unions_idea: "Empowered Trade Unions"
+ PRU_empowered_trade_unions_idea_desc: "The success of APRA has ushered in a commitment to empowering trade unions across the country."
+ PRU_mariateguism_idea: "Mariáteguism"
+ PRU_mariateguism_idea_desc: "Honouring the father of our now successful revolution, we shall fully implement his ideals within our new regime. Reactionary backlash and unrest in the army will be at a high, but that is merely a necessary evil that we will have to deal with until the country is secure."
  peru_bolivian_confederation: "Перуансько-Болівійська Конфедерація"
  PBC_partial: "Конфедеративний союз"
  PBC_full: "Федеральний союз"
  BM_andes: "Чорний Понеділок вдарив по Андах"
  PRU_refused_union: "Болівія відмовилася від нашої пропозиції об'єднатися"
- PRU_caudillo_rip: "Наш полеглий каудильйо"
- PRU_caudillo_rip_desc: "Санчес Серро, головний винуватець нашої перемоги в Летісії і рятівник від соціалізму, був відправлений в інший світ руками АНРА до того, як ми звільнили південні провінції. Його пам'ять та ідеологію увічнять у партії Революційний союз."
- PRU_authdem_caudillo: "Новий каудильйо"
+ PRU_glorious_caudillo: "Наш полеглий каудильйо"
+ PRU_glorious_caudillo_desc: "Санчес Серро, головний винуватець нашої перемоги в Летісії і рятівник від соціалізму, був відправлений в інший світ руками АНРА до того, як ми звільнили південні провінції. Його пам'ять та ідеологію увічнять у партії Революційний союз."
+ PRU_benavides_caudillo: "Новий каудильйо"
+ PRU_sanchez_cerro_caudilio: "Jefe Nato de Perú"
  PRU_youth_brigades: "Молодіжні організації"
  PRU_militant_socialists: "Радикалізована АНРА"
  PRU_deradicalized_socialists: "Помірна АНРА"
@@ -64,8 +111,7 @@
  PRU_maintaining_absolute_control: "Контрольоване суспільство"
  PRU_peruvian_corporatism: "Корпоративістські ідеали"
  PRU_strength_through_continuity: "Сила через спадкоємність"
- PRU_odrias_reforms: "Реформи Одрії"
- PRU_odrias_reforms_2: "Реформи Одрії"
+ PRU_odrias_reforms_idea: "Реформи Одрії"
  PRU_guardia_monotera: "Guardia Montonera"
  PRU_guardia_monotera_desc: "Після перемоги в Чилі синдикалістської революції, група арекіпських ветеранів Тихоокеанської війни та їхні сини сформували збройні патрулі на кордоні, щоб запобігти синдикалістським вторгненням і допомогти біженцям."
  PRU_puka_runa_idea: "Puka Runa"
@@ -73,6 +119,9 @@
 # decisions
  PRU_puka_runa: "Створити Puka Runa"
  PRU_puka_runa_desc: "Ми повинні заснувати Puka Runa, щоб навчити нашу молодь старих традицій інків і зробити їх рішучими віддати все за країну."
+
+ PRU_declare_sa_hegemony_decision: "Proclaim Our Victory"
+ PRU_declare_sa_hegemony_decision_desc: "It is not enough to contain ourselves to the core territories of Peru and Bolivia, for various neighbouring countries have held land belonging to us for decades. Now that we have reclaimed what was once taken from us, we are now truly the South American Hegemon."
 
  PRU_join_internationale: "Приєднатися до Інтернаціоналу"
 
@@ -112,7 +161,7 @@
  PRU_aluminium_desc: "Наші алюмінієві рудники просто занадто малі для підтримки нашої важкої промисловості, особливо якщо враховувати її розширення в майбутньому. Ми повинні переконатися, що Перу буде на повну використовувати свої природні ресурси."
  PRU_heavy_industry: "Повне економічне відновлення"
  PRU_heavy_industry_desc: "Після такої кількості поту і праці, Перу нарешті оговталося від ран, завданих чорним понеділком. Багато хто сумнівався у спроможності наших держави та народу впоратися з цим викликом, але ми спростували їхні очікування!"
- PRU_heavier_industry: "Розвиток важкої промисловості" 
+ PRU_heavier_industry: "Розвиток важкої промисловості"
  PRU_heavier_industry_desc: "Тепер ми повинні не лінуватися, а модернізувати й розширювати нашу промисловість, бо мирний час стрімко наближається до кінця.  Ми повинні не відхилятися від курсу й утримувати нашу економіку в належному стані навіть за часів затишшя, як зараз."
 
 # Expansion #
@@ -337,7 +386,7 @@
  PRU_industry_research_desc: "Чтобы быть конкурентоспособными на мировом рынке, ваши товары должны быть либо дешевыми, либо высокого качества. Обновив и улучшив наш производственный сектор, мы убедимся в сохранении конкурентоспособности наших товаров на мировом рынке."
  PRU_austerity_profits: "Заходи жорсткої економії"
  PRU_austerity_profits_desc: "Ми повинні знизити наші витрати до мінімуму, якщо хочемо з користю використовувати згенероване нами економічне процвітання. Таким чином, це збільшить заощадження нашого уряду і поліпшить курс валюти, оскільки її вартість буде підкріплювати більшу кількість багатства."
- 
+
  PRU_deal_with_the_apra: "Ситуація з соціалістами"
  PRU_deal_with_the_apra_desc: "Люди обрали нас, щоб ми повернули стабільність у країну. Цій стабільності загрожує АНРА ('Alianza Popular Revolucionaria Americana' або 'Народний революційний американський союз') і ці чортові соціалісти. Наша мета зрозуміла, але залишається незрозумілим, яким шляхом до неї йти."
  PRU_crack_down_on_socialists: "Знищення АНРА"
@@ -346,7 +395,7 @@
  PRU_negotiate_with_socialists_desc: "Соціалісти в АНРА - це теж перуанці зі зрозумілими питаннями до нашої адміністрації. Хоча у нас є наші відмінності, це не означає, що ми не можемо прийти до компромісу. Ми почнемо з ними переговори в надії зберегти мир і стабільність."
  PRU_pacified_radicals: "Заспокоєні радикали"
  PRU_pacified_radicals_desc: "Після наших недавніх дій, нам вдалося покінчити з впливом радикальних ідеологій у нашому суспільстві. Це прекрасний день для Перу і його мешканців."
- 
+
  PRU_conservatives_win: "Загрози нашого часу"
  PRU_conservatives_win_desc: "Народ нас обрав, щоб ми втихомирили бурю, що насувається на нашу країну. Тепер наш обов'язок - це зустрітися із загрозами нашого часу і виправдати їхню довіру."
  PRU_new_civilista_administration: "Нова цивільна адміністрація"
@@ -361,7 +410,7 @@
  PRU_focus_on_public_works_desc: "Наша країна величезна, тому завжди знайдеться дорога, яку необхідно збудувати, новий парк, який треба заснувати, і нові авеню, які треба відкрити. Ми сконцентруємося на прискоренні будівництва наявних робіт і відкриємо нові проєкти, з надією покращити національну інфраструктуру, а разом з нею і якість життя наших громадян."
  PRU_safeguarding_the_institutions: "Захист наших інститутів"
  PRU_safeguarding_the_institutions_desc: "Багато хто в нашому суспільстві хоче підірвати національні інститути заради власної вигоди. Ми встановимо гарантії нашим інститутам, щоб захистити їх як від тиранів, так і від революціонерів."
- 
+
  PRU_suppress_the_natpops: "Придушення пам'яті"
  PRU_suppress_the_natpops_desc: "Санчес Серро став радикалізованою фігурою, крайні праві вшановують його діяння, а крайні ліві вирізняють його перевищення повноважень. Його присутність у народній свідомості має бути усунена, якщо ми хочемо повернути в нашу країну якусь міру порядку!"
  PRU_publicize_atrocities: "Розкриття звірств"
@@ -370,7 +419,7 @@
  PRU_encourage_pluralism_desc: "Помилкою попередньої адміністрації була централізація влади. У такій ситуації міг бути почутий тільки один голос, голос Каудільо. Ми будемо підтримувати плюралізм, щоб кожен громадянин нашої країни міг висловити свою думку."
  PRU_cult_of_caudillo_crushed: "Знищення культу каудильйо"
  PRU_cult_of_caudillo_crushed_desc: "Ще за життя каудильйо створив навколо себе неабиякий культ особи, перекручуючи правду на свою користь. Ми розвіємо ці "факти" та "істини" реальною інформацією про події, пов'язані з його образом."
- 
+
  PRU_social_democrats_win: "Країна для народу"
  PRU_social_democrats_win_desc: "У Перу занадто довго була домінуюча олігархія, яка шкодила його населенню. Тепер народ обрав нас, щоб повернути собі колись втрачену владу."
  PRU_peruvian_economic_solidarity: "Перуанська економічна солідарність"
@@ -389,8 +438,8 @@
 # Syndicalist #
  PRU_revolucion_peruana: "La Revolución Peruana"
  PRU_revolucion_peruana_desc: "Нарешті почалася Перуанська революція! Настав час обрати, яка революційна фракція очолить боротьбу проти олігархічного контролю над нашою країною."
- PRU_orthodox_syndicalism: "Домінування ортодоксальних"
- PRU_orthodox_syndicalism_desc: "Ортодоксальна фракція АНРА поведе революцію! Їхній більш європейський варіант синдикалізму - це шлях у майбутнє."
+ PRU_aprist_victory: "Aprist Victory"
+ PRU_aprist_victory_desc: "APRA shall lead the revolution! Haya's ideals of 'Indo-Américanism' shall be the way forward."
  PRU_peruvian_trade_unionism: "Перуанський профспілковий рух"
  PRU_peruvian_trade_unionism_desc: "Революція принесла новий вид демократії: профспілковий. Ми почнемо розширення повноважень профспілок і демократизацію на робочому місці, щоб голос кожного робітника був почутий у нашому суспільстві!"
  PRU_commit_to_world_revolution: "Приєднання до світової революції"
@@ -441,8 +490,6 @@
  PRU_syndicalist_party_long: "Американський народно-революційний альянс"
  PRU_totalist_party: "АНРА-Т"
  PRU_totalist_party_long: "Американський народно-революційний альянс - Фракція тупакамаристів"
- PRU_totalist_party_rulers: "ППТ"
- PRU_totalist_party_long_rulers: "Перуанська партія тупакамаристів"
 
 ### Flags ###
 
@@ -463,146 +510,160 @@
 ### Custom Tooltips ###
  PRU_got_professional: "§YУ нас нарешті є професійна армія!§!"
  ECU_PRU_potential_war_tt: "§RЦе може привести до війни між [PRU.GetName] та [ECU.GetName]...§!"
+ PRU_lose_ideas_tt: "§RNational Spirits under this tree will be lost should our government change drastically.§!"
+
+### Scripted loc ###
+ PRU_new_caudillo_benavides: "Caudillo"
+ PRU_jefe_nato_de_peru: "Jefe Nato de Perú (Natural Leader of Peru)"
 
 ### Intro Screen ###
+ PRU_country_intro_background: "GFX_PRU_intro"
  PRU_country_intro_header: "Перу 1936 року"
  PRU_country_intro_content: "Хоча Перу було де-факто незалежне з 1821 року, Іспанія визнала автономію її колишньої колонії тільки 1871 року, коли між державами було підписано мир після конфлікту двох країн за контроль над островами Чинча. Союз із Болівією втягнув країну з 1879 по 1883 рр. у прикордонний конфлікт між Чилі та Болівією в пустелі Атакама (Селітряна війна). Під час війни Перу втратило свої провінції Тарапака, Аріка і Такна. Британські та американські фінансові кола скористалися цим, відібравши в ослабленої перуанської держави її залізницю, обнуливши натомість її борги. Після Світової війни, демократії Перу зашкодив переворот Аугусто Легії 1919 року. Під час формування АНРА в Мексиці 1924 року, уряд Легії зіткнувся з викликом у вигляді краху Волл Стріт 1925 року. Після 11 місяців провальних реформ почалися заворушення, організовані робітниками за допомогою апрістів. Через страх перед соціалістичною революцією, армія втрутилася і повалила Легію, очолена підполковником Луїсом Санчесосом Серро. Через чотири місяці Легію засудили і стратили за злочини проти перуанської держави. Спочатку Серро не був добре прийнятий, але його популярність злетіла в 1929 і 1930 р.: придушення апрістського повстання і перемога у війні проти Колумбії. На жаль, незабаром після війни його застрелив апрістський вбивця під час виголошення промови. З огляду на те, що його партія Революційний союз виявилася розрізненою, більш поміркований Оскар Бенавідес спробував скласти коаліційний уряд для стабілізації Перу. Поки Союз намагається повернути втрачені позиції, демократичні партії нетерпляче чекають виборів, а апрісти чекають на свій шанс, постає питання: що стане з Перу?"
- pru.1.a: "Що б не принесло майбутнє, ми готові"
- 
+
+ PRU_guide: "§MThe Military Bans Elections§! — §MSánchez Cerro§! / §MBenavides§! (§PPaternal Autocrat§!)\n£white_dot After the assassination attempt on Cerro, have him survive to keep him as your leader.\n£white_dot Or, have him die and have Benavides be even harsher to quell all opposing voices!\n£white_dot When the Aprist Revolution breaks out, have the army crush it.\n\n§MAPRA§! / §MTotalist take over§! (§RRadical Socialist§! / §oTotalist§!)\n£white_dot After the assassination attempt on Cerro, have him survive.\n£white_dot Or, have Cerro die and have Benavides be even harsher to quell all opposing voices!\n£white_dot When the Aprist Revolution breaks out, have it miraculously win.\n£white_dot In the succeeding power struggle, favour the §RAPRA§! to stay radical socialist or the §oTupacamarists§! to become Totalist.\n£white_dot The Aprist will also rise up if elections were held and the §nHermandad Peruana§! were victorious.\n\n§MAcción Republicana§! / §MEl Frente Nacional§! / §MPartido Socialdemócrata§! (§cSocial Conservative§! / §mMarket Liberal§! / §SSocial Democrat§!)\n£white_dot After the assassination attempt on Cerro, have him die and have Benavides prepare for elections.\n\n§MHermandad Peruana§! (§nNational Populist§!)\n£white_dot After the assassination attempt on Cerro, have him die and have Benavides prepare for elections.\n£white_dot In the election a month later, elect the §nHermandad Peruana§!. Elections will no longer be held.\n£white_dot When the Aprist Revolution breaks out, have the army crush it.\n£white_dot Castillo Riva-Agüero will pass away in 1947. His successor is chosen by focus. If Flores succeeds him, the state of Tawantinsuyu will rise up in a civil war."
+
 ### Events ###
  pru.8.t: "Перу вимагає Антофагасту"
  pru.8.d: "Перу вимагає, щоб ми віддали їм Антофагасту й Аріку, інакше вони оголосять війну!"
  pru.8.a: "У нас немає вибору... ми повинні віддати провінцію"
  pru.8.b: "Якщо вони її хочуть, нехай спробують і візьмуть!"
- 
+
  pru.10.t: "Чорний Понеділок вдарив по Андах!"
  pru.10.d: "З огляду на те, що криза Чорного Понеділка вийшла з-під контролю, наша економіка, багато в чому складена з експорту, перебуває на межі колапсу! Майбутнє туманне і невпевнене, і бачачи як витікають їхні гроші, деякі перуанські інвестори обирають найлегше рішення проблеми."
  pru.10.a: "Díos Mio!"
- 
+
  pru.17.t: "Антофагаста віддана"
  pru.17.d: "Кляті загарбники були вигнані з Антофагасти"
  pru.17.a: "Було врятовано багато життів!"
- 
+
  pru.18.t: "Наші вимоги відхилено"
  pru.18.d: "Значить війна! Загарбники відмовилися припинити окупацію Антофагасти"
  pru.18.a: "Вони скоро зрозуміють ступінь своєї помилки!"
- 
+
  pru.19.t: "Формалізувати об'єднання"
  pru.19.d: "З огляду на те, що наші армії зараз окупують Болівію, нам нічого не заважає проголосити про нове об'єднання!"
  pru.19.a: "Firme por la Unidad!"
- 
+
  pru.30.t: "Мир з Еквадором?"
  pru.30.d: "Війна з Еквадором була видовищним провалом. Вони досі контролюють більшу частину, якщо не всю свою територію, і одночасно починають окупувати перуанські землі. Багато з наших генералів прийшли до нас, благаючи про мир з еквадорським урядом. Деякі з наших шпигунів у своєму уряді навіть попереджали нас, що це, можливо, єдиний шанс для нас здобути мир, бо в міру того, як еквадорські військові здобувають перемогу за перемогою, їхній уряд стає сміливішим і менш готовим прийняти мир із нашим урядом взагалі. Можливо, настав час покінчити зі смертю."
  pru.30.a: "Ми повинні просити про мир."
  pru.30.b: "Ми битимемося до кінця!"
- 
+
  pru.31.t: "Перу - за мир"
  pru.31.d: "Нещодавно ми отримали пропозицію про мир від уряду Перу. Очевидно, що вони злякалися нашої військової могутності і були змушені спробувати покласти край кровопролиттю. Звичайно, у нас немає претензій на перуанську землю, тож підстав для продовження війни мало."
  pru.31.a: "Мир для нашого часу."
  pru.31.b: "Ми маємо домагатися повної перемоги!"
- 
+
  pru.102.t: "Теракти апрістів"
  pru.102.d: "Агресивне апрістське ополчення підірвало ще одну приватну фабрику. Вони коли-небудь припинять?"
  pru.102.a: "Чорт!"
- 
+
  pru.103.t: "Доля Еквадору"
  pru.103.d: "Тертя між нами і [ECU.GetName] досягли точки кипіння. Ми занадто довго терпіли!"
  pru.103.a: "Настав час війни!"
- 
+
  pru.1030.t: "Війна з [PRU.GetName]"
  pru.1030.d: "Напруженість між нами та [PRU.GetName] досягла точки кипіння. [PRU.GetAdjective]а армія зараз мобілізується і рухається до нашого кордону."
  pru.1030.a: "Пора дати урок цим нахабним виродкам!"
- 
- pru.104.t: "Замах на життя Ларрнаса!"
- pru.104.d: "Під час [getpru104], у нашого дорогого лідера Ларреа стріляв апрістський вбивця. На щастя, він не постраждав, а злочинця було застрелено на місці. Однак це оголило зростаючу слабкість нашого уряду. Чи повинні ми підготувати вибори і дозволити людям вирішити свою долю?"
- pru_104_d1: "звичайного огляду військ"
- pru_104_d2: "військового параду на честь війни"
- pru.104.a: "Час піти у відставку, давайте підготуємо вибори"
- pru.104.b: "Ніколи! Ми будемо ще більш жорсткими по відношенню до наших супротивників!"
- 
+
+ pru.1040.t: "An Attempt on Sánchez Cerro's Life!"
+ pru.1040.d: "Grave news - our dear leader Sánchez Cerro has been shot at by an Aprist assassin. He was quickly taken to a nearby Italian hospital and doctors are now fighting for his life. Unfortunately, the damage appears to be serious and rumours are already spreading that the president will not survive this."
+ pru.1040.a: "Sánchez Cerro was dead in ten minutes!"
+ pru.1040.b: "Sánchez Cerro managed to survive!"
+
+ pru.104.t: "Óscar Benavides calls Congress"
+ pru.104.d: "After Sánchez Cerro's death, the famous General Óscar Benavides called Congress, which appointed him interim president. In the state of emergency caused by the assassination of the president, the new head of state made his first address to the people where he promised:"
+ pru.104.a: "It's time to retire, let's prepare for elections."
+ pru.104.b: "Never! We will be even harsher to quell all opposing voices!"
+
  pru.105.t: "Вибори в Перу"
  pru.105.d: "Після довгого часу, в Перу нарешті приводяться вибори! Ліберальний Демократичний рух, консервативний Новий громадянський пакт, Соціал-демократична партія та запекло націоналістичний Революційний союз усі взяли в них участь, але хто ж переможе? Ліберали, консерватори і соціал-демократи обіцяють продовження демократії, а Революційний союз обіцяє покласти виборам кінець і спрямувати всі ресурси на боротьбу з АНРА."
  pru.105.a: "Новий громадянський пакт"
  pru.105.b: "Демократичний рух"
  pru.105.c: "Соціал-демократична партія"
  pru.105.e: "Революційний союз"
- 
+
  pru.106.t: "Революція апрістів!"
  pru.106.d: "Після погіршення репресій проти соціалістів нашого уряду, апрісти розробили план останньої надії. Відчайдушний марш до столиці всіма рештою ополченців спробує повалити уряд і розпочати в Перу нову еру для робітників."
  pru.106.a: "Революція розтрощена армією!"
  pru.106.b: "Революція дивовижним чином перемагає!"
- 
+
  pru.107.t: "Соціалістична боротьба"
  pru.107.d: "Після революції апрісти почали розділятися, оскільки тупакамаристи намагаються взяти всю владу у свої руки. Між АНРА, що збереглася, і тупакамаристами починається жорстока боротьба."
  pru.107.a: "АНРА ще живе!"
  pru.107.b: "Тупакамаристи перемагають. Хай живе Пірув!"
- 
+
  pru.108.t: "Вибори [GetYear] року в Перу"
  pru.108.d: "Розпочалися наступні вибори після відставки Ларреї! Хто переможе цього разу? Ліберали, консерватори та соціал-демократи обіцяють продовження демократії, а Революційний союз обіцяє покласти виборам край і спрямувати всі ресурси на знищення АНРА."
  pru.108.a: "Новий громадянський пакт"
  pru.108.b: "Демократичний рух"
  pru.108.c: "Соціал-демократична партія"
  pru.108.e: "Революційний союз"
- 
+
  pru.109.t: "Агуеро мертвий!"
  pru.109.d: "Сьогодні вранці в Агуеро був інфаркт.  Уся країна сумує за ним, але у вищих ешелонах партії немає чіткого спадкоємця."
  pru.109.a: "Що стане з Перу?"
- 
+
  pru.110.t: "Вождь для Перу"
  pru.110.d: "Настав час для сильних світу цього вирішити, хто з них стане новим каудильйо."
  pru.110.a: "Каудильйо Міро-Кесада!"
  pru.110.b: "Каудильйо Флорес!"
  pru.110.c: "Каудильйо Урета!"
- 
+
  pru.111.t: "Переворот Одрії!"
  pru.111.d: "Через нерішучість Революційного союзу, Мануель Одріа здійснив переворот проти уряду, щоб повернути країну на правильний шлях!"
  pru.111.a: "Безлад закінчився!"
- 
+
  pru.112.t: "Повстання кечуа!"
  pru.112.d: "Через наші нещодавні закони, що закріплюють перевагу іспаномовних американців, люди, які заселили цю землю до Колумба, підняли повстання, щоб посперечатися з нашим законодавством!"
  pru.112.a: "Давайте їх знищимо!"
- 
+
  pru.113.t: "Вторгнення до Еквадору"
  pru.113.d: "Давайте почнемо проводити військові навчання на кордоні з Еквадором, щоб деякі наші загони 'помилково' перетинали кордон, щоб їх спровокувати. Ми підготуємося до війни на підпорядкування Еквадору!"
  pru.113.a: "До війни, перуанці!"
- 
+
  pru.114.t: "Свято Батьківщини"
  pru.114.d: "Розпочалися національні святкування, що відзначають нашу незалежність і збройні сили! Генерал Хосе де Сан-Мартін, відомий як визволитель Перу, проголосив незалежність Перу 28 липня 1821 року, звільнивши його від іспанського гніту. Люди по всій країні радіють вихідним, а у всіх великих містах організовані паради."
  pru.114.a: "Хай живе Перу!"
- 
- pru.115.t: "Смерть Бенавідеса"
- pru.115.d: "[getpru115]"
- pru.115.a: "Завершення епохи."
- pru_115_d1: "Наш великий каудильйо Оскар Бенавідес Ларреа помер з природних причин. Вся країна за ним плаче, а його спадкоємець, більш расистський і радикальний Мануель Одріа готується вести нас у майбутнє."
- pru_115_d2: "Наш колишній тиран каудильйо Оскар Бенавідес Ларреа помер з природних причин. І хоча він був ворогом революції і приніс нам страждання, деякі громадяни віддали йому знаки поваги за таке довге правління країною. Його спадкоємець, більш расистський і радикальний Мануель Одріа зайняв місце Бенавіндеса."
- pru_115_d3: "Оскар Бенавідес Ларреа помер з природних причин. І хоча він не був найкращим із правителів, він зберігав стабільність у країні до проведення виборів, на яких ми і перемогли. Його спадкоємець, більш расистський і радикальний Мануель Одріа посів місце Бенавіндеса."
- 
+
+ pru.115.t: "Death of Óscar Benavides"
+ pru.115.d.leader: "Our great Caudillo Óscar Raimundo Benavides Larrea has died of natural causes. The whole nation mourns him, while his successor, the more radical and very racist Manuel Odria, takes his place to lead us into the future."
+ pru.115.d.socialist: "One of our previous oppressors, Óscar Raimundo Benavides Larrea, has died of natural causes. While he was an enemy of the revolution and committed many atrocities against Peruvian socialists, some still mourn the man that ruled this country during this difficult time. The man that took control of his scattered clique is Manuel Odria, a most despicable man whose racism cannot be understated."
+ pru.115.d.default: "Óscar Raimundo Benavides Larrea has died due to natural causes. Even though he was not Peru's best leader, he was able to keep the nation stable while also restoring elections, which indirectly lead to our ascension to power. His direct successor, Manuel Odria, is ideologically radical and bears a grudge against the native people."
+ pru.115.a: "An era has ended."
+
  pru.116.t: "Смерть Луїса Маурісіо"
  pru.116.d: "Сьогодні під час перестрілки між урристами і апрістами в Барріос-Алтосі, був застрелений молодий урриста на ім'я Луїс Маурісіо. Він був сином старої родини олігархів. Щоб за нього помститися, інші урристи винищили апрістів. Ця справа шокувала лиманське суспільство і урристи в конгресі запропонували державний похорон Маурісіо. Наші радники вважають, що це розлютить простих людей, але якщо ми його не проведемо, може розлютитися Ріва Агуеро..."
  pru.116.a: "Дозволити державні похорони"
  pru.116.b: "Хай проводять внутрішньопартійну церемонію"
- 
+
  pru.117.t: "La Piedra Cansada"
  pru.117.d: "Сьогодні наша розвідка оголосила про опублікування книги за кордоном, написаної перуанським автором, вигнаним до Чилі, Сесаром Вальєхо. Його повість - це драма, поставлена в колоніальні часи, яка розповідає про двох індіанських дітей, і про те, як їх експлуатує церква і колоніальна адміністрація. Повість жорстко критикує аристократію і релігію. Хоча ця книга заборонена, вона змогла потрапити до рук населення нелегально."
  pru.117.a: "Маленький клаптик пропаганди на нас не позначиться!"
- 
+
+ pru.118.t: "The New South American Hegemon"
+ pru.118.d: "We have achieved what many thought to be impossible, a goal so ambitious that many world powers would never have believed could be done. Peru-Bolivia has restored itself to its former glory, reclaiming lost lands from its neighbours and cementing its place in the history books. While it may take decades for our recent conquests to accept our rule, our lifelong reign as the sole hegemon of South America is all but assured.\n\nNow, our task is to defend and develop what we have retaken in order to ensure that there is no foe capable of surpassing our greatness."
+ pru.118.a: "Perhaps we should restore the title of 'Supreme Protector' as well..?"
+
  pru.1000.t: "Перуанська революція"
  pru.1000.d: "Перу провалилася в революцію, коли Каудільо переміг на виборах, і тепер готова приєднатися до нас у звільненні трудящих усього світу. У нас справді не так багато причин відмовляти їм у вступі, оскільки це може послужити початком революції в Південній Америці, але відмова їм у вступі - це всього лише один із варіантів."
  pru.1000.a: "Звичайно, прийміть їхню заявку."
  pru.1000.b: "Скажіть їм, що їм відмовлено."
- 
+
  pru.1001.t: "До Інтернаціоналу"
  pru.1001.d: "Французька Комуна прийняла нас в Інтернаціонал, очікуючи, що ми підтримаємо революцію в Південній Америці. Разом ми звільнимо трудящих у всьому світі."
  pru.1001.a: "За революцію!"
- 
+
  pru.1002.t: "За межами Інтернаціоналу"
  pru.1002.d: "З причин, про які ми не знаємо, Французька Комуна відмовила нам у вступі до Інтернаціоналу. Ми повинні протриматися в межах Південної Америки."
  pru.1002.a: "Розчаровує..."
 
-##Army Generals##
- PRU_oscar_raimundo_benavides_larrea_commander_desc: ""
- PRU_manuel_arturo_odria_amoretti_commander_desc: ""
- PRU_eloy_gaspar_ureta_montehermoso_commander_desc: ""
+ pru.1003.t: "Assassination of Sánchez Cerro!"
+ pru.1003.d: "Peruvian President Luis Miguel Sánchez Cerro was shot yesterday morning at the Hippodrome of Santa Beatriz while returning from a review of recruits going to fight in the war with Ecuador. The assassin, allegedly a supporter of the illegal socialist party APRA, managed to breach a police cordon and fired several shots into the President who was sitting in the back of an open car. Sánchez Cerro was immediately transported to a nearby Italian hospital, but he confirmed was dead 15 minutes later.\n\nIn the ensuing succession turmoil the Constitutional Congress elected general Óscar Benavides as interim president. In his address to the congressmen he made a promise:"
+ pru.1003.desc_dictatorship: "$pru.1003.d$ elections will be held after the APRA threat is finally eliminated."
+ pru.1003.desc_elections: "$pru.1003.d$ elections will be held as soon as possible to pacify the country."
+ pru.1003.a: "Once again bullets decide the fate of states."
 
 ### Tags ###
  PRU: "Перу"
@@ -613,16 +674,14 @@
  PRU_totalist_ADJ: "Піруванськ"
  PRU_totalist_DEF: "Народна Республіка Пірув"
  PRU_syndicalist: "Народна Республіка Перу"
- PRU_syndicalist_ADJ: "Перуанськ"
  PRU_syndicalist_DEF: "Народна Республіка Перу"
  PRU_radical_socialist: "Народна Республіка Перу"
- PRU_radical_socialist_ADJ: "Перуанськ"
  PRU_radical_socialist_DEF: "Народна Республіка Перу"
 
  PRU_quechua: "Тавантінсую"
  PRU_quechua_ADJ: "Тавантінсуйськ"
  PRU_quechua_DEF: "Тавантінсую"
- 
+
  PBC: "Перу-Болівія"
  PBC_ADJ: "Перуансько-болівійськ"
  PBC_DEF: "Перу-Болівія"
@@ -660,82 +719,129 @@
 
 ### Characters ###
  PRU_gamaliel_churata: "Gamaliel Churata"
- PRU_gamaliel_churata_leader_desc: ""
+ PRU_gamaliel_churata_leader_desc: "§YBorn:§! §LJune 19th, 1897, in Arequipa, Department of Arequipa, Peruvian Republic§!\n§YBackground:§! §LGamaliel Churata, whose real name is Arturo Pablo Peralta Miranda, formed several culturalist groups in his youth, through which he met Manuel González Prada, Raul Haya de la Torre, and most importantly, José Carlos Mariategui, who would become a close friend of Churata. He was exiled to Bolivia in 1917, but would return to Perú in 1925, joining up Mariategui in Moquegua as the first group of left-wing indigenist thinkers was formed. When Mariategui finally died in 1930 in Chile, Churata was appointed by his friend in his dying wishes as the leader of the 'Frente Tupacamarista'. In his new role as leader, he'd later gather in 1931 with Raul Haya de la Torre and Alfredo González Prada in order to form a United Front from which bring about the Peruvian revolution. Now that Churata leads Perú, he'll focus on restoring the Andean cultural identity and purge the Spanish-descendant bourgeoisie from the government, bringing about a new culture and society for the now new country of Piruw.§!"
 
  PRU_victor_raul_haya_de_la_torre: "Victor Raúl Haya de la Torre"
- PRU_victor_raul_haya_de_la_torre_leader_desc: ""
+ PRU_victor_raul_haya_de_la_torre_leader_desc: "§YBorn:§! §LFebruary 22nd, 1895, in Trujillo, Department of La Libertad, Peruvian Republic§!\n§YBackground:§! §LVíctor Raúl Haya de la Torre signed up for the 'Facultad de Letras de la Universidad de Trujillo' when he finished high-school, but would later decide to study to become a Lawyer in the 'Universidad Mayor de San Marcos' in Lima. There he met Manuel Gonzalez Prada, whose anarchist thoughts influenced the young Raul. He joined several protests against the Leguía regime, which would decide to get rid of him by granting him a scholarship to France. However, this move would backfire on Leguía, as the revolutions in Europe would influence young Raul and his friend, Mariategui, towards Syndicalist ideals.\n\nHe would go to Mexico in 1924, and with other Peruvian syndicalist exiles formed the 'Alianza Popular Revolucionaria Americana' or 'APRA'. The APRA would focus on pan-Americanism (or as Raul liked to call it, 'Indo-Americanism') and fighting imperialism and the bourgeois oligarchy that had settled in the continent. He'd return to Perú in 1925, settling in the north of the country with his fellow Apristas. In 1929, Raul led the Trujillo takeover, when APRA forces took over the city and proclaimed a Trujillan commune that would be lead by Raul, and executing the local garrison. When the revolt was crushed, he managed to escape to Chile, where he'd join forces with Churata and González Prada in order to strengthen the APRA for a new revolution in 1931.\n\nNow that Raul Haya de la Torre leads Perú, he'll bring about his dream of a worker's utopia for Perú, whatever the cost may be.§!"
+
+ PRU_eudocio_ravines_perez: "Eudocio Ravines Pérez"
+ PRU_eudocio_ravines_perez_leader_desc: "§YBorn:§! §LMay 9th, 1897, in Cajamarca, Department of Cajamarca, Peruvian Republic§!\n§YBackground:§! §LEudocio Ravines belongs to the same generation of socialists as Víctor Raúl Haya de la Torre and José Carlos Mariátegui. After losing his father early, the burden of his upbringing fell on his mother and uncle Belisario Ravines, a hero of the War of the Pacific and former prefect of Cajamarca during the reign of Nicolás de Piérola. In 1914 Belisario was a major figure in the Llaucán Massacre, where he ordered the killing of between 200 and 400 protesting hacienda workers against rent increases. This incident left a strong impression on the young Eudocio. In March 1917 he moved to Lima, where, thanks to a friend of his uncle, he found a comfortable job allowing him to devote his evenings to reading and self-education. In 1919 he began to earn enough to move his mother and sisters to the capital.\n\nHe entered into politics in 1923, when, after organising a strike, he was arrested and expelled from the country. In exile he met Víctor Raúl Haya de la Torre and became one of the founders of the APRA. In 1928 he moved to Paris, where he was inspired by the ideology of the French syndicalists and soon broke with the APRA. He devoted the following years to the promotion of this ideology, often having acrimonious arguments with loyal supporters of the APRA or Churata.§!"
 
  PRU_julio_alfredo_gonzalez_de_prada_y_verneuil: "Julio Alfredo González de Prada y Verneuil"
- PRU_julio_alfredo_gonzalez_de_prada_y_verneuil_leader_desc: ""
+ PRU_julio_alfredo_gonzalez_de_prada_y_verneuil_leader_desc: "§YBorn:§! §LOctober 16th, 1891, in Paris, Seine, French Republic§!\n§YBackground:§! §LThe son of known Peruvian anarchist Manuel González Prada, he'd graduate from the 'Universidad San Marcos' as a bachelor in literature in 1910, and would later graduate as a bachelor in Jurisprudence, later achieving a PhD on said career. In 1919, Prada would become the intellectual leader of the newly formed 'Frente Armado Obrero', which would fight for better working rights in its most moderate form and for an outright revolution in its more radical members. Seeing the violence this group generated in Lima, Leguía decided to send the military to suppress the movement, ending the first Peruvian Syndicalist experiment. He then decided to retire from public life temporarily, gathering with other anarchists in Peru until the failed Trujillo rebellion forced him to go to Chile. There he joined forces in 1931 with Raúl Haya de la Torre and Gamaliel Churata with the goal of bringing the revolution to Perú. A staunch believer of Anarchism, now that Prada is in power, he will focus on bringing about his father's vision for a decentralised and free Perú.§!"
 
  PRU_luis_antonio_eguiguren_escudero: "Luis Antonio Eguiguren Escudero"
- PRU_luis_antonio_eguiguren_escudero_leader_desc: ""
+ PRU_luis_antonio_eguiguren_escudero_leader_desc: "§YBorn:§! §LJuly 21st, 1887, in Piura, Department of Piura, Peruvian Republic§!\n§YBackground:§! §LLuis Antonio Eguiguren graduated as bachelor in literature and jurisprudence in 1913 and in Political Science and Administration in 1914. In 1930 he became the Mayor of Lima, but resigned a year later after discrepancies regarding the autonomy of the city's Instruction ministry, and his differences regarding Cerro's Autocratic rule. He left to Ecuador in a self-imposed exile after death-threats towards his family from radical HP members, only to return after Cerro gave signs of wanting to restore democracy to Perú, where the contacts he had gained him a place in the Partido Social Demócrata. Now that he's President of Perú, he'll do his best to bring peacefully a welfare-system into Perú, trying to compromise with the APRA and the other democratic parties wherever possible.§!"
 
  PRU_jorge_prado_y_ugarteche: "Jorge Prado y Ugarteche"
- PRU_jorge_prado_y_ugarteche_leader_desc: ""
+ PRU_jorge_prado_y_ugarteche_leader_desc: "§YBorn:§! §LMay 13th, 1887, in Lima, Department of Lima, Peruvian Republic§!\n§YBackground:§! §LJorge Prado Ugarteche is the son of Mariano Ignacio Prado, who was President of Perú twice in his life, Jorge studied in Law in the 'Universidad de San Marcos' from 1904 to 1909, and then joined the military academy after graduating, becoming lieutenant by 1914. He joined with his brothers to the Partido Civil in 1914, where they helped in the coup d'état that overthrew President Billinghurst. He would later become deputy for the Dos de Mayo province, but would be exiled with his brothers for opposing Leguía's regime.\n\nJorge began a reform to free political prisoners and recall political exiles that were punished by Sánchez Cerro and Leguía's regimes. However, Ugarteche would be forced to resign due to internal pressure, and Jose de la Riva Agüero would take his place, reinstating the hardline policies against detractors of the regime. Disillusioned with Cerro regime, he formed the El Frente Nacional with the support of his brothers. Now that Jorge has managed to become President, his belief in the free-market and pro-Entente leanings will surely lead to a liberalisation of the Peruvian economy, ushering in a new era of economic prosperity to the nation.§!"
 
  PRU_manuel_vicente_villaran_godoy: "Manuel Vicente Villarán Godoy"
- PRU_manuel_vicente_villaran_godoy_leader_desc: ""
+ PRU_manuel_vicente_villaran_godoy_leader_desc: "§YBorn:§! §LOctober 18th, 1873, in Lima, Department of Lima, Peruvian Republic§!\n§YBackground:§! §LManuel Vicente Villarán Godoy graduated with a PhD in jurisprudence in 1895 from the 'Universidad San Marcos'. He became a teacher in that same university and would return to his educative role many times during his political career. He was named Minster of Justice, Cult and Instruction during President Leguía's first regime, and would become an active member of Peruvian politics until Leguía's coup in 1919. He was chosen as Principal for the San Marcos University, but rejected his position in protest of Leguía's takeover, and began writing three Manifestos, all of them praising the youthful fighting spirit of his students and warning of the danger that entailed having a Caudillo leading Perú. He was exiled in 1925, but would return in 1927, trying to stay away from politics. During Sánchez Cerro's government, he took part in the subsequent constitutional reforms, although he didn't defend some points that the new constitution brought up. Now that he's president of Perú, he'll take a pragmatic approach to the issues Perú faces, trying to compromise with the UR and focusing on investing in better services and education for the nation.§!"
 
  PRU_oscar_raimundo_benavides_larrea: "Óscar Raimundo Benavides Larrea"
- PRU_oscar_raimundo_benavides_larrea_leader_desc: ""
+ PRU_oscar_raimundo_benavides_larrea_leader_desc: "§YBorn:§! §LMarch 15th, 1876, in Lima, Department of Lima, Peruvian Republic§!\n§YBackground:§! §LOscar Raimundo Benavides Larrea graduated military school in 1906 and was sent to France to take part in their manoeuvring exercises. On his return to Perú in 1910, he became involved in the 'Campaña del Caqueta', which allowed him to climb through the ranks until becoming Chief of Staff in 1913. In 1914 he joined the coup against President Billinghurst, becoming provisional president until 1915, where he called for elections after securing stability. He was then sent to Europe as an observer during the Weltkrieg, but resigned his post when Leguía couped the democratic government.\n\nLeguía was quick to react to Benavides return, imprisoning him and sending him along with other political prisoners to exile. However, Benavides managed to organise a successful mutiny in the ship that transported them, escaping to Central America, where he'd support Sánchez Cerro's uprising and later taking an important role in Sánchez Cerro's government.\n\nWith Sánchez Cerro's death, Benavides took advantage of the anarchy that ensued and became Cerro's successor, suspending elections and becoming Perú's new Caudillo. Benavides has adopted the motto 'Order, Peace and Work', rewarding generously displays of loyalty and punishing severely any display of dissent...§!"
+ PRU_oscar_raimundo_benavides_larrea_commander_desc: "§YBorn:§! §LMarch 15th, 1876, in Lima, Department of Lima, Peruvian Republic§!\n§YBackground:§! §LÓscar Raimundo Benavides Larrea joined the Lima's 'Escuela Militar' in 1890, graduating with honours as a second lieutenant. He reached the rank of Lieutenant in 1899 and Captain in 1901. He became Lieutenant Colonel in 1909 and was sent to France to practise in French manoeuvres, receiving the 'Ordre national de la Légion d'honneur'. He took part of the Caqueta Campaign in 1910, achieving a meteoric rise through the ranks until becoming Chief of Staff of the Peruvian Army in 1913. Despite having dedicated mostly to politics since then, Benavides is still one of the best and most experienced military commanders of Perú.§!\n\n§YNotes: His political career has taken precedence over his military career, but he will return to his duties if the country is drawn into conflict.§!"
+
+ PRU_luis_miguel_sanchez_cerro: "Luis Miguel Sánchez Cerro"
+ PRU_luis_miguel_sanchez_cerro_leader_desc: "§YBorn:§! §LAugust 12th, 1889, in Piura, Department of Piura, Peruvian Republic§!\n§YBackground:§! §LGeneral Sánchez Cerro is worshipped by his friends almost as a messiah and hated by his enemies as an unquestioned tyrant, but both recognise the main quality of this man - courage and boldness, sometimes turning reckless.\n\nSánchez Cerro was born into a middle-class family of a notary and is a descendant of the indigenous or Malagasy Peruvians. Even as a child, while at school, he claimed to his mates he would be president of the republic. But he first chose a military career as his career.\nIn 1906 he entered the Chorrillos Military School, and by 1914 he actively participated in the coup against President Billinghurst, being wounded while taking a machine gun with his bare hands, which left him without two fingers and with the nickname \"El Mocho\" (Mutilated). He subsequently spent several months abroad as a counsellor, where he studied languages intensively. Upon his return he was assigned to various regiments, where he consistently proved himself a capable officer, but not always politically reliable. In 1922, after the rise of Leguía to power, he rebelled against the government, but failed to make any successes and was imprisoned on the island of Taquile on Lake Titicaca, and then in the famous prison on the island of San Lorenzo. After his release, he spent some time trading coal, but soon reconciled himself to the regime and was given a position as assistant to the Minister of War and battalion chief, which he had to pacify first.\n\nIn 1926, however, Sánchez Cerro finally had the chance to fulfil his dream and led the army to overthrow Leguía. Forming his own party, Unión Revolucionaria, he easily won the election and became the legitimate president of Peru. His popularity further increased after his victory over Colombia. Unfortunately, his popularity is now steadily declining due to increased Aprists activity and general dissatisfaction with his despotic and sometimes authoritarian rule.§!"
+ PRU_luis_miguel_sanchez_cerro_commander_desc: "§YBorn:§! §LAugust 12th, 1889, in Piura, Department of Piura, Peruvian Republic§!"
 
  PRU_jose_de_la_riva_aguero_y_osma: "José de la Riva Agüero y Osma"
- PRU_jose_de_la_riva_aguero_y_osma_leader_desc: ""
+ PRU_jose_de_la_riva_aguero_y_osma_leader_desc: "§YBorn:§! §LFebruary 26th, 1885, in Lima, Department of Lima, Peruvian Republic§!\n§YBackground:§! §LJose de la Riva Agüero y Osma is the grandson of the first Peruvian president, José de la Riva Agüero y Sánchez-Boquete, he graduated from the 'Universidad Nacional Mayor de San Marcos' as a bachelor in literature, philosophy and law, and managed to get a PhD in jurisprudence in 1911. His first political move was to write an article criticising Leguía's government in that same year, for which he was arrested, triggering the first ever student protest in the history of Perú, which demanded Agüero's release. Agüero was released, where he became a teacher in San Marcos, but when Leguía took over the government in 1919, Agüero wrote a manifesto defending the constitutional order and left in a self-imposed exile towards Europe.\n\nThat travel to Europe changed him, as he was forced to witness the European recovery from the Weltkrieg, as well as the Syndicalist uprisings. It's in these circumstances that he meets Costanzo Ciano and other ANI leaders, whose far-right philosophy began influencing the once liberal Agüero. He returns in 1927 to Peru, after Cerro deposed Leguía, and began working as a history professor at the 'Pontificia Universidad Catolica'. He at first saw in Cerro just another dictator, but a meeting he had with the Caudillo changed his mind, as his experience in Europe and relation with prominent thinkers like Ciano and Carlés quickly turned him into a friend and close advisor of Sánchez Cerro. Although the hispanist ideals Agüero had were too extreme for Cerro, he was named head of ministers. Now that Agüero is in power, he'll try to take Perú in a radical new direction and return the old glory of the Virreynato back to Perú.§!"
 
  PRU_consejo_nacional: "Consejo Nacional"
- PRU_consejo_nacional_leader_desc: ""
+ PRU_consejo_nacional_leader_desc: "§YBackground:§! §LWith Agüero's death, the Hermandad Peruana has been thrown into chaos. Factionalism has begun to crack the once unified HP, with many within it vying for power, most notably Luis Alberto Flores Medina, General Ureta Montehermoso and Carlos Miró-Quesada. As long as there's not an elected successor for Agüero, the council will lead Perú forward, albeit with plenty of internal difficulties, until this issue is resolved.§!"
 
  PRU_pachacutec_ii: "Pachacutec II"
- PRU_pachacutec_ii_leader_desc: ""
+ PRU_pachacutec_ii_leader_desc: "§YBorn:§! §L1914, in Lampa, Department of Puno, Peruvian Republic§!\n§YBackground:§! §LReynaldo Chukiwanka Ayulo Choquehuanca, better known by his regnal name, Pachacutec II is the son of Francisco Chukiwanka Ayulo and considered one of the descendants of the Incan emperor, Huayna Capac, he has taken advantage of his father's popularity to rally the Indians to his cause. His father graduated as a lawyer in 1908 from the 'Universidad de Arequipa' and would go to Puno, Perú, where he began fighting for better rights for natives and created an alphabet in which natives could write Aymara, Quechua and Spanish, helping the native population to improve its literacy rates as these languages conflicted with the latin alphabet. Reynaldo became involved in French émigré circles and was influenced by the writings of Charles Maurras. Seeing the government mistreating the native populations, Reynaldo took over his father's institutions and began going from village to village rallying the natives for an insurrection to finally be free of the Criollo oppression.§!"
 
  PRU_jose_matias_manzanilla_barrientos: "José Matías Manzanilla Barrientos"
+ PRU_jose_matias_manzanilla_barrientos_advisor_desc: "§YBorn:§! §LOctober 5th, 1867, in Ica, Department of Ica, Peruvian Republic§!"
  PRU_manuel_encarnacion_rodriguez_davila: "Manuel Encarnación Rodríguez Dávila"
+ PRU_manuel_encarnacion_rodriguez_davila_army_chief_desc: "§YBorn:§! §L1883, in Arequipa, Department of Arequipa, Peruvian Republic§!"
  PRU_ernesto_montagne_markholz: "Ernesto Montagne Markholz"
+ PRU_ernesto_montagne_markholz_advisor_desc: "§YBorn:§! §LMay 3rd, 1885, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_antonio_rodriguez_ramirez: "Antonio Rodríguez Ramírez"
+ PRU_antonio_rodriguez_ramirez_advisor_desc: "§YBorn:§! §L1890, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_hector_boza_aizcorbe: "Héctor Boza Aizcorbe"
+ PRU_hector_boza_aizcorbe_advisor_desc: "§YBorn:§! §LDecember 12th, 1888, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_hector_felipe_mercado_silva: "Héctor Felipe Mercado Silva"
+ PRU_hector_felipe_mercado_silva_advisor_desc: "§YBorn:§! §LFebruary 24th, 1885, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_carlos_concha_cardenas: "Carlos Concha Cárdenas"
+ PRU_carlos_concha_cardenas_advisor_desc: "§YBorn:§! §LNovember 27th, 1888, in Callao, Constitutional Province of Callao, Peruvian Republic§!"
  PRU_felipe_de_la_barra_ugarte: "Felipe De La Barra Ugarte"
+ PRU_felipe_de_la_barra_ugarte_theorist_desc: "§YBorn:§! §LAugust 13th, 1888, in Chala, Department of Arequipa, Peruvian Republic§!"
  PRU_carlos_manuel_cox_roose: "Carlos Manuel Cox Roose"
+ PRU_carlos_manuel_cox_roose_advisor_desc: "§YBorn:§! §LAugust 2nd, 1902, in Trujillo, Department of La Libertad, Peruvian Republic§!"
  PRU_luis_emilio_heysen_inchaustegui: "Luis Emilio Heysen Incháustegui"
+ PRU_luis_emilio_heysen_inchaustegui_advisor_desc: "§YBorn:§! §LJuly 13th, 1903, in Chiclayo, Department of Lambayeque, Peruvian Republic§!"
  PRU_hildebrando_castro_pozo: "Hildebrando Castro Pozo"
+ PRU_hildebrando_castro_pozo_advisor_desc: "§YBorn:§! §LSeptember 9th, 1890, in Ayabaca, Department of Piura, Peruvian Republic§!"
  PRU_luciano_castillo_colonna: "Luciano Castillo Colonna"
+ PRU_luciano_castillo_colonna_advisor_desc: "§YBorn:§! §LFebruary 23rd, 1899, in La Huaca, Department of Piura, Peruvian Republic§!"
  PRU_cristobal_de_losada_y_puga: "Cristóbal de Losada y Puga"
+ PRU_cristobal_de_losada_y_puga_advisor_desc: "§YBorn:§! §LApril 14th, 1894, in New York City, New York, United States of America§!"
 
  PRU_manuel_arturo_odria_amoretti: "Manuel Arturo Odría Amoretti"
- PRU_manuel_arturo_odria_amoretti_leader_desc: ""
+ PRU_manuel_arturo_odria_amoretti_leader_desc: "§YBorn:§! §LNovember 26th, 1896, in Tarma, Department of Junín, Peruvian Republic§!\n§YBackground:§! §LJosé Manuel Arturo Odría Amoretti graduated the Escuela Militar as an infantry second lieutenant, where his grades were so high that he was granted an honorary sword, and named instructor for the school. He continued perfecting his military ability throughout his career, taking an important role in the war against Ecuador, but he never truly prepared to be a politician. As such, now that he's in power, he'll seek to restore the Peruvian democracy, but not before restoring stability to the country and enacting laws to prevent future Caudillismo. However, his rejection of the native population may cause trouble with the large Quechua-speaking minorities in the country...§!"
+ PRU_manuel_arturo_odria_amoretti_commander_desc: "§YBorn:§! §LNovember 26th, 1896, in Tarma, Department of Junín, Peruvian Republic§!\n§YBackground:§! §LJosé Manuel Arturo Odría Amoretti joined the 'Escuela Militar de Chorrillos in 1915, where he obtained outstanding grades in his exams. He travelled to Bolivia with a group of honorary delegates in 1917 to represent Perú's finest officers in training. He graduated with honours as a second lieutenant in 1919, becoming the 19th officer in Peruvian history to receive a sword of honour. He became lieutenant in 1921, Captain in 1924 and Major in 1930, reaching the rank of General in 1935. A truly brilliant officer, his only flaw is his lack of practical experience in the battlefield.§!\n\n§YNotes: He has shown signs of racism towards the native population.§!"
 
  PRU_eloy_gaspar_ureta_montehermoso: "Eloy Gaspar Ureta Montehermoso"
- PRU_eloy_gaspar_ureta_montehermoso_leader_desc: ""
+ PRU_eloy_gaspar_ureta_montehermoso_leader_desc: "§YBorn:§! §LDecember 12th, 1892, in Chiclayo, Department of Lambayeque, Peruvian Republic§!\n§YBackground:§! §LEloy Gaspar Ureta Montehermoso graduated as an artillery second lieutenant from the Escuela Militar de Chorrillos in 1913. After beginning studies in the Escuela Superior de Guerra, he'd be sent to Italy and France to perfect his ability as an artillery officer. A decorated officer, he joined the HP due to his ultra-conservative views and admiration for Agüero, even if they both had their differences. Now that Ureta leads the UR and Perú, he'll try to instil in the Peruvian society at large the patriotism and discipline he was taught as a cadet.§!"
+ PRU_eloy_gaspar_ureta_montehermoso_commander_desc: "§YBorn:§! §LDecember 12th, 1892, in Chiclayo, Department of Lambayeque, Peruvian Republic§!\n§YBackground:§! §LEloy Gaspar Ureta Montehermoso joined the 'Escuela Militar de Chorrillos' in 1909, graduating in 1913 as an artillery second lieutenant. He would be sent to Turín, Italy, and later to Versailles, France, to continue his artillery training. By 1918, he had managed to become Captain, and by 1931 he was a Colonel. He gained his last promotion in 1935 to General, where he now has become one of the most important artillery officers in Perú.§!\n\n§YNotes: Affiliated to the Hermandad Peruana.§!"
 
  PRU_carlos_miro_quesada_laos: "Carlos Miró-Quesada Laos"
- PRU_carlos_miro_quesada_laos_leader_desc: ""
+ PRU_carlos_miro_quesada_laos_leader_desc: "§YBorn:§! §LOctober 19th, 1903, in Lima, Department of Lima, Peruvian Republic§!\n§YBackground:§! §LCarlos Miró-Quesada Laos graduated as a Lawyer in Lima in 1932 and joined the Unión Revolucionaria. His diplomatic ways with other members and professional handling of propaganda for the party made him quickly rise through the ranks, becoming one of the possible successors to Agüero. Now that Miró-Quesada is in power, he's bound to continue the status-quo Agüero created and keep working forward for Agüero's vision of a glorious Hispanic Perú.§!"
+ PRU_carlos_miro_quesada_laos_commander_desc: "§YBorn:§! §LOctober 19th, 1903, in Lima, Department of Lima, Peruvian Republic§!"
 
  PRU_luis_alberto_flores_medina: "Luis Alberto Flores Medina"
- PRU_luis_alberto_flores_medina_leader_desc: ""
+ PRU_luis_alberto_flores_medina_leader_desc: "§YBorn:§! §LOctober 11th, 1899, in Ayabaca, Department of Piura, Peruvian Republic§!\n§YBackground:§! §LLuis Alberto Flores Medina graduated as a Lawyer from the 'Universidad Mayor de San Marcos' in the late 1910s. He staunchly opposed the government of Augusto B. Leguía, for Flores would be imprisoned. He was freed after a decree by Sánchez Cerro, quickly gaining Flores's loyalty, who joined the Unión Revolucionaria soon after. He accompanied Sánchez Cerro in his tour through Arequipa, Puno, Cusco and Ica, and would later become deputy for the UR. After the resign of Francisco Lanatta, Flores becomes the president of the council of ministers. During his time as president of the council, the crews of the Peruvian navy ships 'Almirante Grau' and 'Coronel Bolognesi' mutinied with apparent APRA influence. While Flores didn't believe the crews deserved the death penalty, the martial court determined they were traitors and had to die, so he came to the island of San Lorenzo with the prisoners, where he'd lead the execution personally. It is said that Flores himself forced each sailor to dig his own grave before being shot, earning him a reputation for cruelty in the UR.\n\nFlores became a close follower of Agüero, although he considered the latter to be too conservative in his approach against the APRA. Now that Flores is in power, he'll bring about his vision for a corporatist and totalitarian Perú, free from the influence of the decadent APRA which he'll hunt down relentlessly. However, his dream of absolute control over people of Peru is bound to shine through in his policies, and might upset the moderate or even conservative population...§!"
+ PRU_luis_alberto_flores_medina_commander_desc: "§YBorn:§! §LOctober 11th, 1899, in Ayabaca, Department of Piura, Peruvian Republic§!"
 
- PRU_jose_agustin_haya_de_la_torre: "José Agustin Haya de la Torre"
+ PRU_jose_agustin_haya_de_la_torre: "José Agustín Haya de la Torre"
+ PRU_jose_agustin_haya_de_la_torre_commander_desc: "§YBorn:§! §L1903, in Trujillo, Department of La Libertad, Peruvian Republic§!"
 
  PRU_grimaldo_bravo_arenas: "Grimaldo Bravo Arenas"
+ PRU_grimaldo_bravo_arenas_admiral_desc: "§YBorn:§! §LJuly 31st, 1887, in Lima, Department of Lima, Peruvian Republic§!"
+
  PRU_carlos_rotalde_gonzales_del_valle: "Carlos Rotalde González del Valle"
+ PRU_carlos_rotalde_gonzales_del_valle_admiral_desc: "§YBorn:§! §LJanuary 22nd, 1886, in Lima, Department of Lima, Peruvian Republic§!"
 
  PRU_gustavo_adolfo_jimenez_saldias: "Gustavo Adolfo Jímenez Saldías"
+ PRU_gustavo_adolfo_jimenez_saldias_army_chief_desc: "§YBorn:§! §LApril 5th, 1886, in Cerro de Pasco, Department of Pasco, Peruvian Republic§!"
+ PRU_gustavo_adolfo_jimenez_saldias_commander_desc: "§YBorn:§! §LApril 5th, 1886, in Cerro de Pasco, Department of Pasco, Peruvian Republic§!"
 
  PRU_cesar_augusto_de_la_fuente_alvarez: "César Augusto de la Fuente Álvarez"
+ PRU_cesar_augusto_de_la_fuente_alvarez_army_chief_desc: "§YBorn:§! §LJuly 3rd, 1877, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_federico_diaz_dulanto: "Federico Díaz Dulanto"
+ PRU_federico_diaz_dulanto_navy_chief_desc: "§YBorn:§! §LAugust 9th, 1888, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_renan_elias_olivera: "Renán Elías Olivera"
+ PRU_renan_elias_olivera_air_chief_desc: "§YBorn:§! §LFebruary 2nd, 1915, in Ica, Department of Ica, Peruvian Republic§!"
  PRU_ricardo_pio_perez_godoy: "Ricardo Pío Pérez Godoy"
+ PRU_ricardo_pio_perez_godoy_high_command_desc: "§YBorn:§! §LMay 9th, 1905, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_manuel_maria_ponce_brousset: "Manuel María Ponce Brousset"
+ PRU_manuel_maria_ponce_brousset_high_command_desc: "§YBorn:§! §LApril 5th, 1874, in Arequipa, Department of Arequipa, Peruvian Republic§!"
  PRU_fernando_sarmiento_ramirez: "Fernando Sarmiento Ramirez"
+ PRU_fernando_sarmiento_ramirez_high_command_desc: "§YBorn:§! §L1874, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_jose_remigio_alzamora_freundt: "José Remigio Alzamora Freundt"
+ PRU_jose_remigio_alzamora_freundt_theorist_desc: "§YBorn:§! §LJuly 23rd, 1891, in Callao, Constitutional Province of Callao, Peruvian Republic§!"
  PRU_juan_bielovucic_cavalie: "Juan Bielovucic Cavalié"
+ PRU_juan_bielovucic_cavalie_theorist_desc: "§YBorn:§! §LJuly 30th, 1889, in Lima, Department of Lima, Peruvian Republic§!"
 
- PRU_manuel_barretos_risco: "Manuel Barretos Risco"
+ PRU_manuel_barretos_risco: "Manuel Barreto Risco"
+ PRU_manuel_barretos_risco_army_chief_desc: "§YBorn:§! §Lin Callao, Constitutional Province of Callao, Peruvian Republic§!"
  PRU_alfredo_tello_salavarria: "Alfredo Tello Salavarria"
+ PRU_alfredo_tello_salavarria_army_chief_desc: "§YBorn:§! §LJanuary 10th, 1910, in Trujillo, Department of La Libertad, Peruvian Republic§!"
  PRU_roque_augusto_saldias_maninat: "Roque Augusto Saldías Maninat"
+ PRU_roque_augusto_saldias_maninat_navy_chief_desc: "§YBorn:§! §LMay 5th, 1892, in Valencia, Carabobo State, United States of Venezuela§!"
  PRU_armando_revoredo_iglesias: "Armando Revoredo Iglesias"
+ PRU_armando_revoredo_iglesias_desc: "§YBorn:§! §LJune 17th, 1896, in Contumazá, Department of Cajamarca, Peruvian Republic§!"
  PRU_guillermo_cervantes_vasquez: "Guillermo Cervantes Vásquez"
+ PRU_guillermo_cervantes_vasquez_high_command_desc: "§YBorn:§! §Lin the Peruvian Republic§!"
  PRU_artidoro_aurelio_edmundo_garcia_godos_hurtado_de_mendoza: "Artidoro Aurelio Edmundo García Godos Hurtado de Mendoza"
+ PRU_artidoro_aurelio_edmundo_garcia_godos_hurtado_de_mendoza_high_command_desc: "§YBorn:§! §LNovember 16th, 1881, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_segundo_remigio_morales_bermudez_sanchez: "Segundo Remigio Morales Bermúdez Sánchez"
+ PRU_segundo_remigio_morales_bermudez_sanchez_high_command_desc: "§YBorn:§! §LSeptember 20th, 1893, in Lima, Department of Lima, Peruvian Republic§!"
  PRU_apra_military_council: "APRA Military Council"
+ PRU_apra_military_council_theorist_desc: "§YFounded:§! §Lin the Peruvian Republic§!"

@@ -27,7 +27,7 @@ ABILITY_FORCE_ATTACK_DESC: "Ваші армії отримають бонус д
 ABILITY_STAFF_OFFICE_PLAN: "Штабне планування"
 ABILITY_STAFF_OFFICE_PLAN_DESC: "Ваші військові частини отримають великий бонус до швидкості планування."
 ABILITY_STAFF_MORE_GROUND_CREWS: "Додатковий наземний персонал"
-ABILITY_STAFF_MORE_GROUND_CREWS_DESC: "Ви отримаєте бонус до ефективності в стратегічному регіоні."
+ABILITY_STAFF_MORE_GROUND_CREWS_DESC: "Ви отримаєте бонус до ефективності у стратегічному регіоні."
 ABILITY_SIEGE_ARTILLERY: "Облогова артилерія"
 ABILITY_SIEGE_ARTILLERY_DESC: "Спеціалізована облогова артилерія завдає тяжких пошкоджень фортифікаціям і надає бонус до їхнього взяття."
 ABILITY_GLIDER_PLANES_ARTILLERY: "Літаки-планери"
@@ -39,9 +39,11 @@ ABILITY_PROBING_ATTACK_DESC: "Дивізії не втрачають бонус 
 ABILITY_MAKESHIFT_BRIDGES: "Тимчасові мости"
 ABILITY_MAKESHIFT_BRIDGES_DESC: "Зведення тимчасових мостів зменшує штрафи від форсування річки в бою."
 ABILITY_EXTRA_SUPLIES: "Додаткові припаси"
-ABILITY_EXTRA_SUPLIES_DESC: "Дістає додаткові припаси для військ."
+ABILITY_EXTRA_SUPLIES_DESC: "Дістає додаткові припаси для військ." # (&)
 ABILITY_REQUISITION_WINTER_GEAR: "Зимове спорядження"
 ABILITY_REQUISITION_WINTER_GEAR_DESC: "Зимове спорядження надає бонус до акліматизації до холодної погоди."
 ABILITY_ON_ADD: "При виконанні:"
 ABILITY_ON_HOURLY: "Щогодини:"
 ABILITY_ON_DAILY: "Щодня:"
+ABILITY_QUININE: "Роздати хінін"
+ABILITY_QUININE_DESC: "Дістає хінін і додаткові припаси для військ." # (&)

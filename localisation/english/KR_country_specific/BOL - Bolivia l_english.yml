@@ -6,87 +6,114 @@
  BOL: "Болівія"
  BOL_ADJ: "Болівійськ"
  BOL_DEF: "Болівія"
- 
- BOL_totalist: "Революційна Болівія"
- BOL_totalist_ADJ: "Болівійськ"
- BOL_totalist_DEF: "Революційна Болівія"
- BOL_syndicalist: "Федеративні Синдикати Болівії"
- BOL_syndicalist_ADJ: "Болівійськ"
- BOL_syndicalist_DEF: "Федеративні Синдикати Болівії"
- BOL_radical_socialist: "Народна Республіка Болівія"
- BOL_radical_socialist_ADJ: "Болівійськ"
- BOL_radical_socialist_DEF: "Народна Республіка Болівія"
- 
- ### Characters ###
+
+ BOL_totalist: "Федеративні синдикати Болівії"
+ BOL_totalist_DEF: "Федеративні синдикати Болівії"
+ BOL_syndicalist: "Федеративні синдикати Болівії"
+ BOL_syndicalist_DEF: "Федеративні синдикати Болівії"
+ BOL_radical_socialist: "Федеративні синдикати Болівії"
+ BOL_radical_socialist_DEF: "Федеративні синдикати Болівії"
+
+### Characters ###
  BOL_bernardino_bilbao_rioja: "Бернардініо Більбао Ріоха"
- BOL_bernardino_bilbao_rioja_leader_desc: ""
- BOL_bernardino_bilbao_rioja_commander_desc: ""
+ BOL_bernardino_bilbao_rioja_leader_desc: "§YBorn:§! §LMay 20th, 1895, in Arampampa, Potosí Department, Republic of Bolivia§!\n§YBackground:§! §LBernardino entered the 'Colegio Militar del Ejercito' when he was 17, earning a scholarship for the Military Academy in Chile, where he graduated as an Infantry second lieutenant in 1918, and became a pilot in 1919. In 1926, already with the rank of Major, he founded the 'Escuela de Aviación de Bolivia', becoming a pioneer in Bolivian aviation. He became a national hero during the Chaco war, standing out for his bravery and excellent organisation skills. However, the defeat against the Paraguayans have drastically changed Bilbao Rojas political stance, leading him to join the Razón de Patria. Now that he's in power, he'll try to centralise power under himself and reinforce the army with the goal of reclaiming Bolivia's lost glory, whatever the cost may be.§!"
+ BOL_bernardino_bilbao_rioja_air_chief_desc: "§YBorn:§! §LMay 20th, 1895, in Arampampa, Potosí Department, Republic of Bolivia§!\n§YBackground:§! §LBernardino Bilbao Rioja joined the 'Colegio Militar del Ejercito' in 1912, where he was given a scholarship and sent to the Chilean officer school. He would go onto graduate as an artillery second-lieutenant in 1918 and also received training as a Pilot in 1919. By 1926 he reached the rank of Major and went onto creating and organising the 'Escuela Militar de Aviación', becoming a flight instructor as well as becoming one of the pioneers of Bolivian aviation. In 1932, he was sent as part of a military attaché to Argentina but was quickly recalled as soon as the Chaco War began. When he arrived back he was named General Inspector of the Bolivian Air Force and military transportation. He took part in the fierce battles at Cañada Strongest, Kilómetro Siete, the retaking of Alihuatá and the defence of Vallamontes, where he stood out for his bravery and excellent organisation skills.§!\n\n§YNotes: After travelling through Europe, he now member the ultranationalist Razón de Patria.§!"
 
  BOL_german_busch_becerra: "Херман Буш Бесерра"
- BOL_german_busch_becerra_leader_desc: ""
- BOL_german_busch_becerra_commander_desc: ""
+ BOL_german_busch_becerra_leader_desc: "§YBorn:§! §LMarch 23rd, 1903, in the Republic of Bolivia§!\n§YBackground:§! §LGermán Busch Becerra's exact place of birth is currently unknown as he has not been open about it with his colleagues and associates. He entered the 'Colegio Militar de la Nación' in 1922, where he graduated in 1927 as second lieutenant, and steadily rose through the ranks until becoming captain just before the Chaco War. During the Chaco War, he was rewarded several times for bravery and is seen as a Bolivian war hero. With the defeat at the Chaco War, Busch allied himself with David Toro, and both couped the liberal government by Salamanca in 1934 with huge support from the army and the populace in general. Since then, Busch has been pushing reforms that have slowly but steadily improved the Bolivian situation, and the general populace holds him on high regard. However, Busch was never prepared to be a politician, and it remains unclear if he'd like to continue as President, or will finally call for elections once the situation normalises.§!"
+ BOL_german_busch_becerra_commander_desc: "§YBorn:§! §LMarch 23rd, 1903, in the Republic of Bolivia§!\n§YBackground:§! §LGermán Busch Becerra entered the 'Colegio Militar del Ejercito in 1922, and graduated as a cavalry second lieutenant in 1927. He was promoted to Lieutenant right before the Chaco War. He took part in the Battle of Boqueron, where he was forced to retreat after failing to relieve the garrison at fort Boqueron in one of the bloodiest battles of the Chaco War. Despite this, he was promoted to Captain of the 5th Cavalry regiment, where he was decorated for his bravery with the 'Orden del Condor de los Andes' medal. He'd later join other disgruntled army generals and overthrow the Salamanca government, dedicating to politics since then. Despite becoming a Bolivian national hero, the Chaco war has left Germán emotionally scarred, with sources close to his family revealing that he's dealing with a severe case of depression.§!\n\n§YNotes: Leader of the Junta de Salvación Nacional.§!"
 
  BOL_carlos_quintanilla_quiroga: "Карлос Кінтанілья Кірога"
- BOL_carlos_quintanilla_quiroga_leader_desc: ""
- BOL_carlos_quintanilla_quiroga_commander_desc: ""
+ BOL_carlos_quintanilla_quiroga_leader_desc: "§YBorn:§! §LJanuary 22nd, 1888, in Cochabamba, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LCarlos Quintanilla Quiroga graduated as Bachelor of Science and Literature from the 'Universidad de San Simon de Cochabamba' in 1903 and would enter the Military Academy right after, graduating as a second-lieutenant in 1907. A Chaco War veteran, he has been designated military governor of Bolivia. While he is respected inside the army, it remains to be seen if he can effectively pacify Bolivia and bring it back from the brink of collapse.§!"
+ BOL_carlos_quintanilla_quiroga_commander_desc: "§YBorn:§! §LJanuary 22nd, 1888, in Cochabamba, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LCarlos Quintanilla Quiroga graduated from the 'Colegio Militar del Ejercito' as a second-lieutenant in 1907. He was sent to Germany as a military attaché during the Weltkrieg, undertaking several military courses in the German Kriegsakademie. He'd return to Bolivia and reach the rank of commander before the outbreak of the Chaco War where he became Chief of Staff after Filiberto Osorio's resignation. However, Quintanilla would eventually be responsible for the Bolivian defeat at the Battle of Boquerón, in which he ignored signs of an imminent Paraguayan attack as well as failing to make any significant strategic decisions that could've turned the tide of the battle. After the fall of Boqueron, he regrouped with other members of Bolivian high command to discuss their next move. The meeting ended after a heated exchange between Quintanilla and Bilbao Rioja where Rioja ended up pulling out his pistol and aiming at Quintanilla, sparking a rivalry between these two officers.§!"
+
+ BOL_demetrio_canelas_canelas: "Demetrio Canelas Canelas"
+ BOL_demetrio_canelas_canelas_leader_desc: "§YBorn:§! §LApril 7th, 1881, in San Benito, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LAfter deciding to choose a legal career Demetrio Canelas entered and successfully graduated from the Higher University of San Andrés, where he later became a professor. In 1914 he joined the newly formed Republican Party and in 1920 he chose the more conservative wing under the leadership of Daniel Salamanca, becoming a member of the Genuine Republican Party. In the 1920s Canelas became involved in the organisation of the newspaper La Patria in Oruro, as well as being a writer and journalist. When Salamanca was finally elected as president, he occupied various ministerial posts in his government. After the Busch coup and Daniel Salamanca's death in 1935, he took his place as leader of the weakened Genuine Republican Party and under his guidance one of the \"Traditional\" parties rose back to the top.§!"
 
  BOL_mamerto_urriolagoitia_harriague: "Мамерто Урріолагойтія Арріаге"
- BOL_mamerto_urriolagoitia_harriague_leader_desc: ""
+ BOL_mamerto_urriolagoitia_harriague_leader_desc: "§YBorn:§! §LDecember 5th, 1895, in Sucre, Chuquisaca Department, Republic of Bolivia§!\n§YBackground:§! §LMamerto Urriolagoitia Harriague graduated from the 'Universidad Mayor de San Francisco Xavier' as a lawyer in 1916, joining the PRG during his time in college. In 1917 he was sent to London and later to Canada as the Bolivian ambassador. He returned in 1937 and had occupied the role of senator before the elections. Urrutio is bound to continue the PRG's policies, keep a close contact with the Catholic church in order to secure his legitimacy and try to attract foreign investment.§!"
 
  BOL_enrique_hertzog: "Енріке Херцог"
- BOL_enrique_hertzog_leader_desc: ""
+ BOL_enrique_hertzog_leader_desc: "§YBorn:§! §LDecember 10th, 1897, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!\n§YBackground:§! §LJosé Enrique Hertzog Garaizábal graduated as a physician from the 'Universidad Mayor de San Andres' in 1921. He'd join the 'Partido Republicano Genuino', led by Daniel Salamanca, and rose through the ranks until becoming War Minister during the Chaco War. Now that Hertzog is President, he'll try to revert back the policies that Busch Becerra made to the unpopular policies Salamanca tried, and try to improve the Bolivian situation from there.§!"
+
+ BOL_tomas_manuel_elio: "Tomás Manuel Elío"
+ BOL_tomas_manuel_elio_leader_desc: "§YBorn:§! §LMarch 25th, 1886, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!\n§YBackground:§! §LShortly after graduating as a lawyer from the Higher University of San Andrés, Tomás Elío joined the then dominant Liberal Party. In 1913 he was one of the co-founders of the Radical Party, a group of young progressive liberals, led by Franz Tamayo Solares and until 1920 fiercely opposed the stagnation of the ruling party and promoted social reforms. After the coup d'état of the Republican Party, the group split up and Elío and his supporters returned to the Liberal Party. During the 1920s he worked at the university and returned to active politics in 1928, becoming a deputy from La Paz and a year later Minister of Finance. During the government of Daniel Salamanca, Tomás Manuel Elío became one of the party's main figures and, following the death of long-time Liberal leader Ismael Montes, was appointed to replace him in the hope his progressive views could bring the party back to the top nearly two decades after the last Liberal president.§!"
 
  BOL_simon_iturri_patino: "Сімон Ітуррі Патіньо"
- BOL_simon_iturri_patino_leader_desc: ""
+ BOL_simon_iturri_patino_advisor_desc: "§YBorn:§! §LJune 1st, 1860, in Santiváñez, Cochabamba Department, Republic of Bolivia§!"
 
  BOL_alcides_arguedas: "Альсідес Арґуедас"
- BOL_alcides_arguedas_leader_desc: ""
+ BOL_alcides_arguedas_leader_desc: "§YBorn:§! §LJuly 15th, 1879, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!\n§YBackground:§! §LAlcides Arguedas Díaz began studying law and political science in the 'Universidad Mayor de San Andrés' in 1904, and would later move to Paris to study sociology. On his return to Bolivia, he joined the Partido Liberal, where he climbed through the party ranks until being chosen as deputy in 1916 and ambassador to Colombia in 1929, where he was fired for criticising President Hernando Siles, and his criticism of the following governments led him to be exiled and even slapped by President Busch-Becerra in 1936. Thanks to the Partido Liberal's influence, he was able to return to Bolivia for the 1942 elections. He is a prolific writer, making several books and essays regarding the harsh Bolivian reality, and now that he has become President, he'll try to liberalise the inefficient Bolivian bureaucracy and help the common citizen have a better standard of living. However, the mining companies hold great influence on his party, and he may be forced to make concessions to said companies...§!"
+
+ BOL_gabriel_gosalvez: "Gabriel Gosálvez Tejada"
+ BOL_gabriel_gosalvez_leader_desc: "§YBorn:§! §LNovember 15th, 1899, in Yungas, La Paz Department, Republic of Bolivia§!\n§YBackground:§! §LShortly after his birth in the rainy Andean foothills, his family moved to La Plaza. After high school, where he earned the nickname Gabicho, he enrolled at the Higher University of San Andrés and graduated with a degree in economics in 1923. At the same time, he participated in the founding of the radical leftist newspaper El Hombre Libre, and then several other newspapers in the governmental La Plaza. As a member of Bautista Saavedra's Republican Party, he was chosen as personal secretary to his successor Felipe Segundo Guzmán and retained this position even under the next president, Hernando Siles. In 1928 he was appointed counsellor to the ambassador in Argentina, and two years later he was named consul to Europe. With the outbreak of the Chaco War, Gabriel Gosálvez took an active role in restructuring the Republican Party and transforming it into the Socialist Republican Party and soon became the second most influential person after Saavedra. After Busch's coup and Bautista's deportation, Gosálvez led a splinter faction of so-called \"Anti-Personalists\" who agreed to co-operate with the military regime and Gabriel Gosálvez quickly became a trusted minister of Germán Busch.§!"
+ BOL_gabriel_gosalvez_advisor_desc: "§YBorn:§! §LNovember 15th, 1899, in Yungas, La Paz Department, Republic of Bolivia§!"
 
  BOL_enrique_penaranda_castillo: "Енріке Пеньяранда Кастільо"
- BOL_enrique_penaranda_castillo_leader_desc: ""
- BOL_enrique_penaranda_castillo_commander_desc: ""
+ BOL_enrique_penaranda_castillo_army_chief_desc: "§YBorn:§! §LNovember 15th, 1892, in Chuchulaya, La Paz Department, Republic of Bolivia§!\n§YBackground:§! §LEnrique Peñaranda del Castillo graduated from the 'Colegio Militar del Ejercito' in 1910 as a second-lieutenant, and slowly rose through the ranks until becoming Colonel in 1932. He took part in the failed relief effort during the Battle of Boquerón, later becoming commander of the Bolivian 4th Army, proceeding to organise the retreat towards Saavedra. He would later lead the relief effort to another encirclement during the Second Battle of Alihuatá, near Campo Vía. Despite the crushing defeat at the hands of the Paraguayan Army, Peñarada managed to evacuate the encircled troops. This lead to him becoming a popular figure nationwide as a hero and led to his promotion to the position of Chief of the Bolivian Army, a post he kept until 1934. With his defeat at the battle of El Carmen, President Salamanca decided to remove him from his post, a move that eventually led to the Junta de Salvacion Nacional's coup d'etat.§!"
+
+ BOL_enrique_baldivieso: "Enrique Baldivieso Aparicio"
+ BOL_enrique_baldivieso_leader_desc: "§YBorn:§! §LApril 15th, 1902, in Tupiza, Potosí Department, Republic of Bolivia§!\n§YBackground:§! §LWhile he was a student, Enrique Baldivieso led several student groups criticising the backward practices and policies of the Liberal Party and became a prominent youth leader. At the beginning of Hernando Siles' government, he became part of his inner circle and was one of the key people in the creation of the National Union Party, much more commonly known simply as the Nationalist Party. Leading the radical youth wing there Baldivieso unsuccessfully tried to draw the president's attention to his anti-liberal and anti-capitalist programme, which was close to socialism. After the fall of Siles and the rise of the conservative government of Daniel Salamanca, Baldivieso, who had initially supported the war in the Chaco, stood in opposition to the government after the Bolivian army was defeated and soon transformed the Nationalist Party into the United Socialist Party, thus attracting the burgeoning socialist movement. Supporting Busch's coup, Baldivieso became one of his trusted ministers and now, elected to the presidency, is ready to implement his programme.§!"
+ BOL_enrique_baldivieso_advisor_desc: "§YBorn:§! §LApril 15th, 1902, in Tupiza, Potosí Department, Republic of Bolivia§!"
+
+ BOL_carlos_montenegro: "Carlos Montenegro Quiroga"
+ BOL_carlos_montenegro_leader_desc: "§YBorn:§! §LDecember 26th, 1903, in Cochabamba, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LMontenegro was born into a wealthy family - his father was a local politician, policeman and writer and his mother was the daughter of wealthy landowners - and was the second child out of five. After a few years, the family finances quickly dwindled due to debts, but Carlos Montenegro was able to receive a law degree at the Higher University of San Simón in 1925. Even before that, starting at the age of 18, Montenegro entered journalism, beginning with publications in the avant-garde magazine Arte y Trabajo, where he promoted anarchist and anti-clerical propaganda, even getting an excommunication from the bishop of Cochabamba. In 1926 he joined the Nationalist Party, a move for which he was criticised by the Bolivian University Federation. During the Chaco War, Montenegro was conscripted into the army, but not to the front lines, but as a propagandist, and rose to the rank of propaganda inspector of the General Staff. There he met the war correspondent Augusto Céspedes, with whom he shared anti-liberal and socialist ideas, and even married his sister Yolanda. After the Busch coup, Montenegro joined the United Socialist Party and founded the newspaper La Calle along with Céspedes, which quickly became the main socialist and nationalist publication in the country.§!"
+ BOL_carlos_montenegro_advisor_desc: "§YBorn:§! §LDecember 26th, 1903, in Cochabamba, Cochabamba Department, Republic of Bolivia§!"
 
  BOL_victor_paz_estenssoro: "Віктор Пас Естенссоро"
- BOL_victor_paz_estenssoro_leader_desc: ""
+ BOL_victor_paz_estenssoro_leader_desc: "§YBorn:§! §LOctober 2nd, 1907, in Tarija, Tarija Department, Republic of Bolivia§!\n§YBackground:§! §LIn his youth Víctor Ángel Paz Estenssoro planned to study civil engineering, but since that career wasn't available in Bolivian universities, he ended up choosing to study law at the 'Universidad Mayor de San Andrés', where he graduated as a lawyer in 1927, with just twenty years. When the Chaco War, Paz enlisted in the army, reaching the rank of sergeant a few months of having volunteered. During the war, he read the 'ABC of Communism' by Bukharin and 'The Burning Question of Trade Unionism' by De Leon, which influenced Víctor towards syndicalist-leaning ideals. When the war ended, Paz served as a lawyer for a year for 'Patiño Mines', owned by the Tin King Patiño himself, where he witnessed the extent of the mining companies influence in Bolivian affairs. Outraged, he joined the newly formed 'Partido Socialista Unificado', trying to rally political moderates that wish to end the corrupt influence that private companies exercise on Bolivia's government. Now that he has managed to become President, Víctor will strive to bring about a land reform, nationalisation of key industries and better working conditions for all Bolivians.§!"
+ BOL_victor_paz_estenssoro_advisor_desc: "§YBorn:§! §LOctober 2nd, 1907, in Tarija, Tarija Department, Republic of Bolivia§!"
 
- BOL_francisco_javier_del_granado_y_granado: "Франсіско Хав'єр дель Гранадо і Гранадо"
- BOL_francisco_javier_del_granado_y_granado_leader_desc: ""
-
- BOL_hernan_siles_zuazo: "Ернан Сілес Суасо"
- BOL_hernan_siles_zuazo_leader_desc: ""
-
- BOL_franz_tamayo_solares: "Франс Тамайо Соларес"
+ BOL_tristan_marof: "Tristán Marof"
+ BOL_tristan_marof_leader_desc: "§YBorn:§! §LFebruary 10th, 1898, in Sucre, Chuquisaca Department, Republic of Bolivia§!\n§YBackground:§! §LTristan Marof, whose real name is Gustavo Adolfo Navarro, was born into a non-wealthy family and studied to be a lawyer. A gifted writer, he began publishing the short-lived magazine Renacimiento Altoperuano at the age of 17 and joined the circle of opposition to liberal domination that gathered around the Republican Party. Supporting Bautista Saavedra, he was rewarded with a post as a consul to the newly recognised French Commune, where his views radicalised and, after adopting his pseudonym, Marof began to promote a radical Marxist and anti-imperialist politics. In France, Tristan Marof gained prominence and influence as the main Bolivian Marxist and during the first half of the 1920s wrote various political works favourably received by people like Romain Rolland or Henri Barbusse. Returning to Bolivia in September 1926, he founded the Socialist Party, which was quickly shut down for refusing to co-operate with Hernando Siles, and Marof himself was expelled from the country. Afterwards, Marof participated in various socialist groups from abroad in Chile and Patagonia, such as the Revolutionary Workers' Party, and now, after leading the party and becoming president, will try to reform the backward Bolivian state.§!"
+ BOL_tristan_marof_advisor_desc: "§YBorn:§! §LFebruary 10th, 1898, in Sucre, Chuquisaca Department, Republic of Bolivia§!"
 
  BOL_jose_antonio_arze_y_arze: "Хосе Антоніо Арсе і Арсе"
- BOL_jose_antonio_arze_y_arze_leader_desc: ""
+ BOL_jose_antonio_arze_y_arze_leader_desc: "§YBorn:§! §LJanuary 13th, 1904, in Cochabamba, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LJosé Antonio Arze y Arze graduated as a lawyer from the 'Universidad Mayor de San Simón' in 1926, and then joined the 'Federación Universitaria Boliviana', where he began to be influenced by the Syndicalist ideals within the organisation. Arze y Arze, with other intellectuals of the organisation like Ricardo Anaya and Jose Cuadros Quiroga created the 'Programa de Principios', in which they stipulated that Bolivia had to nationalise the mining and oil industries, provide land for natives to work and enforce stronger work laws. However, José's radical anti-war posture forced him to leave for Chile when the Chaco War came about. He returned at the end of the war, and formed the 'Partido de la Izquierda Revolucionaria', gathering support from the exploited miners in the poorer areas of Bolivia. Now that Arze y Arze has managed to become President, he'll enact the 'Programa de Principios' and carry on further reforms to transform Bolivia into a revolutionary country.§!"
 
  BOL_carlos_salazar_mostajo: "Карлос Салазар Мостахо"
- BOL_daniel_sanchez_bustamante: "Даніель Санчес Бустаманте"
- BOL_angel_ayora: "Анхель Айора"
+ BOL_carlos_salazar_mostajo_leader_desc: "§YBorn:§! §LMay 18th, 1916, in Italaque, La Paz Department, Republic of Bolivia§!"
 
-BOL_gualberto_villarroel_lopez: "Ґуальберто Вільярроель Лопес"
-BOL_gualberto_villarroel_lopez_commander_desc: ""
+ BOL_angel_ayoroa: "Анхель Айора"
+ BOL_angel_ayoroa_commander_desc: "§YBorn:§! §LJanuary 30th, 1891 in Coroico, La Paz Department, Republic of Bolivia§!"
+
+ BOL_gualberto_villarroel_lopez: "Ґуальберто Вільярроель Лопес"
+ BOL_gualberto_villarroel_lopez_leader_desc: "§YBorn:§! §LDecember 15th, 1908, in Muela, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LAfter graduating from the Sucre National School in 1924, Gualberto Villarroel entered the Military College of the Army the following year and completed it with honours at the rank of lieutenant. Immediately he was drafted to the front of the Chaca War, where he was promoted to the rank of captain, and most importantly, tasted the disappointment of the ineffective high command and the defeat of the Bolivian Army. Shortly after the war ended, Villarroel joined the secret lodge Razón de Patria and quickly became the right-hand man of its founder, Elías Belmonte Pabón.\n\nAfter the defeat of the previous revolt and the syndicalist victory in the elections, the Lodge decided to try again to save the country, and put Villarroel up as president, taking advantage of his youth and good reputation among the military.§!"
+ BOL_gualberto_villarroel_lopez_army_chief_desc: "§YBorn:§! §LDecember 15th, 1908, in Muela, Cochabamba Department, Republic of Bolivia§!\n§YBackground:§! §LGualberto Villarroel López joined the 'Colegio Militar del Ejercito', where he graduated in 1930 as a second lieutenant. From his graduation, López steadily rose through the ranks until the start of the Chaco War, where his cunning and bravery transformed him into a War hero for the Bolivian people.§!\n\n§YNotes: Member of the Razón de Patria.§!"
 
  BOL_manuel_marzana: "Мануель Марзана"
- BOL_manuel_marzana_commander_desc: ""
+ BOL_manuel_marzana_theorist_desc: "§YBorn:§! §LJune 7th, 1889, in Tarabuco, Chuquisaca Department, Republic of Bolivia§!\n§YBackground:§! §LManuel Marzana graduated from the 'Colegio Militar del Ejercito' as a second-lieutenant in 1914. He rose through the ranks until becoming commander right before the outbreak of the Chaco War. Manuel took part in the capture of the Boquerón fort, and would later lead its defence after Colonel Luis Emilio Aguirre was killed in action. Despite his valiant efforts, his troops were outnumbered and outgunned, managing to last twenty days until its capture. Marzana was kept as a POW for the rest of the conflict and was returned to Bolivia after hostilities ended.§!"
 
  BOL_walter_guevara: "Вальтер Гевара"
- BOL_carlos_montenegro: "Карлос Монтенегро"
+ BOL_walter_guevara_advisor_desc: "§YBorn:§! §LMarch 11th, 1860, in Cochabamba, Cochabamba Department, Republic of Bolivia§!"
  BOL_moritz_hochschild: "Моріц Гохшильд"
+ BOL_moritz_hochschild_advisor_desc: "§YBorn:§! §LFebruary 17th, 1881, in Biblis, Province of Starkenburg, Grand Duchy of Hesse, German Empire§!"
  BOL_hugo_ballivian: "Уго Балівіан"
+ BOL_hugo_ballivian_high_command_desc: "§YBorn:§! §LJune 7th, 1901, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!"
  BOL_amalia_villa_de_la_tapia: "Амалия Вілья де ла Тапіа"
- BOL_ronan_monje_roca: "Ронан Мондже Рока"
+ BOL_amalia_villa_de_la_tapia_air_chief_desc: "§YBorn:§! §LJune 22nd, 1893, in Potosí, Potosí Department, Republic of Bolivia§!"
+ BOL_ronant_monje_roca: "Ронан Мондже Рока"
+ BOL_ronant_monje_roca_navy_chief_desc: "§YBorn:§! §Lin Beni Department, Republic of Bolivia§!"
  BOL_david_toro: "Давід Торо"
- BOL_gabriel_gosalvez: "Габріель Ґосальвес"
+ BOL_david_toro_advisor_desc: "§YBorn:§! §LJune 24th, 1898, in Sucre, Chuquisaca Department, Republic of Bolivia§!"
  BOL_tomas_monje: "Томас Мондже"
+ BOL_tomas_monje_advisor_desc: "§YBorn:§! §LDecember 21st, 1884, in Coroico, La Paz Department, Republic of Bolivia§!"
  BOL_petronila_infantes: "Петроніла Інфантес"
+ BOL_petronila_infantes_advisor_desc: "§YBorn:§! §LJune 29th, 1911, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!"
  BOL_martin_cardenas_hermosa: "Мартін Карденьяс Ермоса"
+ BOL_martin_cardenas_hermosa_advisor_desc: "§YBorn:§! §LNovember 12th, 1899, in Cochabamba, Cochabamba Department, Republic of Bolivia§!"
  BOL_arthur_posnansky: "Артур Познанський"
+ BOL_arthur_posnansky_advisor_desc: "§YBorn:§! §LJanuary 1st, 1873, in Vienna, Archduchy of Austria below the Enns, Austria-Hungary§!"
  BOL_maria_luisa_sanchez_bustamente: "Марія Луїса Санчес Бустаманте"
+ BOL_maria_luisa_sanchez_bustamente_advisor_desc: "§YBorn:§! §LAugust 19th, 1896, in Sucre, Chuquisaca Department, Republic of Bolivia§!"
  BOL_sinforiano_bilbao_rioja: "Сінфоріано Більбао Ріоха"
+ BOL_sinforiano_bilbao_rioja_commander_desc: "§YBorn:§! §L1894, in Potosí, Potosí Department, Republic of Bolivia§!"
+ BOL_franz_tamayo_solares: "Франс Тамайо Соларес"
+ BOL_franz_tamayo_solares_advisor_desc: "§YBorn:§! §LFebruary 28th, 1879, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!"
 
  BOL_palacio_quemado: "Палаціо Кемадо"
- 
+ BOL_palacio_quemado_sic_desc: "§YFounded:§! §LMarch 25th, 1853, in Nuestra Señora de La Paz, La Paz Department, Republic of Bolivia§!"
+
 ### Tooltip ###
  BOL_CLR_BM: "§GМи усунемо всі негативні наслідки від Чорного Понеділка!§!"
  BOL_MID_BM: "Залежно від нашого підходу, ми боротимемося з §YЧорним Понеділком§! різними способами."
@@ -94,7 +121,7 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_REVENGE: "§RЦе може призвести до війни з нашими сусідами §Y[CHL.GetNameWithFlag]§! та §Y[PAR.GetNameWithFlag]§! §!\n"
  BOL_ARG: "Болівія вступила у війну на Південному конусі проти ворогів Аргентини"
  BOL_busch_power: "Буш утримує владу"
-  
+
 ### Decision ###
  BOL_kill_CHL: "Помститися за Guerra del Salitre"
  BOL_kill_CHL_desc: "Чилійські варвари з британським яструбом за спиною захопили наші тихоокеанські провінції у 1883 році, і з тих пір ми мріяли про те, щоб повернути землі назад. Чилі перебуває у стані війни, чилійська армія та флот зайняті на інших фронтах. Час втілювати мрії в життя."
@@ -106,6 +133,7 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_diverge_resources_for_capital_ship_desc: "Ми повинні побудувати цей лінкор якомога швидше, навіть якщо нам доведеться виділити на це кошти з інших сфер!"
  BOL_build_capital_ship: "Закласти лінкор "Ла-Пас""
  BOL_build_capital_ship_desc: "Побудова цього лінкора є важливою для нашого уряду. Якщо ми не впораємося з цим завданням, на нас чекають серйозні наслідки."
+ BOL_declare_sa_hegemony_decision: "Proclaim Our Victory"
 
 ### Companies ###
  EAA: "Escuela de Aplicación de Armas"
@@ -144,11 +172,28 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Trash_Army4: "Модернізована армія"
  BOL_air: "Високо над Андами"
  BOL_navy_production: "Болівійська морська програма"
+ BOL_liberal_reforms_idea: "Liberal Reforms"
  BOL_trade: "Переглянуті торговельні угоди"
+ BOL_weaken_church_idea: "Weakened Church"
+ BOL_nationalism_and_unionism_idea: "Nationalist-Unionist Reforms"
  BOL_Union_Cooperation: "Кооперація з профспілками"
+ BOL_social_equality_idea: "Social Equality"
  BOL_Native_Troops: "Політика щодо набору індіанців"
+ BOL_bolivian_councilism_idea: "Bolivian Councilism"
+ BOL_natpop_consolidation_idea: "Consolidation of Power"
+ BOL_busch_power_idea: "The Busch Constitution"
+ BOL_state_bank_idea: "National Central Bank"
+ BOL_total_freedom_idea: "Officialising Total Freedom"
+ BOL_catholic_conservatives_idea: "Entrenched Catholic Ideals"
  BOL_Morality: "Католицька мораль"
- 
+ BOL_anti_extremist_idea: "Denouncement of Extremities"
+ BOL_unstable_union_idea: "Unstable Union"
+ BOL_sa_hegemony_idea: "Building Our Hegemony"
+ BOL_sa_hegemony_achieved_idea: "Hegemon of South America"
+ BOL_united_army_idea: "United Army"
+ BOL_united_studies_idea: "Federated Scientific Exchange"
+ BOL_federated_admin_idea: "Federated Administration"
+
 ### Focuses ###
  BOL_Centralise_Mining_Operations: "Централізація гірських робіт"
  BOL_Centralise_Mining_Operations_desc: "Найважливіші з наших гірничих робіт уже давно контролюються так званими 'олов'яними баронами'. Якщо ми хочемо поліпшити наше економічне становище, ми повинні почати націоналізацію корпорацій гірничого видобутку, щоб відібрати в них владу, і що ще важливіше, їхні прибутки."
@@ -200,7 +245,7 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Universitary_Funding_desc: "Хоча наші університети роблять усе, що можливо, щоб забезпечити нас найкращими професіоналами, Болівія - це велика країна з безмежним потенціалом, і повільно, але вірно, ми були змушені наймати іноземних експертів, щоб заповнити дірки в адміністративній системі. Нам потрібно збільшити фінансування власних університетів з метою замінити цих іноземців на місцеві таланти."
  BOL_The_Times_They_Are_A_Changing: "Час змін"
  BOL_The_Times_They_Are_A_Changing_desc: "Болівії ще належить пройти довгий шлях, до того, як вона оговтається від кризи, яка на нас обрушилася. Однак, часи змінюються, і хоча деякі країни вважають це поганим знаком, болівійці приймають цю зміну, бо вона означає прихід завтрашнього дня, кращого за сьогодні."
- 
+
  BOL_Fresh_Blood: "Доктринні інновації"
  BOL_Fresh_Blood_desc: "Стара доктрина лише призвела до втрати Чако, нам потрібна нова! Болівія багата природними ресурсами, необхідними для будівництва великих озброєнь, таких як артилерія, давайте ж використаємо їх за призначенням."
  #BOL_Concentrated_Fire: "Масований вогонь"
@@ -241,9 +286,9 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Mass_Production_desc: "Нам все ще не вистачає спорядження! Ми повинні значно збільшити наше виробництво, щоб нарешті вирішити цю серйозну проблему."
  BOL_Tank_Experiments: "Експерименти з танками"
  BOL_Tank_Experiments_desc: "Можливо, три американські танки, які нам належать і зовсім застаріли, у них все ще є хороший військовий потенціал. Давайте більше експериментувати з танковими машинами, гірше від цього нікому не стане."
- BOL_Capable_Army: "Завершення модернізації" 
+ BOL_Capable_Army: "Завершення модернізації"
  BOL_Capable_Army_desc: "Нарешті, армія, що ледве існувала після Чакської війни, стала професійною і сильною! Прийшов час повернути наші законні території."
- 
+
  BOL_Coastline_at_Last: "Нарешті, берег!"
  BOL_Coastline_at_Last_desc: "Нарешті ми позбулися ганьби Анконського договору. Наша славна країна знову має вихід до прекрасного Тихого океану! Навіть Кайзерліхмарине будуть нас боятися, коли ми повністю відбудуємо наш флот."
  BOL_Found_National_Shipyards: "Національні судноверфі"
@@ -268,7 +313,7 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Flagship_for_the_Armada_desc: "Наш флот лякає весь світ, від Ліми до Сантьяго, але в Буенос-Айресі все ще сміються. Ми покажемо їм, що з нашим новим флагманом, болівійський флот знищить будь-якого супротивника!"
  BOL_Bolivia_Rules_the_Seas: "Володарі морів"
  BOL_Bolivia_Rules_the_Seas_desc: "Ми пройшли довгу дорогу після повернення нашої дорогоцінної берегової лінії. Тепер можна впевнено сказати, що Буенос-Айрес більше не сміється, адже Болівія править морями!"
- 
+
  BOL_Aerial_Ambitions: "Повітряні амбіції"
  BOL_Aerial_Ambitions_desc: "Болівійське небо таке ж прекрасне, як і сама країна! Ми побудуємо ВПС, які захищатимуть цю красу від загарбників, а під час битви, можливо, пізнають її ще краще."
  BOL_Purchase_Fighters: "Купівля винищувачів"
@@ -279,19 +324,19 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Airbase_Construction_desc: "На відміну від рівнин Фландрії, у нас не так багато місцевості придатної до будівництва авіабаз. Однак, на тому, що у нас є, ми побудуємо найбільші аеропорти в усьому світі."
  BOL_Domestic_Manufacturing: "Підтримка домашнього виробництва"
  BOL_Domestic_Manufacturing_desc: "Те, що наша славна велика країна залежить від іноземного імпорту авіації - це соромно. Після підтримки домашнього виробництва, болівійські пілоти літатимуть тільки на болівійських літаках!"
- 
- BOL_1940_Elections: "Вибори 1940 року"
- BOL_1940_Elections_desc: "Нарешті настав час для виборів 1940 року - найнапруженіших у болівійській історії. Чотири головні партії: НЛП, НРД, СПБ і ПРС закінчили свої виборчі кампанії, всі стверджують, що їхнє бачення Болівії - найкраще. Тепер ми подивимося, хто ж став переможцем..."
- BOL_PLP_Victory: "Перемога НЛП"
- BOL_PLP_Victory_desc: "'Народно-ліберальна партія' стала переможцем під час виборів. Їхня платформа реформ, зниження бюрократизму і децентралізації привернула народні голоси. Однак, багато хто з наших критиків стверджує, що Олов'яний Король Симон Патіньо смикає нас за ниточки...."
+
+ BOL_1938_Elections: "Вибори 1938 року"
+ BOL_1938_Elections_desc: "Нарешті настав час для виборів 1938 року - найнапруженіших у болівійській історії. Чотири головні партії: НЛП, НРД, СПБ і ПРС закінчили свої виборчі кампанії, всі стверджують, що їхнє бачення Болівії - найкраще. Тепер ми подивимося, хто ж став переможцем..."
+ BOL_PL_Victory: "Перемога НЛП"
+ BOL_PL_Victory_desc: "'Народно-ліберальна партія' стала переможцем під час виборів. Їхня платформа реформ, зниження бюрократизму і децентралізації привернула народні голоси. Однак, багато хто з наших критиків стверджує, що Олов'яний Король Симон Патіньо смикає нас за ниточки...."
  BOL_Banking_Reform: "Банківська реформа"
  BOL_Banking_Reform_desc: "Хоча наша банківська система не така вже й погана, її розробляли з урахуванням урядового контролю. Якщо ми хочемо зробити Болівію кращою, необхідно реформувати банки в більш децентралізовану систему, яку ми хочемо застосувати."
  BOL_Renegotiate_Trade_Arrangements: "Перегляд торговельних угод"
  BOL_Renegotiate_Trade_Arrangements_desc: "Багато наших торговельних угод було підписано багато років тому корумпованими урядами, які містили умови, що давали їм більше грошей, ніж вони на те заслуговували. Ми переглянемо ці угоди, щоб дати нашим торговельним партнерам рівні можливості і знизити одержувану нашим урядом вигоду, щоб знизити можливу корупцію."
  BOL_Education_Reform: "Реформа освіти"
  BOL_Education_Reform_desc: "Освіта в Болівії майже символічна, більшість населення навіть не вміє читати чи писати. Ми змінимо це, децентралізувавши розподіл нашого бюджету, щоб він задовольняв багато потреб на місцях, покращимо кваліфікацію вчителів і змінимо систему оцінок. Сподіваємося, що це стане першим кроком на шляху до викорінення неписьменності в Болівії."
- BOL_Resource_Commitement: "Гранти на розкопки" 
- BOL_Resource_Commitement_desc: "Болівія - це країна з багатими природними ресурсами. Ми підтримаємо гірничодобувні експедиції, великі та маленькі, надавши їм субсидії, щоб вони знайшли ці ресурси. Сподіваємося, що це збільшить гірничодобувну діяльність у Болівії, і поверне нам наші інвестиції у вигляді податків, щоб продовжити наші реформи." 
+ BOL_Resource_Commitement: "Гранти на розкопки"
+ BOL_Resource_Commitement_desc: "Болівія - це країна з багатими природними ресурсами. Ми підтримаємо гірничодобувні експедиції, великі та маленькі, надавши їм субсидії, щоб вони знайшли ці ресурси. Сподіваємося, що це збільшить гірничодобувну діяльність у Болівії, і поверне нам наші інвестиції у вигляді податків, щоб продовжити наші реформи."
  BOL_Cutting_Red_Tape: "Боротьба з бюрократизмом"
  BOL_Cutting_Red_Tape_desc: "Болівійська держава була сповнена по горло непотрібною бюрократією, яка тільки злить наших громадян і відвертає інвесторів, які шукають країни з меншими чергами. Ми будемо боротися з нею як тільки можливо, щоб зробити бізнес і повсякденні формальності швидшими."
  BOL_Weaken_the_Church: "Послаблення церкви"
@@ -300,9 +345,9 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Decentralised_Developement_desc: "Болівія - країна контрастів. Потреба у фінансуванні таких місць, як Ріберальта, сильно відрізняється від потреб Таріхі, але вони отримують одні й ті самі гроші від центрального уряду. Ми децентралізуємо нашу систему фінансування, щоб місцеві уряди могли використовувати стільки грошей, скільки їм потрібно."
  BOL_Urbanisation: "Урбанізація"
  BOL_Urbanisation_desc: "Від самого свого заснування, наша країна була здебільшого сільськогосподарською, маючи лише кілька великих міст, таких як Ла-Пас і Санта-Крус-де-ла-Сьєрра. Хоча це не зупинило наш прогрес, це стає на заваді, і ми повинні підтримати індустріалізацію, яка трансформує нас в індустріальне суспільство."
- 
- BOL_PUR_Victory: "Перемога ПРС"
- BOL_PUR_Victory_desc: "'Партія республіканського союзу' здобула перемогу на виборах. Їхня платформа збереження католицьких традицій і промислових субсидій привернула більшість голосів населення. Ми повинні негайно розпочати роботу з впровадження наших реформ."
+
+ BOL_PRG_Victory: "Перемога ПРС"
+ BOL_PRG_Victory_desc: "'Партія республіканського союзу' здобула перемогу на виборах. Їхня платформа збереження католицьких традицій і промислових субсидій привернула більшість голосів населення. Ми повинні негайно розпочати роботу з впровадження наших реформ."
  BOL_Ties_with_the_Church: "Зв'язки з церквою"
  BOL_Ties_with_the_Church_desc: "Партія хоче включити церкву в нашу державу. Ми маємо збільшити наші зв'язки з нею, щоб привернути увагу та забезпечити підтримку католиків нашій справі."
  BOL_Protect_Catholic_Morals: "Захист католицької моралі"
@@ -319,9 +364,9 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Agrarian_Developement_desc: "Наша країна має великі шматки землі, придатні до обробітку. Ми можемо поліпшити наше економічне становище, підтримавши сільськогосподарський розвиток."
  BOL_Industrial_Grants: "Промислові гранти"
  BOL_Industrial_Grants_desc: "Нашій країні серйозно потрібна індустріалізація. Ми підштовхнемо іноземних і місцевих промисловців створити свої компанії в наших містах, шляхом надання субсидій."
- 
- BOL_MNR_Victory: "Перемога НРР"
- BOL_MNR_Victory_desc: "'Націоналістичний революційний рух' здобув перемогу на виборах 1940 року. Їхня платформа націоналізму, кооперації з профспілками та земельної реформи привернула більшість голосів населення. Ми повинні негайно розпочати роботу із застосування наших реформ."
+
+ BOL_PSU_Victory: "Перемога НРР"
+ BOL_PSU_Victory_desc: "'Націоналістичний революційний рух' здобув перемогу на виборах 1938 року. Їхня платформа націоналізму, кооперації з профспілками та земельної реформи привернула більшість голосів населення. Ми повинні негайно розпочати роботу із застосування наших реформ."
  #BOL_Union_Cooperation: "Кооперація з профспілками"
  BOL_Union_Cooperation_desc: "Хоча ми не поділяємо багато поглядів профспілок, не можна заперечувати їхній вплив на наше суспільство. Ми повинні встановити з ними добрі стосунки для встановлення співпраці та просування наших реформ."
  BOL_Land_Reform: "Земельна реформа"
@@ -332,7 +377,7 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Native_Cooperation_desc: "Болівійські індіанці були принижені нашими урядами від самого заснування колонії іспанцями. На нас більше немає колоніальних ланцюгів, тож ми маємо співпрацювати з нашими індіанськими братами і разом працювати заради кращого майбутнього."
  BOL_Native_Military_Integration: "Інтегрування індіанців до армії"
  BOL_Native_Military_Integration_desc: "Індіанці служили нашій армії в окремих дивізіях. Хоча в минулому воно мало сенс, зараз ця сегрегація тільки псує міжрасові відносини. У наших інтересах інтегрувати їх у нормальні дивізії, і таким чином покращити нашу військову міць."
- 
+
  BOL_Syndicalism_in_Bolivia: "Синдикалізм у Болівії"
  BOL_Syndicalism_in_Bolivia_desc: "'Синдикалістська партія Болівії' раптово перемогла на виборах. Їхня класична соціалістична платформа боротьби з соціальною нерівністю і колективізацією привернула більшість голосів населення. Ми повинні негайно почати роботу, щоб принести революцію робітникам Болівії."
  BOL_Fight_Social_Inequality: "Боротьба із соціальною нерівністю"
@@ -347,7 +392,7 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Workers_Council_desc: "Демократія в Болівії завжди була символічною, і ми повинні це змінити. Ми введемо Робочі ради в багато заводів і майстерень по всій країні, що дасть можливість кожному громадянину нашої країни бути представленим у нашій державі через ці ради. У цій країні буде досягнута справжня демократія!"
  BOL_Education_For_All: "Освіта для мас"
  BOL_Education_For_All_desc: "Наші попередні проєкти були амбітними, але не такими, як цей. Величезна більшість населення нашої країни не вміє читати або писати, що викликано відчуженням олігархів від свого народу. Ми почнемо проєкт з освіти для всіх, який почне знижувати рівень неграмотності."
- 
+
  BOL_Rewrite_the_Constitution: "Переписування конституції"
  BOL_Rewrite_the_Constitution_desc: "Херман Буш Бесерра був президентом досить довгий час, але його бачення нашої країни ще не втілено! Ми перепишемо Конституцію цієї країни, щоб зробити його Довічним президентом, а також перетворити конституцію на сучасний документ для сучасних цілей."
  BOL_Nationalise_Central_Bank: "Націоналізація Центрального банку"
@@ -366,15 +411,15 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_El_Presidente_desc: "Буш закінчив свої реформи, і завдяки їм його популярність злетіла до небес. На кожній вулиці і на кожному кутку нашої країни, болівійські громадяни роблять патріотичні прапори і кричать: 'Viva el Presidente!' ('Хай живе Президент!')"
  BOL_Chaco_or_War: "Чако або війна"
  BOL_Chaco_or_War_desc: "Чако було невід'ємною частиною нашої країни, а наша поразка кілька років тому поставила нас на коліна. Однак, тепер, коли ми стали сильними і гордими, настав час помститися парагвайцям за всю ту шкоду, яку вони нам завдали, якщо вони не відмовляться від того, що по праву належить нам!"
- 
+
  BOL_Disband_Parliament: "Розпуск парламенту"
  BOL_Disband_Parliament_desc: "Національна болівійська партія отримала контроль над державним апаратом. Їхній перший хід - це розпуск парламенту, щоб забрати в опозиції будь-яку можливість їм протистояти. Під їхнім управлінням ми будемо процвітати!"
  BOL_Native_Integration: "Інтеграція індіанців"
  BOL_Native_Integration_desc: "Індіанців занадто довго відокремлювали від нашого суспільства! Інші партії базікали про те, яка це велика проблема, але ми - люди дії, і тому негайно покінчимо з відмінностями між нашим населенням та індіанцями!"
  BOL_Consolidation_of_Power: "Консолідація влади"
  BOL_Consolidation_of_Power_desc: "Розпуск парламенту - це тільки перший крок. Тепер, після отримання влади, ми повинні обеззброїти нашу опозицію, щоб у них не було шансів нас прибрати. Ми спрямуємо всі наші зусилля на консолідацію влади в наших руках і зміцнення зв'язків, таким чином, наше становище буде в безпеці."
- BOL_Crack_down_on_Socialists: "Придушення соціалістів"
- BOL_Crack_down_on_Socialists_desc: "Соціалісти вже достатньо заважали нашому суспільству! Ми почнемо національне переслідування їхньої діяльності, що має, як ми сподіваємося, запобігти соціалістичній революції в нашій країні. Хоча ця загроза доволі натягнута, вона відновить упевненість простого громадянина в тому, що ми захищаємо його від шкоди."
+ BOL_Crack_down_on_Liberalism: "Придушення лібералів"
+ BOL_Crack_down_on_Liberalism_desc: "Ліберали вже достатньо заважали нашому суспільству! Ми почнемо національне переслідування їхньої діяльності, що має, як ми сподіваємося, запобігти поверненню лібералізму в нашій країні. Хоча ця загроза доволі натягнута, вона відновить упевненість простого громадянина в тому, що ми захищаємо його від шкоди."
  BOL_Military_Propaganda: "Військова пропаганда"
  BOL_Military_Propaganda_desc: "Ми плануємо розширювати нашу країну і робити її силою, яку будуть боятися на міжнародній арені. Для цього ми підвищимо рівень військової пропаганди, щоб більше людей пішло в армію і були готові до шторму, в який ми скоро увійдемо."
  BOL_Adjusted_Curriculum: "Виправлений куррикулум"
@@ -392,7 +437,41 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_Reclaim_the_Coast_desc: "Ми давно втратили нашу берегову лінію у війні проти Чилі. Тепер ми сильніші, ніж будь-коли! І ніякі вошиві перуанці нас на дно не потягнуть! Настав час повернути те, що наше по праву, і нарешті отримати вихід до моря. ¡Mar para Bolivia!"
  BOL_Demand_Acre: "Вимагати Акрі"
  BOL_Demand_Acre_desc: "Акрі було віддано бразильцям кілька років тому. Цю несправедливість не можна залишати безкарною! Ми візьмемо нашу законну землю у бразильців, навіть якщо нам доведеться встояти перед їхньою міццю. Нехай вони сильні, але ми довго готувалися, щоб стати сильнішими. Наша перемога близька! ¡Venceremos!"
- 
+
+###Peru-Bolivia Focuses
+ BOL_liberate_peru: "Liberate Peru"
+ BOL_liberate_peru_desc: "While our status in the prior confederation may have been diminished in its significance, there is nothing to stop us from reviving the Confederation but under Bolivian leadership. Peru should think twice before underestimating its Bolivian neighbours."
+ BOL_summit: "Viva la Unión!"
+ BOL_summit_desc: "The short lived Peru-Bolivian Confederation has been revived but under Bolivian leadership. Neighbouring nations saw us a threat and forced us to separate us from our Peruvian brothers. While Peru may have played a larger role in the Confederation back in 1837, the roles have been reversed. Today, we have decided that the time is right to finally unite again with our brothers!"
+ BOL_customs_union: "Onwards Together"
+ BOL_customs_union_desc: "We have always been close to our Peruvian brothers. We were both colonies of Spain, we both were freed by the same heroes and we both have stood side by side many times in our history. Provided this, we can safely say that as long as we stand shoulder to shoulder in union, we will be able to face any foe, no matter how mighty, and solve any problem, no matter how daunting it might be."
+ BOL_treaty_of_frienship: "A Union of True Equals"
+ BOL_treaty_of_frienship_desc: "Other 'Confederations' in the world, like the Austro-Hungarian Empire, speak a lot of equality in theory yet very little of it is actually seen in practice. We don't want to be like them, and as such we will guarantee that every citizen within the Peru-Bolivian Confederation will have the same rights and responsibilities, independently of whether they were born in either of those now defunct countries."
+ BOL_propose_union: "Consolidate our State"
+ BOL_propose_union_desc: "Creating a confederation is no small task. The previous apparatus of state that Peru and Bolivia had have to be adjusted, coordinated and refounded in order to not only resemble the old institutions they once had, but to improve upon them and create an even better society."
+ BOL_pooled_officer_corps: "Pooled Officer Corps"
+ BOL_pooled_officer_corps_desc: "Bolivia and Peru have many war veterans, with different experiences and views on warfare. If we were to pool our officer corps, we could achieve better results in battle drawing from their experience."
+ BOL_federated_admin_focus: "Integrated Industrial Economy"
+ BOL_federated_admin_focus_desc: "With the Andean Common Market in full swing, we can now start to work with a true Peru-Bolivian economy, and adapt state incentives and tariffs accordingly."
+ BOL_united_army: "Army of the Union"
+ BOL_united_army_desc: "The Union had until now two separate army branches; merging them is necessary to ensure our safety, and that of our Peruvian brothers. Such an act will not be poorly seen, since for the common soldier of Peru, their officers and structure were synonymous with incompetence."
+ BOL_united_in_porpouse: "Scientific Exchange Programme"
+ BOL_united_in_porpouse_desc: "The biggest universities of Peru and Bolivia have already started to work together, and perhaps the same principle could be applied to more... practical concerns of the Union."
+ BOL_fedrated_admin2: "Federated Administration"
+ BOL_fedrated_admin2_desc: "The administration of our Confederation is, essentially, non existent as of now. Let us establish a Confederation Cabinet in La Paz, with representatives from both parts of our Union."
+ BOL_fornalize_the_union_constituiton: "Formalise the Union Constitution"
+ BOL_fornalize_the_union_constituiton_desc: "Our confederation has somewhat flimsy legal institutions at a national level, but that should be changed if we are to convert it into a modern nation state."
+ BOL_claims_of_the_confederation: "Claims of the Confederation"
+ BOL_claims_of_the_confederation_desc: "We must reinforce that we are a successor state to Peru, and thus we lay claim to all former Peruvian territory, even those parts we do not occupy."
+ BOL_claims_on_the_amazon: "Claims on the Amazon"
+ BOL_claims_on_the_amazon_desc: "According to the Treaty of Madrid, the Amazon belonged to the Viceroyalty of Peru. Brazilian land thieves and Colombian brigands have for too long stood in the way of our rightful lands!"
+ BOL_get_that_horse_back: "Recover Acre"
+ BOL_get_that_horse_back_desc: "Through admittedly clever diplomatic manoeuvring, Brazil stole Acre from us in the turn of the century. However, this will not stand, Acre and the rubber it contains are integral parts of the Confederation."
+ BOL_pastaza: "Reclaim Pastaza"
+ BOL_pastaza_desc: "Pastaza is by all accounts part of the viceroyalty of Peru, and is under illegal Ecuadorian occupation. This will not stand, and our glorious army will liberate the core territory of Pastaza."
+ BOL_crush_argentina: "Crush Argentina"
+ BOL_crush_argentina_desc: "Jujuy was lost in 1893 and Bolivians have resented the Argentinians since. With the might of the Confederation at our backs, nothing can stop us from retaking Jujuy once and for all."
+
 ### Parties ###
  BOL_social_democrat_party: "НРР"
  BOL_social_democrat_party_long: "Націоналістичний революційний рух"
@@ -414,14 +493,14 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  BOL_syndicalist_party_long: "Синдикалістська партія Болівії"
  BOL_totalist_party: "РРТ"
  BOL_totalist_party_long: "Революційний рух тоталістів"
- 
+
 ### Intro Screen ###
+ BOL_country_intro_background: "GFX_BOL_intro"
  BOL_country_intro_header: "Введення в Болівію"
- BOL_country_intro_content: "Після свого виникнення, Болівія вкрай невдало вела свою зовнішню політику і зазнала багато болючих втрат. Прикордонний конфлікт із Сілі призвів до 'Селітряної війни' (1879-1883), яку Болівія програла, незважаючи на союз із Перу, і була змушена віддати прибережну провінцію Антофагасту, втративши вихід до моря. Пізніше, 1903 року, Бразилія і Болівія підписали Петрополіську угоду, за якою важлива територія Акрі, багата каучуком, відходила до Бразилії.\n\nХоча добробут Болівії від гірничого видобутку збільшувався, також збільшувався і вплив гірничодобувних компаній в уряді, і їхня можливість впливати на політику. Тепер більшість населення вважає, що Чакська війна - це справа рук тих самих корпорацій, які полізли в суспільні справи. Жахлива поразка від Парагваю стала нищівним ударом; незважаючи на перемогу в останніх незначних боях, які продовжили війну, Болівію повністю перемогли, і Парагвай попросив миру лише тоді, коли його до цього змусили Бразилія та Перу, що боялися повного колапсу болівійської держави.\n\nЗ огляду на статус Болівії як розпалювачки війни на оспорюваній території, покарання було суворим: Чако на схід від річки Парапеті, на північ від Пілкомайо і на схід від Анд, мав бути повністю й назавжди; його нафтові прибутки навічно залишилися в чужих руках. Ба більше, Парагвай наклав на і так зруйновану країну військові репарації, які занурили болівійський уряд у глибоко хаотичну ситуацію, з якої йому не так просто виплутатися.\n\nКорумпований цивільний уряд швидко звинуватили в цьому приниженні, оскільки багато генералів і офіцерів підтверджували безпосереднє втручання президента Даніеля Саламанки і його ліберальних союзників. Герман Буш і Давид Торо, два іменитих військових герої, згорнули уряд 1934 року й утворили "Уряд національного порятунку", який мав широку базу підтримки, але не мав певної ідеології, окрім як задоволення потреб армії, виправлення фіскального безладу, залишеного війною, і спроби поліпшити життя бідних у містах. Незважаючи на те, що Герман вніс значні зміни до Конституції, ситуація залишається напруженою, і болівійська економіка може абсолютно впасти, якщо ціни на олово впадуть ще нижче. Попри все це, болівійці все ще дивляться за межі своїх кордонів, згадують дні колишньої слави і з нетерпінням чекають дня, коли здійсниться справедливість, коли Чако і берегова лінія повернуться до них."
- bol.1.a: "У хороші й погані часи завжди, Хай живе Болівія!"
- 
+ BOL_country_intro_content: "Після свого виникнення, Болівія вкрай невдало вела свою зовнішню політику і зазнала багато болючих втрат. Прикордонний конфлікт із Сілі призвів до 'Селітряної війни' (1879-1883), яку Болівія програла, незважаючи на союз із Перу, і була змушена віддати прибережну провінцію Антофагасту, втративши вихід до моря. Пізніше, 1903 року, Бразилія і Болівія підписали Петрополіську угоду, за якою важлива територія Акрі, багата каучуком, відходила до Бразилії.\n\nХоча добробут Болівії від гірничого видобутку збільшувався, також збільшувався і вплив гірничодобувних компаній в уряді, і їхня можливість впливати на політику. Тепер більшість населення вважає, що Чакська війна - це справа рук тих самих корпорацій, які полізли в суспільні справи. Жахлива поразка від Парагваю стала нищівним ударом; незважаючи на перемогу в останніх незначних боях, які продовжили війну, Болівію повністю перемогли, і Парагвай попросив миру лише тоді, коли його до цього змусили Бразилія та Перу, що боялися повного колапсу болівійської держави.\n\nЗ огляду на статус Болівії як розпалювачки війни на оспорюваній території, покарання було суворим: Чако на схід від річки Парапеті, на північ від Пілкомайо і на схід від Анд, мав бути повністю й назавжди; його нафтові прибутки навічно залишилися в чужих руках. Ба більше, Парагвай наклав на і так зруйновану країну військові репарації, які занурили болівійський уряд у глибоко хаотичну ситуацію, з якої йому не так просто виплутатися.\n\nКорумпований цивільний уряд швидко звинуватили в цьому приниженні, оскільки багато генералів і офіцерів підтверджували безпосереднє втручання президента Даніеля Саламанки і його ліберальних союзників. Герман Буш і Давид Торо, два іменитих військових герої, згорнули уряд 1934 року й утворили \"Уряд національного порятунку\", який мав широку базу підтримки, але не мав певної ідеології, окрім як задоволення потреб армії, виправлення фіскального безладу, залишеного війною, і спроби поліпшити життя бідних у містах. Незважаючи на те, що Герман вніс значні зміни до Конституції, ситуація залишається напруженою, і болівійська економіка може абсолютно впасти, якщо ціни на олово впадуть ще нижче. Попри все це, болівійці все ще дивляться за межі своїх кордонів, згадують дні колишньої слави і з нетерпінням чекають дня, коли здійсниться справедливість, коли Чако і берегова лінія повернуться до них."
+
  BOL_guide: "§MBusch Maintains Power§! (§PPaternal Autocrat§!)\n£white_dot In the event, \"Fate of Bolivia\", choose \"Long Live El Presidente!\"\n£white_dot When the radicals attempt a coup, let Busch reassert control.\n\n§MDemocracy Returns - Syndicalism by the Ballot / MNR / PLP / PUR §! (§rSyndicalist§! / §SSocial Democrat§! / §mMarket Liberal§! / §cSocial Conservative§!)\n£white_dot Same as above, but instead choose \"The elections should be fair for all.\"\n£white_dot Empower the desired party in the election that follows, and in all subsequent elections.\nNote: Electing the Syndicalists will see an attempted nationalist coup; choose \"democracy must be respected\" to avoid it succeeding.\nNote: The §cPUR§! does not have a candidate for the 1948 elections, and so will not be electable.\n\n§MNationalist Coup§! (§NNational Populist§!)\n£white_dot Same as Busch Maintains Power above, but when the nationalists attempt a coup, let it succeed.\n£white_dot Alternatively, if democracy returns and the Syndicalists are elected, when the nationalists stage a coup, let it succeed."
- 
+
 ### Events ###
  bol.2.t: "Вибори 1940 року"
  bol.2.d: "Болівія багато страждала в попередні роки, однак, незважаючи на те, що адміністрація Буша досягла небагато чого, він зміг утримати країну і дозволив провести вибори 1940 року. Тертя високі, оскільки синдикалістам дозволили брати участь уперше в нашій історії, і вони будуть гідним суперником."
@@ -429,118 +508,114 @@ BOL_gualberto_villarroel_lopez_commander_desc: ""
  bol.2.b: "Віктор Пас Естенссоро"
  bol.2.c: "Енріке Ерцог"
  bol.2.e: "Хосе Антоніо Арсе і Арсе"
- 
+
  bol.3.t: "Вибори 1944 року"
  bol.3.d: "У Болівії знову день виборів, який виглядає як суперництво між усіма великими партіями. Хоча вибори менш напружені, ніж у 1940 році, голоси виборців із перфіферії можуть повернути результат у будь-який бік."
  bol.3.a: "Симон Л. Патіньо"
  bol.3.b: "Франсиско Хав'єр дель Гранадо і Гранадо"
  bol.3.c: "Мамерто Урріолагойтіа Харріаг"
  bol.3.e: "Хосе Антоніо Арсе і Арсе"
- 
+
  bol.4.t: "Вибори 1948 року"
  bol.4.d: "У Болівії знову день виборів, який виглядає як суперництво між усіма великими партіями за найвищу посаду."
  bol.4.a: "Енріке Пеньяранда-дель-Кастільо"
  bol.4.b: "Ернан Сілес Суасо"
  bol.4.c: "Карлос Салазар Мостахо"
- 
+
  bol.201.t: "НРР ставить під сумнів легітимність Аргедаса!"
  bol.201.d: "З підтримкою Народно-ліберальної партії, Аргедас переміг на виборах. Однак, Націоналістичний революційний рух ставить під сумнів результати виборів! Стверджуючи, що на результати виборів вплинув Олов'яний Король Патіньо, один з наших найкращих прихильників, якого вони звинувачують у використанні своїх статків з метою купити голоси і вплинути на виборчі дільниці, вони вимагають, щоб вибори були проведені заново. Їхня думка мало чого значить, оскільки Аргедас уже зайняв Президентський Палац і вони стали всього лише меншістю в Національному Конгресі."
  bol.201.a: "Це були чесні вибори"
- 
+
  bol.202.t: "Синдикалістська республіка?"
  bol.202.d: "Здивувавши більшу частину болівійської еліти, синдикалісти не тільки перемогли на виборах, а й зробили це з набагато більшим відривом голосів, ніж передбачалося. Оскільки багато хто з провідних промисловців і корумпованої еліти боїться за свою безпеку, ще рано говорити про кінець боротьби, оскільки реваншистська НБП заперечує результати і навіть взялася за зброю в периферійних регіонах."
  bol.202.a: "Ми відновимо в Болівії її колишню славу!"
  bol.202.b: "Необхідно поважати демократію!"
- 
- bol.301.t: "Король стає президентом"
- bol.301.d: "Відомий як Олов'яний Король або Rey del Estaño як у Болівії, так і за кордоном, Симон Патіньо тепер має не тільки майже монополістську владу над олов'яною торгівлею, а й над болівійським урядом. Пропрацювавши собі шлях від бідності в більшу частину своєї молодості до неймовірного багатства лише за кілька десятиліть потому, історія Патіньо відома багатьом болівійцям, дехто ним захоплюється, тоді як інші сподіваються, що він не впорається з посадою, яка значно збільшує його владу."
- bol.301.a: "Fait Accompli"
- 
+
  bol.5.t: "Чорний Понеділок завдає удару по країні"
  bol.5.d: "Хвилі світової економічної катастрофи сягнули і нашої країни, негайно завдавши удару по гірничодобувній промисловості. Ціни на звичайний ширвжиток різко злітають угору, і вже починаються звільнення на підприємствах, що належать гірничодобувним олігархам."
  bol.5.a: "Це ніколи не закінчиться!"
- 
+
  bol.6.t: "Щорічні військові репарації Парагваю"
  bol.6.d: "Після нашої жахливої поразки Парагваю в Чакській війні, ми не тільки втратили нашу гідність і регіон, багатий на нафту, а й також були змушені платити Парагваю військові репарації. Ці величезні суми грошей і товарів накладають важкий тягар на нашу економіку, що робить будь-яке відновлення майже неможливим."
  bol.6.a: "У нас немає вибору..."
- 
+
  bol.7.t: "Маневри на острові Тітікака"
  bol.7.d: "Після пишної церемонії відкриття, Президент [BOL.GetLeader] оголосив про створення Морських сил Болівії. Що складається з 4 патрульних катерів і більш ніж 1500 військових з армії, наш флот - це наша гордість і свідчення втрачених територій на Тихому океані.\n\nХоча дехто запитував, чи гарне це застосування податків, більшість наших військових вважає це необхідною політичною заявою, що має піднімати мораль у ці важкі часи."
  bol.7.a: "У нас є мрія...!"
-  
-#Strikes 
+
+#Strikes
  bol.8.t: "Колапс цін на олово!"
  bol.8.d: "Через катастрофу, спричинену чорним понеділком, імпорт олова німецькою сферою вкрай низько впав, тягнучи разом із собою і ціни на нього. Будучи одним із головних двигунів нашої економіки, що вже постраждала від рецесії в останні роки, сектор розірваний нерішучістю гірничодобувних компаній і погіршенням збереження робочих місць."
  bol.8.a: "О ні!"
- 
+
  bol.9.t: "Страйки в олов'яних шахтах"
  bol.9.d: "Оскільки ціни на олово залишаються у вільному падінні, а країна занурюється в найбільшу депресію в її історії, шахтарі з шахт Сігло XX і Катаві в провінції Потосі зустрілися з їхніми керівниками, вимагаючи кращих умов. Відмова Гірничодобувної корпорації Болівії змусила їх почати страйк, відклавши всю роботу, і просячи інші шахти приєднатися до них у боротьбі проти несправедливості."
  bol.9.a: "Ми маємо вжити рішучих заходів!"
- bol.9.b: "Шахтарі мають рацію! Знищити баронів!" 
- 
+ bol.9.b: "Шахтарі мають рацію! Знищити баронів!"
+
  bol.10.t: "Різанина в Катаві"
  bol.10.d: "У відповідь на страйк у Катаві, Буш наказав військовим втрутитися і вирішити проблему. 7000 шахтарів, які беруть участь у страйку, рухалися у напрямку до офісів менеджменту, коли армія оточила цю групу і наказала їм підкоритися і повернутися на роботу.\n\nВідмова шахтарів призвела до відкриття вогню по натовпах. 6 годин армія обстрілювала ці маси, що призвело до сотень поранених і 19 загиблих, за даними державних ЗМІ. Однак, організатори страйку стверджують, що було вбито понад 400 осіб, і вони вкрай цим розлючені."
  bol.10.a: "Гарна робота"
  bol.10.b: "Знайти відповідальних!"
- 
+
  bol.11.t: "Подальші страйки на шахтах Хуануні"
  bol.11.d: "Хоча розгін Катавійського страйку призвів до сотень постраждалих, шахтарі Хуаніні наважилися піднятися проти армії і повторюють вимоги їхніх загиблих братів. Мабуть, натхнені синдикалістськими успіхами в Чилі та Патагонії, шахтарі не бояться захищати свої права, і відкрито сумніваються в уряді та своїх компаніях."
  bol.11.a: "Розігнати страйки військовою силою!"
-  
+
  bol.12.t: "НРР підтримує страйк!"
  bol.12.d: "Обережно поспостерігавши за конфліктом у Катаві, НРР сьогодні видало офіційну постанову, підтримуючи страйкарів і приєднуючись до їхніх вимог кращих життєвих стандартів і вищої зарплати."
  bol.12.a: "Ситуація загострюється"
- 
+
  bol.13.t: "СПБ підтримує страйк!"
  bol.13.d: "Нікого не здивувавши, Синдикалістська партія обурилася поведінкою гірничодобувних олігархів і закликала всіх шахтарів приєднатися до страйку. Ставлячи за приклад революції в Чилі, партія сподівається, що болівійським шахтарям вдасться скинути ярмо й отримати кращі робочі та життєві умови."
  bol.13.a: "Ситуація загострюється"
- 
+
  bol.14.t: "Шахта в Хуануні приєднується до страйку"
  bol.14.d: "Оскільки страйку в Катаві не видно завершення, шахтарі Хуануні також припинили працювати й оголосили про свою підтримку братам у Сігло ХХ і Катаві. Політики з НРР і СПБ негайно підтримали це рішення, закликавши інші шахти наслідувати їхній приклад."
  bol.14.a: "Ми втрачаємо контроль над ситуацією!"
- 
+
  bol.15.t: "Занепокоєння в Оруро!"
  bol.15.d: "Оскільки робітники по всьому сектору припиняють роботу, шахтарі з Ла-Сальвадори також приєдналися до руху. Ці робітники, переважно з міста Оруро, розкинули табір перед будинком Олов'яного Короля (Симон Ітуррі Патіньйо), вимагаючи підвищення зарплати і безпечних умов роботи."
  bol.15.a: "Це зайшло занадто далеко! Відправити армію!"
  bol.15.b: "Ми маємо шукати підтримки за кордоном!"
- 
+
  bol.16.t: "Відтворення Перу-Болівійської Конфедерації"
  bol.16.d: "Конфедерація між нашими державами була недовговічною державою, що існувала в 1836-1839 рр., оскільки вважалося, що дві країни разом будуть сильнішими, і зможуть змагатися з іншими силами в Південній Америці. Однак, катастрофічна поразка від Чилі та Аргентини під час Війни Конфедерації зруйнувала Союз і відтворила дві незалежні держави.\n\nПроте підтримка Союзу не ослабла з часом, і навіть набрала ще більше популярності через провал у Чакській війні та погіршення економіки. Нездатність Буша розв'язати проблему зі страйкарями знову підняла це питання, і висуваються серйозні пропозиції на підтримку Союзу кількома нашими міністрами кабінету."
  bol.16.a: "Ми зможемо це вирішити самостійно! Відправити армію!"
  bol.16.b: "Запропонувати ідею Перу"
- 
+
  bol.17.t: "Болівія пропонує відтворити Перу-Болівійську Конфедерацію"
  bol.17.d: "Конфедерація між нашими державами була недовговічною державою, що існувала в 1836-1839 рр., оскільки вважалося, що дві країни разом будуть сильнішими, і зможуть змагатися з іншими силами в Південній Америці. Однак, катастрофічна поразка від Чилі та Аргентини під час Війни Конфедерації зруйнувала Союз і відтворила дві незалежні держави.\n\nПроте підтримка Союзу не ослабла з часом, і навіть набрала ще більше популярності в Болівії через провал у Чакській війні та погіршення економіки. Нездатність Буша вирішити проблему зі страйкарями знову підняла це питання, і тиск інших партій змусив його запропонувати відновлення Конфедерації, щоб не допустити погіршення хаосу в його країні."
  bol.17.a: "Ратифікувати возз'єднання!"
  bol.17.b: "Нам не потрібна Болівія, яка буде нас тягнути на дно"
- 
+
  bol.18.t: "Розв'язання олов'яних страйків"
  bol.18.d: "Оскільки вулиці залиті кров'ю шахтарів, а їхні лідери або мертві, або у в'язниці, страйки втратили свій шанс і шахтарі були змушені повернутися до роботи. Хоча через цю кризу посилилися соціалістичні партії, малоймовірно, що вони зможуть скоро повалити наш військовий режим."
  bol.18.a: "Стабільність... Поки що"
 
- bol.21.t: "Олов'яний Король повертається додому!"
- bol.21.d: "Симон Ітуррі Патіньо, більш відомий як Олов'яний Король, це один з найбагатших людей у світі, який володіє багатьма нашими олов'яними шахтами та компаніями, навіть має вплив у Канаді та Німеччині. Після Чакської війни і майже повного колапсу Болвії, він вирушив до США, щоб уникнути негативних наслідків. Однак, після серйозного погіршення ситуації в США, він знову повернувся до Болівії."
- bol.21.a: "Він повертається зараз?"
- 
  bol.23.t: "Майбутнє Болівії"
  bol.23.d: "Херман Буш Бессера править Болівією вже три роки, до того ж його можна з натяжкою назвати нелегітимним, оскільки для того, щоб стати президентом, йому довелося в 1934 році повалити Даніеля Саламанку. Однак багато хто в країні його підтримує, а його реформи лише принесли благополуччя і стабільність Болівії. Хоча Буш Бессера показував свою вірність демократичним процесам, він готовий до ролі довічного Президента. Чи повинні ми вимагати виборів? Або переписати Конституцію, щоб він став довічним Президентом?"
  bol.23.a: "Хай живе El Presidente!"
  bol.23.b: "Вибори мають бути чесними для всіх"
- 
+
  bol.24.t: "Збільшення тиску перед виборами!"
  bol.24.d: "З наближенням виборів у Болівії, деякі з наших найвідданіших радників вказали, що у нас більше не буде більшості, і що правління Германа Буша, можливо, підійшло до кінця. На щастя, у нас є майже повний контроль над виборами, тому ми віддали наказ замінити кілька виборчих урн нашими власними."
  bol.24.a: "Немає нічого, що не змогла б виправити невелика підробка"
- 
+
  bol.25.t: "Збільшення тиску перед виборами!"
  bol.25.d: "З наближенням виборів у Болівії, деякі з наших найвідданіших радників вказали, що у нас більше не буде більшості, і що правління Германа Буша, можливо, підійшло до кінця. На щастя, у нас є майже повний контроль над виборами, тому ми віддали наказ замінити кілька виборчих урн нашими власними."
  bol.25.a: "Хай живе El Presidente!"
- 
+
  bol.26.t: "Спроба радикального перевороту!"
  bol.26.d: "Натхненні повторюваними промахами адміністрації Буша, деякі члени збройних сил атакували Ла-Пас, щоб змістити Буша і призначити своїх ставлеників. Обіцяючи повернення законних територій і відновлення болівійської величі, рух швидко набирає підтримку, особливо серед нижчих класів і в шахтах, де шахтарі, незадоволені державою, відчайдушно шукають вихід."
  bol.26.a: "Переворот вдався!"
  bol.26.b: "Буш зберігає владу"
- 
+
  bol.27.t: "Болівія хоче приєднатися до Інтернаціоналу"
  bol.27.d: "Після успіху наших товаришів у решті Південної Америки, ми самі повинні запитати себе: чи хочемо ми допомогти поширенню світової революції, приєднавшись до Інтернаціоналу?"
  bol.27.a: "Звісно!"
  bol.27.b: "Це не ті хлопці, що програли Парагваю?"
+
+ bol.28.t: "The New South American Hegemon"
+ bol.28.d: "We have achieved what many thought to be impossible, a goal so ambitious that many world powers would never have believed could be done. Peru-Bolivia has restored itself to its former glory, reclaiming lost lands from its neighbours and cementing its place in the history books. While it may take decades for our recent conquests to accept our rule, our lifelong reign as the sole hegemon of South America is all but assured.\n\nThe world has now seen the might of Peru-Bolivia under its newfound Bolivian leadership, and our neighbours will do well to remember the cunning and sheer dominance of Bolivia."
+ bol.28.a: "Perhaps we should restore the title of 'Supreme Protector' as well..?"

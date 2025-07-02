@@ -29,9 +29,14 @@
  COS_national_populist_party_long: "Карибський легіон"
  COS_national_populist_party: "КЛ"
 
+ COS_ferrer_social_democrat_long: "Partido Liberación Nacional (National Liberation Party)"
+ COS_ferrer_social_democrat: "PLN"
+
 ### Tooltips ###
- USA_DENIED: "§YСША§! відхилили наш запит"
- GER_DENIED: "§YНімеччина§! відхилила наш запит"
+ COS_USA_bail_ZKG: "The §YUSA§! accepted to bail out the §YZKG§!"
+ COS_USA_denied_help: "§YСША§! відхилили наш запит"
+ COS_GER_bail_ZKG: "§YGermany§! accepted to bail out the §YZKG§!"
+ COS_GER_denied_help: "§YНімеччина§! відхилила наш запит"
  UFC_Labour_Accord: "§YЮФК§! підписала §YТрудовий договір§!"
  ZKG_Labour_Accord: "§YZKG§! підписала §YТрудовий договір§!"
  cos_black_monday_tt: "§YБанкрутство ZKG§! ще не вирішено"
@@ -40,65 +45,54 @@
  COS_Cortes_tt: "§RКортес залишиться на посаді. Це має жахливі наслідки!§!\n"
  ZKG_NO_SUPPORT: "§YЕкономічне дерево§! розблокується через 5 років"
  COTO_EXPANSION: "§YZKG§! визначать місце розташування нових плантацій"
- ZKG_GONE: "§YZKG§! було націоналізовано"
- UFC_GONE: "§YЮФК§! було націоналізовано"
  ZKG_DEAL: "Розблоковує £decision_icon_small §HРішення§! з обстеження земельних ділянок для нових §Yплантацій§!"
  UFC_DEAL: "Розблоковує £decision_icon_small §HРішення§! для розширення §YШтаб-квартири ЮФК§!"
  COS_UFC_HEADQUARTERS: "§YЮФК§! створять свою регіональну штаб-квартиру в Коста-Риці"
- GERMAN_DD_COS: "Два нові §YНімецькі есмінці§! буде придбано для посилення нашої берегової охорони"
  FERRER: "§YХосе Фігерес Феррер§! взяв гору"
  COS_DUTY_TT: "Розблоковує £decision_icon_small §HРішення§! для §Yповалення§! диктаторів Центральної Америки"
  COS_PROGRESS_TT: "Розблоковує £decision_icon_small §HРішення§! щоб перетворити Коста-Рику на §YДемократичну державу загального добробуту§!"
  COS_gerdiv_tt: "Під нашим прапором буде сформовано дивізію німецької морської піхоти."
+ COS_suplied_rebels_tooltip: "Ми отримаємо одну дивізію ополчення в §H[FROM.GetName]§!, коли буде оголошено війну проти §H[CEN.GetNameDef]§!."
+ COS_ELECTIONS: "Вибори 1940 року ще не відбулися"
+ JIMMY_DOWN: "Хіменес зійшов з дистанції."
 
- ZKG_3_CUPS: "£coffee_texticon §R3%§!"
- ZKG_3_CUPS_blocked: "£coffee_texticon §R3%§!"
- ZKG_3_CUPS_tooltip: "Вартість прийняття рішення $ZKG_3_CUPS_blocked$"
+ COS_5_convoys_cost: "£topbar_convoys §Y5§!"
+ COS_5_convoys_cost_blocked: "£topbar_convoys §R5§!"
+ COS_5_convoys_cost_tooltip: "Вартість прийняття рішення $COS_5_convoys_cost_blocked$"
 
- ZKG_3_CUPS_COST: "£pol_power §Y35§! £coffee_texticon §G3%§!"
- ZKG_3_CUPS_COST_blocked: "£pol_power §R35§! £coffee_texticon §G3%§!"
- ZKG_3_CUPS_COST_tooltip: "Вартість прийняття рішення $ZKG_3_CUPS_COST_blocked$"
+ COS_10_convoys_cost: "£topbar_convoys §Y10§!"
+ COS_10_convoys_cost_blocked: "£topbar_convoys §R10§!"
+ COS_10_convoys_cost_tooltip: "Вартість прийняття рішення $COS_10_convoys_cost_blocked$"
 
- ZKG_8_CUPS: "£coffee_texticon §R8%§!"
- ZKG_8_CUPS_blocked: "£coffee_texticon §R8%§!"
- ZKG_8_CUPS_tooltip: "Вартість прийняття рішення $UFC_1_BANANAS_blocked$"
+ COS_UFC_higher_than_15: "More than §Y15§! influence from the §YUFC§!"
 
- UFC_1_BANANAS: "£topbar_convoys §Y5§! £banana_texticon §R1%§!"
- UFC_1_BANANAS_blocked: "£topbar_convoys §R5§! £banana_texticon §R1%§!"
- UFC_1_BANANAS_tooltip: "Вартість прийняття рішення $UFC_1_BANANAS_blocked$"
+ COS_UFC_lower_than_95: "Less than §Y95§! influence from the §YUFC§!"
+ COS_UFC_lower_than_98: "Less than §Y98§! influence from the §YUFC§!"
+ COS_UFC_lower_than_100: "Less than §Y100§! influence from the §YUFC§!"
 
- UFC_3_BANANAS: "£topbar_convoys §Y10§! £banana_texticon §R3%§!"
- UFC_3_BANANAS_blocked: "£topbar_convoys §R10§! £banana_texticon §R3%§!"
- UFC_3_BANANAS_tooltip: "Вартість прийняття рішення $UFC_3_BANANAS_blocked$"
+ COS_UFC_plus_tt: "Вплив §YЮФК§! збільшиться на £banana_texticon §R[?cos_UFC_change]%§!\n"
+ COS_UFC_minus_tt: "Вплив §YЮФК§! зменшиться на £banana_texticon §G[?cos_UFC_change_dummy]%§!\n"
 
- UFC_8_BANANAS: "£banana_texticon §R8%§!"
- UFC_8_BANANAS_blocked: "£banana_texticon §R8%§!"
- UFC_8_BANANAS_tooltip: "Вартість прийняття рішення $UFC_8_BANANAS_blocked$"
-
- UFC_8_BANANAS_cost: "£banana_texticon §G8%§!"
- UFC_8_BANANAS_cost_blocked: "£banana_texticon §G8%§!"
- UFC_8_BANANAS_cost_tooltip: "Вартість прийняття рішення $UFC_8_BANANAS_cost_blocked$"
-
- UFC_8_BANANAS_PP: "£pol_power §Y100§! £banana_texticon §R8%§!"
- UFC_8_BANANAS_PP_blocked: "£pol_power §R100§! £banana_texticon §R8%§!"
- UFC_8_BANANAS_PP_tooltip: "Вартість прийняття рішення $UFC_8_BANANAS_PP_blocked$"
-
- COS_American_Support_tt: "Вплив §YЮФК§! збільшиться на £banana_texticon §R8%§!\n"
- COS_UFC_plus_1: "Вплив §YЮФК§! збільшиться на £banana_texticon §R1%§!\n"
- COS_UFC_plus_3: "Вплив §YЮФК§! збільшиться на £banana_texticon §R3%§!\n"
- COS_UFC_plus_8: "Вплив §YЮФК§! збільшиться на £banana_texticon §R8%§!\n"
- COS_UFC_minus_3: "Вплив §YЮФК§! зменшиться на £banana_texticon §G3%§!\n"
- COS_UFC_minus_8: "Вплив §YЮФК§! зменшиться на £banana_texticon §G8%§!\n"
- UFC_Profit_1: "Прибуток §YЮФК§! збільшиться на §G1§!\n\nЗмінить §Y$UFC_Profit_1_idea$§! на\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-1.0%§!"
- UFC_Profit_2: "Прибуток §YЮФК§! збільшиться на §G2§!\n\nЗмінить §Y$UFC_Profit_1_idea$§! на\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.0%§!"
-
+ COS_UFC_eradicated: "The §YUFC§! will stop operating in the country. Their influence will be §Geradicated§!\n"
  COS_EXPANDING_OPERATIONS: "§YЮФК§! розширює свою діяльність"
 
- COS_German_Support_tt: "Вплив §YZKG§! збільшиться на £coffee_texticon §R8%§!\n"
- COS_ZKG_minus_3: "Вплив §YZKG§! зменшиться на £coffee_texticon §G3%§!\n"
- COS_ZKG_minus_100: "Вплив §YZKG§! буде §викорінено§!\n"
- COS_ZKG_plus_3: "Вплив §YZKG§! збільшиться на £coffee_texticon §R3%§!\n"
- COS_ZKG_plus_8: "Вплив §YZKG§! збільшиться на £coffee_texticon §R8%§!\n"
+ COS_increase_UFC_lose: "We will lose an extra £banana_texticon §G2%§! if we either complete the focus §YIndustrial Development Scheme§! or §YA Different Approach§!."
+
+ COS_ZKG_higher_than_10: "More than §Y10§! influence from the §YZKG§!"
+ COS_ZKG_higher_than_11: "More than §Y11§! influence from the §YZKG§!"
+ COS_ZKG_higher_than_14: "More than §Y14§! influence from the §YZKG§!"
+ COS_ZKG_higher_than_17: "More than §Y17§! influence from the §YZKG§!"
+ COS_ZKG_higher_than_20: "More than §Y20§! influence from the §YZKG§!"
+
+ COS_ZKG_lower_than_98: "Less than §Y98§! influence from the §YZKG§!"
+ COS_ZKG_lower_than_95: "Less than §Y95§! influence from the §YZKG§!"
+
+ COS_ZKG_plus_tt: "Вплив §YZKG§! збільшиться на £coffee_texticon §R[?cos_ZKG_change]%§!\n"
+ COS_ZKG_minus_tt: "Вплив §YZKG§! зменшиться на £coffee_texticon §G[?cos_ZKG_change_dummy]%§!\n"
+
+ COS_ZKG_eradicated: "The §YZKG§! will stop operating in the country. Their influence will be §Geradicated§!\n"
+
+ COS_increase_ZKG_lose: "We will lose an extra £coffee_texticon §G2%§! if we either complete the focus §YIndustrial Development Scheme§! or §YA Different Approach§!."
 
  UFC_Profit_1_COST: "§Y1§! прибуток ЮФК"
  UFC_Profit_1_COST_blocked: "§R1§! прибуток ЮФК"
@@ -112,27 +106,17 @@
  UFC_Profit_3_COST_blocked: "§R3§! прибуток ЮФК"
  UFC_Profit_3_COST_tooltip: "Вартість прийняття рішення $UFC_Profit_3_COST$"
 
- PRN_OPEN_ELECTIONS: "Приріст §CНРП§! на §Y2§!\n"
- PRN_min_1: "Зменшення §CНРП§! на §Y1§!\n"
- PRN_min_3: "Зменшення §CНРП§! на §Y3§!\n"
- PRN_1: "Приріст §CНРП§! на §Y1§!\n"
- PRN_3: "Приріст §CНРП§! на §Y3§!\n"
- PRN_7: "Приріст §CНРП§! на §Y7§!\n"
- PRN_10: "Приріст §CНРП§! на §Y10§!\n"
- PRN_15: "Приріст §CНРП§! на §Y15§!\n"
- PVP_CHECKMATE: "Зменшення §RПНА§! на §Y10§!\n"
- PVP_3: "Приріст §RПНА§! на §Y3§!\n"
+ COS_UFC_profic_increase_tt: "Прибуток §YЮФК§! збільшиться на §Y[?cos_profit_change]§!.\n\nЗмінить §Y$COS_UFC_Profit_idea$§! на:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y[?COS_UFC_consumer_goods_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G[?COS_UFC_output_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G[?COS_UFC_output_tt|=%%]§!"
+ COS_UFC_profic_decrease_tt: "Прибуток §YЮФК§! зменшиться на §Y[?cos_profit_change]§!.\n\nЗмінить §Y$COS_UFC_Profit_idea$§! на:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y[?COS_UFC_consumer_goods_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R[?COS_UFC_output_tt|=%%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R[?COS_UFC_output_tt|=%%]§!"
+
+ COS_PRN_support_increase: "Приріст підтримки §CНРП§! на $RIGHT|Y0$\n"
+ COS_PRN_support_decrease: "Зменшення підтримки §CНРП§! на $RIGHT|Y0$\n"
+ COS_PVP_support_increase: "Приріст підтримки §RПНА§! на $RIGHT|Y0$\n"
+ COS_PVP_support_decrease: "Зменшення підтримки §RПНА§! на $RIGHT|Y0$\n"
 
  MP_50: "£manpower_texticon §Y50§! £rifle_texticon §H400§!"
  MP_50_blocked: "£manpower_texticon §R50§! £rifle_texticon §R400§!"
  MP_50_tooltip: "Вартість прийняття рішення $MP_50_blocked$"
-
- COS_suplied_rebels_tooltip: "Ми отримаємо одну дивізію ополчення в §H[FROM.GetName]§!, коли буде оголошено війну проти §H[CEN.GetNameDef]§!."
-
- Beel_pls: "§RB E E L Z E B U B\nE\nE\nL\nZ\nE\nB\nU\nB§!"
-
- COS_ELECTIONS: "Вибори 1940 року ще не відбулися"
- JIMMY_DOWN: "Хіменес зійшов з дистанції."
 
 ### Decisions ###
  COS_ZKG_decisions: "Zentralamerikanische Kaffee-Gesellschaft"
@@ -158,6 +142,8 @@
  COS_UFC_decisions: "United Fruit Company"
  COS_UFC_decisions_desc: "З тих пір, як американець Кіт ступив на землю Коста-Ріки і отримав контракт на створення залізничної мережі в нашій країні, його компанія §YUnited Fruit Company§! або §YЮФК§! відіграє важливу роль в економіці Коста-Рики. Однак великий успіх компанії не залишився виключно костариканським, і завдяки розумним інвестиціям компанія створила мережу дочірніх підприємств і плантацій по всьому Карибському басейну, принісши величезні статки цим країнам, але також спричинивши масові соціальні потрясіння, що часто призводять до §Rстрайків§!, §Rнасильства§! і §Rполітичної катастрофи§!.\n\nВплив §YЮФК§! : £banana_texticon [?party_popularity@market_liberal|%R0]\n"
 
+ COS_Improve_Conditions_Plantations: "Improve the Conditions of the Plantations"
+ COS_Improve_Conditions_Plantations_desc: "Even though the Atlantic Workers Congress has fought hard to secure the little rights plantation workers now have, the working conditions are still consider inhumane by many. Further checks on the company will help us improve the life of the men working in the plantations and also reduce the pull of these companies on political affairs."
  COS_Sell_Government_Land_UFC_decision: "Продати державну землю для ЮФК"
  COS_Sell_Government_Land_UFC_decision_desc: "Десятиліттями уряди країн Центральної Америки використовували іноземні компанії для підтримки своєї економіки шляхом продажу величезних ділянок плантацій. Буде справедливо, якщо ми також зробимо так само, чи не так?"
  COS_Build_New_Telephone_Lines: "Введення в експлуатацію нових телеграфних ліній"
@@ -175,10 +161,9 @@
  COS_Honduras_Palm_Oil: "Розвивати пальмові плантації в Гондурасі"
  COS_Honduras_Palm_Oil_desc: "Допомагаючи у військовому перевороті, який скинув президента Давілу і відновив на посаді генерала Бонілью, Семюель Земуррей зміг отримати значні поступки від уряду країни. Запропонувавши розбудовувати інфраструктуру в країні в обмін на величезні ділянки землі, його компанія не лише зарекомендувала себе як двигун гондураської економіки, але й відтоді поширила свою діяльність по всьому регіону, а згодом об'єдналася з ЮФК.\n\nОстання зараз не тільки має великі інтереси у виробництві бананів, але й відповідає за значні обсяги пальмової олії та абаки."
  COS_Honduras_Abaca: "Розвивати плантації абаки в Гондурасі"
- COS_Honduras_Abaca_desc: "Допомагаючи у військовому перевороті, який скинув президента Давілу і відновив на посаді генерала Бонілью, Семюель Земуррей зміг отримати значні поступки від уряду країни. Запропонувавши розбудовувати інфраструктуру в країні в обмін на величезні ділянки землі, його компанія не лише зарекомендувала себе як двигун гондураської економіки, але й відтоді поширила свою діяльність по всьому регіону, а згодом об'єдналася з ЮФК.\n\nОстання зараз не тільки має великі інтереси у виробництві бананів, але й відповідає за значні обсяги пальмової олії та абаки."
  COS_Honduras_Banana: "Розвивати бананові плантації в Гондурасі"
- COS_Honduras_Banana_desc: "Допомагаючи у військовому перевороті, який скинув президента Давілу і відновив на посаді генерала Бонілью, Семюель Земуррей зміг отримати значні поступки від уряду країни. Запропонувавши розбудовувати інфраструктуру в країні в обмін на величезні ділянки землі, його компанія не лише зарекомендувала себе як двигун гондураської економіки, але й відтоді поширила свою діяльність по всьому регіону, а згодом об'єдналася з ЮФК.\n\nОстання зараз не тільки має великі інтереси у виробництві бананів, але й відповідає за значні обсяги пальмової олії та абаки."
  COS_Guatemala_Abaca: "Розвивати плантації абаки в Гватемалі"
+ COS_Guatemala_plantation_desc_start: "Not only does the UFC control a sizeable percentage of all Guatemalan land but it also owns schools, railroads, housing companies and much more. To say the Guatemalan economy depends on the UFC would be an understatement and we cannot let this influence falter for the safety of the company."
  COS_Guatemala_Abaca_desc: "ЮФК не лише контролює значний відсоток всієї гватемальської землі, але й володіє школами, залізницями, житловими компаніями та багатьма іншими об'єктами. Сказати, що економіка Гватемали залежить від ЮФК, було б применшенням, і ми не можемо дозволити цьому впливу похитнутися заради безпеки компанії.\n\nРозташовані на східному фланзі країни, поруч з Гондурасом, землі Абаки є цінною альтернативою операціям компанії, в яких домінує вирощування бананів."
  COS_Guatemala_Banana: "Розвивати бананові плантації в Гватемалі"
  COS_Guatemala_Banana_desc: "ЮФК не лише контролює значний відсоток всієї гватемальської землі, але й володіє школами, залізницями, житловими компаніями та багатьма іншими об'єктами. Сказати, що економіка Гватемали залежить від ЮФК, було б применшенням, і ми не можемо дозволити цьому впливу похитнутися заради безпеки компанії.\n\nБананові плантації Гватемали, розташовані переважно на західному фланзі країни, є найуспішнішою операцією компанії і не лише сприяють постійному зростанню запасів, але й дозволяють ЮФК розширювати свою діяльність у Карибському басейні і навіть у Південній Америці."
@@ -190,7 +175,7 @@
  COS_Market_decisions_desc: "Оскільки країни по всьому світу почали різко нарощувати свою збройову промисловість, відчуваючи можливість отримати прибуток, ми також маємо ресурси для участі в цій торгівлі.\n\nПрибуток ЮФК : §Y[?COS.cos_profit_factor]§!\n"
 
  COS_Purchase_Convoys: "Придбати торговельні судна"
- COS_Purchase_Weapons: "Придбати іноземне озброєння"
+ COS_Purchase_Trucks: "Придбати іноземні вантажівки"
  COS_Purchase_Planes: "Придбати літаки"
 
  COS_Guardia_decisions: "Політика [COS.GetLeader]"
@@ -233,20 +218,34 @@
  COS_Ferrer_Aggro_decisions: "Légion del Caribe: Операції"
  COS_Ferrer_Aggro_decisions_desc: "Після повалення диктатора в Коста-Риці і відновлення демократії Карибський легіон святкує перемогу своєї операції. За повної підтримки президента Феррера, вони тепер мають засоби і моральну підтримку, необхідні для здійснення свого ідеалу і викорінення як синдикалістських, так і диктаторських режимів в регіоні."
 
- COS_Democratic_Alliance_of_the_Caribbean_decisions: "Демократичний альянс Карибського басейну"
-
- COS_Invite: "Запросити [FROM.GetName] до пакту"
- COS_Legion_del_Caribe_Attack: "Розпочати визвольну кампанію"
- COS_Legion_del_Caribe_Attack_desc: "Прийшов час скинути кайдани гноблення, які довгий час пригнічували наших братів по всьому Карибському басейну. Ми - їхня остання надія, і ми виведемо їх до світла!"
- COS_Invasion: "Звільнити [FROM.GetName]"
- COS_Invasion_desc: "Занадто довго народ [FROM.GetName] страждав від диктаторів та корумпованих чиновників. Щоб виправити це, Карибський легіон взяв на себе зобов'язання звільнити цих людей, повалити режим і відновити демократію в країні."
-
+ COS_Ferrer_takes_Control_Attack: "Розпочати визвольну кампанію"
+ COS_Ferrer_takes_Control_Attack_desc: "Прийшов час скинути кайдани гноблення, які довгий час пригнічували наших братів по всьому Карибському басейну. Ми - їхня остання надія, і ми виведемо їх до світла!"
  COS_Supply_Rebels: "[FROM.COS_Supply_Rebels_Name]"
  COS_Supply_Rebels_Puerto_Cabezas: "Відправити зброю до Пуерто-Кабесас"
  COS_Supply_Rebels_Santa_Ana: "Підтримати сальвадорський опір"
  COS_Supply_Rebels_Belmopan: "Підтримати борців за свободу в Белізі"
  COS_Supply_Rebels_Puerto_Barrios: "Інфільтруватися в Пуерто-Барріос"
  COS_Supply_Rebels_Generic: "Підтримати повстанців в [FROM.GetName]"
+
+ COS_Democratic_Alliance_of_the_Caribbean_decisions: "Демократичний альянс Карибського басейну"
+
+ COS_form_faction: "Сформувати $democratic_alliance_of_the_caribbean$"
+ COS_Invite: "Запросити [FROM.GetName] до пакту"
+ COS_form_economic_bloc: "Form the Caribbean Economic Bloc"
+ COS_economic_bloc: "Invite [FROM.GetName] into the Economic Bloc"
+ COS_protect_panama: "Rescue Panama from Colombian coercion"
+ COS_protect_panama_desc: "Panama has been bullied by Colombia into joining their alliance under the weak justification of saving them from socialism. Let's give them a way out of this before their sovereignty is threatened any more."
+ COS_merge_with_the_andean_pact: "Merge with the Andean Pact"
+ COS_merge_with_the_andean_pact_desc: "The Andean Pact was created as a way to ensure stability and protection in their region and their goals are very similar to ours, but a dispute over Panama has soured relations between us and Colombia. The best course of action to amend this divide is to invite them into our alliance and sort our issues internally."
+ COS_integrate_into_CEN: "Re-joining the Federal Republic"
+ COS_integrate_into_CEN_desc: "With four members of the republic already united and willing to fight for our cause, it is our time to re-join the Federal Republic, to help them eliminate the issues that tore apart the first one, to uphold democracy in the union and to create a powerful army capable of protecting us and carrying on the goal of our alliance."
+ COS_Invasion: "Звільнити [FROM.GetNameDef]"
+ COS_Invasion_desc: "Занадто довго народ [FROM.GetName] страждав від диктаторів та корумпованих чиновників. Щоб виправити це, Карибський легіон взяв на себе зобов'язання звільнити цих людей, повалити режим і відновити демократію в країні."
+
+ CEN_COS_peace_timer: "Peace with the Caribbean Alliance"
+ CEN_COS_peace_timer_desc: "Our victory in Costa Rica has put us on an advantageous position to initiate negations. We will limit ourself to territory our army has and can capture by foot alone, as it is clear that our navy is not sufficient enough to help in naval invasion."
+ COS_peace_timer: "A Falling Alliance"
+ COS_peace_timer_desc: "The fall of Costa Rica has brough disaster to the alliance. If we are not able to save them soon, we will have no option to accept our enemies demands and retreat from occupied central american land."
 
  COS_Ferrer_Pacifist_decisions: "Політика [COS.GetLeader]"
  COS_Ferrer_Pacifist_decisions_desc: "Пробуджений антиконституційними діями своїх попередників і борючись за права кожного громадянина Коста-Рики, §Y[COS.GetLeader]§! має великі амбіції для маленької нації. Він та його Хунта планують не лише запровадити нові радикальні закони, вони також планують §Yпереписати конституцію§! та §Yліквідувати армію§!, що завершиться проголошенням створення §CДругої Республіки§!"
@@ -277,6 +276,14 @@
  COS_beacon_democracy: "Маяк демократії"
  COS_beacon_democracy_desc: "Сильні традиції демократії та прогресивні реформи за останні кілька десятиліть призвели до того, що Коста-Рика сприймається за кордоном як яскравий маяк центральноамериканської демократії."
 
+ COS_influence_of_the_UFC_dynamic_modifier: "£pol_idea Influence of the UFC"
+ COS_influence_of_the_UFC_idea: "Influence of the UFC"
+ COS_influence_of_the_UFC_idea_desc: "The United Fruit Company or the UFC has built railways, infrastructure and housing to expand their operations in our country, but the terrible practices that their employees have to endure has earned them a terrible reputation.\nCurrent influence of the UFC: §Y[?COS.COS_UFC_influence]§!\n§W-----------------\nThis gives us the following effects:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_UFC_influence_modifier|+=]\n$MODIFIER_STABILITY_POPULARITY_FACTOR$: [?COS.COS_UFC_influence_modifier|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_UFC_influence_construction_speed|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$:§! §Y[?COS.COS_UFC_influence_consumer_goods|=%]§!"
+
+ COS_influence_of_the_ZKG_dynamic_modifier: "£pol_idea Influence of the ZKG"
+ COS_influence_of_the_ZKG_idea: "Influence of the ZKG"
+ COS_influence_of_the_ZKG_idea_desc: "The Zentralamerikanische Kaffee-Gesellschaft or ZKG was created by coffee barons of German descent to protect and expand their influence over the Costa Rican government and expand their plantations in the central valley.\nCurrent influence of the ZKG: §Y[?COS.COS_ZKG_influence]§!\n§W-----------------\nThis gives us the following effects:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_ZKG_influence_pol_power_gain|+=]\n$research_speed_factor_tooltip$: [?COS.COS_ZKG_influence_research_speed|+=%]\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?COS.COS_ZKG_influence_production_cap|+=%]§!"
+
  COS_black_monday: "Банкрутство ZKG"
  COS_black_monday_desc: "Незважаючи на те, що колись прибуткова кавова компанія не знала кінця своєму багатству, навіть інвестуючи в активи, які раніше належали ЮФК, криза, яка сколихнула Німеччину, залишила свій відбиток і на ZKG. З падінням акцій і стрімким падінням попиту на каву, перенапружена компанія не змогла знайти покупця на свої збанкрутілі активи і йде на дно у полум'ї пожежі."
 
@@ -288,9 +295,6 @@
 
  COS_black_monday_nearly_over: "Банкрутство ZKG: Відновлення експорту"
  COS_black_monday_nearly_over_desc: "Врожай кави був щедрим на нас, і коли світова економіка оговтується від кризи, наш експорт знову збільшився."
-
- COS_black_monday_nearly_over_american_answer: "Банкрутство ZKG: Відновлення експорту"
- COS_black_monday_nearly_over_american_answer_desc: "Врожай кави був щедрим на нас, і коли світова економіка оговтується від кризи, наш експорт знову збільшився."
 
  COS_Plan_Limon: "План Лімон"
  COS_Plan_Limon_desc: "Названа на честь нашого морського порту в Атлантичному океані, нова централізована урядова директива, спрямована на вдосконалення та розвиток галузі, була введена в дію."
@@ -310,19 +314,27 @@
  COS_Agricultural_Protection: "Захист сільського господарства"
  COS_Agricultural_Protection_desc: "У той час як поля дають урожай на сотнях гектарів, люди на вулиці з кожним днем стають все більш голодними. Централізовані державні стимули для створення більш різноманітної дієти для наших людей повинні зменшити це явище!"
 
- COS_Hydroelectricity: "Гідроенергетична ініціатива"
- COS_Hydroelectricity_desc: "Можливо, у нас немає нафти чи вугілля, як у наших сусідів, але іноземні дослідження визначили нашу країну як найкращу землю для гідроенергетики, що дозволяє все більшій кількості майстерень працювати на дешевій, чистій електроенергії."
+ COS_Banking_Reforms_Idea: "Banking Reform"
+
+ COS_Educating_the_Countryside: "Educating the Countryside"
+
+ COS_Cement_Administration_Idea: "Cement Administration"
 
  COS_AM_REFUGEES: "Американські біженці"
  COS_AM_REFUGEES_desc: "Рятуючись від хаосу, що охопив їхню батьківщину, тисячі американських біженців прибули до нашої країни, принісши з собою свій капітал і знання."
 
  COS_Work_Code_idea: "Трудовий кодекс"
- COS_Minimum_Wage_idea: "Трудовий кодекс"
 
  COS_CCSS: "CCSS"
  COS_CCSS_desc: "Жалюгідні санітарні умови та відсутність медичної допомоги для нижчих класів спонукали до створення цієї революційної системи, яка забезпечує пенсії та охорону здоров'я для всіх костариканців, незалежно від їхнього статусу."
 
  COS_Rural_Credit: "Сільські кредити"
+
+ COS_mobile_warfare_idea: "Mobile Warfare"
+
+ COS_improve_tactics: "Improve Tactics"
+
+ COS_renovated_bellavista: "Renovated Bellavista Barracks"
 
  COS_German_Attache: "Морський аташе Німеччини"
  COS_German_Attache_desc: "Спостерігачі з Kaiserliche Marine вивчають нашу берегову охорону і навчають її протичовновій тактиці, щоб захистити наше узбережжя і не допустити, щоб наші вантажні судна прийняли на себе основний тягар бойових дій"
@@ -330,11 +342,16 @@
  COS_Public_Education: "Реформована система освіти"
  COS_Public_Education_desc: "Освіта для всіх є головним пріоритетом для уряду Коста-Рики, і нова програма надала доступ до державної системи освіти всім костариканцям."
 
- COS_beacon_democracy_2: "Маяк демократії"
- COS_beacon_democracy_2_desc: "Сильні традиції демократії та прогресивні реформи за останні кілька десятиліть призвели до того, що Коста-Рика сприймається за кордоном як яскравий маяк центральноамериканської демократії."
+ COS_Expanded_Citizenship: "Expanded Citizenship"
 
- COS_beacon_democracy_3: "Маяк демократії"
- COS_beacon_democracy_3_desc: "Сильні традиції демократії та прогресивні реформи за останні кілька десятиліть призвели до того, що Коста-Рика сприймається за кордоном як яскравий маяк центральноамериканської демократії."
+ COS_car_economic_bloc_dynamic_modifier: "£pol_idea Caribbean Economic Bloc"
+ COS_car_economic_bloc_idea: "Caribbean Economic Bloc"
+ COS_car_economic_bloc_idea_desc: "§W$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?COS.COS_car_eco_bloc_research|+=%]§!"
+ COS_cos_alliance_member_tooltip: "§LFor every nation joining the economic bloc, this modifier will be increased.§!"
+
+ COS_CEN_ties: "Central American Ties"
+
+ COS_CEN_ties_2: "Increased Central American Ties"
 
  COS_Domestic_Designs_2: "Вітчизняні проєкти"
 
@@ -344,8 +361,12 @@
  COS_coto_compensation_PAN: "Компенсація Кото"
  COS_coto_compensation_PAN_desc: "В рамках медіаційного врегулювання ми відкликали наш позов до Кото в обмін на грошову компенсацію."
 
- UFC_Profit_1_idea: "Прибуток від ЮФК"
- UFC_Profit_1_idea_desc: "Збільшення прибутку від діяльності United Fruit Company в країні сприяє розвитку нашої економіки."
+ COS_UFC_profit_dynamic_modifier: "£pol_idea Прибуток від ЮФК"
+ COS_UFC_Profit_idea: "Прибуток від ЮФК"
+ COS_UFC_Profit_idea_desc: "Збільшення прибутку від діяльності United Fruit Company в країні сприяє розвитку нашої економіки."
+
+ COS_investing: "Investing"
+ COS_investing_desc: "With the influence of the big companies that help in the development of our country gone, the government has been force to take from its limiting budget to compensate."
 
 ### Focuses ###
  COS_ZKG_Bailout: "Допомога ZKG"
@@ -364,8 +385,8 @@
  COS_Withering_the_Storm_desc: "Наш досвід американської рецесії 20-х років і подальша рішуча економічна політика нашого президента дозволили нам досить безболісно пережити рецесію. Були втрачені робочі місця і порожні шлунки, але порівняно з нашими сусідами ми можемо з гордістю сказати, що Коста-Рика готова до майбутнього."
  COS_German_Crisis_Response: "Реакція на кризу в Німеччині"
  COS_German_Crisis_Response_desc: "Саме німці зруйнували нашу економіку, тож цілком справедливо, що вони допоможуть нам її відновити. Однак за це доведеться заплатити, оскільки яструбині інвестори імперії напевно вимагатимуть подальших земельних концесій в обмін на нижчі тарифи та прийнятні умови торгівлі."
- COS_Cash_Crops: "Інвестиції в товарні культури"
- COS_Cash_Crops_desc: "Кава та банани є двигуном нашої економіки і принесли нам багато багатства в минулому. Безумовно, подальша відмова від цієї галузі врятує ZKG від неминучого краху, а також забезпечить підґрунтя для нових інвестицій, різко знизивши ціну на землю під плантації."
+ COS_Cash_Crops_Investments: "Інвестиції в товарні культури"
+ COS_Cash_Crops_Investments_desc: "Кава та банани є двигуном нашої економіки і принесли нам багато багатства в минулому. Безумовно, подальша відмова від цієї галузі врятує ZKG від неминучого краху, а також забезпечить підґрунтя для нових інвестицій, різко знизивши ціну на землю під плантації."
  COS_Deal_with_the_ZKG: "Угода з ZKG"
  COS_Deal_with_the_ZKG_desc: "Оскільки німецькі інвестори здебільшого вийшли з економіки та продали свої акції під час "Чорного Понеділка", де-факто власність повернулася до первинних засновників, які ставлять інтереси нашої нації вище, ніж їхні закордонні колеги."
  COS_Public_Works: "Громадські роботи"
@@ -381,8 +402,8 @@
  COS_Expand_Textile_Industry_desc: "Хоча текстильна промисловість Коста-Рики є кустарною за своєю природою, вона відома в усьому регіоні і має тісні зв'язки як з американськими, так і з німецькими компаніями з виробництва одягу. Однак, оскільки виробництво наразі відбувається виключно в невеликих майстернях, ми сподіваємося створити справжню фабрику, щоб значно збільшити обсяги виробництва."
  COS_Economic_Boom: "Економічний бум"
  COS_Economic_Boom_desc: "Оскільки рецесія наближається до кінця, а ZKG, здається, майже повністю відновилася, будівництво нових виробничих потужностей, здається, нарешті принесло свої плоди, оскільки ми випереджаємо наших сусідів за темпами зростання ВВП."
- COS_Gold_Mining: "Копати глибше"
- COS_Gold_Mining_desc: "Розташовані переважно на півночі нашої країни, старі іспанські золоті копальні наближаються до виснаження. Оскільки вони не були важливою частиною нашої економіки протягом десятиліть, пошук нових ділянок завжди відкладали. Крах кавового ринку змусив уряд усвідомити, що диверсифікація економіки є ключовим фактором, і призвів до того, що старателі отримали запрошення досліджувати поверхню нашої країни."
+ COS_Dig_Deeper: "Копати глибше"
+ COS_Dig_Deeper_desc: "Розташовані переважно на півночі нашої країни, старі іспанські золоті копальні наближаються до виснаження. Оскільки вони не були важливою частиною нашої економіки протягом десятиліть, пошук нових ділянок завжди відкладали. Крах кавового ринку змусив уряд усвідомити, що диверсифікація економіки є ключовим фактором, і призвів до того, що старателі отримали запрошення досліджувати поверхню нашої країни."
  COS_Foreign_Knowhow: "Іноземні ноу-хау"
  COS_Foreign_Knowhow_desc: "Наша країна досі не мала адекватної вищої освіти, що призвело до того, що багато представників вищого класу навчаються за кордоном, віддаючи певну перевагу університетам Фландрії-Валлонії. Замість того, щоб дозволяти нашим громадянам виїжджати на навчання за кордон, ми повинні заохочувати іноземних викладачів приїжджати до Коста-Рики і допомагати нам у створенні власної системи вищої освіти."
  COS_Manufacturing_Industry: "Основи обробної промисловості"
@@ -394,8 +415,8 @@
 
  COS_A_Different_Approach: "Інший підхід"
  COS_A_Different_Approach_desc: "У той час як димові труби і темні хмари позначають горизонт індустріальної країни, ми, костариканці, повинні пишатися нашою природною красою і триматися подалі від спокус масового виробництва. Інші повинні розуміти, що наша країна - це особливе місце, і що фауна і флора важливіші за вугілля."
- COS_Tourism_Industry: "Сприяння туризму"
- COS_Tourism_Industry_desc: "Чи то на стежках у глибинці, чи то культурні пам'ятки таких міст, як Сан-Хосе, чи просто краса нашого узбережжя, наша країна швидко зарекомендувала себе як притулок від хаосу та поспіху сучасного життя та процвітаючий туристичний напрямок."
+ COS_Promote_Tourism: "Сприяння туризму"
+ COS_Promote_Tourism_desc: "Чи то на стежках у глибинці, чи то культурні пам'ятки таких міст, як Сан-Хосе, чи просто краса нашого узбережжя, наша країна швидко зарекомендувала себе як притулок від хаосу та поспіху сучасного життя та процвітаючий туристичний напрямок."
  COS_Boost_Cash_Crops: "Підвищення врожайності товарних культур"
  COS_Boost_Cash_Crops_desc: "Товарні культури слугували нам протягом багатьох поколінь і є набагато чистішими та менш виснажливими для наших людей, ніж робота в шахтах та на заводах. Подальші контракти з ZKG та ЮФК допоможуть нам і надалі розширювати експортну економіку, зберігаючи при цьому нашу країну чистою від бруду індустріалізації."
  COS_Small_Business: "Малий бізнес"
@@ -440,21 +461,21 @@
  COS_Found_the_CCSS_desc: "Соціальне страхування (Caja Costarricense del Seguro Social CCSS або Caja) ще більше розширюється на основі Трудового кодексу. Визначаючи обов'язком працівника відраховувати 25 відсотків заробітної плати на рахунок соціального страхування, рахунок соціального страхування покриватиме медичне обслуговування, госпіталізацію, а невелика частина коштів надходитиме до пенсійного фонду для всіх громадян Коста-Рики."
  COS_Provide_National_Healthcare: "Забезпечення національної охорони здоров'я"
  COS_Provide_National_Healthcare_desc: "В рамках CCSS та завдяки тісним зв'язкам самого Кальдерона з медичним світом, зумовленим його професією, державне фінансування було перенаправлено зі збройних сил на подальше субсидування медичного сектору, що працює на кінцеву мету - забезпечення надійної охорони здоров'я для кожного громадянина."
- COS_Minimum_Wage: "Запровадження мінімальної заробітної плати"
- COS_Minimum_Wage_desc: "Стаття 177 Трудового кодексу передбачає періодичне встановлення мінімальної заробітної плати для приватного сектору. Буде сформовано Національну раду з питань заробітної плати, до складу якої увійдуть представники уряду, роботодавців та працівників, яка рекомендуватиме відсотки коригування, що відповідатимуть зростанню прожиткового мінімуму."
+ COS_Introduce_Minimum_Wage: "Запровадження мінімальної заробітної плати"
+ COS_Introduce_Minimum_Wage_desc: "Стаття 177 Трудового кодексу передбачає періодичне встановлення мінімальної заробітної плати для приватного сектору. Буде сформовано Національну раду з питань заробітної плати, до складу якої увійдуть представники уряду, роботодавців та працівників, яка рекомендуватиме відсотки коригування, що відповідатимуть зростанню прожиткового мінімуму."
  COS_Law_of_Parasites: "Закон про паразитів"
  COS_Law_of_Parasites_desc: "Для боротьби з бідністю та подолання майнового розриву новий закон дозволить безземельним громадянам придбати невелику ділянку землі з обіцянкою використовувати її для вирощування сільськогосподарських культур. Ця програма вже отримала підтримку з боку Народного авангарду, і її популярність швидко поширюється серед нижчих класів."
- COS_Diversify_the_Economy: "Робота з бюджетом"
- COS_Diversify_the_Economy_desc: "Незважаючи на те, що ми досягли значного прогресу в розвитку нашої соціальної системи, економіка зазнала сильного удару і стогне під вагою цих нових витрат. Щоб пом'якшити удар, ми повинні скоротити фінансування тут і там і заохотити підприємців відійти від традиційного сільськогосподарського ринку."
+ COS_Handling_the_Budget: "Робота з бюджетом"
+ COS_Handling_the_Budget_desc: "Незважаючи на те, що ми досягли значного прогресу в розвитку нашої соціальної системи, економіка зазнала сильного удару і стогне під вагою цих нових витрат. Щоб пом'якшити удар, ми повинні скоротити фінансування тут і там і заохотити підприємців відійти від традиційного сільськогосподарського ринку."
  COS_University_of_Costa_Rica: "Університет Коста-Рики"
  COS_University_of_Costa_Rica_desc: "Заснований як Університет Санто-Томаса у 1843 році, католицький заклад був змушений закритись у 1888 році за часів прогресивного антиклерикального уряду президента Бернардо Сото Альфаро в рамках кампанії з модернізації державної освіти. Школи права, агрономії, образотворчого мистецтва та фармації, однак, продовжували працювати незалежно, об'єднавшись в Університет Коста-Рики."
  COS_Rural_Credits: "Сільські кредити"
  COS_Rural_Credits_desc: "Щоб допомогти робітникам зібрати необхідні кошти для своїх підприємств, особливо фермерів, уряд створив своєрідний кредитний банк, який надаватиме позики під низькі відсотки костариканцям для швидкого підйому економіки."
- COS_Socialism_Done_Right: "Соціалізм в одній країні"
- COS_Socialism_Done_Right_desc: "У міру того, як перші реформи ставали надбанням громадськості, популярність цих реформ (головним чином, Трудового кодексу та CCSS) стрімко зростала, що викликало у костариканців почуття гордості за те, що вони є більш розвиненими та прогресивними, ніж їхні відсталі сусіди."
+ COS_Socialism_in_One_Nation: "Соціалізм в одній країні"
+ COS_Socialism_in_One_Nation_desc: "У міру того, як перші реформи ставали надбанням громадськості, популярність цих реформ (головним чином, Трудового кодексу та CCSS) стрімко зростала, що викликало у костариканців почуття гордості за те, що вони є більш розвиненими та прогресивними, ніж їхні відсталі сусіди."
 
- COS_Legion_del_Caribe: "Каудильйо Феррер"
- COS_Legion_del_Caribe_desc: "Громадянська війна закінчилася, а диктатора скинуто. У той час як наш Каудильйо Феррер зі своєю "Хунтою Фундатора" бере контроль над країною, плани щодо кращої та прогресивнішої Коста-Рики наближаються до реалізації. Будьте певні, Коста-Рика вже ніколи не буде такою, як раніше."
+ COS_Ferrer_takes_Control: "Каудильйо Феррер"
+ COS_Ferrer_takes_Control_desc: "Громадянська війна закінчилася, а диктатора скинуто. У той час як наш Каудильйо Феррер зі своєю "Хунтою Фундатора" бере контроль над країною, плани щодо кращої та прогресивнішої Коста-Рики наближаються до реалізації. Будьте певні, Коста-Рика вже ніколи не буде такою, як раніше."
  COS_Nationalise_Banks: "Націоналізація банків"
  COS_Nationalise_Banks_desc: "Щоб подолати нищівну бідність і знедоленість сільського населення, Дон Пепе розробив план, за яким державний сектор фінансувався б за рахунок прибутків державних підприємств, а приватний сектор - за рахунок державних банків. Будуть створені державні капіталістичні підприємства, прибутки яких повертатимуться до державної скарбниці для фінансування інфраструктурних проектів."
  COS_Women_Suffrage: "Виборчі права жінок"
@@ -472,51 +493,58 @@
 
  COS_Increase_Military_Expenditure: "Збільшення військових витрат"
  COS_Increase_Military_Expenditure_desc: "Костариканська "армія", що складається загалом з 300 солдатів, які скоріше вийдуть на пенсію, ніж підуть на поле бою, далеко не готова до будь-якого військового протистояння і гостро потребує державної підтримки для утримання навіть найменшого гарнізону."
- COS_German_Doctrine: "Дотримування німецької доктрини"
- COS_German_Doctrine_desc: "Натхненний військовою доблестю наших дорогих друзів за океаном, наш начальник штабу запропонував відправити аташе до Німецької Імперії для вивчення укріплень лінії Людендорфа та спостереження за навчаннями на французькому кордоні."
+ COS_Follow_the_German_Doctrine: "Дотримування німецької доктрини"
+ COS_Follow_the_German_Doctrine_desc: "Натхненний військовою доблестю наших дорогих друзів за океаном, наш начальник штабу запропонував відправити аташе до Німецької Імперії для вивчення укріплень лінії Людендорфа та спостереження за навчаннями на французькому кордоні."
  COS_Artillery_Upgrades: "Модернізація артилерії"
  COS_Artillery_Upgrades_desc: "Оскільки більшість наших артилерійських знарядь датуються 19 століттям, багато хто вважає, що настав час для їх оновлення. На нашу поштову скриньку вже надійшли численні пропозиції від виробників артилерії з усього світу, причому наші співробітники віддають перевагу американським моделям."
- COS_American_Doctrine: "Дотримання американської доктрини"
- COS_American_Doctrine_desc: "Хоча США не брали участі в жодному сучасному конфлікті з часів американо-іспанської війни, тісна співпраця між американськими та нашими військами під час інтервенцій у Центральній Америці залишила підґрунтя для більш концентрованої співпраці, готової до використання."
+ COS_Follow_the_American_Doctrine: "Дотримання американської доктрини"
+ COS_Follow_the_American_Doctrine_desc: "Хоча США не брали участі в жодному сучасному конфлікті з часів американо-іспанської війни, тісна співпраця між американськими та нашими військами під час інтервенцій у Центральній Америці залишила підґрунтя для більш концентрованої співпраці, готової до використання."
  COS_Modern_Rifles: "Сучасні гвинтівки"
  COS_Modern_Rifles_desc: "Глибоко вражений останніми моделями Маузерів, наш президент особисто розпорядився, щоб армія була оснащена їхньою останньою розробкою. Хоча опозиційні партії заперечували, що не бачать у цьому жодної користі, окрім парадів, президент не бажає змінювати свою думку і наказав Міністерству оборони подати замовлення на німецьку компанію."
  COS_Domestic_Weapons_Manufacturing: "Вітчизняне виробництво зброї"
  COS_Domestic_Weapons_Manufacturing_desc: "До цього часу вітчизняне виробництво зброї в нашій країні практично не існувало, окрім кустарного виробництва мисливських рушниць. Однак, оскільки напруженість продовжує зростати, а зброї з кожним днем стає все менше, Міністерство оборони звернулося до нас з проханням виділити грант на пошук потенційного місця для розміщення власного виробництва."
- COS_Officer_Academy: "Кошти на Академію офіцерів"
- COS_Officer_Academy_desc: "Побудована у 1917 році за часів диктатури Тічино, фортеця Беллавіста в Сан-Хосе слугувала головним військовим центром нашої країни. Однак, через гострий брак фінансування вал заповнився запиленими гарматами, а в класах навчального центру не вистачає стільців і розбита класна дошка."
+ COS_Funds_for_the_Officer_Academy: "Кошти на Академію офіцерів"
+ COS_Funds_for_the_Officer_Academy_desc: "Побудована у 1917 році за часів диктатури Тічино, фортеця Беллавіста в Сан-Хосе слугувала головним військовим центром нашої країни. Однак, через гострий брак фінансування вал заповнився запиленими гарматами, а в класах навчального центру не вистачає стільців і розбита класна дошка."
  COS_Fortify_the_Panama_Border: "Укріплення панамського кордону"
  COS_Fortify_the_Panama_Border_desc: "Нещодавні навчання панамської армії поблизу спірного регіону Кото змусили наші війська побоюватися можливого вторгнення їхніх сил, якщо наші союзники відволікатимуться на інші конфлікти. Натхненна сучасними європейськими укріпрайонами, армія запропонувала побудувати "бюджетну" версію, щоб зупинити атаку на півдорозі, якщо конфлікт прийде до нашої країни."
  COS_Costa_Rican_Patriotism: "Костариканський патріотизм"
  COS_Costa_Rican_Patriotism_desc: "Хоча військові традиції нашої нації, м'яко кажучи, жалюгідні, патріотизм все ще панує у свідомості наших громадян. Пишаючись своєю демократичною спадщиною і не бажаючи схилятися перед іноземними диктаторами, люди можуть бути згуртовані для вступу до збройних сил за допомогою пропагандистської кампанії, зосередженої на захисті батьківщини, якщо виникне така потреба."
  COS_Expand_the_Coast_Guard: "Розширення берегової охорони"
  COS_Expand_the_Coast_Guard_desc: "За винятком кількох невеликих моторних човнів, нашому військово-морському флоту немає чим пишатися, але, незважаючи на те, що він крихітний, він виконує свою роботу. Однак нещодавнє виявлення контрабанди поблизу нікарагуанського кордону змусило уряд розглянути питання про придбання додаткових суден для охорони наших вод."
- COS_Guard_the_Freightors: "Охорона фрахтувальників"
- COS_Guard_the_Freightors_desc: "Оскільки вантажні судна слугують основним зв'язком між економікою наших країн та світовою торгівлею, їх захист є одним з наших головних пріоритетів. Ми ж не хочемо, щоб французький підводний човен підірвав судно в Пуерто-Лімоні, чи не так?"
+ COS_Guard_the_Freighters: "Охорона фрахтувальників"
+ COS_Guard_the_Freighters_desc: "Оскільки вантажні судна слугують основним зв'язком між економікою наших країн та світовою торгівлею, їх захист є одним з наших головних пріоритетів. Ми ж не хочемо, щоб французький підводний човен підірвав судно в Пуерто-Лімоні, чи не так?"
  COS_Purchase_German_Destroyers: "Придбання німецьких есмінців"
  COS_Purchase_German_Destroyers_desc: "Згідно з умовами нашого військового пакту, німці вимагали, щоб ми утримували невеликий флот для захисту їхніх інтересів у Центральній Америці. Пропонуючи продати нам кілька своїх старих есмінців, німці заклали основу для створення справжнього військово-морського флоту."
- COS_Naval_Attachee_to_Germany: "Аташе в Німеччині"
- COS_Naval_Attachee_to_Germany_desc: "Тепер у нас є військово-морський флот для патрулювання наших вод, але через повну відсутність підготовки нові кораблі регулярно розбиваються об свої доки, а нещодавня ситуація на одному з кораблів ледь не призвела до вибуху його двигуна через недосвідченість екіпажу. Відправляючи наших новобранців-офіцерів до Німеччини, щоб вони служили спостерігачами в Кайзерліхмарине, ми сподіваємось уникнути подальших катастроф."
+ COS_Naval_Attache_to_Germany: "Аташе в Німеччині"
+ COS_Naval_Attache_to_Germany_desc: "Тепер у нас є військово-морський флот для патрулювання наших вод, але через повну відсутність підготовки нові кораблі регулярно розбиваються об свої доки, а нещодавня ситуація на одному з кораблів ледь не призвела до вибуху його двигуна через недосвідченість екіпажу. Відправляючи наших новобранців-офіцерів до Німеччини, щоб вони служили спостерігачами в Кайзерліхмарине, ми сподіваємось уникнути подальших катастроф."
  COS_Found_National_Shipyard: "Національна суднобудівна верф"
  COS_Found_National_Shipyard_desc: "Незважаючи на те, що наша країна повністю залежить від морської торгівлі, вітчизняне виробництво морських суден ніколи не могло конкурувати з набагато ефективнішими та дешевшими іноземними суднами. Щоб змінити цю ситуацію, уряд ухвалив рішення про заснування власної костариканської верфі, яка якнайшвидше розпочне виробництво риболовецьких траулерів та малих вантажних суден."
  COS_Test_New_Designs: "Тестування нових розробок"
  COS_Test_New_Designs_desc: "Хоча наші доки крихітні порівняно з доками більш розвинених країн світу, деякі наші інженери запропонували дешеву, але економічно ефективну модель есмінця. Чи мають їхні проекти, які здаються дивним чином схожими на американські, якесь відношення до викрадення американських планів минулого місяця, поки що незрозуміло, але вони запевнили нас, що це лише збіг обставин."
  COS_Costa_Rica_in_the_Air: "ВПС Коста-Рики"
  COS_Costa_Rica_in_the_Air_desc: "Незважаючи на те, що зараз ми можемо похвалитися міжнародним аеропортом у нашій столиці, розвиток повітряного транспорту в Коста-Риці значно відстає від часу, а плани щодо створення винищувальних сил поки що залишаються лише в уяві наших найбільших мрійників."
- COS_Train_Pilots: "Програма навчання пілотів"
- COS_Train_Pilots_desc: "Оскільки аматорська авіація починає нарешті набирати обертів, місцевий аероклуб Сан-Хосе подав петицію з проханням про державне фінансування їхнього проекту в обмін на допомогу в реалізації наших планів з підготовки національних військово-повітряних сил."
+ COS_Pilot_Training_Programme: "Програма навчання пілотів"
+ COS_Pilot_Training_Programme_desc: "Оскільки аматорська авіація починає нарешті набирати обертів, місцевий аероклуб Сан-Хосе подав петицію з проханням про державне фінансування їхнього проекту в обмін на допомогу в реалізації наших планів з підготовки національних військово-повітряних сил."
  COS_Domestic_Designs: "Вітчизняні проєкти"
  COS_Domestic_Designs_desc: "Мрії про вражаючі військово-повітряні сили захопили Коста-Рику, оскільки інженери з усіх куточків нашої країни подають проекти та ідеї до Центрального бюро у відповідь на урядову програму зі створення власного винищувача. Хоча якість цих проектів ще не визначена, ми вражені ентузіазмом наших громадян."
- COS_Expand_Production: "Розширення виробництва літаків"
- COS_Expand_Production_desc: "Спостерігаючи за нашими зусиллями з певною часткою насмішки, американська компанія запропонувала нам допомогу в розробці нашого винищувача і внесла деякі радикальні зміни в нашу конструкцію, які, як ми сподівалися, повинні були уникнути його падіння при приземленні. Звісно, цього не сталося..."
+ COS_Expand_Aircraft_Production: "Розширення виробництва літаків"
+ COS_Expand_Aircraft_Production_desc: "Спостерігаючи за нашими зусиллями з певною часткою насмішки, американська компанія запропонувала нам допомогу в розробці нашого винищувача і внесла деякі радикальні зміни в нашу конструкцію, які, як ми сподівалися, повинні були уникнути його падіння при приземленні. Звісно, цього не сталося..."
  COS_Purchase_American_Fighthers: "Придбання американських винищувачів"
  COS_Purchase_American_Fighthers_desc: "Здивований нашим браком військово-повітряних сил, американський уряд запропонував продаж винищувачів Boeing P-26 для охорони нашого неба і стримування вторгнень з боку наших сусідів."
  COS_Aircraft_Contracts: "Американські збройові контракти"
  COS_Aircraft_Contracts_desc: "Через систему ленд-лізу і заради захисту Америки, США надіслали нам необхідне озброєння, щоб забезпечити наші війська і не допустити, щоб ми виявилися непідготовленими, якщо війна прийде на наші береги. Не лише через продаж, але й через місцеве партнерство, американці сподіваються продовжувати будувати наші добрі стосунки і водночас створити лояльну базу операцій поблизу Каналу."
 
+### Bookmark ###
+ COS_KR_gathering_storm_desc: "Class warfare, rapid militarisation and the Iron Grip of the Kaiser hold the world in its grasp, which makes it even more peculiar that in the midst of all this violence and pain we can find the tiny republic of Costa Rica. Taking great pride in their impressive literacy statistics and their unbreakable dedication to the Constitution, the nation stands as a rock above its neighbours who have long been eyeing its land. As their greatest ally starts to descend into chaos, vultures all across the Americas are waiting for the proud eagle to fall. Diplomacy will have to prevail if we are to survive the coming tide..."
+
 ### Intro Screen ###
+ COS_country_intro_background: "GFX_COS_intro"
  COS_country_intro_header: "Коста-Рика: Центральноамериканська історія успіху"
  COS_country_intro_content: "Захована глибоко в джунглях Центральної Америки, наша маленька, але горда нація процвітала протягом багатьох десятиліть, маючи рівень грамотності вищий, ніж у деяких європейських країнах, і повільно, але стабільно зростаючу економіку, засновану на торгівлі бананами і, особливо, кавою.\n\nЗавдяки суворому дотриманню всіма партіями конституції, в країні не було жодного військового втручання чи політичного перевороту з часів невдалої диктатури Тічино в 1917 році, яка була повалена всього через кілька місяців під тиском народу, що відмовився терпіти диктатора в своїй республіці. Відтоді країна перебуває під контролем різноманітної, хоча й егалітарної касти політиків, які користуються плодами зростаючої німецької економіки та тісними зв'язками між нашими двома народами.\n\nПід крилом НРП президент Рікардо Хімінес може озирнутися на успішний термін, під час якого він впорався як з економічною депресією, спричиненою американською рецесією, так і зі зростаючими голосами соціалістичних рухів, які, натхненні Атлантичним робітничим конгресом, нарешті прокинулися від сну і зажадали кращого представництва. Хоча вони дещо досягли своїх цілей і змусили уряд розробити проект трудової угоди, закон ще далекий від ухвалення, і під висхідною зіркою Мануеля Мора Вальверде проблеми між компаніями та робітниками ще далекі від завершення.\n\nТим не менш, нація процвітає, оскільки плоди наших відносин з Mitteleuropa приносять плоди у вигляді програм культурного обміну, наукової допомоги та міцного зв'язку між університетами, такими як KU Leuven у Фландрії-Валлонії, та вищим класом Коста-Рики."
- cos.1.a: "Ще один сонячний день у Коста-Риці."
+
+ COS_guide: "§MConservative victory§! (§cSocial Conservative§!)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Do not complete the focus §YAdapt the constitution§!.\n£white_dot After winning the 1940 elections, Calderón will take over and go down the §MSocialist victory§! path.\n£white_dot Accept the offer to restore stability and held emergency elections, that will be won by Ricardo Jimenez of the §cPRN§!.\n\n§MSocialist victory§! (§SSocial Democrat§!)\n£white_dot Nominating Calderón in the republican nomination or the §cPRN§! winning the 1940 elections, will see him announcing sweeping reforms and leading a socialist government.\n£white_dot After around 2 years, Calderón will demand emergency powers.\n£white_dot Around less than a year later, an offer to restore stability will appear, reject the offer to continue the socialist government.\n£white_dot In the next elections have Picado take control.\n\n§MFerrer Takes Control§! (§SSocial Democrat§!)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Complete the focus §YAdapt the constitution§! and win the 1940 elections.\n£white_dot When Ferrer goes on the air, have him put on the first boat to Mexico, this will lead to him escaping and launching a coup.\n£white_dot Or, have Calderón announce his second term in the elections and Ferrer will go on the air and coup him regardless of your choices.\n£white_dot Or, follow the steps to make the army depose Mora, have the council retain control and Ferrer will go on the air and coup them regardless of your choices.\n\n§MSyndicalist victory§! (§rSyndicalist§!) §CNote: If Central America or Nicaragua is syndicalist, they will annex Costa Rica. Otherwise, Costa Rica will return to a conservative regime.§!\n£white_dot Follow the same steps as the §MSocialist victory§! path, but choose to accept the offer to restore stability and have Mora proclaim the Workers Republic.\n£white_dot If Central America or Nicaragua is syndicalist, they will offer to annex the country (making you switch to them), rejecting will make the army depose Mora shortly after.\n\n§MForeign Policy§!\n§MReichspakt§!\n£white_dot Ask for German protection after the Second American Civil War breaks out. Giving us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot If Canada invades Panama, choose to remain neutral.\n§MEntente§!\n£white_dot Ask for Canadian protection after the Second American Civil War breaks out, set the game rule §YEntente§! in §YCosta Rican Foreign Policy§! to guarantee Canada accepts. This will give us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot Or, if Canada invades Panama, send an offer to them, joining their war against Panama and their faction.\n§MDemocratic Alliance of the Caribbean§!\n£white_dot Follow the steps in the §MFerrer Takes Control§! path.\n£white_dot Complete the decision £decision_icon_small §YForm $democratic_alliance_of_the_caribbean$§! to gain access to decision to invite all democratic Central American, Caribbean and northern South American nations into our faction.\n§CNote: Central America will also have the option to create this faction if they are democratic, but will wait until June of 1940 to do this if Costa Rica is player controlled.§!"
+
+ COS_guide_1: "$CEN_pre_guide$"
 
 ### Events ###
  cos.2.t: "Висунення республіканського кандидата"
@@ -549,8 +577,9 @@
  cos.7.a: "Запропонувати їм допомогу!"
  cos.7.b: "У нас є важливіші справи."
 
- cos.8.t: "Прибуває американська підтримка"
- cos.8.d: "Важкі переговори з американською делегацією нарешті окупилися, коли було досягнуто домовленості між [COS.GetLeader] та американським урядом. Хоча ми будемо змушені піти на подальші поступки американському ЮФК, вони погодилися взяти на себе частину удару і надали нам кредит, завдяки якому ми зможемо пережити кризу."
+ cos.8.t: "Прибуває [FROM.GetAdjective]а підтримка"
+ cos.8.d_start: "Важкі переговори з [FROM.GetAdjective]ою делегацією нарешті окупилися, коли було досягнуто домовленості між [COS.GetLeader] та американським урядом. Хоча ми будемо змушені піти на подальші поступки американському ЮФК, вони погодилися взяти на себе частину удару і надали нам кредит, завдяки якому ми зможемо пережити кризу."
+ cos.8.d: "$cos.8.d_start$ Whilst we will be obligated to make further concessions to the American UFC, they have accepted to take part of the hit and have granted us a loan with which we can survive the crisis."
  cos.8.a: "Боже, благослови США."
 
  cos.9.t: "Америка відмовляє в допомозі"
@@ -558,19 +587,11 @@
  cos.9.a: "З'єднайте мене з німцями на першій лінії!"
  cos.9.b: "Ми дійсно самотні у світі."
 
- cos.10.t: "[COS.GetName] звертається до нас за допомогою"
- cos.10.d: "Катастрофа спіткала тиху маленьку країну [COS.GetName], коли ZKG (Zentralamerikanische Kaffee-Gesellschaft) зазнала сильного краху на Берлінській фондовій біржі всього за кілька тижнів до цього, затягнувши країну в яму, з якої вона не зможе вибратися самотужки. Щоб врятувати її від повного краху, ця маленька країна звернулася до нас з проханням про позику для порятунку ZKG."
- cos.10.a: "Запропонувати їм допомогу!"
- cos.10.b: "У нас є важливіші справи."
-
- cos.11.t: "Прибуває німецька підтримка"
- cos.11.d: "Важкі переговори з німецькою делегацією нарешті окупилися, коли було досягнуто домовленості між [COS.GetLeader] та німецьким урядом. Хоча ми будемо зобов'язані піти на подальші поступки ZKG, щоб виплатити наші борги, вони погодилися взяти на себе частину удару і надали нам кредит, з яким ми зможемо пережити кризу."
+ cos.11.d: "$cos.8.d_start$ Whilst we will be obligated to make further concessions to the ZKG to pay off our debts, they have accepted to take part of the hit and have granted us a loan with which we can survive the crisis."
  cos.11.a: "Deutschland über alles!"
 
- cos.12.t: "Німеччина відмовляє в допомозі"
  cos.12.d: "Не дивно, що через свої внутрішні проблеми Німецька імперія відхилила наші прохання про позику для порятунку ZKG і залишила нас без іншої альтернативи, окрім американців."
  cos.12.a: "З'єднайте мене з американцями на першій лінії!"
- cos.12.b: "Ми дійсно самотні у світі."
 
  cos.13.t: "Кавовий сектор відновлюється"
  cos.13.d: "Минуло п'ять років відтоді, як ZKG зазнала краху під тиском зменшення запасів кави. Тоді уряд був не в змозі врятувати їх, що призвело до періоду бідності, а 3 роки тому навіть до межі голоду, але зараз торгівля кавою нарешті відновлюється, і завдяки заходам, запровадженим нашим президентом [COS.GetLeader], повільно, але впевнено економіка знову зростає."
@@ -608,13 +629,11 @@
  cos.20.t: "Коста-Рика просить німецьку зброю"
  cos.20.d: "Зростаюча нестабільність в США і сусідніх режимах в Центральній Америці змусила цю маленьку країну звернутися до нас по допомогу. Нагадуючи нам про міцні зв'язки між нашими народами і значну кількість німецького населення, що проживає на їхній території, вони просять надіслати їм невеликий запас зброї та інших матеріалів для зміцнення їхніх сил і стримування зовнішніх загроз.\n\nХоча це має короткострокові наслідки для наших відносин зі США, ми впевнені, що вони зрозуміють, що ми діємо для більшого блага."
  cos.20.a: "Надіслати зброю."
- cos.20.b: "Ми не хочемо сваритися зі США."
 
  cos.21.t: "Прибуває німецька зброя"
  cos.21.d: "Десятки ящиків з новітніми маузерами, виготовленими на заводі FN Herstal, разом з ящиками швейцарського шоколаду та технікою Круппа, були ввезені до нашої країни на звичайних торгових суднах. Не підозрюючи про наш обман, наші сусіди будуть неприємно вражені, якщо натраплять на нашу армію!"
  cos.21.a: "На них чітко написано "Зроблено в Коста-Риці"."
 
- cos.22.t: "Відсутність військової підтримки з боку Імперії"
  cos.22.d: "Назвавши нашу націю неважливою для глобальної стратегії імперії та марною тратою ресурсів, німецька комісія відмовилася надати зброю для наших військ і попросила нас більше не піднімати це питання."
  cos.22.a: "То йдіть до біса!"
 
@@ -626,7 +645,8 @@
  cos.23.c: "Всі ці розмови про кінець світу - маячня. Коста-Рика чудово впорається сама."
 
  cos.24.t: "Коста-Рика просить нашого захисту"
- cos.24.d: "Налякана громадянською війною в Сполучених Штатах, ця маленька країна зі страхом дивиться на свої східні та північні кордони, очікуючи нападу, коли її захисник воює, і звернулася до нас з проханням відкрито висловити наше бажання зберегти Коста-Рику як суверенну державу. Хоча наші інтереси в сусідній Панамі набагато більші, ми могли б потенційно підтримати їхній режим і створити ще один плацдарм Антанти в Карибському басейні."
+ cos.24.d_start: "Налякана громадянською війною в Сполучених Штатах, ця маленька країна зі страхом дивиться на свої східні та північні кордони, очікуючи нападу, коли її захисник воює, і звернулася до нас з проханням відкрито висловити наше бажання зберегти Коста-Рику як суверенну державу. Хоча наші інтереси в сусідній Панамі набагато більші, ми могли б потенційно підтримати їхній режим і створити ще один плацдарм Антанти в Карибському басейні."
+ cos.24.d: "$cos.24.d_start$ Whilst our interests in their neighbour Panama are far greater, we could potentially support their regime and establish another Entente foothold in the Caribbean."
  cos.24.a: "Запропонувати їм допомогу."
  cos.24.b: "Панама для нас значно важливіша."
 
@@ -639,23 +659,20 @@
  cos.26.a: "Може, нам на допомогу прийде кайзер?"
  cos.26.b: "Копайте, хлопці!"
 
- cos.27.t: "Коста-Рика просить нашого захисту"
  cos.27.d: "Налякана громадянською війною в Сполучених Штатах, маленька країна зі страхом дивиться на свої східні та північні кордони, очікуючи нападу тепер, коли її захисник воює, і просить нас відкрито висловити наше бажання зберегти Коста-Рику як суверенну державу. У той час, як сили Антанти зазіхають на Панамський канал, прагнучи відібрати його у США, що зазнають поразки, а соціалістичні сили на півночі з нетерпінням дивляться на погано захищену коста-риканську націю, в наших інтересах закріпитися на американському континенті і пильно стежити за регіоном на випадок подальшого загострення ситуації."
- cos.27.a: "Запропонувати їм допомогу."
  cos.27.b: "Ми і так вже перенапружені!"
 
- cos.28.t: "Німеччина надає нам підтримку"
  cos.28.d: "Не бажаючи бачити, як ще одна країна в регіоні занурюється в нестабільність, німецький уряд погодився гарантувати нашу незалежність доти, доки ми залишатимемося в дружніх відносинах з їхнім альянсом і служитимемо плацдармом для їхніх амбіцій в регіоні."
  cos.28.a: "Все має свою ціну..."
 
- cos.29.t: "Німеччина не надсилає подальшої підтримки"
  cos.29.d: "Посилаючись на масове перенапруження та проблеми в колоніях, Німецька Імперія, на жаль, відхилила наше прохання. Хоча вони засмучені тим, що не можуть допомогти більше, вони сподіваються, що ми переживемо прийдешню хвилю, і були б раді, якби торговельні зв'язки між нашими двома народами продовжувалися у звичному режимі."
  cos.29.a: "Може, канадці прийдуть нам на допомогу?"
  cos.29.b: "Бізнес важливіший за друзів..."
 
 ### COTO Events ###
  cos.30.t: "Криза навколо Кото"
- cos.30.d: "З моменту здобуття Панамою незалежності від Іспанії вони претендують на Кото, регіон у панамській провінції Чірікі вздовж панамсько-коста-риканського кордону. У 1911 році голову Верховного суду США Едварда Д. Вайта попросили провести арбітраж. Він виніс своє рішення в 1914 році, але Панама не визнала його, стверджуючи, що воно було на користь Коста-Рики. Військові дії спалахнули в 1921 році, коли Коста-Ріка вторглася в цю територію. Панама легко відвоювала цю територію. Однак конфлікт поширився, коли Коста-Ріка переїхала до провінції Бокас-дель-Торо. Побоюючись, що її інтереси можуть опинитися під загрозою, Сполучені Штати змусили Панаму прийняти рішення Білої Америки.\n\nОскільки наші американські союзники впали в анархію, панамський уряд відновив суперечку і вимагає, щоб ми передали територію або зустрілися з їхньою армією на полі бою. Хоча наші війська останнім часом збільшилися в розмірах, ми все ще повністю перевершуємо наших панамських сусідів і потребуємо іноземної допомоги, щоб здобути перемогу.\n\nНаші союзники, однак, не прагнуть вести ще одну безглузду війну і віддають перевагу більш дипломатичному розв'язанню кризи, підтверджуючи рішення Фалло Вайта і змушуючи Панаму відступити раз і назавжди."
+ cos.30.d_start: "З моменту здобуття Панамою незалежності від Іспанії вони претендують на Кото, регіон у панамській провінції Чірікі вздовж панамсько-коста-риканського кордону. У 1911 році голову Верховного суду США Едварда Д. Вайта попросили провести арбітраж. Він виніс своє рішення в 1914 році, але Панама не визнала його, стверджуючи, що воно було на користь Коста-Рики. Військові дії спалахнули в 1921 році, коли Коста-Ріка вторглася в цю територію. Панама легко відвоювала цю територію. Однак конфлікт поширився, коли Коста-Ріка переїхала до провінції Бокас-дель-Торо. Побоюючись, що її інтереси можуть опинитися під загрозою, Сполучені Штати змусили Панаму прийняти рішення Білої Америки.\n\nОскільки наші американські союзники впали в анархію, панамський уряд відновив суперечку і вимагає, щоб ми передали територію або зустрілися з їхньою армією на полі бою. Хоча наші війська останнім часом збільшилися в розмірах, ми все ще повністю перевершуємо наших панамських сусідів і потребуємо іноземної допомоги, щоб здобути перемогу.\n\nНаші союзники, однак, не прагнуть вести ще одну безглузду війну і віддають перевагу більш дипломатичному розв'язанню кризи, підтверджуючи рішення Фалло Вайта і змушуючи Панаму відступити раз і назавжди."
+ cos.30.d: "$cos.30.d_start$As our American allies have now fallen into anarchy, the Panamanian government has reopened the dispute and is demanding that we hand over the territory or face their army on the battlefield. Whilst our troops have recently grown in size, we are still completely outmatched by our Panamanian neighbours and will need foreign assistance if we are to become victorious.\n\nOur allies however are less eager to fight yet another pointless war and would prefer a more diplomatic solution to the crisis by re-enforcing the Fallo White ruling and forcing Panama to back down once and for all."
  cos.30.a: "Звернутися за посередництвом до Канади."
  cos.30.b: "Звернутися за посередництвом до Німеччини."
  cos.30.c: "Нам доведеться протистояти їм самотужки!"
@@ -664,22 +681,21 @@
  cos.301.d: "Мало того, що їхня армія жалюгідна, а народ самовдоволений, всі колишні союзники Коста-Рики відступили, надавши нам повне право вторгнутися в країну і відвоювати Кото!"
  cos.301.a: "Сьогодні, ми вечеряємо в Сан-Хосе!"
 
- cos.31.t: "Криза навколо Кото"
- cos.31.d: "З моменту здобуття Панамою незалежності від Іспанії вони претендують на Кото, регіон у панамській провінції Чірікі вздовж панамсько-костариканського кордону. У 1911 році голову Верховного суду США Едварда Д. Вайта попросили провести арбітраж. Він виніс своє рішення в 1914 році, але Панама не визнала його, стверджуючи, що воно було на користь Коста-Рики. Військові дії спалахнули в 1921 році, коли Коста-Рика вторглася в цю територію. Панама легко відвоювала цю територію. Однак конфлікт поширився, коли Коста-Рика переїхала до провінції Бокас-дель-Торо. Побоюючись, що її інтереси можуть опинитися під загрозою, Сполучені Штати змусили Панаму прийняти рішення Білої Америки.\n\nДобре розуміючи, що американці не в змозі врятувати Коста-Рику в черговий раз, уряд Панами надіслав Сан-Хосе черговий ультиматум з вимогою видати регіон Кото. Хоча у нас немає причин втручатися в їхні дрібні суперечки, мирне врегулювання кризи підтвердить наш статус чудових переговірників і може змусити регіон Центральної Америки знову підкоритися."
+ cos.31.d: "$cos.30.d_start$Well aware that the Americans are in no position to save Costa Rica once more, the Panama government has sent another ultimatum to San Jose demanding the extradition of the Coto region. Even though we have little reason to mingle in their small disputes, finding a peaceful resolution to the crisis will reaffirm our status as excellent negotiators and could force the Central American region back into submission."
  cos.31.a: "Запропонувати сісти за стіл переговорів з Панамою."
  cos.31.b: "Винести попередження Панамі."
 
- cos.32.t: "Канада пропонує посередництво"
- cos.32.d: "Після прохання Коста-Рики виступити посередником у кризі, канадський уряд запланував саміт, щоб обговорити можливі мирні шляхи врегулювання конфлікту та запобігти війні. На переговорах з боку Коста-Рики вони готові змусити її виплатити нам компенсацію за територію, але рішуче налаштовані дотримуватися постанови Фалло Вайта і зберегти територіальну цілісність Коста-Рики недоторканою."
+ cos.32.t: "[FROM.GetNameDefCap] пропонує посередництво"
+ cos.32.d: "Після прохання Коста-Рики виступити посередником у кризі, [FROM.GetAdjective]ий уряд запланував саміт, щоб обговорити можливі мирні шляхи врегулювання конфлікту та запобігти війні. На переговорах з боку Коста-Рики вони готові змусити її виплатити нам компенсацію за територію, але рішуче налаштовані дотримуватися постанови Фалло Вайта і зберегти територіальну цілісність Коста-Рики недоторканою."
  cos.32.a: "Ми приймемо рішення Фалло Вайта."
  cos.32.b: "Вимагати грошової компенсації за територію."
  cos.32.c: "Ми не будемо вести переговори, настав час війни!"
 
  cos.33.t: "Панама визнала рішення Фалло Вайта"
  cos.33.d: "Не бажаючи загострювати ситуацію і боячись нашої військової сили, уряд Панами погодився припинити суперечку і виконати рішення Фалло Вайта. Дипломати обох країн зібралися в Давіді, щоб закінчити офіційні документи, і після завершення формальностей ситуація нарешті буде вирішена назавжди. Коста-Рика збереже регіон Кото, а Панама відмовиться від усіх претензій на цю територію."
+ cos.33.d_ending: "Diplomats from both nations have gathered in David to finish the official documents and after the formalities are over, the situation will finally be resolved for good. Costa Rica will retain the Coto region and Panama will give up all claims on the territory."
  cos.33.a: "Ще одна добре виконана робота."
 
- cos.34.t: "Панама визнала рішення Фалло Вайта"
  cos.34.d: "Не бажаючи загострювати ситуацію і побоюючись канадської військової потужності, уряд Панами погодився припинити суперечку і виконати рішення Фалло Вайта. Дипломати обох країн зібралися в Давіді, щоб завершити підготовку офіційних документів, і після завершення формальностей ситуація нарешті буде вирішена назавжди. Коста-Рика збереже регіон Кото, а Панама відмовиться від усіх претензій на цю територію."
  cos.34.a: "Черговий успіх дипломатії!"
 
@@ -688,7 +704,6 @@
  cos.35.a: "Запропонувати пропозицію Коста-Риці."
  cos.35.b: "Ми не ведемо переговори з негідниками."
 
- cos.36.t: "Панама вимагає грошової компенсації"
  cos.36.d: "Ведучи переговори від нашого імені, канадська делегація отримала від панамського уряду умови, згідно з якими Панама відмовиться від своїх претензій у регіонах, якщо їм буде компенсовано втрату прибутків. Хоча легітимність цієї заяви в кращому випадку є хиткою, в наших інтересах, можливо, проковтнути її і таким чином запобігти війні."
  cos.36.a: "Погодитися на угоду."
  cos.36.b: "Ми не ведемо переговори з негідниками."
@@ -697,16 +712,16 @@
  cos.37.d: "Хоча уряд Сан-Хосе не був переконаний у правильності претензій панамської делегації, він вирішив прийняти пропозицію задля збереження миру в регіоні. Протягом 1 року Коста-Рика виплачуватиме панамцям 5% від своїх податкових надходжень, щоб компенсувати їм збитки, а Панама назавжди відмовиться від усіх своїх претензій у регіоні."
  cos.37.a: "Ми дійсно робимо найкращі пропозиції."
 
- cos.38.t: "Коста-Рика приймає рішення"
  cos.38.d: "Хоча уряд Сан-Хосе не був переконаний у вимогах нашої делегації, вони вирішили прийняти пропозицію задля збереження миру в регіоні. Протягом 1 року Коста-Рика виплачуватиме 5% своїх податкових надходжень панамцям, щоб компенсувати їм збитки, а в обмін на це ми назавжди відмовимося від усіх наших претензій в регіоні."
- cos.38.a: "Ми дійсно робимо найкращі пропозиції."
 
- cos.39.t: "Канада тисне на Панаму"
- cos.39.d: "Після слабкої спроби Панами піти на компроміс, Королівський військово-морський флот відправив один зі своїх крейсерів, щоб змусити Панаму здатися. Хоча це може призвести до швидкого завершення кризи, Канада грає з вогнем, і подальша ескалація з боку Панами може статися будь-якої миті."
+ cos.39.t: "[FROM.GetNameDefCap] тисне на Панаму"
+ cos.39.d: "Після слабкої спроби Панами піти на компроміс, Королівський військово-морський флот відправив один зі своїх крейсерів, щоб змусити Панаму здатися. Хоча це може призвести до швидкого завершення кризи, [FROM.GetNameDefCap] грає з вогнем, і подальша ескалація з боку Панами може статися будь-якої миті."
  cos.39.a: "Вони граються з вогнем."
 
- cos.40.t: "Канада відмовляється від подальшої співпраці"
- cos.40.d: "Хоча в минулому канадська делегація заявляла, що компенсація за регіон Кото могла бути присуджена, сьогодні вона зробила повний розворот і заперечує, що така пропозиція коли-небудь існувала. Повторюючи, що Панамі доведеться виконати рішення у справі Фалло Вайта, самовпевнені британці вважають, що криза вже майже закінчилася."
+ cos.40.t: "[FROM.GetNameDefCap] відмовляється від подальшої співпраці"
+ cos.40.d_start: "Хоча в минулому [FROM.GetAdjective]а делегація заявляла, що компенсація за регіон Кото могла бути присуджена, сьогодні вона зробила повний розворот і заперечує, що така пропозиція коли-небудь існувала. Повторюючи, що Панамі доведеться виконати рішення у справі Фалло Вайта, самовпевнені британці вважають, що криза вже майже закінчилася."
+ cos.40.can.d: "$cos.40.d_start$ Repeating that Panama will have to adhere to the Fallo White ruling, the cocky Brits believe that the crisis is all but over."
+ cos.40.ger.d: "$cos.40.d_start$ Repeating that Panama will have to adhere to the Fallo White ruling, the cocky Krauts believe that the crisis is all but over."
  cos.40.a: "Тоді ми візьмемо його силою!"
  cos.40.b: "У нас немає іншого вибору, окрім як підкоритися."
 
@@ -714,8 +729,8 @@
  cos.41.d: "Переговори зірвалися, і Панама офіційно оголосила війну Коста-Риці. Оскільки під час переговорів ми стали на бік Коста-Рики, Панама також засудила нас і змусила нас довести свою силу на полі бою, а не в сирому офісі."
  cos.41.a: "Що ж, все пройшло не так добре."
 
- cos.42.t: "Війна за Кото"
- cos.42.d: "Як ми вже побоювалися, зухвала поведінка канадської делегації завела Панаму занадто далеко, і нарешті вибухнула війна. Хоча ми маємо підтримку наших союзників по Антанті, все це можна було б запобігти мирним шляхом..."
+ cos.42.can.d: "Як ми вже побоювалися, зухвала поведінка канадської делегації завела Панаму занадто далеко, і нарешті вибухнула війна. Хоча ми маємо підтримку наших союзників по Антанті, все це можна було б запобігти мирним шляхом..."
+ cos.42.ger.d: "Як ми вже побоювалися, зухвала поведінка канадської делегації завела Панаму занадто далеко, і нарешті вибухнула війна. Хоча ми маємо підтримку наших німецьких союзників, все це можна було б запобігти мирним шляхом..."
  cos.42.a: "Всім зайняти бойові позиції!"
 
  cos.43.t: "Коста-Рика відмовляється платити"
@@ -723,72 +738,9 @@
  cos.43.a: "Будемо сподіватися, що вони не розлютять Панаму."
 
  cos.44.t: "Канада виносить нам попередження!"
- cos.44.d: "На прохання свого союзника Коста-Рики канадський уряд втрутився в кризу від її імені. Вимагаючи від нас дотримуватися рішення Фалло Вайта, канадці розмістили один зі своїх крейсерів поблизу нашого берега, щоб залякати нас і змусити до співпраці."
+ cos.44.d: "На прохання свого союзника Коста-Рики, [FROM.GetAdjective]ий уряд втрутився в кризу від її імені. Вимагаючи від нас дотримуватися рішення Фалло Вайта, канадці розмістили один зі своїх крейсерів поблизу нашого берега, щоб залякати нас і змусити до співпраці."
  cos.44.a: "Прийняти рішення Фалло Вайта."
- cos.44.b: "Ми не боїмося Канади!"
-
- cos.45.t: "Криза навколо Кото"
- cos.45.d: "З моменту здобуття Панамою незалежності від Іспанії вони претендують на Кото, регіон у панамській провінції Чірікі вздовж панамсько-коста-риканського кордону. У 1911 році голову Верховного суду США Едварда Д. Вайта попросили провести арбітраж. Він виніс своє рішення в 1914 році, але Панама не визнала його, стверджуючи, що воно було на користь Коста-Рики. Військові дії спалахнули в 1921 році, коли Коста-Рика вторглася в цю територію. Панама легко відвоювала цю територію. Однак конфлікт поширився, коли Коста-Рика переїхала до провінції Бокас-дель-Торо. Побоюючись, що її інтереси можуть опинитися під загрозою, Сполучені Штати змусили Панаму прийняти рішення Білої Америки.\n\nДобре розуміючи, що американці не в змозі врятувати Коста-Рику в черговий раз, уряд Панами надіслав Сан-Хосе черговий ультиматум з вимогою видати регіон Кото. Хоча у нас немає причин втручатися в їхні дрібні суперечки, мирне врегулювання кризи підтвердить наш статус чудових переговірників і може змусити регіон Центральної Америки знову підкоритися."
- cos.45.a: "Запропонувати сісти за стіл переговорів з Панамою."
- cos.45.b: "Винести попередження Панамі."
-
- cos.46.t: "Німеччина пропонує посередництво"
- cos.46.d: "Після того, як Коста-Рика попросила німецький уряд виступити посередником у кризі, уряд Німеччини запланував саміт, щоб обговорити можливі мирні шляхи врегулювання конфлікту і запобігти війні. На переговорах з боку Коста-Рики вони готові змусити її виплатити нам компенсацію за територію, але вони рішуче налаштовані дотримуватися постанови Фалло Вайта і зберігати територіальну цілісність Коста-Рики недоторканою."
- cos.46.a: "Ми приймемо рішення Фалло Вайта."
- cos.46.b: "Вимагати грошової компенсації за територію."
- cos.46.c: "Ми не будемо вести переговори, настав час війни!"
-
- cos.47.t: "Панама визнала рішення Фалло Вайта"
- cos.47.d: "Не бажаючи загострювати ситуацію і боячись нашої військової сили, уряд Панами погодився припинити суперечку і виконати рішення Фалло Вайта. Дипломати обох країн зібралися в Давіді, щоб закінчити офіційні документи, і після завершення формальностей ситуація нарешті буде вирішена назавжди. Коста-Рика збереже регіон Кото, а Панама відмовиться від усіх претензій на цю територію."
- cos.47.a: "Ще одна добре виконана робота."
-
- cos.48.t: "Панама визнала рішення Фалло Вайта"
- cos.48.d: "Не бажаючи загострювати ситуацію і побоюючись німецької військової могутності, уряд Панами погодився припинити суперечку і виконати рішення Фалло Вайта. Дипломати обох країн зібралися в Давіді, щоб закінчити офіційні документи, і після завершення формальностей ситуація нарешті буде вирішена назавжди. Коста-Рика збереже регіон Кото, а Панама відмовиться від усіх претензій на цю територію."
- cos.48.a: "Черговий успіх дипломатії!"
-
- cos.49.t: "Панама вимагає грошової компенсації"
- cos.49.d: "Стверджуючи, що втрата території дорого коштувала панамській економіці, уряд Панами зажадав від Коста-Рики компенсувати гіпотетичні збитки, перш ніж продовжувати будь-які подальші дискусії."
- cos.49.a: "Запропонувати пропозицію Коста-Риці."
- cos.49.b: "Ми не ведемо переговори з негідниками."
-
- cos.50.t: "Панама вимагає грошової компенсації"
- cos.50.d: "Ведучи переговори від нашого імені, німецька делегація отримала від панамського уряду умови, згідно з якими Панама відмовиться від своїх претензій у регіонах, якщо їм буде компенсована втрата прибутків. Хоча легітимність цієї заяви є в кращому випадку хиткою, в наших інтересах, можливо, проковтнути її і таким чином запобігти війні."
- cos.50.a: "Погодитися на угоду."
- cos.50.b: "Ми не ведемо переговори з негідниками."
-
- cos.51.t: "Коста-Рика приймає рішення"
- cos.51.d: "Хоча уряд Сан-Хосе не був переконаний у правильності претензій панамської делегації, він вирішив прийняти пропозицію задля збереження миру в регіоні. Протягом 1 року Коста-Рика виплачуватиме панамцям 5% від своїх податкових надходжень, щоб компенсувати їм збитки, а Панама назавжди відмовиться від усіх своїх претензій у регіоні."
- cos.51.a: "Ми дійсно робимо найкращі пропозиції."
-
- cos.52.t: "Коста-Рика приймає рішення"
- cos.52.d: "Хоча уряд Сан-Хосе не був переконаний у вимогах нашої делегації, вони вирішили прийняти пропозицію задля збереження миру в регіоні. Протягом 1 року Коста-Рика виплачуватиме 5% своїх податкових надходжень панамцям, щоб компенсувати їм збитки, а в обмін на це ми назавжди відмовимося від усіх наших претензій в регіоні."
- cos.52.a: "Ми дійсно робимо найкращі пропозиції."
-
- cos.53.t: "Німеччина тисне на Панаму"
- cos.53.d: "Після слабкої спроби Панами піти на компроміс, Королівський військово-морський флот відправив один зі своїх крейсерів, щоб змусити Панаму здатися. Хоча це може призвести до швидкого завершення кризи, Німеччина грає з вогнем, і подальша ескалація з боку Панами може статися будь-якої миті."
- cos.53.a: "Вони граються з вогнем."
-
- cos.54.t: "Німеччина відмовляється від подальшої співпраці"
- cos.54.d: "Хоча в минулому вони стверджували, що компенсація за регіон Кото могла бути присуджена, сьогодні німецька делегація зробила повний розворот і заперечує, що така пропозиція коли-небудь існувала. Повторюючи, що Панамі доведеться дотримуватися рішення Фалло Вайта, самовпевнені німці вважають, що криза вже майже закінчилася."
- cos.54.a: "Тоді ми візьмемо його силою!"
- cos.54.b: "У нас немає іншого вибору, окрім як підкоритися."
-
- cos.55.t: "Війна за Кото"
- cos.55.d: "Переговори зірвалися, і Панама офіційно оголосила війну Коста-Риці. Оскільки під час переговорів ми стали на бік Коста-Рики, Панама також засудила нас і змусила нас довести свою силу на полі бою, а не в сирому офісі."
- cos.55.a: "Що ж, все пройшло не так добре."
-
- cos.56.t: "Війна за Кото"
- cos.56.d: "Як ми вже побоювалися, зухвала поведінка німецької делегації завела Панаму занадто далеко, і нарешті вибухнула війна. Якби ми мали підтримку наших німецьких союзників, цього можна було б запобігти мирним шляхом..."
- cos.56.a: "Всім зайняти бойові позиції!"
-
- cos.57.t: "Коста-Рика відмовляється платити"
- cos.57.d: "Угода, яку ми так старанно готували для костариканців, була відкинута Сан-Хосе сьогодні вранці, заявивши, що Панама не має жодних підстав вимагати від них чогось, і що вони повинні бути щасливі, що Коста-Рика взагалі готова до переговорів. Чи призведуть ці різкі слова до ескалації ситуації, покаже час, але про компроміс наразі не може бути й мови."
- cos.57.a: "Будемо сподіватися, що вони не розлютять Панаму."
-
- cos.58.t: "Німеччина виносить нам попередження"
- cos.58.d: "На прохання свого союзника Коста-Рики німецький уряд втрутився в кризу від її імені. Вимагаючи від нас дотримуватися постанови Фалло Вайта, німці розмістили один зі своїх крейсерів поблизу нашого берега, щоб залякати нас і примусити до співпраці."
- cos.58.a: "Прийняти рішення Фалло Вайта."
- cos.58.b: "Ми не боїмося кайзера!"
+ cos.44.b: "Ми не боїмося Канадців!"
 
 ### Other Events ###
  cos.59.t: "Загальнонаціональний страйк"
@@ -823,15 +775,6 @@
  cos.65.d: "Хоча деякі оцінили жорстку інтервенцію [COS.GetLeader], не всі однаково задоволені, і з наближенням регіональних виборів популярність НРП різко падає в опитуваннях. Особливо синдикалістська ПНА під керівництвом Мануеля Мора Вальверде робить пристойні успіхи і, схоже, цього разу має намір провести таких конгресменів, як Карлос Луїс Саєнс. У ці важкі часи важливо, щоб наша рішучість залишалася непохитною, і тому президент [COS.GetLeader] таємно планує усунути синдикалістів від влади, як тільки вони будуть обрані, і заарештувати їх за звинуваченням у державній зраді."
  cos.65.a: "Вибори мають бути чесними та відкритими для всіх."
  cos.65.b: "Звільнити Карлоса Луїса Саенса з посади!"
-
- cos.66.t: "Фламандсько-валлонська програма обміну"
- cos.66.d: ""
- cos.66.a: "Відмовитися від їхньої пропозиції."
- cos.66.b: "Ми цінуємо їхній досвід."
-
- cos.67.t: "Institut National pour l'Etude Agronomique du Costa Rica"
- cos.67.d: ""
- cos.67.a: "Дуже добре."
 
  cos.68.t: "Teatro Nacional de Costa Rica отримує фінансування"
  cos.68.d: "Побудований наприкінці 19 століття, коли населення Сан-Хосе становило лише близько 19 000 осіб, на гроші, зароблені під час кавового буму, Національний театр довгий час слугував одним з головних інститутів високоякісних музичних і театральних вистав у Центральній Америці. Однак зниження інтересу з боку публіки та брак місцевих п'єс, які б відповідали престижу будівлі, призвели до того, що вона опинилася в дещо занедбаному стані.\n\nТак було доти, доки компанія фламандсько-валлонських інвесторів, які подорожували країною під час торгової місії, організованої Міттельєвропою, не натрапила на цей об'єкт і миттєво закохалася в установу. Пообіцявши надіслати допомогу та артистів зі своєї батьківщини, театр отримав значний грант на продовження своєї діяльності. Коли нещодавній репортаж з'явився у фламандсько-валлонській газеті De Standaard, було розпочато громадську краудфандингову кампанію на підтримку театру, яка з великим успіхом пройшла по всій країні.\n\nСьогодні перед будівлею відбулася невелика церемонія вручення гранту послам Міттельєвропи, під час якої грант був символічно обміняний на мішок коста-риканських кавових зерен."
@@ -896,11 +839,6 @@
  cos.81.a: "Забрати їхні землі."
  cos.81.b: "Позбавити їх прав і конфіскувати майно."
  cos.81.c: "Може, не варто..."
-
- cos.82.t: "Табори для інтернованих громадян Німеччини"
- cos.82.d: "Оскільки патріотичний запал охопив населення Коста-Рики, президент [COS.GetLeader] не лише наказав конфіскувати всі німецькі товари, але й постановив, що всі громадяни з німецьким походженням мають бути заарештовані і поміщені до таборів для інтернованих, доки не буде вирішено, що з ними робити далі. Однак на цьому все не закінчилося, оскільки всі особи, яких визнають прихильниками Німеччини, мають зазнати такого ж ставлення."
- cos.82.a: "Вони становлять загрозу для держави!"
- cos.82.b: "Це вже занадто..."
 
  cos.83.t: "Спокуслива пропозиція..."
  cos.83.d: "Розлюченість призупиненням гарантованих Конституцією індивідуальних прав через надзвичайні повноваження Кальдерона призвела до того, що Демократична партія під керівництвом Кортеса (яка розірвала зв'язки з НРП після того, як Кальдерон захопив повний контроль і заснував власну партію) і синдикалістська партія під керівництвом Мануеля Мора Вальверде відкрито засудили президента за посягання на виборчі свободи.\n\nОскільки їхні скарги не знайшли відгуку в Конгресі, де домінує НРП, і оскільки президент Кальдерон не має наміру відмовлятися від своїх надзвичайних повноважень, в кулуарах почали лунати заклики до перевороту проти диктаторського режиму. Консервативний директор Банку Коста-Рики Хорхе Хіне нещодавно був помічений у розмові з Морою і, ймовірно, просив його про підтримку перевороту, пропонуючи йому місце в майбутньому уряді єдності після його успіху."
@@ -1029,30 +967,16 @@
  cos.110.d: "Ще одна плантація, згуртована Мора, ПНА та Атлантичним робітничим конгресом, приступила до роботи, вимагаючи, щоб уряд втрутився і продовжив виконувати їхні вимоги до власників плантацій. Оскільки заклики ПНА набувають все більшої популярності в сільській місцевості, багато хто побоюється, що Коста-Ріка також може врешті-решт опинитися на порозі революції."
  cos.110.a: "Дідько!"
 
- cos.111.t: "Коста-Рика проголошує перемогу"
- cos.111.d: "Ми боролися з усіх сил, але костариканська армія виявилася занадто сильною, щоб ми могли її перемогти, і це означало кінець нашого режиму."
- cos.111.a: "Демократія відновлена!"
-
- cos.112.t: "[From.GetNameDefCap] впала"
- cos.112.d: "Коли наші війська проходять через їхню столицю, а народ [From.GetNameDef] усвідомлює, що бойові дії закінчилися, ми можемо з гордістю заявити, що демократія була відновлена в ще одній країні, що робить нас на крок ближчими до нашої мрії про повністю демократичний Карибський регіон."
- cos.112.a: "Нехай живе дон Пепе!"
-
  cos.113.t: "Криза в Центральній Америці"
  cos.113.d: "Намагаючись протистояти диктаторському правлінню, яке повністю поглинуло регіон, костариканський каудильйо Хосе Фігерес Феррер оголосив про свій хрестовий похід, щоб звільнити народ ЦАР від гноблення і відновити свободу і демократію. Оскільки обидві залучені сторони є нашими союзниками, вони напружено очікують, як ми відреагуємо, якщо захочемо."
  cos.113.a: "Зберігати нейтралітет у цій кризі."
  cos.113.b: "Повернутися до Коста-Рики та "Дона Пепе"."
  cos.113.c: "Підтримати Центральноамериканську Республіку."
 
- cos.114.t: "Падіння Центральної Америки"
- cos.114.d: "Всупереч усьому, наша маленька країна врятувала народи Центральної Америки. Оскільки диктатори Півночі змушені скласти зброю, зазнавши катастрофічної поразки від нас, здається, що ніщо не стоїть на нашому шляху до вільного і демократичного Карибського басейну. Хай живе дон Пепе!"
- cos.114.a: "Звільнити окремі країни і запросити їх до Карибського альянсу."
- cos.114.b: "Об'єднати Центральну Америку під демократичним керівництвом."
-
  cos.117.t: "Перемога у війні в Кото"
  cos.117.d: "Панамці знову були вигнані з нашої землі, а цілісність нашої нації збережена. Зважаючи на міжнародний тиск, що триває після рішення Фальо Бланко, Панама не має іншого вибору, окрім як назавжди відмовитися від своїх претензій на цей регіон."
  cos.117.a: "Хай живе Коста-Рика."
 
- cos.118.t: "Перемога у війні в Кото"
  cos.118.d: "Це коштувало крові, поту і сліз, але нарешті ми можемо з гордістю заявити, що Кото знову під нашим контролем. Хоча міжнародне співтовариство дивиться на нас зверхньо за відмову від мирного врегулювання, воно не має бажання втручатися вдруге, залишаючи Коста-Рику на нашу милість."
  cos.118.a: "Хай живе Панама."
 
@@ -1086,10 +1010,6 @@
  cos.126.a: "Звісно, ми приєднаємося!"
  cos.126.b: "Коста хто?"
 
- cos.127.t: "[FROM.GetName] відмовляється"
- cos.127.d: "[FROM.GetName] відхилив нашу пропозицію про союз."
- cos.127.a: "Дідько!"
-
  cos.128.t: "Криза на каналі"
  cos.128.d: "Коли громадянська війна в Америці нарешті почала розгортатися, канадці наважилися на захоплення влади в зоні каналу. Панамці, однак, були готові і захопили канал для себе, стверджуючи, що він завжди був частиною Панами і залишиться такою назавжди.\n\nЦе ставить нас у цікаве становище, оскільки ми можемо надати канадцям ідеальний плацдарм для висадки військ і захоплення Панами сухопутним шляхом, що може гарантувати нам захист Канади, якщо така необхідність виникне в майбутньому."
  cos.128.a: "Надіслати пропозицію до Канади."
@@ -1108,28 +1028,90 @@
  cos.131.d: "На наш превеликий подив, канадський уряд ввічливо відхилив нашу пропозицію, скоріш за все, через побоювання, що їм доведеться захищати нас, якщо прийде час."
  cos.131.a: "Принаймні, ми спробували."
 
+ cos.132.t: "Formation of the Democratic Alliance of the Caribbean"
+ cos.132.d: "With our country being saved from tyranny by the Caudillo Figueres Ferrer, a new wave of hope for freedom and democracy has manifested.\nThis new spirit to fight for the less fortunate countries still oppressed by dictators has resulted in the proclamation of the Democratic Alliance of the Caribbean, an alliance open to all the democracies of the Caribbean, as well as to El Salvador and Ecuador. Its fundamental aims will be to strengthen democracy in the region and to act as one in defence of our common economic, military and political interests.\nWith one of its immediate goals being the creation of a democratic Central American Federation, uniting the five republics to use their combined might to bring the goals of the alliance to reality."
+ cos.132.a: "For a brighter future for Central America!"
+
+ cos.133.t: "Invitation to the Economic Bloc"
+ cos.133.d: "Our [FROM.GetAdjetive] allies have proposed an economic bloc to strengthen the economy of the members of the alliance."
+ cos.133.a: "We appreciate the solidarity."
+
+ cos.134.t: "[FROM.GetName] Offers us an Invitation to Democratic Alliance of the Caribbean"
+ cos.134.d: "[FROM.GetName] has offered us an invitation to their faction, claiming that our current alliance with Colombia will over time devolve into one of subjugation and that they are looking for the best for our democracy and sovereignty.\n\nWhile a very alarmist take on the issue, is is true that there is a big power imbalance between us and Colombia, but their strength is also beneficial because it helps deter forces to attacks us. Should accept this offer?"
+ cos.134.a: "Our destiny lies with in the Caribbean."
+ cos.134.b: "The Colombians will offer better protection."
+
+ cos.135.t: "Suspicious Activity from Panama"
+ cos.135.d: "We have received news of a meeting between Panama and [FROM.FROM.GetName], discussing Panama potentially leaving our alliance over fears of subjugation. This is a very obvious ploy of [FROM.FROM.GetName] to get Panama on their Alliance, but showing that we don't mean this at all could calm this distrust from spiralling out of control."
+ cos.135.a: "Nothing to worry about."
+ cos.135.b: "Let's reassure our ally of our true intentions"
+
+ cos.136.t: "Panama Aligns with Us"
+ cos.136.d: "Panama has seen reason and decided to join us."
+ cos.136.a: "Another ally to the democratic cause."
+
+ cos.137.t: "Panama Declines Our Offer"
+ cos.137.d: "Panama has decided to remain in the Andean Pact."
+ cos.137.a: "Let's hope the best for them."
+
+ cos.138.t: "A Union of Alliances?"
+ cos.138.d: "[FROM.GetName] has come today to sort our issues regarding our shared interest in the region of Panama. Their solution involved uniting both alliances to share such an important position.\nThey also argue that uniting our forces will help to better defend against any threats and give us benefits to our economies, but it's undeniable that this would come at the price of helping in their crusade against dictatorships and leaving our non-democratic members out."
+ cos.138.a: "Unity will bring prosperity and security to all."
+ cos.138.b: "We are better off on our own."
+
+ cos.139.t: "Unification with Costa Rica"
+ cos.139.d: "The Costa Rican government surprised us today announcing their intentions of joining our country in hopes to create a stronger union and implement the democratic framework of their country into the Federation, to avoid the issues that brought down its predecessor.\n\nExpectedly, we will not reject such a deal and have work to make the union as smooth and fast as possible to have the five republics finally united under the banner of the Federation."
+ cos.139.a: "The Federation reunited at last."
+
+ cos.140.t: "Establishing Closer Ties with Central America"
+ cos.140.d_level_1: "As the first step in drawing our countries closer, [FROM.GetLeader] has suggested that we reduce our number of military personal as they are more fitting for taking the job of security.\nThis would hardly change our current situation as our army is already very small in comparison to them.\n\nBut something they demanded was a ban on all news that print anti-unification propaganda as they don't desire that these ideas later brew into rebellions and protest."
+ cos.140.d_level_2: "Another meeting was held today about further ties, in which the Central American government offered to invest in our industrial sector to reduce the amount of control foreign owned companies have in our country.\nBut our experts see that this would only be transferring that control over to them as no promises have been made regarding the control of the land and factories outside of a good share of the profits coming back to us.\nThere isn't much pushback knowing the full end goal of the negotiation, but the few that still resist see this as our last chance to maintain our sovereignty."
+ cos.140.d_level_3: "On today's meeting, we were surprised by Central America \"offering\" to take care of most of our external diplomatic matters so we can fully prepare for future integration into the wider union.\nWith this being our last true chance to decline, many government workers are threatening to resign if we accept this deal."
+ cos.140.d_final: "Our final meeting is being held as the final paper is being completed for our government to transition to just a regional one and to have the five republics finally united under one banner once more."
+ cos.140.a: "Closer relations will benefit both."
+ cos.140.b: "This is unacceptable."
+
 ### Characters ###
  COS_manuel_mora_valverde: "Manuel Mora Valverde"
+ COS_manuel_mora_valverde_leader_desc: "§YBorn:§! §LAugust 27th, 1909, in San José, San José Province, Republic of Costa Rica§!"
  COS_rafael_angel_calderon_guardia: "Rafael Ángel Calderón Guardia"
+ COS_rafael_angel_calderon_guardia_leader_desc: "§YBorn:§! §LMarch 10th, 1900, in San José, San José Province, Republic of Costa Rica§!"
  COS_teodoro_picado_michalski: "Teodoro Picado Michalski"
+ COS_teodoro_picado_michalski_leader_desc: "§YBorn:§! §LJanuary 10th, 1900, in San José, San José Province, Republic of Costa Rica§!"
  COS_jose_figueres_ferrer: "José Figueres Ferrer"
+ COS_jose_figueres_ferrer_army_chief_desc: "§YBorn:§! §LSeptember 25th, 1906, in San Ramón, Alajuela Province, Republic of Costa Rica§!"
+ COS_francisco_vargas_vargas: "Francisco Vargas Vargas"
+ COS_carlos_maria_jimenez_ortiz: "Carlos María Jiménez Ortiz"
 
  COS_ricardo_jimenez_oreamuno: "Ricardo Jiménez Oreamuno"
- COS_ricardo_jimenez_oreamuno_leader_desc: ""
+ COS_ricardo_jimenez_oreamuno_leader_desc: "§YBorn:§! §LFebruary 6th, 1859, in Cartago, Cartago Province, Republic of Costa Rica§!\n§YBackground:§! §LThe son of two-time president Jesús Jiménez Zamora, Ricardo Jiménez Oreamuno rose to prominence before the Weltkrieg. In his first term as president between 1910 and 1914, he oversaw the repayment of the country's crippling national debt. By his third stint as president, the country's national debt had again skyrocketed, and again President Jiménez attempted, less successfully than before, to bring Costa Rica back from the brink of default.\nLooking forward, Jiménez fears that without a principled hand to guide it, Costa Rican democracy could be hijacked by foreign economic interests. Perhaps though he wishes to retire from politics, such fears will ensure his continued presence.§!"
 
  COS_leon_cortes_castro: "León Cortés Castro"
+ COS_leon_cortes_castro_leader_desc: "§YBorn:§! §LOctober 8th, 1882, in Alajuela, Alajuela Province, Republic of Costa Rica§!"
+ COS_julio_acosta_garcia: "Julio Acosta García"
+ COS_julio_acosta_garcia_leader_desc: "§YBorn:§! §LMay 23rd, 1872, in San Ramón, Alajuela Province, Republic of Costa Rica§!"
 
  COS_consejo_de_seguridad_nacional: "Consejo de Seguridad Nacional"
- COS_consejo_de_seguridad_nacional_leader_desc: ""
+ COS_consejo_de_seguridad_nacional_leader_desc: "§YFounded:§! §Lin San José, San José Province, Republic of Costa Rica§!\n§YBackground:§! §LWith great political disruption at hand, a mostly conservative Council of Ministers has been appointed collectively act as both head of state and government while national affairs are sorted.§!"
 
- COS_fernando_figuls_quiros: "Fernando Figuls Quiros"
+ COS_max_koberg_bolandi: "Max Koberg Bolandi"
 
- COS_julio_acosta_garcia: "Julio Acosta Garcia"
+ COS_rafael_castro_quesada: "Rafael Castro Quesada"
+ COS_rafael_castro_quesada_army_chief_desc: "§YBorn:§! §LMarch 27th, 1885, in San José, San José Province, Republic of Costa Rica§!"
+ COS_arturo_quiros_carranza: "Arturo Quirós Carranza"
+ COS_arturo_quiros_carranza_army_chief_desc: "§YBorn:§! §LJune 8th, 1887, in San José, San José Province, Republic of Costa Rica§!"
+
  COS_ricardo_castro_beeche: "Ricardo Castro Beeche"
+ COS_ricardo_castro_beeche_advisor_desc: "§YBorn:§! §LApril 11th, 1894, in San José, San José Province, Republic of Costa Rica§!"
  COS_rafael_calderon_mumoz: "Rafael Calderon Mumoz"
+ COS_rafael_calderon_mumoz_advisor_desc: "§YBorn:§! §LOctober 24th, 1869, in San José, San José Province, Republic of Costa Rica§!"
  COS_jose_albertazzi_avendano: "Jose Albertazzi Avendano"
+ COS_jose_albertazzi_avendano_advisor_desc: "§YBorn:§! §LJanuary 15th, 1892, in Paraíso, Cartago Province, Republic of Costa Rica§!"
  COS_juan_rafael_arias_bonilla: "Juan Rafael Arias Bonilla"
+ COS_juan_rafael_arias_bonilla_advisor_desc: "§YBorn:§! §LFebruary 15th, 1877, in Heredia, Heredia Province, Republic of Costa Rica§!"
  COS_cleto_gonzalez_viquez: "Cleto Gonzalez Viquez"
+ COS_cleto_gonzalez_viquez_advisor_desc: "§YBorn:§! §LOctober 13th, 1858, in Barva, Heredia Province, Republic of Costa Rica§!"
  COS_santos_leon_herrera: "Santos Leon Herrera"
+ COS_santos_leon_herrera_advisor_desc: "§YBorn:§! §LMay 21st, 1874, in San José, San José Province, Republic of Costa Rica§!"
  COS_jorge_volio_jimenez: "Jorge Volio Jimenez"
- COS_manuel_zuniga_jiron: "Manuel Zuniga Jiron"
+ COS_jorge_volio_jimenez_army_chief_desc: "§YBorn:§! §LAugust 26th, 1882, in Cartago, Cartago Province, Republic of Costa Rica§!"

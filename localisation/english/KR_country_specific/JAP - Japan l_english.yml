@@ -1,109 +1,82 @@
 ﻿l_english:
- 
- japan_focus: "Фокуси Японії"
- japan_subject_focus: "Фокуси суб'єкту Японії"
- 
+
+ japan_focus: "Дерево фокусів Японії"
+ japan_subject_focus: "Дерево фокусів суб'єкту Японії"
+
+### Factions ###
+ co_prosperity_sphere: "Co-Prosperity Sphere" #created by history\countries\JAP - Japan.txt history file
+
 ### Opinion Modifiers ###
  JAP_motor_1: "Асиміляція іноземного автопрому"
  JAP_threat: "Японія погрожує нам"
  JAP_FNG_exploit: "Економічна експлуатація"
- 
+
 ### Country Names ###
  JAP: "Японія"
  JAP_ADJ: "Японськ"
  JAP_DEF: "Японія"
- 
- JAP_totalist: "Народна Республіка Японія"
- JAP_totalist_ADJ: "Японськ"
- JAP_totalist_DEF: "Народна Республіка Японія"
- JAP_radical_socialist: "Народна Республіка Японія"
- JAP_radical_socialist_ADJ: "Японськ"
- JAP_radical_socialist_DEF: "Народна Республіка Японія"
- JAP_syndicalist: "Народна Республіка Японія"
- JAP_syndicalist_ADJ: "Японськ"
- JAP_syndicalist_DEF: "Народна Республіка Японія"
+
+ JAP_totalist: "Японська Народна Республіка"
+ JAP_totalist_DEF: "Японська Народна Республіка"
+ JAP_radical_socialist: "Японська Народна Республіка"
+ JAP_radical_socialist_DEF: "Японська Народна Республіка"
+ JAP_syndicalist: "Японська Народна Республіка"
+ JAP_syndicalist_DEF: "Японська Народна Республіка"
  JAP_social_democrat: "Японська Імперія"
- JAP_social_democrat_ADJ: "Японськ"
  JAP_social_democrat_DEF: "Японська Імперія"
  JAP_social_liberal: "Японська Імперія"
- JAP_social_liberal_ADJ: "Японськ"
  JAP_social_liberal_DEF: "Японська Імперія"
  JAP_market_liberal: "Японська Імперія"
- JAP_market_liberal_ADJ: "Японськ"
  JAP_market_liberal_DEF: "Японська Імперія"
  JAP_social_conservative: "Японська Імперія"
- JAP_social_conservative_ADJ: "Японськ"
  JAP_social_conservative_DEF: "Японська Імперія"
  JAP_authoritarian_democrat: "Японська Імперія"
- JAP_authoritarian_democrat_ADJ: "Японськ"
  JAP_authoritarian_democrat_DEF: "Японська Імперія"
  JAP_paternal_autocrat: "Японська Імперія"
- JAP_paternal_autocrat_ADJ: "Японськ"
  JAP_paternal_autocrat_DEF: "Японська Імперія"
  JAP_national_populist: "Японська Імперія"
- JAP_national_populist_ADJ: "Японськ"
  JAP_national_populist_DEF: "Японська Імперія"
 
- JAP_republic_totalist: "Народна Республіка Японія"
- JAP_republic_totalist_ADJ: "Японськ"
- JAP_republic_totalist_DEF: "Народна Республіка Японія"
- JAP_republic_radical_socialist: "Народна Республіка Японія"
- JAP_republic_radical_socialist_ADJ: "Японськ"
- JAP_republic_radical_socialist_DEF: "Народна Республіка Японія"
- JAP_republic_syndicalist: "Народна Республіка Японія"
- JAP_republic_syndicalist_ADJ: "Японськ"
- JAP_republic_syndicalist_DEF: "Народна Республіка Японія"
+ JAP_republic_totalist: "Японська Народна Республіка"
+ JAP_republic_totalist_DEF: "Японська Народна Республіка"
+ JAP_republic_radical_socialist: "Японська Народна Республіка"
+ JAP_republic_radical_socialist_DEF: "Японська Народна Республіка"
+ JAP_republic_syndicalist: "Японська Народна Республіка"
+ JAP_republic_syndicalist_DEF: "Японська Народна Республіка"
  JAP_republic_social_democrat: "Республіка Японія"
- JAP_republic_social_democrat_ADJ: "Японськ"
  JAP_republic_social_democrat_DEF: "Республіка Японія"
  JAP_republic_social_liberal: "Республіка Японія"
- JAP_republic_social_liberal_ADJ: "Японськ"
  JAP_republic_social_liberal_DEF: "Республіка Японія"
  JAP_republic_market_liberal: "Республіка Японія"
- JAP_republic_market_liberal_ADJ: "Японськ"
  JAP_republic_market_liberal_DEF: "Республіка Японія"
  JAP_republic_social_conservative: "Республіка Японія"
- JAP_republic_social_conservative_ADJ: "Японськ"
  JAP_republic_social_conservative_DEF: "Республіка Японія"
  JAP_republic_authoritarian_democrat: "Республіка Японія"
- JAP_republic_authoritarian_democrat_ADJ: "Японськ"
  JAP_republic_authoritarian_democrat_DEF: "Республіка Японія"
  JAP_republic_paternal_autocrat: "Республіка Японія"
- JAP_republic_paternal_autocrat_ADJ: "Японськ"
  JAP_republic_paternal_autocrat_DEF: "Республіка Японія"
  JAP_republic_national_populist: "Республіка Японія"
- JAP_republic_national_populist_ADJ: "Японськ"
  JAP_republic_national_populist_DEF: "Республіка Японія"
 
- JAP_state_totalist: "Народна Республіка Японія"
- JAP_state_totalist_ADJ: "Японськ"
- JAP_state_totalist_DEF: "Народна Республіка Японія"
- JAP_state_radical_socialist: "Народна Республіка Японія"
- JAP_state_radical_socialist_ADJ: "Японськ"
- JAP_state_radical_socialist_DEF: "Народна Республіка Японія"
- JAP_state_syndicalist: "Народна Республіка Японія"
- JAP_state_syndicalist_ADJ: "Японськ"
- JAP_state_syndicalist_DEF: "Народна Республіка Японія"
+ JAP_state_totalist: "Японська Народна Республіка"
+ JAP_state_totalist_DEF: "Японська Народна Республіка"
+ JAP_state_radical_socialist: "Японська Народна Республіка"
+ JAP_state_radical_socialist_DEF: "Японська Народна Республіка"
+ JAP_state_syndicalist: "Японська Народна Республіка"
+ JAP_state_syndicalist_DEF: "Японська Народна Республіка"
  JAP_state_social_democrat: "Японська Держава"
- JAP_state_social_democrat_ADJ: "Японськ"
  JAP_state_social_democrat_DEF: "Японська Держава"
  JAP_state_social_liberal: "Японська Держава"
- JAP_state_social_liberal_ADJ: "Японськ"
  JAP_state_social_liberal_DEF: "Японська Держава"
  JAP_state_market_liberal: "Японська Держава"
- JAP_state_market_liberal_ADJ: "Японськ"
  JAP_state_market_liberal_DEF: "Японська Держава"
  JAP_state_social_conservative: "Японська Держава"
- JAP_state_social_conservative_ADJ: "Японськ"
  JAP_state_social_conservative_DEF: "Японська Держава"
  JAP_state_authoritarian_democrat: "Японська Держава"
- JAP_state_authoritarian_democrat_ADJ: "Японськ"
  JAP_state_authoritarian_democrat_DEF: "Японська Держава"
  JAP_state_paternal_autocrat: "Японська Держава"
- JAP_state_paternal_autocrat_ADJ: "Японськ"
  JAP_state_paternal_autocrat_DEF: "Японська Держава"
  JAP_state_national_populist: "Японська Держава"
- JAP_state_national_populist_ADJ: "Японськ"
  JAP_state_national_populist_DEF: "Японська Держава"
 
 ### Parties ###
@@ -145,10 +118,10 @@
  JAP_national_unity_gov_long: "National Unity Government"
 
  JAP_nippon_kokuminto: "Nippon Kokumintō"
- JAP_nippon_kokuminto_long: "Nippon Kokumintō\n§gFollowing the sudden collapse of imperial authority following the Chinese victory in the Sino-Japanese War, the revolutionary Chinese government has set up a provisional government and party led by Nosaka Sanzō in order to administer the Japanese Home Islands and to bring the ideals of the Three Principles of the People to the Japanese. The newly created Nippon Kokumintō (Japanese Nationalist Party), seeks to maintain great ties with the Chinese but also to foster their own ideals of Minsheng, Minzu, and Minquan in order to fulfill Dr. Sun's principles of a pan-Asian world revolution.§!"
+ JAP_nippon_kokuminto_long: "Nippon Kokumintō\n§LFollowing the sudden collapse of imperial authority following the Chinese victory in the Sino-Japanese War, the revolutionary Chinese government has set up a provisional government and party led by Nosaka Sanzō in order to administer the Japanese Home Islands and to bring the ideals of the Three Principles of the People to the Japanese. The newly created Nippon Kokumintō (Japanese Nationalist Party), seeks to maintain great ties with the Chinese but also to foster their own ideals of Minsheng, Minzu, and Minquan in order to fulfil Dr. Sun's principles of a pan-Asian world revolution.§!\n"
 
  JAP_zantei_gunseifu: "Zantei Gunseifu"
- JAP_zantei_gunseifu_long: "Zantei Gunseifu\n§gFor the proud Japanese people, nothing could have prepared them more than the sudden collapse of imperial and military authority following their defeat in war and their total subsequent complete occupation and surrender. Now the occupying foreign country has created a transitional military government in order to administer the Japanese Home Islands and to ensure a healthy and steady transition from a former monarchy to hopefully a new vibrant democracy in Asia.§!"
+ JAP_zantei_gunseifu_long: "Zantei Gunseifu\n§LFor the proud Japanese people, nothing could have prepared them more than the sudden collapse of imperial and military authority following their defeat in war and their total subsequent complete occupation and surrender. Now the occupying foreign country has created a transitional military government in order to administer the Japanese Home Islands and to ensure a healthy and steady transition from a former monarchy to hopefully a new vibrant democracy in Asia.§!\n"
 
  JAP_nihon_minshuto: "Minshutō"
  JAP_nihon_minshuto_long: "Nihon Minshutō (Japan Democratic Party)"
@@ -158,7 +131,7 @@
 
  JAP_nihon_shakaito: "Shakaitō"
  JAP_nihon_shakaito_long: "Nihon Shakaitō (Japan Socialist Party)"
- 
+
 ### Research Groups ###
  japan_research_name: "Rikagaku Kenkyūsho"
  japan_research_desc: "Rikagaku Kenkyūsho - це наукове крило Сфери Співпроцвітання, спрямоване на допомогу у збагаченні наших колоній та союзників."
@@ -172,7 +145,7 @@
 ### Companies ###
  Nippon_Electric_Company: "Nippon Electric Company"
  Ishikawajima_Heavy_Industries: "Ishikawajima Heavy Industries"
- Mitsui_Zaibatsu: "Mitsui"
+ mitsui: "Mitsui"
  Furukawa_Siemens: "Furukawa Siemens"
  Nihon_Musen: "Nihon Musen"
  Nippon_Oil: "Nippon Oil"
@@ -184,10 +157,10 @@
  nagoya_arsenal: "Nagoya Arsenal"
  kr_osaka_army_arsenal: "Osaka Army Arsenal"
  isuzu: "Isuzu"
+ ishikawajima: "Ishikawajima"
  toyota: "Toyota"
  hitachi: "Hitachi"
  nissan: "Nissan"
- tokyo_gas: "Tokyo Gas & Electric"
  mitsubishi: "Mitsubishi"
  kyushu_hikoki: "Kyushu Hikoki"
  aichi: "Aichi"
@@ -207,6 +180,7 @@
 
 ### Global Flags ###
  JAP_defeated_by_china: "Японія вийшла з Китаю"
+ JAP_Fading_Sun: "§rJapanese colonial empire was dissolved§!"
 
 ### Ideas ###
  JAP_narrow_rail: "Вузькоколійні залізниці"
@@ -228,7 +202,7 @@
  JAP_railway_nationalisation: "Railway Nationalisation"
  JAP_national_defence_state_1: "The National Defence State"
 
-  # Showa Restoration Ideas
+ # Showa Restoration Ideas
  JAP_state_controlled_banking: "State Controlled Banking and Agriculture"
  JAP_independent_nation: "An Independent Nation"
  JAP_cooperative_elites: "Cooperative Elites"
@@ -267,7 +241,7 @@
  JAP_china_training: "Японська програма підготовки"
  JAP_china_training_desc: "Бажаючи посилити армії своїх союзників, японці надали своїх офіцерів для тренування нових солдатів."
  JAP_china_attack_support: "Японська підтримка наступу"
- JAP_chinese_seperatist_support: "Японська підтримка незалежності"
+ JAP_chinese_separatist_support: "Японська підтримка незалежності"
  JAP_sabotage_1: "Японська диверсійна кампанія"
 
 ### Puppet Ideas - Suzuha ###
@@ -284,7 +258,7 @@
  JAP_disarmed_nation_idea: "Disarmed Nation"
  JAP_disarmed_nation_idea_desc: "Stipulated by its now new foreign occupier, the entire army, navy, and airforces of the Empire of Japan is to be disbanded for the time being as a punishment for Japan's imperialistic wars across Asia. Unitl Japan's trust is regained in the eyes of its overlord, there is no future for it having any form of armed forces for the time being."
  JAP_jpel_influence_idea: "Defections to the JPEL"
- JAP_jpel_influence_idea_desc: "The Japanese People’s Emancipation League is composed of Japanese soldiers who have decided to surrender to the Kuomintang and refugees fleeing our lands. Open to all, the JPEL unites many disgruntled citizens of our nation with the promise of a new dawn in Japan that will herald the end of militarism. Defections to the JPEL have hurt our morale and resolve."
+ JAP_jpel_influence_idea_desc: "The Japanese People's Emancipation League is composed of Japanese soldiers who have decided to surrender to the Kuomintang and refugees fleeing our lands. Open to all, the JPEL unites many disgruntled citizens of our nation with the promise of a new dawn in Japan that will herald the end of militarism. Defections to the JPEL have hurt our morale and resolve."
 
  # Socialist & CHI KMT
  JAP_sister_republic_idea: "Sister Republic"
@@ -306,6 +280,8 @@
  # Liberal & Authoritarian
  JAP_depolicization_of_the_throne_idea: "Depolicization of the Throne"
  JAP_forced_abdication_idea: "Forced Abdication of the Emperor"
+ JAP_unpopular_republic_idea: "Unpopular Republic"
+ JAP_unpopular_republic_idea_desc: "As per the demands of [JAP.overlord.GetNameDef], a republic has been enforced over Japan, a move said to be popular at home yet one met with widespread anger and outrage in Japan itself. The new government is saddled with the unenviable task of winning over the Japanese populous, lest they meet the same ending as many similar regimes did after the first Weltkrieg."
  JAP_emergency_relief_idea: "Government Emergency Relief"
  JAP_dem_puppet_pro_zaibatsu_idea1: "Support of the Zaibatsu"
  JAP_traditionalist_state_idea: "A Traditionalist Japanese State"
@@ -344,11 +320,7 @@
  JAP_shared_modernisation_1_desc: "Despite the differences in doctrine and strategy between proponents of the Long and Short War theories, both sides agree on several fundamental points, such as the need for the Army to secure early victories and territorial gains, to either force the enemy into peace negotiations or create a defensive line against a superior foe, and a heavy emphasis on aggression, viewing retreat as an unacceptable outcome. With these shared goals, the Army will be able to produce modernization on a consistent line."
  # Tooltips
  JAP_tech_marine_bonus: "SNLF"
- JAP_tech_marine_bonus_effect: "Enables §H$JAP_tech_marine_bonus$\n$tech_marine_bonus_effect_tooltip$"
- JAP_if_long_war: "If we choose to pursue a §YLong War§! doctrine, we will receive the following bonuses:"
- JAP_if_short_war: "And if we choose to pursue a §YShort War§! doctrine, we will receive the following bonuses:"
  JAP_deploy_teishindan: "Create two £GFX_nato_unit_paratrooper_icon_small  §YTeishindan§! units:\n   x §Y5§! £GFX_nato_unit_paratrooper_icon_small  Paratrooper Battalion\n      - £GFX_nato_unit_artillery_icon_small  Artillery Company"
-
 
 ### Short War
  # Decisions
@@ -380,13 +352,7 @@
  JAP_sw_warplan_research_time_tt: "Set the duration of all £GFX_decision_icon_small §YWar Planning Against§! Decisions to $RIGHT|0+$ days."
  JAP_change_war_prep: "Modify £GFX_decision_icon_small  §HWar Planning Against§! Decisions by\n Army Intelligence against §HTarget Country§!: [?0.15|+=0%]"
  JAP_change_war_prep_not_lar: "Modify £GFX_decision_icon_small  §HWar Planning Against§! Decisions by\n Decryption against §HTarget Country§!: [?0.10|+=0%]"
- JAP_modify_trad_equip: "Modify §H$JAP_equipment_modernisation$§! by"
- JAP_modification_equip: "£GFX_production_cost  Production Cost: [?-0.1|=-%]"
- JAP_modify_arty: "$JAP_modify_trad_equip$\n§HTowed Artillery§!: $JAP_modification_equip$"
- JAP_modify_supp: "$JAP_modify_trad_equip$\n§HSupport Equipment§!: $JAP_modification_equip$"
- JAP_backbone_of_the_army_tt: "$JAP_modify_trad_equip$\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: [?0.10|1+=%]\n$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: [?0.10|1+=%]\n$MODIFIER_NO_SUPPLY_GRACE$: [?48.0|1+=] Hour(s)"
  JAP_decision_unlocked_during_war: "This £GFX_decision_icon_small §HDecision§! will become visible once at war with the target country!"
- JAP_modify_cav: "$JAP_modify_trad_equip$\n$MODIFIER_CAVALRY_ATTACK_FACTOR$: [?0.10|1+=%]\n$MODIFIER_CAVALRY_DEFENCE_FACTOR$: [?0.10|1+=%]"
 
 ### Long War
  # Decisions
@@ -403,13 +369,7 @@
  JAP_war_ready_equipment_2: "War Ready Equipment II"
  JAP_war_ready_equipment_3: "War Ready Equipment III"
  JAP_modernization_complete: "Army Modernisation Complete"
- JAP_has_researched_support_weapons: "Has researched §YSupport Weapons I§!"
- JAP_has_researched_infantry_weapons2: "Has researched §YImproved Infantry Equipment I§!"
- JAP_has_researched_improved_infantry_weapons: "Has researched §YWeapons II§!"
- JAP_has_researched_artillery1: "Has researched §YImproved Artillery§!"
- JAP_has_researched_mechanised_infantry: "Has researched §YMechanised Infantry§!"
- JAP_has_researched_improved_light_tank: "Has Researched §YImproved Light Tank§!"
- JAP_has_researched_basic_medium_tank: "Has Researched §YBasic Medium Tank§!"
+
  # Ideas
  JAP_research_modernisation_lw: "Research Modernisation"
  JAP_staff_modernisation_lw: "Staff Modernisation"
@@ -419,13 +379,13 @@
  JAP_long_war_army_lw: "Long War Army"
  # Tooltips
  JAP_unlock_development_plans: "Unlock £GFX_decision_icon_small §YDevelopment Plan§! Decisions, allowing for powerful buffs once specific goals have been achieved!"
- JAP_has_completed_x_mil: "Has completed §H[?JAP_mil_foci_to_do]§! army National Focuses (Current: [?JAP_compled_mil_focuses|Y0])"
+ JAP_has_completed_x_mil: "Has completed $RIGHT|Y0$ army National Focuses (Current: [?JAP_compled_mil_focuses|Y0])"
  JAP_research_slot_warning: "This Research Slot will be kept for §H365§! days."
  JAP_deploy_tanks: "Create one £GFX_nato_unit_light_armor_icon_small  §YDokuritsu Konsei Ryodan II§! unit:\n   x §Y5§! £GFX_nato_unit_light_armor_icon_small  Light Tank Battalion\n   x §Y5§! £GFX_nato_unit_motorized_icon_small  Motorized Battalion\n      - £GFX_nato_unit_artillery_icon_small  Artillery Company\n      - £GFX_nato_unit_recon_icon_small  Motorized Recon Detachment"
  JAP_unlock_new_triangular: "Unlock new £GFX_nato_unit_infantry_icon_small  §YSantanisei Shidan§! Template:\n   x §Y9§! £GFX_nato_unit_infantry_icon_small  Infantry Battalion\n   x §Y3§! £GFX_nato_unit_artillery_icon_small  Artillery Battalion\n      - £GFX_nato_unit_engineer_icon_small  Engineer Company\n      - £GFX_nato_unit_artillery_icon_small  Artillery Company\n      - £GFX_nato_unit_recon_icon_small  Cavalry Recon Detachment"
- JAP_war_ready_industries_3_complete: "Has completed Industry modernisation."
- JAP_war_ready_soldiers_3_complete: "Has completed Staff modernisation."
- JAP_war_ready_equipment_3_complete: "Has completed Equipment modernisation."
+ JAP_war_ready_industries_3_complete: "$has_completed_decision$$JAP_war_ready_industries_3$§!"
+ JAP_war_ready_soldiers_3_complete: "$has_completed_decision$$JAP_war_ready_soldiers_3$§!"
+ JAP_war_ready_equipment_3_complete: "$has_completed_decision$$JAP_war_ready_equipment_3$§!"
  JAP_merge_into_modern_army: "Merge §H$JAP_equipment_modernisation$§!, §H$JAP_research_modernisation_lw$§!, and §H$JAP_staff_modernisation_lw$§! into §H$JAP_long_war_army_lw$§!\nEffective change:\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G10%§!\n$MODIFIER_STABILITY_WAR_FACTOR$: [?0.10|+=%]"
 
 ### Tooltips ###
@@ -456,7 +416,6 @@
 
  # Economy Tooltips
  JAP_upgrade_zaibatsu_tt: "Певні компанії будуть §Gпокращені§!:\nЗмінить §H$mitsubishi$§! на\nВартість: £GFX_pol_power  [?-100|=-0]\nШвидкість дослідження авіації: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.05|+=%]\n\nЗмінить §H$Mitsui_Zaibatsu$§! на\nВартість: £GFX_pol_power  [?-100|=-0]\n$industry_research$: [?0.05|+=%]\n$modifier_production_speed_industrial_complex_factor$: [?0.15|+=%]\n$modifier_production_speed_arms_factory_factor$: [?0.15|+=%]\n\nЗмінить §H$sumitomo$§! на\nВартість: £GFX_pol_power  [?-100|=-0]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|Y=%0]"
- JAP_upgrade_zaibatsu_non_AAT_tt: "\n\nModify §H$mitsubishi$§! by\nCost: £GFX_pol_power  [?-50|=-0]\nAir Research Speed: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.05|+=%]"
  JAP_has_taken_zaibatsu_eco_tt: "If we have chosen to §YSupport the Zaibatsu§!, we will gain:"
  JAP_has_taken_bureaucratic_eco_tt: "If we have decided on a §YBureaucratic Economy§! instead, we will gain:"
  JAP_the_shinkansen_proposal_tt: "Add a maximum §YRailway§! in §YKantō§!, §YChūgoku§!, §YKansai§! and §YTōkai§!"
@@ -487,9 +446,6 @@
  JAP_destroy_degenerative_individualism_tt: "Taking this focus will temporarily §Gappease§! the other factions in our government, allowing us to pass one reform focus without incurring any penalties in stability."
  JAP_Curtail_Zaibatsu_tt: "We will have the option to either increase our construction speed, but also increase our designer costs, or we simply gain factories!"
 
- JAP_ennoble_the_national_spirit_tt_1: "§gIf we completed §Y$JAP_continue_zaibatsu_ties$§!§!:"
- JAP_ennoble_the_national_spirit_tt_2: "§gIf we completed §Y$JAP_curtail_the_zaibatsu$§!:§!"
-
  JAP_divert_workers_towards_production_cost_tt: "£pol_power §Y40§! £manpower_texticon §H200000§!"
  JAP_divert_workers_towards_production_cost_tt_blocked: "£pol_power §R40§! £manpower_texticon §R200000§!"
 
@@ -502,12 +458,12 @@
  # Democracy Tooltips
  JAP_elected_marlib: "The §mMinseitō§! are victorious in the snap election"
  JAP_elected_soccon: "The §cSeiyūkai§! continue to lead the government"
- JAP_elected_autdem: "The §gNational Unity Government§! was formed by the mainstream parties"
+ JAP_elected_autdem: "The §aNational Unity Government§! was formed by the mainstream parties"
  JAP_1940_election: "The 1940 Elections have been held"
 
  JAP_autdem_reforms_tt: "Forming the Government of National Unity will allow for passing a total of 4 reform focuses supported by the §cSeiyūkai§! or §mMinseitō§!, choose wisely."
  JAP_autdem_limit_tt: "Has passed fewer than §Y4§! reform focuses. §CCurrently§! §Y[?JAP_autdem_focus_variable]§!"
- JAP_final_focus_autdem_tt: "§gDepending on whose reforms the Government of National Unity pushes through, we will obtain a different national spirit upon finishing this focus.§!"
+ JAP_final_focus_autdem_tt: "§aDepending on whose reforms the Government of National Unity pushes through, we will obtain a different national spirit upon finishing this focus.§!"
  JAP_final_focus_autdem_minseito_tt: "Passing §Y3§! or more §mMinseitō§! reform focuses will grant us:"
  JAP_final_focus_autdem_seiyukai_tt: "Passing §Y3§! or more §cSeiyūkai§! reform focuses will grant us:"
  JAP_more_minseito_focus_taken: "§Y3§! or more focuses from the §mMinseitō§! side have been completed."
@@ -550,7 +506,6 @@
 
  # Navy Tooltips ###
  JAP_third_circle_tt: "§YДва лінкора§! та §YДва авіаносця§! почнуть будівництво, починаючи з §G40%§! прогресу."
- JAP_the_zero_tt: "Add technology: §H$JAP_cv_fighter_equipment_2$§!"
  JAP_the_zero_bba_tt: "If §YImproved Small Airframe§! was researched before completing this focus, we will instead be granted a §H1940 Fighter (Carrier Variant)§! template, and a research bonus towards future §HEngines§! technology."
  JAP_the_zero_not_bba_tt: "If §YA6M Rei-sen§! was researched before completing this focus, we will instead be granted an upgraded §H1940 Fighter (Carrier Variant)§!."
  JAP_complete_the_fourth_circle_plan: "Complete the Circle Plan"
@@ -566,7 +521,9 @@
  JAP_question_of_the_imperial_family_default_tt: "§LAfter Japan's defeat in the war there are more and more voices calling for the abication of Hirohito or even questioning the function of the emperor. Furthermore complicates the question our overlord's plans for our country.§!"
  JAP_question_of_the_imperial_family_hirohito_stayed_tt: "§LWhile our overlord recognised the political potential and importance of leaving Hirohito on the throne, this issue is far from being resolved. The Emperor's and the Imperial Family's fate will be decided in the next special session of the Diet.§!"
  JAP_question_of_the_imperial_family_hirohito_abdicated_tt: "§LWith the forced abdication of Hirohito, the Imperial Family's and the new Emperor's position seems weak like never before. It's fate will be decided in the next special session of the Diet.§!"
+ JAP_question_of_the_imperial_family_abolished_tt: "§LThe decision of our overlord to enforce a republic over the nation is not a popular one, yet we must persevere. It is time to begin winning over the public, and hope in time they start to accept Japan's new future.§!"
  JAP_hirohito_abdicate_tt: "§YHirohito§! will abdicate, and his son, §YCrown Prince Akihito§! will ascend to the throne with §YPrince Takamatsu Nobuhito§! named as regent.\n"
+ JAP_republic_effect_tt: "The §YImperial Institution§! will be completely abolished, with Japan becoming the §YRepublic of Japan§!.\n"
  JAP_elections_in_four_months_tt: "The first post-war §Yelections§! shall be held in four months.\n"
  JAP_imperial_to_national_diet_tt: "The §Y$JAP_imperial_diet$§! will be renamed to the §Y$JAP_national_diet$§!\n"
  JAP_appoint_naruhiko_sic: "Appoint advisor §YHigashikuni Naruhiko§!"
@@ -589,7 +546,7 @@
  JAP_ally12_name: "$JAP_ally12_last$, "
  JAP_ally13_name: "$JAP_ally13_last$, "
  JAP_ally14_name: "$JAP_ally14_last$, "
- JAP_ally15_name: "$JAP_ally15_last$, " 
+ JAP_ally15_name: "$JAP_ally15_last$, "
  JAP_ally1_last: "§Y[?JAP.economic_sphere:members^0.GetFlag][?JAP.economic_sphere:members^0.GetName]§!"
  JAP_ally2_last: "§Y[?JAP.economic_sphere:members^1.GetFlag][?JAP.economic_sphere:members^1.GetName]§!"
  JAP_ally3_last: "§Y[?JAP.economic_sphere:members^2.GetFlag][?JAP.economic_sphere:members^2.GetName]§!"
@@ -612,7 +569,7 @@
 ### Decisions ###
  JAP_part_one_land_reform: "$has_completed_decision$$JAP_land_reform_1$§!"
  JAP_part_two_land_reform: "$has_completed_decision$$JAP_land_reform_2$§!"
- 
+
  JAP_land_reform: "Земельна реформа"
  JAP_land_reform_desc: "Земельна реформа є головним болем японських політиків ось уже майже 70 років. Ми не перші з тих, хто наважився взятися за неї, однак якщо ми не проявимо належної обережності, то й останніми теж не будемо. Що більше часу і зусиль ми вкладемо в її проведення, то більша ймовірність того, що наші витрати окупляться. Не варто забувати, що ми можемо оголосити про завершення реформи в будь-який момент...\n\nПоточний прогрес земельної реформи: [?JAP.JAP_land_reform_variable|H0]."
  JAP_land_reform_1: "Розпочати земельну реформу"
@@ -630,13 +587,15 @@
  JAP_finish_land_reform: "Завершити земельну реформу"
  JAP_finish_land_reform_desc: "Ми завершимо проведення нашої земельної реформи і подивимося на результат..."
 
-##Resource Decisions##
+### Resource Decisions ###
  JAP_develop_chosen_tungsten_mines: "Розширити вольфрамові шахти в Кореї"
  JAP_develop_chosen_tungsten_mines1_desc: "Ми почали розширювати наші вольфрамові шахти в [527.GetName], і знадобиться деякий час і зусилля, щоб розширити наші шахти там."
  JAP_develop_chosen_tungsten_mines2_desc: "Ми почали другу спробу розширення наших вольфрамових шахт у [527.GetName], і знадобиться певний час і зусилля, щоб розширити наші шахти там."
  JAP_develop_chosen_tungsten_mines3_desc: "Ми почали третю спробу розширення наших вольфрамових шахт у [527.GetName], і знадобиться певний час і зусилля, щоб розширити наші шахти там."
  JAP_develop_chosen_tungsten_mines4_desc: "Ми отримали повідомлення про кілька нових родовищ вольфраму в [525.GetName], в той час як ми перевіряємо ці повідомлення, ми проведемо четверту спробу розширення в [527.GetName]."
  JAP_develop_chosen_tungsten_mines5_desc: "Наші старателі повернулися з [525.GetName] і підтвердили, що там є велике родовище вольфраму, ми негайно почнемо розробляти це нове родовище, а також закінчимо розширювати шахти в [527.GetName]."
+
+ JAP_develop_chosen_tungsten_mines_tt: "§CThis decision can be taken once for each level of §Yexcavation technology§! that we have researched.§!"
 
 ### Economy Decisions ###
  JAP_economy_cat: "The Japanese Economy"
@@ -656,21 +615,22 @@
  JAP_aid_toyo_rayon: "Aid Toyo Rayon"
  JAP_kawasaki_aircraft_plant: "Construct Kawasaki Aircraft Plant"
 
-## Peace Deals ##
+### Peace Deals ###
  JAP_fading_sun: "Згасаюче сонце"
- 
- JAP_fading_sun_timer: "Згасаюче сонце" 
+
+ JAP_fading_sun_timer: "Згасаюче сонце"
  JAP_fading_sun_timer_desc: "Ми втратили контроль над більшою частиною наших материкових володінь! Ми все ще можемо продовжувати війну, але недовго. Кількість політиків, які підтримують війну, зменшується. Якщо імперія хоче вижити, то вона повинна повернути свої землі якомога швидше."
- 
+
  JAP_fading_sun_timer_enemy: "Згасаюче сонце"
  JAP_fading_sun_timer_enemy_desc: "Втрата Корейського півострова і Порт-Артура внаслідок нападу іноземних сил - серйозний удар по наших поточних військових зусиллях. Хоча ризик вторгнення на Домашні острови невеликий, якщо ми не зможемо закріпитися на материку, внутрішні заворушення, викликані нашими численними поразками, незабаром змусять нас сісти за стіл переговорів."
- 
+
  JAP_offer_peace_to_china: "Запропонувати мир Китаю"
  JAP_offer_peace_to_china_desc: "Китайці перемогли наші армії і тепер контролюють Маньчжурію та Корею. Хоча вони не здатні вторгнутися на Домашні острови, сором і приниження від цієї поразки викликали масові внутрішні заворушення. Найкращим варіантом дій зараз є переговори про мир, незважаючи на ганьбу, і перехід до боротьби з нашими новими внутрішніми проблемами."
  JAP_offer_peace_to_russia: "Запропонуйте мир [From.GetNameDef]"
  JAP_offer_peace_to_russia_desc: "Росіяни перемогли наші армії і тепер контролюють наші території на материку, раз і назавжди помстившись за свою поразку 1905 року. Хоча вони не здатні вторгнутися на Домашні острови, сором і приниження від цієї поразки спричинили масові внутрішні заворушення. Найкращим варіантом дій зараз є переговори про мир, незважаючи на ганьбу, і перехід до боротьби з нашими новими внутрішніми проблемами."
- 
- JAP_will_surrender_if_forced_out_of_china: "Наслідки, якщо Японія не контролює жодної держави в континентальному Китаї:"
+
+ JAP_offer_peace_available_tt: "§Y[JAP.GetNameDefCap]§! or its allies controls none of Korea"
+
  JAP_all_chinese_allies_capitulated: "Усі китайські союзники в континентальній Азії капітулювали"
  JAP_all_owned_chinese_states_occupied: "Усі держави, що перебувають у власності материкового Китаю, окуповані"
 
@@ -687,21 +647,23 @@
  JAP_attack_australia_desc: "[From.GetNameDefCap] перебуває в тихоокеанській сфері наших інтересів, настав час нав'язати їм свою волю."
  JAP_demand_hawaii: "Demand Hawaii from [From.GetNameDef]"
  JAP_demand_hawaii_desc: "The Second American Civil War has shown that the American government is unable to properly care for the people living in Hawaii. As the new undisputed power in the Pacific, it is only fair that we demand the Hawaiian Islands be surrendered to us, as to ensure mutually beneficial protection under our guidance. Should they refuse, then war it shall be."
+ JAP_take_over_sakhalin: "Take Over North Sakhalin"
+ JAP_take_over_sakhalin_desc: "The northern half contains all of the oil on the island of Karafuto. With weak government in control of Far East, and Russia at back foot, we have never had as good chance to seize it!"
  JAP_attack_russia: "Attack [From.GetNameDefCap]"
  JAP_attack_russia_desc: "As we have achieved the dream of co-prosperity in an Asia free from European exploitation, [From.GetNameDef] remains as a thorn in our side, bitter still about their defeat in 1905. We cannot have them jeopardise our great project, and preemptive action must be taken to neutralise them for good."
 
 ### Influence in China ###
  JAP_influence_china: "Вплив на Китай"
  JAP_influence_china_desc: "Китай - велика країна. "Вплив" може означати багато речей - від простого сіяння хаосу, підтримки наших союзників до простої відвертої різанини. Робіть свій вибір з розумом, оскільки багато з них можуть мати непередбачувані наслідки..."
- 
+
 ### Support Allies ###
  JAP_china_army_training: "Розширення армії [From.GetName]"
  JAP_provide_arms_facilities: "Поставки зброї для [From.GetNameDef]"
  JAP_support_offensive: "Підтримати наступ військ [From.GetNameDef]"
  JAP_provide_planes: "Надати [From.GetNameDef] доступ до креслень винищувачів"
- 
+
 ### Divide and Conquer ###
- support_chinese_seperatists: "Підтримати [From.GetAdjectiveCap]у незалежність"
+ support_chinese_separatists: "Підтримати [From.GetAdjectiveCap]у незалежність"
  send_ETS_tartar_guy: "Відправити Абдурашида Ібрагімова до [ETS.GetName]"
 
  ## Peace and Reconciliation ##
@@ -722,7 +684,7 @@
  develop_fengtian: "Розвинути військову промисловість [FNG.GetNameDef]"
  harbin_chemical_research: "Хімічні дослідження в Харбіні"
  changchun_industry_investment: "Промисловий регіон Цзілінь"
- 
+
 ### Focuses - Political - Base ###
  JAP_NSA_focus: "Закон про національну безпеку"
  JAP_NSA_focus_desc: "Бурхливі обговорення закону про національну безпеку ось уже кілька тижнів стрясають стіни будівлі парламенту. Консервативні парламентарії побоюються, що в разі неприйняття закону, радикали спробують захопити владу. Прийшла пора вирішити, яким курсом піде імперія. Майбутнє Японії в наших руках."
@@ -777,7 +739,7 @@
  JAP_devotion_to_war_effort: "Devotion to the War Effort"
  JAP_devotion_to_war_effort_desc: "The coming decade will be one of war, as great European powers yet again find themselves in open conflict. For Japan to defend her rightful place in the world, everyone must be made to understand that in these trying times, they will have to work twice as hard to provide for their countrymen fighting far away from home, for they are brave heroes of Japan, and for them to succeed, no effort is too great."
  JAP_cult_imperial_institution: "Cult of the Imperial Institution"
- JAP_cult_imperial_institution_desc: "More than a mere figurehead, the Emperor represents millenias of tradition and shared identity to the people of Japan. As the representatives of His Majesty, our goal is also to ensure our people remember that the sacrifices they make are helping protect the very essence of our nation against those who seek to alter it, for generations to come. "
+ JAP_cult_imperial_institution_desc: "More than a mere figurehead, the Emperor represents millenias of tradition and shared identity to the people of Japan. As the representatives of His Majesty, our goal is also to ensure our people remember that the sacrifices they make are helping protect the very essence of our nation against those who seek to alter it, for generations to come."
  JAP_towards_nationalist_mass_party: "Towards a Nationalist Mass Party"
  JAP_towards_nationalist_mass_party_desc: "Created by anti-mainstream politicians at odds with the establishment in their parties, the Kokumin Dōmei has emerged as a new, powerful nationalist force in parliament. If some are arguing that their victory is a step backwards for democracy, they insist that they are most fit to represent the people, unlike the sluggish parties which nearly had the nation fall to syndicalism. Japanese people will be mobilised, and made to support the state and the army in their endeavours."
  JAP_dirigiste_economics: "Dirigiste Economics"
@@ -812,7 +774,7 @@
  JAP_national_defence_state_desc: "While the Army has pushed forth a great deal of its proposals, the fact is that governments come and go, and our progress may be washed away in the future. To safeguard against the possibility, we shall create a political party that will officially unite the Japanese people and serve as a tool to keep the Diet in line."
 
 ### Focuses - Political - Shōwa Restoration ###
- JAP_showa_restoration: "Реставрація Сьова"
+ JAP_showa_restoration: "Реставрація Шьова"
  JAP_showa_restoration_desc: "With His Majesty officially sanctioning the coup, the restoration was a success! However, the groundwork has yet to be truly laid - taking power is one thing, but governance is another. The Restorationist factions are already bickering, and to ease the tension, Premier Konoe will ensure that the restorationist cause shall be a unifying one for all of Japan."
  JAP_destroy_degenerative_individualism: "Destroy Degenerative Individualism"
  JAP_destroy_degenerative_individualism_desc: "Individualism - a western import - undoubtedly brings selfishness and unwillingness to serve the nation. Manifestations of it and its sister slogans - 'democracy', 'freedom', 'equality', have corrupted the nation to its very core. It is time we stamp out these concepts and work to eliminate them entirely."
@@ -820,7 +782,7 @@
  JAP_eliminate_party_politics_desc: "We believe in the unity of thought and action, not the endless, divisive bickering that has brought ruin. The economy may grow and the state prospers, but it will mean nothing if the nation dies. Only the Restorationist cause can nurture life back to the nation."
 
  JAP_work_through_the_dojinkai: "Work Through the Dōjinkai"
- JAP_work_through_the_dojinkai_desc: "A political movement cannot live on words alone, and to ensure that ours doesn't end up as an ineffectual flash in the pan, we need to make make it clear to the businessmen, bureaucrats and career politicians who keep the country running that there is a place at the table for them.\n\nThankfully, the Shōwa Dōjinkai has been doing exactly that."
+ JAP_work_through_the_dojinkai_desc: "A political movement cannot live on words alone, and to ensure that ours doesn't end up as an ineffectual flash in the pan, we need to make it clear to the businessmen, bureaucrats and career politicians who keep the country running that there is a place at the table for them.\n\nThankfully, the Shōwa Dōjinkai has been doing exactly that."
  JAP_one_country_one_party: "One Country, One Party"
  JAP_one_country_one_party_desc: "There is nothing more petty than provincial party politics. It would be much more efficient if we had a system in which all former political parties and their members were absorbed into the Taisei Yokusankai, even in the most remote villages."
  JAP_rural_development: "Development of the Countryside"
@@ -869,7 +831,7 @@
  JAP_prioritise_military_oil_desc: "With the country at war, oil is more vital than ever. While it is useful for many civilian purposes, it is vital for our armed forces. As such, we must prioritise oil for military uses first and foremost."
  JAP_land_reform_focus: "Земельна реформа"
  JAP_land_reform_focus_desc: "Землекористування в Японії вкрай неефективне. Майже всі фракції згодні з тим, що потрібно вжити заходів щодо перерозподілу землі, але як це зробити - питання дискусійне. Проте, якщо ми хочемо розкрити економічну міць Японії, то маємо вирішити цю проблему."
- 
+
 ### Focuses - Economic - Zaibatsu ###
  JAP_support_the_zaibatsu: "Підтримка дзайбацу"
  JAP_support_the_zaibatsu_desc: "За останні десятиліття дзайбацу помітно збільшили свій політичний та економічний вплив. У наших інтересах співпрацювати з ними."
@@ -880,7 +842,7 @@
  JAP_foster_technological_innovation: "Дослідження дзайбацу"
  JAP_foster_technological_innovation_desc: "Державне фінансування зробить довгий шлях до того, щоб у кваліфікованих учених дзайбацу було все необхідне для того, щоб вести Японію до майбутнього і дати уряду контроль над дослідницькою діяльністю."
  JAP_the_central_railroad_plan: "Центральна залізниця дзайбацу"
- JAP_the_central_railroad_plan_desc: "Центральний план залізниць - це серія нових і модернізованих залізничних ліній на домашніх островах, які перебувають в авангарді нашого постійного прагнення до ефективного та продуктивного суспільства. Однак його реалізація відтерміновується вже протягом багатьох років, і для цього бракує ані фінансування, ані фахівців. Однак, на щастя, дзайбацу в змозі забезпечити і те, й інше, а тому, за їхньої підтримки, проєкт може бути, нарешті, завершений." 
+ JAP_the_central_railroad_plan_desc: "Центральний план залізниць - це серія нових і модернізованих залізничних ліній на домашніх островах, які перебувають в авангарді нашого постійного прагнення до ефективного та продуктивного суспільства. Однак його реалізація відтерміновується вже протягом багатьох років, і для цього бракує ані фінансування, ані фахівців. Однак, на щастя, дзайбацу в змозі забезпечити і те, й інше, а тому, за їхньої підтримки, проєкт може бути, нарешті, завершений."
 
 ### Focuses - Economic - Shared ###"
  JAP_build_new_aircraft_facilities: "Build New Aircraft Facilities"
@@ -894,7 +856,7 @@
  JAP_rocket_science_desc: "Rocket developments can not only provide us with rocket weaponry, but even, the scientists theorise, with rocket engines for high speed travel."
  JAP_colonial_incentives: "Colonial Incentives"
  JAP_colonial_incentives_desc: "In order to save our dying agrarian sector and further expand our economy we sorely need to invest in colonial projects. The Empire is Japan's future."
- 
+
 ### Focuses - Economic - Bureaucratic ###
  JAP_bureaucratic_economy: "Бюрократична економіка"
  JAP_bureaucratic_economy_desc: "Уряд вирішив реформувати економіку таким чином, щоб вона регулювалася бюрократичною структурою, яка покликана обмежити владу дзайбацу та збільшити прибуток держави."
@@ -906,7 +868,7 @@
  JAP_reorganise_resource_extraction_desc: "По всьому світу наростає напруженість і зараз як ніколи важливо забезпечити ефективність видобувної промисловості. Щоб домогтися цього, ресурсодобувні фірми мають бути підпорядковані великому бюрократичному наглядовому органу та реорганізувати свою внутрішню структуру відповідно до рекомендацій держави."
  JAP_the_shinkansen_proposal: "Пропозиція Сінкансен"
  JAP_the_shinkansen_proposal_desc: "Настав час прийняти пропозицію Сінкансена, створити з'єднувальний комплекс швидкісних залізниць, а потім з'єднати їх з новими паровими та електричними локомотивами. Ці лінії зможуть перевозити пасажирів і вантажі на небачених раніше швидкостях."
- 
+
 ### Focuses - Military ###
  JAP_revise_imperial_defence_policy: "Revise Imperial Defence Policy"
  JAP_revise_imperial_defence_policy_desc: "Jakuniku Kyōshoku or 'Survival of the Fittest' is a fundamental understanding in our military philosophy; the Western imperialists have greatly expanded their air forces and navies and if we do not do the same we will surely fall victim to their forces. Factionalism in the army has remained and so our armed forces have been unable to reach their full potential, so deciding on our doctrine is of utmost importance."
@@ -953,11 +915,11 @@
  JAP_logistics_corps: "Logistics Corps"
  JAP_logistics_corps_desc: "A branch in the army designated on logistical matters - ensuring we have the necessary supplies, maintenance, information, and more - will help us to overcome difficult conditions, especially in some of the more unfavourable terrain across Asia."
  JAP_envolepment_tactics: "Envelopment Tactics"
- JAP_envolepment_tactics_desc: "If there is a lesson to be taken from the Great War, it is that frontal assaults alone are rarely decisive. Far better it is to break through the enemy’s flanks and attack the rear, causing great disorganisation at less cost to our own forces."
+ JAP_envolepment_tactics_desc: "If there is a lesson to be taken from the Great War, it is that frontal assaults alone are rarely decisive. Far better it is to break through the enemy's flanks and attack the rear, causing great disorganisation at less cost to our own forces."
  JAP_expand_the_engineer_corps: "Expand the Army Engineering Corps"
  JAP_expand_the_engineer_corps_desc: "Given the varied terrain we will be fighting in, combined with the often lacking infrastructure in Asia, the creation of a specialised engineer corps would be a great boon to our armed forces. We will put funds towards just such a unit."
  JAP_update_the_imperial_war_college: "Update the Imperial War College"
- JAP_update_the_imperial_war_college_desc: "The Army War College trains the very best of our country’s officer corps. Originally inspired by the Prussian Staff College, its instructional techniques have hardly changed in fifty years. It is time this revered institution has been brought up to modern standards."
+ JAP_update_the_imperial_war_college_desc: "The Army War College trains the very best of our country's officer corps. Originally inspired by the Prussian Staff College, its instructional techniques have hardly changed in fifty years. It is time this revered institution has been brought up to modern standards."
 
 ### Focuses - Navy ###
  JAP_start_the_third_circle_plan: "Start the Third Circle Plan"
@@ -981,7 +943,7 @@
  JAP_expand_shipping_capacity: "Expand Shipping Capacity"
  JAP_expand_shipping_capacity_desc: "Warships may be more impressive, but merchant shipping is just as, if not more, important in sustaining the war effort. This is especially true for us, as being an island nation, we must necessarily import resources and supply our expeditionary forces by sea."
  JAP_start_the_fourth_circle_plan: "[GetMaruKeikaku]"
- JAP_start_the_fourth_circle_plan_desc: "The 4th Naval Armaments Supplement Programme, or Fourth Maru Keikaku, is the Naval Ministry’s latest outline for the expansion of the IJN. With a six-year timeframe and a budget of hundreds of thousands of yen, we are expecting to produce dozens of vessels of all types."
+ JAP_start_the_fourth_circle_plan_desc: "The 4th Naval Armaments Supplement Programme, or Fourth Maru Keikaku, is the Naval Ministry's latest outline for the expansion of the IJN. With a six-year timeframe and a budget of hundreds of thousands of yen, we are expecting to produce dozens of vessels of all types."
  JAP_expand_personnel_reserves: "Expand Personnel Reserves"
  JAP_expand_personnel_reserves_desc: "Though it is often overlooked, the navy has manpower requirements in the same way that the army does. Building up the size of our naval reserves will enable us to quickly replace losses."
  JAP_scrap_and_build_program: "Scrap And Build Programme"
@@ -1033,31 +995,31 @@
  JAP_quality_shipbuilding: "Quality Shipbuilding"
  JAP_mass_shipbuilding: "Mass Shipbuilding"
  JAP_naval_personnel_expansion: "Naval Personnel Expansion"
- 
+
 ### Focuses - Foreign - Base ###
  JAP_rising_sun: "Hakkō Ichiu"
  JAP_rising_sun_desc: "Правильний напрямок зовнішньої політики Японії довгий час обговорювали як ідеологи, так і військові теоретики. Усі вони зійшлися в одному - світ стане кращим, якщо перебуватиме під одним дахом."
- 
+
 ### Focuses - Nanshin-ron ###
- JAP_go_south: "Nanshin-ron"
- JAP_go_south_desc: "За всієї своєї могутності, Японія має стратегічний недолік - залежність від іноземної нафти. Прагнучи самозабезпечення та безпеки від постійних зазіхань з боку західного імперіалізму, чи не було б розумно одночасно роздобути нафтові родовища та розширити нашу сферу безпеки?"
- JAP_pacific_islands: "Тихоокеанська зона безпеки"
- JAP_pacific_islands_desc: "Америку поглинув хаос і буде нерозумно цим не скористатися. На порядок денний винесено питання про створення тихоокеанської зони безпеки, яка покликана забезпечити захист і розширення наших тихоокеанських володінь."
+ JAP_nanshin_ron: "Nanshin-ron"
+ JAP_nanshin_ron_desc: "За всієї своєї могутності, Японія має стратегічний недолік - залежність від іноземної нафти. Прагнучи самозабезпечення та безпеки від постійних зазіхань з боку західного імперіалізму, чи не було б розумно одночасно роздобути нафтові родовища та розширити нашу сферу безпеки?"
+ JAP_extend_pacific_security_zone: "Тихоокеанська зона безпеки"
+ JAP_extend_pacific_security_zone_desc: "Америку поглинув хаос і буде нерозумно цим не скористатися. На порядок денний винесено питання про створення тихоокеанської зони безпеки, яка покликана забезпечити захист і розширення наших тихоокеанських володінь."
  JAP_hawaii: "Тиск на Гаваї"
  JAP_hawaii_desc: "Позиція Америки на Тихому океані ослабла, що дає нам можливість анексувати невизнані Гаваї. Зайнявши острови, ми на найближчі роки забезпечимо нашу імперію непробивним кордоном на заході."
- JAP_demand_indonesia: "Ціль: Ост-Індія"
- JAP_demand_indonesia_desc: "Острови Ост-Індії століттями перебували під гнітом нідерландців, чиї великі ресурси осідали в кишенях гнобителів. Ми повинні покінчити з цією несправедливістю, шляхом звільнення цих ресурсів для сфери співпроцвітання - для тих, кому ці ресурси належать по праву!"
+ JAP_target_east_indies: "Ціль: Ост-Індія"
+ JAP_target_east_indies_desc: "Острови Ост-Індії століттями перебували під гнітом нідерландців, чиї великі ресурси осідали в кишенях гнобителів. Ми повинні покінчити з цією несправедливістю, шляхом звільнення цих ресурсів для сфери співпроцвітання - для тих, кому ці ресурси належать по праву!"
  JAP_philippines: "Тиск на Філіппіни"
  JAP_philippines_desc: "З відходом імперіалістів, ми можемо відправити наші кораблі на захоплення Філіппін для їхньої інтеграції у Сферу Співпроцвітання. Зрозуміло, не всі філіппінці оцінять наше рішення."
  JAP_claim_colonies: "Територія Південних морів"
  JAP_claim_colonies_desc: "Кожен не захоплений японцями острів у Тихому океані ставить під удар безпеку рідних островів. Німецька Імперія не має права на жоден із цих островів, і тому вони належать нам по праву. Спочатку ми формалізуємо наші домагання на територію Південного моря. Потім ми можемо використовувати ці домагання, щоб ввести їх у нашу імперію, чи то за допомогою дипломатії, чи то за допомогою могутності Японського Імператорського Флоту."
  JAP_ultimatum: "Колоніальний ультиматум"
  JAP_ultimatum_desc: "Ми повинні використати можливість стати єдиною імперією Азії та Тихого океану. Одним із кроків до цього буде вимога від німців усіх їхніх східноазійських і тихоокеанських володінь, а також китайських концесій. Відмова від наших вимог означає війну!"
- JAP_indochina_question: "Ціль: Індокитай"
- JAP_indochina_question_desc: "Індокитай не повинен залишатися незалежним, питання його суверенітету має бути вирішене якомога швидше."
+ JAP_target_indochina: "Ціль: Індокитай"
+ JAP_target_indochina_desc: "Індокитай не повинен залишатися незалежним, питання його суверенітету має бути вирішене якомога швидше."
  JAP_target_siam: "Тиск на Сіам"
  JAP_target_siam_desc: "Ми сподівалися, що сіамці проявлять розсудливість і приєднаються до нас, але отримавши від них їхню відмову, у нас немає іншого вибору, окрім як змусити їх підкоритися нам!"
- 
+
 ### Focuses - The New Order ###
  JAP_new_order_in_east_asia: "Новий порядок у Східній Азії"
  JAP_new_order_in_east_asia_desc: "Оскільки Росія не становить загрози за Амуром, а американці втягнуті в громадянську війну, настав час виконати наше призначення. Китай є слабким, корумпованим і розділеним, і його необхідно привести в сучасну епоху під керівництвом Японії. Якщо китайці не погодяться, то ми просто повинні викласти їм суворий урок непокори."
@@ -1245,26 +1207,26 @@
  JAP_asian_economic_sphere_desc: "Ця ідея показує загальний рівень зростання нашої економіки, який ми отримуємо завдяки нашому положенню у Сфері Співпроцвітання. Сила нашої економіки залежить від кількості наявних у нас торгових партнерів та їхньої промислової бази."
  JAP_asian_economic_sphere_member: "Азійська сфера співпроцвітання"
  JAP_asian_economic_sphere_member_desc: "Ця ідея показує загальний рівень зростання нашої економіки, який ми отримуємо за рахунок нашого партнерства в японській Сфері Співпроцвітання. Що більше членів перебуває у складі сфери і що більша спільна виробнича база, то сильнішою буде наша економіка."
- 
+
  JAP_member_integration_1: "Економічне проникнення: Низьке"
  JAP_member_integration_1_desc: "Японські інвестиції в нашу країну є значною силою, яка стимулює наше економічне зростання... і вплив Японії на нашу країну. Що більшим буде цей вплив, то сильнішою буде наша залежність від постійно зростаючої економіки Японії."
  JAP_member_integration_2: "Економічне проникнення: Помірне"
  JAP_member_integration_2_desc: "$JAP_member_integration_1_desc$"
  JAP_member_integration_3: "Економічне проникнення: Високе"
  JAP_member_integration_3_desc: "$JAP_member_integration_1_desc$"
- 
+
  JAP_india_support: "Японські радники"
  JAP_trade_embargoed: "Японське ембарго"
  JAP_nav_tra_idea: "Кораблі процвітання"
 
  # Tooltips
+ JAP_fading_sun_NOT: "The Japanese colonial empire has §Rnot§! dissolved"
  JAP_may_now_invite_sphere: "Тепер держави Східної Азії можуть бути запрошені до сфери економічного впливу Японії\n"
  JAP_may_now_invest_sphere: "Дозволить ухвалювати рішення щодо надання інвестицій для членів торговельного союзу, що з часом призведе до домінування японського впливу над ними.\n"
  JAP_withdraws_from_sphere: "§Y[Root.GetNameDefCap]§! віддалиться від японського торгового союзу\n"
  JAP_THIS_withdraws_from_sphere: "§Y[This.GetNameDefCap]§! віддалиться від японського торгового союзу\n"
 
  JAP_tokyo_conference_tt: "Вибір цього фокуса запустить ланцюжок подій, пов'язаний із Токійською конференцією."
- JAP_alliance_tt: "Взявши цей фокус, усі держави-учасниці Токійської конференції приєднаються до нашої фракції."
  JAP_80_chance_of_agreeing_tt: "Присутні будуть §Gймовірно§! згодні."
  JAP_95_chance_of_agreeing_tt: "Присутні з §Gвеликою ймовірністю§! погодяться."
  JAP_100_chance_of_agreeing_tt: "Присутні §Gнапевно§! погодяться."
@@ -1278,136 +1240,136 @@
  JAP_KR_gathering_storm_desc: "Після послідовних принижень Версальського договору та Цінтаоської угоди не все було гаразд в Імперії висхідного сонця. Період економічних потрясінь завершився синдикалістським замахом на життя принца-регента Хірохіто у 1926 році, а рік кризи ознаменувався зміною нестабільних урядів - спочатку генерала Танаки, потім демократичного коаліційного кабінету - та інтервенцією у північно-східний Китай. Однак на світанку 1936 року Японія, здається, готова розширити свою імперію - оскільки домінування Німеччини, схоже, занепадає, японці жадібно дивляться на домінований Німеччиною Китай і німецькі володіння в Тихому океані..."
 
 ### Intro Screen ###
+ JAP_country_intro_background: "GFX_JAP_intro"
  JAP_country_intro_header: "Відновлення після втраченого десятиліття"
- JAP_country_intro_content: "1920-ті роки, які стали відомі як "Втрачене десятиліття", були позначені економічною депресією та політичною нестабільністю в Японії. Особливо важким було становище в аграрному секторі, що спричинило масові демографічні зміни, оскільки фермери тікали з депресивної сільської місцевості до міст, заполонивши ринок праці та ще більше знизивши заробітну плату.\n\nПісля відходу з 'конституційної коаліції' Кенсейкай і з поста глави уряду, Інукаї та його кабінет успішно розширили японську сферу впливу до Маньчжурії та кордонів Сибіру, відкривши для японської економіки життєво важливий ринок експорту, при цьому ситуація в сільському господарстві продовжувала погіршуватися. Настав 1936 рік, триваюче переозброєння і державні інвестиції повністю перекроїли промислову економіку Японії, проте проблема сільської бідності все ще залишається невирішеною."
+ JAP_country_intro_content: "1920-ті роки, які стали відомі як \"Втрачене десятиліття\", були позначені економічною депресією та політичною нестабільністю в Японії. Особливо важким було становище в аграрному секторі, що спричинило масові демографічні зміни, оскільки фермери тікали з депресивної сільської місцевості до міст, заполонивши ринок праці та ще більше знизивши заробітну плату.\n\nПісля відходу з 'конституційної коаліції' Кенсейкай і з поста глави уряду, Інукаї та його кабінет успішно розширили японську сферу впливу до Маньчжурії та кордонів Сибіру, відкривши для японської економіки життєво важливий ринок експорту, при цьому ситуація в сільському господарстві продовжувала погіршуватися. Настав 1936 рік, триваюче переозброєння і державні інвестиції повністю перекроїли промислову економіку Японії, проте проблема сільської бідності все ще залишається невирішеною."
 
  JAP_guide: "§MElectoral Reform§! (§mMarket Liberal §!/ §cSocial Conservative §!/ §SSocial Democrat §!/ §gAuthoritarian Democrat§!)\n£white_dot Force through the National Security Act.\n£white_dot If the §cSeiyūkai§! keep their majority during the 1936 election, electoral reform will always succeed, otherwise you must choose to support the government when the Emperor speaks up about the National Security Act.\n£white_dot Afterwards the parties can temporarily unite together until the next election under the §gGovernment of National Unity§!, otherwise a snap election will occur in which §cSeiyūkai§! or §mMinseito§! can win.\n£white_dot In future elections, you will also be able to choose between electing §gKokumin Dōmei§! or §SShakai Taishūtō§!.\n\n§MCentralist Takeover§! (§PPaternal Autocrat§!)\n£white_dot If the §cSeiyūkai§! lose their majority during the 1936 election, and the National Security Act is forced through the military can attempt a coup.\n£white_dot When the Emperor speaks up about the National Security Act, choose to oppose the government which will prompt a military coup resulting in the §PIJA - Centralists§! seizing power.\n\n§MRestorationist Coup - Hirohito§! (§NNational Populist§!)\n£white_dot If the National Security Act is defeated, the military will coup the government and temporarily seize power as the §PIJA - Centralists§!.\n£white_dot Soon after the more radical elements of the army will launch a counter coup, resulting in the §NIJA - Restorationists§! seizing power instead.\n£white_dot NOTE: In a few months time Syndicalists will attempt to assassinate Emperor Hirohito, potentially resulting in his brother Yasuhito becoming regent. If this happens, three years later Yasuhito will have the opportunity to become permanent Emperor or maintain the regency.\n\n"
 
 ### Events ###
-
  japdom.2.t: "Розпуск парламенту"
  japdom.2.d: "Чотирирічний термін обраного в 1932 році Імператорського парламенту поточного скликання добігає кінця. Прем'єр-міністр Інукаї Цуйосі оголосить про проведення загальних виборів щойно з'явиться така можливість."
  japdom.2.a: "Дуже добре"
- 
+
  japdom.3.t: "Загальні вибори 1936 року"
  japdom.3.d: "Після відновлення дії конституції 1926 року і подальшої політичної перебудови, домінантні позиції в японській політиці посіли дві партії: консервативна Ріккен Сейюкай (Партія друзів конституційного правління) і ліберальна Мінсейто (Конституційно-демократична партія).\n\nРіккен Сейюкай набрала абсолютну більшість на загальних виборах 1932 року, проте її підтримка в сільській місцевості (традиційній виборчій базі) продовжує знижуватися. Оскільки політична ситуація обернулася проти правлячої партії, Мінсейто, яка до 1927 року була відома як Кенсейкай (Асоціація конституційного уряду), зміцнила свою виборчу базу в усіх містах і почала розширюватися в село, сподіваючись позбавити Сейюкай абсолютної більшості в парламенті. Новим, третім гравцем на загальних виборах 1936 року є заснована соціал-демократами і синдикалістами 1933 року Сякай Тайсюто (Соціалістична масова партія).\n\nНастав час дізнатися, чи вдасться Сейюкай набрати достатню кількість місць для збереження своєї абсолютної більшості..."
  japdom.3.a: "Сейюкай зберегла абсолютну більшість!"
  japdom.3.b: "Сейюкай втратила абсолютну більшість!"
- 
+
  japdom.4.t: "Вбивство Катаями Сен"
  japdom.4.d: "Народжений 1859 року, Катаяма Сен був одним із найстаріших лідерів японських синдикалістів і відомий як "батько японського синдикалізму". Після участі в ранньому соціал-демократичному русі, його вигнали до США, де він потрапив під вплив синдикаліста Джека Ріда, який перетворив організацію "Індустріальні робітники світу" на ОСА. Катаяма повернувся до Японії після відновлення дії конституції 1926 року і заснував першу узаконену в імперії синдикалістську партію, Рьодо-Номінто (Партію трудящих і селян). Після того, як 1932 року партію було оголошено поза законом, він сформував іншу, під назвою Сякай Тайсюто (Соціалістична масова партія), яка стала об'єднанням соціал-демократичних партій і синдикалістських рухів. Учора, під час відвідин Кіото, щоб привітати Ямамото Сенджі, члена Тайсюто, з його обранням на посаду голови партії, банда правих активістів штурмувала його офіс і побила чоловіків кийками. Ямамото вижив, але 75-річний Катаяма так і не приходив до тями і помер сьогодні вранці."
  japdom.4.a: "Це погано..."
- 
+
  japdom.5.t: "Чвари серед японських лівих"
  japdom.5.d: "Шок, що стався після вбивства Катаями Сен, спочатку об'єднав Сякай Тайсюто в боротьбі з "білим терором", але ця єдність довго не тривала. Спочатку партія являла собою коаліцію різних соціал-демократичних і синдикалістських організацій, які були об'єднані лише з метою "соціалізації економічної структури з пролетаріатом в її основі". До своєї смерті, Катаяма оберігав фракцію від внутрішніх ідеологічних суперечностей, але залишившись без свого лідера партія була змушена зіткнутися з питанням своєї чіткої ідеологічної позиції, що незабаром призвело до внутрішньопартійної боротьби.\n\nУпродовж усієї весни 1936 року, націонал-синдикалісти, представлені Нітірокей (Кліка японських робітників), перейнялися ідеями тоталізму та почали енергійно залучати нових членів до своїх лав не лише всередині партії за рахунок поміркованої Сеямінкеї (Соціал-демократична кліка), а й поза партією, особливо всередині Ніхон Рьодо Сьодомей (Японська федерація праці), що контролюється Сеямінкеєю. Незабаром між двома угрупованнями почалося відкрите протистояння. Нітірокей звинуватила Сьодомей у "створенні бюрократизму в середовищі робітників", а Сьодомей і Сямінкей звинуватили Нітірокей у захопленні влади і перетворенні трудових організацій на свої маріонетки. На початку цього місяця, членів Нітірокей вигнали як із Сьодомей, так і з Тайсюто, дозволивши націонал-синдикалістам діяти незалежно від інших лівих фракцій."
  japdom.5.a: "Цікавий розвиток подій"
- 
+
  japdom.6.t: "Інцидент 15 травня"
  japdom.6.d: "Прем'єр-міністра вбито! Пов'язані з Нітірокей радикально налаштовані офіцери увірвалися в офіційну резиденцію прем'єр-міністра Інукаї і розстріляли його. Вони стверджують, що зробили це в помсту за смерть Катаями Сен і вбивство робітників у Ніїгаті. Цей інцидент сильно потряс країну. Ображена інцидентом, Адміралтейська рада вже почала засідання трибуналу і ретельно розслідує діяльність радикалів у лавах імператорського флоту."
  japdom.6.a: "Призначити Сузукі Кісабуро на місце Інукаї"
- 
+
  japdom.7.t: "Реставраціоністи та централісти"
  japdom.7.d: "Фракція Ісінха є організацією радикально налаштованих молодших офіцерів, які бажають повернути імператору абсолютну владу. В їхню ідеологію входять антикапіталізм, антиолігархізм і антипарламентаризм. Багато хто з цих офіцерів походить із неблагополучних або бідних сімей, які з дитинства знайомі з голодом і відчувають відразу до того, що вони називають "злісним впливом фаворитизму". Життєві негаразди привели їх до ідеї того, що нинішній уряд відібрав владу в імператора і веде країну до занепаду. Як результат, розв'язання проблем вони вбачають у позбавленні від правлячих еліт і відновленні абсолютної влади імператора, що потім має призвести до початку проведення реформ, які мають змінити вигляд країни. Їм протистоїть фракція Тюусінха, що має зв'язки з центральним військовим керівництвом і підтримує співпрацю з нинішнім урядом, а також прагне мілітаризації."
  japdom.7.a: "Це завдасть нам проблем..."
- 
+
  japdom.8.t: "Обговорення питання державної безпеки"
  japdom.8.d: "Останні кілька місяців у парламенті зростала кількість порушуваних на засіданнях питань, зараз їхня кількість сягнула лякаючого значення. Багато парламентаріїв бояться за свої життя, і процес вирішення обговорюваних проблем більше не питання нарощування політичної влади або кар'єри, а виживання. Зростає кількість згодних із думкою про те, що поточних законів про безпеку недостатньо для захисту демократії, потрібно щось більше. У будь-якому разі, інцидент 15 травня не повинен повторитися."
  japdom.8.a: "Нам необхідний всеосяжний закон!"
- 
+
  japdom.9.t: "Закон про національну безпеку"
  japdom.9.d: "Сумнозвісний Закон про збереження миру запровадив режим Танакі на початку 1924 року, після повстання анархістів у Канто у вересні 1923 року та замаху синдикалістів на тоді ще спадкоємного принца Хірохіто в грудні того ж року. Закон різко обмежив громадянські права і став символом драконівського правління генерала Танакі. Коли режим був повалений конституційною реставрацією 1926 року, закон було скасовано, але зараз прем'єр-міністр Сузукі Кісабуро хоче повернути його, хоча і в більш поміркованій і перейменованій формі у вигляді Закону про національну безпеку. Він зустрів сильну опозицію навіть у своєму кабінеті, громадська думка опустилася до нового мінімуму. Сузукі все ж вважає, що повернення закону є необхідним кроком для протидії наростаючій хвилі синдикалізму, і він не самотній у цій думці. Очолювана Накадзімою Тікухей з Ріккен Сейюкай і Адаті Кензо з Мінсейто міжпартійна парламентська група оголосила цей закон "останнім оплотом конституційного уряду" і підтримує його. Крім того, Палата перів і Таємна рада також підтримують цей закон."
  japdom.9.a: "Заради захисту нашої демократії, закон буде ухвалено через силу."
  japdom.9.b: "Громадська думка та опозиція не дають закону бути ухваленим"
- 
+
  japdom.10.t: "Суд над учасниками інциденту 15 травня"
  japdom.10.d: "Минулого місяця розпочався військово-польовий суд над одинадцятьма вбивцями прем'єр-міністра Інукаї. До закінчення судового процесу до суду надійшла петиція, що містить понад 350 000 підписів кров'ю від співчуваючих по всій країні, в якій підписанти благають пом'якшити вирок. На додаток до петиції, суд також отримав прохання від одинадцяти юнаків у Ніїгаті, щоб замість офіцерів стратили їх. Як жест щирості своїх намірів, кожен із них відправив разом із проханням свій відрубаний палець! Весь судовий розгляд не мав достатньої популярності в суспільстві, щоб переконати суд прискорити процес. Хоч смертні вироки і були оголошені ще вчора, вбивці були страчені сьогодні на світанку."
  japdom.10.a: "Ця країна божеволіє..."
- 
+
  japdom.11.t: "Вбивство Сузукі Кісабуро"
  japdom.11.d: "Знову сталося немислиме! Сьогодні вдень прем'єр-міністр Сузукі і його свояк Хатояма Ітіро були присутні на партійних зборах у Каваго. Коли Хатояма встав, щоб виступити з промовою, синдикаліст із "Молодіжного добровольчого корпусу національного порятунку Саїтами" застрелив Сузукі і Хатояму, щоб помститися за страту вбивць прем'єр-міністра Інукаї. Рана Сузукі виявилася смертельною."
  japdom.11.a: "Спочивайте з миром"
- 
+
  japdom.12.t: "Уряд у люті"
  japdom.12.d: "Не дивно, що відмова від ухвалення Закону про національну безпеку викликала негативну реакцію в бік прем'єр-міністра. Консерватори і бюрократи, які підтримали законопроєкт, почуваються обдуреними вчинком Сузукі. Палата перів і Таємна рада, розчаровані нездатністю уряду вжити якихось заходів проти синдикалізму, втратили всяке терпіння щодо кабінету міністрів."
  japdom.12.a: "Дні Сузукі злічені..."
- 
+
  japdom.13.t: "Відставка Сузукі Кісабуро"
  japdom.13.d: "Всіма знехтуваний і принижений прем'єр-міністр подав у відставку, коли пери висловили свій осуд кабінету міністрів, а також з теплотою і схваленням призначили колишнього міністра внутрішніх справ Мізуно Рентаро на його місце. У вельми похмурому розвитку подій, Таємна рада та її ультраконсервативний голова барон Хіранума оголосили про те, що "парламентська імпотенція" має бути замінена більш стабільною системою."
  japdom.13.a: "Скличте екстрену нараду!"
- 
+
  japdom.14.t: "Обрання Мізуно Рентаро"
  japdom.14.dead: "Смерть Сузукі приголомшила Ріккен Сейюкай, було скликано екстрену нараду. Бюрократична фракція Токонамі, названа на честь Токонамі Такеіро (1867-1935), голови Сейю Хонто - партії, що підтримувала Танаку під час та після його диктатури, була підкошена втратою свого лідера, залишивши всю владу над фракцією реакціонеру Накадзімі. Зі своєї нової посади в якості директора загальних справ, Накадзіма радий можливості ухвалювати будь-які рішення за всю партію, але при цьому він не став призначати себе головою і замість цього на цю посаду призначив нинішнього прем'єр-міністра Мізуно Рентаро."
  japdom.14.notdead: "Відставка Сузукі приголомшила Ріккен Сейюкай, було скликано екстрену нараду. Бюрократична фракція Токонамі, названа на честь Токонамі Такеіро (1867-1935), голови Сейю Хонто - партії, що підтримувала Танаку під час та після його диктатури була підкошена втратою свого лідера, залишивши всю владу над фракцією реакціонеру Накадзімі. Зі своєї нової посади в якості директора загальних справ, Накадзіма радий можливості ухвалювати будь-які рішення за всю партію, але при цьому він не став призначати себе головою і замість цього на цю посаду призначив нинішнього прем'єр-міністра Мізуно Рентаро."
  japdom.14.a: "Нарешті хоч якась стабільність у політиці"
- 
+
  japdom.15.t: "Найдовша зима Японії"
  japdom.15.d: "Японський уряд виявився паралізованим. Відставка двох поспіль прем'єр-міністрів від Ріккен Сейюкаї серйозно послабила владу нового прем'єр-міністра, а відкриті заклики Хірануми знищити парламентську систему тільки погіршили політичну ситуацію. Екстремістські групи зростають з кожним днем, як і ступінь обурення військових кіл. Кілька високопоставлених офіцерів готували змову з метою повалення цивільної адміністрації та "порятунку" Імперії. Змовники підійшли до міністра сухопутних військ Хаясі Сендзюро з проханням підтримати їх..."
  japdom.15.a: "Майбутнє Японії залежить від нього"
- 
+
  japdom.16.t: "Найдовший день Японії"
  japdom.16.d: "Після десяти років політичної опали, армія знову взяла владу у свої руки. Цього разу, за допомогою перевороту. Ультраконсервативний політик барон Хіранума Кіітіро зараз є прем'єр-міністром, на всій території Великої Японської Імперії запроваджено воєнний стан."
  japdom.16.a: "Banzai!"
- 
+
  japdom.17.t: "Невдала спроба перевороту"
  japdom.17.d: "Навіть незважаючи на те, що міністр армії відмовився підтримати переворот, він не доклав жодних зусиль, щоб зупинити змову. Змовники сприйняли це як сигнал дозволу і почали діяти. Сьогодні вранці сили перевороту захопили Головне управління столичної поліції, резиденцію прем'єр-міністра і нову будівлю Імперського парламенту, але не змогли захопити Імператорський палац. На подив змовників, Імператор вчинив опір державному перевороту і віддав імператорський наказ придушити заколотників, вирішивши їхню долю. Сили перевороту здалися без опору, і ключові змовники були швидко спіймані, а деякі з них наклали на себе руки ще до того, як їх вдалося заарештувати."
  japdom.17.a: "Демократія перемогла!"
- 
+
  japdom.18.t: "Боротьба за владу"
  japdom.18.d: "Офіцери-реставраціоністи були головними учасниками перевороту, який повалив обраний уряд. Змовники розглядали парламентську систему як інститут плутократичної та капіталістичної влади, проте в перехідному уряді централісти зайняли ключові місця, залишивши реставраціоністів без роботи. Керівництво останніх дійшло висновку, що їх обдурили. Почалася нова боротьба за владу."
  japdom.18.a: "Це колись закінчиться?"
- 
+
  japdom.19.t: "Контр-переворот фракції Ісінха"
  japdom.19.d: "Сьогодні молодші офіцери-реставраціоністи організували новий державний переворот у районі Токіо! Рано вранці 1400 офіцерів і рядових військовослужбовців розпочали захоплення контролю над основними вузлами зв'язку та адміністративними об'єктами. Міністерство оборони, офіс геншатабу, штаб-квартира столичної поліції, офіційна резиденція прем'єр-міністра і будівля парламенту - всі вони були швидко захоплені, а імператорський палац потрапив в облогу. Опівдні сам імператор звернувся до солдатів і оголосив про свою офіційну підтримку путчу."
  japdom.19.a: "Переворот відбувся!"
- 
+
  japdom.20.t: "Реставраціоністи намагаються влаштувати переворот!"
  japdom.20.d: "Сьогодні молодші офіцери-реставраціоністи організували новий державний переворот у районі Токіо! Рано вранці 1400 офіцерів і рядових військовослужбовців розпочали захоплення контролю над основними вузлами зв'язку та адміністративними об'єктами. Міністерство оборони, офіс геншатабу, штаб-квартира столичної поліції, офіційна резиденція прем'єр-міністра і будівля парламенту - всі вони були швидко захоплені, а імператорський палац потрапив в облогу. Після того як імператор відкрито засудив путчистів, флот мобілізував дивізії морської піхоти для евакуації палацу, а надвечір сили змовників були розтрощені."
  japdom.20.a: "Боже, бережи імператорський флот!"
- 
+
  japdom.21.t: "Перемога централістів!"
  japdom.21.d: "Переворот реставраціоністів провалився, їх затаврували зрадниками і шукають по всій країні. Деякі закликають передати збройним силам провідну роль в уряді з метою допомогти викорінити як зрадників, так і синдикалістів."
  japdom.21.a: "Міністр армії Хаясі прийме прем'єрство."
  japdom.21.b: "Зараз в цьому немає потреби"
- 
+
  japdom.22.t: "Уряд національної єдності"
  japdom.22.d: "Накадзіма Тікухеі з Ріккен Сейюкай і Адаті Кензо з Мінсейто, підтримуючи Закон про національну безпеку, опублікували спільну заяву, в якій закликали обидві основні партії сформувати багатопартійний "уряд національної єдності" для захисту Кокутай (національної держави) від синдикалістської загрози."
  japdom.22.a: "Нам потрібен сильний уряд"
  japdom.22.b: "Ми не потребуємо цієї нісенітниці, нам потрібні вибори!"
- 
+
  japdom.23.t: "Про основні засади національної оборони"
  japdom.23.d: "Після взяття влади, централісти шукали політичний план для свого нового режиму. Вони представили проєкт під назвою "Про основні засади національної оборони" і поширили його серед централістського керівництва. Представляючи "просунуту державу національної оборони" (Кодо Кокубо Кокка), у документі пропонується об'єднати державу і підготувати її до тотальної війни. Щоб домогтися цього, необхідно не тільки реорганізувати економічну структуру Японії і поставити її на військові рейки, а й "ідеологічно просвітити" японський народ, допомогти йому відкинути корисливість і особисті інтереси. Японці повинні відмовитися від класової боротьби, що завдає шкоди національній безпеці, і реструктурувати суспільство разом з економікою."
  japdom.23.a: "Саме цим шляхом ми й маємо йти"
- 
+
  japdom.24.t: "Про засадничі принципи національної структури"
  japdom.24.d: ""Про засадничі принципи національної структури" - це 156-сторінковий памфлет, підготовлений міністерством освіти для створення офіційного опису "Кокутай", або національної структури (слово також можна перекласти як "національна сутність", "національна держава" тощо). Памфлет, згідно з легендою про богиню Аматерасу, офіційно закріплює статус імператора як живого бога, а також "безперервну лінію імператорів" (Бансеііккей). Щоб служити божественному імператору, його піддані повинні відкинути своє "Я" заради соціальної гармонії (Ва) і процвітання японської культури. Певною мірою памфлет є відповіддю на критику централістського "нео-сьогунізму"."
  japdom.24.a: "Саме цим шляхом ми й маємо йти"
- 
+
  japdom.25.t: "Рух нової держави"
  japdom.25.d: "З метою мобілізації підтримки режиму і його програми реформ було організовано "Рух нової держави" (Сінтайсей Ундо). Очолюваний принцом Коное Фумімаро, рух спрямований на створення політичного інституту, здатного об'єднати і зв'язати людей в органічне ядро нації, що, по суті, представляє собою японський корпоратизм, на чолі якого перебуває імператор. Найближчою метою руху є об'єднання всіх політичних течій в одну партію - Асоціацію допомоги трону (Тайсей Екусанкай)."
  japdom.25.a: "Саме цим шляхом ми й маємо йти"
- 
+
  japdom.26.t: "Перший з'їзд Тайсей Йокусанкай"
  japdom.26.d: "Тайсей Йокусанкай, або Асоціація допомоги трону, структурована як новий основний політичний інститут, який, на відміну від старого "плутократичного" парламенту, представлятиме кожен аспект японського суспільства. Асоціація впливатиме на кожен адміністративний рівень, від села до префектури, і створить центральну керівну групу, яка складатиметься з найталановитіших людей з усіх соціальних кіл - академічних, культурних, економічних, урядових, військових, політичних тощо. У теорії, створення прямого зв'язку між політикою і народом, і завдяки тому, що кожна важлива група матиме представників у центральному органі влади, дасть змогу формувати та ефективно координувати національну політику. На жаль, це бачення державного устрою вже приречене, оскільки різноманітні рухи Тайсей Йокусанкай, які за задумом мали б об'єднатися і співпрацювати між собою, вже почали боротьбу за владу.\n\nНа з'їзді з'явилися три основні угруповання. Провідним угрупованням є очолювана принцом Коное Какусінха (фракція реформістів), що складається з інтелігентів і політиків, які бажають проведення реформ. Другим угрупованням є Кодоха (фракція імперського шляху), названа на честь часто використовуваного генералом Аракі слова "Кодо", або "Імперський шлях", і складається з офіцерів-реставраціоністів. Третім угрупованням є Йокусейха, яке в основному складається з колишніх парламентських політиків, які раніше співчували справі реставраціоністів. Назва "Йокусейха" походить від абревіатури політичної асоціації прихильників реставраціоністів Йокусан Сейдзікай (Асоціація політичної допомоги трону).\n\nОстанні два угруповання заперечують проти порядку денного Какусінха і навіть сумніваються в істинності цілей Тайсей Йокусанкай. Коное розробив останню як центральну нервову систему майбутньої "нової держави", в якій об'єднані законодавча, виконавча та адміністративна влади. Принц запевнив, що стара конституція Мейдзі залишиться без змін, а Тайсей Йокусанкай не замінить парламенту, однак сама ідея формування політичного моноліту зустріла потужну опозицію."
  japdom.26.a: "Саме цим шляхом ми й маємо йти"
- 
+
  japdom.27.t: "Коное Фумімаро заручається підтримкою"
  japdom.27.d: "Після п'ятнадцятиденного з'їзду, принц Коное успішно просунув свій порядок денний і заручився підтримкою в Тайсей Йокусанкай."
  japdom.27.a: "Саме цим шляхом ми й маємо йти"
- 
+
  japdom.31.t: "Загальні вибори"
  japdom.31.d: "Демократичний режим пережив доленосну зиму, виборча реформа нарешті була проведена. Однак, у зв'язку з невдачами уряду національної єдності, поточному уряду не вистачає влади і підтримки для того, щоб ефективно управляти державою. При всьому при цьому, рішення проблеми очевидне: довіритися виборчим реформам і продемонструвати це народу. Таким чином, уряд проведе вибори для підтвердження свого виборчого мандата і поверне собі політичну ініціативу!"
  japdom.31.a: "Обрати Ріккен Сейюкай (консерватори)"
  japdom.31.b: "Обрати Мінсейто (ліберали)"
  japdom.31.c: "Зберегти правлячу коаліцію"
- 
+
  japdom.32.t: "Розкол у партії"
  japdom.32.d: "Під час з'їзду Ріккен Сейюкай 1936 року Накадзіма вважав, що його провідна роль ненадійна, і тому уклав угоди про розподіл влади з іншими фракціями. Одна з таких угод полягала в тому, що пост Генерального секретаря, який має широку владу, залишиться вакантним (але не скасованим), а його завдання будуть передані колективному керівництву Генеральної ради.\n\nМинулого місяця, вважаючи, що він зміцнив свою позицію, Накадзіма спробував остаточно закріпити свою домінуючу позицію, захопивши офіс Генерального секретаря. З цією метою він офіційно порекомендував Генеральній раді повернути на цю посаду колишнього генерального секретаря Кухару Фусаносуке, колишній генеральний секретар Кухару Фусаносуке, який співчував реформістам, і 28 квітня Накадзіма зі своєю клікою сформував "Какусін Домей" ("Альянс реформістів"), яка фактично є партією всередині партії, яка ще більше тисне на Генеральну раду. Після того, як загальні вибори добігли кінця, 14 травня про-Накадзимський голова Генеральної ради Хорікірікі Зенбе запропонував провести в раді держоловання з цього питання, але на цю пропозицію було накладено вето всіма іншими фракціями. Реформісти спробували подолати ситуацію, що склалася, і закликали раду мобілізувати свої місцеві партійні кадри, але цю пропозицію знову відкинули всі інші лідери, які не належать до реформістів, що ще більше засмутило Накадзіму. Сьогодні, всього через місяць після виборів, Какусін Домей офіційно оголосила про свою незалежність від Ріккен Сейюкай."
  japdom.32.a: "Настав час обрати наш власний шлях"
- 
+
  japdom.33.t: "Формування Кокумін Домей"
  japdom.33.d: "Після того як Адаті Кензо і його кліка пішли з Мінсейто і сформували незалежну Какусін Домей, Накадзіма реорганізував партію і перейменував її в Кокумін Домей (Національний альянс)."
  japdom.33.a: "Настав час обрати наш власний шлях"
- 
+
  japdom.34.t: "Уряд національної єдності розпадається"
  japdom.34.d: "Хоча від самого початку уряд було створено для того, щоб дати парламентській політиці сильне обличчя, яке можна було б представити як армії, так і народу, від самого початку було зрозуміло, що головними бенефіціарами уряду Національної Єдності стануть опозиційні фракції Адачі та Накадзіма в Мінсейто і Сейюкай відповідно. За останні роки напруженість усередині двох партій неухильно досягала межі. Коаліція розпалася, Адачі і Кухара залишили свої партії і сформували новий Національний альянс (Kokumin Dōmei), а консервативні фракції Мінсейто і Сейюкай відновили контроль."
  japdom.34.a: "Настав час знайти свій власний шлях"
@@ -1415,90 +1377,90 @@
  japdom.45.t: "Інцидент із Народним фронтом"
  japdom.45.d: "Сьогодні 446 лівих академіків, інтелектуалів і політиків (включно з двома чинними членами парламенту) заарештували, їм висунули звинувачення відповідно до порушення Закону про національну безпеку. Усіх їх звинуватили в організації "Народного фронту" і погрозах Кокутай."
  japdom.45.a: "Ситуацію розв'язано, вірно?"
- 
+
  japdom.46.t: "Другий інцидент із Народним фронтом"
  japdom.46.d: "Сьогодні були проведені додаткові арешти інтелектуалів, коли 38 лівих професорів були заарештовані за звинуваченням в організації "народного фронту"."
  japdom.46.a: "Та скільки ж тут цих червоних?!"
- 
+
  japdom.47.t: "Інцидент із групою робітників у Кейхіні"
  japdom.47.d: "Було виявлено й заарештовано підпільне синдикалістське угруповання, що діяло в районі Кейхін (Токіо-Іокогама)."
  japdom.47.a: "Все добре, вірно?"
- 
+
  japdom.48.t: "Інцидент із радою з планування"
  japdom.48.d: "Сьогодні було заарештовано сімнадцятьох членів Міністерської ради з планування, їм висунуто звинувачення в організації "народного фронту" всередині уряду."
  japdom.48.a: "Ситуація виходить з під контролю!"
- 
+
  japdom.49.t: "Інцидент із Науково-дослідним бюро"
  japdom.49.d: "Двадцять дев'ять бюрократів із Науково-дослідного бюро (Тьосабу) Південно-Маньчжурської залізниці заарештували, сьогодні їм висунули звинувачення в організації підпільного синдикалістського руху всередині Південно-Маньчжурської залізниці.."
  japdom.49.a: "Ситуація виходить з під контролю!"
- 
+
  japdom.50.t: "Інцидент в Йокогамі"
  japdom.50.d: "Шістдесят письменників і журналістів заарештовано за звинуваченням у спробі сформувати підпільну синдикалістську партію. Однак з'ясувалося, що більшість їхніх зізнань було отримано під тортурами."
  japdom.50.a: "Стає тільки гірше!"
- 
+
  japdom.51.t: "Офіцери Токко звинувачуються в тортурах"
  japdom.51.d: "Токко, або "Особлива вища поліція" - це поліцейський відділ, що спеціалізується на думкозлочинах. Токко також сумно відоме через свої образливі та жорстокі методи допиту, які часом навіть призводять до смерті. Коли було ухвалено Закон про національну безпеку, Токко швидко розширило свій штат і повноваження, їхнє ставлення до безпеки обвинувачених знизилося ще більше. Сьогодні одна велика газета повідомила, що людина померла під час утримання під вартою і звинуватила Токко в тому, що співробітники відділу мучили жертву до смерті."
  japdom.51.a: "О ні..."
- 
+
  japdom.53.t: "Велика посуха 1939 року"
  japdom.53.d: "Країна перебуває в кульмінаційній стадії найгіршої посухи, яку вона тільки спостерігала в цьому столітті. Води на все не вистачає, сільськогосподарські культури вмирають від спраги. У деяких регіонах місцеві чиновники організовують ритуали заклику дощу у відчайдушній спробі викликати бурі та заспокоїти людей, але все безуспішно. На щастя, посуха здебільшого зачіпає тільки південну Корею, західний Хонсю і південні острови, і хоча врожай рису значно знизився, нам все ж вдалося уникнути голоду на цих територіях. Однак порушення продовольчого виробництва внаслідок посухи є досить серйозною проблемою, щоб змусити нас закрити кілька рисових бірж, зокрема знамениту біржу Додзіма, і контролювати поставки рису напряму, принаймні до певного часу."
  japdom.53.a: "Принаймні, ніхто не голодує..."
- 
+
  japdom.54.t: "Загальні вибори 1940 року"
  japdom.54.d: "Настав час для нових загальних виборів. З огляду на те, що всі основні та опозиційні партії беруть у них участь, вибір більш різноманітний, ніж наприкінці XIX століття. Після підбиття підсумків виборів, Його Величність Імператор попросить нового прем'єр-міністра сформувати свій кабінет."
  japdom.54.a: "Обрати Ріккен Сейюкай (консерватори)"
  japdom.54.b: "Обрати Мінсейто (ліберали)"
  japdom.54.c: "Обрати Кокумін Домей (націоналісти)"
  japdom.54.e: "Обрати Сякай Тайсюто (соціалісти)"
- 
+
  japdom.55.t: "Загальні вибори 1944 року"
- 
- japdom.58.t: "Хаясі Сендзюро мертвий!"
+
+ japdom.58.t: "Хаясі Сенджуро мертвий!"
  japdom.58.d.pataut: "Настав сумний день - прем'єр-міністр Хаясі Сенджуро помер у своєму будинку. Людина, яка грала як із централістською, так і з реставраторською фракціями, щоб стати лідером нового воєнного режиму, його прем'єрство призвело до великих змін у всіх аспектах японського життя, без сумніву, закріпивши його як одну з найвпливовіших - і, можливо, найсумнішим чином відомих - постатей у сучасній історії нашої країни.\n\nЄдиний реальний вибір наступника Хаясі, генерал Нагата Тецудзан, здається, підтверджує шлях, яким іде Японія. Відомий як головний теоретик централістської фракції армії, Нагата з 30-х років працював за лаштунками, щоб заручитися підтримкою бізнесменів і політиків для перетворення Японії на державу національної оборони, про яку мріють прихильники тотальної війни. Схоже, що армійський режим тут і залишиться."
  japdom.58.d.defaul: "Настав сумний день - відставного генерала Хаясі Сенджуро знайшли померлим у своєму будинку. Людина, яка грала як на боці централістів, так і на боці реставраторів упродовж усієї своєї зрештою невдалої політичної кар'єри, її зв'язок з армійськими радикалами часом непокоїв багатьох, але в кінцевому підсумку все це, схоже, виявилося дрібницею."
  japdom.58.a: "Призначити Нагату Тецузан"
- japdom.58.b: "Спочивайте з миром"
- 
+ japdom.58.b: "Призначити Барона Хірануму."
+ japdom.58.c: "Спочивайте з миром"
+
  japdom.60.t: "Посуха бере своє"
  japdom.60.d: "Попри те, що сільські райони країни і без того зазнають поневірянь після втраченого десятиліття, посуха посприяла подальшому зубожінню селян і банкрутству багатьох сільськогосподарських компаній. Найімовірніше, наслідки посухи найближчим часом нікуди не подінуться."
  japdom.60.a: "Нічого не вдієш"
- 
+
  japdom.61.t: "Фентяно-Корейсько-Японська домовленість"
  japdom.61.d_pervasive: "Вивчивши характер тривалої посухи, міністерства Японії дійшли висновку, що можна зробити трохи більше для запобігання наслідкам посухи, окрім тих заходів, які вже було вжито. Однак міністерство у справах колоній висунуло пропозицію, в якій Фентянь міг би бути примушений до експорту пшона і рису до Кореї, а Корея, своєю чергою, надасть свій рис Японії. Більша частина Маньчжурії впоралася з посухою, хоч її жителям і доведеться на деякий час трохи урізати свій раціон, нашого політичного та економічного впливу над Фентянем має бути достатньо для запобігання будь-якому інакомисленню."
  japdom.61.d_normal: "Вивчивши характер тривалої посухи, міністерства Японії дійшли висновку, що можна зробити трохи більше для запобігання наслідкам посухи, окрім тих заходів, які вже було вжито. Однак міністерство у справах колоній висунуло пропозицію, в якій Фентянь міг би бути примушений до експорту пшона і рису до Кореї, а Корея, своєю чергою, надасть свій рис Японії. Більша частина Маньчжурії впоралася з посухою, хоч її жителям і доведеться на деякий час трохи урізати свій раціон, уряд Фентьяня, безумовно, буде готовий у скрутну хвилину надати допомогу своєму покровителю."
  japdom.61.a: "У них не буде вибору"
  japdom.61.b: "Надіслати запит"
  japdom.61.c: "Ми вистоїмо"
- 
+
  japdom.62.t: "Фентянь відмовляється від нашої пропозиції"
  japdom.62.t.cutoff: "Фентянь відмовляється нам допомогти"
  japdom.62.d: "У своєму акті безпрецедентного нахабства, уряд Фентяня відмовився від нашої пропозиції щодо пом'якшення наслідків посухи. Зрозуміло, цей акт грубої і неприйнятної неповаги повинен зіткнутися з нашою нещадною відплатою!"
  japdom.62.d.cutoff: "У своєму акті безпрецедентного нахабства, уряд Фентяня вирішив припинити постачання продовольства і нам знову доведеться самотужки боротися з посухою. Зрозуміло, цей акт грубої і неприйнятної неповаги повинен зіткнутися з нашою нещадною відплатою!"
  japdom.62.a: "Покарати їх за нахабство!"
  japdom.62.b: "Нічого не вдієш"
- 
+
  japdom.63.t: "Закінчення посухи"
  japdom.63.d: "Після багатьох місяців страждань, посуха остаточно закінчилася і країна почала відновлюватися."
  japdom.63.a: "Нарешті!"
- 
+
  japdom.64.t: "Фентянь погоджується надавати продукти харчування"
  japdom.64.d: "Фентянський уряд погодився надати продовольство, основні негативні наслідки посухи мають скоро зникнути."
  japdom.64.a: "Гарні новини!"
- 
+
  japdom.65.t: "Імператор та демократія"
  japdom.65.d: "Уряд визнав свою слабкість і тому в розпачі попросив імператора про втручання в ситуацію. Він прийшов до парламенту при повному параді і, на щастя, підтримав уряд. Його слова мають велику вагу і їх може бути достатньо, щоб тримати уряд на плаву. Чи згодні ми з його підтримкою?"
  japdom.65.a: "Погодитися з імператором"
- japdom.65.b: "Він збожеволів!"
- 
+
  japdom.72.t: "Імператор та демократія"
  japdom.72.d: "Уряд визнав свою слабкість і тому в розпачі попросив імператора про втручання в ситуацію. Він прийшов до парламенту при повному параді, але відмовився підтримати уряд. Його слова мають велику вагу і брак підтримки з його боку може стати смертельним ударом для уряду. Без стороннього втручання на уряд безсумнівно чекає провал. Чи згодні ми з позицією імператора?"
  japdom.72.a: "Погодитися з імператором"
  japdom.72.b: "Він збожеволів!"
- 
+
  japdom.74.t: "Заміна залізничної колії"
  japdom.74.d: "Знадобилися величезні зусилля, але, нарешті, заміна колії вже в процесі і як ніколи близька до завершення. Найгірший час позаду, ми вже починаємо бачити як негативні наслідки наших старих, вузьких рейкових шляхів починають зникати."
  japdom.74.a: "Слава!"
- 
+
  japdom.75.t: "Земельна реформа завершена"
  japdom.75.bad: "Земельна реформа завжди була нагальною проблемою Японії і ми не були першим урядом, який намагався вирішити цю проблему. На жаль, останніми в черзі ми теж не будемо. Наші зусилля були марною тратою часу, ми домоглися нічого іншого як повної катастрофи! Нам не вдалося навіть трохи вплинути на проблему, яка, безумовно, продовжить отруювати нашу економіку в найближчі роки..."
  japdom.75.okay: "Земельна реформа завжди була нагальною проблемою Японії і ми не були першим урядом, який спробував вирішити цю проблему. Нехай нам і не вдалося вирішити її повністю, але ми хоча б змогли послабити її негативний вплив на нашу економіку."
@@ -1525,7 +1487,7 @@
  japdom.78.b: "Use threats and bribes to push forward our plans."
 
  japdom.79.t: "Curtailing the Zaibatsu"
- japdom.79.d: "The Zaibatsu, the largest industrial conglomerates in Japan, have come under fire from members of our coalition, particularly those from the Kōdōha faction. Arguing that the Zaibatsu are actively participating in Japan's decline: corrupt, nepotistic, they represent the worst excesses of capitalism, reaping all the profits while rural Japanese families, the very soul of our nation, are left behind completely.\n\nIt is true that the Zaibatsu have seen spectacular growth in recent decades, with our investments in Manchuria only furthering their influence on Japan's economy. To remedy this, some in our coalition and in the military have strongly suggested we pursue nationalisation over their assets and production, with the eventual aim of removing their influence altogether. Others have also hinted at the idea of a high inheritance tax, which would certainly help in breaking the conglomerates away from their family-dominated nature.\n\nSome voices have expressed concerns at these ideas, however, chief among them those in the Shōwa Dōjinkai, which have argued that the Zaibatsu are patriotic companies, and that hindering their business would have disastrous consequences in the long run. In response, Kōdōha members have been quick to point out leading Dōjinkai figure Fusanosuke Kuhara's ties to Nissan, founded by his brother-in-law, using his assets.\n\nWhile many in the government are ambivalent on the Zaibatsu, it has ultimately been decided that we should curtail their influence, to what degree however remains in question. "
+ japdom.79.d: "The Zaibatsu, the largest industrial conglomerates in Japan, have come under fire from members of our coalition, particularly those from the Kōdōha faction. Arguing that the Zaibatsu are actively participating in Japan's decline: corrupt, nepotistic, they represent the worst excesses of capitalism, reaping all the profits while rural Japanese families, the very soul of our nation, are left behind completely.\n\nIt is true that the Zaibatsu have seen spectacular growth in recent decades, with our investments in Manchuria only furthering their influence on Japan's economy. To remedy this, some in our coalition and in the military have strongly suggested we pursue nationalisation over their assets and production, with the eventual aim of removing their influence altogether. Others have also hinted at the idea of a high inheritance tax, which would certainly help in breaking the conglomerates away from their family-dominated nature.\n\nSome voices have expressed concerns at these ideas, however, chief among them those in the Shōwa Dōjinkai, which have argued that the Zaibatsu are patriotic companies, and that hindering their business would have disastrous consequences in the long run. In response, Kōdōha members have been quick to point out leading Dōjinkai figure Fusanosuke Kuhara's ties to Nissan, founded by his brother-in-law, using his assets.\n\nWhile many in the government are ambivalent on the Zaibatsu, it has ultimately been decided that we should curtail their influence, to what degree however remains in question."
  japdom.79.a: "Their corruption must cease, start nationalising their assets."
  japdom.79.b: "This is too reckless, moderate our plans somewhat."
 
@@ -1541,19 +1503,20 @@
  japdom.239.c: "Shakaitō (Socialists)"
 
  japdom.240.t: "Fate of the Emperor"
- japdom.240.d: "With the finalisation of the last branches of the new governmental system, the future of the Japanese Throne must be discussed. While Hirohito does undoubtedly bear responsibility for prosecuting the war against us, true justice would likely leave him dead or imprisoned for life, and us with an impossible public-order problem on our hands. Our diplomats and even most generals insist that we must instead use a lighter hand. We cannot leave the Emperor's theoretically unlimited powers in his hand as it is now, but there may be some options still."
+ japdom.240.d: "With the finalisation of the last branches of the new governmental system, the future of the Japanese Throne must be discussed. While Hirohito does undoubtedly bear responsibility for prosecuting the war against us, true justice would likely leave him dead or imprisoned for life, and us with an impossible public-order problem on our hands. Many of our people still however clamour for the complete abolishment of the Imperial institution, blaming them for the lives lost in the costly invasion of their Home Islands, and doing so would satisfy their lust for revenge. Our diplomats and even most generals have on the other hand advised against it, suggesting instead that we either allow the royals to continue in a symbol position, or at least only force Hirohito's abdication, lest we face a potentially permanent insurrection against our collaborators."
  japdom.240.a: "Leave him on the throne, but transfer sovereignty to the people."
  japdom.240.b: "Force him to abdicate."
+ japdom.240.c: "The entire Imperial institution must be abolished."
 
  japdom.241.t: "Доля імператорської родини"
  japdom.241.d: "Із завершенням створення останніх гілок нової урядової системи необхідно обговорити майбутнє японської імператорської сім'ї. Хоча багато членів імператорської сім'ї, безсумнівно, відповідальні за розв'язання війни проти нас, істинне правосуддя, найімовірніше, залишить кількох із них мертвими або довічно ув'язненими, а нас - із непосильною проблемою громадського порядку на руках. Наші дипломати і навіть більшість генералів наполягають на тому, що натомість ми повинні використовувати м'якші заходи. Ми не можемо залишити монархію недоторканою, але деякі варіанти все ж можуть бути."
  japdom.241.a: "Просто позбавте їх влади, вистачить із нас аристократії"
  japdom.241.b: "Вигнати їх з Японії"
- 
+
  japdom.242.t: "Чорний Понеділок дістався до наших берегів"
  japdom.242.d: "Зрештою, як і очікувалося, викликаний економічним колапсом німецької економіки, принцип доміно досяг нашої імперії. Через нашу вельми сильну ізольованість від німецького ринку, ефект економічного занепаду не вплинув на нас так сильно, як на сусідні по відношенню до нас країни, але, тим не менш, Чорному понеділку вдалося зачепити нашу економіку. Дзайбацу і нашим банкам кілька наступних місяців доведеться несолодко."
  japdom.242.a: "Це було очікувано"
- 
+
  japdom.400.t: "The Royal Child"
  japdom.400.d: "Wonderful news has been announced this morning from the Imperial Household, Empress Nagako has given birth to another daughter after a remarkably short period of labour. Despite fears within the Household itself, owing to the Empress's age and this being her seventh child, both the mother and her child are reportedly in good health with no major complications to speak of. Much of the Imperial Family have already been introduced to their newly born relative, with the Emperor himself arriving around an hour afterwards to see his daughter for the first time.\n\nAs is Imperial tradition, the new princess has not yet received a name, as this has been reserved for the traditional naming ceremony that occurs seven days after a royal birth. Despite this many throughout the realm have already begun to speculate what name and appellation will be chosen for the child.  One of the most widespread of these theories is that the name may end up being derived from the Man'yōshū, the oldest extant collection of traditional Japanese poetry, much like her uncle Mikasa's was. Regardless of if these theories will prove correct, the joyous nature such a birth brings to the nation is always a fantastic time for its people."
  japdom.400.a: "A royal birth is always delightful news."
@@ -1579,7 +1542,7 @@
  japdom.405.desc: "Much excitement and joy in Ashibari today as the Abashiri City Folk Museum opened its doors to the public. Three thousand archeological and ethnograpic objects collected by Yonemura Yoshio. The museum was desgined by Yoshiya Tanoue, a pupil of the esteemed American architect Frank Lloyd Wright. The artefacts in the museum date from from the Japanese Paleolithic, through the Jōmon and Zoku-Jōmon periods, up until daily life during the Shōwa era, and include materials relating to the Satsumon culture, Okhotsk culture, and Ainu."
  japdom.405.a: "A proud day for our nation!"
 
- japdom.406.t: "46 cm/45 Type 94 naval gun fired"
+ japdom.406.t: "46 cm/45 Type 94 Naval Gun Fired"
  japdom.406.desc: "First conceptualised on the HMS Incomparable, a proposal for a very large battlecruiser by British Admiral Jackie Fisher, the gun remaind a mere dream of naval architects until now. At 10 AM, the Earth itself shook as one of the largest guns ever built was fired. This came after months of planning for the next "ultimate battleship" as dubbed by some more than enthusiastic designers, with some designs proposing guns up to 18 inches (46 cm) which would be able to dominate the seas. Dismissed as a pet project and waste of valuable resources and time by the air power advocates, the gun is likely not to see service until it is mounted on its respective ship."
  japdom.406.a: "No one will be able to match our firepower!"
 
@@ -1588,15 +1551,15 @@
  japdom.407.a: "We have shown our best to the world!"
  japdom.407.b: "If you want peace, prepare for war!"
 
- japdom.408.t: "New National Diet Building completed"
+ japdom.408.t: "New National Diet Building Completed"
  japdom.408.desc: "After some delay due to the political turmoil in the last decade, the new National Diet Building has been completed today constructed entirely of Japanese materials, with the exception of the stained glass, door locks, and pneumatic tube system. It stands as the tallest building in the country upon opening this afternoon. The roof and tower of the building might have been inspired by another entrant, third prize winner Takeuchi Shinshichi, and are believed to have been chosen because they reflected a more modern hybrid architecture than the purely European and East Asian designs proposed by other architects. The ministry sponsored a public design competition in 1918, and 118 designs were submitted for the new building. The first prize winner, Watanabe Fukuzo, produced a design similar to Ende and Böckmann's. The Diet Building was eventually constructed between 1920 and 1936 with a floor plan based on Fukuzo's entry."
  japdom.408.a: "Hopefully it was worth the wait!"
 
- japdom.409.t: "1943 Tottori earthquake"
- japdom.409.desc: "At 17:36 local time on September 10, a magnitude 7.0 earthquake struck Tottori prefecture. The epicentre was recorded to be at Ketaka District with seismic activity recorded as far as Okayama on the coast of the Inland Sea. Hundreds have been reported to be killed with an estimated 80% of Tottori city destroyed, taking many historic buildings with it. Two other earthquakes occured earlier in the year but did not cause significant damage."
+ japdom.409.t: "1943 Tottori Earthquake"
+ japdom.409.desc: "At 17:36 local time on September 10, a magnitude 7.0 earthquake struck Tottori prefecture. The epicentre was recorded to be at Ketaka District with seismic activity recorded as far as Okayama on the coast of the Inland Sea. Hundreds have been reported to be killed with an estimated 80% of Tottori city destroyed, taking many historic buildings with it. Two other earthquakes occurred earlier in the year but did not cause significant damage."
  japdom.409.a: "This is terrible!"
 
- japdom.410.t: "Taihoku City Public Auditorium completed"
+ japdom.410.t: "Taihoku City Public Auditorium Completed"
  japdom.410.desc: "Designed as tribute to Emperor Shōwa's ascension in 1928 and to replace the old Qing Empire governor's office for the island, the Taihoku Public Auditorium has finished construction after 4 years for a cost of slightly under a million yen. The city now earning the prestige of being the only major city with a public auditorium outside of the Home Islands. Chief architect of the project Ide Kaoru, aware of the severe differences in both heat, rainfall, and humidity of the island compared to the Home Islands, sought to both stress the local character of the island while also still using the modern architectural designs being applied to the rest of the island through other projects."
  japdom.410.a: "A building worthy of the Emperor!"
 
@@ -1607,193 +1570,193 @@
  japfor.1.t: "Мантецу оголошує про рекордні прибутки"
  japfor.1.d: "Японія була присутня в Маньчжурії з моменту завершення російсько-японської війни, і за роки, що минули з того часу, наш контроль над регіоном значно зміцнився. Переговори в Шанхаї в 1928 році змусили світ визнати наше право на "свободу рук у Маньчжурії", що відкрило безмежні можливості для наших громадян під пильним оком Квантунської армії.\n\nОднак наш контроль не є абсолютним, а уряд Чжан Цзуоліня не завжди йде на співпрацю. Йому пощастило, що наше бажання зберегти вигідний мир у Маньчжурії залишається для нас першочерговим, як і наша надія на те, що його уряд одного дня стане інструментом для реалізації наших великих китайських амбіцій. З цих причин центром наших зусиль в Маньчжурії є Південно-Маньчжурська залізнична компанія, або скорочено "Мантецу", яка стала відповідальною за розвиток і експлуатацію величезних масивів маньчжурської економіки, перетворивши регіон на основне джерело вугілля і сталі для Японії, а також на виробника понад половини світових поставок соєвих бобів.\n\nСьогодні Мантецу оголосила про свої найвищі прибутки на сьогоднішній день."
  japfor.1.a: "Маньчжурія - це справді ріг достатку!"
- 
+
  japfor.3.t: "Японія пропонує нам інструкторів"
  japfor.3.d: "Сьогодні до нас прибула [From.GetNameDef] делегація, яка запропонувала нам свої сили, щоб підняти наші сили до 'необхідного рівня'. Від такої пропозиції складно відмовитися..."
  japfor.3.a: "Будь-ласка!"
  japfor.3.b: "Відмовити їм"
- 
+
  japfor.4.t: "Японія надає збройові заводи"
  japfor.4.d: "Японці, які очевидно намагаються лестити нам, надали нам річний доступ до найсучасніших засобів збройового виробництва. Ми не знаємо характер їхніх намірів, але дарованому коню, все ж таки, в зуби не дивляться..."
  japfor.4.a: "Як щедро!"
  japfor.4.b: "Відмовитися"
- 
+
  japfor.5.t: "Японія підтримує наш наступ"
  japfor.5.d: "Японці звернулися до нас, пропонуючи провіант, бомбардувальники і боєприпаси як допомогу для нашої наступальної операції. Чи приймемо ми їхню пропозицію?"
  japfor.5.a: "Звісно!"
  japfor.5.b: "Ніколи!"
- 
+
  japfor.6.t: "Японія надає креслення винищувачів"
  japfor.6.d: "Японські військові дозволили потрапити в наші руки кільком кресленням винищувачів, які значно перевершують наші, а також надали інструкції з найбільш ефективного складання цих літаків. Сюрприз, звичайно, але бажаний."
  japfor.6.a: "Все, що нам потрібно, ми беремо в Японії"
- 
+
  japfor.7.t: "Японія підтримує наш суверенітет"
  japfor.7.d: "Сьогодні до нас звернулися японські радники, принісши з собою подарунки і підтримуючи нас у боротьбі з китайцями. Ми вдячні їм за цей великодушний жест, але чи справді ми так потребуємо японської допомоги?"
  japfor.7.a: "Приймемо все, що тільки зможемо"
  japfor.7.b: "Відмовити їм"
- 
+
  japfor.8.t: "Абдурашид Ібрагімов прибуває до [Root.GetNameDef]"
  japfor.8.d: "Сьогодні в [Root.GetNameDef] прибув імам на ім'я Абдурашид Ібрагімов, представник японського уряду. Від імені своїх покровителів, він дуже високо оцінює нашу справу і боротьбу з китайською тиранією, а також бажає об'єднати всіх азіатів під одним антиімперіалістичним прапором. Для нас велика честь почути такі приємні слова від шанованої людини."
  japfor.8.a: "Ласкаво просимо, вчителю"
- 
+
  japfor.21.t: "Токійська конференція"
  japfor.21.d: "Японці запросили нас узяти участь у їхній 'Паназіатській конференції' в Токіо. Вони стверджують, що хочуть організувати співпрацю між країнами Азії для боротьби із західним імперіалізмом, що збоку видається вельми благородною метою. Однак дехто закликає нас ігнорувати їхню пропозицію, стверджуючи, що це всього лише виверт, покликаний дозволити Японській імперії, яка почала свій шлях панування над Азією, поширювати на нас свій вплив."
  japfor.21.a: "Пакуй мій найкращий костюм."
  japfor.21.b: "Давайте цього року залишимося вдома."
- 
+
  japfor.22.t: "[From.GetNameDefCap] відвідує Токійську конференцію"
  japfor.22.d: "Представники держави [From.GetNameDef] прибули до Токіо і дискусії вже процесі!"
  japfor.22.a: "Вітаємо!"
- 
+
  japfor.23.t: "[From.GetNameDefCap] відмовляється від участі"
  japfor.23.d: "[From.GetNameDefCap] відмовилися від участі в Токійській конференції, в яку ми вклали великі гроші. Коли їх запитують про їхні причини, вони дають лише ухильні та невпевнені виправдання."
  japfor.23.a: "Яка ганьба для них"
- 
+
  japfor.24.t: "Спільний осуд західного імперіалізму"
  japfor.24.d: "Сьогодні саміт у Токіо провів своє перше засідання. На подив він не був суперечливим, усі делегати підписалися під декларацією засудження західного колоніального гноблення і наполегливою відмовою від нерівних договорів. Ми очікуємо широкої підтримки та подальшої плідної співпраці."
  japfor.24.a: "Підпишіть ось тут"
  japfor.24.b: "Не ризикуйте, 'заохочуйте' їх до підписання."
- 
+
  japfor.25.t: "Токіо: Засудження західного імперіалізму"
  japfor.25.d: "Наших делегатів у Японії, мабуть, просять вказати свої імена в досить стандартній декларації. У ній засуджується 'антиазійський расизм', 'експлуатація пригноблених народів європейськими державами', та 'інститутів нерівноправних договорів, за допомогою яких населення Азії навмисно позбавляється права голосу на своїх землях'. Чи повинні ми приєднатися до [JAP.GetNameDef] у цій ініціативі?"
  japfor.25.a: "Звісно!"
  japfor.25.b: "Напевно, ні (покинути конференцію)"
- 
+
  japfor.26.t: "[From.GetNameDefCap] залишає конференцію"
  japfor.26.d: "Судячи з усього, [From.GetAdjective]их сановників не влаштовують наші умови, на яких ми проводимо Токійську конференцію, і вони вирішили перервати подальші переговори."
  japfor.26.a: "Ганьба!"
- 
+
  japfor.27.t: "Токіо: Резолюція про торгівлю"
  japfor.27.d: "...таким чином, учасники конференції погоджуються з тим, що для заохочення паназіатського співробітництва та братерства мають бути складені та підписані торговельні договори, чиє виконання повинно мати вищий пріоритет у національній політиці кожної азіатської країни, з метою створення єдиного азіатського митного союзу, який забезпечуватиме захист азіатських народів та ринків від хижацьких західних економічних принципів, які..."
  japfor.27.a: "Ідеально, вони мають погодитися..."
  japfor.27.b: "...але, можливо, ми зможемо пом'якшити умови."
- 
+
  japfor.28.t: "Токіо: Обговорення паназійської торгівлі"
  japfor.28.d: "...таким чином, учасники конференції погоджуються з тим, що для заохочення паназіатського співробітництва та братерства мають бути складені та підписані торговельні договори, чиє виконання повинно мати вищий пріоритет у національній політиці кожної азіатської країни, з метою створення єдиного азіатського митного союзу, який забезпечуватиме захист азіатських народів та ринків від хижацьких західних економічних принципів, які..."
  japfor.28.a: "Звучить непогано"
  japfor.28.b: "Який абсурд (покинути конференцію)"
- 
+
  japfor.29.t: "Токіо: Зміцнення економічних зв'язків"
  japfor.29.d: "Азія має стати успішною! Для Токійської конференції ми готуємо пакет меморандумів, який закликає країни-підписанти посилити економічну інтеграцію між нашими ринками. Вигідні умови торгівлі, привілеї для японських компаній, механізми обміну валютою та багато іншого, що є частиною масштабного плану. Однак у нинішньому вигляді пакет може відштовхнути деяких учасників і вони відмовляться від участі. Ми можемо пом'якшити умови, надавши їм вигіднішу угоду і підвищивши ймовірність їхньої згоди, але ціною того, що в довгостроковій перспективі економічна інтеграція буде складнішою."
  japfor.29.a: "Презентуйте це на конференції."
  japfor.29.b: "Знизити умови угоди"
- 
+
  japfor.30.t: "Токіо: Японія хоче зміцнити економічні зв'язки"
  japfor.30.d: "Чи слід сказати 'Токіо закликає до економічної інтеграції'? У будь-якому разі, перед конференцією стало відомо про бажання Японії зміцнити наші зв'язки на зовсім іншому рівні, який виходить за рамки економічної політики, з якою ми спочатку погодилися. Ухвалення пропозиції буде великим кроком для нас, проте в довгостроковій перспективі [Root.GetAdjective]а економіка отримає набагато більше прибутку, ніж наша."
  japfor.30.a: "Ми згодні!"
  japfor.30.b: "Ні! (покинути конференцію)"
- 
+
  japfor.31.t: "Остання резолюція: Військовий альянс"
  japfor.31.d: "Нібито для боротьби із західним імперіалізмом, настав час запросити учасників конференції, що залишилися, до нашого військового альянсу, щоб на ділі мати можливість протистояти нашим суперникам. Буде краще, якщо вони братимуть удар на себе, замість нас!"
  japfor.31.a: "Хочеш миру - готуйся до війни"
  japfor.31.b: "Чиніть тиск на присутніх, щоб вони поставили свої підписи."
- 
+
  japfor.32.t: "Токіо: Заклик до воєнних дій"
  japfor.32.d: "Сьогодні Токійську конференцію охопила полеміка між країнами-учасницями після того, як вони дізналися про справжні цілі Японії: уклавши з нами торговельні угоди, вона закликає нас вступити в її військовий блок, метою якого є боротьба з Німеччиною та іншими 'західними імперіалістичними державами'. Зрозуміло, Японія в цьому альянсі матиме провідну роль. Нас справді влаштовує така ідея?"
  japfor.32.a: "Народи Азії, вперед!"
  japfor.32.b: "Вони точно збожеволіли!"
- 
+
  japfor.33.t: "[From.GetNameDefCap] приєднується до Японії!"
  japfor.33.d: "Судячи з усього, чиновники [From.GetNameDef] погодилися, що шлях до процвітання і сили їхньої країни лежить через співпрацю з найвидатнішою силою Азії, уособленою в державі [JAP.GetNameDef]. Ми зробимо все необхідне, щоб вони офіційно приєдналися до нашого військового союзу, який лежить в основі Великої східноазіатської Сфери Співпроцвітання."
  japfor.33.a: "Чудово!"
- 
+
  japfor.34.t: "Японський альянс"
  japfor.34.d: "Сьогодні надійшло повідомлення з Японії, в якому вказувалося, що в рамках своєї політики підтримки самовизначення не-ханьських культур на території, яка формально є китайською, імперія має укласти з нами військовий союз. Прийняти пропозицію?"
  japfor.34.a: "Звісно!"
  japfor.34.b: "Звісно!"
- 
+
  japfor.340.t: "[From.GetNameDefCap] прийняли нашу пропозицію"
  japfor.340.d: "[From.GetAdjective]ий уряд виявив розсудливість і погодився приєднатися до нашого альянсу."
  japfor.340.a: "Чудово"
- 
+
  japfor.341.t: "[From.GetNameDefCap] відмовляється"
  japfor.341.d: "[From.GetAdjective]ий уряд відкинув пропозицію приєднатися до нашого альянсу."
  japfor.341.a: "Безглуздий вибір"
- 
+
  japfor.342.t: "Приєднання до японської сфери"
  japfor.342.d: "Помітивши на Токійській конференції нашу зацікавленість в офіційному приєднанні до японського військового альянсу, японці прибули до [Root.GetNameDef] щоб особисто запропонувати нам розширену угоду."
  japfor.342.a: "Вчасно!"
  japfor.342.b: "Ми передумали..."
- 
+
  japfor.41.t: "Японський ультиматум"
  japfor.41.d: "Ось уже кілька місяців японці висловлюють свої агресивні амбіції щодо наших колоній у рамках своєї експансіоністської політики. Сьогодні японський посол висунув нам ультиматум: японці вимагають віддати їм усі наші території в Південно-Східній Азії та Тихому океані, інакше вони погрожують обрушити на нас усю міць своєї Імператорської армії..."
  japfor.41.a: "Навіть не думайте відповідати їм"
  japfor.41.b: "Прийняти їхні вимоги"
- 
+
  japfor.42.t: "Наш ультиматум проігнорували!"
  japfor.42.d: "Ми так і не отримали жодної відповіді від [From.GetNameDef] сторони на наш ультиматум. Ми повинні мобілізувати сили і почати війну, щоб закріпити наше становище гегемона Східної Азії!"
  japfor.42.a: "Оголосити війну!"
  japfor.42.b: "Надто ризиковано"
- 
+
  japfor.43.t: "[From.GetNameDefCap] уряд приймає наші вимоги"
  japfor.43.d: "[From.GetNameDefCap] сторона прийняла наші вимоги. У цьому немає нічого дивного: вони не посміли б протистояти могутності армій імператора!"
  japfor.43.a: "Чудово!"
- 
+
  japfor.45.t: "Японський емісар"
  japfor.45.d: "Сьогодні до нас прибув японський дипломат, він просить про зустріч із [Root.GetLeader] для обговорення однієї пропозиції: [From.GetNameDef] уряд надасть військову допомогу та інструкторів для [PRF.GetNameDef] в обмін на приєднання до Азійської сфери співпроцвітання. Поки що не йдеться про військовий альянс, лише про приєднання до клубу держав, які об'єднують свої економічні можливості під захистом Японії. Ухвалення пропозиції, безумовно, принесе прибуток [Root.GetAdjective]ій економіці, але багато хто побоюється, що японці насправді хочуть згодом збільшити свій вплив на нас і в кінцевому підсумку перетворити нашу державу на свою колонію."
  japfor.45.a: "Ми приймаємо їхню пропозицію"
  japfor.45.b: "Ми маємо дати їм ввічливу відмову"
- 
+
  japfor.46.t: "Індійці прийняли наші вимоги!"
  japfor.46.d: "Нашу щедру пропозицію індійцям зустріли з теплотою. Представники [From.GetNameDef] уряду вітали великодушність і проникливість японців у справі зближення наших великих народів. Ми запропонували їм відкрити своє посольство в Токіо."
  japfor.46.a: "Чудово!"
- 
+
  japfor.47.t: "Індійці відхилили нашу пропозицію!"
  japfor.47.d: "З гірших спонукань, [From.GetNameDef] дипломати відкинули нашу великодушну пропозицію дружби та співпраці. Японські газети відреагували публікацією карикатур, у якій індійський уряд виставлено наляканою шавкою за небажання вжити необхідних заходів для звільнення субконтиненту від колоніалізму."
  japfor.47.a: "Ганьба їм!"
- 
+
  japfor.54.t: "Циндао належить нам!"
  japfor.54.d: "Німецька військова гавань у Східній Азії впала перед нашими арміями. Замість прапора їхніх ВМС, зараз над містом гордо майорить прапор Японії. На вулицях німецькі крамарі з кам'яними обличчями дивляться на парад наших полків."
  japfor.54.b: "Блискуча перемога!"
- 
+
  japfor.55.t: "Японія погрожує нам!"
  japfor.55.d: "Японська оперативна група висадилася на наші острови і погрожує нам нападом якщо ми не здамося!"
  japfor.55.a: "Дати їм бій і покликати на допомогу!"
  japfor.55.b: "Нам залишається лише здатися"
- 
+
  japfor.56.t: "Філіппіни просять про допомогу!"
  japfor.56.d: "Японія стукає у двері Філіппінців, які просять нас про допомогу. Якою буде наша відповідь?"
  japfor.56.a: "Запропонувати їм свій захист"
  japfor.56.b: "На жаль, ми не можемо"
- 
+
  japfor.57.t: "Філіппіни заручилися [philippines_backer.GetAdjective]ою допомогою"
  japfor.57.d: "Філіппінці не хочуть виконувати наші вимоги, їхню незалежність підтримує [philippines_backer.GetNameDef]."
  japfor.57.a: "Ми знищимо їх, незважаючи ні на що"
  japfor.57.b: "Відступимо, до певного часу"
- 
+
  japfor.5701.t: "Японці відступили"
  japfor.5701.d: "Японці безумовно не хочуть випробовувати нас на міцність. Вони перестали надсилати погрози і відступили, до певного часу."
  japfor.5701.a: "Яке полегшення"
- 
+
  japfor.58.t: "Філіппіни чинять опір!"
  japfor.58.d: "Філіппінці не хочуть виконувати наші вимоги, при цьому не маючи за собою жодної держави, яка могла б прийти до них на допомогу. За свою зухвалість вони розплатяться кров'ю."
  japfor.58.a: "Ми знищимо їх"
- 
+
  japfor.59.t: "Філіппіни здалися!"
  japfor.59.d: "Побачивши міць наших збройних сил, у Філіппін не залишалося вибору, окрім як підкоритися хоробрим синам нашої імперії!"
  japfor.59.a: "Вони стануть нашими маріонетками!"
  japfor.59.b: "Анексуємо їх!"
- 
+
  japfor.62.t: "Японія погрожує нам!"
  japfor.62.d: "Японська оперативна група висадилася на наші острови і погрожує нам нападом якщо ми не здамося!"
  japfor.62.a: "Дати їм бій і покликати на допомогу!"
  japfor.62.b: "Нам залишається лише здатися"
- 
+
  japfor.63.t: "Гаваї здаються!"
  japfor.63.d: "Вони зробили правильний вибір. Утім, по суті його в них не було."
  japfor.63.a: "Вони стануть нашими маріонетками!"
  japfor.63.b: "Анексуємо їх!"
- 
+
  japfor.64.t: "Гаваї просять про допомогу"
  japfor.64.d: "Японія стукає у двері Гавайців, які просять нас про допомогу. Якою буде наша відповідь?"
  japfor.64.a: "Запропонувати їм свій захист"
  japfor.64.b: "Вони покинули нас, хіба ви не пам'ятаєте?"
- 
+
  japfor.65.t: "Гаваї заручилися допомогою Америки"
  japfor.65.d: "Гавайці не хочуть виконувати наші вимоги, їхню незалежність підтримує [From.GetNameDef]."
  japfor.65.a: "Ми знищимо їх, незважаючи ні на що"
  japfor.65.b: "Відступимо, до певного часу"
- 
+
  japfor.66.t: "Гаваї чинять опір!"
  japfor.66.d: "Гавайці не хочуть виконувати наші вимоги, при цьому вони не мають за собою підтримки з Америки. За свою зухвалість вони розплатяться кров'ю."
 
@@ -1812,17 +1775,17 @@
 
  japfor.200.t: "Німці просять про мир!"
  japfor.200.d: "Німці, пригнічені нашою переважаючою армією, приходять до нас із молитвами про мир. Вони пропонують нам натомість усю Індонезію і деякі свої власні колонії. Як ми повинні реагувати?"
- 
+
  japfor.202.t: "Фентяньська срібна криза"
  japfor.202.d: "Коли Банк Японії і банк Міцуї, два найбільших у нашій країні, зажадали виплати за своїми кредитами поспіль, Центральний банк Фентяня оголосив дефолт через раптовий і нібито незрозумілий брак срібних резервів. Чи було це просто грубою некомпетентністю і безгосподарністю, чи щось жахливіше, незрозуміло, але немає жодних сумнівів у тому, що уряд Фентяня опинився у важкій економічній ситуації та звернувся до нас із проханням про допомогу.\n\nХоча наш вплив дасть змогу забезпечити виплату як Міцуї, так і Банку Японії належних їм виплат першочергово, провал фентяньського уряду серйозно підірве їхні претензії на легітимність і наші твердження про прихильність. У нас є можливість внести заставу."
  japfor.202.a: "У нас немає вибору"
  japfor.202.b: "Це їхні проблеми"
- 
+
  japfor.203.t: "Фентянь звинувачує нас у срібній кризі!"
  japfor.203.d: "Фентянь публічно засудив наш уряд, заявивши, що це навмисна змова з метою дестабілізації їхнього уряду внаслідок нещодавньої Срібної кризи, пославшись на випадкові вимоги як Банку Японії, так і Банку Міцуї щодо погашення кредитів, що підтримуються срібним запасом Фентяня. З резервом, який, вочевидь, містить набагато менше, ніж стверджував Фентяньський уряд, їхня економіка вийшла з-під контролю, тому що уряд втрачає довіру до себе щогодини, і видається цілком імовірним, що ця груба і безглузда спроба відволікти увагу від відповідальності є, здебільшого, реакцією на їхню внутрішню політичну ситуацію.\n\nУ будь-якому разі, ми можемо спростувати ці безглузді твердження, але чи можемо ми також залишити це кричуще нахабство безкарним?"
  japfor.203.a: "Ці звинувачення - брехня!"
  japfor.203.b: "Покарати їх за нахабство!"
- 
+
  japfor.204.t: "Фентянь виганяє нашу військову місію"
  japfor.204.d: "Фентянь виганяє нашу військову місію, давши їм двадцять чотири години на те, щоб покинути країну, забравши з собою всю техніку та інше майно. Однак, всупереч нашим очікуванням, це супроводжувалося дипломатичним листом, в якому пояснювалося, що місія досягла своєї мети, і що тепер Фентяню цілком достатньо досвіду для виконання своїх командних функцій. Посол Фентяня також витратив останні кілька годин, намагаючись переконати МЗС, звісно ж, приватно, що це було лише необхідністю внутрішньої політики, і що стосовно Японії не буде жодної ворожості.\n\nХоча це може бути правдою, а може й ні, не виникає жодних сумнівів у тому, що це зменшить наш вплив на Фентянь, а це, своєю чергою, може поставити під загрозу безпеку Корейського півострова. Хто скаже, що китайці робитимуть далі?"
  japfor.204.d_mantetsu: "Фентянь виганяє нашу військову місію, давши їм двадцять чотири години на те, щоб покинути країну, забравши з собою всю техніку та інше майно. Однак, всупереч нашим очікуванням, це супроводжувалося дипломатичним листом, у якому пояснювалося, що місія досягла своєї мети, і що тепер Фентяню цілком достатньо досвіду для виконання своїх командних функцій.\n\nНа щастя, наш контроль над Фентянем через Мантецу є досить великим, і ми майже напевно можемо змусити їхній уряд скасувати своє рішення. Це може змусити більш патріотичні та мілітаристські елементи уряду самостійно оголосити війну, і наслідки такої ситуації також мають бути розглянуті."
@@ -1830,58 +1793,48 @@
  japfor.204.b: "Змусити Фентянь передумати"
  japfor.204.c: "Покарати Фентянь"
  japfor.204.e: "Нічого не робити"
- 
+
  japfor.205.t: "Фентянь виганяє нашу військову місію"
  japfor.205.d: "Фентянь вигнав нашу військову місію, давши їм двадцять чотири години на те, щоб покинути країну, забравши з собою всю техніку та інше майно. Це не тільки серйозно загрожує підірвати наш контроль над Фентяньським урядом, а й потенційно наражає Корею, а тим самим і Японію на небезпеку нападу. Це абсолютно неприйнятно як для наших генералів, так і для японського почуття честі. Такий акт невдячної непокори має бути зустрінутий відповідною відповіддю!"
  japfor.205.a: "Висунути ультиматум"
  japfor.205.b: "Нічого не робити"
- 
+
  japfor.206.t: "Фентянь засуджує нас!"
  japfor.206.d: "Єдиним найприбутковішим підприємством з видобутку залізної руди поза рідними островами є філія ЮМЖК під назвою 'Залізо і сталь Аньшана'. Наразі компанія хоче розширитися і, безумовно, почала проводити буріння без чийогось відома, що призвело до знищення посівних наділів, а це, своєю чергою, призвело до протестів серед місцевого китайського населення. Протести переросли в сутички і, на жаль, наш місцевий гарнізон був змушений втрутитися, позбавивши життя деяких протестувальників.\n\nУряд Фентяня засудив дії наших військ. Якою буде наша реакція?"
  japfor.206.a: "Покарати їх за нахабство!"
  japfor.206.b: "Засудити Фентянь"
  japfor.206.c: "Зберігати мовчання"
- 
- japfor.213.t: "Наші армії розбиті"
- japfor.213.d: "Незважаючи на наші великі армії і мужність наших людей, японські війська зараз падають мертвими в серці Росії. Можливо, настав час зробити немислиме і запропонувати їм мир."
- japfor.213.a: "Надіслати їм пропозицію"
- japfor.213.b: "Ми ніколи не здамося!"
- 
- japfor.214.t: "Росія пропонує мир"
- japfor.214.d: "Росія запропонувала нам Сибір в обмін на мир, це дійсно щедра пропозиція, чи приймаємо ми її?"
- japfor.214.a: "Досить з нас війни, ми згодні!"
- japfor.214.b: "Лише повна перемога нас влаштує!"
- 
+
  japfor.215.t: "Філіппіни прийняли нашу пропозицію"
  japfor.215.d: "Філіппіни вирішили приєднатися до нас, вони мудро передбачали, що опір буде марним, і замість цього вирішили стати нашим союзником."
  japfor.215.a: "Приємно чути"
- 
+
  japfor.216.t: "Філіппіни приєдналися до Антанти"
  japfor.216.d: "Філіппіни вирішили вступити в Антанту; вони відмовилися від пропозиції дружби. Це не повинно залишитися безкарним, але Антанта сильна, тож ми маємо виграти час."
  japfor.216.a: "Скоро, скоро"
- 
+
  japfor.217.t: "Філіппіни приєдналися до Райхспакту"
  japfor.217.d: "Філіппіни вирішили приєднатися до Рейхспакту; вони відмовилися від пропозиції дружби. Це не повинно залишитися безкарним, але Райхспакт сильний, тож ми маємо виграти час."
  japfor.217.a: "Скоро, скоро"
- 
+
  japfor.218.t: "Гаваї прийняли нашу пропозицію"
  japfor.218.d: "Гаваї вирішили приєднатися до нас, вони мудро розсудили, що опір буде марним, і замість цього вирішили стати нашим союзником."
  japfor.218.a: "Приємно чути"
- 
+
  japfor.225.t: "США в сум'ятті"
  japfor.225.d: "У Сполучених Штатах почалася громадянська війна, розриваючи на частини залишки федеративної єдності. Ситуація, що склалася, дає нам змогу позбавити від американської присутності центральну частину Тихого океану шляхом окупації Гуаму. Невелика ймовірність, що уряд США захоче зупинити нас."
  japfor.225.a: "Зайняти Гуам... і просунутися далі!"
  japfor.225.b: "Зайняти Гуам"
  japfor.225.c: "Я думаю, краще залишити все як є"
- 
+
  japfor.226.t: "Японія захоплює Гуам"
  japfor.226.d: "Оскільки Америка в хаосі, Японія перемістилася на острів Гуам. На даний момент уряд США майже нічого не може зробити, щоб зупинити Японію."
  japfor.226.a: "Дуже погано"
- 
+
  japfor.227.t: "Японія націоналізує наші автомобільні компанії"
  japfor.227.d: "В умовах, коли нація перебуває в хаосі, Японія захопила контроль над кількома американськими автомобільними компаніями, що працюють у цьому регіоні. Громадянська війна призвела до того, що багато компаній втратили зв'язок зі своїми головними компаніями, і вони боролися за отримання запчастин для своїх складальних ліній. Це дало змогу японцям досить легко захопити контроль над ними під виглядом 'допомоги'. Незважаючи на те, що це явно незаконна дія, ми не в змозі зробити нічого, окрім як надіслати їм суворо сформульованого листа."
  japfor.227.a: "Надішліть їм якомога різкішого листа!"
- 
+
  japfor.230.t: "Японія просить про мир"
  japfor.230.d.taiwan_kept: "Зазнавши повної поразки на полях битв на всьому азіатському континенті від наших переможних армій, японці відступили зі своїх баз у Маньчжурії та Кореї. Не маючи особливої надії оскаржити нашу відновлену перевагу на суходолі, зниження громадської думки і страх перед катастрофою, що поглиблюється, змусили Токіо сісти за стіл переговорів, однак не без того, щоб розіграти останню карту, яка залишилася в їхніх руках: Імператорський Японський Флот.\n\nПосилаючись на загрозу триваючої японської блокади і необхідність для обох держав бути достатньо сильними, щоб протистояти західному імперіалізму, умови, які вони запропонували, були здебільшого щедрими, хоча, відверто кажучи, просто визнанням статус-кво. Наша власність на континентальну китайську територію буде визнана і всі 'орендовані' території будуть повернуті, Корея буде звільнена, ми підемо від будь-яких інших окупованих членів [JAP.GetFactionName], буде підписано пакт про ненапад, і Японія утримається від подальшого втручання в китайські справи. Однак, у договорі відсутній острів Тайвань, який японці мають намір залишити собі.\n\nЗ огляду на нашу нинішню нездатність оскаржити японське панування на морях та інші проблеми, з якими стикається наш уряд, розумною дією буде підписання цього договору. Японська блокада берегової лінії - непросте завдання з їхнього боку, але вона порушить нашу торгівлю та економічну стабільність до катастрофічної міри. Однак Тайвань розглядається як невід'ємна китайська територія, безславно відібрана у нас після поразки в першій китайсько-японській війні. Повна перемога може зайняти роки, але чи може вона коштувати того, щоб забезпечити об'єднання Китаю?"
  japfor.230.d.taiwan_handed_over: "Будучи повністю переможеними на полях битв по всьому азіатському континенту нашими переможними арміями, японці відступили зі своїх баз у Маньчжурії та Кореї. Їхній військово-морський потенціал також був ослаблений за ці роки, як нашими діями, так і діями інших, що залишило їм мало можливостей домагатися сильніших умов. Маючи мало надії оскаржити нашу відновлену перевагу на суші, зниження громадської думки і побоювання погіршення катастрофи змусили Токіо сісти за стіл переговорів.\n\nВирішивши зберегти обличчя і скоротити свої втрати, вони сформулювали пропоновану угоду як таку, що необхідна для того, щоб обидві держави були достатньо сильні, щоб протистояти західному імперіалізму. Однак здебільшого умови є визнанням статус-кво. Нашу власність на китайську територію буде визнано і всі 'орендовані' території буде повернуто, Корею і Тайвань буде звільнено, ми відійдемо від будь-яких інших окупованих членів [JAP.GetFactionName], буде підписано пакт про ненапад, і Японія утримається від подальшого втручання в китайські справи.\n\nЗ огляду на логістичні проблеми вторгнення в Японію та інші більш нагальні проблеми, що стоять перед нами, ніж повна поразка Японії, розумною дією може бути підписання цієї угоди. З іншого боку, поки Японія залишається великою державою, вона становить загрозу нашій територіальній цілісності, і деякі прихильники жорсткої лінії радять нам домагатися повної поразки Японії і розпуску [JAP.GetFactionName]."
@@ -1939,19 +1892,19 @@
  japfor.257.d: "Кліка Аньцін, яка завдяки нашій допомозі нещодавно здобула перемогу над Лігою, звернулася до нас із проханням про допомогу. Фентяньський Уряд зобов'язався допомогти Аньціну в його відновленні, сподіваючись, що це переконає їх узяти участь у Війні за Повстання, щоб повернути Пекін. Якщо ми також візьмемо на себе таке зобов'язання, це, безсумнівно, поліпшить їхні шанси."
  japfor.257.a: "Ми надамо ресурси"
  japfor.257.b: "Це того не варте"
- 
+
  japfor.258.t: "Аньцін починає відновлюватися"
  japfor.258.d: "З нашою допомогою, Аньцін почав відновлюватися."
  japfor.258.a: "Гаразд"
- 
+
  japfor.259.t: "Аньцін відмовляється від своїх амбіцій"
  japfor.259.d: "Аньцін відступив від від проєкту меліорації, а Фентянь прокреслив кордон на піску. Ми змушені були припинити посилати їм допомогу на відновлення."
  japfor.259.a: "Так і бути"
- 
+
  japfor.260.t: "Аньцін відмовляється від своїх амбіцій"
  japfor.260.d: "Аньцін відступив від від проекту меліорації, але Фентянь вирішив не знімати їх з відновлення, схоже, що вони можуть продовжувати працювати самостійно."
  japfor.260.a: "Приємно чути"
- 
+
  japfor.261.t: "Аньцін відмовляється від своїх амбіцій"
  japfor.261.d: "Аньцін відступив від проєкту меліорації, і в той час як Фентянь вирішив не знімати їх із процесу відновлення, Аньцін все одно відступив за власним бажанням."
  japfor.261.a: "Утім, це все одно не мало сенсу"
@@ -1988,152 +1941,152 @@
  japfor.318.d: "Ескалація кризи в Тихому океані! Незважаючи на хаос, що охопив Північну Америку, їхній впертий уряд відмовляється послабити свою хватку на Тихому океані, обіцяючи сувору відплату за будь-яку спробу порушити їхній суверенітет. Такого зарозумілого і жадібного ставлення можна було очікувати тільки від цих колонізаторів, але це ставить нас у скрутне становище. Хоча немає сумнівів у тому, що ми можемо захопити ці острови силою, дехто сумнівається у здатності нашого флоту утримувати ці острови понад кілька років. Сполучені Штати - це сила, на яку потрібно зважати, дехто називає їх сплячим гігантом. Але інші кажуть, що японський дух завжди полягав у тому, щоб кидати виклик труднощам, чи то утихомирення китайського дракона 1895 року, чи то вигнання росіян з Маньчжурії 1905 року. Втратити обличчя, навіть коли американці перебувають у найслабшому становищі, було б рівносильно капітуляції, назавжди прирікаючи японський народ на другорядну роль у Тихоокеанському регіоні. Отже, Японія перебуває на роздоріжжі - що ж країна висхідного сонця робитиме далі?"
  japfor.318.a: "Tora! Tora! Tora!"
  japfor.318.b: "Відкличте флот, терпіння - це чеснота"
- 
+
  japfor.401.t: "Запрошення від [From.GetNameDef]"
  japfor.401.d.conf: "На Токійській конференції, японські офіційні особи порушили питання про глибші економічні зв'язки між їхньою та нашою країною. Тепер вони звернулися до [Root.GetAdjective]ому уряду, представивши свою пропозицію прийняти нас у те, що вони вважають економічною частиною своєї 'Сфери Співпроцвітання'. Вони кажуть, що ми вільні приєднатися або відмовитися, як ми побажаємо."
  japfor.401.d.noconf: "Японський уряд звернувся до нас із пропозицією приєднатися до економічної частини їхньої 'Великої азіатської Сфери Співпроцвітання'. З його допомогою, ми б послабили обмеження для японських інвестицій у [Root.GetNameDef], і принесли б із цими інвестиціями певний ступінь процвітання та незалежності від 'західного імперіалізму'. Дехто, однак, каже, що це було б просто обміном західного імперіалізму на японський імперіалізм, і що ми повинні остерігатися відкриття скриньки, яку ми, можливо, не зможемо закрити знову."
  japfor.401.a: "Ми згодні з їхньою пропозицією"
  japfor.401.b: "Нам це не потрібно"
- 
+
  japfor.402.t: "[From.GetNameDefCap] погоджується"
  japfor.402.d: "[From.GetAdjective]ий уряд бачить мудрість і економічні вигоди, які принесе включення в нашу економічну сферу. Вони погодилися з нашими умовами."
  japfor.402.a: "Чудово"
- 
+
  japfor.403.t: "[From.GetNameDefCap] відмовляється"
  japfor.403.d: "[From.GetAdjective]ий уряд, імовірно, побоюючись наших справжніх мотивів, відхилив нашу пропозицію щодо вступу в японську економічну сферу."
  japfor.403.a: "Нерозумний вибір"
- 
+
  japfor.405.t: "Збільшення японських інвестицій"
  japfor.405.d: "За активної підтримки [From.GetAdjective]ого уряду, інвестори з [From.GetNameDef] масово приїжджали в [Root.GetNameDef]. Їхня присутність матиме деякі переваги, це правда, але зростає страх, що це домінування [From.GetAdjective]ої економіки зрештою призведе до того, що ми станемо залежними від [From.GetAdjective]ого уряду... якщо ми ще не стали такими."
  japfor.405.a: "Інвестиції означають більше грошей, правильно?"
- 
+
  japfor.406.t: "Інвестори будують фабрики"
  japfor.406.d: "Японські інвестори в [Root.GetNameDef] були зайняті створенням нових фабрик - схоже, це відчутна вигода від нашої участі в Азійській сфері спільного процвітання."
  japfor.406.a: "Гаразд!"
- 
+
  japfor.407.t: "[Root.GetAdjective]ий уряд підкоряється Японії"
  japfor.407.d: "Якщо були побоювання з приводу триваючих інвестицій Японії в [Root.GetNameDef], що призводять до їхнього домінування, то їх можна відкласти вбік - це вже сталося. [Root.GetAdjective]а політика вже регулярно проводиться на догоду інтересам Японії, і будь-які думки про нашу незалежність поступово стають ввічливою фікцією. Приїзд кількох 'радників' з [From.GetNameDef], поклав кінець будь-яким думкам про те, що ми можемо діяти так, як захочемо, в рамках Сфери Співпроцвітання."
  japfor.407.a: "Так і бути"
- 
+
  japfor.408.t: "[From.GetNameDefCap] виходить із нашого альянсу"
  japfor.408.d: "По дурості, [From.GetAdjective]ий уряд вирішив розірвати свій військовий союз із нами. Схоже, вони відчувають, що зможуть впоратися без нашої допомоги."
  japfor.408.a: "Подивимося"
- 
+
  japfor.409.t: "[From.GetNameDefCap] віддаляється від Сфери"
  japfor.409.d: "Відчуваючи деякі ірраціональні побоювання з приводу того, що ми домінуємо над ними, [From.GetAdjective]ий уряд вирішив припинити свою участь в Азіатській Сфері Процвітання, розірвавши зв'язки між [From.GetAdjective]ою економікою та нашою."
  japfor.409.a: "Як безглуздо"
- 
+
  japfor.410.t: "[From.GetAdjective]ий уряд націоналізує інвестиції"
  japfor.410.d: "[From.GetAdjective]ий уряд зробив рішучий крок щодо насильницької націоналізації вкладених нами в [From.GetNameDef] інвестицій, а також відмовився від свого місця в Сфері Співпроцвітання під час цього процесу. Можливо, їх турбує перспектива японського контролю над своєю економікою? Якщо так, то вони дали нам привід для вторгнення - якщо ми хочемо скористатися їхньою провокацією."
  japfor.410.a: "Залишити їх"
  japfor.410.b: "Слід дати їм урок!"
- 
+
  japfor.411.t: "[withdraw_country.GetNameDefCap] залишає економічну сферу"
  japfor.411.d: "Приєднавшись до [withdraw_country.GetFactionName], [withdraw_country.GetNameDef] вже не можна вважати частиною нашої економічної сфери. Їм доведеться піти."
  japfor.411.a: "Як безглуздо з їхнього боку"
- 
+
  japfor.412.t: "Віддалення від японської Сфери"
  japfor.412.d: "З нашим приєднанням до [Root.GetFactionName] ми більше не можемо вважатися частиною економічної сфери Японії."
  japfor.412.a: "Хай буде так!"
- 
+
  japfor.420.t: "Інвестори будують верф"
  japfor.420.d: "Японські інвестори в [Root.GetNameDef] були зайняті будівництвом нової верфі - значний зиск від нашої участі в Азійській Сфері Співпроцвітання."
  japfor.420.a: "Дуже добре!"
- 
+
  japfor.421.t: "Японія надсилає радників"
  japfor.421.d: "Як частина плану з розвитку флоту, Японська Імперія відправила групу радників до нас, щоб допомогти у виконанні програми. Вони дуже освічені та спеціалізуються в безлічі аспектів, тож ми можемо направити їх туди, де вони справді необхідні."
  japfor.421.a: "Направити їх на допомогу інженерам."
  japfor.421.b: "Їхні знання тактики нам допоможуть."
  japfor.421.c: "Практичний досвід у процесі тренувань буде вельми доречним."
- 
+
  japfor.422.t: "Перший корабель процвітання"
  japfor.422.d: "Японські інженери, які прибули з [Root.GetNameDef], були зайняті навчанням наших робітничих верфей з виробництва сучасних японських вантажних кораблів, так звані "Кораблі процвітання" - значний зиск від нашої участі в Азійській Сфері Співпроцвітання."
  japfor.422.a: "Чудові новини!"
- 
+
  japfor.423.t: "Японія бажає контролювати наші верфі"
  japfor.423.d: "Японські генерали й адмірали цього ранку офіційно зажадали отримати контроль над усіма нашими верфями для своїх компаній. Вони пояснюють це тим, що під час війни морське виробництво має бути об'єднане під одним командуванням."
  japfor.423.a: "Хай буде так."
  japfor.423.b: "За кого вони себе вважають?"
- 
+
  japfor.424.t: "Японія повернула контроль над верфями"
  japfor.424.d: "Оскільки наш спільний ворог упав, немає жодної законної причини для Японії контролювати наші верфі, тому вони повертають їх нам."
  japfor.424.a: "Безумовно, несподіванка, але приємна."
- 
+
  japfor.425.t: "[From.GetNameDefCap] просить військово-морських радників"
  japfor.425.d: "Цього ранку ми отримали запит від [From.GetNameDef], щоб ми направили групу радників до них для підтримки в розвитку морського виробництва."
  japfor.425.a: "Справедливе прохання."
  japfor.425.b: "Ми так не думаємо."
- 
+
  japfor.426.t: "Японія відхилила запит"
  japfor.426.d: "На жаль, Японія відмовила нам у наданні радників."
  japfor.426.a: "Шкода."
- 
+
  japfor.427.t: "[From.GetNameDefCap] відмовляє в наданні контролю над верфями"
  japfor.427.d: "У досить зухвалій манері ми отримали відмову в контролі над тими самими верфями, які самі ж і будували. Хоча дипломатично було б нерозумно реагувати гостро, ми не забудемо цю зраду. Вони ще пошкодують про це."
  japfor.427.a: "Теж мені союзники."
- 
+
  japfor.450.t: "Японія накладає ембарго на [Root.GetNameDef]!"
  japfor.450.d: "Протягом кількох місяців, ми турбувалися про масштаби японських амбіцій та їхні агресивні дії в південній частині Тихого океану, і тепер у нас є на те причини. Вони заявили про свій намір спрямувати свою сферу впливу на негайне припинення торгівлі з [Root.GetNameDef], назвавши нас 'форпостом європейського колоніалізму та імперіалізму в Азії'. Не варто недооцінювати те навантаження, яке це може чинити на нашу економіку..."
  japfor.450.a: "Переживемо"
  japfor.450.b: "Вони хочуть торговельної війни!"
  japfor.450.c: "Нам варто зблизитися з Японією"
- 
+
  japfor.451.t: "[From.GetNameDefCap] мститься нам!"
  japfor.451.d: "[From.GetAdjective]ий уряд запровадив проти нас тарифи! Це дає нам саме той 'казус беллі', на який ми сподівалися!"
  japfor.451.a: "Так, але не зараз..."
  japfor.451.b: "Відповісти воєнними діями!"
- 
+
  japfor.452.t: "[From.GetNameDefCap] хоче зміцнити зв'язок з нами"
  japfor.452.d: "У відповідь на наше ембарго, [From.GetAdjective]ий уряд попросив стати частиною нашої економічної сфери, вочевидь вважаючи, що краще працювати з нами, ніж проти нас."
  japfor.452.a: "Так навіть краще!"
- 
+
  japfor.453.t: "[From.GetNameDefCap] нічого не робить"
  japfor.453.d: "Боягузливий [From.GetAdjective]ий уряд вирішив нічого не робити у відповідь на наше ембарго. Вони мають намір просто витримати його. Якщо ми хочемо втягнути їх у війну, нам доведеться зробити це складним шляхом."
  japfor.453.a: "Так і бути!"
- 
+
  japfor.455.t: "Японія планує напад"
  japfor.455.d: "Ми зібрали розвіддані, які свідчать про те, що Японія прагне захопити нашу колонію в Голландській Ост-Індії. Наші військові експерти попереджають, що ми, можливо, не зможемо відбитися від такого вторгнення з огляду на стан японських та урядових військово-морських сил і чисельність японських військових. Вони пропонують нам звернутися до Кайзера і попросити його про допомогу: їхні інтереси, збереження статус-кво, зближення з нами, і японське захоплення також загрожуватиме їхнім володінням. Можливо, це наш найкращий шанс зберегти наше колоніальне володіння."
  japfor.455.a: "Повідомити Берліну!"
  japfor.455.b: "В цьому немає необхідності..."
- 
+
  japfor.456.t: "Нідерландці благають про допомогу"
  japfor.456.d: "Нідерландці виявили докази того, що японці планують вторгнення в їхню колонію, розуміючи, що вони ніколи не зможуть захистити свою колонію за допомогою своєї значною мірою перевантаженої колоніальної армії та обмежених військово-морських засобів порівняно з Японією. Однак вони зазначають, що захоплення японцями їхньої колонії серйозно порушило б нашу власну оборонну ситуацію, і немає жодних сумнівів у тому, що японці прагнуть вигнати нас із цього регіону!"
  japfor.456.a: "Ми вам допоможемо!"
  japfor.456.b: "Вони не заслуговують на свої колонії..."
- 
+
  japfor.457.t: "Німеччина надсилає допомогу"
  japfor.457.d: "Німці погодилися допомогти захистити Голландську Ост-Індію від нашої спільної японської загрози, яка прагне забрати в нас колонію."
  japfor.457.a: "Піднімемо келихи за наших друзів!"
- 
+
  japfor.458.t: "Німеччина відмовляється захищати нас!"
  japfor.458.d: "Німці дали нам знати, що не в їхніх інтересах давати захист нашим колоніальним володінням в Індії. Схоже, ми залишилися самі!"
  japfor.458.a: "У нас вийде захистити Ост-Індію, правда ж??"
- 
+
  japfor.459.t: "[From.GetNameDefCap] сама по собі"
  japfor.459.d: "Не маючи можливості або бажання отримати допомогу, [From.GetNameDefCap] тепер залишається сама. Їхні збройні сили становлять лише малу дещицю від наших, а їхні лідери слабкі; ніщо нас не зупинить."
  japfor.459.a: "Banzai!"
- 
+
  japfor.460.t: "Інсуліндія чинить опір за підтримки Німеччини"
  japfor.460.d: "Німці погодилися допомогти захистити Голландську Ост-Індію від нас! Поки ми ще можемо напасти, ми повинні добре подумати, чи готові ми розпочати таку війну."
  japfor.460.a: "Ми непохитні"
  japfor.460.b: "Можливо, час ще не настав"
- 
+
  japfor.461.t: "Японія використовує стратегію "Розділяй і володарюй""
  japfor.461.d: "Схоже, що давні претензії Японії до легітимності нашого уряду, не кажучи вже про 'братню азійську співдружність', були не більше ніж словами. Зараз вони рухаються до стратегії 'розділяй і володарюй' для всього Китаю. Нашого Китаю. Хоча це і сигналізує про те, що війна з ними може розпочатися раніше ніж ми думаємо, це також зашкодило репутації Асоціації Конкордія, надавши нам більше простору для маневру."
  japfor.461.a: "Вони пошкодують про це"
- 
+
  japfor.462.t: "Японія використовує стратегію "Спалити вщент""
  japfor.462.d: "Чутки про зловживання японських військ щодо китайських цивільних осіб вже деякий час доходять до наших вух. Японське консульство в Мукдені завжди запевняло нас у тому, що вони перебільшені, а там, де такі злочини справді мали місце, їх було скоєно з вини недисциплінованих військ, і це скоріше виняток, ніж норма. Однак зараз Японія зробила немислиме. Вона не тільки відкрито заявила про свою підтримку цих жахливих злодіянь, а й класифікувала їх як частину офіційної стратегії. З таким безпрецедентним варварством не можна миритися, і ми не можемо дозволити собі, щоб нас зображували винними на асоціації з ними. На щастя, прояпонській Асоціації Конкордія буде важко пояснити це, і вона втратить вплив у нашому уряді."
  japfor.462.a: "Нам слід замислитися над планом дій"
- 
+
  japfor.464.t: "Японія нагороджує нас за лояльність"
  japfor.464.d: "У своїй глибокій мудрості японський уряд вирішив винагородити нашу вірність, повернувши землю, яка по праву належить нам. Звісно, ми раді такому жесту, але ми маємо бути обережними; зрештою, Асоціація Конкордія отримала велику підтримку, що ускладнить нам протистояння з Японією в майбутньому, якщо ми того забажаємо."
  japfor.464.a: "Насамперед, ця земля має належати нам"
- 
+
  japfor.465.t: "Ворог має переважну силу"
  japfor.465.d: "До теперішнього моменту стало відомо, що сила наших ворогів набагато перевершує нашу. Те, що починалося як чутки від нашої розвідки, тепер збулося. У той час як ми робитимемо все можливе для підтримки суспільної моралі, навіть наша найтвердіша опора починає сумніватися в тому, чи варто продовжувати боротьбу; чи не розтягуємо ми на цьому етапі невідворотне?"
  japfor.465.a: "Має бути час, щоб усе виправити..."
- 
+
  japfor.466.t: "У нас є переважна сила"
  japfor.466.d: "Як для нас, так і для Японії стає дедалі очевиднішим, що наші сили набагато переважають їхні. У міру того, як новини про це просочуються в японську громадськість, наростають заворушення, а підтримка їхнього уряду падає. Якщо ми збережемо цю перевагу, вони капітулюють навіть раніше, ніж ми сподівалися."
  japfor.466.a: "Які чудові новини!"
@@ -2146,7 +2099,7 @@
  japfor.500.t: "Кітей Сон і Нан Сьору"
  japfor.500.d: "Олімпійські ігри 1936 року пройшли, і у нас є привід для гордості. Наші спортсмени завоювали дев'ять медалей, встановивши новий національний рекорд, але деякі з наших переможців були... проблемними. Спортсмени Кітей Сон і Нан Сьору - або, як їх краще називати, Сон Кі-Чунг і Нам Сунг-Йонг - добре виступили в марафонському забігу, перший навіть посів перше місце, але загалом вони не проявили ентузіазму, належного підданим імператора. Вони опускали голови під час виконання національного гімну, ховали прапор на грудях і наполягали на тому, щоб їх називали корейцями, а не японцями, багато хто в нашій країні соромився їхньої поведінки, на відміну від популярного ставлення в Чосені, яке здебільшого підтримувало їхні дії. У результаті центральний уряд заборонив спортсменам брати участь у майбутніх змаганнях, а також встановив за ними спостереження. Було б шкода, якби їхню перемогу було використано для поширення нестабільності в імперії.\n\nМіністерство закордонних справ також спробувало забезпечити мінімальне співчуття за кордоном, подавши скаргу до уряду Ірландії та Міжнародного олімпійського комітету щодо передбачуваної нестачі турботи про те, щоб наші спортсмени належним чином представляли імперію. Вони поки не відповіли."
  japfor.500.a: "Шкода."
- 
+
 ### Puppet Military Exercise Event ###
  japfor.550.t: "Joint Military Exercise with [JAP.GetNameDef]"
  japfor.550.d: "Since the establishment of a friendly government in Japan, our High Command has been keen to take the opportunity to study the tactics of the former Imperial Japanese Army and Navy, particularly in the field of naval invasions and amphibious warfare. The best proposal for this was a joint exercise, which, moreover, would also benefit the currently rebuilding [JAP.GetName] Defence Forces, so after months of planning, a joint operation had been held the previous week. During the 3-day exercise, a corps-sized unit was trained to land and capture key strategic points near the shore and defend the newly created beachhead. Our soldiers took part on the offensive side with Japanese advisors with war experience assigned to every division.\n\nA few years ago, even the most optimistic voices could not have imagined that, our two armies would meet in an exercise where they would only be shooting at each other in imagination, or that the more or less successful conversations with the suddenly prepared dictionary booklets would take place in such a surprisingly friendly atmosphere."
@@ -2156,15 +2109,15 @@
  japfor.600.t: "Японці наступають на Китай"
  japfor.600.d: "Те, чого ми так довго боялися, нарешті настало. Довгий час японці жадібно дивилися на наші великі землі, користуючись нашими природними ресурсами і розділеною національною єдністю. Тепер вони тут у повному складі, це вторгнення перевірить нашу хоробрість і мужність, і ми не здригнемося. Японці - огидні варвари. До нас уже дійшли повідомлення про невимовні злочини, і можна тільки уявити собі долю своїх співвітчизників від рук огидних піратів. Західні держави, стурбовані подіями в Європі та Америці, кинули нас напризволяще.\n\nІ поки ми в небезпеці, хіба Китай не чинив опір і не давав відсіч загарбникам протягом століть? Наша цивілізація налічує 4 000 років - це свідчення нашої славної волі та рішучості. Ми чинитимемо опір їхньому вторгненню з найбільшою завзятістю і виженемо японців назад на їхні острови. Qilái! Ми більше не будемо розділені і не станемо рабами японських собак, зараз не той час!"
  japfor.600.a: "Разом ми стоїмо - порізно ми падаємо."
- 
+
  japfor.601.t: "Китайці опираються нашому славному просуванню"
  japfor.601.d: "Завдяки вмілим стратегічним операціям імператорських військ і зусиллям кожної людини, Японія здобуває постійні перемоги. З кожним днем китайські армії розпадаються і ламаються, і перемога - лише питання часу.\nКитайці, однак, чинять значний опір нашому звільненню. Вони не розуміють наших справжніх мирних намірів і прагнення до єдиного азіатського фронту проти німецького імперіалізму. Ходять навіть чутки, що якщо наше просування зайде досить далеко вглиб Китаю, китайці навіть зруйнують набережні Жовтої річки, жертвуючи життями сотень тисяч невинних співвітчизників. Такий обурливий і жорстокий акт ніколи не буде допущений ні людьми, ні Небом.\nПроте не варто сумніватися в силі та рішучості армії Його Імператорської Величності! Для нас велика честь померти за Його Величність, виконуючи справжнє призначення Японії - зібрати всю Азію під одним дахом."
  japfor.601.a: "Tennōheika Banzai!"
- 
+
  japfor.602.t: "Війна опору проти японської агресії"
  japfor.602.d: "Китай стоїть перед обличчям найбільшої національної небезпеки, і все ж за кожен втрачений сантиметр китайської землі лунає терміновий заклик до дії! Наші війська відважно чинять опір без застарілої зброї, нас кидають імперіалістичні держави - але з кожним днем японська військова машина страждає, не в силах зломити наш незламний дух. Солдати і громадяни, воєначальники і республіканці, поміщики і селяни - відкиньте свої чвари, бо настав час єдності! Жадібні варвари завжди заздритимуть нашій прекрасній країні, але вона їм не дістанеться. Ми здобудемо над ними перемогу, нехай китайський народ буде єдиний у боротьбі з бандитами - китайський народ нарешті звільниться від імперіалізму!"
  japfor.602.a: "Ми будемо битися до смерті! Wansui!"
-  
+
  japfor.603.t: "Війна в Китаї"
  japfor.603.d: "У міру ескалації війни в Китаї наші доблесні війська опинилися в невигідному становищі, незважаючи на чудове спорядження і підготовку. Наші командири на місцях уже почали сперечатися і сваритися, роблячи свої власні розбіжні ініціативи, які уряд у Токіо, а іноді навіть імператорський штаб не можуть стримати. Крім того, давнє суперництво між армією і флотом уже вилилося в китайську війну, оскільки флот відмовляється відправляти спорядження або навіть викидає його за борт у портах, залишаючи армії виловлювати його з води.\n\nТепер, коли ми збираємося просуватися далі в Китай, наші шляхи постачання пролягатимуть брудними стежками і через підступні гірські перевали, ця проблема може тільки посилитися. Ми повинні прагнути розв'язати внутрішні конфлікти й оптимізувати наші засоби ведення війни, інакше ми ризикуємо зазнати поразки перед обличчям слабшого супротивника."
  japfor.603.a: "Shō ga nai..."
@@ -2228,127 +2181,225 @@
 
 ### Characters ###
  JAP_arahata_kanson: "Arahata Kanson"
- JAP_arahata_kanson_leader_desc: "§YLeader Description\nBorn:§! August 14th, 1887, in Eirakucho, Yokohama, Kanagawa, Empire of Japan\n§YPolitical Career:§! The first Chairman of the People's Republic of Japan, Arahata Kanson, took office during the immediate change in the political landscape of the nation. Having been arrested in the Red Flag Incident, Arahata had to hide his pro-socialist tendencies, later creating a socialist underground for left-leaning activists. It is said Arahata might be responsible for all the radical left violence against the Imperial regime."
-
- JAP_nosaka_sanzo_leader_desc: "§YLeader Description\nBorn:§! March 30th, 1892, in Hagi, Yamaguchi, Empire of Japan\n§YPolitical Career:§! The son of a prosperous Japanese merchant, Nosaka was raised in a bourgeois environment and attended Keio University. It was at his time in Keio, that Nosaka became interested in the international labour movement, an interest that was supported by one of his professors, Kiichi Horie. He then completed a study on a moderate labour organisation known as the \"Yuaikai\" and after graduation; he became an editor for the organisation's journal.\n\nFollowing the 1917 Bolshevik Revolution and the subsequent 1919 French Revolution, Nosaka became a committed Marxist and arrived in France in 1919, where he became acquainted with British and French socialists. Influential through the Third Internationale as one of the de facto leaders of Japan's budding socialist movement, he was able to grow close to the Kuomintang's leftist leadership following their expulsion from China following the failure of the First Northern Expedition. He was involved in preparations for the 1932 Shanghai Uprising orchestrated by both the Kuomintang and the League of Chinese Syndicalists, but the uprising's failure led him to participate in the Mingan insurgency as a volunteer.\n\nAfter having accompanied the Kuomintang for some time and witnessing the success of the Second Expedition, Nosaka pledged his services to the Chinese Army, helping facilitate the re-education of captured Japanese POWs during the Second-Sino Japanese War. It is with this task, that he has earned the KMT's trust in leading the new Japanese Socialist Republic towards a new dawn along with their Chinese sister Republic."
- JAP_nosaka_sanzo_advisor_desc: "§YAdvisor Description\nBorn:§! §gMarch 30tg, 1892, in Hagi, Yamaguchi, Empire of Japan\n§YPolitical Career:§! The son of a prosperous Japanese merchant, Nosaka was raised in a bourgeois environment and attended Keio University. It was at his time in Keio, that Nosaka became interested in the international labour movement, an interest that was supported by one of his professors, Kiichi Horie. He then completed a study on a moderate labour organisation known as the \"Yuaikai\" and after graduation; he became an editor for the organisation's journal.\n\nFollowing the 1917 Bolshevik Revolution and the subsequent 1919 French Revolution, Nosaka became a committed Marxist and arrived in France in 1919, where he became acquainted with British and French socialists. Influential through the Third Internationale as one of the de facto leaders of Japan's budding socialist movement, he was able to grow close to the Kuomintang's leftist leadership following their expulsion from China following the failure of the First Northern Expedition. He was involved in preparations for the 1932 Shanghai Uprising orchestrated by both the Kuomintang and the League of Chinese Syndicalists, but the uprising's failure led him to participate in the Mingan insurgency as a volunteer.\n\nAfter having accompanied the Kuomintang for some time and witnessing the success of the Second Expedition, Nosaka pledged his services to the Chinese Army. Welcoming any aid, the Central Committee has allowed him to serve the Chinese National Revolutionary Army as a general. Although separated from his homeland in the service of another nation, Nosaka hopes to one day return to Japan and bring about a Japanese Socialist Revolution with himself at its helm.§!\n\n§YNotes: Hoping only to aid the Chinese National Revolution, Nosaka Sanzō has kept out of the political infighting within the KMT and is seen as a neutral figure.§!"
- JAP_nosaka_sanzo_commander_desc: "§YGeneral Description\nBorn:§! §gMarch 30th, 1892, in Hagi, Yamaguchi, Empire of Japan\n§YMilitary Career:§! The son of a prosperous Japanese merchant, Nosaka was raised in a bourgeois environment and attended Keio University. It was at his time in Keio, that Nosaka became interested in the international labour movement, an interest that was supported by one of his professors, Kiichi Horie. He then completed a study on a moderate labour organisation known as the \"Yuaikai\" and after graduation; he became an editor for the organisation's journal.\n\nFollowing the 1917 Bolshevik Revolution and the subsequent 1919 French Revolution, Nosaka became a committed Marxist and arrived in France in 1919, where he became acquainted with British and French socialists. Influential through the Third Internationale as one of the de facto leaders of Japan's budding socialist movement, he was able to grow close to the Kuomintang's leftist leadership following their expulsion from China following the failure of the First Northern Expedition. He was involved in preparations for the 1932 Shanghai Uprising orchestrated by both the Kuomintang and the League of Chinese Syndicalists, but the uprising's failure led him to participate in the Mingan insurgency as a volunteer.\n\nAfter having accompanied the Kuomintang for some time and witnessing the success of the Second Expedition, Nosaka pledged his services to the Chinese Army. Welcoming any aid, the Central Committee has allowed him to serve the Chinese National Revolutionary Army as a general. Although separated from his homeland in the service of another nation, Nosaka hopes to one day return to Japan and bring about a Japanese Socialist Revolution with himself at its helm.§!\n\n§YNotes: Hoping only to aid the Chinese National Revolution, Nosaka Sanzō has kept out of the political infighting within the KMT and is seen as a neutral figure.§!"
+ JAP_arahata_kanson_leader_desc: "§YBorn:§! §LAugust 14th, 1887, in Yokohama, Kanagawa Prefecture, Empire of Japan§!\n§YBackground:§! §LThe first Chairman of the People's Republic of Japan, Arahata Kanson, took office during the immediate change in the political landscape of the nation. Having been arrested in the Red Flag Incident, Arahata had to hide his pro-socialist tendencies, later creating a socialist underground for left-leaning activists. It is said Arahata might be responsible for all the radical left violence against the Imperial regime.§!"
 
  JAP_katayama_tetsu: "Katayama Tetsu"
+ JAP_katayama_tetsu_leader_desc: "§YBorn:§! §LJuly 28th, 1887, in Tanabe, Wakayama Prefecture, Empire of Japan§!"
  JAP_ishibashi_tanzan: "Ishibashi Tanzan"
+ JAP_ishibashi_tanzan_leader_desc: "§YBorn:§! §LSeptember 25th, 1884, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_yoshida_shigeru: "Yoshida Shigeru"
+ JAP_yoshida_shigeru_leader_desc: "§YBorn:§! §LSeptember 22nd, 1878, in Kanda, Tōkyō Prefecture, Empire of Japan§!"
  JAP_kishi_nobusuke: "Kishi Nobusuke"
+ JAP_kishi_nobusuke_leader_desc: "§YBorn:§! §LNovember 13th, 1896, in Yamaguchi, Yamaguchi Prefecture, Empire of Japan§!"
 
  JAP_takamatsu_nobuhito: "Takamatsu Nobuhito"
+ JAP_takamatsu_nobuhito_leader_desc: "§YBorn:§! §LJanuary 3rd, 1905, in Tōgū Palace, Aoyama, Tōkyō Prefecture, Empire of Japan§!"
 
  JAP_hirohito: "Hirohito"
- JAP_hirohito_leader_desc: "§YLeader Description\nBorn:§! April 29th, 1901, in Tōgū Palace, Aoyama, Tokyo, Empire of Japan\n§YPolitical Career:§! Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign. However, with the rise of tension internally and externally, it is uncertain as to what will aid in leading Japan to glory and greatness."
- JAP_hirohito_defeat_desc: "§YLeader Description\nBorn:§! April 29th, 1901, in Tōgū Palace, Aoyama, Tokyo, Empire of Japan\n§YPolitical Career:§! Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign.\n\nIt would appear that harsh and uncertain times have befallen the once formerly great Japanese power. Once regarded as the strongest naval power in all of East Asia, one worthy of competing with the Kaiserliche Marine, the Japanese Empire's daring ambition would soon prove to be their downfall. After a victorious land and sea campagin by their enemy forces, Japan has become completely occupied for the first time in its history. While Hirohito continues to remain the nominal head of state and the Emperor of the Japanese people, only time will tell whether or not this arrangement is permanent."
- JAP_hirohito_symbol_desc: "§YLeader Description\nBorn:§! April 29th, 1901, in Tōgū Palace, Aoyama, Tokyo, Empire of Japan\n§YPolitical Career:§! Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign.\n\nIt would appear that harsh and uncertain times have befallen the once formerly great Japanese power. Once regarded as the strongest naval power in all of East Asia, one worthy of competing with the Kaiserliche Marine, the Japanese Empire's daring ambition would soon prove to be their downfall. After a victorious land and sea campagin by their enemy forces, Japan has become completely occupied for the first time in its history. With the creation of a new Japanese state it was decided for good that the emperor's role should be being the symbol of the Japanese state and the unity of the Japanese people without even nominal political powers."
+ JAP_hirohito_leader_desc: "§YBorn:§! §LApril 29th, 1901, in Tōgū Palace, Aoyama, Tōkyō Prefecture, Empire of Japan§!\n§YBackground:§! §L$JAP_hirohito_desc_body$ However, with the rise of tension internally and externally, it is uncertain as to what will aid in leading Japan to glory and greatness.§!"
+ JAP_hirohito_desc_body: "Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign."
+ JAP_hirohito_defeat_desc_body: "It would appear that harsh and uncertain times have befallen the once formerly great Japanese power. Once regarded as the strongest naval power in all of East Asia, one worthy of competing with the Kaiserliche Marine, the Japanese Empire's daring ambition would soon prove to be their downfall. After a victorious land and sea campagin by their enemy forces, Japan has become completely occupied for the first time in its history."
+ JAP_hirohito_defeat_leader_desc: "§YBorn:§! §LApril 29th, 1901, in Tōgū Palace, Aoyama, Tōkyō Prefecture, Empire of Japan§!\n§YBackground:§! §L$JAP_hirohito_desc_body$\n\n$JAP_hirohito_defeat_desc_body$ While Hirohito continues to remain the nominal head of state and the Emperor of the Japanese people, only time will tell whether or not this arrangement is permanent.§!"
+ JAP_hirohito_symbol_leader_desc: "§YBorn:§! §LApril 29th, 1901, in Tōgū Palace, Aoyama, Tōkyō Prefecture, Empire of Japan§!\n§YBackground:§! §L$JAP_hirohito_desc_body$\n\n$JAP_hirohito_defeat_desc_body$ With the creation of a new Japanese state it was decided for good that the emperor's role should be being the symbol of the Japanese state and the unity of the Japanese people without even nominal political powers.§!"
 
  JAP_terauchi_hisaichi: "Terauchi Hisaichi"
+ JAP_terauchi_hisaichi_high_command_desc: "§YBorn:§! §LAugust 8th, 1879, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_hata_shunroku: "Hata Shunroku"
+ JAP_hata_shunroku_high_command_desc: "§YBorn:§! §LJuly 26th, 1879, in Fukushima Prefecture, Empire of Japan§!"
  JAP_ishiwara_kanji: "Ishiwara Kanji"
+ JAP_ishiwara_kanji_commander_desc: "§YBorn:§! §LJanuary 18th, 1889, in Amarume, Yamagata Prefecture, Empire of Japan§!"
  JAP_higashikuni_naruhiko: "Higashikuni Naruhiko"
+ JAP_higashikuni_naruhiko_sic_desc: "§YBorn:§! §LDecember 3rd, 1887, in Kyōto, Kyōto Prefecture, Empire of Japan§!"
  JAP_itagaki_seishiro: "Itagaki Seishirō"
+ JAP_itagaki_seishiro_theorist_desc: "§YBorn:§! §LJanuary 21st, 1885, in Morioka, Iwate Prefecture, Empire of Japan§!"
  JAP_adachi_hatazo: "Adachi Hatazō"
+ JAP_adachi_hatazo_commander_desc: "§YBorn:§! §LJune 17th, 1890, in Ishikawa Prefecture, Empire of Japan§!"
  JAP_araki_sadao: "Araki Sadao"
+ JAP_araki_sadao_commander_desc: "§YBorn:§! §LMay 26th, 1877, in Komae, Tōkyō Prefecture, Empire of Japan§!"
  JAP_koiso_kuniaki: "Koiso Kuniaki"
+ JAP_koiso_kuniaki_commander_desc: "§YBorn:§! §LMarch 22nd, 1880, in Utsunomiya, Tochigi Prefecture, Empire of Japan§!"
  JAP_kanin_haruhito: "Kan'in Haruhito"
+ JAP_kanin_haruhito_commander_desc: "§YBorn:§! §LAugust 3rd, 1902, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_yamashita_tomoyuki: "Yamashita Tomoyuki"
+ JAP_yamashita_tomoyuki_army_chief_desc: "§YBorn:§! §LNovember 8th, 1885, in Ōtoyo, Kōchi Prefecture, Empire of Japan§!"
  JAP_muto_akira: "Mutō Akira"
+ JAP_muto_akira_commander_desc: "§YBorn:§! §LDecember 15th, 1892, in Hakusui, Kumamoto Prefecture, Empire of Japan§!"
  JAP_tanaka_shizuichi: "Tanaka Shizuichi"
+ JAP_tanaka_shizuichi_commander_desc: "§YBorn:§! §LOctober 1st, 1887, in Tatsuno, Hyōgo Prefecture, Empire of Japan§!"
  JAP_okamura_yasuji: "Okamura Yasuji"
+ JAP_okamura_yasuji_commander_desc: "§YBorn:§! §LMay 15th, 1884, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_nishio_toshizo: "Nishio Toshizō"
+ JAP_nishio_toshizo_commander_desc: "§YBorn:§! §LOctober 31st, 1881, in Tottori Prefecture, Empire of Japan§!"
  JAP_ando_rikichi: "Andō Rikichi"
+ JAP_ando_rikichi_commander_desc: "§YBorn:§! §LApril 3rd, 1884, in Miyagi Prefecture, Empire of Japan§!"
  JAP_sakai_takashi: "Sakai Takashi"
+ JAP_sakai_takashi_commander_desc: "§YBorn:§! §LOctober 18th, 1887, in Kamo District, Hiroshima Prefecture, Empire of Japan§!"
  JAP_doihara_kenji: "Doihara Kenji"
+ JAP_doihara_kenji_commander_desc: "§YBorn:§! §LAugust 8th, 1883, in Okayama Prefecture, Empire of Japan§!"
  JAP_ueda_kenkichi: "Ueda Kenkichi"
+ JAP_ueda_kenkichi_high_command_desc: "§YBorn:§! §LMarch 8th, 1875, in Ōsaka, Ōsaka Prefecture, Empire of Japan§!"
  JAP_honjo_shigeru: "Honjō Shigeru"
+ JAP_honjo_shigeru_commander_desc: "§YBorn:§! §LMay 10th, 1876, in Hyōgo Prefecture, Empire of Japan§!"
  JAP_umezu_yoshijiro: "Umezu Yoshijirō"
+ JAP_umezu_yoshijiro_commander_desc: "§YBorn:§! §LJanuary 4th, 1882, in Nakatsu, Ōita Prefecture, Empire of Japan§!"
  JAP_yamada_otozo: "Yamada Otozō"
+ JAP_yamada_otozo_commander_desc: "§YBorn:§! §LNovember 6th, 1881, in Nagano Prefecture, Empire of Japan§!"
  JAP_matsui_iwane: "Matsui Iwane"
+ JAP_matsui_iwane_army_chief_desc: "§YBorn:§! §LJuly 27th, 1878, in Nagoya, Aichi Prefecture, Empire of Japan§!"
  JAP_fujie_keisuke: "Fujie Keisuke"
+ JAP_fujie_keisuke_commander_desc: "§YBorn:§! §LNovember 8th, 1885, in Hyōgo Prefecture, Empire of Japan§!"
  JAP_higuchi_kiichiro: "Higuchi Kiichirō"
+ JAP_higuchi_kiichiro_commander_desc: "§YBorn:§! §LAugust 20th, 1888, in Yura, Awaji Island, Hyōgo Prefecture, Empire of Japan§!"
  JAP_homma_masaharu: "Homma Masaharu"
+ JAP_homma_masaharu_commander_desc: "§YBorn:§! §LNovember 27th, 1887, in Sado Island, Niigata Prefecture, Empire of Japan§!"
  JAP_hyakutake_harukichi: "Hyakutake Harukichi"
+ JAP_hyakutake_harukichi_commander_desc: "§YBorn:§! §LMay 25th, 1888, in Saga Prefecture, Empire of Japan§!"
  JAP_iimura_jo: "Iimura Jō"
+ JAP_iimura_jo_commander_desc: "§YBorn:§! §LMay 20th, 1888, in Ibaraki Prefecture, Empire of Japan§!"
  JAP_imamura_hitoshi: "Imamura Hitoshi"
+ JAP_imamura_hitoshi_high_command_desc: "§YBorn:§! §LJune 28th, 1886, in Sendai, Miyagi Prefecture, Empire of Japan§!"
  JAP_yamamoto_isoroku: "Yamamoto Isoroku"
+ JAP_yamamoto_isoroku_high_command_desc: "§YBorn:§! §LApril 4th, 1884, in Nagaoka, Niigata Prefecture, Empire of Japan§!"
  JAP_koga_mineichi: "Koga Mineichi"
+ JAP_koga_mineichi_theorist_desc: "§YBorn:§! §LSeptember 25th, 1885, in Arita, Saga Prefecture, Empire of Japan§!"
  JAP_hasegawa_kiyoshi: "Hasegawa Kiyoshi"
+ JAP_hasegawa_kiyoshi_admiral_desc: "§YBorn:§! §LMay 7th, 1883, in Asuwa, Fukui Prefecture, Empire of Japan§!"
  JAP_inoue_shigeyoshi: "Inoue Shigeyoshi"
+ JAP_inoue_shigeyoshi_high_command_desc: "§YBorn:§! §LDecember 9th, 1889, in Sendai, Miyagi Prefecture, Empire of Japan§!"
  JAP_kondo_nobutake: "Kondō Nobutake"
+ JAP_kondo_nobutake_admiral_desc: "§YBorn:§! §LSeptember 25th, 1886, in Ōsaka, Ōsaka Prefecture, Empire of Japan§!"
  JAP_takagi_takeo: "Takagi Takeo"
+ JAP_takagi_takeo_admiral_desc: "§YBorn:§! §LJanuary 25th, 1892, in Iwaki, Fukushima Prefecture, Empire of Japan§!"
  JAP_toyoda_soemu: "Toyoda Soemu"
+ JAP_toyoda_soemu_high_command_desc: "§YBorn:§! §LMay 22nd, 1885, in Kitsuki, Ōita Prefecture, Empire of Japan§!"
  JAP_ozawa_jisaburo: "Ozawa Jisaburō"
+ JAP_ozawa_jisaburo_air_chief_desc: "§YBorn:§! §LOctober 2nd, 1886, in Koyu District, Miyazaki Prefecture, Empire of Japan§!"
  JAP_yoshida_zengo: "Yoshida Zengo"
+ JAP_yoshida_zengo_admiral_desc: "§YBorn:§! §LFebruary 14th, 1885, in Saga Prefecture, Empire of Japan§!"
  JAP_daigo_tadashige: "Daigo Tadashige"
+ JAP_daigo_tadashige_navy_chief_desc: "§YBorn:§! §LOctober 15th, 1891, in Kōjimachi, Tōkyō Prefecture, Empire of Japan§!"
  JAP_hyakutake_gengo: "Hyakutake Gengo"
+ JAP_hyakutake_gengo_admiral_desc: "§YBorn:§! §LJanuary 28th, 1882, in Saga Prefecture, Empire of Japan§!"
 
  JAP_okawa_shumei: "Ōkawa Shūmei"
+ JAP_okawa_shumei_advisor_desc: "§YBorn:§! §LDecember 6th, 1886, in Sakata, Yamagata Prefecture, Empire of Japan§!"
  JAP_nakano_seigo: "Nakano Seigō"
+ JAP_nakano_seigo_advisor_desc: "§YBorn:§! §LFebruary 12th, 1886, in Fukuoka City, Fukuoka Prefecture, Empire of Japan§!"
  JAP_hashimoto_kingoro: "Hashimoto Kingorō"
+ JAP_hashimoto_kingoro_advisor_desc: "§YBorn:§! §LFebruary 19th, 1890, in Okayama, Okayama Prefecture, Empire of Japan§!"
  JAP_suetsugu_nobumasa: "Suetsugu Nobumasa"
+ JAP_suetsugu_nobumasa_advisor_desc: "§YBorn:§! §LJune 30th, 1880, in Yamaguchi Prefecture, Empire of Japan§!"
  JAP_goto_fumio: "Gotō Fumio"
+ JAP_goto_fumio_advisor_desc: "§YBorn:§! §LMarch 7th, 1884, in Ōita Prefecture, Empire of Japan§!"
  JAP_minobe_tatsukichi: "Minobe Tatsukichi"
+ JAP_minobe_tatsukichi_advisor_desc: "§YBorn:§! §LMay 7th, 1873, in Takasago, Hyōgo Prefecture, Empire of Japan§!"
  JAP_kijuro_shidehara: "Kijūrō Shidehara"
+ JAP_kijuro_shidehara_advisor_desc: "§YBorn:§! §LSeptember 13th, 1872, in Sakai, Sakai Prefecture, Empire of Japan§!"
  JAP_ozaki_yukio: "Ozaki Yukio"
+ JAP_ozaki_yukio_advisor_desc: "§YBorn:§! §LDecember 24th, 1858, in Matano, Sagami Province, Empire of Japan§!"
  JAP_matsuoka_yosuke: "Matsuoka Yōsuke"
+ JAP_matsuoka_yosuke_advisor_desc: "§YBorn:§! §LMarch 4th, 1880, in Kumage, Yamaguchi Prefecture, Empire of Japan§!"
  JAP_fujiwara_ginjiro: "Fujiwara Ginjirō"
+ JAP_fujiwara_ginjiro_advisor_desc: "§YBorn:§! §LJuly 25th, 1869, in Shinano Province, Empire of Japan§!"
  JAP_godo_takuo: "Godō Takuo"
+ JAP_godo_takuo_advisor_desc: "§YBorn:§! §LSeptember 23rd, 1877, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_kido_koichi: "Kido Kōichi"
+ JAP_kido_koichi_advisor_desc: "§YBorn:§! §LJuly 18th, 1889, in Akasaka, Tōkyō Prefecture, Empire of Japan§!"
  JAP_ikeda_shigeaki: "Ikeda Shigeaki"
+ JAP_ikeda_shigeaki_advisor_desc: "§YBorn:§! §LAugust 15th, 1867, in Yonezawa Domain, Dewa Province, Empire of Japan§!"
 
  JAP_imperial_diet: "Imperial Diet"
+ JAP_imperial_diet_sic_desc: "§YFounded:§! §LNovember 29th, 1890, in Chiyoda, Tōkyō Prefecture, Empire of Japan§!"
  JAP_national_diet: "National Diet"
  JAP_reorganised_national_diet: "Reorganised National Diet"
+ JAP_reorganised_national_diet_sic_desc: "§YFounded:§! §Lin Chiyoda, Tōkyō Prefecture, Empire of Japan§!"
  JAP_inukai_tsuyoshi: "Inukai Tsuyoshi"
+ JAP_inukai_tsuyoshi_sic_desc: "§YBorn:§! §LJune 4th, 1855, in Bizen Province, Empire of Japan§!"
  JAP_suzuki_kisaburo: "Suzuki Kisaburō"
+ JAP_suzuki_kisaburo_sic_desc: "§YBorn:§! §LNovember 6th, 1867, in Musashi Province, Empire of Japan§!"
  JAP_mizuno_rentaro: "Mizuno Rentarō"
+ JAP_mizuno_rentaro_sic_desc: "§YBorn:§! §LFebruary 3rd, 1868, in Edo, Empire of Japan§!"
  JAP_hamaguchi_osachi: "Hamaguchi Osachi"
+ JAP_hamaguchi_osachi_sic_desc: "§YBorn:§! §LApril 1st, 1870, in Nagaoka District, Tosa Province, Empire of Japan§!"
  JAP_ugaki_kazushige: "Ugaki Kazushige"
+ JAP_ugaki_kazushige_sic_desc: "§YBorn:§! §LAugust 9th, 1868, in Seto, Bizen Province, Empire of Japan§!"
  JAP_machida_chuji: "Machida Chūji"
+ JAP_machida_chuji_sic_desc: "§YBorn:§! §LMay 17th, 1863, in Dewa Province, Empire of Japan§!"
  JAP_adachi_kenzo: "Adachi Kenzō"
+ JAP_adachi_kenzo_sic_desc: "§YBorn:§! §LDecember 20th, 1864, in Higo Province, Empire of Japan§!"
  JAP_maeda_yonezo: "Maeda Yonezō"
+ JAP_maeda_yonezo_sic_desc: "§YBorn:§! §LFebruary 17th, 1882, in Wakayama Prefecture, Empire of Japan§!"
  JAP_hatoyama_ichiro: "Hatoyama Ichirō"
+ JAP_hatoyama_ichiro_sic_desc: "§YBorn:§! §LJanuary 1st, 1883, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_yoshizawa_kenkichi: "Yoshizawa Kenkichi"
+ JAP_yoshizawa_kenkichi_sic_desc: "§YBorn:§! §LJanuary 24th, 1874, in Jōetsu, Niigata Prefecture, Empire of Japan§!"
  JAP_abe_isoo: "Abe Isoo"
+ JAP_abe_isoo_sic_desc: "§YBorn:§! §LFebruary 4th, 1865, in Chikuzen Province, Empire of Japan§!"
  JAP_hiranuma_kiichiro: "Hiranuma Kiichirō"
+ JAP_hiranuma_kiichiro_sic_desc: "§YBorn:§! §LSeptember 28th, 1867, in Tsuyama, Mimasaka Province, Empire of Japan§!"
  JAP_konoe_fumimaro: "Konoe Fumimarō"
+ JAP_konoe_fumimaro_sic_desc: "§YBorn:§! §LOctober 12th, 1891, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_kuhara_furanosuke: "Kuhara Furanosuke"
+ JAP_kuhara_furanosuke_advisor_desc: "§YBorn:§! §LJuly 12th, 1869, in Hagi, Nagato Province, Empire of Japan§!"
  JAP_hayashi_senjuro: "Hayashi Senjūrō"
+ JAP_hayashi_senjuro_sic_desc: "§YBorn:§! §LFebruary 23rd, 1876, in Kodatsuno, Kanazawa City, Ishikawa Prefecture, Empire of Japan§!"
  JAP_nagata_tetsuzan: "Nagata Tetsuzan"
+ JAP_nagata_tetsuzan_sic_desc: "§YBorn:§! §LJanuary 14th, 1884, in Suwa, Nagano Prefecture, Empire of Japan§!"
 
  JAP_ugaki_matome: "Ugaki Matome"
+ JAP_ugaki_matome_high_command_desc: "§YBorn:§! §LFebruary 15th, 1890, in Okayama, Okayama Prefecture, Empire of Japan§!"
  JAP_sugawara_michio: "Sugawara Michio"
+ JAP_sugawara_michio_high_command_desc: "§YBorn:§! §LNovember 28th, 1888, in Minamitakaki, Nagasaki Prefecture, Empire of Japan§!"
  JAP_kanin_kotohito: "Kan'in Kotohito"
+ JAP_kanin_kotohito_army_chief_desc: "§YBorn:§! §LNovember 10th, 1865, in Kyōto, Empire of Japan§!"
  JAP_sugiyama_hajime: "Sugiyama Hajime"
+ JAP_sugiyama_hajime_army_chief_desc: "§YBorn:§! §LJanuary 1st, 1880, in Kokura, Fukuoka Prefecture, Empire of Japan§!"
  JAP_nishi_yoshikazu: "Nishi Yoshikazu"
+ JAP_nishi_yoshikazu_army_chief_desc: "§YBorn:§! §LJanuary 1st, 1878, in Fukushima Prefecture, Empire of Japan§!"
  JAP_fushimi_hiroyasu: "Fushimi Hiroyasu"
+ JAP_fushimi_hiroyasu_navy_chief_desc: "§YBorn:§! §LOctober 16th, 1875, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_nagano_osami: "Nagano Osami"
+ JAP_nagano_osami_navy_chief_desc: "§YBorn:§! §LJune 15th, 1880, in Kōchi, Kōchi Prefecture, Empire of Japan§!"
  JAP_shimada_shigetaro: "Shimada Shigetarō"
+ JAP_shimada_shigetaro_navy_chief_desc: "§YBorn:§! §LSeptember 24th, 1883, in Tōkyō Prefecture, Empire of Japan§!"
  JAP_tsukahara_nishizo: "Tsukahara Nishizō"
+ JAP_tsukahara_nishizo_air_chief_desc: "§YBorn:§! §LApril 3rd, 1887, in Fukui Prefecture, Empire of Japan§!"
  JAP_teramoto_kumaichi: "Teramoto Kumaichi"
+ JAP_teramoto_kumaichi_air_chief_desc: "§YBorn:§! §LJanuary 3rd, 1889, in Wakayama Prefecture, Empire of Japan§!"
  JAP_yamaguchi_tamon: "Yamaguchi Tamon"
+ JAP_yamaguchi_tamon_admiral_desc: "§YBorn:§! §LAugust 17th, 1892, in Koishikawa, Tōkyō Prefecture, Empire of Japan§!"
  JAP_nagumo_chuichi: "Nagumo Chūichi"
+ JAP_nagumo_chuichi_admiral_desc: "§YBorn:§! §LMarch 25th, 1887, in Yonezawa, Yamagata Prefecture, Empire of Japan§!"
 
  JAP_nishina_yoshio: "Nishina Yoshio"
+ JAP_nishina_yoshio_theorist_desc: "§YBorn:§! §LDecember 6th, 1890, in Satoshō, Okayama Prefecture, Empire of Japan§!"
  JAP_obata_toshiro: "Obata Toshirō"
+ JAP_obata_toshiro_theorist_desc: "§YBorn:§! §LFebruary 19th, 1885, in Kōchi Prefecture, Empire of Japan§!"
  JAP_tokugawa_yoshitoshi: "Tokugawa Yoshitoshi"
+ JAP_tokugawa_yoshitoshi_theorist_desc: "§YBorn:§! §LJuly 24th, 1884, in Tōkyō Prefecture, Empire of Japan§!"
 
-### Socialist Advisors ###
+ ### Socialist Advisors ###
  JAP_nosaka_sanzo: "Nosaka Sanzō"
+ JAP_nosaka_sanzo_desc_body: "The son of a prosperous Japanese merchant, Nosaka was raised in a bourgeois environment and attended Keio University. It was at his time in Keio, that Nosaka became interested in the international labour movement, an interest that was supported by one of his professors, Kiichi Horie. He then completed a study on a moderate labour organisation known as the \"Yuaikai\" and after graduation; he became an editor for the organisation's journal.\n\nFollowing the 1917 Bolshevik Revolution and the subsequent 1919 French Revolution, Nosaka became a committed Marxist and arrived in France in 1919, where he became acquainted with British and French socialists. Influential through the Third Internationale as one of the de facto leaders of Japan's budding socialist movement, he was able to grow close to the Kuomintang's leftist leadership following their expulsion from China following the failure of the First Northern Expedition. He was involved in preparations for the 1932 Shanghai Uprising orchestrated by both the Kuomintang and the League of Chinese Syndicalists, but the uprising's failure led him to participate in the Mingan insurgency as a volunteer.\n\nAfter having accompanied the Kuomintang for some time and witnessing the success of the Second Expedition, Nosaka pledged his services to the Chinese Army"
+ JAP_nosaka_sanzo_leader_desc: "§YBorn:§! §LMarch 30th, 1892, in Hagi, Yamaguchi Prefecture, Empire of Japan§!\n§YBackground:§! §L$JAP_nosaka_sanzo_desc_body$, helping facilitate the re-education of captured Japanese POWs during the Second-Sino Japanese War. It is with this task, that he has earned the KMT's trust in leading the new Japanese Socialist Republic towards a new dawn along with their Chinese sister Republic.§!"
+ JAP_nosaka_sanzo_commander_desc: "§YBorn:§! §LMarch 30th, 1892, in Hagi, Yamaguchi Prefecture, Empire of Japan§!\n§YBackground:§! §L$JAP_nosaka_sanzo_desc_body$. Welcoming any aid, the Central Committee has allowed him to serve the Chinese National Revolutionary Army as a general. Although separated from his homeland in the service of another nation, Nosaka hopes to one day return to Japan and bring about a Japanese Socialist Revolution with himself at its helm.§!\n\n§YNotes: Hoping only to aid the Chinese National Revolution, Nosaka Sanzō has kept out of the political infighting within the KMT and is seen as a neutral figure.§!"
+
  JAP_yamakawa_hitoshi: "Yamakawa Hitoshi"
+ JAP_yamakawa_hitoshi_advisor_desc: "§YBorn:§! §LDecember 20th, 1880, in Kurashiki, Okayama Prefecture, Empire of Japan§!"
  JAP_yamakawa_kikue: "Yamakawa Kikue"
+ JAP_yamakawa_kikue_advisor_desc: "§YBorn:§! §LNovember 3rd, 1890, in Kouji, Tōkyō Prefecture, Empire of Japan§!"
  JAP_osugi_sakae: "Ōsugi Sakae"
+ JAP_osugi_sakae_advisor_desc: "§YBorn:§! §LJanuary 17th, 1885, in Marugame, Kagawa Prefecture, Empire of Japan§!"
  JAP_ishikawa_sanshiro: "Ishikawa Sanshirō"
+ JAP_ishikawa_sanshiro_advisor_desc: "§YBorn:§! §LMay 23rd, 1876, in Sannodo, Saitama Prefecture, Empire of Japan§!"
 
 ### Traits ###
  JAP_samurai_lineage: "Самурайський рід"
  JAP_samurai_lineage_desc: "§LЦя людина походить із гордого роду самураїв і залишається вірною старим традиціям і відданості.§!"
 
- JAP_hirohito_defeat_trait: "Emperor in Defeat\n§g\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
- JAP_hirohito_symbol_trait: "Symbol of Japan\n§g\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
+ JAP_hirohito_defeat_trait: "Emperor in Defeat"
+ JAP_hirohito_symbol_trait: "Symbol of Japan"
+ JAP_hirohito_symbol_trait_desc: "§L\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
 
- JAP_regent_trait: "Sesshō\n§LAfter Hirohito's forced abdication, Prince Takamatasu was named to act on behalf of Crown Prince Akihito until the latter becomes of age.§!"
+ JAP_regent_trait: "Sesshō"
+ JAP_regent_trait_desc: "§LAfter Hirohito's forced abdication, Prince Takamatasu was named to act on behalf of Crown Prince Akihito until the latter becomes of age.§!"

@@ -1,290 +1,290 @@
 ﻿l_english:
 
  ### Country Names ###
- LIT:0 "Литва"
- LIT_ADJ:0 "Литовськ"
- LIT_DEF:0 "Литва"
+ LIT: "Литва"
+ LIT_ADJ: "Литовськ"
+ LIT_DEF: "Литва"
 
- LIT_totalist:0 "Народна Республіка Литва"
- LIT_totalist_ADJ:0 "Литовськ"
- LIT_totalist_DEF:0 "Народна Республіка Литва"
- LIT_syndicalist:0 "Народна Республіка Литва"
- LIT_syndicalist_ADJ:0 "Литовськ"
- LIT_syndicalist_DEF:0 "Народна Республіка Литва"
- LIT_radical_socialist:0 "Народна Республіка Литва"
- LIT_radical_socialist_ADJ:0 "Литовськ"
- LIT_radical_socialist_DEF:0 "Народна Республіка Литва"
- LIT_social_democrat:0 "Республіка Литва"
- LIT_social_democrat_ADJ:0 "Литовськ"
- LIT_social_democrat_DEF:0 "Республіка Литва"
- LIT_social_liberal:0 "Республіка Литва"
- LIT_social_liberal_ADJ:0 "Литовськ"
- LIT_social_liberal_DEF:0 "Республіка Литва"
- LIT_market_liberal:0 "Республіка Литва"
- LIT_market_liberal_ADJ:0 "Литовськ"
- LIT_market_liberal_DEF:0 "Республіка Литва"
- LIT_social_conservative:0 "Республіка Литва"
- LIT_social_conservative_ADJ:0 "Литовськ"
- LIT_social_conservative_DEF:0 "Республіка Литва"
- LIT_authoritarian_democrat:0 "Республіка Литва"
- LIT_authoritarian_democrat_ADJ:0 "Литовськ"
- LIT_authoritarian_democrat_DEF:0 "Республіка Литва"
- LIT_paternal_autocrat:0 "Республіка Литва"
- LIT_paternal_autocrat_ADJ:0 "Литовськ"
- LIT_paternal_autocrat_DEF:0 "Республіка Литва"
- LIT_national_populist:0 "Національна Республіка Литва"
- LIT_national_populist_ADJ:0 "Литовськ"
- LIT_national_populist_DEF:0 "Національна Республіка Литва"
+ LIT_totalist: "Народна Республіка Литва"
+ LIT_totalist_ADJ: "Литовськ"
+ LIT_totalist_DEF: "Народна Республіка Литва"
+ LIT_syndicalist: "Народна Республіка Литва"
+ LIT_syndicalist_ADJ: "Литовськ"
+ LIT_syndicalist_DEF: "Народна Республіка Литва"
+ LIT_radical_socialist: "Народна Республіка Литва"
+ LIT_radical_socialist_ADJ: "Литовськ"
+ LIT_radical_socialist_DEF: "Народна Республіка Литва"
+ LIT_social_democrat: "Республіка Литва"
+ LIT_social_democrat_ADJ: "Литовськ"
+ LIT_social_democrat_DEF: "Республіка Литва"
+ LIT_social_liberal: "Республіка Литва"
+ LIT_social_liberal_ADJ: "Литовськ"
+ LIT_social_liberal_DEF: "Республіка Литва"
+ LIT_market_liberal: "Республіка Литва"
+ LIT_market_liberal_ADJ: "Литовськ"
+ LIT_market_liberal_DEF: "Республіка Литва"
+ LIT_social_conservative: "Республіка Литва"
+ LIT_social_conservative_ADJ: "Литовськ"
+ LIT_social_conservative_DEF: "Республіка Литва"
+ LIT_authoritarian_democrat: "Республіка Литва"
+ LIT_authoritarian_democrat_ADJ: "Литовськ"
+ LIT_authoritarian_democrat_DEF: "Республіка Литва"
+ LIT_paternal_autocrat: "Республіка Литва"
+ LIT_paternal_autocrat_ADJ: "Литовськ"
+ LIT_paternal_autocrat_DEF: "Республіка Литва"
+ LIT_national_populist: "Національна Республіка Литва"
+ LIT_national_populist_ADJ: "Литовськ"
+ LIT_national_populist_DEF: "Національна Республіка Литва"
 
- LIT_monarchy_social_democrat:0 "Королівство Литва"
- LIT_monarchy_social_democrat_ADJ:0 "Литовськ"
- LIT_monarchy_social_democrat_DEF:0 "Королівство Литва"
- LIT_monarchy_social_liberal:0 "Королівство Литва"
- LIT_monarchy_social_liberal_ADJ:0 "Литовськ"
- LIT_monarchy_social_liberal_DEF:0 "Королівство Литва"
- LIT_monarchy_market_liberal:0 "Королівство Литва"
- LIT_monarchy_market_liberal_ADJ:0 "Литовськ"
- LIT_monarchy_market_liberal_DEF:0 "Королівство Литва"
- LIT_monarchy_social_conservative:0 "Королівство Литва"
- LIT_monarchy_social_conservative_ADJ:0 "Литовськ"
- LIT_monarchy_social_conservative_DEF:0 "Королівство Литва"
- LIT_monarchy_authoritarian_democrat:0 "Королівство Литва"
- LIT_monarchy_authoritarian_democrat_ADJ:0 "Литовськ"
- LIT_monarchy_authoritarian_democrat_DEF:0 "Королівство Литва"
- LIT_monarchy_paternal_autocrat:0 "Королівство Литва"
- LIT_monarchy_paternal_autocrat_ADJ:0 "Литовськ"
- LIT_monarchy_paternal_autocrat_DEF:0 "Королівство Литва"
- LIT_monarchy_national_populist:0 "Національна Республіка Литва"
- LIT_monarchy_national_populist_ADJ:0 "Литовськ"
- LIT_monarchy_national_populist_DEF:0 "Національна Республіка Литва"
+ LIT_monarchy_social_democrat: "Королівство Литва"
+ LIT_monarchy_social_democrat_ADJ: "Литовськ"
+ LIT_monarchy_social_democrat_DEF: "Королівство Литва"
+ LIT_monarchy_social_liberal: "Королівство Литва"
+ LIT_monarchy_social_liberal_ADJ: "Литовськ"
+ LIT_monarchy_social_liberal_DEF: "Королівство Литва"
+ LIT_monarchy_market_liberal: "Королівство Литва"
+ LIT_monarchy_market_liberal_ADJ: "Литовськ"
+ LIT_monarchy_market_liberal_DEF: "Королівство Литва"
+ LIT_monarchy_social_conservative: "Королівство Литва"
+ LIT_monarchy_social_conservative_ADJ: "Литовськ"
+ LIT_monarchy_social_conservative_DEF: "Королівство Литва"
+ LIT_monarchy_authoritarian_democrat: "Королівство Литва"
+ LIT_monarchy_authoritarian_democrat_ADJ: "Литовськ"
+ LIT_monarchy_authoritarian_democrat_DEF: "Королівство Литва"
+ LIT_monarchy_paternal_autocrat: "Королівство Литва"
+ LIT_monarchy_paternal_autocrat_ADJ: "Литовськ"
+ LIT_monarchy_paternal_autocrat_DEF: "Королівство Литва"
+ LIT_monarchy_national_populist: "Національна Республіка Литва"
+ LIT_monarchy_national_populist_ADJ: "Литовськ"
+ LIT_monarchy_national_populist_DEF: "Національна Республіка Литва"
 
- LIT_LITBEL:0 "Литва-Білорусь"
- LIT_LITBEL_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_DEF:0 "Литва-Білорусь"
+ LIT_LITBEL: "Литва-Білорусь"
+ LIT_LITBEL_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_DEF: "Литва-Білорусь"
 
- LIT_LITBEL_totalist:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_totalist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_totalist_DEF:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_syndicalist:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_syndicalist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_syndicalist_DEF:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_radical_socialist:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_radical_socialist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_radical_socialist_DEF:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_social_democrat:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_social_democrat_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_social_democrat_DEF:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_social_liberal:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_social_liberal_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_social_liberal_DEF:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_market_liberal:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_market_liberal_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_market_liberal_DEF:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_social_conservative:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_social_conservative_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_social_conservative_DEF:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_authoritarian_democrat:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_authoritarian_democrat_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_authoritarian_democrat_DEF:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_paternal_autocrat:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_paternal_autocrat_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_paternal_autocrat_DEF:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_national_populist:0 "Литовсько-Білоруська Федерація"
- LIT_LITBEL_national_populist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_national_populist_DEF:0 "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_totalist: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_totalist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_totalist_DEF: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_syndicalist: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_syndicalist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_syndicalist_DEF: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_radical_socialist: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_radical_socialist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_radical_socialist_DEF: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_social_democrat: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_social_democrat_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_social_democrat_DEF: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_social_liberal: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_social_liberal_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_social_liberal_DEF: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_market_liberal: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_market_liberal_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_market_liberal_DEF: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_social_conservative: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_social_conservative_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_social_conservative_DEF: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_authoritarian_democrat: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_authoritarian_democrat_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_authoritarian_democrat_DEF: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_paternal_autocrat: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_paternal_autocrat_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_paternal_autocrat_DEF: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_national_populist: "Литовсько-Білоруська Федерація"
+ LIT_LITBEL_national_populist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_national_populist_DEF: "Литовсько-Білоруська Федерація"
 
- LIT_LITBEL_monarchy:0 "Литва-Білорусь"
- LIT_LITBEL_monarchy_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_DEF:0 "Литва-Білорусь"
+ LIT_LITBEL_monarchy: "Литва-Білорусь"
+ LIT_LITBEL_monarchy_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_DEF: "Литва-Білорусь"
 
- LIT_LITBEL_monarchy_totalist:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_monarchy_totalist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_totalist_DEF:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_monarchy_syndicalist:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_monarchy_syndicalist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_syndicalist_DEF:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_monarchy_radical_socialist:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_monarchy_radical_socialist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_radical_socialist_DEF:0 "Литовсько-Білоруська Радянська Республіка"
- LIT_LITBEL_monarchy_social_democrat:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_social_democrat_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_social_democrat_DEF:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_social_liberal:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_social_liberal_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_social_liberal_DEF:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_market_liberal:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_market_liberal_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_market_liberal_DEF:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_social_conservative:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_social_conservative_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_social_conservative_DEF:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_authoritarian_democrat:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_authoritarian_democrat_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_authoritarian_democrat_DEF:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_paternal_autocrat:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_paternal_autocrat_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_paternal_autocrat_DEF:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_national_populist:0 "Королівство Литва-Білорусь"
- LIT_LITBEL_monarchy_national_populist_ADJ:0 "Литовсько-Білоруськ"
- LIT_LITBEL_monarchy_national_populist_DEF:0 "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_totalist: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_monarchy_totalist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_totalist_DEF: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_monarchy_syndicalist: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_monarchy_syndicalist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_syndicalist_DEF: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_monarchy_radical_socialist: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_monarchy_radical_socialist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_radical_socialist_DEF: "Литовсько-Білоруська Радянська Республіка"
+ LIT_LITBEL_monarchy_social_democrat: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_social_democrat_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_social_democrat_DEF: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_social_liberal: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_social_liberal_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_social_liberal_DEF: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_market_liberal: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_market_liberal_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_market_liberal_DEF: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_social_conservative: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_social_conservative_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_social_conservative_DEF: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_authoritarian_democrat: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_authoritarian_democrat_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_authoritarian_democrat_DEF: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_paternal_autocrat: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_paternal_autocrat_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_paternal_autocrat_DEF: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_national_populist: "Королівство Литва-Білорусь"
+ LIT_LITBEL_monarchy_national_populist_ADJ: "Литовсько-Білоруськ"
+ LIT_LITBEL_monarchy_national_populist_DEF: "Королівство Литва-Білорусь"
 
  ### Parties ###
- LIT_totalist_party:0 "Аушріне"
- LIT_totalist_party_long:0 "Товариство студентів-соціалістів "Аушріне""
- 
- LIT_syndicalist_party:0 "Аушріне"
- LIT_syndicalist_party_long:0 "Товариство студентів-соціалістів "Аушріне""
- 
- LIT_radical_socialist_party:0 "ЛСДП (РК)"
- LIT_radical_socialist_party_long:0 "Литовська соціал-демократична партія (Радикальне крило)"
- 
- LIT_social_democrat_party:0 "ЛСДП"
- LIT_social_democrat_party_long:0 "Литовська соціал-демократична партія"
+ LIT_totalist_party: "Аушріне"
+ LIT_totalist_party_long: "Товариство студентів-соціалістів "Аушріне""
 
- LIT_social_liberal_party:0 "КЛП"
- LIT_social_liberal_party_long:0 "Комітет литовських поляків"
+ LIT_syndicalist_party: "Аушріне"
+ LIT_syndicalist_party_long: "Товариство студентів-соціалістів "Аушріне""
 
- LIT_market_liberal_party:0 "Сантара"
- LIT_market_liberal_party_long:0 "Демократична ліга національної свободи"
+ LIT_radical_socialist_party: "ЛСДП (РК)"
+ LIT_radical_socialist_party_long: "Литовська соціал-демократична партія (Радикальне крило)"
 
- LIT_social_conservative_party:0 "ПЛХД"
- LIT_social_conservative_party_long:0 "Партія литовських християнських демократів"
+ LIT_social_democrat_party: "ЛСДП"
+ LIT_social_democrat_party_long: "Литовська соціал-демократична партія"
 
- LIT_authoritarian_democrat_party:0 "СЛН"
- LIT_authoritarian_democrat_party_long:0 "Союз литовських націоналістів"
+ LIT_social_liberal_party: "КЛП"
+ LIT_social_liberal_party_long: "Комітет литовських поляків"
 
- LIT_paternal_autocrat_party:0 "ПНП"
- LIT_paternal_autocrat_party_long:0 "Партія національного прогресу"
+ LIT_market_liberal_party: "Сантара"
+ LIT_market_liberal_party_long: "Демократична ліга національної свободи"
 
- LIT_national_populist_party:0 "ЛФА"
- LIT_national_populist_party_long:0 "Литовський фронт активістів"
+ LIT_social_conservative_party: "ПЛХД"
+ LIT_social_conservative_party_long: "Партія литовських християнських демократів"
 
- LIT_paternal_autocrat_PLECH:0 "КП"
- LIT_paternal_autocrat_PLECH_long:0 "Кліка Плехавічюса"
- 
- LIT_national_populist_wolf_party:0 "ЗВ"
- LIT_national_populist_wolf_party_long:0 "Залізний вовк"
+ LIT_authoritarian_democrat_party: "СЛН"
+ LIT_authoritarian_democrat_party_long: "Союз литовських націоналістів"
 
- LIT_national_populist_vairas_party:0 "В"
- LIT_national_populist_vairas_party_long:0 "Вайрас"
+ LIT_paternal_autocrat_party: "ПНП"
+ LIT_paternal_autocrat_party_long: "Партія національного прогресу"
 
- LIT_national_populist_romuva_party:0 "НР"
- LIT_national_populist_romuva_party_long:0 "Нова Ромува"
+ LIT_national_populist_party: "ЛФА"
+ LIT_national_populist_party_long: "Литовський фронт активістів"
+
+ LIT_paternal_autocrat_PLECH: "КП"
+ LIT_paternal_autocrat_PLECH_long: "Кліка Плехавічюса"
+
+ LIT_national_populist_wolf_party: "ЗВ"
+ LIT_national_populist_wolf_party_long: "Залізний вовк"
+
+ LIT_national_populist_vairas_party: "В"
+ LIT_national_populist_vairas_party_long: "Вайрас"
+
+ LIT_national_populist_romuva_party: "НР"
+ LIT_national_populist_romuva_party_long: "Нова Ромува"
 
  ### Leader Traits ###
- LIT_unpopular_monarch:0 "Непопулярний монарх"
- LIT_the_architect_king:0 "Король-архітектор"
- LIT_the_warrior_king:0 "Король-воїн"
- 
+ LIT_unpopular_monarch: "Непопулярний монарх"
+ LIT_the_architect_king: "Король-архітектор"
+ LIT_the_warrior_king: "Король-воїн"
+
  ### Tooltips ###
- LIT_acquire_tank_licences_tooltip:0 "Подія дозволяє вибрати між трьома варіантами §H$LIT_new_tank_blueprints_sweden$§!:\n1. §H$EQUIPMENT_ARMOR$§!: Броня: [?0.1|=+%0]\n2. §H$EQUIPMENT_ARMOR$§!: Протипіх.атака: [?0.1|=+%0], Протитан.атака: [?0.1|=+%0]\n3. §H$EQUIPMENT_ARMOR$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]"
- LIT_airborne_detachment_tooltip:0 "Подія дозволяє зробити вибір між наступними національними духами:\n\n§H$LIT_elite_infantry_formations$§!\n   $MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: [?0.05|+=%1]\n   $MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: [?0.05|+=%1]\n   $MODIFIER_SPECIAL_FORCES_CAP$: [?0.1|+=%1]\n\n§H$LIT_jager_detachments$§!\n   $MODIFIER_ORG_LOSS_WHEN_MOVING$: [?-0.1|-=%1]\n   $MODIFIER_RECON_FACTOR$: [?0.1|+=%1]"
+ LIT_acquire_tank_licences_tooltip: "Подія дозволяє вибрати між трьома варіантами §H$LIT_new_tank_blueprints_sweden$§!:\n1. §H$EQUIPMENT_ARMOR$§!: Броня: [?0.1|=+%0]\n2. §H$EQUIPMENT_ARMOR$§!: Протипіх.атака: [?0.1|=+%0], Протитан.атака: [?0.1|=+%0]\n3. §H$EQUIPMENT_ARMOR$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]"
+ LIT_airborne_detachment_tooltip: "Подія дозволяє зробити вибір між наступними національними духами:\n\n§H$LIT_elite_infantry_formations$§!\n   $MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: [?0.05|+=%1]\n   $MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: [?0.05|+=%1]\n   $MODIFIER_SPECIAL_FORCES_CAP$: [?0.1|+=%1]\n\n§H$LIT_jager_detachments$§!\n   $MODIFIER_ORG_LOSS_WHEN_MOVING$: [?-0.1|-=%1]\n   $MODIFIER_RECON_FACTOR$: [?0.1|+=%1]"
 
- LIT_has_black_monday:0 "Має національний дух §H$LIT_black_monday$§!"
- LIT_has_black_monday_NOT:0 "Не має національного духу §H$LIT_black_monday$§!"
+ LIT_has_black_monday: "Має національний дух §H$LIT_black_monday$§!"
+ LIT_has_black_monday_NOT: "Не має національного духу §H$LIT_black_monday$§!"
 
- LIT_has_cultural_divide:0 "Має національний дух §H$LIT_cultural_divide$§!"
- LIT_has_cultural_divide_NOT:0 "Не має національного духу §H$LIT_cultural_divide$§!"
+ LIT_has_cultural_divide: "Має національний дух §H$LIT_cultural_divide$§!"
+ LIT_has_cultural_divide_NOT: "Не має національного духу §H$LIT_cultural_divide$§!"
 
- LIT_legitimacy_tooltip:0 "Легітимність: $RIGHT|+=%%0$."
- LIT_legitimacy_above_70_percent:0 "Більше §H70%§! легітимності"
+ LIT_legitimacy_tooltip: "Легітимність: $RIGHT|+=%%0$."
+ LIT_legitimacy_above_70_percent: "Більше §H70%§! легітимності"
 
- LIT_add_long_road_to_pluralism:0 "Отримайте національний дух §H$LIT_long_road_to_pluralism_idea$§!, который дает ($MODIFIER_POLITICAL_POWER_GAIN$: [?LIT_pp_temp|+=], $MODIFIER_STABILITY_WEEKLY$: [?LIT_stability_temp|+=%], $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LIT_construction_speed_temp|+=%], $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?LIT_factory_output_temp|+=%])."
- LIT_modify_long_road_to_pluralism:0 "Змінить §H$LIT_long_road_to_pluralism$§! на"
- LIT_radicalism_pp_gain:0 "$MODIFIER_POLITICAL_POWER_GAIN$: $RIGHT|+=$"
- LIT_radicalism_stability_weekly:0 "$MODIFIER_STABILITY_WEEKLY$: $RIGHT|+=%$"
- LIT_radicalism_construction_speed:0 "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%$"
- LIT_radicalism_factory_output:0 "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: $RIGHT|+=%$"
- 
- LIT_radicalism_pp_gain_text:0 "$MODIFIER_POLITICAL_POWER_GAIN$: [?LIT_radicalism_pp_gain|+=]"
- LIT_radicalism_pp_gain_text_line_break:0 "$LIT_radicalism_pp_gain_text$\n"
- 
- LIT_radicalism_stability_weekly_text:0 "$MODIFIER_STABILITY_WEEKLY$: [?LIT_radicalism_stability_weekly|+=%]"
- LIT_radicalism_stability_weekly_text_line_break:0 "$LIT_radicalism_stability_weekly_text$\n"
- 
- LIT_radicalism_construction_speed_text:0 "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LIT_radicalism_construction_speed|+=%]"
- LIT_radicalism_construction_speed_text_line_break:0 "$LIT_radicalism_construction_speed_text$\n"
- 
- LIT_radicalism_factory_output_text:0 "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?LIT_radicalism_factory_output|+=%]"
- 
- LIT_radicalism_above_60_percent:0 "Більше §H60%§! радикалізму"
+ LIT_add_long_road_to_pluralism: "Отримайте національний дух §H$LIT_long_road_to_pluralism_idea$§!, который дает ($MODIFIER_POLITICAL_POWER_GAIN$: [?LIT_pp_temp|+=], $MODIFIER_STABILITY_WEEKLY$: [?LIT_stability_temp|+=%], $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LIT_construction_speed_temp|+=%], $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?LIT_factory_output_temp|+=%])."
+ LIT_modify_long_road_to_pluralism: "Змінить §H$LIT_long_road_to_pluralism$§! на"
+ LIT_radicalism_pp_gain: "$MODIFIER_POLITICAL_POWER_GAIN$: $RIGHT|+=$"
+ LIT_radicalism_stability_weekly: "$MODIFIER_STABILITY_WEEKLY$: $RIGHT|+=%$"
+ LIT_radicalism_construction_speed: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%$"
+ LIT_radicalism_factory_output: "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: $RIGHT|+=%$"
 
- LIT_federalisation_tooltip:0 "Федералізація: $RIGHT|+=%%0$."
- LIT_federalisation_above_25_percent:0 "Більше §H25%§! прогресу федералізації"
- LIT_federalisation_above_50_percent:0 "Більше §H50%§! прогресу федералізації"
- LIT_federalisation_above_75_percent:0 "Більше §H75%§! прогресу федералізації"
- LIT_federalisation_above_95_percent:0 "Більше §H95%§! прогресу федералізації"
+ LIT_radicalism_pp_gain_text: "$MODIFIER_POLITICAL_POWER_GAIN$: [?LIT_radicalism_pp_gain|+=]"
+ LIT_radicalism_pp_gain_text_line_break: "$LIT_radicalism_pp_gain_text$\n"
 
- LIT_merge_ideas_into_optimal_system:0 "Об'єднати §H$LIT_political_democracy$§! та §H$LIT_economic_democracy_idea$§! в §H$LIT_optimal_system_idea$§!\nЕфективна зміна:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?0.1|+=]\n$MODIFIER_STABILITY_FACTOR$: [?0.1|+=%]"
+ LIT_radicalism_stability_weekly_text: "$MODIFIER_STABILITY_WEEKLY$: [?LIT_radicalism_stability_weekly|+=%]"
+ LIT_radicalism_stability_weekly_text_line_break: "$LIT_radicalism_stability_weekly_text$\n"
 
- LIT_LAF_threat_tooltip:0 "Загроза ЛФА: $RIGHT|-=%%0$."
- LIT_LAF_threat_above_5_percent:0 "Більше §H5%§! загрози ЛФА"
- LIT_LAF_threat_above_10_percent:0 "Більше §H10%§! загрози ЛФА"
- LIT_LAF_threat_above_20_percent:0 "Більше §H20%§! загрози ЛФА"
- LIT_LAF_threat_above_25_percent:0 "Більше §H25%§! загрози ЛФА"
- LIT_LAF_guerillas_more_frequent:0 "§H$LIT_LAF_guerilla_activity$§! займає на 30 днів менше часу."
- LIT_LAF_guerillas_less_frequent:0 "§H$LIT_LAF_guerilla_activity$§! займе додатково 15 днів."
+ LIT_radicalism_construction_speed_text: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LIT_radicalism_construction_speed|+=%]"
+ LIT_radicalism_construction_speed_text_line_break: "$LIT_radicalism_construction_speed_text$\n"
 
- LIT_centralisation_tooltip:0 "Централізація: $RIGHT|+=%%0$."
- LIT_centralisation_above_25_percent:0 "Більше §H25%§! централізації"
- LIT_centralisation_above_50_percent:0 "Більше §H50%§! централізації"
- LIT_centralisation_above_75_percent:0 "Більше §H75%§! централізації"
- LIT_centralisation_above_95_percent:0 "Більше §H95%§! централізації"
+ LIT_radicalism_factory_output_text: "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?LIT_radicalism_factory_output|+=%]"
 
- LIT_Plech_plebiscite_tt:0 "Відбудеться §Rголосування§!, яке визначить майбутнє Литви"
+ LIT_radicalism_above_60_percent: "Більше §H60%§! радикалізму"
 
- LIT_ASIS_Great_Compromise_cf:0 "Компромісу було досягнуто"
+ LIT_federalisation_tooltip: "Федералізація: $RIGHT|+=%%0$."
+ LIT_federalisation_above_25_percent: "Більше §H25%§! прогресу федералізації"
+ LIT_federalisation_above_50_percent: "Більше §H50%§! прогресу федералізації"
+ LIT_federalisation_above_75_percent: "Більше §H75%§! прогресу федералізації"
+ LIT_federalisation_above_95_percent: "Більше §H95%§! прогресу федералізації"
 
- LIT_LIT_SWISS_BAL:0 "Додає §C25§! до федеральної сили у Бялистоку"
- LIT_LIT_SWISS_SUL:0 "Додає §C25§! до федеральної сили у Сувалках"
- LIT_LIT_SWISS_BAL_ACCEPTS:0 "§CФедералізація§! прийнята в Бялистоку"
- LIT_LIT_SWISS_VAL:0 "Додає §C50§! до федеральної сили у Валкавіскасі"
- LIT_SWISS_CON_MINOR:0 "§YЦя дія збільшить силу§! §СФедерації§!"
- LIT_SWISS_BIA_COMPLETED:0 "Групу Зиндрама-Косцялковського було впроваджено"
- LIT_SWISS_INF_Selected:0 "£decision_icon_small Проникнення в Товариство Зиндрама-Косцялковського"
- LIT_SWISS_CON_25:0 "Сила §Cзусиль з федералізації§! має перевищувати §Y25%§!"
- LIT_SWISS_CON_40:0 "Сила §Cзусиль з федералізації§! має перевищувати §Y40%§!"
- LIT_SWISS_CON_60:0 "Сила §Cзусиль з федералізації§! має перевищувати §Y60%§!"
- LIT_SWISS_CON_80:0 "Сила §Cзусиль з федералізації§! має перевищувати §Y80%§!"
+ LIT_merge_ideas_into_optimal_system: "Об'єднати §H$LIT_political_democracy$§! та §H$LIT_economic_democracy_idea$§! в §H$LIT_optimal_system_idea$§!\nЕфективна зміна:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?0.1|+=]\n$MODIFIER_STABILITY_FACTOR$: [?0.1|+=%]"
 
- LIT_ASIS_bialystok_asis_mark_lib:0 "Видаляє §РПольський ірредентизм придушений§! з Бялистоку за співпрацю з місцевими помірними"
+ LIT_LAF_threat_tooltip: "Загроза ЛФА: $RIGHT|-=%%0$."
+ LIT_LAF_threat_above_5_percent: "Більше §H5%§! загрози ЛФА"
+ LIT_LAF_threat_above_10_percent: "Більше §H10%§! загрози ЛФА"
+ LIT_LAF_threat_above_20_percent: "Більше §H20%§! загрози ЛФА"
+ LIT_LAF_threat_above_25_percent: "Більше §H25%§! загрози ЛФА"
+ LIT_LAF_guerillas_more_frequent: "§H$LIT_LAF_guerilla_activity$§! займає на 30 днів менше часу."
+ LIT_LAF_guerillas_less_frequent: "§H$LIT_LAF_guerilla_activity$§! займе додатково 15 днів."
 
- LIT_Naruto_new_tree:0 "Коаліція двох основних партій на чолі зі §YСтаніславом Нарутовичем§! очолить Литву."
- LIT_Plech_new_tree:0 "Генерал §YПовілас Плехавічюс§! відновить стабільність у Литві!"
- LIT_Swiss_Lit_dec_tt:0 "Розблокує дерево рішень £decision_icon_small §CФедералізації Литви§!"
+ LIT_centralisation_tooltip: "Централізація: $RIGHT|+=%%0$."
+ LIT_centralisation_above_25_percent: "Більше §H25%§! централізації"
+ LIT_centralisation_above_50_percent: "Більше §H50%§! централізації"
+ LIT_centralisation_above_75_percent: "Більше §H75%§! централізації"
+ LIT_centralisation_above_95_percent: "Більше §H95%§! централізації"
+
+ LIT_Plech_plebiscite_tt: "Відбудеться §Rголосування§!, яке визначить майбутнє Литви"
+
+ LIT_ASIS_Great_Compromise_cf: "Компромісу було досягнуто"
+
+ LIT_LIT_SWISS_BAL: "Додає §C25§! до федеральної сили у Бялистоку"
+ LIT_LIT_SWISS_SUL: "Додає §C25§! до федеральної сили у Сувалках"
+ LIT_LIT_SWISS_BAL_ACCEPTS: "§CФедералізація§! прийнята в Бялистоку"
+ LIT_LIT_SWISS_VAL: "Додає §C50§! до федеральної сили у Валкавіскасі"
+ LIT_SWISS_CON_MINOR: "§YЦя дія збільшить силу§! §СФедерації§!"
+ LIT_SWISS_BIA_COMPLETED: "Групу Зиндрама-Косцялковського було впроваджено"
+ LIT_SWISS_INF_Selected: "£decision_icon_small Проникнення в Товариство Зиндрама-Косцялковського"
+ LIT_SWISS_CON_25: "Сила §Cзусиль з федералізації§! має перевищувати §Y25%§!"
+ LIT_SWISS_CON_40: "Сила §Cзусиль з федералізації§! має перевищувати §Y40%§!"
+ LIT_SWISS_CON_60: "Сила §Cзусиль з федералізації§! має перевищувати §Y60%§!"
+ LIT_SWISS_CON_80: "Сила §Cзусиль з федералізації§! має перевищувати §Y80%§!"
+
+ LIT_ASIS_bialystok_asis_mark_lib: "Видаляє §РПольський ірредентизм придушений§! з Бялистоку за співпрацю з місцевими помірними"
+
+ LIT_Naruto_new_tree: "Коаліція двох основних партій на чолі зі §YСтаніславом Нарутовичем§! очолить Литву."
+ LIT_Plech_new_tree: "Генерал §YПовілас Плехавічюс§! відновить стабільність у Литві!"
+ LIT_Swiss_Lit_dec_tt: "Розблокує дерево рішень £decision_icon_small §CФедералізації Литви§!"
 
  ### Flags ###
- LIT_ongoing_project:0 "В даний час ведеться робота над ще одним проєктом."
- LIT_plumbing_and_electrification_completed:0 "Завершив рішення £decision_icon_small §H$LIT_plumbing_and_electrification$§!"
- LIT_living_quarters_completed:0 "Завершив рішення £decision_icon_small §H$LIT_living_quarters$§!"
- LIT_embassy_quarters_completed:0 "Завершив рішення £decision_icon_small §H$LIT_living_quarters$§!"
- LIT_cathedral_completed:0 "Завершив рішення £decision_icon_small §H$LIT_vilnius_cathedral$§!"
+ LIT_ongoing_project: "В даний час ведеться робота над ще одним проєктом."
+ LIT_plumbing_and_electrification_completed: "Завершив рішення £decision_icon_small §H$LIT_plumbing_and_electrification$§!"
+ LIT_living_quarters_completed: "Завершив рішення £decision_icon_small §H$LIT_living_quarters$§!"
+ LIT_embassy_quarters_completed: "Завершив рішення £decision_icon_small §H$LIT_living_quarters$§!"
+ LIT_cathedral_completed: "Завершив рішення £decision_icon_small §H$LIT_vilnius_cathedral$§!"
 
- LIT_maceina_captured:0 "Завершив рішення £decision_icon_small §H$LIT_secure_maceinas_cooperation$§!"
- LIT_alantas_captured:0 "Завершив рішення £decision_icon_small §H$LIT_capture_alantas$§!"
- LIT_Plech_laf_gone:0 "ЛФА зазнали поразки від військових!"
- LIT_Naruto_laf_gone:0 "ЛФА зазнала поразки від поліції!"
- LIT_king_assasinated:0 "Король Вітаутас II був убитий ЛФА!" 
+ LIT_maceina_captured: "Завершив рішення £decision_icon_small §H$LIT_secure_maceinas_cooperation$§!"
+ LIT_alantas_captured: "Завершив рішення £decision_icon_small §H$LIT_capture_alantas$§!"
+ LIT_Plech_laf_gone: "ЛФА зазнали поразки від військових!"
+ LIT_Naruto_laf_gone: "ЛФА зазнала поразки від поліції!"
+ LIT_king_assasinated: "Король Вітаутас II був убитий ЛФА!"
 
  ### Decisions ###
- LIT_economic_projects_decisions:0 "Економічні проєкти"
- 
- LIT_a_minor_port:0 "Малий порт"
+ LIT_economic_projects_decisions: "Економічні проєкти"
+
+ LIT_a_minor_port: "Малий порт"
  LIT_a_minor_port_desc: "Протягом століть у Литві був порту, відповідного обслуговування її народу, а після закінчення Вельткрига їй навіть заборонили будь-коли його купувати. Німці, у своїх інтересах, змусили нас використовувати порти Мемеля та Риги замість будівництва власних. Однак литовська дипломатія здобула перемогу у вигляді Палангської угоди, яка дозволила нам розвиток порту Паланги, щоб він служив нашим вікном у морі."
 
- LIT_invest_in_marijampole:0 "Інвестувати у Маріямполе"
+ LIT_invest_in_marijampole: "Інвестувати у Маріямполе"
  LIT_invest_in_marijampole_desc: "Маріямполе – сільське містечко, яке було центром литовського національного відродження – і все ще міцно є литовським. Тим не менш, це мало впливає на промисловість, але це те, що ми можемо легко вирішити."
 
- LIT_samogitia_highway:0 "Жемайтійське шосе"
+ LIT_samogitia_highway: "Жемайтійське шосе"
  LIT_samogitia_highway_desc: "Інфраструктура – ​​це основа відновлення нашої країни. Спонсування цього проекту створить робочі місця та капітал, яких відчайдушно потребує держава."
 
- LIT_southern_highway:0 "Південне шосе"
+ LIT_southern_highway: "Південне шосе"
  LIT_southern_highway_desc: "Подальше сполучення автобану з державами на південь від Литви дозволить полегшити потік товарів із України та Польщі. Це також допоможе південь і далі покладатися на Вільнюс."
 
- LIT_improve_siauliai_infrastructure:0 "Поліпшити інфраструктуру Шяуляя"
+ LIT_improve_siauliai_infrastructure: "Поліпшити інфраструктуру Шяуляя"
  LIT_improve_siauliai_infrastructure_desc: "Потрібні водопровідні труби, телефонні мережі та інші предмети першої необхідності, щоб перенести сонний Шяуляй у ХХ століття."
 
- LIT_bialystok_labour_initiative:0 "Білостокська трудова ініціатива"
+ LIT_bialystok_labour_initiative: "Білостокська трудова ініціатива"
  LIT_bialystok_labour_initiative_desc: "Фінансування має бути спрямоване промисловим підприємствам південної Литви, щоб утримати їх на плаву та створити нові робочі місця. Це також може послабити напруженість між польським та єврейським населенням Бялистока."
 
  LIT_invest_in_vawkavysk: "Інвестувати у Валкавіскас"
@@ -292,40 +292,40 @@
 
  LIT_architect_king_decisions: "Король-архітектор"
  LIT_architect_king_decisions_desc: "Пристрастями короля завжди були мистецтво і архітектура, а не управління. Далеко від політичних баталій Королівства він витрачає свій час на розробку все більш складних проектів, які він, як суверен, зможе втілити в життя. Дехто вважає це легковажною тратою часу, інші - що це досить нешкідлива програма, і її слід продовжувати. Яка б думка про Короля не перемогла, покаже тільки час.\n\nЛегітимність: [?LIT_legitimacy|0+%%]"
- 
+
  LIT_monument_to_emilia_plater: "Пам'ятник Емілії Плятер"
  LIT_monument_to_emilia_plater_desc: "Дізнавшись про легендарну фігуру графині Емілії Плятер, король подбав про те, щоб поставити їй пам'ятник. Хоча місто змінилося з часів графині, його зусилля можуть бути не так сприйняті місцевими жителями..."
- 
+
  LIT_knygesiai_memorial: "Меморіал Книгоношів"
  LIT_knygesiai_memorial_desc: "Король дізнався про скромні книгоноші (книжкових контрабандистів). Ці люди таємно провозили литовську літературу з Малої Литви до Литви за часів царя, коли литовська мова була заборонена і наявність таких текстів каралося смертю. Король вирішив побудувати в Паланзі меморіал, присвячений їхній хоробрості."
- 
+
  LIT_church_of_saint_joseph_the_betrothed: "Церква Святого Йосипа Обручника"
  LIT_church_of_saint_joseph_the_betrothed_desc: "Король під час своїх щоденних прогулянок столицею виявляє, що його тягне до цієї похмурої маленької церкви..."
 
  LIT_year_of_1918: "1918 рік"
  LIT_year_of_1918_desc: "1918 рік був роком тривог для короля. Це рік, коли він був тяжко поранений під час служби в німецькій армії під час Вельткріга, а також рік, коли його батько прийняв мантію короля Литви. Багато хто бачив у батькові короля доброго правителя, і він користувався повагою своїх підданих і Сейму, чого королю ще належить домогтися.Маючи це на увазі, сила його покійного батька виявиться одним із найбільших викликів, з якими стикався король..."
- 
+
  LIT_kings_model_town: "Зразкове місто короля"
  LIT_kings_model_town_desc: "Сувалки. Це невелике містечко було обрано королем як прототип свого модельного міста. Деякі кажуть, що король виходить за рамки своєї ролі короля, і вважають, що кошти можна було б витратити краще в іншому місці. Яким буде цей проект, покаже час..."
- 
+
  LIT_memorial_to_wladyslaw_syrokomla: "Меморіал Владиславу Сирокомлі"
  LIT_memorial_to_wladyslaw_syrokomla_desc: "Владислава Сирокомля, якого колись вважали польським поетом, тепер багато хто вважає "польсько-литовським" зразком. Його погляди уособлюють ідею польсько-литовської нації, а його твори перекладаються як литовською, так і білоруською мовами."
- 
+
  LIT_palace_of_the_grand_dukes: "Палац Великих Князів"
  LIT_palace_of_the_grand_dukes_desc: "Тепер, коли король довів свою спроможність, він хоче нарешті перейти до свого остаточного проекту... Палацу Великих Князів."
- 
+
  LIT_plumbing_and_electrification: "Водопровід та електрифікація"
  LIT_embassy_quarters: "Побудуйте посольства"
  LIT_living_quarters: "Побудуйте житлові приміщення"
  LIT_vilnius_cathedral: "Ремонт Вільнюського собору"
  LIT_inaugurate_the_palace: "Урочисте відкриття палацу"
- 
+
  LIT_LAF_insurgency_decisions: "Повстанці ЛФА"
  LIT_LAF_insurgency_decisions_desc: "Ховаючись у густих лісах по всій країні, повстанці ЛФА настільки ж смертоносні, як і невловимі. Завдаючи ударів по життєво важливих точках країни, таким як залізниці і заводи, вони ведуть жорстоку партизанську війну на знак протесту. імперією Оскільки рівень розвідданих про їхнє місцезнаходження низький, передбачити, чи нападуть повстанці чи ні, по-справжньому важка справа, хоча ЛФА недостатньо сильний, щоб кинути виклик авторитету уряду, постійна бездіяльність останнього може призвести до непередбачених наслідків для литовського народу...\n\n§RЗагроза ЛФА§!: [?LIT_LAF_threat|0-%%]"
- 
+
  LIT_LAF_guerilla_activity: "Партизанська діяльність ЛФА"
  LIT_LAF_guerilla_activity_desc: "Литовський Фронт Активістів привертає увагу до свого націоналістичного послання за допомогою насильницьких дій у литовських містах та селищах - із секретних партизанських осередків, вони організують рейди проти поліцейських дільниць, схованок зі зброєю та членів уряду."
- 
+
  LIT_the_fraying_front: "Виснажений фронт"
  LIT_the_fraying_front_desc: "Ми зруйнували більшу частину бойової організації ЛФА. Тим не менш, основне керівництво все ще перебуває на волі, але ми вважаємо, що рух рухне під достатнім тиском. Ми не перестанемо полювати за їхніми лідерами, поки хтось не з'явиться."
 
@@ -417,40 +417,40 @@
 
  LIT_encourage_free_debate: "Заохочувати вільні дебати"
  LIT_encourage_free_debate_desc: "Плюралістична, демократична держава не може процвітати, якщо якнайбільше її громадян не зможуть брати участь у вільних демократичних дискусіях та обмінюватися ідеями."
- 
+
  LIT_promote_political_corporations: "Сприяння політичним корпораціям"
  LIT_promote_political_corporations_desc: "Політичні корпорації, організації, створені для співпраці в політиці, культурі та економіці, є джерелом життєвої сили плюралістичної держави і повинні заохочуватися."
- 
+
  LIT_liberalise_the_press: "Лібералізація преси"
  LIT_liberalise_the_press_desc: "Ми маємо визнати, що навіть найрізкіші зауваження преси є виразом свободи слова і сприяють вільним, свідомим дебатам у литовських ЗМІ."
- 
+
  LIT_pass_labour_safety_laws: "Прийняти закони про безпеку праці"
  LIT_pass_labour_safety_laws_desc: "Щоб захистити литовський народ від експлуатації жахливого капіталізму, ми повинні запровадити суворі закони про безпеку праці та спонукати наших робітників об'єднуватись у профспілки для захисту своїх прав."
- 
+
  LIT_establish_cooperatives: "Створити кооперативи"
  LIT_establish_cooperatives_desc: "Кооператив — це демократична форма економічної організації, яка не експлуатує своїх громадян і функціонує на християнському співчутті, а не на жорстокому прагненні багатства. Ми повинні прагнути організувати нашу економіку відповідно до принципів співпраці."
- 
+
  LIT_wealth_redistribution_taxes: "Податки на перерозподіл багатства"
  LIT_wealth_redistribution_taxes_desc: "Природа доброго християнина - не накопичувати багатство для себе, а натомість ділитися ним з нужденними. Не всі з нас дотримуються цього ідеалу, але саме тут необхідне втручання держави для забезпечення справедливого та рівноправного суспільства."
- 
+
  LIT_compromise_with_the_bund: "Компроміс з Бундом"
  LIT_compromise_with_the_bund_desc: "Шалкаускіс, людина християнських принципів, починає встановлення компромісу між собою та очолюваним литваками Бундом."
- 
+
  LIT_form_northern_polish_corporate_federations: "Сформувати корпоративні федерації північних поляків"
  LIT_form_northern_polish_corporate_federations_desc: "Кінцева мета Оптимальної системи - це співчутлива та інклюзивна система, в якій всі громадяни можуть висловлювати свої занепокоєння та демократичну волю через соціальні, економічні та політичні корпорації. Ми можемо провести цей експеримент серед північних польських громад, які переважно проживають у Вільнюсі."
- 
+
  LIT_form_southern_polish_corporate_federations: "Сформувати корпоративні федерації південних поляків"
  LIT_form_southern_polish_corporate_federations_desc: "Кінцева мета Оптимальної системи - це співчутлива та інклюзивна система, в якій всі громадяни можуть висловлювати свої занепокоєння і демократичну волю через соціальні, економічні та політичні корпорації. Ми можемо провести цей експеримент серед південних польських громад, які в основному проживають у Бялистоку."
- 
+
  LIT_form_belarusian_corporate_federations: "Сформувати корпоративні федерації білорусів"
  LIT_form_belarusian_corporate_federations_desc: "Кінцева мета Оптимальної системи - це співчутлива та інклюзивна система, в якій всі громадяни можуть висловлювати свої занепокоєння та демократичну волю через соціальні, економічні та політичні корпорації. Ми можемо провести цей експеримент серед білоруських громад у Валкавісі."
- 
+
  LIT_form_litvak_corporate_federations: "Сформувати корпоративні федерації литваків"
  LIT_form_litvak_corporate_federations_desc: "Кінцева мета Оптимальної системи - це співчутлива та інклюзивна система, в якій всі громадяни можуть висловлювати свої занепокоєння та демократичну волю через соціальні, економічні та політичні корпорації. Ми можемо провести цей експеримент серед громад литваків, які проживають по всій Литві."
- 
+
  LIT_centralisation_decisions: "Централізація Литви"
  LIT_centralisation_decisions_desc: "Завдяки хитрощі та підступності Антанас Сметона і СЛН створили праву коаліцію зі старою гвардією ПЛНХ. Його мета - захистити Литву від підступів Берліна, підвищити її незалежність у зовнішніх і внутрішніх справах і захистити литовську культуру від небажаного впливу. Амбіційний і владолюбний, Сметона мріє централізувати державу за своєю примхою і не приймає рівних, але він має йти тонкою межею. Він все ще служить волею короля, і його коаліція в Сеймі неоднорідна.\n\n§CЦентралізація§!: [?LIT_centralisation|0+%%]"
- 
+
  LIT_promote_a_strong_government: "Просувати сильний уряд"
  LIT_promote_a_strong_government_desc: "Попередні реформи Сметони виявилися успішними у подоланні Чорного Понеділка. Схоже, що пропагандистська машина Сметони використовує це, щоб завоювати більшу частину громадськості, особливо у столиці."
 
@@ -459,34 +459,34 @@
 
  LIT_solidify_control_of_sudovia: "Зміцнити контроль над Судавією"
  LIT_solidify_control_of_sudovia_desc: "Регіон Сувалкії завжди відрізнявся культурною самобутністю від своїх північних побратимів. У рамках зусиль з централізації уряд просуватиме єдину литовську мову та систему освіти в регіоні."
- 
+
  LIT_secure_kaunas: "Застрахувати Каунас"
  LIT_secure_kaunas_desc: "Каунас традиційно був міцно литовським, і неважко заручитися їхньою підтримкою в політиці Сметони неважко - зрештою вони стоять на стороні переможців."
- 
+
  LIT_secure_vilnius: "Застрахувати Вільнюс"
  LIT_secure_vilnius_desc: "Традиційно політичним центром СЛН був Шяуляй і прилегла до нього сільська місцевість. Тепер Сметона прагне об'єднати тих, хто проживає в столиці країни, зі своєю партією, що нелегко. Пропаганда програм литовської мови спрямована на сприяння імміграції литовців до міста."
- 
+
  LIT_secure_gardinas: "Застрахувати Гардінас"
  LIT_secure_gardinas_desc: "Гардінас - місто, населення якого колись було заповнене литовцями, тепер заповнене литваками та білорусами. Оскільки литваки просувають використання литовської мови в місті, ми повинні затвердити білоруську мову настільки ж архаїчну, як термін 'литвин', якою деякі з них люблять називати себе."
- 
+
  LIT_abolish_valkaviskas_autonomy: "Скасувати автономію Валкавіскаса"
  LIT_abolish_valkaviskas_autonomy_desc: "На відміну від Гардинаса, жителі Валкавіcкаса все ще більшою чи меншою мірою використовують білоруську мову у своїй повсякденній діяльності. Ці люди, здається, лінгвістично розриваються між Вільнюсом та Мінськом щоб визначити себе. Маючи це на увазі, Сметона хоче переконати вони дивляться лише на Вільнюс..."
- 
+
  LIT_abolish_bialystok_autonomy: "Скасувати автономію Бялистока"
  LIT_abolish_bialystok_autonomy_desc: "Коли Бялисток був приєднаний до Литовського королівства, були надані гарантії поваги до культурної автономії поляків. Це була серйозна помилка, яка послабила Литву. Більше вони не користуватимуться особливим зверненням!"
 
  LIT_LitBel_category: "Литовсько-Білоруські відносини"
  LIT_LitBel_category_desc: "Коли їхня країна була окупована, [WHR.GetAdjective]ий уряд біг на наші землі, сподіваючись продовжити боротьбу звідси. Це відкриває чудову можливість для поглиблення відносин з нашим дружнім сусідом і можливо, відродження наших старих ідей про спільних ворогів наших народів."
- 
+
  LIT_LitBel_lastouski_speech: "Промова Ластовського"
  LIT_LitBel_lastouski_speech_desc: "Вацлав Ластовський, лідер білоруських ультраправих, протягом десятиліть відкрито підтримував литовсько-білоруську єдність. Дозвіл йому виступити в Сеймі може переконати наших політиків у тому, що ця ідея не така надумана, як передбачалося раніше."
- 
+
  LIT_LitBel_bund: "Спільне засідання Бунду"
  LIT_LitBel_bund_desc: "Загальний єврейський трудовий союз активно діє в єврейській громаді обох країн, граючи величезну роль у культурному та політичному розвитку цього народу. Переконання білоруського Бунду, який представляє більшу частину міського населення цієї країни, у тому, що тісніші зв'язки з Литвою допоможуть. громаду збільшить шанси цього проекту на успіх."
- 
+
  LIT_LitBel_negotiations: "Переговори з білоруським урядо"
  LIT_LitBel_negotiations_desc: "У міру зростання підтримки проекту ми можемо розпочати переговори з урядом Білорусі та переконати його погодитися на створення федерації між нашими двома країнами. Це потребує деякого часу та зусиль, оскільки ми повинні знайти угоду, яка задовольняє обидві країни, перш ніж ми зможемо продовжити."
- 
+
  LIT_LitBel_formation: "Утворити Литовсько-Білоруську Федерацію"
  LIT_LitBel_formation_desc: "Хай живе братній союз народів Литви та Білорусі!"
 
@@ -510,7 +510,7 @@
 
  LIT_swiss_8: "Арешт Зиндрама-Косцялковського"
  LIT_swiss_8_desc: "Час для удару настав, ми повинні заарештувати цього польського демагога і впоратися з наслідками в міру їх надходження."
- 
+
 ### Companies ###
  achema: "Linkaičių artilerijos dirbtuvės"
  vilniaus_universitetas: "Vilniaus universitetas"
@@ -542,7 +542,7 @@
 
  LIT_welfare_state: "Держава загального добробуту"
  LIT_welfare_state_desc: "Знакові реформи соціального забезпечення та соціальні витрати заклали основи для держави загального добробуту на литовській землі."
- 
+
  LIT_social_economy_idea: "Соціальна економіка"
  LIT_social_economy_idea_desc: "Успіх наших всеосяжних реформ дозволив соціальному, економічному та культурному життю країни відновитися та розвиватися у напрямку золотого віку."
 
@@ -573,13 +573,13 @@
 
  LIT_corporate_economy_idea: "Корпоративістська економіка"
  LIT_corporate_economy_idea_desc: "Не можна довіряти підхалімському капіталістичному бізнесу забезпечення благополуччя для всіх. Державна планова економіка омолодить литовський народ і забезпечить курку до столу кожному громадянину."
- 
+
  LIT_unitary_state: "Унітарна держава"
  LIT_unitary_state_desc: "Наша політика м'якої литовізації приносить свої плоди. Литовська мова стає мовою Королівства, обігнавши німецьку, і її дедалі частіше чують у наших містах."
- 
+
  LIT_tautos_vadas_idea: "Вождь народу"
  LIT_tautos_vadas_idea_desc: "Наша політика м'якої літовізації приносить свої плоди. Литовська мова стає мовою Королівства, обігнавши німецьку, і її все частіше й частіше чують у наших містах. Мало хто сумнівається в авторитеті Антанаса Сметони, Таутоса Вадаса. На півдні все ще є незгодні, але згодом із ними розберуться.\n\nТепер сподіватимемося, що цей проект залишиться на плаву ще кілька десятиліть..."
- 
+
  LIT_aftermath_of_the_coup: "Наслідки перевороту"
  LIT_uprising_army: "Національна мобілізація"
  LIT_nationalist_fanaticism: "Націоналістичний фанатизм"
@@ -588,7 +588,7 @@
  LIT_national_purity: "Національна чистота"
  LIT_nationalist_equality: "Націоналістична рівність"
  LIT_nationalist_welfare: "Націоналістичний добробут"
- 
+
  LIT_Last_Stand: "Приєднатися до наших балтійських братів"
  LIT_Last_Stand_desc: "Ми не єдині, хто остаточно звільнився від німецького ярма, але без союзників. Наші балтійські брати на півночі перебувають у такому ж становищі, як і ми, і, безперечно, прийняли б офіційний військовий союз."
  LIT_integrate_memel: "Інтегрувати Мемель"
@@ -598,7 +598,7 @@
 
  LIT_military_governance_1: "Військове управління"
  LIT_military_governance_1_desc: "Поки військові контролюють повсякденне життя в Литві, вони доводять, що не справляються з цим завданням."
- 
+
  LIT_military_governance_2: "Часткова цивільна адміністрація"
  LIT_military_governance_2_desc: "Литовська армія заручилася допомогою співчутливих політиків та державних службовців, щоб забезпечити стабільність у країні."
 
@@ -649,7 +649,7 @@
 
  LIT_military_supply_2: "Покращена логістика зброї"
  LIT_military_supply_2_desc: "Тепер, після відповідних інвестицій, німецькі деталі зброї можуть бути легко зібрані та відправлені до литовських частин, що беруть участь у війні."
- 
+
  LIT_asis_reg_0: "Тимчасове регентство"
  LIT_asis_reg_0_desc: "Після проведення надзвичайної сесії Сейму, [LIT.GetSecondInCommand] отримав тимчасові регентські повноваження, щоб повернути країну на істинний шлях."
 
@@ -658,10 +658,10 @@
 
  LIT_asis_reg_2: "Проголошення Республіки"
  LIT_asis_reg_2_desc: "Після смерті бездітного короля Вітаутаса, Сейм вирішив проголосити в Литві республіку, залишаючись при цьому у сфері впливу Німеччини."
- 
+
  LIT_asis_repair: "Відновлювана промисловість"
  LIT_asis_repair_desc: "Після того, як активну загрозу з боку ЛФА було усунено, уряд вклав кошти у відновлення шкоди, заподіяної повстанням."
- 
+
  LIT_land_reforms_ASIS: "Радикальна земельна реформа"
  LIT_land_reforms_ASIS_desc: "Щоб забезпечити підтримку своєї федерації у сільських районах, Нарутович звернувся до радикальних земельних реформ, що руйнують статус-кво у сільській місцевості."
 
@@ -698,13 +698,13 @@
 
  LIT_disorganised_army: "Неорганізована армія"
  LIT_disorganised_army_desc: "Армія в повному безладді. Солдати часто не підкоряються наказам своїх офіцерів, і офіцери також недисципліновані. Спорядження в армії архаїчне, а деякі види зброї з'явилися ще до Вельткріга. Литовська армія терміново потребує. Литовська армія терміново потребує."
- 
+
  LIT_reformed_army: "Реформована армія"
  LIT_reformed_army_desc: "Литовська армія успішно реформована і тепер не менш ефективна, ніж збройні сили її сусідів."
- 
+
  LIT_lithuanian_riflemen_union: "Литовський стрілковий союз"
  LIT_lithuanian_riflemen_union_desc: "Литовський Стрілковий Союз (наша воєнізована організація, подібна до фінської Білої гвардії) успішно інтегрувався в литовську армію, виступаючи як підрозділ армії в громадянському суспільстві та сходинки на шляху до військової служби. Це значно підвищить наш військовий потенціал."
- 
+
  LIT_death_or_dishonour_idea: "Смерть чи безчестя"
  LIT_death_or_dishonour_idea_desc: "Жителі Литви мають кілька спільних рис, одна з яких - ненависть до тиранів Сходу, і безліч форм, які вона набуває..."
 
@@ -740,7 +740,7 @@
 
  ### Focuses ###
  lithuanian_focus: "Фокуси Литви"
- 
+
  LIT_kings_speech: "Промова короля"
  LIT_kings_speech_desc: "Король малював архітектурні проекти з моменту своєї коронації, явно виявляючи невдоволення своїм становищем. Після тривалого усамітнення Король виступив із заявою про нову програму на новий рік у Королівстві."
 
@@ -851,28 +851,28 @@
 
  LIT_optimal_system: "Оптимальна система"
  LIT_optimal_system_desc: "Оновлена ​​під християнським федералістським крилом партії, ПЛНГ передбачає повну реструктуризацію литовської держави - таку, що дозволила б їй повністю дотримуватися гуманного християнства і яка послабить етнічну напруженість, а також реформує політичну систему з нуля."
- 
+
  LIT_political_democracy: "Політична демократія"
  LIT_political_democracy_desc: "Перший із принципів Оптимальної системи – політична демократія. Литовський народ має бути адекватно представлений в уряді та навчитися керувати у всіх сферах життя."
- 
+
  LIT_the_three_house_seimas: "Трипалатний Сейм"
  LIT_the_three_house_seimas_desc: "Ми повинні перетворити Сейм на трипалатний парламент, який представляє економічні корпорації, культурні спільноти та політичні партії, що дозволить кожному громадянину мати право голосу щодо того, хто має керувати ним не лише в політичному, а й у культурному та економічному плані."
- 
+
  LIT_federal_representatives: "Федеральні представники"
  LIT_federal_representatives_desc: "Ми повинні організувати створення виборчої культури в культурних автономіях та економічних корпораціях, а також сприяти участі громадян, щоб гарантувати, що ці федеральні представники відображали їхні потреби так само, як політики, обрані від партій."
- 
+
  LIT_reform_the_ministries: "Реформа міністерства"
  LIT_reform_the_ministries_desc: "Нам необхідно створити глибоку мережу міністерств, кожне з яких потребує одну з трьох палат Сейму і призначається ними, щоб гарантувати, що виконавча влада підпорядковується законодавчій владі та представляє інтереси народу."
- 
+
  LIT_economic_democracy: "Економічна демократія"
  LIT_economic_democracy_desc: "Другий із принципів Оптимальної системи — це економічна демократія, яка передбачає право на організовану працю та співпрацю в ім'я загального блага. Литовський народ має бути господарем свого благополуччя та працювати як брати, а не як раби."
- 
+
  LIT_central_chamber_of_industry_and_labour: "Промислово-трудова палата"
  LIT_central_chamber_of_industry_and_labour_desc: "Щоб забезпечити гармонійний розвиток економіки Литви, ми маємо створити Центральну торгово-трудову палату, яка представлятиме роботодавців та працівників та надаватиме нам інструмент для управління економікою - з урахуванням потреб обивателя."
- 
+
  LIT_support_the_trade_unions: "Підтримка профспілок"
  LIT_support_the_trade_unions_desc: "За всіх часів, коли конфлікт бідних і багатих виходить на перший план, ми маємо захищати бідних. Профспілка — це найбільше досягнення у боротьбі за соціальну рівність у наші дні, і хоча синдикалісти захопили її, ми, проте, можемо використовувати її для наших шляхетних цілей."
- 
+
  LIT_institute_workplace_democracy: "Інститут демократії"
  LIT_institute_workplace_democracy_desc: "Справді цілісна демократична держава має бути демократичною не лише з політичних чи культурних, а й з економічних причин. Давайте доручимо працівникам володіти певною часткою всіх активів компанії, щоб надати їм право голосу в управлінні своїм робочим місцем."
 
@@ -887,16 +887,16 @@
 
  LIT_a_federation_of_equals: "Федерація рівних"
  LIT_a_federation_of_equals_desc: "Ми уникатимемо завуальованої литовської етнічної переваги минулих десятиліть і визнаємо, що поляки, білоруси та решта також є частиною "Литви". Ми всі можемо навчатися на сильних та слабких сторонах культури один одного, щоб створити єдине ціле."
- 
+
  LIT_a_dream_made_manifest: "Мрія"
  LIT_a_dream_made_manifest_desc: "Ми справді зробили прорив у політичній думці Литви. Подібно до плюралістичних гармонійних суспільств Заходу, ми об'єднали народи, які розмовляють кількома мовами, в одну державу і реформували націю, щоб вона дійсно представляла їхні інтереси."
 
  LIT_LTS_victory: "Перемога СЛН"
  LIT_LTS_victory_desc: "Естафета переходить до Союзу націоналістів та його поміркованих союзників, щоб сформувати уряд та керувати Литвою протягом наступних чотирьох років."
- 
+
  LIT_reinforce_the_police_apparatus: "Поліцейський апарат"
  LIT_reinforce_the_police_apparatus_desc: "По країні, як і раніше, панує нестабільність. Щоб створити збалансовану, керовану, контрольовану державою економіку, ми повинні забезпечити, щоб вся нація наслідувала приклад, а незгодні були затримані."
- 
+
  LIT_bureaucratic_reforms: "Бюрократичні реформи"
  LIT_bureaucratic_reforms_desc: "Людям сподобається бачити корумпованих, клептократичних чиновників, звільнених зі своїх посад і замінених на більш компетентні фігури, що в той же час забезпечить нашу владу над країною."
 
@@ -911,34 +911,34 @@
 
  LIT_towards_an_unitary_state: "Унітарна держава"
  LIT_towards_an_unitary_state_desc: "Якщо Литва хоче врятуватися від червоних щупалець синдикалізму та Ведмедя на сході, вона має бути сильною та згуртованою..."
- 
+
  LIT_one_vision: "Єдине бачення"
  LIT_one_vision_desc: "Оскільки Сметона продовжує фінансувати програми, що просувають литовську мову, схоже, що культурний розкол у Королівстві стає дедалі менш помітним."
- 
+
  LIT_censor_the_press: "Цензура преси"
  LIT_censor_the_press_desc: "Сметона та його найближче оточення розпочали розробку нових законів про цензуру, які, за їхніми словами, перешкоджатимуть тому, щоб литовський спосіб життя був зіпсований тими, хто бажає його падіння."
- 
+
  LIT_education_programmes: "Освітні програми"
  LIT_education_programmes_desc: "У рамках нових реформ Сметони з навчання "зразкового литовця" було проведено безліч освітніх реформ. Уряд збільшить фінансування шкіл та інститутів, щоб заохочувати дослідження та інтелектуалізм у Литві. Ці реформи дозволять використовувати литовську мову в школах і зосередять увагу на розширенні дослідницького крила литовських шкіл, таких як Вільнюський університет, щоб Литва могла наздогнати решту Європи."
- 
+
  LIT_administrative_language_reforms: "Реформи адміністративної мови"
  LIT_administrative_language_reforms_desc: "Планується провести нову адміністративну мовну реформу, щоб, по-перше, зробити литовською мовою країни. Ці реформи розглядаються як надзвичайні, якщо не сказати більше, які позбавляють автономії меншості Королівства. Сметона знову, здається, розгойдує човен, але з якою метою?"
- 
+
  LIT_reward_loyalty: "Винагорода за лояльність"
  LIT_reward_loyalty_desc: "Просуваючи програми для меншин у Литві, Сметона сподівається виправити розкол у литовському суспільстві. Хоча, звичайно, ці програми пропагує те, що Сметона вважає 'лояльним' і, звичайно, 'литовським'."
- 
+
  LIT_curtail_the_bund: "Знищення Бунду"
  LIT_curtail_the_bund_desc: "Сметона, на відміну іншого члена СЛН, завжди вважав литваків " неминучим злом " , порівнюючи їх із водопроводом у будинку. Це обов'язкова потреба, яка потребує технічного обслуговування."
- 
+
  LIT_abolish_the_seimas: "Скасування сейму"
  LIT_abolish_the_seimas_desc: "Внутрішня боротьба в Сеймі призвела до страждань литовського народу через свою бездіяльність. Цього більше не повториться, оскільки Сметона прагне усунути цей старий орган уряду раз і назавжди."
- 
+
  LIT_align_the_military: "Союз із військовими"
  LIT_align_the_military_desc: "Раштікіс висловив неприязнь до будь-якого політичного впливу на збройні сили Литви... Проте деякі з його офіцерів вважають інакше."
- 
+
  LIT_deal_with_the_privy_council: "Угода з Таємною радою"
  LIT_deal_with_the_privy_council_desc: "Тепер, коли нинішні погрози практично усунуті, Сметона має солідаризуватися зі своїм наступним ворогом - Таємною радою короля."
- 
+
  LIT_the_tautos_vadas: "Таутос Вадас"
  LIT_the_tautos_vadas_desc: "Сметона перетворив Литву на унітарну державу з централізованим урядом, орієнтованим на Вільнюс. Було досягнуто компромісів, і Король, як і раніше, очолює Королівство, але всі знають, що справжня влада знаходиться за троном..."
 
@@ -1060,109 +1060,109 @@
 
  LIT_the_vilnius_coup: "Вільнюський переворот"
  LIT_the_vilnius_coup_desc: "Вільнюс впав. Прислужників Німеччини вигнано, і тепер влада перебуває в руках тріумвірату справжніх патріотів."
- 
+
  LIT_raise_the_banners_of_resistance: "Прапори опору"
  LIT_raise_the_banners_of_resistance_desc: "Можливо, на даний момент німецькі тирани були вигнані, але в міру того, як війна вибухне по всій Європі, ми неминуче будемо залучені. Давайте мобілізуємо наші підпільні сили та сформуємо їх у загони, які стоятимуть у строю проти їхніх рядів!"
- 
+
  LIT_tripartite_showdown: "Тристоронній поєдинок"
  LIT_tripartite_showdown_desc: "Три людини дивляться на Литву, кожен зі своїми амбіціями, кожен бажаючий захопити владу за рахунок інших. Хто б не прийшов до влади врешті-решт, він, безперечно, залишить за собою кривавий слід."
- 
+
  LIT_chaotic_redistribution: "Хаотичний перерозподіл"
  LIT_chaotic_redistribution_desc: "Більшість економічної діяльності у Литві контролюється німцями та зрадниками. Давайте захопимо це багатство силою і роздамо його литовцям!"
- 
+
  LIT_cult_of_death: "Культ смерті"
  LIT_cult_of_death_desc: "Фракція Vairas в ЛФА проголошує культ смерті та жертвопринесення, віру в те, що найбільше, чого може досягти литовець, це або вбити свого ворога, або померти сам. Давайте інституціоналізуємо це переконання і зробимо з нього користь!"
 
  LIT_gelezinis_vilkas: "Гележініс Вілкас"
  LIT_gelezinis_vilkas_desc: ""Вольдемаринінкай" або послідовники Вольдемарасу взяли Литву під свій контроль і хочуть направити її шляхом, який вони вважають правильним."
- 
+
  LIT_a_militarised_society: "Воєнізоване суспільство"
  LIT_a_militarised_society_desc: "Литва, оточена ворогами всередині та зовні, має бути готова до боротьби у будь-який час. Усі литовці, юнаки та дівчата повинні будуть віддати своє життя за батьківщину; кожен громадянин стане вовком – це спосіб захистити нашу батьківщину. Сьогоднішні литовці, як і герої минулого, охоче проливатимуть кров за свою улюблену націю!"
- 
+
  LIT_economy_for_war: "Економіка для війни"
  LIT_economy_for_war_desc: "Якою є мета народного господарства, якщо не в підтримці патріотичної боротьби за незалежність і нашу культуру? Це має розуміти кожен суб'єкт у нашій країні, від корпорацій та профспілок до найпростіших робітників."
- 
+
  LIT_seize_foreign_assets: "Іноземні активи"
  LIT_seize_foreign_assets_desc: "Досягши незалежності від Німеччини, ми більше не будемо рабами їхніх фінансів. Усі підприємства у Литві мають бути литовськими; всі німецькі компанії та майно у Литві буде повернуто до рук Литви. Ми націоналізуємо іноземні галузі промисловості та захопимо те, що залишилося, бо тепер вони допоможуть зміцнити нашу нову державу. Слава Литві!"
- 
+
  LIT_mandatory_military_training: "Військова підготовка"
  LIT_mandatory_military_training_desc: "Загроза війни постійно нависає над ганебним кайзером у країнах і жахливим російським ведмедем Сході. Хоча наша нація мала порівняно з агресивними імперіалістами, а їхні людські ресурси великі, ми змусимо їх заплатити за кожен дюйм литовської землі, яку вони захоплять. Ми ухвалимо закон про військову службу, згідно з яким кожен литовець, здатний носити гвинтівку, служитиме у збройних силах. Воістину Балтійська Спарта, тільки так Литва може вижити!"
- 
+
  LIT_central_economic_planning: "Економічне планування"
  LIT_central_economic_planning_desc: "Чим вільніша економіка, тим менше у нас контролю. Вся Литва має бути приведена у відповідність до економічного плану, розробленого урядом, щоб ресурси нашого народу і землі могли бути використані на благо всіх."
- 
+
  LIT_an_army_of_labour: "Армія праці"
  LIT_an_army_of_labour_desc: "Кожен робітник у Литві - солдат, що бореться за Литву своїми молотами, лопатами та іншими знаряддями праці. Якщо робітники організовані як армія та навчені як армія, вони будуть набагато продуктивніші."
- 
+
  LIT_an_army_of_research: "Армія досліджень"
  LIT_an_army_of_research_desc: "З початком призову до армії ми розуміємо, що чимало литовських інтелектуалів готові допомогти розвитку дослідницької індустрії Литви. У міру того, як ми перетворюємо нашу країну на воєнізовану державу, ми приділятимемо пріоритетну увагу військовим дослідженням, які допоможуть нам розробити новітню зброю. Наші армії будуть не тільки найдисциплінованішими в Балтиці, а й найпередовішими. З початком призову до армії ми розуміємо, що чимало литовських інтелектуалів готові допомогти розвитку дослідницької індустрії Литви. У міру того, як ми перетворюємо нашу країну на воєнізовану державу, ми приділятимемо пріоритетну увагу військовим дослідженням, які допоможуть нам розробити новітню зброю. Наші армії будуть не лише найдисциплінованішими в Балтиці, а й найпередовішими."
- 
+
  LIT_nationalist_land_reform: "Націоналістична земельна реформа"
  LIT_nationalist_land_reform_desc: "Литовська нація здорова лише в тому випадку, якщо його земля належить литовським землевласникам, тому ми проведемо повну земельну реформу по всій країні та створимо клас надійних литовських землевласників."
- 
+
  LIT_assert_economic_independence: "Економічна незалежність"
  LIT_assert_economic_independence_desc: "Наодинці ми сильніші. Литві не треба покладатися на економічну допомогу іноземних держав, як жалюгідному васалу. Коли ми оголосимо світові про нашу незалежність, ми також подамо сигнал про нашу фінансову незалежність, ухваливши економіку автаркії. Це зменшить нашу залежність від іноземних товарів та підвищить нашу національну самодостатність, тим самим допомагаючи Литві розкрити свій дійсний потенціал."
- 
+
  LIT_end_democracy: "Знищення демократії"
  LIT_end_democracy_desc: "Демократія – це повний обман; суперечки політиків і партій нічого не доб'ються... Потрібна тільки одна партія, ЛФА, і один лідер, наш великий Вадас. Під його захистом ми станемо сильними. Таким чином, щоб зміцнити ЛФА та литовську державу, ми раз і назавжди розпустимо Сейм. Нас більше не пов'язуватимуть їхні жалюгідні звичаї, тепер ми відроджуємо нову Литву!"
- 
+
  LIT_single_party_state: "Однопартійна держава"
  LIT_single_party_state_desc: "Лише одна партія здатна правити Литвою – ЛФА. ЛФА очолюють справжні литовські патріоти, чоловіки та жінки, які бажають звільнити Литву від впливу зовнішніх та внутрішніх ворогів. Незгодні будуть 'очищені' та замінені істинними патріотами, оскільки ми не потерпимо тих, хто ідеологічно ненадійний."
- 
+
  LIT_the_party_corporation: "Партія-корпорація"
  LIT_the_party_corporation_desc: "Досвід Вельткріга навчив нас, що грань між цивільним обличчям та бійцем сильно розмилася; усі мирні жителі допомогли своїм націям виграти тотальну війну проти своїх ворогів. Ми приймемо аналогічну практику, коли всі литовці сформують суспільство, щоб вести всебічну війну слави зі своїми ворогами. Будуть лише ті, хто працює та будує Литву, ті, хто бореться за Литву, та ті, хто керує Литвою."
- 
+
  LIT_vairas: "Вайрас"
  LIT_vairas_desc: "Навіть у ЛФА дехто не був готовий забезпечити повне національне відродження нашої нації. Вольдемарас і його послідовники були надто слабкі... їх уявлення про Литву жалюгідне і схильне до загибелі. Більше ніколи! З Вайрас ми завершимо національне відродження - жалюгідна Литва стане уламком минулого, і побачите, її місце займе нова могутня країна!"
- 
+
  LIT_break_the_power_of_the_clergy: "Знищення духовенства"
  LIT_break_the_power_of_the_clergy_desc: "Роль духовенства – рятувати душі людей, а не вказувати їм, за кого голосувати і як служити Литві. Це наша робота, і ми маємо нагадувати про це духовенству. Не зазіхаючи на його існування, ми подбаємо про те, щоб люди в наші дні дивилися не на церкву, а на литовських героїв давнини. Християнство мертве; нехай сучасний литовець звернеться за порадою до богів та духів своїх предків."
- 
+
  LIT_permanent_national_revival: "Національне відродження"
  LIT_permanent_national_revival_desc: "Це ще не все. Національне відродження стане постійним, Литва - справжньою утопією, яка зв'яже нас з нашим споконвічним корінням. Діти навчатимуться, і їхнім батькам доведеться змиритися з цим, чи зіткнутися з наслідками. Ми виконуємо обов'язкові клятви вірності Алантасу, великому рятівнику Литви; Таким чином, всі діти Литви поклянуться в абсолютній вірності своєму Таутосу Вадасу."
- 
+
  LIT_establish_houses_of_culture: "Будинки культури"
  LIT_establish_houses_of_culture_desc: "Під нашим контролем такі установи, як церква та університети мають бути відновлені з нуля. Ми наповнимо культурою кожне місто Литви; у цих будинках культури ми покажемо литовські епоси та казки, щоб навчити всіх литовців їхньої справжньої історії. Усі литовські герої давнини будуть уславлені нашим перетворенням нації на славетну балтійську державу."
- 
+
  LIT_privatise_public_properties: "Приватизація державної власності"
  LIT_privatise_public_properties_desc: "Ми перейдемо до відносно ліберальної економіки. Відроджена Литовська держава під керівництвом Домаса Цезявічюса стане суспільством, в якому кожен литовець зможе досягти благополуччя завдяки своїм зусиллям та новаторським рішенням. Лише сильний литовський робітник процвітатиме; слабкі та ліниві доведуть себе та інших до загибелі. Завдяки творчому національному литовському духу ми станемо процвітаючою нацією."
- 
+
  LIT_eradicate_foreign_influences: "Іноземний вплив"
  LIT_eradicate_foreign_influences_desc: "Все, що не є литовським, слід вважати ворожим. Вороги Литви мають бути знищені. Таким чином, ми викорінимо всі сліди іноземного впливу всередині нашої країни."
- 
+
  LIT_naujoji_romuva: "Нова Ромува"
  LIT_naujoji_romuva_desc: "Нова Литва повстає з попелу, але та, що захищає литовського робітника. Литовський пролетаріат довго страждав під гнітом буржуазії, і настав час розірвати їх ланцюги! Бути литовцем - значить поринути у славу католицької церкви та національної культури Литви. Новий рух молодих католиків допоможе перетворити нашу націю на славну органічну державу!"
- 
+
  LIT_a_total_national_state: "Національна держава"
  LIT_a_total_national_state_desc: "Під керівництвом Мацейни ми перетворимо Литву на національну державу. За національної держави нам не знадобляться політика та партикуляризм; ці невпевненості тільки прагнутимуть розділити нашу націю і зробити нас слабкими. Натомість ми звернемося до днів литовської слави і сподіватимемося повторити їх. Держава зосередиться на демонстрації слави литовського народу в кіно, мистецтві та літературі - незабаром настане новий золотий вік Литви!"
- 
+
  LIT_interim_revolutionary_leadership: "Тимчасове керівництво"
  LIT_interim_revolutionary_leadership_desc: "Деякі дурні вважають, що Литвою має керувати одна єдина людина. Проте процес реформування литовського суспільства є революційним і революції загрожує небезпека бути знищеною ворогами. На даний момент ми надамо Мацейні виняткові повноваження; це лише тимчасово, але це гарантує, що сильний лідер очолить Литву, щоб забезпечити перетворення нашого суспільства."
- 
+
  LIT_establish_national_purity: "Національне очищення"
  LIT_establish_national_purity_desc: "Неприємні аспекти литовського суспільства будуть стерті з землі. Вулиці знову стануть мирними, і в усіх містах відновиться лад. Наше суспільство та культура здавна перекручувалися іноземцями, такими як німці та поляки. Відновити славу Старої Литви означає, що литовці знову заговорять литовською. Говорити литовською буде обов'язково у всіх школах та громадських місцях - щоб навернути назад вікові збитки."
- 
+
  LIT_control_the_economy: "Управління економікою"
  LIT_control_the_economy_desc: "Чорний Понеділок показав нам, що капіталістична система справді корумпована та занепадна – капіталізм не приніс нічого, окрім розкладання моралі, віри та націоналізму. Ми забезпечимо розподіл багатства між литовцями для створення справедливого литовського суспільства. Ми навіть змусимо цінні інституції, такі як Церква, віддати своє багатство на користь менш щасливих – і забезпечимо виконання цього."
- 
+
  LIT_enforce_economic_democracy: "Економічна демократія"
  LIT_enforce_economic_democracy_desc: "Водночас литовці працюватимуть на зміцнення та зростання органічної держави. Робітників буде організовано до профспілок, щоб дати їм владу над своїми повелителями, надавши владу литовському пролетаріату. Крім того, профспілки допоможуть ідеологічно спрямувати литовських робітників; щоб вони не потрапили через необережність у моральні лещата та вади капіталізму."
- 
+
  LIT_expropriate_the_landlords: "Експропріація землі"
  LIT_expropriate_the_landlords_desc: "Їхнє багатство і влада належать нам, кінець буржуазії! Так довго ми страждали від ланцюгів капіталізму, і цей час минув. Поміщики Литви втратить свій статус, а їхню землю буде передано тим, хто її більше потребує. Зрештою, литовець, який обробляє землю, володітиме нею замість того, щоб бути не більш ніж кріпаком. Литовцям більше не доведеться нескінченно працювати на буржуазію; ми більше не будемо пов'язані їх розбещеними методами."
- 
+
  LIT_break_apart_monopolies: "Знищення монополій"
  LIT_break_apart_monopolies_desc: "Монополії є загрозою нашому контролю над нацією і відображають несправедливість капіталізму. Прийде їх знищити, тому що вони не приносять нашій країні нічого, крім подальшого розпачу. Ми конфіскуємо їхнє майно та багатство і роздамо литовському народу. Вони матимуть урок про те, що не можна накопичувати багатство власного народу. Вони більше не матимуть над нами жодної влади; Литва нарешті стане вільною!"
- 
+
  LIT_a_parliament_of_corporations: "Парламент корпорацій"
  LIT_a_parliament_of_corporations_desc: "Як описано апостолом Павлом, всі люди та компоненти функціонально об'єднані як людське тіло. У цьому справді полягає сенс Органічної держави, істинної демократії, де всі литовці об'єднаються у союзи та групи, щоб сформувати національний парламент. Це гарантує, що литовці з усіх верств суспільства координуватимуть процвітаюче майбутнє Литви та гарантуватимуть, що справжні інтереси нації будуть представлені."
- 
+
  LIT_establish_social_welfare: "Соціальне забезпечення"
  LIT_establish_social_welfare_desc: "Органічна держава дбає про всіх членів товариства. Подбають про тих, кому не пощастило, оскільки це є доброю волею нашого християнського характеру. Подбають про людей з обмеженими можливостями, особливо тих, хто пролив кров за литовську природу. Наш уряд забезпечить задоволення всіх потреб наших громадян та припинення всіх страждань у нашій країні."
- 
+
  LIT_begin_wealth_redistribution: "Перерозподіл багатства"
  LIT_begin_wealth_redistribution_desc: "Наша справжня мета – остаточний перерозподіл багатства у литовському суспільстві. Ми подбаємо про те, щоб багатство розподілялося рівномірно; навіть церква потрапить під пильну увагу. Можна поклонятися Господу без золота та срібла, а духовенство не повинно жити у розкоші, коли його прихожани страждають. Ми викорінимо аристократів і еліту, гарантуючи, що їхнє багатство допоможе хворому на пролетаріат."
- 
+
  LIT_end_capitalism: "Знищення капіталізму"
  LIT_end_capitalism_desc: "У цьому світі немає нічого мерзеннішого, ніж архаїчна система капіталізму. Капіталізм не приніс литовцям нічого, окрім прикрості та розпачу – згадайте страждання, які приніс нашому народу Чорний Понеділок. З успіхом наших реформ та звільненням робітників, литовцям більше не доведеться бути рабами такої жахливої ​​ідеології. Минули часи злиднів, і ось нова Литва, процвітаюча, ніж у минулі століття, - справжнє національне відродження!"
 
@@ -1178,7 +1178,7 @@
  LIT_secure_rural_areas_desc: "І хоча [LIT.GetLeader] вже зайняв позиції в столиці, більшість країни все ще знаходяться поза зоною впливу нашої армії."
 
  LIT_war_on_laf: "Війна з ЛФА"
- LIT_war_on_laf_desc: "ЛФА являють собою не просто банду злочинців, а добре організованого ворога. Саме тому нам доведеться оголосити їм війну, давши добро нашій армії творити найвищу міру покарання без суду та слідства." 
+ LIT_war_on_laf_desc: "ЛФА являють собою не просто банду злочинців, а добре організованого ворога. Саме тому нам доведеться оголосити їм війну, давши добро нашій армії творити найвищу міру покарання без суду та слідства."
 
  LIT_working_together: "Працюючи разом"
  LIT_working_together_desc: "Поляки та литовці мають досить складну історію взаємин, від братів зі зброї до господаря та слуги. Тепер, коли у нас є спільний ворог, як у часи Потопу в 17-му столітті, ми повинні працювати разом, щоб перемогти його."
@@ -1194,7 +1194,7 @@
 
  LIT_Plech_new_taxes: "Нове оподаткування"
  LIT_Plech_new_taxes_desc: "Зменшивши податки для наших промисловців, ми дозволимо їм звільнити зайвий капітал, який попрямує на розвиток нашої економіки."
- 
+
  LIT_Plech_pressure_bundas: "Об'єднання роз'єднаних"
  LIT_Plech_pressure_bundas_desc: "Знаючи, на які жахи були здатні терористи з ЛФА, Бунди охоче з нами співпрацюватимуть та допомагатимуть у захисті Литви від зовнішніх загроз."
 
@@ -1206,28 +1206,28 @@
 
  LIT_Plech_productivity: "Збільшення продуктивності"
  LIT_Plech_productivity_desc: "Фінальної мети наших економічних реформ ще не досягнуто. Ми повинні збільшити продуктивність кожного окремого працівника, щоб створити дійсно сильну економіку."
- 
+
  LIT_Plech_synth: "Експерименти з паливом"
  LIT_Plech_synth_desc: "Нафта є найважливішим стратегічним ресурсом нашого століття. Оскільки Литва не має природних її джерел, має сенс вкласти кошти в експерименти з розробки синтетичного палива."
- 
+
  LIT_Plech_expand_arms_industry: "Розширення ВПК"
  LIT_Plech_expand_arms_industry_desc: "Усі литовці повинні мати можливість працювати. Щоб створити їм робочі місця, ми маємо розширити наше ВПК та відкрити кілька нових заводів для захисту Литви."
- 
+
  LIT_Plech_ic_power: "Промислова Рада"
  LIT_Plech_ic_power_desc: "Ми маємо створити Промислову Раду, щоб направити економіку Литви на неминуче протистояння з Росією. І хоча перші результати можуть бути досить скромними, нам слід працювати у цьому напрямі."
- 
+
  LIT_Plech_memel_vilnius: "Лінія Мемель-Вільнюс"
  LIT_Plech_memel_vilnius_desc: "Якщо Литва хоче отримувати запаси та постачання з Рейхспакту вчасно, має сенс вкластися у розвиток залізничної лінії між Вільнюсом та Мемелем."
 
  LIT_Plech_friendly_poles: "Лояльні поляки"
  LIT_Plech_friendly_poles_desc: "Деякі з представників польської меншини охоче працюють із нашим режимом. Буде розумно, якби посилили їхні позиції та посадили б їх на злачні місця, щоб вони могли заспокоїти своїх співвітчизників, які ще не довіряють нам."
- 
+
  LIT_Plech_history: "Наша історія"
  LIT_Plech_history_desc: "Наша історія кривава, але велика. Якщо ми не будемо її забувати, вона ще співслужить нам добру службу."
- 
+
  LIT_Plech_secure_succession: "Спадкоємство"
  LIT_Plech_secure_succession_desc: "І хоча один із братів нашого короля втратив титул і право наслідування, залишилося ще двоє братів. Ми повинні вибрати найкращого з них."
- 
+
  LIT_Plech_coronation: "Коронація"
  LIT_Plech_coronation_desc: "Після того, як Вітовт II спочив і вирушив у інший світ, нам необхідно знайти нову людину, якою стане містищем божої милості в нашому тлінному світі."
 
@@ -1236,13 +1236,13 @@
 
  LIT_Plech_vilnius_minsk: "З [96.GetCapitalVictoryPointName] до [206.GetCapitalVictoryPointName]"
  LIT_Plech_vilnius_minsk_desc: "[206.GetCapitalVictoryPointName], столиця [WHR.GetNameDef], була обрана як фронтова столиця для війни з Росією. Ми повинні докласти зусиль, щоб налагодити стабільні постачання спорядження між нами та нашими братами-білорусами."
- 
+
  LIT_Plech_unity: "Символ єдності"
  LIT_Plech_unity_desc: "Король править усіма литовцями, будучи символом єдності. Він є одним з нас, не важливо, якою мовою він говорить, або яку релігію він сповідує."
- 
+
  LIT_Plech_caring_leader: "Дбайливий правитель"
  LIT_Plech_caring_leader_desc: "Король не тільки робить нас єдиними, а й піклується про нас. Як приклад божественної влади на землі, він націлює всі свої дії на те, щоб привести наш народ до процвітання."
- 
+
  LIT_Plech_widen_appeal: "Любов народу"
  LIT_Plech_widen_appeal_desc: "Ще не всі в нашій країні цілком лояльні до нашої держави, згадуючи про провальний експеримент з демократією. Ми повинні побудувати навколо свого правління імідж, який був би привабливим для всього народу."
 
@@ -1257,7 +1257,7 @@
 
  LIT_Plech_class_collaboration: "Класова взаємодопомога"
  LIT_Plech_class_collaboration_desc: "Вся Литва працює заради єдиної мети, надаючи один одному взаємодопомогу, чи то король, чи то простий селянин."
- 
+
  LIT_Plech_plebiscite: "Довіра народу"
  LIT_Plech_plebiscite_desc: "Литва сильно змінилася з часів смерті короля Вітовта, і багато хто вважає, що на краще. Ми повинні показати тим небагатьом скептикам, що залишилися, що народ нам повністю довіряє і задоволений тим, як ми керуємо країною."
 
@@ -1269,7 +1269,7 @@
 
  LIT_Plech_march: "Литва йде вперед!"
  LIT_Plech_march_desc: "За підтримки Плехавічюса та правління Мендовга III, Литва змогла вибратися з тієї ями, куди її загнали. Тепер ніякі внутрішні чвари не поділяють наш народ, і ми покінчили з цим провальним експериментом під назвою демократія. Литва впевнено йде вперед!"
- 
+
  #Naruto tree
  LIT_maintain_civil_governance: "Громадське управління"
  LIT_maintain_civil_governance_desc: "Нарутович усупереч порадам багатьох вирішив зберегти цивільний уряд у ці важкі часи. Хоча шлях до відновлення буде довшим, Нарутович наполягає на тому, що громадянські свободи не можна нехтувати навіть під час кризи."
@@ -1291,7 +1291,7 @@
 
  LIT_loyalty_to_the_kingdom: "Вірність королівству"
  LIT_loyalty_to_the_kingdom_desc: "\"...захищати незалежність, територіальну цілісність та конституційний устрій Королівства Литви. Я зобов'язуюсь поважати мови, культуру та звичаї Литви, служити регентам, зміцнювати основні засади демократії та правової держави у Литві. Хай допоможе мені Господь.\""
- 
+
  LIT_promote_the_krajowcy: "Крайовці"
  LIT_promote_the_krajowcy_desc: "Нарутович пропонує новий погляд на ідеали Крайовців/Краївці 'земляків'. Замість того, щоб пов'язувати свою культуру з Річчю Посполитою, він пропонує черпати її зі старого Великого князівства Литовського, багатонаціональної держави, жителі якої називали себе литовцями, незалежно від рідної мови чи релігії."
 
@@ -1309,7 +1309,7 @@
 
  LIT_trade_schools: "Професійні школи"
  LIT_trade_schools_desc: "Не всі жителі Литви прагнуть здобути вищу освіту. Це може бути пов'язане з економічними причинами чи сільською місцевістю. Нарутович прагне того, щоб усі жителі Литви могли здобути професію, для чого у сільській місцевості відкриваються професійні школи."
- 
+
  LIT_light_industrial_development: "Легка промисловість"
  LIT_light_industrial_development_desc: "Промисловість Литви, як і раніше, базується на аграрному секторі, а важка промисловість розвивається повільно. Враховуючи це, подальша розробка деревини, торфу та інших супутніх товарів, пов'язаних з аграрною промисловістю, з метою відновлення економіки."
 
@@ -1375,7 +1375,7 @@
  LIT_country_intro_content: "Королівство Литва було офіційно засновано 11 грудня 1917 року, і цю декларацію було підтверджено 16 лютого 1918 року Радою Литви – органом литовських політиків та громадських діячів, обраних на Вільнюській конференції під час Вельткригу. Однак створення Королівства було далеко не простою справою - декларація розколола литовських націоналістів і змусила соціал-демократів, що дотримуються республіканських поглядів (ЛСДП), вийти з Ради, а німці всерйоз сприйняли декларацію про незалежність лише 1919 року. Зрештою, вони затвердили Вільгельма фон Ураха як Міндаугас II, першого короля Литви з 1263 року.\n\nКонституція 1920 встановила Литву як двопалатну конституційну монархію, гарантуючи основні права, такі як свобода слова, свобода преси, свобода релігії та загальне виборче право. До цього дня вона залишається однією з найліберальніших конституцій Рейхспакту. Не маючи серйозної конкуренції, християнські демократи (ПЛНГ) формують уряд із самого початку існування країни, а в економіці країни, як і раніше, домінують німецькі юнкери та філії компаній. Абсолютна більшість з них влаштувалися у Вільнюсі, оголошеному містом 'німецького розвитку' - туди прямує левова частка іноземних інвестицій, і він став перлиною Остштатена, місцем, де дорогою з продуктового магазину можна почути п'ять різних мов. Проте решта Литви розвинена слабо. Це найбільш очевидно у так званій 'Зовнішній Литві', слов'яномовних південних районах, які найчастіше виглядають так, наче застрягли у 19 столітті.\n\nВітаутас II, також відомий як Карл Геро фон Урах, є королем Литви з 1928 року. Чинним прем'єр-міністром є Леонас Бістрас, який представляє християнських демократів."
  LIT.1.a: "Детальніше..."
  LIT.1.b: "Я вже знаю це."
- 
+
  LIT_guide: "§MRenewal in Christ§! / §MFor the Working Man§! / §MStrength in Unity§! (§cSocial Conservative§! / §SSocial Democrat§! / §gAuthoritarian Democrat§!)\n£white_dot Elect your government of choice in the 1937 elections.\n£white_dot Have the king congratulate the Prime Minister in private.\n£white_dot Defeat the LAF militants through decisions, or directly during the outbreak of war.\n\n§MEchoes of a Grand Duchy§! (§lSocial Liberal§!)\n£white_dot During the 1937 elections, have the king open the Seimas in person.\n£white_dot Have the military manage security.\n£white_dot Defeat the LAF militants through decisions and focuses.\n\n§MGuardianship of the Army§! (§PPaternal Autocrat§!)\n£white_dot During the 1937 elections, have the king open the Seimas in person.\n£white_dot Have the police manage security.\n£white_dot Defeat the LAF militants through decisions and focuses.\n\n§MRevolution at Last§! (§RRadical Socialist§!)\n£white_dot Elect the LSDP in the 1937 elections.\n£white_dot After taking the focus Long Road to Pluralism, select decisions and focuses to foster radicalism up to or exceeding 60%.\nIf Germany reaches 40% surrender limit, select the decision \"Start the Revolution\".\n\n§MA National Republic§! (§NNational Populist§!)\n£white_dot Do not crush the LAF by allowing their influence to reach 0%.\n£white_dot When the LAF rise up during the outbreak of war, allow the coup to succeed."
 
  LIT_country_intro_header_1: "Пам'ять про Мемельське повстання"
@@ -1430,7 +1430,7 @@
  LIT.16.t: "Марші націоналістів продовжуються"
  LIT.16.d: "Націоналістична активність тривала в литовських містах протягом кількох місяців, викликана поганими економічними умовами, передбачуваною залежністю уряду від німецьких інтересів, невдоволенням домінуванням євреїв у литовському секторі та статусом Литви як одного з Остштатенів. Проте, з часом, здається, що початкова ворожість, викликана заворушеннями, згасла. Більше не повідомляється про випадки насильства чи вандалізму, і навіть деякі з найбільш неприємних гасел були скасовані на користь більш поміркованих, хоча вони, як і раніше, закликають до розширення литовської автономії та утвердження литовців як найвищої етнічної групи у Королівстві. Будь-які і всі ідеї про дії проти СЛН довелося поки що відкинути.\n\nНаціоналістичний Союз загалом провів дуже сильну кампанію. Незважаючи на свій похилий вік, Антанас Сметона проводив кампанії всюди від Паланги до Вільнюса, як і всі його помічники, кожен із яких пропонував альтернативу синдикалізму та християнському консерватизму, сильне, національне правління, вільне від кайданів іноземців, шанс для Литви визначити свою власну долю. Вперше з моменту свого заснування Націоналістичний Союз може кинути виклик усталеним партіям на виборах."
  LIT.16.a: "Що задумав цей старий лис?"
- 
+
  LIT.17.t: "Паланзька угода"
  LIT.17.d: "У 1920 році перший демократично обраний уряд Литви був змушений підписати каральну угоду, що стосується торгових потоків у країну та з неї. Згідно з умовами угоди, вся зовнішня торгівля Литви повинна проходити через порти Мемель, Лібаву та Рига, всі три з яких контролювалися Німеччиною та її маріонетковою герцогською державою. Угода також передбачає жорсткі обмеження на види продукції, якою дозволено торгувати через порти, та кілька видів мит. Зрештою це означає, що зовнішня торгівля Литви дуже обмежена і залежить від забаганки Німеччини.\n\nОднією з передвиборних обіцянок Леонаса Бістраса та ПЛНГ було переукласти угоду і "вирізати Литві вікно на Захід", і тепер вони готові діяти відповідно до цієї обіцянки. Паланга, єдине місто Литви на узбережжі Балтійського моря, має потенціал стати адекватним портом, якщо німці дозволять послабити обмеження на місцеві доки та суднобудування. Поки триває підготовка до дипломатичної місії, наш посол у Німецькій Імперії Юргіс Шауліс пропонує підтримку у вигляді контактів серед німецьких бізнесменів та дипломатів – звичайно, за це доведеться заплатити."
  LIT.17.a: "Ні, це слід розглядати як зусилля Литви."
@@ -1444,7 +1444,7 @@
  LIT.19.t: "Паланзька угода"
  LIT.19.d: "Пройшло кілька днів напружених переговорів між делегаціями Литви та Німеччини, і незважаючи на те, що переговори велися з більш слабкої позиції, наші делегати здобули перемогу. Дивно, але їхні німецькі колеги були пасивні, погодившись на кілька прохань, які спочатку були висунуті як напівжарт, і зрештою саміт завершився тим, що Німеччина погодилася зняти обмеження на нашу морську торгівлю.\n\nПісля завершення переговорів, однак, незабаром стало зрозуміло, чому німецька дипломатична місія була такою пасивною. Потужний економічний криза скував Імперію та інші країни Рейхспакту, та її пульсації докотилися і до Литви. Німецькі інвестори закривають підприємства і йдуть з країни, народ скований масовим безробіттям, а уряд зовсім не готовий до кризи.\n\nМи вирішили одну проблему, але зіштовхнулися із сотнями інших."
  LIT.19.a: "Зі сковороди - на вогонь."
- 
+
  LIT.20.t: "Німці відкидають угоду"
  LIT.20.d: "Пройшло кілька днів напружених переговорів між литовськими та німецькими делегатами, і незважаючи на всі наші зусилля, схоже, що німці відхилили нашу пропозицію. Не дивно, що німецькі дипломати поводилися агресивно, не погоджуючись на жодне з прохань, спочатку висунутих як напівжарти. Зрештою, саміт завершився тим, що Німеччина зберегла статус-кво щодо нашої морської торгівлі.\n\nПісля завершення переговорів, невдовзі з'ясувалося, чому саме німецька дипломатична місія була такою агресивною. Потужний економічний криза скував Імперію та інші країни Рейхспакту, та її наслідки докотилися і до Литви. Німецькі інвестори закривають підприємства і йдуть з країни, народ скований масовим безробіттям, а уряд зовсім не готовий до кризи.\n\nМи вирішили одну проблему, але зіштовхнулися із сотнями інших."
  LIT.20.a: "Будь вони прокляті!"
@@ -1482,7 +1482,7 @@
  LIT.27.t: "Гамбіт Сметони"
  LIT.27.d: "Передвиборні перегони настільки щільні, наскільки це взагалі можливо. Хоча протягом останніх кількох років християнські демократи втратили значну частину підтримки, вони залишаються популярними, а демократичні корпоративістські ідеї Шалкаускіса починають залучати нову партію виборців. Жоден з їхніх конкурентів не є достатньо сильним, щоб самотужки схилити шальки терезів. Однак ПЛНГ не однорідна, і не всі її члени готові йти в новому напрямі, який обрала партія.\n\nАнтанас Сметона, лідер Націоналістичного Союзу, вирішив перетворити цю тріщину на яр. Протягом останніх кількох місяців він звертався до всіх членів старої гвардії ПЛНГ, до кого тільки міг, вдаючись до старих послуг, наданих їм під час їхньої роботи в Раді Литви, переконуючи інших страшилками про те, що радикальні молодики доведуть країну до катастрофи, а третіх просто заманюючи обіцянками. Зрештою це призвело до розколу в Християнсько-демократичній партії – значна частина старої гвардії на чолі з Ніколасом Крупавічюсом та Владасом Миронасом розірвала стосунки з керівництвом ПЛНГ та оголосила про створення власної партії – Союзу Батьківщини (Tėvynės sąjunga).\nСоюз Батьківщини стверджує, що він є продовжувачем старих традицій партії, і згідно з опитуваннями, він зачищає більшу частину консервативної сільської місцевості та краде голоси в інших районах, зупиняючи потяг християнських демократів і, можливо, остаточно знищуючи їхній імпульс на цих виборах. Тим часом, Союз Батьківщини та Націоналістичний Союз уклали таємну угоду про підтримку один одного в коаліційній угоді після отримання результатів..."
  LIT.27.a: "Вибори стають ще цікавішими..."
- 
+
  LIT.30.t: "Інавгурація нового Сейму"
  LIT.30.d: "Після закінчення виборів та перемоги [LIT.GetRulingParty] новий Сейм має бути інавгурований.\n\nЗа традицією, перше засідання Сейму відкриває монарх після ходи, а членів нового кабінету приводить до присяги особисто він.\n\nЦя процедура зазнала різкої критики соціалістичних газет, які стверджували, що одна присутність короля може заплямувати волю народу. Хоча більша частина країни не поділяє цієї думки, невелика особиста аудієнція з новим прем'єр-міністром може розглядатися як сприятливіша для демократії. Додатковою перевагою є те, що це не зазнає короля можливих нападів під час церемонії відкриття."
  LIT.30.a: "Король має гарантувати демократію."
@@ -1494,7 +1494,7 @@
  LIT.31.b: "Безпека короля - справа армії!"
 
  LIT.32.t: "Вбивство короля"
- LIT.32.d: "Коли він прямував на відкриття Сейму, короля Вітатуса II було вбито групою активістів ЛФА. Очевидно, що добре навчені воєнізовані формування перебили легкоозброєний поліцейський ескорт, щоб дістатися короля, який загинув під час перестрілки разом із кількома членами його почту.\n\nПобоюючись масових заворушень, генерал Повілас Плехавічюс ввів армійські підрозділи на основні магістралі Вільнюса та оголосив військовий стан, назвавши громадянський уряд нездатним підтримувати порядок у країні.\n\nНе маючи можливості переконати Плехавічюса, присягу громадянського уряду було скасовано, внаслідок чого він став фактичним лідером Литви." 
+ LIT.32.d: "Коли він прямував на відкриття Сейму, короля Вітатуса II було вбито групою активістів ЛФА. Очевидно, що добре навчені воєнізовані формування перебили легкоозброєний поліцейський ескорт, щоб дістатися короля, який загинув під час перестрілки разом із кількома членами його почту.\n\nПобоюючись масових заворушень, генерал Повілас Плехавічюс ввів армійські підрозділи на основні магістралі Вільнюса та оголосив військовий стан, назвавши громадянський уряд нездатним підтримувати порядок у країні.\n\nНе маючи можливості переконати Плехавічюса, присягу громадянського уряду було скасовано, внаслідок чого він став фактичним лідером Литви."
  LIT.32.a: "Чи дозволять німці зробити це?"
 
  LIT.33.t: "Вбивство короля"
@@ -1523,7 +1523,7 @@
  LIT.44.d: "З моменту створення Литовської Стрілецької Спілки він був виключно етнічною литовською організацією. Засновники Литовської Стрілецької Спілки, командири Владас Путвінскіс і Вінцас Креве, представляли його як духовного наступника традицій великокнязівської армії, організації 'лицарів', відданих насамперед Литві. Хоча протягом багатьох років в організацію вступали і нелитовські добровольці, їх мало. Оскільки Литва тепер вирішила інтегрувати стрільців до загальної структури армії, ця втрата великого контингенту стала проблемою. Було запропоновано ідею створити допоміжні підрозділи, орієнтовані інші етнічні групи у Литві. Ці польські, білоруські та єврейські легіони, очевидно, мають апелювати до патріотизму своєї культури, звеличуючи своїх героїв та історичну гордість. Чи це те, чого ми хочемо?"
  LIT.44.a: "Приклад нашої політики!"
  LIT.44.b: "Це заходить надто далеко!"
- 
+
  LIT.45.t: "Oro desanto būrys"
  LIT.45.d: "Під керівництвом Густайтіса та кількох німецьких радників, формування литовського підрозділу десантників стає дедалі реальнішим. Ентузіазм Густайтіса не знає кордонів, оскільки його перші новобранці, схоже, є сумішшю ентузіастів планеризму та наївних сільських хлопчаків. Однак ця реальність зіткнулася з першою перешкодою, оскільки фінансування може покрити лише навчальні приміщення та частину необхідного обладнання, а Густайтіс використовує свої зв'язки в уряді та в авіаційній промисловості, щоб допомогти йому.\n\nМолодий другий лейтенант звернувся до Густайтіса з вирішенням цієї проблеми, запропонувавши замінити дорогий захід щодо формування литовських десантників на елітне піхотне формування, яке спеціалізуватиметься на місцевості, що оточує країну. Звичайно, це пов'язано з певними труднощами, оскільки Густайтіс приписаний до нещодавно сформованих литовських ВПС, а не до армії, хоча у військовій історії в цьому немає нічого нового, а концепція морської піхоти для деяких є новою думкою. Інша пропозиція, висунута на противагу формуванню елітного формування, полягає в тому, щоб ці люди були розосереджені по всій армії, надаючи досвід командирам на місцях, хоча вони підпорядковуватимуться ВПС, а не армії."
  LIT.45.a: "Хороша ідея Раманаускаса, Литві потрібне елітне бойове формування."
@@ -1635,9 +1635,9 @@
 
  LIT.75.t: "Завершення будівництва меморіалу"
  LIT.75.d: "Після кількох днів утомливого будівництва, меморіал Владислава Сирокомли нарешті завершено. Ця скромна статуя, зведена у Вільнюсі, є нагадуванням про те, наскільки важливе мистецтво в Литві, і про спільний культурний союз між поляками та литовцями. Коли цікаві глядачі, молоді та літні, починають захоплено розглядати статую, їхню увагу привертає цікавий напис унизу:\n'Ludwik Kondratowicz Władysław Syrokomla 1823-1862. Пташка просить Бога простягнути руку допомоги, допомогти біднякові перенести його гіркий жереб. Щоб йому вистачило сил нести свій хрест. Щоб дійти до могили без скарг.'\n\nСлова на штаті справді є урочистим memento mori. Сирокомля помер молодим, борючись з нестачею освіти та глибокими злиднями. Однак глибокі вірші поета звучать для аудиторії понад сімдесят років... що свідчить про його досягнення."
- LIT.75.a: "Він був благословенням для всіх нас." 
+ LIT.75.a: "Він був благословенням для всіх нас."
  #Please help me find some of his poems I want to replace this with the opening to one - Eberronguy
- 
+
  LIT.76.t: "Встановлено найнеобхідніше"
  LIT.76.d: "Прийшли новини з будівельного майданчика Палацу Великих Князів – мінімально необхідне, таке як водопровід, електрика та центральне опалення, було встановлено у корпусі, і Палац тепер технічно придатний для життя, хоч і далекий від завершення. Переконаний у міцності своєї роботи, король Вітаутас II вирішив провести ніч у палаці на самоті і повернувся дещо задоволеним, хоч і з новими та новими ідеями про те, які частини палацу можна покращити, що потрібно змінити та куди направити ресурси, змушуючи будівельників розчаровано зітхати."
  LIT.76.a: "На унітазі король і жебрак рівні."
@@ -1678,7 +1678,7 @@
  LIT.104.t: "Державна підтримка профспілок"
  LIT.104.d: "Бундас з його лівим відтінком завжди був скалкою в боці Християнсько-демократичної партії - ще до того, як вона звернула у бік політики і натомість оголосила про нейтралітет, вона була неофіційно поєднана з ЛСДП через простий факт приналежності до однієї ідеологічної ніші. Прем'єр-міністр Шалкаускіс ставиться до організації пасивніше, ніж його попередники, бачачи в ній приклад того, як має виглядати економічна корпорація, представлена ​​в його роботах, однак його неприйняття соціалізму, який сповідує Бундас, і невдоволення тим, що єврейська корпорація випередила інші етнічні групи, призвело до того, що він схвалив план обмеження її впливу.\n\nЗа наказом християнсько-демократичного уряду було започатковано кілька фінансованих державою профспілкових федерацій, насамперед Литовська християнська федерація праці (Lietuvos krikščioniškoji darbo federacija) та Центральна палата торгівлі, промисловості та ручної праці (Centriniai prekybos, pramonės ir amatų rūmai), що об'єднують литовських робітників та власників підприємств відповідно. Об'єднання значної частини литовської промисловості до кількох корпорацій та значне їхнє спонсорування підірвало владу Бундаса, дозволивши литовським підприємствам повернути частину частки ринку у Вільнюсі та інших помітних містах."
  LIT.104.a: "Приємно чути!"
- 
+
  LIT.105.t: "Мова навчання"
  LIT.105.d: "Приступаючи до реалізації проекту 'Оптимальна система', ми не врахували одну річ – систему освіти. В даний час стандартна навчальна програма включає литовську та німецьку мови як обов'язкові та різні варіанти залежно від місця проживання, такі як російська, польська, білоруська, ідиш або іноземні мови, такі як французька та англійська. Хоча в школах національних меншин все інакше, стандартний навчальний план зберігається від Паланги до Бялисток. Прагнення федералізму змушує нас переглянути підхід до мовної освіти.\n\nМрією прем'єр-міністра Шалкаускіса було б, щоб кожен школяр у країні, литовець, слов'янин чи інший, вивчав литовську та одну слов'янську мову на вибір, щоб забезпечити взаємозв'язок між населенням Королівства - але німецька влада продовжує вводити обов'язкове навчання німецької мови для всіх школярів, і навантажувати їх вивченням трьох обов'язкових мов було б жахливо. Тому необхідно знайти компроміс."
  LIT.105.a: "Найкраще підійде литовська і якась слов'янська мова."
@@ -1692,22 +1692,22 @@
  LIT.107.t: "Союзник у біді"
  LIT.107.d: "Зіткнувшись із реальною загрозою захоплення країни Активістським фронтом, Єврейський робітник Бунд вирішив діяти прагматично та повністю підтримати проект 'Оптимальна система'. Незважаючи на ідеологічні розбіжності між християнськими демократами та Бундом, він набагато більш прийнятний, ніж відвертий антисемітизм ЛФА, а плюралістичні, федеративні тенденції Оптимальної системи дають гарантію, що єврейська громада буде в безпеці у разі збереження демократії. Шломо Клейт, лідер Бунду праці, повністю підтримав чинний уряд і закликав усіх лівих у країні підтримати прем'єр-міністра Шалкаускіса та його кабінет."
  LIT.107.a: "...справді союзник."
- 
+
  LIT.108.t: "Шалкаускіс і Клейт - Людина до людини"
  LIT.108.d: "Шалкаускіс та Клейт зі своєю групою зустрілися у нещодавно відремонтованому залі у Вільнюсі. Клейт, здавалося, був стурбований цією несподіваною зустріччю з новообраним прем'єр-міністром. Цей настрій швидко змінився почуттям невимушеності, і Шалкаускіс спочатку подякував Клейту та його Бундасу за підтримку у бурхливі дні Чорного Понеділка і додав, що цей рівень благодійності не буде забутий литовським народом. Шалкаускіс продовжив, що хоча його християнські переконання, політичні погляди та спосіб життя можуть розходитися з Клейтом і Бундасом, у них одна і та ж кінцева мета – покращення життя ближнього. Заради цього Шалкаускіс та його уряд готові не зважати на деякі аспекти діяльності Бундаса. Звичайно, Клейт знав, що буде "але", оскільки Шалкаускіс заявив про необхідність приструнити більш радикальних членів організації. Після відбуття покарання група Клейта почала перемовлятися між собою на суміші польської та ідиш. Між деякими членами організації розгорілася суперечка, що супроводжувалася обміном грубими лайками, але Клейт ляснув кулаком по столу і литовською мовою наказав двом членам своєї групи піти. Після незручного мовчання ці люди покинули збори та вийшли з кімнати. Клейт вибачився за цей випад, після чого Шалкаускіс та Клейт почали обговорювати тонкощі цього компромісу."
  LIT.108.a: "Схоже, Бундас не така єдина, як ми думали..."
- 
+
  LIT.109.t: "Промова Косцялковського"
  LIT.109.d: "Один із лідерів правого крила Центральної польської виборчої комісії Маріан Зиндрам-Косцялковський нещодавно виступив у Бялистоку з промовою, в якій він піддав безпрецедентній та уїдливій критиці нашу політику. Він заявив, що політика та ідеологія прем'єр-міністра Шалкаускіса - це тонко завуальований націоналізм, який прагне перетворити всі етнічні групи Литви на підлеглих великої "литовської" культури, яку він явно звеличує, оголошуючи її унікальним зразком у світовій історії. Він закликав своїх співвітчизників-поляків чинити опір уряду Шалкаускіса та його зусиллям щодо проведення реформ. Ця мова транслювалася по радіо на більшій частині Бялистокського краю, і, схоже, багато хто з тих, хто його слухав, висловив підтримку його атомістичним ідеям.\n\nМабуть, це не повинно дивувати, враховуючи, що Косцялковський є відомим польським ірредентистом і вже мав неприємності з владою через свої антилитовські висловлювання, але слід також зазначити, що наш перепис викликав невдоволення поляків, яке Косцялковський просто використав у своїх інтересах..."
  LIT.109.a: "Нарутовичу, тримайте свого собаку на повідку!"
- 
+
  LIT.110.t: "Отримано підтримку Оптимальної системи"
  LIT.110.d: "Незважаючи на небажання консерваторів та традиціоналістів, які сумнівалися у стійкості та міцності Оптимальної системи, здається, що дедалі більше громадян Литви поступово приймають її. Хоча багато хто погоджується з тим, що антинімецька позиція ЛФА гідна поваги, враховуючи неприйняття присутності Німеччини у Східній Європі, їх насильницькі методи та відверто войовнича риторика також налякали багатьох. Повідомляється, що з кожним днем ​​прогрес Оптимальної системи здається плідним, оскільки все більше литовців ідентифікують себе як литовців, незважаючи на їх численні етнічні корені. Прихильники Оптимальної системи стверджують, що кінцевою метою Литви є держава, яка виражає як західні демократичні цінності, так і східні традиції. У ній будуть представлені всі литовці, що далеко від ненависної риторики, яку сповідують члени ЛФА."
  LIT.110.a: "Литва, наша дорога батьківщина!"
 
  LIT.120.t: "Король хоче звернутися до народу"
  LIT.120.d: "Однією з найбільших дилем проекту Стасіса Шалкаускіса 'Оптимальна система' є питання про монархію і про те, яке місце вона займатиме в системі. В ескізах Шалкаускіса король займає позицію, окрему від усіх трьох гілок влади, як аполітичний посередник, який є найвищим виразом виконавчої влади. Однак філософ рішуче заперечує це як спробу наділити монархію сильнішими виконавчими повноваженнями, посилаючись на те, що, на його думку, монарх має бути насамперед аполітичною фігурою, що об'єднує. Зрозуміло, це питання в проекті ще не вирішене, і це призвело до того, що такі люди, як Антанас Мацейна, інтерпретують цю ідею як необхідність широких виконавчих повноважень, навіть недемократичних.\n\nКороль Вітаутас II та кабінет міністрів обговорюють цю дилему, і оскільки проект 'Оптимальна система' добігає кінця, він готовий представити результати їхнього компромісу у промові до нації."
- LIT.120.e: "Монархія справді є предметом спекотних суперечок для націоналістів. На чолі з Антанасом Сметоною, націоналісти хочуть створити Литовську державу для себе – Литву для литовців! Їхньою головною метою є створення литовської "унітарної держави" - повністю централізованої Литви. Проте, незважаючи на свою націоналістичну риторику та ненависть до німецьких монархів, Литовський Націоналістичний Союз Сметони погодився змінити свою позицію щодо монархії. Під час непередбаченого спостерігачами та пресою кроку король вирішив зустрітися зі Сметоною з приводу майбутнього керівництва Литвою. З обох боків відчувається напруженість, тим більше, що Сметона, безсумнівно, вимагатиме влади для себе та своєї партії, і мало хто очікує, що буде досягнуто реального компромісу. Популярність Сметони затьмарила популярність короля, і якщо буде досягнуто згоди, то вона передбачає відмову короля від своїх обов'язків.\nПопри це король підготував звернення до народу Литви, яке, безсумнівно, чіткіше визначить його передбачувану майбутню роль." 
+ LIT.120.e: "Монархія справді є предметом спекотних суперечок для націоналістів. На чолі з Антанасом Сметоною, націоналісти хочуть створити Литовську державу для себе – Литву для литовців! Їхньою головною метою є створення литовської "унітарної держави" - повністю централізованої Литви. Проте, незважаючи на свою націоналістичну риторику та ненависть до німецьких монархів, Литовський Націоналістичний Союз Сметони погодився змінити свою позицію щодо монархії. Під час непередбаченого спостерігачами та пресою кроку король вирішив зустрітися зі Сметоною з приводу майбутнього керівництва Литвою. З обох боків відчувається напруженість, тим більше, що Сметона, безсумнівно, вимагатиме влади для себе та своєї партії, і мало хто очікує, що буде досягнуто реального компромісу. Популярність Сметони затьмарила популярність короля, і якщо буде досягнуто згоди, то вона передбачає відмову короля від своїх обов'язків.\nПопри це король підготував звернення до народу Литви, яке, безсумнівно, чіткіше визначить його передбачувану майбутню роль."
  LIT.120.f: "Очолювана харизматичним Степонасом Кайрісом Соціал-демократична партія Литви (ЛСДП) в останні роки переживає сплеск популярності. У відповідь на здавалося б нескінченні проблеми Литви з етнічною приналежністю ЛСДП відстоює свою ідею 'Національної особистої автономії'. Будучи переконаними республіканцями, ЛСДП не є шанувальником монархії. Однак вони змінили свою партійну позицію, щоб дозволити Литві стати конституційною монархією. Відповідно до наданих йому обмежень король погодиться на те, щоб стати посередником для всіх литовців, придушуючи етнічні хвилювання в ці неспокійні часи. Частиною його ролі було періодичне звернення до нації, що він вважав за необхідне найближчими днями."
  LIT.120.a: "О боже, він же не збирається говорити литовською?"
 
@@ -1810,7 +1810,7 @@
  LIT.180.t: "Безпека польського флангу"
  LIT.180.d: "З моменту утворення Королівства Литва у його південних виборчих округах, особливо у Білостокському краї та у багатьох виборчих округах Вільнюського краю, домінує Комітет поляків Литви. Протягом останніх шістнадцяти років цей об'єднаний фронт кандидатів від польської меншини повністю контролював відповідні регіони – проте це тендітна політична партія, і її вплив на польську меншість не є непохитним.\n\nІдеологічні розбіжності у КЛП мучать її з перших днів існування - Станіслав Нарутович, шановний багаторічний лідер партії, є соціально ліберальним і схиляється до соціалізму в економічних питаннях, тоді як деякі з його заступників та свіжих членів значно відхилилися праворуч, підтримуючи тісні зв'язки з правими. польськими партіями, такими як 'Ендеція' та 'Чадеція'. Для Сметони це був благодатний ґрунт для розколу його опозиції. Нарутовича було найлегше схилити - вони обидва знали один одного ще з часів Литовської ради, і літній політик зрештою зігнувся під тиском і погодився укласти з СЛН політичний пакт про "ненапад". Це одразу ж викликало серйозний розкол у Комітеті, що призвело до утворення двох нових політичних партій – 'Християнської демократії поляків Литви' та ірредентистської 'Виборчої акції поляків' Маріана Зиндрама-Кощалковського.\n\nУ той же час Сейм успішно затвердив плани щодо створення Фонду розвитку Південної Литви, надавши центральному уряду у Вільнюсі право голосу в питаннях інвестицій та розвитку в регіонах з польською більшістю, дозволивши їм фінансувати громади та школи, що підтримують їх цілі, та зруйнувавши гегемонію Комітету у місцевих справах. Завдяки кільком успішним крокам влада Комітету була сильно ослаблена."
  LIT.180.a: "Lieka lenkas be skatiko..."
- 
+
  LIT.181.t: "Протест Нарутовича"
  LIT.181.d: "У розпал невдоволення унітарними та авторитарними заходами Антанаса Сметони, Станіслав Нарутович, лідер ослабленого, пошарпаного, але все ще вартого на ногах Комітету литовських поляків, знову спробував взяти на себе роль миротворця. Спокійний, зібраний, літній польсько-литовський аристократ за свою кар'єру вже кілька разів вступав у вирішення конфліктів у Сеймі, маючи величезний авторитет, незважаючи на те, що очолював партію польської меншини - проте Сметона виявилася твердішим горішком. Нарутович направив Сметоні кілька особистих листів, у яких заявив, що, як і 1918 року, майбутнє Литовської держави залежить від компромісу, а не жорстоко нав'язаного крайнього націоналізму. Щоб зберегти стабільність країни, він має прислухатися до побоювань опозиції та послабити свої зусилля, а також визнати, що поляки та євреї – такі ж литовці, як і самі литовці."
  LIT.181.a: "Коли цей старий поляк перестане пхати свій ніс куди не слід?"
@@ -1818,7 +1818,7 @@
  LIT.182.t: "Бялисток у вогні"
  LIT.182.d: "Те, що Сметона наполягає на реформах адміністрації, схоже, стало соломинкою, яка остаточно зламала спину верблюду. Те, що починалося з дрібних громадянських суперечок, переросло у масові заворушення, оскільки єврейське та польське населення Бялисток об'єдналося з приводу нових мовних реформ. Вольдемарас вимагає ввести в місті військовий стан, відправивши вірних партії людей придушувати повстання.\n\nХоча холодніші голови коаліції заявили, що і Нарутович, і Віктор готові допомогти у цій справі, але з якою метою – про це думає Сметона."
  LIT.182.b: "Вольдемарас явно робить хід, а де ж поляк та єврейський лакей?"
- 
+
  LIT.183.t: "Запропоновано компроміс"
  LIT.183.d: "На подив багатьох, компроміс було досягнуто не ким іншим, як Сметоною! Будучи главою держави і маючи всю повноту влади, він підписав закон, який захищає права польсько-литовців. Він пообіцяв надати місту Бялистоку місцеве визнання польської мови та створення шкіл з польською мовою навчання. Сметона навіть вирішив піти на подальший компроміс та призначив польського політика до свого кабінету міністрів. Битва нарешті закінчилася, і на вулицях стало тихіше."
  LIT.183.a: "Цей старий лис завжди сповнений сюрпризів."
@@ -1993,7 +1993,7 @@
  LIT.258.t: "Армія зберігає нейтралітет"
  LIT.258.d: "У той час, як громадянські заворушення в Королівстві набирають обертів, Королівські сили оборони Литви стають свідками дедалі більшого розколу. Безперечно, що серед офіцерського корпусу, особливо серед радикальнішої молодої гвардії, є симпатії до Вольдемарасу. Начальник штабу збройних сил Стасіс Раштікіс, однак, спробував зорієнтуватись у цьому питанні, утримуючи прихильників ЛФА осторонь, але не забороняючи їм командувати. Поки що армія на боці законного уряду, але сумніви, що терзають душу, все ще залишаються."
  LIT.258.a: "Не добре, але й не страшно."
- 
+
  LIT.259.t: "Утиски меншин"
  LIT.259.d: "З південних провінцій надходять повідомлення про жахливі акти, вчинені членами Активістського фронту. Щоб закріпити і донести до людей ідею про те, що вони виступають за 'Литву для литовців', ці націоналісти переслідують і нападають на польські, білоруські та єврейські меншини, виганяють їх із будинків у містах та нападають на видатних лідерів цих етнічних груп. Найчастіше на це насильство відповідали насильством - Єврейський робітник Бунд почав організовувати загони самооборони для захисту своїх членів, як і поляки у Бялистоку, і вони вступали у перестрілки з 'Вовками', як прозвали парамілітаристів ЛФА."
  LIT.259.a: "Ми захищатимемо своїх!"
@@ -2001,11 +2001,11 @@
  LIT.260.t: "Литва у вогні"
  LIT.260.d: "Насильство. Щодня заголовки газет кричать тільки про насильство, яке вчиняє ЛФА. На вулицях північної Литви тротуари забарвилися кров'ю. Вовки Вольдемараса блукають вулицями у пошуках видобутку, і їхніми жертвами часто стають поляки. Їхнє насильство дійшло до того, що жертвами стають священики; одного польського священика було тяжко поранено після того, як його сильно побили члени ЛФА. Католицька організація Ateitis з кожним днем ​​стає все більш войовничою, обурена бездіяльністю військових та захистом своїх священиків. Ходять чутки, що члени LSS також є прихильниками Вольдемараса - серйозна ознака того, що, можливо, база підтримки ЛФА більша, ніж на папері. Старий польський генерал Зеліговський наполегливо вимагає від уряду більш рішучих дій, інакше поляки організовуються та почнуть захищатись."
  LIT.260.a: "Ми маємо діяти!"
- 
+
  LIT.261.t: "Загадкова історія Kauno Radiofonas"
  LIT.261.d: "Два дні тому радіостанція Kauno Radiofonas раптово затихла, і її мовлення припинилося. Поліція, викликана стурбованими громадянами, була негайно викликана до штаб-квартири, але виявила лише порожню будівлю, а все обладнання таємниче зникло. Не встигла ця історія набути розголосу в національних газетах і стати надбанням громадськості, як загадка вирішилася сама собою - радіостанція Kauno Radiofonas знову почала передавати повідомлення. Послання було зрозумілим - це була мова ненависті до поляків, євреїв, німців та всіх інших "паразитів", що розбещували литовську націю. Ми спробували вистежити терористичне радіо, але безрезультатно, але вони не можуть завжди транслювати свою пропаганду."
  LIT.261.a: "Дайте зелене світло на знищення цієї пародії!"
- 
+
  LIT.262.t: "Агітація радіостанцій"
  LIT.262.d: "Поліції вдалося взяти штурмом одне з укриттів ЛФА, яке веде радіопропаганду. Після тривалого пошуку вся інформація про партію була зібрана та передана декільком членам уряду та армії. Провольдемараська змова здається глибшою, ніж передбачалося спочатку. Багато організацій, таких як Naujoji Romuva Антанаса Мацейни та Ateitis, християнська молодіжна організація, тісно пов'язана з ПЛНХ, були скомпрометовані ЛФА. Декілька членів були виключені з Ateitis, хоча, схоже, що корупція і аморалізм впливу ЛФА набагато глибші, ніж будь-хто міг припустити."
  LIT.262.a: "Вони вибрали не той бік."
@@ -2025,7 +2025,7 @@
  LIT.266.t: "Вольдемарас скинутий"
  LIT.266.d: "Під покровом темряви елітна литовська піхота потай просувалася вперед, поки не натрапила на місце, розкрите Алантасом і Мацейною, - невеликий комплекс у глибині литовського лісу. Безшумно розправившись із охороною, що патрулювала околиці, добровольці увірвалися до будівлі з автоматами наперевагу, і гуркіт пострілів луною рознісся лісом, порушивши тишу ночі. Сили ЛФА, що охороняли Вольдемарас, люто чинили опір до самого кінця, але багато з них були знищені, а поранені відразу ж здалися армії. Зрештою, стрілянина припиняється, і добровольці шукають Вольдемараса серед трупів та руйнувань, що залишилися після сутички. Його знаходять мертвим, з кулею в голові, і хоча неясно, чи був він застрелений у перестрілці чи наклав на себе руки, ясно одне - литовський Залізний Вовк упав."
  LIT.266.a: "Вовк мертвий..."
- 
+
  LIT.267.t: "Успішний рейд"
  LIT.267.d: "Підрозділи Королівської Литовської армії успішно захопили укриття ЛФА після короткої, але інтенсивної перестрілки. На жаль, більшості терористів вдалося втекти разом із їхньою схованою зі зброєю, проте, незважаючи на це, сутичка відзначається як перемога. Одне за одним укриття терористів зникають з карти, змушуючи злочинців відступати все далі в ліси та невеликі села у сільській місцевості, де у них все ще багато вірних прихильників."
  LIT.267.a: "Вперед!"
@@ -2041,7 +2041,7 @@
  LIT.270.t: "Немає контакту"
  LIT.270.d: "Останнім часом у лісах було тихо. ЛФА мовчали, безсумнівно, збираючись із силами, доки наші війська невпинно шукали їх укриття. Затишшя в насильстві дало хоробрим громадянам нашого королівства момент полегшення серед заколоту."
  LIT.270.a: "Тихо..."
- 
+
  LIT.271.t: "ЛФА росте"
  LIT.271.d: "Натхненний успішним нападом на короля Вітаутаса, Литовський Фронт Активістів (ЛФА) оголосив нинішній уряд [LIT.GetLeader] нелегітимною німецькою маріонеткою. Насильство почало охоплювати сільську місцевість, оскільки поки що некеровані підрозділи армії та поліції ледве можуть вийти зі своїх казарм.\n\nСхоже, що у найближчі тижні та місяці Литву чекає жорстока боротьба."
  LIT.271.a: "Це буде криваво."
@@ -2077,7 +2077,7 @@
  LIT.307.t: "Сходження Залізних Вовків"
  LIT.307.d: "Зрадники, зрадники, зрадники! Ці слова звучать у залі засідань ЛФА, коли Вольдемарас знову і знову викриває свого колишнього союзника Антанаса Мацейну. Його притягли на "суд" після кривавої битви між Вовками та людьми, люто відданими зрадницькій справі Мацейни. В інсценуванні суду з'ясовується, що Мацейна брав участь у змові з метою вбивства єдиного, справжнього лідера Литви - і ці одкровення виходять ні від кого іншого, як від Алантаса, який поділився своєю розповіддю про тіньові переговори про зраду, започатковані Мацейною. У вердикті ніхто не сумнівався - журі, обране Вольдемарасом, оголосило Мацейну та його організацію ворогами держави та засудило до страти через розстріл. Після того як постріли відправили одного з трьох на зустріч із Творцем, Вольдемарас звертається до свого співправителя Алантаса, що залишився, чия участь у змові багатьом здається сумнівною. Вольдемарас надає йому простий вибір - визнати Вольдемараса єдиним і суверенним правителем Литви, як і належить вірному послідовнику, або постати перед судом за участь у так званому Делі Мацейни. Практично під дулом пістолета Алантас розуміє, що його загнали в кут, і здається - таким чином Вольдемарас одним махом забезпечив собі становище, а Залізні Вовки готові служити своєму Таутосу Вадасу."
  LIT.307.a: "Зрадники."
- 
+
  LIT.310.t: "Зустріч з Анантасом Меркісом"
  LIT.310.d: "Керувати країною не так просто, як керувати армією, і тепер, коли війна з ЛФА закінчилася, громадянське населення прагне повернення до стабільності. Мер Каунаса, Анантас Меркіс запропонував генералу Плехавічюсу свою підтримку у досягненні цієї мети. Будучи лідером сумнівної чесності та дивних фінансових справ, він, проте, має досвід управління, якого, безумовно, не вистачає армії.\n\nЗ його допомогою Плехавічюс сподівається, що до його режиму приєднаються інші люди зі схожими поглядами, створивши ефективну громадянську бюрократію."
  LIT.310.a: "Якщо він буде на нашому боці, це піде на користь усім."
@@ -2124,7 +2124,7 @@
  LIT.330.a: "Розширити констеблі. Литва має захищати себе сама."
  LIT.330.b: "Схвалити ці єврейські підрозділи - поки вони тимчасові."
 
- LIT.331.t: "Польський ірредентизм" 
+ LIT.331.t: "Польський ірредентизм"
  LIT.331.d: "Польський націоналіст Маріан Зиндрам-Косчалковський закликав поляків у Бялистоку до відокремлення від Литви. Колишній член Союзу Активної Боротьби, польської організації незалежності, Косцялковський використав ЛФА як причину і для повстання проти бачення Нарутовичем нової Литви, заявляючи, що це аморально та корумповано, що уряд допускає такі звірства проти поляків. Заявив, що Бялисток не литовський, а польський, він залучив до себе велику підтримку у Білостоку, і багато жителів міста відкрито висловили свою підтримку."
  LIT.331.a: "Чорт би взяв цю людину."
 
@@ -2159,12 +2159,12 @@
  LIT.339.t: "Створення Швейцарії Сходу"
  LIT.339.d: "Нарутович після довгих дискусій з умами Стасіса Шалкаускіса та Степонаса Кайріса, а також черпаючи натхнення у багатонаціональних державах, таких як Швейцарія та [BEL.Getname]. Він заявляє, що на противагу цьому новому явищу 'націоналізму' він хоче просувати в Краївці ідею 'литовства', яка черпає ідентичність із Великого князівства Литовського.\nТому він збирається створити кілька округів 'апскритис/повітів' в межах Королівства, хоча, схоже, вони засновані на старих адміністративних районах Королівства, які самі розбиті за етнічною ознакою. Хоча не всі згодні з такою моделлю управління."
  LIT.339.a: "Нарутович має над чим попрацювати."
- 
+
  LIT.340.t: "Статус колишніх членів ЛФА"
  LIT.340.d: "За допомогою Сметони, Нарутович вдалося уникнути затяжної громадянської війни між силами ЛФА і лояльними уряду, дозволивши помилування колишніх членів ЛФА. Наразі з'ясувалося, що невелика частина колишніх членів ЛФА бажає повернутися до своїх колишніх військових функцій у складі новоствореної литовської армії та подала відповідне прохання до Сейму. Це викликало неоднозначну реакцію: одні хочуть дати цим людям шанс виправитися, а інші не хочуть, щоб їхня присутність отруювала щойно створений колодязь."
  LIT.340.a: "Одні можуть служити, інші втратили довіру."
  LIT.340.b: "Вони можуть продемонструвати свою новонабуту відданість у складі авангардних підрозділів."
- 
+
  LIT.341.t: "Школи, які підтримує Бундас"
  LIT.341.d: "Між ПЛНГ та Бундас було укладено угоду про дозвіл гімназіям мати єврейську навчальну програму, хоча офіційної угоди про фінансування не було. Хоча Нарутович підтримує субсидування цих єврейських гімназій, схоже, що останнє слово в цьому питанні залишається за ПЛНГ, а стара гвардія все ще намагається заявити про себе, стверджуючи, що бундівці, як і ті, хто хоче відвідувати світську школу, мають утримувати гімназії за рахунок власних коштів."
  LIT.341.a: "Ні, ми підтримаємо наших братів-литваків."
@@ -2192,7 +2192,7 @@
  LIT.347.t: "Порядок відновлено"
  LIT.347.d: "Желіговський вірно доводить свою відданість Нарутовичу, намагаючись повалити Зиндрама-Косцялковського. Бажаючи уникнути кровопролиття, Желіговський використовує Antrasis Departamentas, нещодавно створене розвідувальне агентство, щоб знайти та виявити Зиндрама-Косцялковського. Декілька агентів Antrasis Departamentas підкидають зброю Зиндраму-Косцялковському та його людям. Справа не була безкровною, але закінчилася затримання Зиндрама-Косцялковського. Тепер, коли змію відрубали голову, тіло померло і померти, Бялисток тепер був захищений. Хоча Плехавічіус, що причаївся на півночі, створює нові проблеми."
  LIT.347.a: "Зі сковорідки..."
- 
+
  LIT.348.t: "Питання наступності"
  LIT.348.d: "Король Литви помер, не маючи ні синів, ні дочок. Хоча він має двох молодших братів, які могли б успадкувати трон, вони не готові очолити країну.\n\nОскільки жодна з основних партій у Литві не виступає за швидку наступність, а населення втомилося від нового монарха, уряду надається унікальна можливість проголосити республіку.\n\n[LIT.GetLeader] - розумний політик, і знає, що потрібно серйозний політичний капітал, щоб переконати [GER.GetNameDef] погодитися."
  LIT.348.a: "Чи будуть німці скаржатися?"
@@ -2205,15 +2205,15 @@
  LIT.350.d: "На подив усіх основних учасників литовської політики, [FROM.GetNameDef] дійсно погодився дозволити перетворення Литви на республіку.\n\nНа даний момент [ROOT.GetLeader] залишиться при владі як президент, а Асіс поки продовжить керувати Литвою."
  LIT.350.a: "Що ж, настав час помістити корону в музей."
 
- LIT.351.t: "Дивовижна сесія в Сеймі" 
+ LIT.351.t: "Дивовижна сесія в Сеймі"
  LIT.351.d: "У дивовижній промові перед Сеймом Нарутович оголосив про свою відставку, шокувавши всіх присутніх. Забезпечивши стабільність і республіку для Литви, він вирішив піти з посади регента.\n\nНовим главою держави стане президент, який буде обраний Сеймом після нових виборів за місяць."
  LIT.351.a: "Хто може обійняти цю посаду?"
 
- LIT.352.t: "Формування нових партій" 
+ LIT.352.t: "Формування нових партій"
  LIT.352.d: "Після офіційного розпуску коаліції Асіс, оскільки за місяць мають відбутися нові вибори, політична сцена Литви перебуває у сум'ятті. Альянси створюються і розпадаються день за днем, щодня розважаючи тих, хто читає газети, і викликаючи масове замішання тих, хто не робить цього регулярно."
  LIT.352.a: "Я люблю демократію."
 
- LIT.353.t: "Вибори в Республіці Литва" 
+ LIT.353.t: "Вибори в Республіці Литва"
  LIT.353.d: "Поки нові партії та спілки формують політику, проходять перші вибори у новій Республіці Литва. Виборці прийшли на виборчі дільниці, і тепер країна чекає на результати з прихованим диханням.\n\nОбидві традиційні партії мають шанси на перемогу, але як темний конячка виступає ліберальна партія Сантара, яка посилилася в результаті реорганізації політики, і багато хто вбачає в ній наступника політики Нарутовича."
  LIT.353.a: "ПЛНХ прийшла до влади під керівництвом Стасіса Шалкаускіса!"
  LIT.353.b: "ЛСДП перемагає, і Стяпонас Кайріс стає новим лідером Литви!"
@@ -2224,7 +2224,7 @@
  LITFLA.1.a: "Зрештою, вони говорять литовською."
 
  LITFLA.2.t: "Валкавіскас - Вовче виття"
- LITFLA.2.d: "Валкавіскас, найбільше південне місто Королівства Литви, унікальне з кількох причин. Одна з них полягає в тому, що місто розділене між білорусами, євреями та поляками, кожне з яких займається своїми повсякденними справами. На відміну від литовських євреїв у Градинах, євреї Валкавіскаса є польськомовними та не мають жодного зв'язку з Бундасом. Економіка міста в основному заснована на виробництві машин, хоча, в основному через політизованість міста, ця область гостро потребує інвестицій. У місті не було реальних націоналістичних рухів, хоча багато хто з білоруського населення, на відміну від своїх північних 'ексцентричних' кузенів, у культурному відношенні більше дивляться на Мінськ, ніж на Вільнюс." 
+ LITFLA.2.d: "Валкавіскас, найбільше південне місто Королівства Литви, унікальне з кількох причин. Одна з них полягає в тому, що місто розділене між білорусами, євреями та поляками, кожне з яких займається своїми повсякденними справами. На відміну від литовських євреїв у Градинах, євреї Валкавіскаса є польськомовними та не мають жодного зв'язку з Бундасом. Економіка міста в основному заснована на виробництві машин, хоча, в основному через політизованість міста, ця область гостро потребує інвестицій. У місті не було реальних націоналістичних рухів, хоча багато хто з білоруського населення, на відміну від своїх північних 'ексцентричних' кузенів, у культурному відношенні більше дивляться на Мінськ, ніж на Вільнюс."
  LITFLA.2.a: "Машини... цікаво... я думаю."
 
  LITFLA.3.t: "Додаткові вибори до Науйойї-Вільні"
@@ -2244,13 +2244,13 @@
  LITFLA.6.d: "Литовське Національне Відродження у другій половині XIX століття не відрізняється від рідного руху за помірність. Започатковане єпископом Мотеюсом Валанчюсом в 1858 році, воно охопило більшість селянського населення Литви всього за кілька років, перш ніж було придушене владою царської Росії. Цей рух вважається однією з основних подій у розвитку Литовського Національного Відродження, оскільки він був розпочатий з націоналістичними намірами - покращити економіку та народ країни, просувати католицькі ідеали та протистояти переважній політиці царизму заплющувати очі на алкоголізм, щоб тримати населення у стані сп'яніння і таким чином легко контролювати.\n\nКаунаські священики відродили рух за помірність у 1908 році у формі Литовського католицького братства за помірність. З того часу він став важливим масовим рухом і групою тиску в литовській політиці, об'єднуючи понад шістдесят тисяч членів, а також підтримуючи тісні союзи з іншими релігійними організаціями Литви. Виникла ідея подальшого просування цього братства та використання його як інструмент для навіювання населенню християнської етики та переконань, одним із яких є помірність."
  LITFLA.6.a: "Жоден добрий християнин не повинен торкатися слини диявола!"
  LITFLA.6.b: "Що поганого в тому, щоб трохи випити?"
- 
+
  LITFLA.7.t: "Литвини, тутейші та інші"
  LITFLA.7.d: "Довга та надзвичайно складна історія регіону, який нині утворює Королівство Литва, робить його повним та абсолютним кошмаром для тих, хто звик до жорсткої, роздільної національності. Багаторічне проживання численних етносів під владою одного Великого князівства і пам'ять про цю конструкцію, що збереглася надовго після 1795 року, сформували на нашій території різні змішані групи, що важко класифікуються.\n\nХоча литовці - балтійський народ, це не означає, що всі, хто оголошує себе литовцями, розмовляють цією мовою. Багатовікова культурна близькість та єдність під однією нацією призвели до того, що багато білоруськомовних народів, особливо аристократи та інтелігенція, ототожнюють Литву зі своєю батьківщиною, сприймаючи її не як національну державу, а як мультикультурний союз різних націй, культур та мов. Цих людей називають литвинами.\n\nБагато жителів Вільнюського регіону, особливо бідне селянство та пролетарі, взагалі не відносять себе до якоїсь конкретної нації. Живучи в осередку численних мов і культур, вони не вважають себе частиною якоїсь із них, говорять на суміші білоруської, литовської та польської мов, відомої як "мова проста", і відомі як "тутейші", або "місцеві жителі", як вони заявили б про свою національність під час перепису населення.\n\nДовгий час литовські переписи визначали народи за їхньою рідною мовою і повністю уникали питання про національність з цієї причини, але через внутрішній тиск, щоб почати включати національність у дані переписи, нам доведеться вирішити, як ми хочемо ставитися до литвинів, здешевих та інших складних. етнічним групам."
  LITFLA.7.a: "Литвини, білоруси, тутейші, всі вітаються у Литві!"
  LITFLA.7.b: "Литвини, білоруси, тутейші, всі – діти Божі!"
  LITFLA.7.c: "Принаймні вони задовольняються тим, що розмовляють литовською мовою..."
- 
+
  LITFLA.8.t: "Пам'яті Вінцаса Кудирки"
  LITFLA.8.d: "У 1938 році виповнюється вісімдесят років від дня народження Вінцаса Кудирки, одного з поборників Литовського Національного Відродження та редактора газети 'Варпас' ('Колокол'), однієї з двох перших газет, надрукованих та виданих литовською мовою. За сорок років свого життя Кудирка багато зробив у ім'я литовської нації, зокрема, написав гімн 'Tautiška giesmė', який відтоді став національним гімном Литви. На відміну від свого соратника з національного відродження Йонаса Басанавічюса, Вінцас Кудирка мав набагато певнішу політичну програму. Він вважав, що один патріотизм не зможе відродити литовську націю, тому обов'язок його покоління – просвітлювати литовське селянство, покращувати його життя та боротися в ім'я соціальної справедливості. Хоча він помер у 1899 році, так і не дочекавшись незалежності Литви, його думки глибоко вплинули на Литву з того часу. Кажуть, що Вінцас Міцкявічюс-Капсукас, відомий лідер литовських радикальних соціалістів, вибрав собі псевдонім на честь Кудирки - псевдонім Кудирки був 'Капсас', а Міцкявічюс був лише 'Капсукас', що означає 'маленький Капсас'. З іншого боку політичного спектру, праві литовські націоналісти також вимагають збереження пам'яті про нього, відзначаючи його позицію проти полонізації та націоналістичні погляди.\n\nНа честь цієї річниці у Вільнюсі планується спорудити статую Вінцасу Кудірку за проектом скульптора Вінцаса Грибаса. У той же час ми можемо висунути свою власну версію про Кудирка. Зменшуючи одні факти його життя і звеличуючи інші, ми можемо перетворити історичну пам'ять на політичну зброю. Яким його мають пам'ятати майбутні покоління?"
  LITFLA.8.a: "Поборник справи етнічних литовських націоналістів!"
@@ -2267,7 +2267,7 @@
  LITFLA.10.d: "3 травня, дата підписання та проголошення Конституції Речі Посполитої у 1791 році, є однією з найважливіших дат в історії Польщі, а з моменту заснування незалежної Литви на польсько-литовську громаду чинився тиск з метою зробити цей день пам'ятним і тут. Це була перша Конституція, опублікована в Старому Світі, і хоча вона діяла всього менше року, вона вплинула на політичну думку регіону, ставши кульмінацією думки епохи Просвітництва в Польщі та Литві. Однак, якщо в польській історичній пам'яті вона має незаперечне значення, то серед литовців вона не має такої поваги. Зрештою, це була та сама Конституція, яка намагалася скасувати Велике князівство Литовське і створити на його основі унітарне Королівство Польське - і хоча це було запобігло взаємній гарантії двох народів через кілька місяців після цього, це не змінює того факту, що ця Конституція розглядається як щось 'іноземне', а не як щось 'литовське' так само, як і 'польське'.\n\nНезважаючи на це, тиск із метою визнання 3 травня пам'ятною датою залишається. Чи маємо ми піддатися тиску чи дотримуватися думки, що це не та дата, яку Литва має відзначати?"
  LITFLA.10.a: "Ця дата - пам'ять про прекрасний союз, колись втрачений..."
  LITFLA.10.b: "Ця подія запам'яталася полякам. Не литовцям."
- 
+
  LITFLA.11.t: "Смерть Сильвестраса Жукаускаса"
  LITFLA.11.d: "Наш генерал, Сільвестрас Жукаускас, нещодавно помер у віці 76 років. Раніше служив у кавалерійському підрозділі в армії Російської Імперії, він швидко піднявся службовими сходами під час Російсько-Японської війни і врешті-решт став генерал-майором в 1916 завдяки своїй службі у Вельткризі. Після укладання Брест-Литовського договору, Сильвестрас Жукаускас надалі служив новоствореній незалежній державі Литва."
  LITFLA.11.a: "Ilsėkis ramybėje."
@@ -2301,11 +2301,11 @@
  LITFLA.18.t: "Vairas йдуть праворуч"
  LITFLA.18.d: "У той час як усі члени ЛФА прагнуть звільнити Литву від іноземного впливу, інші порушують питання про те, як сталося її поневолення і як уникнути цього вдруге. Цей рух, найбільш права фракція ЛФА, відомий як 'Vairas' ('Колесо'), за назвою націоналістичного журналу, який їх послідовники захопили у 1930-х роках, а їх лідером є письменник та ідеолог Вітаутас Алантас.\n\nАлантас заявляє, що Литві недостатньо звільнитися від німецького панування - метою ЛФА має бути формування справді "національної ідеології", звільнення литовців духовно, культурно і фізично, бо поки вони думають як раби і бачать себе рабами, вони залишатимуться рабами. На його думку, перше національне відродження було невдалим, оскільки воно не змогло сформувати справді вільну литовську державу, тому Vairas мають стати прапороносцями другого відродження, яке триватиме вічно. Він зневажає християнство, вважаючи його іноземним впливом, нав'язаним литовцям, і замість цього звертається до язичницьких традицій, які, на думку Алантаса, є найвірнішим виразом литовської національної ідентичності - він ідеалізує мрію, в якій литовська нація підпорядкована істинно націоналістичному суспільству під керівництвом лідера, Вадаса, громадяни якого готові віддати життя за націю, яка поклоняється традиціям давніх-давен замість 'психозу демократії'. Незважаючи на тоталітарні наміри, рух Vairas дотримується ліберальних економічних намірів, його лідери, такі як Домас Цесевичюс, заявляють, що Литовське Національне Відродження має створити суспільство, в якому кожен литовець зможе досягти благополуччя завдяки власним зусиллям та індивідуальним інноваціям.\n\n\nРух Vairas знаходиться в одному ряду з Литовським Активістським Фронтом, займаючи украй праву, тоталітарну націоналістичну нішу."
  LITFLA.18.a: "Зрозуміло..."
- 
+
  LITFLA.19.t: "Грінорія"
  LITFLA.19.d: "Після Громадянської війни в Америці, що охопила континент, багато хто виїхав до Європи, щоб повернутися на батьківщину своїх предків. Хоча Литва останніми місяцями теж не була маяком стабільності, деякі біженці знайшли свій шлях сюди.\n\nОскільки вони не мають зв'язків, а деякі молоді навіть не розмовляють литовською, вони інтегруються повільно. Ця проблема буде вирішена лише за втручання держави."
  LITFLA.19.a: "Нещасні душі..."
- 
+
  LITFLA.20.t: "Ігнас Шейнюс - Червоний потоп"
  LITFLA.20.d: "Ігнас Шейнюс, найвідоміший литовський письменник-імпресіоніст, нещодавно опублікував нову книгу 'Raudonasis tvanas' ('Червоний потоп'), яка щойно подолала литовську в'язницю літературної невідомості.\n\nЯк і його знаменитий 'Купреліс', 'Червоний потоп' (Red Flood) - це захоплююча імпресіоністська розповідь про історію кохання двох молодих людей у ​​розділеній країні, але особливо цікаво, так це місце дії. Дія роману відбувається в альтернативному часі, де Брусилівський наступ був успішним і вибив Австро-Угорщину з 'Вельткріга' у 1916 році. Це призводить до ланцюга подій, що закінчуються перемогою Антанти. Німеччина охоплена революцією і стає синдикалістською державою, а в Росії відбувається переворот під керівництвом Колчака, підтриманий чорносотенцями, і вона стає тоталітарною ультранаціоналістичною диктатурою. Європа незабаром знову втягується у війну, і Литва стає лінією фронту, кривавою лазнею між німцями та росіянами, де навіть найсильніші чоловіки гинуть та вмирають за лічені хвилини. Кінець роману натякає на можливий прорив росіян, а також на морське вторгнення Британської Імперії, яка все ще існує...\n\nКнигу критикували за жахливі описи жорстокості та військових злочинів, але Шейнюс захищає свою розповідь, кажучи, що щось подібне могло статися в іншому Всесвіті'."
  LITFLA.20.a: "Він намагається зробити цей Всесвіт якомога поганішим?"
@@ -2381,7 +2381,7 @@
 
  LIT_edvardas_adamkavicius: "Edvardas Adamkavičius"
  LIT_edvardas_adamkavicius_commander_desc: ""
- 
+
  LIT_wilhelm_von_urach: "Wilhelm von Urach"
  LIT_wilhelm_von_urach_regnal: "Mindaugas IV"
  LIT_wilhelm_von_urach_leader_desc: ""

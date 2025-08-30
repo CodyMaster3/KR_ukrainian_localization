@@ -1,4 +1,4 @@
-name="Kaiserreich:  Ukrainian Localization"
+name="Kaiserreich: Українська локалізація"
 version="0.9.3"
 tags={
 	"Translation"
@@ -8,5 +8,5 @@ dependencies={
 }
 picture="thumbnail.png"
 supported_version="1.16.*"
-path="C:/Users/New/Documents/Paradox Interactive/Hearts of Iron IV/mod/Kaiserreich  Ukrainian Localization"
+path="C:/Users/New/Documents/Paradox Interactive/Hearts of Iron IV/mod/Kaiserreich Українська локалізація"
 remote_file_id="2826209198"

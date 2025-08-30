@@ -1,5 +1,5 @@
 name="Kaiserreich:  Ukrainian Localization"
-version="0.9"
+version="0.9.3"
 tags={
 	"Translation"
 }

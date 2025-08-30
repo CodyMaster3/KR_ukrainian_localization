@@ -8,5 +8,4 @@ dependencies={
 }
 picture="thumbnail.png"
 supported_version="1.16.*"
-path="C:/Users/New/Documents/Paradox Interactive/Hearts of Iron IV/mod/Kaiserreich Українська локалізація"
 remote_file_id="2826209198"

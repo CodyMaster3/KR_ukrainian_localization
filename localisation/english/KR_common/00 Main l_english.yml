@@ -10,7 +10,6 @@
 
 ### Main Menu ###
  play_in_english_tt: "Розкажіть про українську локалізацію вашим знайомим. Хай квітне укр. спільнота!"
- savegame_crash_workaround_tt: "§YHOI4 1.15.4 вийшла 21 січня 2025.§!\n§5На жаль, багато збережень, створених до її виходу, миттєво вилітають при звичайному завантаженні.§!\n\n§YЯкщо це торкнулося будь-якої з ваших кампаній, спробуйте наступне:§!\n£white_dot §tНе завантажуйте гру§! безпосередньо з головного меню або натисканням кнопки \"Продовжити\" в лаунчері.\n£white_dot Натомість, §5почніть нову гру§! й завантажтеся.\n£white_dot Відкрийте ігрове меню і завантажтеся у потрібне збереження, натиснувши \"§5Завантажити гру§!\"."
 
 ### Splash Screen ###
  KR_welcome_splash_tab_1: "Країна"
@@ -22,6 +21,7 @@
  ## TAB 1 - all needed to avoid starting errors ##
  KR_welcome_splash_tab_1_header: "[ROOT.GetCountryIntroHeader]"
  KR_welcome_splash_tab_1_content: "[ROOT.GetCountryIntroContent]"
+ country_intro_background: "GFX_KR_default_intro"
  country_intro_header: "$KR_scenario_name$"
  country_intro_header_1: "$KR_scenario_desc$"
  country_intro_header_2: "$KR_scenario_desc$"
@@ -36,6 +36,8 @@
  country_intro_content_4: "$KR_scenario_desc$"
  country_intro_content_5: "$KR_scenario_desc$"
 
+ country_intro_page_indicator: "[GetCurrPageCountryIntro]/[GetPageCountCountryIntro]"
+
  guide: ""
  guide_1: ""
  guide_2: ""
@@ -46,34 +48,36 @@
  KR_welcome_splash_tab_2_header: "[ROOT.GetNameDefCap]"
  KR_welcome_splash_tab_2_content: "[GetCountryGuide]"
 
+ country_guide_page_indicator: "[GetCurrPageCountryGuide]/[GetPageCountCountryGuide]"
+
  ## TAB 3 ##
  KR_welcome_splash_tab_3_content: "§YЗверніть увагу на наступне:§!\n£white_dot \n£white_dot \n£white_dot \n\n£white_dot \n\n£white_dot \n\n\n\n§YПовідомлення про проблеми:§!\nЦей мод все ще знаходиться в розробці, тому можливі баги та вильоти. Якщо у вас виникнуть проблеми, повідомте про них нашому §Yтрекері проблем на GitHub§!, щоб допомогти нам швидко їх виправити. Посилання можна знайти в меню паузи."
  KR_welcome_splash_tab_3_content_0: "Кайзеррайх накладає обмеження на дипломатичні дії, такі як §Rранні війни§!, §Rсоюзи§!, та §Rрівні автономії§!.\nКайзеррайх також включає §CЛіміти дивізій§! та §CДемобілізаційну§! механіку для покращення продуктивності наприкінці гри.\nПротягом §YМирної конференції§!, обов'язково анексуйте всі можливі регіони. Ви зможете пізніше звільнити країни з анексованих територій через §Cрішення§!.\n§YСпеціальні правила гри§! - це меню налаштувань, що дозволяє налаштувати багато параметрів, зокрема §CДолі країн§!, §CПершість гравця під час мирних конференцій§!, та §CState and Country Transfer Tool§!.\n§YМеню параметрів у грі§! можна відкрити, натиснувши значок орла у верхньому правому куті. Це дозволяє регулювати §Cчастоту подій та новин§! і включити §Cдинамічне перейменування§! регіонів та міст."
 
  ## TAB 4 ##
- KR_CURRENT_VERSION: "1.4.3"
- KR_CURRENT_VERSION_NAME: "Серед блакитних морів"
+ KR_CURRENT_VERSION: "1.5.1"
+ KR_CURRENT_VERSION_NAME: "Дивовижний новий світ"
  KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
  KR_welcome_splash_tab_4_upper_header: "§YЛаскаво просимо до $KR_CURRENT_VERSION_COMBINED$§!"
  KR_welcome_splash_tab_4_lower_header: "Створено з любов’ю командою Kaiserreich:§!"
  KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$"
- 
- KR_welcome_splash_tab_4_content_0: "Наша команда з усіх куточків світу наполегливо працювала, щоб презентувати вам нову версію, і ми раді, що ви вирішили пограти в неї.\n\nМи сподіваємося, що вам сподобається грати в Kaiserreich так само, як нам!"
- KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Angel  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Cassrabbit"
- KR_welcome_splash_tab_4_content_2: "Carmain  ·  Cazadorian  ·  ClawedAsh  ·  Chazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody"
- KR_welcome_splash_tab_4_content_3: "DerEherneRächer  ·  DuoDex  ·  El Daddy  ·  falling_robin  ·  Fedex  ·  Flamefang"
- KR_welcome_splash_tab_4_content_4: "Frill Shark  ·  Gaboemi  ·  Hamfast  ·  Hazo  ·  Ido  ·  Igor050301  ·  JazzyHugh"
- KR_welcome_splash_tab_4_content_5: "Jeankedezeehond  ·  Jonny BL  ·  Kano  ·  katieluka  ·  kergely  ·  KFateweaver  ·  Klyntar King"
- KR_welcome_splash_tab_4_content_6: "Krčo  ·  lehmannmo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  MrMano  ·  ~mw~ // miwaco."
- KR_welcome_splash_tab_4_content_7: "Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Remington  ·  Rnk  ·  Rune  ·  Shiroe"
- KR_welcome_splash_tab_4_content_8: "Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha  ·  The Alpha Dog  ·  The Irredentista"
- KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
+
+ KR_welcome_splash_tab_4_content_0: "Наша команда з усіх куточків світу наполегливо працювала над створенням цієї нової версії, і ми надзвичайно вдячні, що ви вирішили в неї грати.\n\nМи сподіваємося, що вам сподобається грати в Kaiserreich так само, як нам сподобалося його створювати!"
+ KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Angel  ·  Amber  ·  Anthony OliveOil  ·  Arvidus  ·  Augenis  ·  AwsomeGuy49  ·  Blackfalcon501"
+ KR_welcome_splash_tab_4_content_2: "Blackleaf  ·  Cassrabbit  ·  Carmain  ·  Cazadorian  ·  ClawedAsh  ·  Chiang Kai-shrek  ·  Chiron29"
+ KR_welcome_splash_tab_4_content_3: "Cody  ·  Deliberus  ·  DerEherneRächer  ·  DidSomethingOnce  ·  DuoDex  ·  El Daddy  ·  falling_robin"
+ KR_welcome_splash_tab_4_content_4: "Fedex  ·  Flamefang  ·  Frill Shark  ·  Gaboemi  ·  Georgy  ·  Gre  ·  Hamfast  ·  Hazo  ·  Hexcron"
+ KR_welcome_splash_tab_4_content_5: "Ido  ·  Igor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  jerv  ·  Jonny BL  ·  Kano  ·  katieluka"
+ KR_welcome_splash_tab_4_content_6: "kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  lehmannmo  ·  Matoro  ·  McOmghall  ·  MrMano"
+ KR_welcome_splash_tab_4_content_7: "~mw~ // miwaco.  ·  Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Rnk ·  Sasha  ·  Shiroe"
+ KR_welcome_splash_tab_4_content_8: "Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian"
+ KR_welcome_splash_tab_4_content_9: "The Irredentista  ·  The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
 
 ### Career Profile ###
  KAISERREICH_CAREER_PROFILE: "Кайзеррайх"
 
 ### Diplomacy Tooltips ###
- REQUEST_EXP_FORCE_BLOCKED_TT: "§RЦя країна не дозволяє вам запитувати їхні сили.§!"
+ REQUEST_EXP_FORCE_BLOCKED_GENERIC_TT: "§RЦя країна не дозволяє вам запитувати їхні сили.§!"
  
  EMBARGO_THREAT_TT: "§RСвітова напруженість має бути вищою за §Y50%§!.§!"
  EMBARGO_OPINION_TT: "§R- §Y[FROM.GetNameWithFlag]а§! думка про §Y[ROOT.GetNameWithFlag]§! має бути меншою за -50.§!"
@@ -85,7 +89,6 @@
  RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Відкликати всіх добровольців, відправлених до §Y[FROM.GetNameDef]§!?"
 
 ### Regular Tooltips ###
- returned_all_expeditionary_forces_of_puppets: "Повернув усі експедиційні сили, надіслані маріонетками"
  puppet_but_keep_government_tt: "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! стає маріонеткою держави §H[to_be_overlord.GetName]§!, але зберігає поточний уряд."
 
  RULE_GUARANTEES_AFTER_WK2_TT: "§RДо початку Другого Вельткрігу гарантії можуть бути зроблені лише через національні фокуси, події та рішення.§!"

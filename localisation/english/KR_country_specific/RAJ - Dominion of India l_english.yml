@@ -474,9 +474,9 @@
  RAJ_guide: "§MThe Promised Elections§!\n£white_dot Complete the focus §YEnd the Indian Nightmare§! to activate the mission Impending Election.\n\n §MThe Unionists Hold On§! (§cSocial Conservative§!)\n£white_dot Have the §cUnionists§! have a bigger party popularity than the §mLiberals§! and the §lAIHRP§! once the mission Impending Election finishes.\n\n §MAscendance of the Liberal Federation§! (§mMarket Liberal§!)\n£white_dot Have the §mLiberals§! have a bigger party popularity than the §cUnionists§! and the §lAIHRP§! once the mission Impending Election finishes.\n\n §MThe All-India Home Rule Party Triumphs§! (§lSocial Liberal§!)\n£white_dot Have the §lAIHRP§! have a bigger party popularity than the §mLiberals§! and the §cUnionists§! once the mission Impending Election finishes."
 
 ### Events ###
- delhi.3.t: "Смерть короля Георга V"
- delhi.3.d: "Скинутий король Великої Британії, Георг V нарешті піддався хворобі, що мучила його відтоді, як на рідних островах прокотилася революція. Як глава держави Домініону Індії, Делі, його смерть, безумовно, викличе проблеми серед конкуруючих фракцій колишнього Раджа до коронації його сина, Едуарда."
- delhi.3.a: "Антанта впадає в жалобу."
+ raj.3.t: "Смерть короля Георга V"
+ raj.3.d: "Скинутий король Великої Британії, Георг V нарешті піддався хворобі, що мучила його відтоді, як на рідних островах прокотилася революція. Як глава держави Домініону Індії, Делі, його смерть, безумовно, викличе проблеми серед конкуруючих фракцій колишнього Раджа до коронації його сина, Едуарда."
+ raj.3.a: "Антанта впадає в жалобу."
  
 ## Black Monday Events ##
 

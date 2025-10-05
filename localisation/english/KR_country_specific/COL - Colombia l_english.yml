@@ -307,31 +307,31 @@
  COL_totalist_party_long: "Союз колумбійських тоталістів"
  
 ### Intro Screen ###
+ COL_country_intro_background: "GFX_COL_intro"
  COL_country_intro_header: "Місце Колумбії у світі"
  COL_country_intro_content: "Ослаблена громадянськими війнами (особливо 1899-1903 рр.), Колумбія визнала права США на будівництво Панамського каналу в рамках договору Хай-Бунан-Варілла 1903 року, завершивши конфлікт між двома країнами з цього приводу. Коли колумбійський конгрес відмовився ратифікувати договір, Сполучені Штати змусили Панаму відокремитися від Колумбії, компенсувавши це в проміжку між 1921-1930 роками, сумарно виплативши 25 мільйонів доларів. Колумбія офіційно визнала Панаму в 1921. Консерватори йшли шляхом модернізації країни та розширення мережі залізниць. З 1850 року Колумбія експортує тютюн і каву, після 1900 року до цього списку було додано (за допомогою американського капіталу) банани, а з 1905 року і нафту. Ліберали сформували уряд 1930 року, після чого провели земельну реформу, позбавивши землі великих власників, а також низку соціальних реформ, які привнесли економічні вигоди для середнього класу, робітничого класу і селян."
- col.1.a: "Яким би не було майбутнє, ми єдині"
- 
- COL_guide: "§MDemocracy Prevails§! (§SSocial Democrat§! / §cSocial Conservative§! / §lSocial Liberal§!)\n£white_dot During the elections choose either §SThe Liberals§! or §cThe Conservatives§!.\n£white_dot From the second election onwards, the Liberals become §lSocial Liberals§!.\n\n§MState of Emergency§! (§PPaternal Autocrat§!)\n£white_dot During the 1938 elections choose \"The army shall put an end to this chaotic democracy! Order must be restored.\"\n\n§MSocialism in the Andes§! (§RRadical Socialist§! / §rSyndicalist§!)\n£white_dot During the elections of 1938, you can elect the UNIR to turn §RRadical Socialist§!.\n£white_dot Alternatively, if you stayed democratic you will be able to elect the §rPartido Síndicalista Colombano§! in the 1946 Presidential Election.\n"
- 
+
+ COL_guide: "§MLiberales / Conservadores§! ($social_democrat_coloured$ / $social_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot During the elections choose either the §SLiberals§! or the §cConservatives§!.\n£white_dot From the second election onwards, the Liberals become §lSocial Liberals§!.\n\n§MAcción Nacional§! ($paternal_autocrat_coloured$)\n£white_dot During the 1938 elections choose \"The army shall put an end to this chaotic democracy! Order must be restored.\"\n\n§MUNIR§! ($radical_socialist_coloured$ / $syndicalist_coloured$)\n£white_dot During the elections of 1938, you can elect the UNIR to turn $radical_socialist_coloured$.\n£white_dot Alternatively, if you stayed democratic you will be able to elect the §rPartido Síndicalista Colombano§! in the 1946 Presidential Election.\n"
+
 ### Events ###
- col.2.t: "Президентські вибори 1938 року: Колумбія на роздоріжжі"
- col.2.d: "Президентські вибори вже почалися. Ліберальна партія на них хоче зберегти контроль над Президією, консерватори так само хочуть перемогти. Менш популярні, згідно з опитуваннями, партії здебільшого розкололися, однак із загальної маси вирізняються найпопулярніші з них: корпоратократи з Лос Леопардос і ліві з НСЛР, на чолі з харизматичним Хорхе Еліесером Гайтаном. Надходять повідомлення про сутички між прихильниками різних партій. За підтриманням порядку стежить Густаво Рохас Пенілла, який нещодавно повернувся з поїздки Рейхспактом, де уклав кілька оборонних контрактів і набрався досвіду в німецьких командирів. Отже, хто ж переможе?"
- col.2.a: "Ліберали!!"
- col.2.b: "Консерватори!"
- col.2.c: "Хорхе Гайтан за рахунок безлічі обіцянок народу стає президентом, а НСЛР та інші радикальні ліберали формують більшість у парламенті!"
- col.2.e: "Молодіжна Консервативна коаліція, очолювана корпоратократичними "Леопардос" несподівано отримує перемогу!"
- col.2.f: "Армія повинна покласти край цій хаотичній демократії! Порядок має бути відновлений"
+ colombia_events.2.t: "Президентські вибори 1938 року: Колумбія на роздоріжжі"
+ colombia_events.2.d: "Президентські вибори вже почалися. Ліберальна партія на них хоче зберегти контроль над Президією, консерватори так само хочуть перемогти. Менш популярні, згідно з опитуваннями, партії здебільшого розкололися, однак із загальної маси вирізняються найпопулярніші з них: корпоратократи з Лос Леопардос і ліві з НСЛР, на чолі з харизматичним Хорхе Еліесером Гайтаном. Надходять повідомлення про сутички між прихильниками різних партій. За підтриманням порядку стежить Густаво Рохас Пенілла, який нещодавно повернувся з поїздки Рейхспактом, де уклав кілька оборонних контрактів і набрався досвіду в німецьких командирів. Отже, хто ж переможе?"
+ colombia_events.2.a: "Ліберали!!"
+ colombia_events.2.b: "Консерватори!"
+ colombia_events.2.c: "Хорхе Гайтан за рахунок безлічі обіцянок народу стає президентом, а НСЛР та інші радикальні ліберали формують більшість у парламенті!"
+ colombia_events.2.e: "Молодіжна Консервативна коаліція, очолювана корпоратократичними "Леопардос" несподівано отримує перемогу!"
+ colombia_events.2.f: "Армія повинна покласти край цій хаотичній демократії! Порядок має бути відновлений"
  
- col.3.t: "Президентські вибори 1942 року"
- col.3.d: "Зі стабілізацією демократії в Колумбії та посиленням країни Гайтан та інші твердолобі ліберали потрапили до правлячої партії, а "Леопардос" упустили свій шанс. Тепер народ Колумбії має знову обрати свого президента, і його партія знову зможе взяти більшість."
- col.3.a: "Консерватори переможуть!"
- col.3.b: "Ліберали переможуть!"
+ colombia_events.3.t: "Президентські вибори 1942 року"
+ colombia_events.3.d: "Зі стабілізацією демократії в Колумбії та посиленням країни Гайтан та інші твердолобі ліберали потрапили до правлячої партії, а "Леопардос" упустили свій шанс. Тепер народ Колумбії має знову обрати свого президента, і його партія знову зможе взяти більшість."
+ colombia_events.3.a: "Консерватори переможуть!"
+ colombia_events.3.b: "Ліберали переможуть!"
  
- col.4.t: "Президентські вибори 1946 року"
- col.4.d: "Чи принесуть ці вибори країні більше єдності, чи навпаки ще більше розділять?"
- col.4.a: "Ліберали, єдино правильний вибір"
- col.4.b: "Консерватори стануть біля керма"
- col.4.c: "За селян, робітників і Колумбію - переможуть синдикалісти"
+ colombia_events.4.t: "Президентські вибори 1946 року"
+ colombia_events.4.d: "Чи принесуть ці вибори країні більше єдності, чи навпаки ще більше розділять?"
+ colombia_events.4.a: "Ліберали, єдино правильний вибір"
+ colombia_events.4.b: "Консерватори стануть біля керма"
+ colombia_events.4.c: "За селян, робітників і Колумбію - переможуть синдикалісти"
  
 ### Characters ###
  COL_gilberto_vieira: "Gilberto Vieira"
@@ -347,7 +347,7 @@
  COL_gustavo_rojas_pinilla: "Gustavo Rojas Pinilla"
  COL_eliseo_arango_ramos: "Elíseo Arango Ramos"
  COL_efrain_rojas: "Efrain Rojas"
- COL_luis_acevedo: "Luis Acevedo"
+ COL_luis_acevedo: "Луїс Асеведо Торрес"
  COL_mario_espinoza_gacitua: "Mario Espinoza Gacitua"
  COL_esteban_jaramillo: "Esteban Jaramillo"
  COL_eduardo_zalamea_borda: "Eduardo Zalamea Borda"
@@ -358,8 +358,8 @@
  COL_ruben_piedrahita_arango: "Ruben Piedrahita Arango"
  COL_congreso_de_la_republica: "Congreso de la República"
  COL_baldomero_sanin_cano: "Baldomero Sanin Cano"
- COL_guillermo_padilla_manrique: "Guillermo Padilla Manrique"
- COL_gabriel_paris_gordillo: "Gabriel Paris Gordillo"
+ COL_guillermo_padilla_manrique: "Ґільєрмо Паділья Манріке"
+ COL_gabriel_paris_gordillo: "Ґабріель Паріс Ґордільйо"
  COL_camilo_daza_alvarez: "Camilo Daza Alvarez"
  COL_arturo_lema_posada: "Arturo Lema Posada"
  COL_laureano_gomez: "Laureano Gomez"

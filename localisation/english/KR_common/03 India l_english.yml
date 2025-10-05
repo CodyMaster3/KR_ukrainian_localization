@@ -4,10 +4,6 @@
  ASM_ADJ:0 "Ассамськ"
  ASM_DEF:0 "Ассам"
  
- BNG:0 "Бенгалія"
- BNG_ADJ:0 "Бенгальськ"
- BNG_DEF:0 "Бенгалія"
- 
  BOM:0 "Махараштра"
  BOM_ADJ:0 "Махараштрськ"
  BOM_DEF:0 "Махараштра"
@@ -44,10 +40,6 @@
  PAK_punjab_ADJ:0 "Пенджабськ"
  PAK_punjab_DEF:0 "Пенджаб"
  
- PJB:0 "Халистан"
- PJB_ADJ:0 "Халистанськ"
- PJB_DEF:0 "Халистан"
- 
  RJS:0 "Раджастан "
  RJS_ADJ:0 "Раджастанськ"
  RJS_DEF:0 "Раджастан "
@@ -63,17 +55,12 @@
 ### World Tension ###
  indian_wars_threat:0 "Війна за об'єднання Індії"
 
-### Characters ###
- BNG_muzaffar_ahmad: "Muzaffar Ahmad"
+### Flags ###
+ india_united:0 "India is United" # (!)
 
+### Characters ###
  GUJ_bahman_pestonji_wadia: "Bahman Pestonji Wadia"
  GUJ_sayajirao_gaekwad_iii: "Sayajirao Gaekwad III"
-
- HYD_osman_ali_khan: "Osman Ali Khan"
- HYD_madapati_hanumantha_rao: "Madapati Hanumantha Rao"
- HYD_syed_ahmed_el_edroos: "Syed Ahmed El-Edroos"
- HYD_azam_jah: "Azam Jah"
- HYD_kasim_razvi: "Kasim Razvi"
 
  PAK_aga_khan_iii: "Aga Khan III"
  PAK_liaquat_ali_khan: "Liaquat Ali Khan"

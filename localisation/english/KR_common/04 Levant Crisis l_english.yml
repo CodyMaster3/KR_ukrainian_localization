@@ -12,102 +12,111 @@
  OTT_levant_crisis_initiative: "Levant Crisis: Counteroffensive"
 
 ### Operation Abu'l-A'war events
- palabu.1.t: "Operation Abu'l-A'war"
- palabu.1.d: "Faced with the insurmountable naval dominance of the Ottoman fleet, military theorists have in cooperation with Communard attachés developed a proposal to even the playing field. As an all-out attack on the Ottoman naval station would be impossible, a more radical plan has been formed.\n\nDuring the first hours of the war, in an attempt to catch the Ottomans off guard, a detachment of naval bombers would be sent to strike the Ottoman fleet near its station at Beirut. This would subsequently be followed up by a rapid push through the Sinai and Palestine (with the assistance of Syrian cells). It is a bold plan but should it work might even persuade the Greek government to take a side and keep the Turks busy in the Aegean."
- palabu.1.a: "Operation Abu'l-A'war is a go!"
-
- palabu.2.t: "The Blackburn Baffin"
- palabu.2.d: "The pinnacle of British Engineering, the Blackburn Baffin is a bi-plane naval bomber used in the Union of Britain. With preparations for operation Abu'l-A'war proceeding, the government of [ENG.GetLeader] has given the order to sell some of these planes to the Royal Army.\n\nTheir reliability goes without saying but many are questioning whether the planes will be able to resist Ottoman anti-air defences or their own modern and German-based airplanes."
- palabu.2.a: "Buy 30 of them"
- palabu.2.b: "This whole plan seems a waste of our resources..."
-
- palabu.3.t: "Successful Raid on Beirut"
- palabu.3.d: "Flying out under the cover of darkness, 20 Baffins successfully bombed the Ottoman fleet in its bases at Beirut. Taken by complete surprise as Turkish military command did not expect the Egyptian army to possess naval bombers, the damage was severe. Nonetheless losses were heavy on the Egyptian side as anti-air emplacements shot down 8 of the planes before they could drop their torpedoes with a further 7 failing to withdraw.\n\nAs the morning sun rose over the harbour, the gravity of the raid started to sink in. The former flagship of the Ottoman navy and pride of the Weltkrieg, the Yavuz Sultan Selim-i Evvel, received two direct hits and coupled with the damage endured during the last war was not able to remain afloat. The Sultan Abdulhamid-i Sani and Istanköy also received heavy blows, knocking them out of action for at least six months.\n\nThe attack which many deemed a certain failure has instead become a colossal victory for the Egyptians, causing great consternation from the Greek government and sending shockwaves as far as Cyprus."
- palabu.3.ott: "We will avenge our fallen brothers!"
- palabu.3.egy: "Onwards to final victory!"
-
- palabu.4.t: "Failed Raid on Beirut"
- palabu.4.d: "Sixteen Baffins would leave their base on the Mediterranean in the early morning and only 1 would return unscathed. The catastrophe started right at the beginning when instead of the planned 20 only 16 were able to take off. Those that did successfully depart would see their numbers further reduced when heavy weather blew them out of course and towards the Palestinian harbour of Haifa. Mistaking a German freighter for an Ottoman destroyer and intercepted by an Ottoman fighter squadron, 5 more planes were shot out of the sky with no damage to military installations. The remaining 11 quickly turned North in an attempt to reach Beirut but Turkish pilots succeeded in shutting down their attack. A singular bi-plane was able to return unscathed to its base near Alexandria after it broke away from the main squadron following the failed raid on Haifa.\n\nMany had expected that a successful attack would be highly unlikely but with such a crushing defeat dealt to the Egyptian air force, morale has taken a plunge. The cat is out of the bag however and as gendarmerie in Haifa inspects the damage, Egyptian troops cross the Suez. War has arrived at last."
- palabu.4.ott: "Tonight we dine in Cairo!"
- palabu.4.egy: "We will never forget their sacrifice!"
+ palabu.1.t: "Операція Абу аль-А'вар"
+ palabu.1.d: "Зіткнувшись із непереборним військово-морським пануванням османського флоту, військові теоретики у співпраці з аташе Комунарів, розробили спеціальну пропозицію, спрямовану на врівноваження шансів на успіх. Оскільки тотальна атака на османську військово-морську базу була неможлива, було розроблено радикальніший план.\n\nУ перші години війни, щоб застати османів зненацька, для завдання удару по османському флоту поблизу його бази в Бейруті буде направлений загін морських бомбардувальників. За цим піде швидке просування Синою та Палестиною (за допомогою сирійських угруповань). Це сміливий план, але якщо він спрацює, то може навіть вийде переконати грецький уряд стати на наш бік і зайняти турків у Егейському морі."
+ palabu.1.a: "Операція Абу аль-А'вар!"
+ 
+ palabu.2.t: "Бомбардувальник Blackburn Baffin"
+ palabu.2.d: "Вершина британської інженерії, Blackburn Baffin - це двоплощинний морський бомбардувальник, який використовується в Британському Союзі. Під час підготовки до операції Абу аль-А'вар, уряд [ENG.GetLeader] наказав про продаж деяких з цих літаків Королівської армії.\n\nЇх надійність не викликає сумнівів, але багато хто задається питанням, чи справді літаки зможуть протистояти османській протиповітряній обороні чи власним сучасним та німецьким літакам."
+ palabu.2.a: "Купуйте 30 штук"
+ palabu.2.b: "Весь цей план здається марною витратою наших ресурсів..."
+ 
+ palabu.3.t: "Успішний рейд на Бейрут"
+ palabu.3.d: "Злетівши під покровом темряви, 20 Baffin успішно розбомбили османський флот на його базах у Бейруті. Будучи захопленими зненацька, так як турецьке військове командування не очікувало, що єгипетська армія отримає у своє розпорядження морські бомбардувальники, збитки завдали величезної. Проте, втрати єгипетської сторони також були значними, оскільки зенітні установки збили 8 літаків, перш ніж вони змогли скинути свої торпеди, а ще 7 не змогли відступити.\n\nКоли над портом зійшло ранкове сонце, сила нальоту почала зменшуватися. Колишній флагман османського флоту і гордість Вельткріга, Yavuz Sultan Selim-i Evvel, отримав два прямі влучення і в поєднанні зі збитками, завданими під час останньої війни, не зміг залишитися на плаву. Sultan Abdulhamid-i Sani та Istanköy також отримали важкі удари, вибивши їх з ладу принаймні на шість місяців.\n\nНапад, який багато хто вважав за певну невдачу, натомість став колосальною перемогою для єгиптян, викликавши сильне потрясіння з боку грецького уряду і відправивши шокуючі хвилі аж до самого Кіпру."
+ palabu.3.ott: "Ми помстимось за наших загиблих братів!"
+ palabu.3.egy: "Вперед до остаточної перемоги!"
+ 
+ palabu.4.t: "Невдалий рейд на Бейрут"
+ palabu.4.d: "Шістнадцять Baffin рано-вранці залишили свою базу на Середземному морі і тільки один повернувся неушкодженим. Катастрофа почалася на самому початку, коли замість запланованих 20 лише 16 змогли злетіти. Ті, хто успішно відбув, ще більше скоротили свою чисельність, коли тяжка погода знесла їх зі шляху до палестинської гавані Хайфи. Помилково прийнявши німецький вантажний корабель за османський есмінець і перехоплений османською винищувальною ескадрильєю, ще 5 літаків було збито з неба, не завдавши жодної шкоди військовим об'єктам. Решта 11 швидко повернули на північ, намагаючись дістатися Бейрута, але турецьким пілотам вдалося зупинити атаку. Після невдалого нальоту на Хайфу єдиний біплан зміг безперешкодно повернутися на свою базу в районі Олександрії, відірвавшись від основної ескадрильї.\n\nБагато хто очікував, що успішна атака буде вкрай малоймовірною, але за такої нищівної поразки єгипетських ВПС моральний дух різко впав. Кішка, проте, вже випущена з мішка, і доки жандармерія в Хайфі оглядає ушкодження, єгипетські війська перетинають Суец. Війна нарешті почалася."
+ palabu.4.ott: "Сьогодні ввечері ми вечеряємо у Каїрі!"
+ palabu.4.egy: "Ми ніколи не забудемо їхню жертву!"
+  
+ palabu.5.t: "Завершений морський ремонт"
+ palabu.5.d: "Після успішного рейду на Бейрут лише шість місяців тому, Istanköy та Sultan Abdulhamid-i Sani були змушені пройти великомасштабний ремонт. Sultan Abdulhamid-i Sani був у особливо поганому стані, і якийсь час фахівці вважали, що йому точно знадобиться капітальний ремонт. Працюючи цілодобово, обидва кораблі були відновлені у боєготовому стані."
+ palabu.5.a: "Ми знову правимо морями!"
 
 ### Third Arab Congress
- palcon.1.t: "The Third Arab Congress"
- palcon.1.d: "After the first Arab Congress of 1913 in the buildings of the Parisian Société de Géographie, the Arab nationalist movement has seen a steady rise. Changing from the initially reformist ideas ushered by its founders who wanted to tackle the status of Arab within the Ottoman Empire, the Second Arab Congress of 1927 showed the new direction the wind was blowing. Hosted in Cairo just after the successful Egyptian revolution and Ottoman betrayal at the Suez, the dialogue was now controlled by radicals and greater Arab nationalists. Members of Al-Fatat, Hashemite exiles, Algerian revolutionaries, Palestinian desperados all came to the gathering to definitively shift the ideas of Arab nationalism. With the Italian threat dealt with and British presence in the Middle East almost fully eradicated due to the actions of Arab heroes in 1925, attention now shifted back to the Turks.\n\nAlthough the Second Congress didn't get any further than a few strongly worded letters and resolutions no one cared about, this is no longer true. The collapse of the German economy and the growing political instability in the Ottoman Empire have created a new sense of urgency across the entire Middle East. This Third Arab Congress will ultimately be little but a thinly masked attempt to combine all Arab efforts and eradicate the Turkish presence within the Mashriq. From Libya to the sands of the Arabian desert, many anxiously await the course our new King will set."
- palcon.1.a: "Send out the invitations"
+ palcon.1.t: "Третій арабський конгрес"
+ palcon.1.d: "Після Першого арабського конгресу 1913 року у приміщенні Французького географічного товариства, арабський націоналістичний рух неухильно зростав і розширювався. Відступивши від спочатку реформістських ідей, висунутих його засновниками, які хотіли лише поліпшити становище арабів в Османській імперії, Другий арабський конгрес 1927 показав новий напрямок. На конгресі, що проходив у Каїрі відразу після успішної Єгипетської революції і османської зради у Суеца, найбільший вплив мали радикали і панарабісти. Члени Аль-Фатат, вигнанці-Хашиміти, алжирські революціонери, палестинські повстанці – всі були присутні на зборах, щоб остаточно визначити напрямок арабського націоналізму. Після розпаду Італії та практично повної ліквідації британської присутності на Близькому Сході завдяки геройським діям арабів у 1925, увага знову була звернена на турків.\n\nХоча Другий конгрес не зайшов далі за кілька гучних заяв та безглуздих резолюцій, тепер ситуація повністю змінилася. Крах німецької економіки та зростаюча політична нестабільність в Османській Імперії призвели до наростання напруженості по всьому Близькому Сходу. Третій арабський конгрес буде нічим іншим, як погано замаскованою спробою об'єднати зусилля всіх арабів для усунення присутності Османа в Машрику. Від Лівії до Аравійської пустелі, багато хто з нетерпінням чекає на курс, який задасть наш султан."
+ palcon.1.a: "Розішліть запрошення"
+ 
+ palcon.2.t: "Запрошення на третій арабський конгрес"
+ palcon.2.d: "Організований єгипетським урядом, Третій арабський конгрес у Каїрі зібраний з метою об'єднати зусилля всіх арабів та визначити напрямок, у якому вони рухатимуться. Оскільки більша частина Машрика все ще страждає під владою Високої Порти, а араби Магріба поневолені французами, очевидно, що всі незалежні арабські держави повинні зібрати свої сили воєдино і прагнути звільнення своїх братів."
+ palcon.2.a: "Ми вирушаємо до Каїру!"
+ 
+ palcon.3.t: "[FROM.GetName] прийняв наше запрошення"
+ palcon.3.d: "Оскільки [FROM.GetName] є однією з небагатьох незалежних арабських держав у регіоні, уряд [FROM.GetLeader], не менший за наш зацікавлений в ослабленні впливу Порти, направив своїх офіційних представників до Каїра. Бажаючи дізнатися чи перетворимо ми свої слова на дії, [FROM.GetLeader] також послав з ними важливого члена своєї династії, щоб додати ваги делегації."
+ palcon.3.a: "Ласкаво просимо"
+ 
+ palcon.4.t: "Ємен надсилає делегацію"
+ palcon.4.d: "Незважаючи на формальний статус провінції Високої Порти і відмову підтримати арабське повстання в 1916 році, не секрет, що єменці не мають теплих почуттів до свого уряду в Стамбулі. Тому, незважаючи на пряму заборону Порти, імам [YEM.GetLeader] відправив свого представника до Каїру.\n\nОднак, на відміну від інших наших союзників, Ємен не поділяє наших амбіцій і зосереджений на внутрішніх справах. Якщо уряд Османа запропонує їм найкращі умови, нікого не здивує відмова імама підтримати наші починання."
+ palcon.4.a: "Вони таки прийшли..."
+ 
+ palcon.5.t: "Іран надсилає делегацію"
+ palcon.5.d: "Незважаючи на те, що Іран не отримав запрошення на конференцію на знак протесту проти поводження з арабами Хузестану за нового уряду, [PER.GetLeader] все ж таки відправив делегацію до Каїру.\n\nВуличні протести, організовані іракськими вигнанцями за підтримки Партії Єдності, не змогли перешкодити султанові Фаруку I наголосити на важливості мусульманської солідарності в ці непрості часи і прийняти іранських представників. Після недовгої плутанини делегації надали місце на конгресі, сподіваючись на досягнення компромісу."
+ palcon.5.a: "Ми вітаємо добропорядних панів із Тегерану"
+ palcon.5.b: "Вони тільки дарма місце посідають!"
+ 
+ palcon.6.t: "Ідріс I прибуває до Каїру"
+ palcon.6.d: "Лідер ордена Сенусія та противник підтримуваного османами Ахмада Шаріфа I, вигнаний Ідріс прибув до Каїра. Ідріс, який підтримував Антану в ході бойових дій у Лівії під час Вельткріга, був змушений бігти до Єгипту після краху італійського фронту. Тим не менш, багато лівійців досі вважають його законним правителем своєї країни, і протягом багатьох років він неухильно готував осередки опору для свого повернення."
+ palcon.6.a: "Справжній герой!"
+ 
+ palcon.7.t: "Виступ сирійської делегації"
+ palcon.7.d: "Безліч політичних вигнанців із Великої Сирії, які представляють різні таємні товариства Бейрута і Дамаска, відвідали конференцію, щоб обрушитися з критикою на порядки Османа на їх батьківщині. Найчастіше згадувалося Палестинське питання, оскільки сирійські делегати вважають існування Мутасаррифату "ляпасом усьому ісламському світу". Сирія має бути звільнена від турків, які використовують її лише для поповнення своєї скарбниці.\n\nВиступили також менш радикальні оратори, і навіть маронітам було дозволено озвучити свою думку. Заклики до діалогу між різними народами Великої Сирії і навіть допуск можливості договору з єврейськими поселенцями призвели до спекотних суперечок, і після того, як представник з Яффи кинув сандал у свого колегу з Алеппо, була оголошена коротка перерва і бешкетника вивели із зали."
+ palcon.7.a: "Ми підтримуємо сирійський народ!"
+ 
+ palcon.8.t: "Виступ іракської делегації"
+ palcon.8.d: "Після того як промовець з Єрусалиму закінчив свою промову про загрозу, яку сіонізм представляє для всіх нас, слово було надано делегації з Іраку. Проголосивши свою підтримку нашим братам у Палестині, вони закликали присутніх не забувати про другу загрозу арабському народові. Іран може і намагається уявити себе другом арабів, але само собою зрозуміло що це робиться лише для ослаблення супротивника в Анатолії та експлуатації арабів Іраку після того, як осяде пил.\n\nОднак представник з Мосула не встиг закінчити свою промову, оскільки делегація з Ірану почала протестувати проти цих звинувачень. Можливо, нам варто зосередитися на спільних ворогах замість створення нових, не розібравшись попередньо зі старими противниками? Так як напруга в залі вдруге почала різко зростати, була оголошена чергова коротка перерва."
+ palcon.8.a: "За вільний та арабський Ірак!"
+ 
+ palcon.9.t: "Газі ібн Фейсал прибуває на конгрес"
+ palcon.9.d: "Син арабського героя Фейсала ібн Хусейна, який командував військами Хашимітів під час повстання в 1916, Газі ібн Фейсал був відправлений до Єгипту в 1920 своїм дідом, шарифом Хусейном, коли армія Османа рушила на Мекку. Взятий під опіку Фуадом I, скромний і недосвідчений хлопчик згуртував навколо себе прихильників Хашимітів, які втекли з Хіджазу після встановлення правління Османа.\n\nОднак, багато хіджасців розчарувалися в звичному до розкішного життя при єгипетському дворі і частенько потрапляє до газет після своїх витівок Газі і вважають його відстороненим від політичних реалій регіону. Хоча його заклики до другого хіджазького повстання і створення арабської держави, що тягнеться від Мекки до Багдада, були дуже пристрасними і перервалися лише на вірш, який він написав на честь свого батька, інші представники їх практично повністю проігнорували. Коли Газі закінчив свою промову, всі делегати ввічливо зааплодували."
+ palcon.9.a: "Ми вшановуємо героїчних Хашимітів!"
+ 
+ palcon.10.t: "[EGY.GetLeader] засуджує єврейських поселенців"
+ palcon.10.d: "Почувши трагічні розповіді про палестинських арабів, які страждають від рук міжнародної жандармерії та ознайомившись із останніми звітами про єврейську імміграцію, [EGY.GetLeader] нарешті взяв слово. Засуджуючи жахливі умови, в яких доводиться жити його братам по вірі, він заявив про повну підтримку сирійської делегації і пообіцяв, що палестинський народ незабаром буде звільнений. Наслідували бурхливі овації, і всі делегати аплодували стоячи.\n\nНовини про його промову сприйняли єврейська громада в самому Єгипті з куди меншим захопленням. Євреї, які мають непогані умови життя і політичні свободи при єгипетській державі, тепер бояться, що відкриті нападки на 'єврейську загрозу' в Палестині можуть призвести до агресії по відношенню до них."
+ palcon.10.a: "Ми підтримуємо палестинський народ!"
+ 
+ palcon.11.t: "Ідріс просить про допомогу"
+ palcon.11.d: "Після виступу [EGY.GetLeader] конгрес прийняв інший оборот. Культурну конференцію на честь арабського народу замінило відкрите обговорення дій, які необхідно здійснити проти ворогів арабського світу.\n\nВигнаний лівійський лідер Ідріс I набирав підтримку і готувався до свого повернення протягом майже десяти років і тепер, коли османські гарнізони більше переймаються політичною боротьбою в Стамбулі, ніж підтримкою порядку, він планує завдати удару протягом року і повалити Ахмада Шаріфа. Після всіх теплих і палких запевнень у підтримці від інших представників, настав час перетворити їх на гвинтівки, добровольців та пожертвування, щоб забезпечити успіх його боротьбі."
+ palcon.11.a: "Ми підтримуємо Ідріса!"
+ palcon.11.b: "Ми не можемо нічого виділити"
+ 
+ palcon.12.t: "Амбіції Єгипту"
+ palcon.12.d: "Тепер, коли представники з усього арабського світу зібралися разом у Каїрі, настав час розкрити наші плани та визначити курс, який ми слідуватимемо. Ми повинні діяти акуратно, оскільки наша операція покладається на безліч різних політичних груп та повстанських організацій, чия підтримка нам знадобиться, якщо ми хочемо об'єднати арабські держави навколо себе після їхнього звільнення."
+ palcon.12.a: "Єгипет прагне до приєднання Леванту"
+ palcon.12.b: "Єгипет бажає звільнити арабський народ!"
+ 
+ palcon.13.t: "Єгипет оголошує про свої цілі"
+ palcon.13.d: "Тепер, коли представники з усього арабського світу зібралися разом у Каїрі, Єгипет нарешті вирішив розкрити свої плани щодо перебудови Близького Сходу. Як дехто вже побоювався - інші сподівалися, [EGY.GetLeader] оголосив про свої наміри включення Леванта до свого султанат. Питання про Ірак залишилося відкритим, але було зроблено кілька натяків на створення дружнього арабського режиму у регіоні. Крім того, Хіджаз буде передано їх союзникам на півострові як плату за допомогу у майбутній війні.\n\nБільшість сирійських делегатів залишили конференцію в гніві, оскільки вони вважають, що Єгипет бажає лише зайняти місце османів, а не надати народу Сирії такої бажаної незалежності. Хіджасці також не дуже подобається цей план, оскільки вони вважають своїх братів з Аравійської пустелі нерозвиненими та некультурними дикунами, які лише нашкодять щодо багатого узбережжя."
+ palcon.13.a: "Будемо сподіватися що їхня зарозумілість не приведе нас до краху"
+ 
+ palcon.14.t: "Єгипет оголошує про свої цілі"
+ palcon.14.d: "Тепер, коли представники з усього арабського світу зібралися разом у Каїрі, Єгипет нарешті вирішив розкрити свої плани щодо перебудови Близького Сходу. Просуваючи самоврядування серед арабів, вони будуть прагнути до збереження різних частин Аравії як окремих країн, які зможуть самостійно вирішувати чи приєднуватися до більшої арабської держави.\n\nПредставники з Іраку, Сирії та Хіджаза задоволені тим, що збережуть право визначати своє майбутнє, але на півострові ці ідеї прийняли з меншим ентузіазмом. Вони не лише не отримають жодної нагороди за участь у війні, а й будуть змушені змагатися з могутньою державою Хіджазу."
+ palcon.14.a: "Це обіцяє бути цікавим"
+ 
+ palcon.15.t: "Іран залишає конференцію"
+ palcon.15.d: "Оскільки остаточна резолюція конференції, схоже, має на увазі незалежний Ірак, вільний від перського впливу, іранська делегація у гніві виїхала. Невідомо чи вплине це на їхнє рішення взяти участь у війні з Високою Портою або, не дай Аллах, прийняти турецьку сторону, але їхні дії залишили неприємний осад."
+ palcon.15.a: "Їх все одно не запрошували!"
+ palcon.15.b: "Арабів марно переконувати!"
+ 
+ palcon.16.t: "Питання про синдикалістську підтримку"
+ palcon.16.d: "Завдяки контактам з арабським лобі в Парижі та обережній співпраці між Комунною та Єгиптом під час Суецької кризи, багато хто починає задаватися питанням, наскільки арабські справи мають бути пов'язані з боротьбою Інтернаціоналу.\n\nІнтернаціонал, що отримує пряму вигоду від зростаючого арабського невдоволення в Алжирі та загрози, яку наша коаліція становить для німецького союзника в Анатолії, більш ніж зацікавлений у наданні військового спорядження та радників для підтримки наших зусиль. Однак, багато хто побоюється, що за цю допомогу доведеться заплатити. Вони вважають, що через різні економічні угоди, які тісно пов'язані з торгівлею нафтою, яка є важливою частиною комунарської військової машини, синдикалісти підкорюють арабів через нову форму імперіалізму. Більше того, соціалістична риторика, що їх породжує, є прямою загрозою арабським державам, побудованим на владі багатих аристократів."
+ palcon.16.a: "Нам знадобиться будь-яка допомога"
+ palcon.16.b: "Нехай ці невірні продають свої товари в іншому місці!"
+ 
+ palcon.17.t: "Створення Каїрського пакту"
+ palcon.17.d: "У заключній резолюції конгресу закріплено обіцянку всіх учасників об'єднатися, якщо хтось із них опиниться у стані війни з турками. Ця резолюція, що стала основою для військового альянсу, отримала назву 'Каїрський пакт' і знаменує створення першого такого союзу в сучасній арабській історії."
+ palcon.17.a: "Ми приєднаємось свого часу"
+ palcon.17.b: "Ми відмовляємось підписувати"
+ palcon.17.c: "За процвітаючу Аравію!"
+ palcon.17.e: "Ми приєднаємось як тільки зможемо"
+ 
+ palcon.18.t: "Конференція добігає кінця"
+ palcon.18.d: "Сонце над Нілом, і [EGY.GetLeader] закриває конференцію ще однією промовою. Після подяк делегатам за їхню участь, усім стає ясно якою значною демонстрацією єгипетської могутності став конгрес. Араби з усіх груп і соціальних верств захоплені багатством Єгипту та рівнем свободи в цій по-справжньому незалежній арабській державі. Єгипет також спробував об'єднати різні сили в регіоні і підштовхнути їх усіх до ідеології, найбільш сприятливої для єгипетської держави, але лише майбутнє покаже наскільки успішною була ця спроба."
+ palcon.18.a: "Подивіться на ці феєрверки!"
 
- palcon.2.t: "Invitation to the Third Arab Congress"
- palcon.2.d: "Organised by the Egyptian government in Cairo, the Third Arab Congress plans to unite all Arab struggles and determine the direction it needs to go in. With much of the Mashriq still suffering under the rule of the Sublime Porte and with the Arabs of the Maghreb living in a French slave state, it is clear that we as the only independent Arab powers need to combine our strengths and strive for the liberation of our brethren."
- palcon.2.a: "To Cairo we go!"
-
- palcon.3.t: "[FROM.GetName] Has Accepted Our Invitation"
- palcon.3.d: "As the inhabitants of the only other independent Arab state and with the Porte greatly interested in its dealings, the government of [FROM.GetLeader] has sent his representatives to Cairo. Interested to see whether we will turn our words into actions, an important member of the dynasty was sent with them to add gravitas to the discussion."
- palcon.3.a: "Welcome!"
-
- palcon.4.t: "Yemen Sends Representatives"
- palcon.4.d: "Despite serving as a de jure part of the Sublime Porte and refusing to assist during the Arab Revolt of 1916, it is no secret that the Yemeni foster little warm feelings for their government in Kostantiniyye. Imam [YEM.GetLeader] has therefore sent his own representative to Cairo despite a warning of the Porte not to do so.\n\nUnlike some of our other Arab allies however, Yemen does not share our ambitions and remains focused inwards. Should the Ottoman government offer them a better deal than us, it would surprise no one that the Imam would bail on our plans."
- palcon.4.a: "At least they came..."
-
- palcon.5.t: "Iran Sends a Delegation"
- palcon.5.d: "Despite not receiving an invitation to the Conference in protest to the treatment of the Khuzestan Arabs under the new government, Iran has decided to send a delegation to Cairo.\n\nA protest in the streets of Cairo, organised by Iraqi political exiles and with support from the Ittihad party, was unable to deter King Farouk I who stressed the importance of Islamic solidarity in these trying times. After a short kerfuffle, the delegation was granted a seat at the table in the hopes of encouraging an open debate."
- palcon.5.a: "We welcome the right honourable gentlemen from Teheran"
- palcon.5.b: "We deserved that seat on the table!"
-
- palcon.6.t: "Idris I Arrives in Cairo"
- palcon.6.d: "Leader of the Senussi order and opponent of the Ottoman-backed Ahmed Sharif I, the exiled Idris has arrived in Cairo. Backing the Entente during the Weltkrieg in their struggles on Libyan ground, the leader of the Senussi order was forced to flee into Egypt when the Italian front collapsed. By many Libyans he is however still seen as the legitimate ruler of their nation and over the years he has steadily been preparing resistance cells for his return."
- palcon.6.a: "A true hero!"
-
- palcon.7.t: "The Delegation from Syria Takes the Floor"
- palcon.7.d: "Representing the secret organisations of Beirut and Damascus, a variety of political exiles from the Greater Syria region have attended the conference to attack Ottoman practices in their native home. The Palestinian issue featured most prominently in their speeches as they see the continued existence of the M.O.J. as a slap in the face of Muslims across the world. Syria has to be freed from Turkish tutelage which serves nothing but the treasury of [OTT.GetLeader].\n\nLess radicalised speakers were also given the floor, with even Maronite Arabs allowed to give their say on the matter. Preaching a dialogue between the various people of the Greater Syrian region and even considering an arrangement with the Jewish settlers, the debate became quite heated. After a representative from Jaffa threw a sandal at his colleague from Aleppo, a short recess was announced and the perpetrator removed from the room."
- palcon.7.a: "We support the Syrian people!"
-
- palcon.8.t: "The Delegation from Iraq Takes the Floor"
- palcon.8.d: "After the speaker from Jerusalem finished his speech about the threat that Zionism poses to us all, the floor was granted to the delegation from Iraq. Announcing their support for our brethren in Palestine, they urged the people in the room to not ignore a second threat to the Arab people. The Iranian nation may be trying to paint itself as a friend of the Arabs but it goes without saying that it only does so to weaken its rival in Anatolia and exploit the Iraqi Arabs after the sand has settled.\n\nBefore the representative from Mosul could finish his speech however, the Iranian delegation rose up to protest against their accusations. Should we not focus on our common enemies instead of creating new ones before the first one has been dealt with? As the temperature in the room for the second time rapidly started rising, another brief recess was announced."
- palcon.8.a: "To a free and Arab Iraq!"
-
- palcon.9.t: "Ghazi ibn Faisal Attends the Conference"
- palcon.9.d: "Son of Arab hero Faisal ibn Hussein who commanded the Hashemite forces during their revolt in 1916, Ghazi ibn Faisal was sent to Egypt in 1920 by his grandfather Sharif Hussein when Ottoman troops marched on Mecca. Taken under the wing of Fuad I, the shy and inexperienced boy became a rallying point for Hashemite sympathisers who fled Hejaz when the Ottoman wali was installed.\n\nUsed to a life of luxury at the Egyptian court, with his various escapades published in the papers, many Hejazi see him as disillusioned and removed from the political realities of the region. His calls for a second Hejazi Revolt and an Arab state stretching from Mecca to Baghdad, whilst very passionate and only briefly interrupted by a poem he wrote to honour his father, have been almost entirely disregarded by the other representatives. When his speech was finally over all representatives clapped politely."
- palcon.9.a: "We honour the Hashemite heroes!"
-
- palcon.10.t: "Farouk I Condemns the Zionist Settlers"
- palcon.10.d: "After hearing the tragic accounts of Palestinian Arabs suffering at the hands of the international gendarmerie and seeing the latest 'data' on Jewish immigration, King Farouk I finally took to the stage. Condemning the vile deeds his brothers of the faith had to endure, he promised the Syrian delegation his full support and promised that the Palestinian people would soon be liberated. A grand applause followed when all representatives gave him a standing ovation.\n\nNews of his speech was received less well by the significant Jewish community in Egypt itself. These Jews who enjoy fairly good living conditions and political freedom under the Egyptian state, are now afraid that this open attack on the 'Jewish menace' in Palestine could send shockwaves in their direction."
- palcon.10.a: "We support the Palestinian people!"
-
- palcon.11.t: "Idris Pleads for Help"
- palcon.11.d: "After the speech of Farouk I, the conference has taken a different turn. The charade of a cultural conference to celebrate the Arab people has been replaced with the open discussion of actions to be undertaken against those that threaten the Arab people.\n\nThe exiled Libyan leader Idris I has been building up support for well over a decade and with Ottoman garrisons in Libya becoming careless as heated political debate overtakes the capital, he plans to strike within the year and oust Ahmed Sharif I. Hearing all the kind and passionate words from the other representatives, it is now time to turn these into guns, manpower and donations to ensure his struggle is successful."
- palcon.11.a: "We support Idris!"
- palcon.11.b: "We can't spare anything"
-
- palcon.12.t: "The Egyptian Ambitions"
- palcon.12.d: "With representatives from all corners of the Arab world brought together in Cairo, the time has come to show our hands and dictate the course we will be setting. We will have to tread carefully as the multitude of political groups and resistance cells which our operation relies on if we want to keep the Arab states united behind us after their liberation."
- palcon.12.a: "Egypt strives for the incorporation of the Levant"
- palcon.12.b: "Egypt wishes to liberate the Arab people!"
-
- palcon.13.t: "Egypt Announces Its Goals"
- palcon.13.d: "With representatives from all corners of the Arab world brought together in Cairo, Egypt has finally dropped the curtain on its grand designs. As some had already feared - and others hoped - [EGY.GetLeader] has announced his ambitions to incorporate the Levant within his Kingdom. The matter of Iraq was left open but hinting at the creation of a friendly Arab regime in the region. Hejaz would furthermore be ceded to their allies on the peninsula as a payment for their help in the coming war.\n\nMany of the Syrian delegation left the conference in anger as they claim that this is just putting Syria under new management instead of granting it the self-government its people are so clearly demanding. Hejazis are not too keen either on the scheme as they see their brethren of the Arab Desert as underdeveloped and uncultured barbarians who will do more bad than good to the relatively rich coastland."
- palcon.13.a: "Let's hope their hubris won't be our downfall"
-
- palcon.14.t: "Egypt Announces Its Goals"
- palcon.14.d: "With representatives from all corners of the Arab world brought together in Cairo, Egypt has finally dropped the curtain on its grand designs. Promoting self-government amongst the Arab states, they will strive to retain the various constituents of Arabia as individual units that can decide on their own whether to join a larger Arab state.\n\nRepresentatives from Iraq, Syria and Hejaz are pleased that they will retain the right to determine their future but on the Peninsula enthusiasm is far less high. Not only would they see no rewards from their participation in the war but furthermore they would have to contend with a powerful Hejazi state."
- palcon.14.a: "This will be interesting, to say the least"
-
- palcon.15.t: "Iran Leaves the Conference"
- palcon.15.d: "As the final resolution of the Conference seems to imply an independent Iraq free from Iranian influence, the Iranian delegation has left in anger. Whether this will impact their decision to take part in the war with the Sublime Porte or - Allah forbid - take the Turkish side remains unclear but it has left a sour taste."
- palcon.15.a: "They weren't invited anyhow!"
- palcon.15.b: "Reason is not something the Arabs understand!"
-
- palcon.17.t: "Creation of the Cairo Pact"
- palcon.17.d: "Enclosed in the final resolution of the Conference, there is the promise by all attendants to join arms should any of them end up at war with the Turks. This resolution which lays the foundation of a military alliance, has been called the 'Cairo Pact' and marks the creation of the first such treaty in Modern Arab history."
- palcon.17.a: "We will join the Cairo Pact in due time"
- palcon.17.b: "We refrain from signing"
- palcon.17.c: "To a prosperous Arabia!"
- palcon.17.e: "We will join as soon as we can"
-
- palcon.18.t: "The Conference Draws to an End"
- palcon.18.d: "As the sun sets on the Nile, Farouk I closes the conference with another speech. Thanking all representatives for their attendance, it is to all apparent what a formidable display of Egyptian power this really was. Arabs from all groups and social standings have come to be awed by the wealth of Egypt and revel in the freedom that this truly independent Arab state provides. Furthermore Egypt has attempted to unite the different forces in the region and push them all towards an ideology most favourable to the Egyptian state itself."
- palcon.18.a: "Look at those fireworks!"
-
- palcon.19.t: "Attend the Third Arab Congress?"
- palcon.19.d: "Hosted by the predominant Arab power, the Kingdom of Egypt, it has long become clear to us that just like us Cairo has been trying to gauge Ottoman responsiveness and its possible strength in a future conflict.\n\nAlthough we have not received an invitation to their grand Arab Congress, it may be necessary for us to force entry to the negotiations if we are to have a voice on the future status of Iraq and the Mashriq in its entirety."
- palcon.19.a: "Send a delegation to Cairo!"
- palcon.19.b: "It is pretty clear that they do not want our presence."
+ palcon.19.t: "Взяти участь у Третьому арабському конгресі?"
+ palcon.19.d: "Приймаюча сторона - домінуюча арабська держава Султанат Єгипту вже давно зрозуміла, що Каїр, як і ми, намагається оцінити реакцію Османської Імперії та її можливу силу в майбутньому конфлікті.\n\nХоча ми не отримали запрошення на їхній великий Арабський конгрес, нам, можливо, доведеться форсувати вступ у переговори, якщо ми хочемо мати право голосу щодо майбутнього статусу Іраку та Машрика в цілому."
+ palcon.19.a: "Надіслати делегацію до Каїру!"
+ palcon.19.b: "Цілком зрозуміло, що вони не хочуть нашої присутності."

@@ -16,9 +16,13 @@
  GAB_radical_socialist_DEF: "Комуна Габон"
 
 ### Characters ###
+ GAB_jean_baptiste_ndende_dibantsa: "Jean-Baptiste Ndende Dibantsa"
+ GAB_jean_baptiste_ndende_dibantsa_leader_desc: "§YBorn:§! §L1875, in Tsogho Country, French Gabon§!"
  GAB_Charles_NTchorere: "Charles N'Tchoréré"
+ GAB_charles_ntchorere_leader_desc: "§YBorn:§! §LNovember 16th, 1896, in Libreville, French Gabon§!"
  GAB_Gabriel_Leon_Mba: "Gabriel Léon M'ba"
- 
+ GAB_gabriel_leon_mba_leader_desc: "§YBorn:§! §LFebruary 9th, 1902, in Libreville, French Gabon§!"
+
 ### Focus tree ###
  KR_gabon_focus: "Фокуси Габону"
  
@@ -54,80 +58,83 @@
  
  GAB_Apply_Constitution: "Ухвалити конституцію"
  GAB_Apply_Constitution_desc: "Ратифікація конституції остаточно закріпить нашу незалежність і згуртує народ Габону."
- 
+
+# Introduction
+ GAB_guide: "§MDemocracy Survives§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$)\n£white_dot Complete the focus \"The Declaration of Independence\" and have the syndicalist coup fail.\n£white_dot Complete the focus \"Draft Constitution\" to elect the $social_conservative_coloured$, $market_liberal_coloured$ or $social_liberal_coloured$\n\n§MSyndicalist Coup§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Complete the focus \"The Declaration of Independence\" and have the syndicalist coup succeed.\n£white_dot Complete the focus \"Draft Constitution\" to elect the $radical_socialist_coloured$, §rAnarcho-Syndicalists§! or the $totalist_coloured$."
+
 ### Events ###
- gab.1.t: "Синдикалісти намагаються повалити нас!"
- gab.1.d: "Після падіння Міттельафрики, синдикалістична партія Габону, що була раніше під забороною, намагається повалити уряд. Лідером повстання названий голова партії, Чарль Н'Чорере!"
- gab.1.a: "Путч вдався!"
- gab.1.b: "Наші молоді демократичні інститути виживають, долаючи свою першу перешкоду."
+ gabon_events.1.t: "Dibantsa Challenges Government" # (!)
+ gabon_events.1.d: "Following the destabilisation that came with the fall of Mittelafrika, Jean-Baptiste Ndende Dibantsa, leader of the Gabonese section of the League for Human and Citizens' Rights, has rallied popular support in order to seize control of the government." # (!)
+ gabon_events.1.a: "Народна революція вдалася!"
+ gabon_events.1.b: "Наші молоді демократичні інститути виживають, долаючи свою першу перешкоду."
  
- gab.2.t: "Подарунок від Комуни"
- gab.2.d: "Французька Комуна подарувала нам 50 винищувачів для того, щоб ми змогли захистити небо над Габоном!"
- gab.2.a: "Добре"
+ gabon_events.2.t: "Подарунок від Комуни"
+ gabon_events.2.d: "Французька Комуна подарувала нам 50 винищувачів для того, щоб ми змогли захистити небо над Габоном!"
+ gabon_events.2.a: "Добре"
  
- gab.3.t: "[FROM.GetNameDefCap] потрібна зброя!"
- gab.3.d: "Африканська держава [FROM.GetNameDef] попросила нас про постачання зброї. Це може ще міцніше зміцнити наш вплив на землях колишньої Міттельафрики."
- gab.3.a: "Дайте їм необхідне"
- gab.3.b: "Відмовити"
+ gabon_events.3.t: "[FROM.GetNameDefCap] потрібна зброя!"
+ gabon_events.3.d: "Африканська держава [FROM.GetNameDef] попросила нас про постачання зброї. Це може ще міцніше зміцнити наш вплив на землях колишньої Міттельафрики."
+ gabon_events.3.a: "Дайте їм необхідне"
+ gabon_events.3.b: "Відмовити"
  
- gab.4.t: "Французи кажуть так!"
- gab.4.d: "Французи прислухалися до наших благань і дали нам зброю, якої ми так потребували!"
- gab.4.a: "Чудово!"
+ gabon_events.4.t: "Французи кажуть так!"
+ gabon_events.4.d: "Французи прислухалися до наших благань і дали нам зброю, якої ми так потребували!"
+ gabon_events.4.a: "Чудово!"
  
- gab.5.t: "Французи кажуть ні!"
- gab.5.d: "Французи відмовилися навіть слухати нас і кинули молоду державу напризволяще!"
- gab.5.a: "Не дуже то й хотілося"
+ gabon_events.5.t: "Французи кажуть ні!"
+ gabon_events.5.d: "Французи відмовилися навіть слухати нас і кинули молоду державу напризволяще!"
+ gabon_events.5.a: "Не дуже то й хотілося"
  
- gab.6.t: "[FROM.GetNameDefCap] потрібна зброя!"
- gab.6.d: "Африканська держава [FROM.GetNameDef] попросила нас про постачання зброї. Це може ще міцніше зміцнити наш вплив на землях колишньої Міттельафрики."
- gab.6.a: "Дайте їм необхідне"
- gab.6.b: "Відмовити"
+ gabon_events.6.t: "[FROM.GetNameDefCap] потрібна зброя!"
+ gabon_events.6.d: "Африканська держава [FROM.GetNameDef] попросила нас про постачання зброї. Це може ще міцніше зміцнити наш вплив на землях колишньої Міттельафрики."
+ gabon_events.6.a: "Дайте їм необхідне"
+ gabon_events.6.b: "Відмовити"
  
- gab.7.t: "Французи кажуть так!"
- gab.7.d: "Французи прислухалися до наших благань і дали нам зброю, якої ми так потребували!"
- gab.7.a: "Чудово!"
+ gabon_events.7.t: "Французи кажуть так!"
+ gabon_events.7.d: "Французи прислухалися до наших благань і дали нам зброю, якої ми так потребували!"
+ gabon_events.7.a: "Чудово!"
  
- gab.8.t: "Французи кажуть ні!"
- gab.8.d: "Французи відмовилися навіть слухати нас і кинули молоду державу напризволяще!"
- gab.8.a: "Не дуже то й хотілося"
+ gabon_events.8.t: "Французи кажуть ні!"
+ gabon_events.8.d: "Французи відмовилися навіть слухати нас і кинули молоду державу напризволяще!"
+ gabon_events.8.a: "Не дуже то й хотілося"
  
- gab.9.t: "Габон хоче вступити до Антанти"
- gab.9.d: "Маленька африканська держава Габон хоче вступити в наш альянс."
- gab.9.a: "Так!"
- gab.9.b: "Ні."
+ gabon_events.9.t: "Габон хоче вступити до Антанти"
+ gabon_events.9.d: "Маленька африканська держава Габон хоче вступити в наш альянс."
+ gabon_events.9.a: "Так!"
+ gabon_events.9.b: "Ні."
  
- gab.10.t: "Антанта прийняла нас!"
- gab.10.d: "Антанта сказала "так" нашому проханню вступити в їхній альянс!"
- gab.10.a: "Слава!"
+ gabon_events.10.t: "Антанта прийняла нас!"
+ gabon_events.10.d: "Антанта сказала "так" нашому проханню вступити в їхній альянс!"
+ gabon_events.10.a: "Слава!"
  
- gab.11.t: "Антанта відмовила нам!"
- gab.11.d: "Антанта не бачить у нас потенційного партнера і не стане приймати нас у свій альянс."
- gab.11.a: "Чорт!"
+ gabon_events.11.t: "Антанта відмовила нам!"
+ gabon_events.11.d: "Антанта не бачить у нас потенційного партнера і не стане приймати нас у свій альянс."
+ gabon_events.11.a: "Чорт!"
  
- gab.12.t: "Габон хоче вступити до Інтернаціоналу"
- gab.12.d: "Маленька африканська держава Габон хоче вступити в наш альянс."
- gab.12.a: "Так!"
- gab.12.b: "Ні."
+ gabon_events.12.t: "Габон хоче вступити до Інтернаціоналу"
+ gabon_events.12.d: "Маленька африканська держава Габон хоче вступити в наш альянс."
+ gabon_events.12.a: "Так!"
+ gabon_events.12.b: "Ні."
  
- gab.13.t: "Інтернаціонал прийняв нас!"
- gab.13.d: "Інтернаціонал прийняв нас до своїх лав!"
- gab.13.a: "Слава!"
+ gabon_events.13.t: "Інтернаціонал прийняв нас!"
+ gabon_events.13.d: "Інтернаціонал прийняв нас до своїх лав!"
+ gabon_events.13.a: "Слава!"
  
- gab.14.t: "Третій Інтернаціонал відмовив нам!"
- gab.14.d: "Третій Інтернаціонал не бачить у нас потенційного партнера і не стане приймати до свого альянсу."
- gab.14.a: "Чорт!"
+ gabon_events.14.t: "Третій Інтернаціонал відмовив нам!"
+ gabon_events.14.d: "Третій Інтернаціонал не бачить у нас потенційного партнера і не стане приймати до свого альянсу."
+ gabon_events.14.a: "Чорт!"
  
- gab.15.t: "Перші вибори"
- gab.15.d: "Наша нова конституція стала причиною перших у країні виборів президента! Кілька партій борються за лідерство на голосуванні!"
- gab.15.a: "Консерватори перемогли!"
- gab.15.b: "Ліберали-риночники перемогли!"
- gab.15.c: "Соціал-ліберали перемогли!"
+ gabon_events.15.t: "Перші вибори"
+ gabon_events.15.d: "Наша нова конституція стала причиною перших у країні виборів президента! Кілька партій борються за лідерство на голосуванні!"
+ gabon_events.15.a: "Консерватори перемогли!"
+ gabon_events.15.b: "Ліберали-риночники перемогли!"
+ gabon_events.15.c: "Соціал-ліберали перемогли!"
  
- gab.16.t: "Перша синдикалістська конвенція!"
- gab.16.d: "Після написання Конституції три основні ліві партії борються за право керувати країною! У підсумку вибір припав на..."
- gab.16.a: "Радикальних соціалістів!"
- gab.16.b: "Анархо-синдикалістів!"
- gab.16.c: "Тоталістів!"
+ gabon_events.16.t: "Перша синдикалістська конвенція!"
+ gabon_events.16.d: "Після написання Конституції три основні ліві партії борються за право керувати країною! У підсумку вибір припав на..."
+ gabon_events.16.a: "Радикальних соціалістів!"
+ gabon_events.16.b: "Анархо-синдикалістів!"
+ gabon_events.16.c: "Тоталістів!"
  
 ### Ideas ###
  GAB_push_independence_idea: "Вперед, до незалежності!"
@@ -141,9 +148,6 @@
  
  GAB_The_Gabonese_Constitution: "Конституція Габону"
  GAB_The_Gabonese_Constitution_desc: "Ратифікація Конституції надала таку необхідну легітимність суверенітету Габону і зблизила багато фракцій у нашій країні."
- 
-### Tooltips ###
- GAB_recruit_tt: "Буде завербовано дві дивізії ополчення."
  
 ### Flags ###
  GAB_Republic: "Республіка вистояла"

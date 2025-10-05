@@ -1119,9 +1119,9 @@
  STATE_266_RENAME: "[266.Controller.GetStateName_266]"
  STATE_266_PERSIAN: "Tehrān"
 
- STATE_267: "Кабул"
+ STATE_267: "$VICTORY_POINTS_10737$"
  STATE_267_AFGHAN: "Kābel"
- STATE_267_RENAME: "[267.Controller.GetStateName_267]"
+ STATE_267_RENAME: "$VICTORY_POINTS_10737_FARSI$"
 
  STATE_268: "Джібуті"
  STATE_268_RENAME: "[268.Controller.GetStateName_268]"
@@ -1211,9 +1211,8 @@
  STATE_289_THAI: "Park Glarng"
 
  STATE_290: "Риф"
- STATE_290_ARABIC: "Al-Riyf"
  STATE_290_RENAME: "[290.Controller.GetStateName_290]"
- STATE_286_THAI: "Prainakhon"
+ STATE_290_ARABIC: "Ar Rīf"
  STATE_290_SPANISH: "El Rif"
 
  STATE_291: "Багдад"
@@ -1680,9 +1679,9 @@
  STATE_414_RENAME: "[414.Controller.GetStateName_414]"
  STATE_414_PERSIAN: "Kermān"
 
- STATE_415: "Герат"
+ STATE_415: "$VICTORY_POINTS_4893$"
  STATE_415_RENAME: "[415.Controller.GetStateName_415]"
- STATE_415_PERSIAN: "Herāt"
+ STATE_415_PERSIAN: "$VICTORY_POINTS_4893_FARSI$"
 
  STATE_416: "Хорасан"
  STATE_416_RENAME: "[416.Controller.GetStateName_416]"
@@ -1710,10 +1709,8 @@
  STATE_421_PERSIAN: "Kermānshāh"
  STATE_421_TURKISH: "Kirmanşah"
 
- STATE_422: "Цейлон"
+ STATE_422: "$VICTORY_POINTS_7260$"
  STATE_422_RENAME: "[422.Controller.GetStateName_422]"
- STATE_422_PORTUGUESE: "Ceilão"
- STATE_422_INDIAN: "Lanka"
 
  STATE_423: "Мадурай"
  STATE_423_RENAME: "[423.Controller.GetStateName_423]"
@@ -1781,6 +1778,7 @@
  STATE_442: "Пешавар"
  STATE_442_RENAME: "[442.Controller.GetStateName_442]"
  STATE_442_INDIAN: "Peshaavar"
+ STATE_442_FARSI: "Pešâvar"
 
  STATE_443: "Сінд"
  STATE_443_RENAME: "[443.Controller.GetStateName_443]"
@@ -1793,6 +1791,7 @@
  STATE_445: "Кветта"
  STATE_445_RENAME: "[445.Controller.GetStateName_445]"
  STATE_445_INDIAN: "Kveta"
+ STATE_445_FARSI: "Kovite"
 
  STATE_446: "Каїр"
  STATE_446_ARABIC: "Al Qahirah"
@@ -1838,10 +1837,10 @@
  STATE_454_RENAME: "[454.Controller.GetStateName_454]"
  STATE_454_TURKISH: "Kudüs-i Serif"
 
- STATE_455: "Трансйорданія"
- STATE_455_ARABIC: "Sharq Al Urdun"
- STATE_455_RENAME: "[455.Controller.GetStateName_455]"
- STATE_455_TURKISH: "Transürdün"
+ STATE_455: "Керак"
+ STATE_455_ARABIC: "Al Karak"
+ STATE_455_SYRIAC: "Karka"
+ STATE_455_TURKISH: "Kerek"
 
  STATE_456: "Асуан"
  STATE_456_TURKISH: "Asvan"
@@ -2857,6 +2856,7 @@
 
  STATE_714: "Неньцзян"
  STATE_714_RENAME: "[714.Controller.GetStateName_714]"
+ STATE_714_CHINESE: "Qiqihaer"
  STATE_714_JAPANESE: "Nonkō"
  STATE_714_MONGOLIAN: "Mergen"
  STATE_714_RUSSIAN: "Nentszyan"
@@ -3634,6 +3634,8 @@
 
  STATE_897: "Аксай Чін"
  STATE_897_RENAME: "[897.Controller.GetStateName_897]"
+ STATE_897_CHINESE: "Akesai Qin"
+ STATE_897_UIGHUR: "Aqsāy Chīn"
 
  STATE_898: "Пара"
  STATE_898_RENAME: "[898.Controller.GetStateName_898]"
@@ -4229,8 +4231,9 @@
  STATE_1041_SPANISH: "Iguazú"
 
  STATE_1042: "Бадахшан"
- STATE_1042_CENTRAL_ASIAN: "Badakhshān"
  STATE_1042_RENAME: "[1042.Controller.GetStateName_1042]"
+ STATE_1042_CENTRAL_ASIAN: "Badakhshān"
+ STATE_1042_FARSI: "Badaxšân"
 
  STATE_1043: "Понта-Пора"
  STATE_1043_RENAME: "[1043.Controller.GetStateName_1043]"
@@ -4382,10 +4385,9 @@
  STATE_1085_RENAME: "[1085.Controller.GetStateName_1085]"
  STATE_1085_UIGHUR: "Teklimakan Qumluqi"
 
- STATE_1086: "Чантанг"
- STATE_1086_CHINESE: "Qiangtang"
+ STATE_1086: "Gartok" # (!)
  STATE_1086_RENAME: "[1086.Controller.GetStateName_1086]"
- STATE_1086_TIBETAN: "Qangtang"
+ STATE_1086_CHINESE: "Gadake"
 
  STATE_1087: "Могильов"
  STATE_1087_BELARUSIAN: "Mahilioŭ"
@@ -4500,3 +4502,28 @@
 
  STATE_1113: "Каутин"
  STATE_1113_RENAME: "[279.Controller.GetStateName_1113]"
+
+ STATE_1114: "Пустеля Ґобі"
+ STATE_1114_RENAME: "[1114.Controller.GetStateName_1114]"
+ STATE_1114_MONGOLIAN: "Gobi"
+ STATE_1114_CHINESE: "Gebi"
+
+ STATE_1115: "$VICTORY_POINTS_1834$"
+ STATE_1115_RENAME: "[1115.Controller.GetStateName_1115]"
+ STATE_1115_CHINESE: "$VICTORY_POINTS_1834_CHINESE$"
+ STATE_1115_RUSSIAN: "$VICTORY_POINTS_1834_RUSSIAN$"
+
+ STATE_1116: "$VICTORY_POINTS_10708$"
+ STATE_1116_RENAME: "[1116.Controller.GetStateName_1116]"
+ STATE_1116_CHINESE: "$VICTORY_POINTS_10708_CHINESE$"
+ STATE_1116_RUSSIAN: "$VICTORY_POINTS_10708_RUSSIAN$"
+
+ STATE_1117: "$VICTORY_POINTS_5064$"
+ STATE_1117_RENAME: "[1117.Controller.GetStateName_1117]"
+ STATE_1117_PERSIAN: "$VICTORY_POINTS_5064_FARSI$"
+
+ STATE_1118: "Qataghan" # (!)
+ STATE_1118_RENAME: "[1118.Controller.GetStateName_1118]"
+
+ STATE_1119: "$VICTORY_POINTS_10229$"
+ STATE_1119_RENAME: "[1119.Controller.GetStateName_1119]"

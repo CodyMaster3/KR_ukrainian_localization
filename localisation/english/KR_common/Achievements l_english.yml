@@ -8,7 +8,7 @@
  000_legacy_of_the_weltkrieg_achievement_DESC: "Переживіть Другий Вельткриг."
 
  GER_believe_in_the_heart_of_the_cards_achievement_NAME: "Картковий будинок"
- GER_believe_in_the_heart_of_the_cards_achievement_DESC: "Граючи за Німеччину, виграйте карткову гру "Чорний понеділок" якнайшвидше."
+ GER_believe_in_the_heart_of_the_cards_achievement_DESC: "As Germany, win the Black Monday card game without losing or stalling a single turn." # (!)
 
  GER_name_of_the_game_achievement_NAME: "Кальтеркриґ"
  GER_name_of_the_game_achievement_DESC: "Граючи за Німеччину, виграйти Другий Вельткриг, перемігши Росію та Третій Інтернаціонал."
@@ -426,7 +426,7 @@
 
  syndicalist_bias_achievement_tooltip: "Owns and controls Alsace-Lorraine."
 
- believe_in_the_heart_of_the_cards_achievement_tooltip: "Has won the Black Monday card game at the earliest possible date."
+ believe_in_the_heart_of_the_cards_achievement_tooltip: "Has won the Black Monday card game without losing or stalling a single turn."
 
  deutsch_west_indies_achievement_tooltip: "All Caribbean islands are owned by Germany's faction."
 

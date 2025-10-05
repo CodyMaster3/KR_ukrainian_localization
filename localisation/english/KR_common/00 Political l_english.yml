@@ -81,97 +81,73 @@
  government_is_loc: "Нинішня правляча партія: "
  government_is_not_loc: "Нинішня правляча партія не: "
 
- KR_is_socialist: "$government_is_loc$§Y$totalist$§!, §Y$syndicalist$§! або §Y$radical_socialist$§!"
- KR_is_socialist_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$syndicalist$§! або §Y$radical_socialist$§!"
-
- KR_is_elected: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! або §Y$social_conservative$§!"
- KR_is_elected_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! або §Y$social_conservative$§!"
-
- KR_is_democratic: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
- KR_is_democratic_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
-
- KR_is_authoritarian: "$government_is_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
- KR_is_authoritarian_NOT: "$government_is_not_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
-
- KR_is_dictatorship: "$government_is_loc$§Y$paternal_autocrat$§! або §Y$national_populist$§!"
- KR_is_dictatorship_NOT: "$government_is_not_loc$§Y$paternal_autocrat$§! або §Y$national_populist$§!"
-
- KR_right_wing_democracy: "$government_is_loc$§Y$market_liberal$§! або §Y$social_conservative$§!"
- KR_right_wing_democracy_NOT: "$government_is_not_loc$§Y$market_liberal$§! або §Y$social_conservative$§!"
-
- KR_left_wing_democracy: "$government_is_loc$§Y$social_democrat$§! або §Y$social_liberal$§!"
- KR_left_wing_democracy_NOT: "$government_is_not_loc$§Y$social_democrat$§! або §Y$social_liberal$§!"
-
- KR_is_any_authoritarian: "$government_is_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
- KR_is_any_authoritarian_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! або §Y$national_populist$§!"
-
- KR_is_liberal: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§! або §Y$market_liberal$§!"
- KR_is_liberal_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§! або §Y$market_liberal$§!"
-
- KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
- KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! або §Y$authoritarian_democrat$§!"
-
 ### Party Popularity Tooltips ###
  popularity_ideology_tooltip: "Ваша нинішня правляча партія: §H[?current_party_ideology_group.GetTokenLocalizedKey]§!"
  popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
  party_popularity_delayed_tooltip: "Популярність партії відображає контроль чинного уряду над країною та його підтримку населенням. Політичні партії з високою популярністю більш здатні просувати свій політичний порядок денний і стабілізувати країну."
 
  party_popularity_tooltip: "§HПопулярність партії§![GetPopularityPPGain]"
- party_popularity_tooltip_long: "§H\n\nЕфекти від нинішньої популярності нашої партії:§!\nЩоденний приріст політичної влади: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionTotalist][GetCoalitionSyndicalist][GetCoalitionRadicalSocialist][GetCoalitionSocialDemocrat][GetCoalitionSocialLiberal][GetCoalitionMarketLiberal][GetCoalitionSocialConservative][GetCoalitionAuthoritarianDemocrat][GetCoalitionPaternalAutocrat][GetCoalitionNationalPopulist]"
+ party_popularity_tooltip_long: "§H\n\nЕфекти від нинішньої популярності нашої партії:§!\nЩоденний приріст політичної влади: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionPartyPop]"
 
  party_popularity_dynamic_modifier: "Популярність партії"
  party_popularity_dynamic_modifier_ideology_mapped: "Популярність партії"
  party_popularity_dynamic_modifier_coalition: "Коаліції"
 
- party_pop_coalition: "\n\n§HПартнери по коаліції:§!\n"
- party_pop_coalition_totalist: "- [?token:totalist.GetTokenLocalizedKey]\n"
- party_pop_coalition_syndicalist: "- [?token:syndicalist.GetTokenLocalizedKey]\n"
- party_pop_coalition_radical_socialist: "- [?token:radical_socialist.GetTokenLocalizedKey]\n"
- party_pop_coalition_social_democrat: "- [?token:social_democrat.GetTokenLocalizedKey]\n"
- party_pop_coalition_social_liberal: "- [?token:social_liberal.GetTokenLocalizedKey]\n"
- party_pop_coalition_market_liberal: "- [?token:market_liberal.GetTokenLocalizedKey]\n"
- party_pop_coalition_social_conservative: "- [?token:social_conservative.GetTokenLocalizedKey]\n"
- party_pop_coalition_authoritarian_democrat: "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
- party_pop_coalition_paternal_autocrat: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
- party_pop_coalition_national_populist: "- [?token:national_populist.GetTokenLocalizedKey]\n"
+ party_popularity_value_default: "[?party_popularity@ruling_party|%0]"
+ party_popularity_value_mapped: "[?party_popularity@var:temp|%0]"
+
+ party_popularity_gain_value_default: "[?party_popularity@ruling_party|2=+]"
+ party_popularity_gain_value_mapped: "[?party_popularity@var:temp|2=+]"
+ party_popularity_gain_value_disabled: "[?0|2=+]"
+
+ party_pop_coalition: "\n\n§HЕфекти від партнерів коаліції:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [?coalition_pp_gain|+=2]\n"
+ party_pop_coalition_pp_gain: "[?coalition_pp|+2]"
+ party_pop_coalition_stability: "[?coalition_stab|Y0%]"
+
+ party_pop_coalition_ideology: "- [?global.ideology_groups^ideology_index_current.GetTokenLocalizedKey] ([GetCoalitionStability] - [GetCoalitionPPGain])\n[GetCoalitionPartyPop]"
 
  add_to_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! приєднається до коаліції."
  remove_from_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! вийде з коаліції."
+ end_coalition_tt: "The §YCoalition§! will end entirely." # (!)
 
  has_coalition_with_target: "Перебуває в коаліції з §H[?coalition_target.GetTokenLocalizedKey]s§!."
  has_coalition_with_target_NOT: "Не перебуває в коаліції з §H[?coalition_target.GetTokenLocalizedKey]s§!."
 
  coalition_stability_tooltip: "Наразі партнери коаліції надають $RIGHT|G%0$ їхньої популярності як додатковий §Hприріст політичної влади§!."
 
+ coalition_stability_pp_change: "§$COLOUR$[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§! coalition partners now contribute [?coalition_stability_var|Y0%] of their party popularity to our $MODIFIER_POLITICAL_POWER_GAIN$." # (!)
+
 ### At War Notice ###
  has_scripted_peace: "Ми в стані війни"
  has_scripted_peace_desc: "Країна перебуває у стані війни і сповнена рішучості досягти перемоги - хоча, швидше за все, наш опір трохи крихкіший, ніж здається. (Примітка: це існує для війн, де існує сценарій мирної події, і, швидше за все, ця подія відбудеться задовго до того, як буде досягнута ця підвищена межа капітуляції, просто щоб ви знали.)"
 
 ### Demobilisation ###
- mobilisation_penalty_modifier: "Верхній ліміт дивізій"
+ mobilisation_penalty_modifier: "Перевищено межу дивізій"
 
- unit_limit_title: "Максимально підтримувані дивізії"
+ unit_limit_title: "Максимум підтримуваних дивізій"
 
  unit_limit_count: "[unit_limit_count_loc]"
- unit_limit_count_disabled: "НЕОБМЕЖЕНИЙ"
+ unit_limit_count_disabled: "НЕОБМЕЖЕНО"
  unit_limit_count_above: "[?num_actual_divisions|R0]/[?max_divisions|Y0]"
  unit_limit_count_equal: "[?num_actual_divisions|Y0]/[?max_divisions|Y0]"
  unit_limit_count_below: "[?num_actual_divisions|G0]/[?max_divisions|Y0]"
 
- unit_limit_factory_bonus: "Ліміт дивізії"
- unit_limit_bonus: "Ліміт дивізії"
- unit_limit_factor: "Ліміт дивізії"
- unit_limit_subject_bonus: "Додатковий ліміт дивізій для володаря"
+ unit_limit_law_bonus: "Межа дивізій"
+ unit_limit_bonus: "Межа дивізій"
+ unit_limit_bonus_tooltip: "$unit_limit_bonus$: $RIGHT|+=0$"
+ unit_limit_factor: "Межа дивізій"
+ unit_limit_factor_tooltip: "$unit_limit_factor$: $RIGHT|+=0%$"
+ unit_limit_subject_bonus: "Додана межа дивізій для володаря"
 
  unit_limit_breakdown: "[unit_limit_breakdown]"
- unit_limit_breakdown_default: "§HMaximum Supported Divisions§!\nCurrent Maximum: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]"
+ unit_limit_breakdown_default: "§HМаксимум підтримуваних дивізій§!\nНинішній максимум: [?uncapped_max_divisions|H0][unit_limit_reached_floor][unit_limit_reached_ceiling]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_multipliers][unit_limit_faction_leader][unit_limit_factor]\n\nДодаткові модифікатори:[unit_limit_base][unit_limit_economy_law][unit_limit_bonus][unit_limit_above_limit]"
 
- unit_limit_label: "§HМаксимально підтримувані дивізії§!\nДивізії: [?max_divisions|H0]\n\nБазове значення: [?base_units|G1]\n   - Від загального населення: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - З підконтрольних регіонів: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nМножник кількості заводів: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nЗа замовчуванням: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
- unit_limit_desc: "Кожна країна має можливість утримувати лише певну кількість окремих військових підрозділів, перш ніж її економіка та інфраструктура не впораються з їхнім утриманням.\n\nМаксимальна кількість підтримуваних одиниць базується на §Hнаселенні§! та §Hкількості підконтрольних регіонів§!,  а потім множиться на відношення цих значень до §Hкількості заводів§! у регіонах.\n\nУ §Hгромадянських війнах§!, базові значення обчислюються від суми всіх регіонів, якими володіють всі учасники.[above_unit_limit_desc]"
+ unit_limit_list_item: "\n   - "
 
- unit_limit_desc_above_limit: "\n\n--------------\n\n§RНаразі ми перевищили наші можливості, і єдиним способом зменшити навантаження на нашу країну буде виведення деяких наших підрозділів.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
-
- unit_limit_reached_cap_desc: "\n(Обмежено максимум [?300|H0])"
+ unit_limit_reached_floor_desc: "\n(Capped to a minimum of [?floor|H0])" # (!)
+ unit_limit_reached_ceiling_desc: "\n(Capped to a maximum of [?ceiling|H0])" # (!)
+ unit_limit_base_value_desc: "\nBase Value: [?base_units|G1]" # (!)
+ unit_limit_core_population_desc: "$unit_limit_list_item$From Core Population: [?core_base|G1]" # (!)
  unit_limit_noncore_population_desc: "\n   - Від неосновного населення: [?non_core_base|G1]"
  unit_limit_subject_population_bonus_desc: "\n   - Від населення §HСуб'єкта§!: [?subject_base_units|G1]"
  unit_limit_subject_state_bonus_desc: "\n   - Від регіонів §HСуб'єкта§!: [?subject_states|G0]"
@@ -193,7 +169,8 @@
  unit_limit_breakdown_desc_disabled: "§HMaximum Supported Divisions§! has been disabled by game rules."
 
 ### Tooltips ###
- KR_party_pop_less_than_100: "Менше, ніж §Y100%§! підтримки [Root.GetRulingParty]"
+ KR_party_pop_less_than: "Less than $RIGHT|%0Y$ support for [ROOT.GetRulingParty]" # (!)
+ KR_party_pop_more_than: "More than $RIGHT|%0Y$ support for [ROOT.GetRulingParty]" # (!)
  is_ally_of_ROOT: "Є союзником [ROOT.GetNameDef]"
  has_coalition_with: "Перебуває в коаліції з §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
 
@@ -254,6 +231,18 @@
  authoritarian_democrat: "Авторитарна демократія"
  paternal_autocrat: "Патерналізм"
  national_populist: "Націонал-популізм"
+
+### Names Coloured ###
+ totalist_coloured: "§oTotalist§!" # (!) — примітка: простежте контекст ужитку ~ L.H.
+ syndicalist_coloured: "§rSyndicalist§!" # (!)
+ radical_socialist_coloured: "§RRadical Socialist§!" # (!)
+ social_democrat_coloured: "§SSocial Democrat§!" # (!)
+ social_liberal_coloured: "§lSocial Liberal§!" # (!)
+ market_liberal_coloured: "§mMarket Liberal§!" # (!)
+ social_conservative_coloured: "§cSocial Conservative§!" # (!)
+ authoritarian_democrat_coloured: "§aAuthoritarian Democrat§!" # (!)
+ paternal_autocrat_coloured: "§PPaternal Autocrat§!" # (!)
+ national_populist_coloured: "§nNational Populist§!" # (!)
 
 ### Nouns ###
  totalist_noun: "Тоталісти"

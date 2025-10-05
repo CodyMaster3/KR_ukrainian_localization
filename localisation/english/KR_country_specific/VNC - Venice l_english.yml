@@ -233,79 +233,113 @@
  VNC_planning_schools: "Школи планування"
  VNC_planning_schools_desc: "Малювання карт та ліній битв це наука. Відповідно до цього ми маємо створити спеціалізовані академії."
 
+### Venetian Revolt ###
+ VNC_last_stand: "The Last Stand of Liberty" # (!)
+ VNC_last_stand_desc: "The rescinding of state autonomies and the suspension of elections by the ANI was a flagrant violation of justice. It falls onto us to take arms against this tyranny and to stand for all that is good in the world. War with the Ultranationalists is coming and we must prepare by using all available stockpiles to arm anybody willing to fight." # (!)
+ VNC_unite_rebel: "Unite the Rebel Forces" # (!)
+ VNC_unite_rebel_desc: "The impromptu nature of our rebellion and the raising of militia forces has meant that our high command is facing difficulties with organising the armed forces. Confusion over orders within the military is common and must be remedied as soon as possible." # (!)
+ VNC_raise_militias: "Raise Partisan Units" # (!)
+ VNC_raise_militias_desc: "After the liberation of Friuli, many eager volunteers, who were unable to join the rebellion amongst the initial confusion in the rebellion, have petitioned to fight alongside our military against the tyrants in Milan. We must act upon this opportunity and recruit these men." # (!)
+ VNC_rally_defectors: "Rally Sympathetic Defectors" # (!)
+ VNC_rally_defectors_desc: "With the ANI facing increasing losses against Venetian forces, they are facing growing opposition both among the civilian population and the armed forces. What was promised to be a swift war has now turned into a quagmire while the prospect of foreign intervention is becoming more of a reality. We can capitalise on this opposition by appealing to disaffected soldiers to defect and help overthrow the tyrant Ciano." # (!)
+ VNC_promote_coordination: "Promote Army Coordination" # (!)
+ VNC_promote_coordination_desc: "Although our efforts to unify our rag-tag forces into a proper army have been bearing some success, the military is still facing issues of cohesion. Further effort must be undertaken if we are to defeat the ANI." # (!)
+ VNC_desperate_defence: "Resist the Nationalist Offensive" # (!)
+ VNC_desperate_defence_desc: "We are on the edge of defeat, which will surely spell for the rest of Italy. Propaganda will have to be spread among our soldiers to remind them of why they fight. Unfortunately we will have to resort to desperate measures to ensure our survival." # (!)
+ VNC_utilise_austrian_ties: "Utilise Austrian Ties" # (!)
+ VNC_utilise_austrian_ties_desc: "Our rebellion has been welcomed with open arms by the Austrians, since Ciano represents a threat to their interests. They are willing to send covert aid to assist us, which we can't refuse." # (!)
+ VNC_import_arms: "Import Foreign Arms" # (!)
+ VNC_import_arms_desc: "Our army requires more supplies if we are to stand a chance against the National Republic. Fortunately for us, the Austrian are willing to lend their old stockpiles for a cheap price." # (!)
+ VNC_final_push: "The Final Push" # (!)
+ VNC_final_push_desc: "Victory after victory has been accomplished on the battlefield and the defeat of Ciano and his ilk is all but assured. Morale among the military is at an all time high while the ANI is facing mass desertions." # (!)
+ VNC_propaganda: "Spread Anti-War Propaganda" # (!)
+ VNC_propaganda_desc: "As this war pits brother against brother, calls for peace have grown louder. The failure of the ANI to produce a swift victory is causing major morale issues which we can exploit. With the assistance of Austria, we can smuggle propaganda calling for the overthrowal of Ciano. With many already questioning the ability of the ANI to win the war with thousands already dead and a common sentiment that Ciano has left Italy vulnerable to the socialists, this is sure to be effective." # (!)
+
+### Introduction ###
+
+ VNC_guide: "§MCatholic League / Republicans / Christian Liberals, People's Party§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot After completing the focus \"Convene the Great Council\", choose directly elected and term-limited for the Doge.\n£white_dot Elections will be held every 4 years, with the §lPartito Liberałe Cristian§!, the §mPartito Repubblicano Veneto§!, the §cLega Catòłega§! and the §SPartito Popolare Veneto§! able to be elected.\n\n§MDucal Council / Great Council§! ($authoritarian_democrat_coloured$ / $paternal_autocrat_coloured$)\n£white_dot Choose the old method; in around 2 weeks, we will elect the new Doge, either keeping Giuseppe Volpi and the §aConsejo Ducałe§! or electing Giovanni Ponti and the §PMaggior Consiglio§!."
+
 ### Events ###
- venice.1.t: "Перше засідання Великої Ради"
- venice.1.d: "Вперше за понад століття, Велика Рада Венеції знову збирається. Члени з усієї республіки збираються у Венеції, щоб обговорити, як має будуватися Венеціанська Республіка. Вже у двох сторін з'явилися ті, які хочуть, щоб Венеція була як Нова Республіка, і ті, які хочуть, щоб Стара Республіка була відновлена."
- venice.1.a: "Починаємо, панове!"
+ venice_events.1.t: "Перше засідання Великої Ради"
+ venice_events.1.d: "Вперше за понад століття, Велика Рада Венеції знову збирається. Члени з усієї республіки збираються у Венеції, щоб обговорити, як має будуватися Венеціанська Республіка. Вже у двох сторін з'явилися ті, які хочуть, щоб Венеція була як Нова Республіка, і ті, які хочуть, щоб Стара Республіка була відновлена."
+ venice_events.1.a: "Починаємо, панове!"
  
- venice.2.t: "Вибори та термін повноважень дожів"
- venice.2.d: "Перше питання – це вибори дожів. У Стародавній Республіці Дож обирався довічно Великою Радою. 30 членів були обрані за випадковим жеребкуванням, яке потім було зменшено до 9 по випадковому жеребкуванні. Ті 9 назвали б 40 членів, які мали бути затверджені 7 із 9. 40 було скорочено за жеребом до 12, які назвали 25 членів. Ці 25 повинні були бути схвалені 9 з 12. Ці 9 назвали б 45 членів, і кожного з них довелося б затвердити 7 з 9. 45 членів потім скоротили за жеребом до 11. Ці 11 членів назвали 45, які повинні були бути затверджені 9 з 11. Ці 45 були врешті-решт зменшені за жеребом до 25, і вони зрештою обрали Дожа, який збереже цю посаду довічно.\n\nЗвичайно, система вважається досить архаїчною. Ті, хто перебуває у Великій Раді, прагнучи модернізувати Республіку, натомість пропонують, що правитель повинен обиратися безпосередньо народом і з чотирирічним терміном, що підлягає переобранню."
- venice.2.a: "Вибір народом імператора на 4 роки"
- venice.2.b: "Залишіть старий метод, без анархії!"
+ venice_events.2.t: "Вибори та термін повноважень дожів"
+ venice_events.2.d: "Перше питання – це вибори дожів. У Стародавній Республіці Дож обирався довічно Великою Радою. 30 членів були обрані за випадковим жеребкуванням, яке потім було зменшено до 9 по випадковому жеребкуванні. Ті 9 назвали б 40 членів, які мали бути затверджені 7 із 9. 40 було скорочено за жеребом до 12, які назвали 25 членів. Ці 25 повинні були бути схвалені 9 з 12. Ці 9 назвали б 45 членів, і кожного з них довелося б затвердити 7 з 9. 45 членів потім скоротили за жеребом до 11. Ці 11 членів назвали 45, які повинні були бути затверджені 9 з 11. Ці 45 були врешті-решт зменшені за жеребом до 25, і вони зрештою обрали Дожа, який збереже цю посаду довічно.\n\nЗвичайно, система вважається досить архаїчною. Ті, хто перебуває у Великій Раді, прагнучи модернізувати Республіку, натомість пропонують, що правитель повинен обиратися безпосередньо народом і з чотирирічним терміном, що підлягає переобранню."
+ venice_events.2.a: "Вибір народом імператора на 4 роки"
+ venice_events.2.b: "Залишіть старий метод, без анархії!"
  
- venice.5.t: "Створено Нову Республіку!"
- venice.5.d: "Після багатьох днів голосування та дебатів Консульство вирішило: Стати новою модернізованою та ліберальною республікою. Це знаменує собою новий розділ історії Венеції!"
- venice.5.a: "Fon sù i fondaminti de un nóvo doman!"
+ venice_events.5.t: "Створено Нову Республіку!"
+ venice_events.5.d: "Після багатьох днів голосування та дебатів Консульство вирішило: Стати новою модернізованою та ліберальною республікою. Це знаменує собою новий розділ історії Венеції!"
+ venice_events.5.a: "Fon sù i fondaminti de un nóvo doman!"
  
- venice.6.t: "Стара Республіка була відновлена!"
- venice.6.d: "Після багатьох днів голосування та дебатів Велика Рада вирішила відновити стару консервативну республіку. Це знаменує собою новий розділ історії Венеції."
- venice.6.a: "Fon sù i fondaminti de un nóvo doman"
+ venice_events.6.t: "Стара Республіка була відновлена!"
+ venice_events.6.d: "Після багатьох днів голосування та дебатів Велика Рада вирішила відновити стару консервативну республіку. Це знаменує собою новий розділ історії Венеції."
+ venice_events.6.a: "Fon sù i fondaminti de un nóvo doman"
 
 #venice.7-17 removed
 
- venice.18.t: "Ми програємо у Венеції"
- venice.18.d: "Неймовірно, ми поступаємося місцем венеціанцям. Або ми даємо їм те, що вони хочуть зараз, і сподіваємося, що вони на цьому зупиняться, або нам загрожує доволі принизлива поразка від їхніх рук, внаслідок якої ми втратимо все."
- venice.18.a: "Припинити цю війну зараз"
- venice.18.b: "Ні, ще рано здаватися"
+ venice_events.18.t: "Ми програємо у Венеції"
+ venice_events.18.d: "Неймовірно, ми поступаємося місцем венеціанцям. Або ми даємо їм те, що вони хочуть зараз, і сподіваємося, що вони на цьому зупиняться, або нам загрожує доволі принизлива поразка від їхніх рук, внаслідок якої ми втратимо все."
+ venice_events.18.a: "Припинити цю війну зараз"
+ venice_events.18.b: "Ні, ще рано здаватися"
  
- venice.19.t: "[From.GetNameDefCap] просить миру"
- venice.19.d: "Наша війна проти [From.GetNameDef] пройшла добре... настільки добре, що вони готові віддати нам Істрію та будь-які інші наші претензії, якщо ми просто закінчимо війну тут. Що ж нам робити?"
- venice.19.a: "Давайте покінчимо з цим"
- venice.19.b: "Навіщо тут зупинятися? Ми заберемо все!"
+ venice_events.19.t: "[From.GetNameDefCap] просить миру"
+ venice_events.19.d: "Наша війна проти [From.GetNameDef] пройшла добре... настільки добре, що вони готові віддати нам Істрію та будь-які інші наші претензії, якщо ми просто закінчимо війну тут. Що ж нам робити?"
+ venice_events.19.a: "Давайте покінчимо з цим"
+ venice_events.19.b: "Навіщо тут зупинятися? Ми заберемо все!"
  
- venice.32.t: "Відновлення шлюбу з морем"
- venice.32.d: "Протягом століть, починаючи з 1000 р. у День Вознесіння проходила Феста делла Сенса та Шлюб із Морем. Однак, оскільки Наполеон знищив республіку в 1798, фестиваль припинив своє святкування. Сьогодні Республіка реформується і сьогодні ми можемо ще раз відзначити шлюб венеціанської республіки з морем."
- venice.32.a: "Ми йдемо за тобою, море, як знак істинного та вічного панування"
+ venice_events.32.t: "Відновлення шлюбу з морем"
+ venice_events.32.d: "Протягом століть, починаючи з 1000 р. у День Вознесіння проходила Феста делла Сенса та Шлюб із Морем. Однак, оскільки Наполеон знищив республіку в 1798, фестиваль припинив своє святкування. Сьогодні Республіка реформується і сьогодні ми можемо ще раз відзначити шлюб венеціанської республіки з морем."
+ venice_events.32.a: "Ми йдемо за тобою, море, як знак істинного та вічного панування"
  
- venice.33.t: "Шлюб із морем [GetYear] року"
- venice.33.d: "Сьогодні ми ще раз наголошуємо на шлюбі моря. Численні прикрашені кораблі залишилися в гавані Венеції, що тріумфують як з республіки, так і гостей. Після численних промов правитель [Root.GetLeader] кидає обручку в лагуну, що означає шлюб Венеції з морем. Пізніше в ніч феєрверків розпочалося святкування національного дня Венеції у всій Венеції, включаючи інші міста, крім Венеції."
- venice.33.a: "Ми йдемо за тобою, море, як знак істинного та вічного панування"
+ venice_events.33.t: "Шлюб із морем [GetYear] року"
+ venice_events.33.d: "Сьогодні ми ще раз наголошуємо на шлюбі моря. Численні прикрашені кораблі залишилися в гавані Венеції, що тріумфують як з республіки, так і гостей. Після численних промов правитель [Root.GetLeader] кидає обручку в лагуну, що означає шлюб Венеції з морем. Пізніше в ніч феєрверків розпочалося святкування національного дня Венеції у всій Венеції, включаючи інші міста, крім Венеції."
+ venice_events.33.a: "Ми йдемо за тобою, море, як знак істинного та вічного панування"
  
- venice.34.t: "Відродження Венеціанського карнавалу"
- venice.34.d: "За часів Венеціанської республіки Карнавал був популярним святом, яке ознаменувало кінець Великого посту і до початку середи. Навіть після закінчення республіки у 1798 році фестиваль завжди був популярним, і традиції збереглися. Однак тепер, коли Республіка відновлена, ми знову можемо почати відзначати Карнавал."
- venice.34.a: "Хай живе Венеція!"
+ venice_events.34.t: "Відродження Венеціанського карнавалу"
+ venice_events.34.d: "За часів Венеціанської республіки Карнавал був популярним святом, яке ознаменувало кінець Великого посту і до початку середи. Навіть після закінчення республіки у 1798 році фестиваль завжди був популярним, і традиції збереглися. Однак тепер, коли Республіка відновлена, ми знову можемо почати відзначати Карнавал."
+ venice_events.34.a: "Хай живе Венеція!"
  
- venice.35.t: "Венеціанський карнавал"
- venice.35.d: "Сьогодні міста республіки заповнюються людьми, які приїжджають, щоби відсвяткувати венеціанський карнавал. Місто Венеція та багато міст венеціанської республіки наповнені людьми у яскравих костюмах та масках. А феєрверк який буде наприкінці дня – означає кінець карнавалу."
- venice.35.a: "Хай живе Венеція!"
+ venice_events.35.t: "Венеціанський карнавал"
+ venice_events.35.d: "Сьогодні міста республіки заповнюються людьми, які приїжджають, щоби відсвяткувати венеціанський карнавал. Місто Венеція та багато міст венеціанської республіки наповнені людьми у яскравих костюмах та масках. А феєрверк який буде наприкінці дня – означає кінець карнавалу."
+ venice_events.35.a: "Хай живе Венеція!"
  
- venice.36.t: "Міст свободи"
- venice.36.d: "Сьогодні відзначається відкриття Понте делла Ліберта чи Міст Свободи. Понте делла Ліберта поєднує місто Венецію з материком. Після того, як республіка знову існує і місто Венеція - серце Республіки знову, міст був створений, щоб відзначити свободу, яку має республіка."
- venice.36.a: "Захищай мир та свободу!"
+ venice_events.36.t: "Міст свободи"
+ venice_events.36.d: "Сьогодні відзначається відкриття Понте делла Ліберта чи Міст Свободи. Понте делла Ліберта поєднує місто Венецію з материком. Після того, як республіка знову існує і місто Венеція - серце Республіки знову, міст був створений, щоб відзначити свободу, яку має республіка."
+ venice_events.36.a: "Захищай мир та свободу!"
  
- venice.37.t: "Морська військова школа Себастіано Веніра"
- venice.37.d: "Сьогодні у Венеції відкрилася нова військово-морська академія, військово-морська школа Себастіано Венір, яка допоможе навчити нове покоління венеціанських адміралів. Названо на честь знаменитого венеціанського адмірала Себастіано Веніра, який виграв битву під Лепенті. Військово-морська школа Себастіано Веніра також забезпечує любов до моря з численними супутніми діями від плавання до плавання. Багато хто з викладачів є або членами венеціанського флоту, або ветерани венеціанського флоту."
- venice.37.a: "Нове покоління венеціанських моряків!"
+ venice_events.37.t: "Морська військова школа Себастіано Веніра"
+ venice_events.37.d: "Сьогодні у Венеції відкрилася нова військово-морська академія, військово-морська школа Себастіано Венір, яка допоможе навчити нове покоління венеціанських адміралів. Названо на честь знаменитого венеціанського адмірала Себастіано Веніра, який виграв битву під Лепенті. Військово-морська школа Себастіано Веніра також забезпечує любов до моря з численними супутніми діями від плавання до плавання. Багато хто з викладачів є або членами венеціанського флоту, або ветерани венеціанського флоту."
+ venice_events.37.a: "Нове покоління венеціанських моряків!"
  
- venice.50.t: "[Root.GetAdjective]і вибори [GetYear] року"
- venice.50.d: "Місяці, що передували виборам нового Дожа та його партії цього року в [Root.GetNameDef], були настільки ж суперечливими та напруженими, як і раніше. З людьми, які затоплюють виборчі дільниці, переможцем виявляється..."
- venice.50.a: "...Християнсько-ліберальна партія."
- venice.50.b: "...Республіканська партія Венеції."
- venice.50.c: "...Католицька ліга."
- venice.50.e: "...Народна партія Венеції."
+ venice_events.50.t: "[Root.GetAdjective]і вибори [GetYear] року"
+ venice_events.50.d: "Місяці, що передували виборам нового Дожа та його партії цього року в [Root.GetNameDef], були настільки ж суперечливими та напруженими, як і раніше. З людьми, які затоплюють виборчі дільниці, переможцем виявляється..."
+ venice_events.50.a: "...Християнсько-ліберальна партія."
+ venice_events.50.b: "...Республіканська партія Венеції."
+ venice_events.50.c: "...Католицька ліга."
+ venice_events.50.e: "...Народна партія Венеції."
  
- venice.51.t: "Обрання Дожа"
- venice.51.d.revolt: "Візантійський процес вибору нового довічного Дожа зайняв тижні, але тепер його вибір складається з двох кандидатів: Джузеппе Вольпі, героя повстання, та Джованні Понті. Вольпі, можливо, був би фаворитом завдяки його ролі в здобутті незалежності Венеції, але є багато консерваторів, які вважають, що його ідеї реформи занадто ліберальні. Понті набагато більше любимо за його місце серед багатої еліти, і той факт, що він бачить, як потрібно розширити роль дворянства... тоді як Вольпі навіть не був прихильником повернення на шлях Стародавньої Республіки. Тим не менш, голосування наближається."
- venice.51.d.norevolt: "Візантійський процес вибору нового Довічного дожа зайняв тижні, але тепер він зводиться до двох кандидатів: ліберала Джузеппе Вольпі та консерватора Джованні Понті. Зважаючи на те, що Вольпі та його партія навіть не були прихильниками повернення на шлях Стародавньої Республіки, Понті - явний фаворит. Тим не менш, зв'язки Вольпі серед еліти значні, завдяки його численним позиціям у провінційному уряді, і є шанс, що він таки зможе перемогти."
- venice.51.a: "Джузеппе Вольпі - наш новий Дож!"
- venice.51.b: "Джованні Понті - наш новий Дож!"
+ venice_events.51.t: "Обрання Дожа"
+ venice_events.51.d.revolt: "Візантійський процес вибору нового довічного Дожа зайняв тижні, але тепер його вибір складається з двох кандидатів: Джузеппе Вольпі, героя повстання, та Джованні Понті. Вольпі, можливо, був би фаворитом завдяки його ролі в здобутті незалежності Венеції, але є багато консерваторів, які вважають, що його ідеї реформи занадто ліберальні. Понті набагато більше любимо за його місце серед багатої еліти, і той факт, що він бачить, як потрібно розширити роль дворянства... тоді як Вольпі навіть не був прихильником повернення на шлях Стародавньої Республіки. Тим не менш, голосування наближається."
+ venice_events.51.d.norevolt: "Візантійський процес вибору нового Довічного дожа зайняв тижні, але тепер він зводиться до двох кандидатів: ліберала Джузеппе Вольпі та консерватора Джованні Понті. Зважаючи на те, що Вольпі та його партія навіть не були прихильниками повернення на шлях Стародавньої Республіки, Понті - явний фаворит. Тим не менш, зв'язки Вольпі серед еліти значні, завдяки його численним позиціям у провінційному уряді, і є шанс, що він таки зможе перемогти."
+ venice_events.51.a: "Джузеппе Вольпі - наш новий Дож!"
+ venice_events.51.b: "Джованні Понті - наш новий Дож!"
 
 ### Characters ###
  VNC_umberto_merlin: "Umberto Merlin"
+ VNC_umberto_merlin_leader_desc: "§YBorn:§! §LFebruary 17th, 1885, in Rovigo, Kingdom of Italy§!"
  VNC_giuseppe_volpi: "Giuseppe Volpi"
+ VNC_giuseppe_volpi_leader_desc: "§YBorn:§! §LNovember 19th, 1877, in Venice, Kingdom of Italy§!"
  VNC_giovanni_ponti: "Giovanni Ponti"
+ VNC_giovanni_ponti_leader_desc: "§YBorn:§! §LJanuary 19th, 1896, in Venice, Kingdom of Italy§!"
  VNC_giovanni_battista_gianquinto: "Giovanni Battista Gianquinto"
+ VNC_giovanni_battista_gianquinto_leader_desc: "§YBorn:§! §LFebruary 12th, 1905, in Trapani, Kingdom of Italy§!"
  VNC_mario_balotta: "Mario Balotta"
+ VNC_mario_balotta_commander_desc: "§YBorn:§! §LSeptember 7th, 1886, in Rome, Kingdom of Italy§!"
  VNC_ermacora_zuliani: "Ermacora Zuliani"
+ VNC_ermacora_zuliani_commander_desc: "§YBorn:§! §LOctober 25th, 1897, in Magnano in Riviera, Udine, Kingdom of Italy§!"
  VNC_antonio_scaramuzza: "Antonio Scaramuzza"
+ VNC_antonio_scaramuzza_commander_desc: "§YBorn:§! §LJanuary 7th, 1902, in Venice, Kingdom of Italy§!"
  VNC_michele_vaccaro: "Michele Vaccaro"
+ VNC_michele_vaccaro_commander_desc: "§YBorn:§! §LDecember 21st, 1887, in Girgenti, Kingdom of Italy§!"

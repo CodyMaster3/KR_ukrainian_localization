@@ -508,6 +508,7 @@
  MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: "Бонус до прориву проти держави"
  
  modifier_army_sub_unit_cavalry_defence_factor: "Захист кавалерії"
+ modifier_army_sub_unit_cavalry_max_org_factor: "Організація кавалерії"
  modifier_army_sub_unit_camelry_defence_factor: "Захист верблюдової кавалерії"
  modifier_army_sub_unit_infantry_defence_factor: "Захист піхоти"
  modifier_army_sub_unit_armored_car_attack_factor: "Атака бронемашин"
@@ -540,8 +541,15 @@
  modifier_army_sub_unit_long_range_patrol_support_defence_factor: "Захист далеких партулів"
  modifier_army_sub_unit_category_special_forces_max_org_factor: "Організація спецпризначенців"
 
- modifier_unit_militia_design_cost_factor: "$militia$ Unit Design Cost"
- modifier_unit_irregular_infantry_design_cost_factor: "$irregular_infantry$ Unit Design Cost"
+ modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Cav/Mot/Mech Organisation" # (!)
+
+ modifier_army_sub_unit_artillery_brigade_attack_factor: "$artillery_brigade$ Attack" # (!)
+ modifier_army_sub_unit_artillery_brigade_defence_factor: "$artillery_brigade$ Defence" # (!)
+ modifier_army_sub_unit_artillery_brigade_max_org_factor: "$artillery_brigade$ Organisation" # (!)
+ modifier_army_sub_unit_artillery_brigade_speed_factor: "$artillery_brigade$ Speed" # (!)
+
+ modifier_unit_militia_design_cost_factor: "$militia$ Unit Design Cost" # (!)
+ modifier_unit_irregular_infantry_design_cost_factor: "$irregular_infantry$ Unit Design Cost" # (!)
 
 #missing in vanilla
  large_plane_airframe_design_cost_factor: "Висока вартість проектування планера"
@@ -869,7 +877,7 @@
  GER_heavy_tank_amphibious_equipment_3:0 "Schwimmpanzer VII"
  
 ### Missing chassis loc
- gwtank_chassis_short:0 "Шасі танка часів Вельткрігу"
+ gwtank_chassis_short:0 "Міжвоєнне шасі"
  super_heavy_tank_chassis_short:0 "Надважке шасі"
  main_battle_tank_chassis_short:0 "Шасі сучасного танка"
 

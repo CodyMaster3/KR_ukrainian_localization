@@ -20,8 +20,8 @@
  KR_compassionate_gentleman:0 "Доброзичливий джентльмен"
  KR_flamboyant_brute:0 "Яскравий грубіян"
  KR_great_compromiser:0 "Майстер компромісу"
- KR_happy_amateur: "Happy Amateur"
- KR_iron_fisted_brute:0 "Владний грубіян"
+ KR_happy_amateur: "Happy Amateur" # (!)
+ KR_iron_fisted_brute: "Iron-Fisted Brute" # (!)
  KR_man_of_the_people:0 "Людина з народу"
  KR_naive_optimist:0 "Наївний оптиміст"
  KR_plodding_bureaucrat:0 "Повільний бюрократ"

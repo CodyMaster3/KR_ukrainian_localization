@@ -108,21 +108,25 @@
 
 ### Events ###
 
- kachin.1.t: "Децентралізована армія"
- kachin.1.d: "Необхідність центральної доктрини для управління новою армією очевидна. Однак існує розбіжність щодо того, яким має бути це вчення."
- kachin.1.a: "Йти шляхом Сабо Ту"
- kachin.1.b: "Підтримати Агу Ді"
+ kachin_events.1.t: "Децентралізована армія"
+ kachin_events.1.d: "Необхідність центральної доктрини для управління новою армією очевидна. Однак існує розбіжність щодо того, яким має бути це вчення."
+ kachin_events.1.a: "Йти шляхом Сабо Ту"
+ kachin_events.1.b: "Підтримати Агу Ді"
  
- kachin.2.t: "Невдача в Качині"
- kachin.2.d: "Політична ситуація в Качині погіршилася, і військового прогресу мало. Таким чином, наші офіцери на місцях, схоже, погодилися на припинення вогню. Бойові дії припинилися, і, коли наші економічні інтереси в Качині були знищені, немає підстав для відновлення конфлікту."
- kachin.2.a: "Це принизливо!"
+ kachin_events.2.t: "Невдача в Качині"
+ kachin_events.2.d: "Політична ситуація в Качині погіршилася, і військового прогресу мало. Таким чином, наші офіцери на місцях, схоже, погодилися на припинення вогню. Бойові дії припинилися, і, коли наші економічні інтереси в Качині були знищені, немає підстав для відновлення конфлікту."
+ kachin_events.2.a: "Це принизливо!"
 
 ### Characters ###
- KAC_sama_duwa_sinwa_naw: "Sama Duwa Sinwa Naw"
+ KAC_sama_duwa_sinwa_naw: "Sama Duwa Sinwa Nawng"
+ KAC_sama_duwa_sinwa_naw_leader_desc: "§YBorn:§! §L1905, in Kachin State, Province of Burma, British India§!"
  KAC_duwa_zau_lawn: "Duwa Zau Lawn"
+ KAC_duwa_zau_lawn_leader_desc: "§YBorn:§! §Lin Bhamo District, Kachin State, Province of Burma, British India§!"
  KAC_sabaw_tu: "Sabaw Tu"
+ KAC_sabaw_tu_commander_desc: "§YBorn:§! §Lin Kachin State, Province of Burma, British India§!"
 
- KAC_sao_shwe_thaik: "Sao Shwe Thaik"
- KAC_sao_shwe_thaik_leader_desc: ""
+ SHA_sao_shwe_thaik: "Sao Shwe Thaik"
+ SHA_sao_shwe_thaik_leader_desc: "§YBorn:§! §LOctober 16th, 1895, in Yawnghwe, State of Yawnghwe, India§!\n§YBackground:§! §LEducated at the Shan Chiefs' School in Taunggyi and entering the British military service during the Weltkrieg, Shwe Thaik served in the Northeast Frontier Service from 1920-1923. In September of 1927, he was chosen as successor to his uncle as Saopha of Yawnghwe by the Federated Shan States' Council of Ministers, officially assuming office on March 8th, 1929.\n\nSao Shwe Thaik entered politics in post-British Burma, becoming a strong advocate for democracy and autonomy of the Shan States, becoming well respected amongst other political leaders in Burma.\n\nWith the occupation of the Shan States and the horrible treatment by their overlords, Sao Shwe Thaik decided to take initiative and break free from the Shan States' oppressive controllers, declaring the Shan Confederation with a number of other saophas. He now leads his newly-independent country, hoping to steer it into a new age.§!"
 
- KAC_sao_yang_wen_pin: "Sao Yang Wen Pin"
+ SHA_sao_yang_wen_pin: "Sao Yang Wen Pin"
+ SHA_sao_yang_wen_pin_commander_desc: "§YBorn:§! §L1897, in the State of Kokang, India§!"

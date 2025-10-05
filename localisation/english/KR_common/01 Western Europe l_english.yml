@@ -1,9 +1,9 @@
 ﻿l_english:
- 
+
  BRI:0 "Бретань"
  BRI_ADJ:0 "Бретонськ"
  BRI_DEF:0 "Бретань"
- 
+
  BRI_totalist:0 "Бретонська Комуна"
  BRI_totalist_ADJ:0 "Бретонськ"
  BRI_totalist_DEF:0 "Бретонська Комуна"
@@ -13,14 +13,27 @@
  BRI_radical_socialist:0 "Бретонська Комуна"
  BRI_radical_socialist_ADJ:0 "Бретонськ"
  BRI_radical_socialist_DEF:0 "Бретонська Комуна"
- 
- FRP:0 "Франція"
- FRP_ADJ:0 "Французьк"
- FRP_DEF:0 "Франція"
- FRP_spa_kingdom:0 "Королівство Франція"
- FRP_spa_kingdom_ADJ:0 "Французьк"
- FRP_spa_kingdom_DEF:0 "Королівство Франція"
- 
+
+ LIL:0 "Walloon Flanders" # (!)
+ LIL_ADJ:0 "Lillois" # (!)
+ LIL_DEF:0 "the Protectorate of Walloon Flanders" # (!)
+
+ LIL_authoritarian_democrat_party:0 "Verwaltungskommission" # (!)
+ LIL_authoritarian_democrat_party_long:0 "Verwaltungskommission Wallonisch-Flandern (Administrative Commission of Walloon Flanders)" # (!)
+
+ LIL_social_democrat_party:0 "$LIL_authoritarian_democrat_party$"
+ LIL_social_democrat_party_long:0 "$LIL_authoritarian_democrat_party_long$"
+ LIL_social_liberal_party:0 "$LIL_authoritarian_democrat_party$"
+ LIL_social_liberal_party_long:0 "$LIL_authoritarian_democrat_party_long$"
+ LIL_market_liberal_party:0 "$LIL_authoritarian_democrat_party$"
+ LIL_market_liberal_party_long:0 "$LIL_authoritarian_democrat_party_long$"
+ LIL_social_conservative_party:0 "$LIL_authoritarian_democrat_party$"
+ LIL_social_conservative_party_long:0 "$LIL_authoritarian_democrat_party_long$"
+ LIL_paternal_autocrat_party:0 "$LIL_authoritarian_democrat_party$"
+ LIL_paternal_autocrat_party_long:0 "$LIL_authoritarian_democrat_party_long$"
+ LIL_national_populist_party:0 "$LIL_authoritarian_democrat_party$"
+ LIL_national_populist_party_long:0 "$LIL_authoritarian_democrat_party_long$"
+
  GLC:0 "Галісія"
  GLC_ADJ:0 "Галісійськ"
  GLC_DEF:0 "Галісія"

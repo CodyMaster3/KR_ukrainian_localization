@@ -34,8 +34,8 @@
  GBP_two_collabs: "В §gАнглії§! та §CШотландії§! будуть створені колабораціоністські уряди."
  GBP_three_collabs: "В §gАнглії§!, §GУельсі§! та §CШотландії§! будуть створені колабораціоністські уряди."
  GBP_british_monarchy: "§gКарл III§! займе відновлений англійський трон."
- GBP_scottish_monarchy: "§gФранциск I§! займе відновлений трон якобітів."
- GBP_welsh_monarchy: "§gЛьюїс I§! займе валлійський трон."
+
+ GBP_political_settlement: "§CThe Council of State will review the State of Emergency and decide on whether to reestablish some form of limited democracy.§!" # (!)
 
 ### Cosmetic Tags ###
  GBP: "Республіка Британія"

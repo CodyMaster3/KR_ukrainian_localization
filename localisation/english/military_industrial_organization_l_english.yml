@@ -334,34 +334,11 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
 
  # Риси
   USA_mio_trait_lockeed_aircraft: "Lockheed Aircraft"
-  USA_mio_trait_medium_tank_organization:0 "Medium Tank Organization"
-  USA_mio_trait_mechanized_production: "Механізоване виробнтицтво"
-  USA_mio_trait_outsourced_engines: "Двигуни від сторонніх постачальників"
   USA_mio_trait_strict_design_specifications: "Суворі обмеження дизайнів"
   USA_mio_trait_expanded_production_facilities: "Розширені виробничі комплекси"
   USA_mio_trait_periscope_sights: "Перископи"
-  USA_mio_trait_superfortress: "Суперфортеця"
   USA_mio_trait_smooth_finish: "Поліроване покриття"
   USA_mio_trait_jet_fighter_design: "Дизайни реактивних винищувачів"
-  USA_mio_trait_remote_controlled_turrets:0 "Remote Controlled Turrets"
-  USA_mio_trait_specialist_nose_configurations:0 "Specialist Nose Configurations"
-  USA_mio_trait_arsenal_of_democracy:0 "Arsenal of Democracy"
-  USA_mio_trait_shipyard_expansion:0 "Shipyard Expansion"
-  USA_mio_trait_naval_station_norfolk:0 "Naval Station Norfolk"
-  USA_mio_trait_gould_centrifugal_pump:0 "Gould Centrifugal Pump"
-  USA_mio_trait_radar_experimentation:0 "Radar Experimentation"
-  USA_mio_trait_the_can_do_shipyard:0 "The Can-Do Shipyard"
-  USA_mio_trait_drydock_expansion:0 "Drydock Expansion"
-  USA_mio_trait_north_carolina_shipbuilding_company:0 "North Carolina Shipbuilding Company"
-  USA_mio_trait_carrier_specialists:0 "Carrier Specialists"
-
- # Початкові риси
-  USA_mio_trait_light_long_range_aircraft:0 "Light Long-Range Aircraft"
-  USA_mio_trait_medium_long_range_aircraft:0 "Medium Long-Range Aircraft"
-  USA_mio_trait_light_aircraft_development:0 "Light Aircraft Development"
-  USA_mio_trait_mass_production_of_armor:0 "Mass Production of Armor"
-  USA_mio_trait_medium_tank_manufacturer:0 "Medium Tank Manufacturer"
-  USA_mio_trait_dedicated_tank_factory:0 "Dedicated Tank Factory"
 
 ### ЯПОНІЯ ###
  # Організації 
@@ -433,16 +410,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   ENG_royal_arsenal_organization: "$royal_arsenal$"
   ENG_vickers_armstrong_eng_organization: "$vickers_armstrong_eng$"
   ENG_avro_organization: "$avro$"
- # Риси
-  ENG_mio_trait_flared_bow: "Розкльошені борти"
-  ENG_mio_trait_super_charges: "Посилені заряди"
-  ENG_mio_trait_seaplane_origins: "Ранні гідролітаки"
-  ENG_mio_trait_elliptical_wings: "Еліптичні крила"
-  ENG_mio_trait_supercharger: "Нагнітач"
-  ENG_mio_trait_piat: "Протитанкові гранатомети «PIAT»"
-  ENG_mio_trait_sten_submachine_guns: "Пістолети-кулемети «STEN»"
-  ENG_mio_trait_expanded_turret_capacity: "Збільшена місткість башти"
-  ENG_mio_trait_expanded_production_facilities: "Розширені виробничі комплекси"
 
 ### ФРАНЦІЯ ###
  # Організації
@@ -465,14 +432,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   FRA_aeb_organization: "$aeb$"
   FRA_acl_organization: "$acl$"
   FRA_acf_organization: "$acf$"
- # Риси
-  FRA_mio_trait_light_tank_improvements: "Chars Légers"
-  FRA_mio_trait_medium_tank_improvements: "Chars de Bataille"
-  FRA_mio_trait_automitrailleuses: "Automitrailleuses"
-  FRA_mio_trait_production_division: "Виробничий підрозділ AMX"
-  FRA_mio_trait_standardized_turrets: "Башти «APX»"
-  FRA_mio_trait_b1_bis_suspension: "Підвіска B1 bis"
-  FRA_mio_trait_l_35: "L/35"
 
 ### НІМЕЧЧИНА ###
  # Організації
@@ -500,87 +459,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_opel_organization: "$opel$"
   GER_carl_walther_organization: "$GER_carl_walther$"
   GER_auto_union_organization: "$GER_auto_union$"
- # Риси
-  GER_mio_trait_hotrolled_armor: "Гарячекатана броня"
-  GER_mio_trait_multilayer_armour: "Нашарована броня"
-  GER_mio_trait_maintenance_first_design: "Дизайн зі ставкою на обслуговування"
-  GER_mio_trait_fuselage_based_weapons: "Озброєння на фюзеляжі"
-  GER_mio_trait_early_jet_engine_adopter: "Раннє використання реактивних двигунів"
-  GER_mio_trait_psychological_warfare: "Психологічна війна"
-  GER_mio_trait_hoesch_facilities:0 "Hoesch Facilities"
-  GER_hoesch_facilities_trait_taken_flag: "$generic_has_already_completed_this_trait$"
-  GER_mio_trait_hamburger_flugzeugbau: "Hamburger Flugzeugbau"
-  GER_hamburger_flugzeugbau_trait_taken_flag: "$generic_has_already_completed_this_trait$"
-  GER_mio_trait_amerikabomber_learnings:0 "Amerikabomber Learnings"
-  GER_mio_trait_ford_facilities:0 "Ford Facilities"
-  GER_mio_trait_efficiency_in_mass_production:0 "Efficiency in Mass Production"
-  GER_mio_trait_continental_ag_tires:0 "Continental AG Tires"
-  GER_mio_trait_involve_porsche_in_special_projects:0 "Involve Porsche in Special Projects"
-  GER_mio_trait_involve_henschel_in_special_projects:0 "Involve Henschel in Special Projects"
-  GER_mio_trait_steel_wheel_design:0 "Steel Wheel Design"
-  GER_mio_trait_telescopic_sight:0 "Telescopic Sight"
-  GER_mio_trait_technical_superiority:0 "Technical Superiority"
-  GER_mio_trait_multi_role_tanks:0 "Multi-Role Tanks"
-  GER_mio_trait_anti_tank_specialization:0 "Anti-tank Spezialization"
-  GER_mio_trait_unorthodox_transmission_design:0 "Unorthodox Transmission Design"
-  GER_mio_trait_versatile_chassis:0 "Versatile Chassis"
-  GER_mio_trait_tungsten_tipped_rounds:0 "Tungsten Tipped Rounds"
-  GER_mio_trait_history_of_battleships:0 "History of Battleships"
-  GER_mio_trait_krupp_guns:0 "Krupp Guns"
-  GER_mio_trait_h_class_battleships:0 "H-Class Battleships"
-  GER_mio_trait_heavy_raiders:0 "Heavy Raiders"
-  GER_mio_trait_o_class_battlecruisers:0 "O-Class Battlecruisers"
-  GER_mio_trait_u_boat_yards:0 "U-Boat Yards"
-  GER_mio_trait_high_test_peroxide:0 "High-Test Peroxide"
-  GER_mio_trait_ocean_u_boats:0 "Ocean U-Boats"
-  GER_mio_trait_kilian_submarine_bunker:0 "Kilian Submarine Bunker"
-  GER_mio_trait_saddle_tanks:0 "Saddle Tanks"
-  GER_mio_trait_excellent_diving_performance:0 "Excellent Diving Performance"
-  GER_mio_trait_atlantic_raiders:0 "Atlantic Raiders"
-  GER_mio_trait_krupp_contacts:0 "Krupp Contacts"
-  GER_mio_trait_armored_design:0 "Armored Design"
-  GER_mio_trait_shipyard_conglomerate:0 "Shipyard Conglomerate"
-  GER_mio_trait_auxilliary_shipyard:0 "Auxilliary Shipyard"
-  GER_mio_trait_foreign_influences:0 "Foreign Influences"
-  GER_mio_trait_raider_doctrine:0 "Raider Doctrine"
-  GER_mio_trait_fast_raiders:0 "Fast Raiders"
-  GER_mio_trait_carrier_raiders:0 "Carrier Raiders"
-  GER_mio_trait_historical_shipyard:0 "Historical Shipyard"
-  GER_mio_trait_upgrade_panzerschiffs:0 "Upgrade Panzerschiffs"
-  GER_mio_trait_innovative_battleship_designs:0 "Innovative Battleship Designs"
-  GER_mio_trait_high_velocity_armament:0 "High Velocity Armament"
-  GER_mio_trait_schachtellaufwerk: "Schachtellaufwerk"
-  GER_mio_trait_mobility_design_philosophy:0 "Mobility Design Philosophy"
-  GER_mio_trait_panzerjager: "Panzerjäger"
-  GER_mio_trait_armored_superstructure_specialist:0 "Armored Superstructure Specialist"
-  GER_mio_trait_sturmhaubitze: "Sturmhaubitze"
-  GER_mio_trait_90_degree_dives:0 "90 Degree Dives"
-  GER_mio_trait_long_nose_design:0 "Long-nose Design"
-  GER_mio_trait_work_horse_design_philosophy:0 "Work-horse Design Philosophy"
-  GER_mio_trait_bomber_destroyer:0 "Bomber Destroyer"
-  GER_mio_trait_radial_engine:0 "Radial Engines"
-  GER_mio_trait_doppel_blitz: "Doppel Blitz"
-  GER_mio_trait_advanced_night_equipment:0 "Advanced Night Equipment"
-  GER_mio_trait_stepless_cockpit:0 "Stepless Cockpit"
-  GER_mio_trait_flying_boat_specialist:0 "Flying Boat Specialist"
-  GER_mio_trait_schnellbomber_doctrine:0 "Schnellbomber Doctrine"
-  GER_mio_trait_jet_bomber_innovator:0 "Jet Bomber Innovator"
-  GER_mio_trait_dual_recoil_mechanism:0 "Dual-Recoil Mechanism"
-  GER_mio_trait_versatile_carriage:0 "Versatile Carriage"
-  GER_mio_trait_experienced_manufacturer:0 "Experienced Manufacturer"
-  GER_mio_trait_export_models:0 "Export Models"
-  GER_mio_trait_karabiner: "Karabiner"
-  GER_mio_trait_sturmgewehr: "Sturmgewehr"
-  GER_mio_trait_innovative_safety_features:0 "Innovative Safety Features"
-  GER_mio_trait_policiary_equipment:0 "Policiary Equipment"
-  GER_mio_trait_improved_engines:0 "Improved Engines"
-  GER_mio_trait_racing_pedigree:0 "Racing Pedigree"
-  GER_mio_trait_military_exclusivity:0 "Military Exclusivity"
-  GER_mio_trait_schwerer_panzerspahwagen: "Schwerer Panzerspähwagen"
-  GER_mio_trait_placeholder_helicopter: "HELICOPTER MIO TREE COMING SOON"
-  generic_mio_initial_trait_helicopter_designer:0 "Early Helicopter Designer"
-  GER_mio_trait_aerodynamic_research_insitute:0 "Integrated Aerodynamic Research Institute Department"
-  GER_mio_trait_aerodynamic_research_insitute_taken_flag: "$generic_has_already_completed_this_trait$"
 
 ### ІТАЛІЯ ###
  # Організації
@@ -734,9 +612,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   HUN_mio_trait_danuvia_motorcycles:0 "Motorcycles"
   HUN_mio_trait_danuvia_improved_stock:0 "Folding Metal Stocks"
   HUN_mio_trait_heavy_mauser_rounds:0 "9×25mm Mauser Rounds"
-
-  GER_mio_trait_3_7_cm_pak: "3.7cm Panzerabwehrkanone"
-  GER_mio_trait_7_5_cm_pak: "7.5cm Panzerabwehrkanone"
 
 ### РУМУНІЯ ###
  # Організації
@@ -947,10 +822,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   POL_ENG_vauxhall_organization: "$POL_vauxhall$"
   POL_FRA_somua_organization: "$POL_somua$"
 
- # Риси
-  POL_mio_trait_cruiser_tanks: "Крейсерські танки"
-  POL_mio_trait_multi_role_tank_designer: "Конструктор багатоцільових літаків"
-
 ### БАЛТІЯ ###
  # Організації
   BALTIC_ford_organization: "$BALTIC_ford$"
@@ -1015,20 +886,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   FIN_sisu_auto_organization: "Sisu Auto"
   FIN_valtion_kivaaritehdas_organization: "Valtion Kivääritehdas"
   FIN_valtion_tykkitehdas_organization: "Valtion Tykkitehdas"
- # Риси
-  FIN_mio_trait_recycled_materials: "Перероблені матеріали"
-  FIN_mio_trait_contract_with_yhteissisu: "Контракт із «Yhteissisu»"
-  FIN_mio_trait_yhteissisus_modern_premises: "Сучасні простори Yhteissisu"
-  FIN_mio_trait_alternative_materials: "Альтернативні матеріали"
-  FIN_mio_trait_salvaged_and_retooled: "Відновлення та застосування"
-  FIN_mio_trait_repurposed_equipment: "Оновлене оснащення"
-  FIN_mio_trait_oy_tikkakoski: "Oy Tikkakoski"
-  FIN_mio_trait_andros_engines: "Двигуни «Andros»"
-  FIN_mio_trait_rapid_raiders: "$FIN_rapid_raiders$"
-  FIN_mio_trait_deep_sea_raiders: "$FIN_deep_sea_raiders$"
-  FIN_mio_trait_repurposed_equipment_trigger_tt: "Досліджено §Y$FIN_mechanized_equipment_3$§! (бронетранспорт 1944 року)"
-  FIN_mio_trait_wartsila_engine_production: "$FIN_wartsila_engine_production$"
-  FIN_mio_trait_modernization_program: "Програма осучаснення"
 
 ### ДАНІЯ ###
  # Організації
@@ -1039,15 +896,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   DEN_orlogsvaerftet_organization: "Orlogsværftet"
   DEN_flyvertroppernes_organization: "Flyvertroppernes Værksteder"
   DEN_flyvemaskinevaerksted_organization: "Orlogsværftet Flyvemaskineværksted"
- # Риси
-  DEN_mio_trait_burmeister_wain_engines: "Двигуни «Burmeister & Wain»"
-  DEN_mio_trait_coastal_defense_ship_modernization: "Осучаснення кораблів берегової оборони"
-  DEN_mio_trait_weibel_development: "Поліпшення прототипу «Weibel»"
-  DEN_mio_trait_madsen_heavy_machine_gun: "Важкий кулемет «Madsen»"
-  DEN_mio_trait_fodfolkskanoner: "Fodfolkskanoner"
-  DEN_mio_trait_feltkanoner: "Feltkanoner"
-  DEN_mio_trait_madsen_20_mm: "20-мм гармата «Madsen»"
-  DEN_mio_trait_repurpose_triangel_factories: "Перепрофільовані заводи «Triangel»"
 
 ### НОРВЕҐІЯ ###
  # Організації
@@ -1177,25 +1025,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   BEL_minerva_imperia_armored_car_organization: "Minerva-Imperia Armoured Cars"
   BEL_minerva_imperia_motorized_organization: "Minerva-Imperia Automobiles"
   BEL_laboratoire_aerotechnique_de_belgique_organization: "Laboratoire Aérotechnique de Belgique"
- # Риси
-  BEL_mio_initial_trait_fn_herstal:0 "Small Arms Manufacturer"
-  BEL_mio_trait_belgium_congo_link:0 "Belgium-Congo Link"
-  BEL_mio_trait_high_speed_transport:0 "High Speed Transport"
-  BEL_mio_trait_anti_submarine_expertise:0 "Anti-Submarine Expertise"
-  BEL_mio_trait_all_metal_expertise:0 "All-Metal Expertise"
-  BEL_mio_trait_browning_collaboration:0 "Browning Collaboration"
-  BEL_mio_trait_outsourced_production:0 "Outsourced Production"
-  BEL_mio_trait_browning_automatic_rifles:0 "Browning Automatic Rifles"
-  BEL_mio_trait_assault_rifles:0 "Assault Rifles"
-  BEL_mio_trait_47mm_at_guns:0 "47mm AT Guns"
-  BEL_mio_trait_excellent_machining_tools:0 "Excellent Machining Tools"
-  BEL_mio_trait_knight_engines:0 "Knight Engines"
-  BEL_mio_trait_heavy_machine_guns:0 "Heavy Machine Guns"
-  BEL_mio_trait_high_grade_armor:0 "High Grade Armor"
-  BEL_mio_trait_flourishing_automobile_industry:0 "Flourishing Automobile Industry"
-  BEL_mio_trait_fonderie_royale_canons: "Fonderie Royale Canons"
-  BEL_mio_trait_stampe_et_vertrongen: "Stampe et Vertrongen"
-  BEL_mio_trait_stampe_et_renard: "Stampe et Renard"
 
 ### КОНҐО ###
  COG_fonderie_royale_de_canons_leopoldville_organization: "Fonderie Royale de Canons Léopoldville"

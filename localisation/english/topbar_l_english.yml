@@ -84,7 +84,6 @@ COUNTRY_NUCLEAR_PRODUCTION_INFO: "Побудовано ядерних реакт
 DECISIONVIEW_AMOUNT_TIMEOUT_ITEMS: "$AMOUNT|R$"
 DECISIONVIEW_AMOUNT_CAN_TAKE_ITEMS: "$AMOUNT$"
 
-THREAT_FROM_EFFECT: "Загроза від дій"
 1939_bookmark_threat: "Нещодавній фашистський експансіонізм"
 GER_demand_slovenia_threat: "Німеччина вимогла Словенію"
 ITA_slovenia_dalmatia_claims_threat: "Італійські претензії на Югославію"

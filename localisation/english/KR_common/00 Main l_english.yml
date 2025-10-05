@@ -55,7 +55,7 @@
  KR_welcome_splash_tab_3_content_0: "Кайзеррайх накладає обмеження на дипломатичні дії, такі як §Rранні війни§!, §Rсоюзи§!, та §Rрівні автономії§!.\nКайзеррайх також включає §CЛіміти дивізій§! та §CДемобілізаційну§! механіку для покращення продуктивності наприкінці гри.\nПротягом §YМирної конференції§!, обов'язково анексуйте всі можливі регіони. Ви зможете пізніше звільнити країни з анексованих територій через §Cрішення§!.\n§YСпеціальні правила гри§! - це меню налаштувань, що дозволяє налаштувати багато параметрів, зокрема §CДолі країн§!, §CПершість гравця під час мирних конференцій§!, та §CState and Country Transfer Tool§!.\n§YМеню параметрів у грі§! можна відкрити, натиснувши значок орла у верхньому правому куті. Це дозволяє регулювати §Cчастоту подій та новин§! і включити §Cдинамічне перейменування§! регіонів та міст."
 
  ## TAB 4 ##
- KR_CURRENT_VERSION: "1.5.1"
+ KR_CURRENT_VERSION: "1.5.2"
  KR_CURRENT_VERSION_NAME: "Дивовижний новий світ"
  KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
  KR_welcome_splash_tab_4_upper_header: "§YЛаскаво просимо до $KR_CURRENT_VERSION_COMBINED$§!"
@@ -69,9 +69,9 @@
  KR_welcome_splash_tab_4_content_4: "Fedex  ·  Flamefang  ·  Frill Shark  ·  Gaboemi  ·  Georgy  ·  Gre  ·  Hamfast  ·  Hazo  ·  Hexcron"
  KR_welcome_splash_tab_4_content_5: "Ido  ·  Igor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  jerv  ·  Jonny BL  ·  Kano  ·  katieluka"
  KR_welcome_splash_tab_4_content_6: "kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  lehmannmo  ·  Matoro  ·  McOmghall  ·  MrMano"
- KR_welcome_splash_tab_4_content_7: "~mw~ // miwaco.  ·  Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Rnk ·  Sasha  ·  Shiroe"
- KR_welcome_splash_tab_4_content_8: "Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian"
- KR_welcome_splash_tab_4_content_9: "The Irredentista  ·  The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
+ KR_welcome_splash_tab_4_content_7: "~mw~ // miwaco.  ·  Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Rnk ·  Sasha  ·  Shiroe  ·  Sonny O'Cad"
+ KR_welcome_splash_tab_4_content_8: "SuperGreenBeans  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian  ·  The Irredentista"
+ KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
 
 ### Career Profile ###
  KAISERREICH_CAREER_PROFILE: "Кайзеррайх"
@@ -110,6 +110,7 @@
 
 ### Diplomacy Triggers ###
  cannot_call_allies_or_join_wars: "Не може закликати союзників або вступати у війни"
+ cannot_call_allies_or_join_wars_except_subjects: "Не може закликати союзників або вступати у війни (окрім суб'єктів)"
  cannot_call_allies_or_join_wars_warning: "§Y[ROOT.GetNameWithFlag]§! §Rне може закликати союзників або вступати у війни.§!"
  cannot_call_allies_or_join_wars_warning_FROM: "§Y[FROM.GetNameWithFlag]§! §Rне може закликати союзників або вступати у війни.§!"
 
@@ -311,10 +312,15 @@
 
 ### Static Modifiers ###
  volunteer_limit_plus_three: "Increased Volunteer Limit"
+ volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|0+=]"
  volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|0+=]"
  volunteer_limit_plus_one: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_one_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?1|0+=]"
  volunteer_limit_plus_fifty_percent: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_fifty_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?0.5|+=%]"
  volunteer_limit_plus_hundred_percent: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?1|+=%]"
 
 ### Continents ###
  is_actually_an_island: "це острівна провінція"
@@ -331,8 +337,8 @@
  french_colonial_government: "Колоніальний уряд"
  nominal_puppet: "Номінальна маріонетка"
  special_autonomous_dependency: "Залежна територія"
- initial_wif_puppet: "Федеративна колонія"
- soclib_wif_puppet: "Федеративний Домініон"
+ federated_colony: "Федеративна колонія"
+ federated_dominion: "Федеративний домініон"
  ottoman_emirate: "Османський емірат"
  ottoman_international_zone: "Міжнародний мандат"
  federated_state: "Конфедеративна держава"
@@ -667,136 +673,116 @@
  construction_tech_research:0 "Час дослідження будівництва"
 
 ### Hidden Techs ###
- camel_corps_tech:0 "Верблюжа кавалерія"
- camel_corps_tech_effect:0 "Відкриває §H$camel_corps_tech$§!\n§HВерблюди\n    $Пустеля$§!\n      $STAT_ADJUSTER_ATTACK$§G+15%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+3%§!"
+ tech_camel_corps:0 "Camel Corps" # (!)
 
  tech_ski_infantry:0 "Лижна піхота"
- tech_ski_infantry_effect:0 "Відкриває §H$tech_ski_infantry$§!\n§H$Піхота$\n    $Пагорби$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n    §H$Гори$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+ tech_ski_infantry_terrain_effect:0 "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
  tech_marine_bonus:0 "Покр. морські піхотинці"
- tech_marine_bonus_effect:0 "Відкриває §H$tech_marine_bonus$\n$Морські піхотинці$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_mechanized$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_armor$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
-
  tech_marine_bonus_2:0 "Навчені морські піхотинці"
- tech_marine_bonus_2_effect:0 "Відкриває §H$tech_marine_bonus_2$\n$Морські піхотинці$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HБатальйон Амтрек§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HБатальйон танків амфібій§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+ tech_marine_bonus_combined:0 "Superior Marines" # (!)
 
- tech_marine_bonus_combined_effect:0 "Відкриває §H$tech_marine_bonus$\n$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HБатальйон Амтрек§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HБатальйон танків амфібій§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!"
+ tech_jungle_warfare:0 "Jungle Combat Training" # (!)
+ tech_jungle_warfare_terrain_effect:0 "  §Y$jungle$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
 
- jungle_warfare_effect:0 "Відкриває §H$jungle_warfare$\n$category_light_infantry$\n    $Джунглі$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+ tech_forest_warfare:0 "Forest Combat Training" # (!)
+ tech_forest_warfare_terrain_effect:0 "  §Y$forest$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
 
- forest_warfare:0 "Підготовка рейнджерів"
- forest_warfare_effect:0 "Відкриває §H$forest_warfare$\n$category_light_infantry$\n    $Ліс$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+ tech_improved_field_hospitals:0 "Поліпшені польові шпиталі"
 
- improved_field_hospitals:0 "Поліпшені польові шпиталі"
- improved_field_hospitals_effect:0 "Відкриває §H$improved_field_hospitals$\n$field_hospital$§!\n      $STAT_ARMY_CASUALTY_TRICKLEBACK$§G+20%§!\n      $STAT_ARMY_EXPERIENCE_LOSS_FACTOR$§G-10%§!"
+ tech_expanded_engineer_corps:0 "Розширена бригада інженерів"
 
- expanded_engineer_corps_tech:0 "Розширена бригада інженерів"
- expanded_engineer_corps_tech_effect:0 "Відкриває §H$expanded_engineer_corps_tech$\n$Бригада інженерів$§!\n      $STAT_ARMY_ENTRENCHMENT$§G+2§!\n    §H$Окопування$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+10%§!"
+ tech_mountain_warfare:0 "Mountain Combat Training" # (!)
+ tech_mountain_warfare_terrain_effect:0 "  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
- mountain_training_tech:0 "Гірські тренування"
- mountain_training_tech_effect:0 "Відкриває §H$mountain_training_tech$\n$category_light_infantry$§!\n    §H$Гори$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+ tech_improved_recon_units:0 "Навчені розвідники"
 
- improved_recon_units_tech:0 "Навчені розвідники"
- improved_recon_units_tech_effect:0 "Відкриває §H$improved_recon_units_tech$\n$category_recon$§!\n      $STAT_ARMY_BREAKTHROUGH$§G+1§!\n      $STAT_ARMY_RECON$§G+1§!"
+ tech_urban_warfare:0 "Urban Combat Training" # (!)
+ tech_urban_warfare_terrain_effect:0 "  §Y$urban$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
 
- asymmetrical_warfare:0 "Асиметрична війна"
- asymmetrical_warfare_effect:0 "Відкриває §H$asymmetrical_warfare$\n$category_light_infantry$§!\n    §H$Місто$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+ tech_desert_warfare:0 "Desert Combat Training" # (!)
+ tech_desert_warfare_terrain_effect:0 "  §Y$desert$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
- desert_warfare:0 "Тренування у пустелі"
- desert_warfare_effect:0 "Відкриває §H$desert_warfare$§!\n§H$category_light_infantry$\n    $Пустеля$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+ tech_marsh_warfare:0 "Marsh Combat Training" # (!)
+ tech_marsh_warfare_terrain_effect:0 "  §Y$marsh$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
- marsh_warfare:0 "Тренування в болоті"
- marsh_warfare_effect:0 "Відкриває §H$marsh_warfare$§!\n§H$category_light_infantry$\n    $Болото$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
-
- anti_fortification_artillery:0 "Протифортифікаційна артилерія"
- anti_fortification_artillery_effect:0 "Відкриває §H$anti_fortification_artillery$§!\n§H$category_artillery$§!\n    $Бункера$: $STAT_ADJUSTER_ATTACK$§G+20%§!"
+ tech_anti_fortification_artillery:0 "Протифортифікаційна артилерія"
+ tech_anti_fortification_artillery_terrain_effect:0 "  §Y$fort$§!:\n    $STAT_ADJUSTER_ATTACK$[?0.2|=+1%]"
 
  tech_integrated_specialists:0 "Інтегрований спецназ"
- tech_integrated_specialists_effect:0 "Відкриває §H$tech_integrated_specialists$§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+5%§!\n§H$category_special_forces$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
 
  tech_at_cavalry:0 "Протитанкова кавалерія"
- tech_at_cavalry_effect:0 "Відкриває §H$tech_at_cavalry$\n$Кавалерія$§!\n      $STAT_COMMON_PIERCING$§G+3§!"
-
- tech_dragoon_tactics:0 "Тактика драгунів"
- tech_dragoon_tactics_effect:0 "Відкриває §H$tech_dragoon_tactics$\n$Кавалерія$§!\n      $STAT_COMMON_MAX_ORG$: §G+5§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.10§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n      Ніч $STAT_ADJUSTER_ATTACK$§G+10§!"
 
  tech_semi_motorised_cav:0 "Напівмоторизована кавалерія"
- tech_semi_motorised_cav_effect:0 "Відкриває §H$tech_semi_motorised_cav$\n$Кавалерія$§!\n      $STAT_COMMON_MAX_ORG$: §G+5§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.10§!\n      $STAT_ADJUSTER_MOVEMENT$§G+15%§!"
 
  tech_improved_encryption:0 "Покращене шифрування"
- tech_improved_encryption_effect:0 "Відкриває §H$tech_improved_encryption$§!\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+=0]"
 
  tech_mountain_artillery:0 "Гірська артилерія"
- tech_mountain_artillery_effect:0 "Відкриває §H$tech_mountain_artillery$§!\n§H$EQUIPMENT_ARTILLERY$\n    $Пагорби$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n    §H$Гори$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+ tech_mountain_artillery_terrain_effect:0 "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]"
 
- tech_arctic_commando:0 "Арктичний коммандос"
- tech_arctic_commando_effect:0 "Відкриває §H$tech_arctic_commando$§!\n    $MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: [?48|G1=] $MOD_HOUR$\n    §H$category_special_forces$§!\n        $MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+10%§!\n        §H$Пагорби$§!\n          $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n        §H$Гори$§!\n          $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+ tech_arctic_commando:0 "Арктичні коммандос"
+ tech_arctic_commando_terrain_effect:0 "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]"
 
  tech_better_paratroopers:0 "Елітні парашутисти"
- tech_better_paratroopers_effect:0 "Відкриває §H$tech_better_paratroopers$§!\n§H$Парашутисти$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.20§!\n      $MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$"
 
- tech_irregulars:0 "Нерегулярна піхота"
- tech_irregulars_effect:0 "Відкриває батальйони §Y$irregular_infantry$§!"
+ tech_irregulars:0 "$irregular_infantry$"
 
- tech_militias:0 "Міліція"
- tech_militias_effect:0 "Відкриває батальйони §Y$Міліція$§!"
-
- masterful_blitz_effect:0 "Дозволяє тактику: §Y$tactic_masterful_blitz$§!"
+ tech_militias:0 "$militia$"
 
  tech_anti-partisan:0 "Антиповстанська тактика"
- tech_anti-partisan_effect:0 "Відкриває §H$tech_anti-partisan$§!\n§H$Піхота$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n§H$Кавалерія$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n"
  
- tech_improved_logistics: "Покращена логістична група"
- tech_improved_logistics_effect: "Відкриває §H$tech_improved_logistics$\n$logistics_company$§!\n      Використання запасів: [?-.10|=-%0]\n      Використання палива: [?-.05|=-%0]"
+ tech_improved_logistics:0 "Покращена логістична група"
 
- tech_early_helicopters: "Ранні утилітарні гелікоптери" # (&?)
- tech_early_helicopters_effect: "Відкриває §Y$tech_early_helicopters$§!\n   $MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$\n§H$category_recon$§!\n   $STAT_ARMY_RECON$§G+1§!"
-
- tech_human_wave_tactics: "$tactic_human_wave_tactics$"
- tech_human_wave_tactics_effect: "Відкриває тактику: §Y$tactic_human_wave_tactics$§!"
-
- long_range_patrol_support_tech: "$long_range_patrol_support$"
- long_range_patrol_support_tech_effect: "Відкривєа §Y$long_range_patrol_support$§! роту логістики."
  modifier_army_sub_unit_long_range_patrol_support_attack_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_attack_factor$: $RIGHT|+=%2$"
  modifier_army_sub_unit_long_range_patrol_support_defence_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_defence_factor$: $RIGHT|+=%2$"
 
- winter_logistics_support_tech: "$winter_logistics_support$"
- winter_logistics_support_tech_effect: "Відкриває §Y$winter_logistics_support$§! роту логістики."
-
  tech_extensive_reconaissance: "Широкомасштабна розвідка"
- tech_extensive_reconaissance_effect: "Вікриває §H$tech_extensive_reconaissance$§!\n$tech_extensive_reconaissance_effect_tooltip$"
- tech_extensive_reconaissance_effect_tooltip: "§Y$category_recon$§!:\n   $STAT_ARMY_RECON$[?1|=+%1]\n   §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0]\n   §Y$forest$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$hills$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$mountain$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$marsh$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$plains$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]\n   §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]"
- tech_extensive_reconaissance_modifier_tooltip: "§Y$category_recon$§!: $STAT_ARMY_RECON$[?1|=+%1], §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0], §Y$forest$§!, §Y$hills$§!, §Y$mountain$§!, §Y$marsh$§!, §Y$plains$§! and §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+%0]"
+ tech_extensive_reconnaissance_terrain_effect: "  §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n  §Y$forest$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$hills$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$mountain$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$marsh$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$plains$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]"
 
  tech_strengthened_support_companies: "Посилені роти логістики"
- tech_strengthened_support_companies_effect: "Відкриває §H$tech_strengthened_support_companies$§!\n$tech_strengthened_support_companies_effect_tooltip$"
- tech_strengthened_support_companies_effect_tooltip: "§Y$category_support_battalions$§!:\n   $STAT_COMMON_MAX_ORG$[?10|=+1]\n   $STAT_COMMON_MAX_STRENGTH$[?5|=G1]"
- tech_strengthened_support_companies_modifier_tooltip: "§Y$category_support_battalions$§!: $STAT_COMMON_MAX_ORG$[?10|=+1], $STAT_COMMON_MAX_STRENGTH$[?5|=+1]"
 
  tech_anti_armour_tactics: "Протиброньова тактика"
- tech_anti_armour_tactics_effect: "Enables §H$tech_anti_armour_tactics$§!\n$tech_anti_armour_tactics_effect_tooltip$"
- tech_anti_armour_tactics_effect_tooltip: "§Y$category_all_infantry$§!:\n   $STAT_ARMY_HARD_ATTACK$[?0.25|=+%0]\n   $STAT_COMMON_PIERCING$[?1|=+%0]"
- tech_anti_armour_tactics_modifier_tooltip: "§Y$category_all_infantry$§!: $STAT_ARMY_HARD_ATTACK$[?0.25|=+%0], $STAT_COMMON_PIERCING$[?1|=+%0]"
-
- jungle_pioneers_support_tech: "Першопрохідці джунглів"
- jungle_pioneers_support_tech_effect: "Відкриває §Y$jungle_pioneers_support$§! роту логістики."
 
  tech_river_boats: "Річкові човни" # (&?)
- tech_river_boats_effect: "Відкриває §H$tech_river_boats$§!\n$tech_river_boats_effect_tooltip$"
- tech_river_boats_effect_tooltip: "§Y$category_all_infantry$§!:\n   $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0]\n   $STAT_ADJUSTER_ATTACK$[?0.1|=+%0]\n   $STAT_ADJUSTER_DEFENCE$[?0.05|=+%0]"
- tech_river_boats_modifier_tooltip: "§Y$category_all_infantry$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0], $STAT_ADJUSTER_ATTACK$[?0.1|=+%0], $STAT_ADJUSTER_DEFENCE$[?0.05|=+%0]"
+ tech_river_boats_terrain_effect: "  §Y$river$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_armored_car_spearhead: "Armoured Car Spearhead" # (!)
+
+ tech_masterful_blitz: "$tactic_masterful_blitz$"
+
+ tech_human_wave_tactics: "$tactic_human_wave_tactics$"
+
+ tech_improved_decryption: "Improved Decryption" # (!)
+
+ tech_elephant_sappers: "Elephant Sappers" # (!)
+ tech_elephant_sappers_terrain_effect: "  §Y$jungle$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_bicycle_battalion: "$bicycle_battalion$"
+
+ tech_camelry: "$camelry$"
+
+ tech_penal_battalion: "$penal_battalion$"
+
+ tech_winter_logistics_support: "$winter_logistics_support$"
+
+ tech_long_range_patrol_support: "$long_range_patrol_support$"
+
+ tech_jungle_pioneers_support: "$jungle_pioneers_support$"
+
+ tech_sturmtruppe_battalion: "$sturmtruppe_battalion$"
 
  ### Units ###
- rangers:0 "Рейнджери"
- rangers_desc:0 "Елітні загони легкої піхоти, підготовлені та оснащені для дій у складі звичайних дивізій."
+ assault_battalion: "$blackshirt_assault_battalion$"
+ assault_battalion_desc: "$blackshirt_assault_battalion_desc$"
 
- tech_rangers:0 "$rangers$"
- tech_rangers_effect:0 "Відкриває §Y$rangers$§!\n   $rangers_desc$\n\n   $DESIGNER_MANPOWER$[?1000|R0]\n   $STAT_ARMY_DEFAULT_MORALE$[?0.2|G1]\n   $STAT_ARMY_SOFT_ATTACK$[?0.1|G1]\n   $STAT_ARMY_SUPRESSION$[?1.5|G1]\n   $STAT_COMMON_MAX_STRENGTH$[?40|G1]\n   $DESIGNER_TRAINING_TIME$[?120|R0]\n   $STAT_ARMY_BREAKTHROUGH$[?0.3|G1]\n   $STAT_ARMY_SUPPLY_CONSUMPTION$[?0.06|R2]\n   $STAT_COMMON_MAX_ORG$[?10|G0]\n   $STAT_COMMON_WEIGHT$[?0.4|R1]"
+ tech_assault_battalion: "$assault_battalion$"
+ tech_assault_battalion_effect: "Enables §Y$assault_battalion$§! support company."
 
- modifier_army_sub_unit_rangers_attack_factor:0 "Атака $rangers$"
- modifier_army_sub_unit_rangers_defence_factor:0 "Захист $rangers$"
- modifier_army_sub_unit_rangers_speed_factor:0 "Швидкість $rangers$"
- modifier_army_sub_unit_rangers_max_org_factor:0 "Організація $rangers$"
- 
+ modifier_army_sub_unit_assault_battalion_attack_factor: "$assault_battalion$ Attack"
+ modifier_army_sub_unit_assault_battalion_defence_factor: "$assault_battalion$ Defence"
+ modifier_army_sub_unit_assault_battalion_speed_factor: "$assault_battalion$ Speed"
+ modifier_army_sub_unit_assault_battalion_max_org_factor: "$assault_battalion$ Organisation"
+
  ### Modules ###
  tank_makeshift_armor: "Імпровізована броня"
  tank_makeshift_armor_desc: "Зроблені з листів заліза замість сталі, щоб заощадити гроші. Краще, ніж без броні... Напевно."
@@ -805,6 +791,12 @@
  tank_improvised_turret_desc: "У ній знаходиться гармата, і вона може обертатися. Коли захоче."
 
  ### Debug Tag ###
- XXA:0 "Інтегровані території"
- XXA_ADJ:0 "Інтегровані"
- XXA_DEF:0 "Інтегровані території"
+ AAA:0 "Інтегровані території"
+ AAA_ADJ:0 "Інтегровані"
+ AAA_DEF:0 "Інтегровані території"
+
+ on_annex_workaround: " "
+ on_annex_workaround_ADJ: " "
+ on_annex_workaround_DEF: " "
+
+ system_placeholder_leader: "Placeholder"

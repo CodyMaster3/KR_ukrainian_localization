@@ -4,19 +4,29 @@
  chinese_united_front: "Китайський Об'єднаний Фронт"
 
 ### Autonomy Levels
- kr_associated_governorate: "Асоційована провінція"
- kr_autonomous_governorate: "Автономна провінція"
- kr_governorate: "Провінція"
- kr_integrated_governorate: "Інтегрована провінція"
+ chinese_suzerainty: "Chinese Suzerainty" # (!)
+ associated_governorate: "Асоційована провінція"
+ autonomous_governorate: "Автономна провінція"
+ governorate: "Провінція"
+ integrated_governorate: "Інтегрована провінція"
 
- COUNTRY_kr_associated_governorate: "$NONIDEOLOGY$"
- COUNTRY_kr_associated_governorate_DEF: "$NONIDEOLOGYDEF$"
- COUNTRY_kr_autonomous_governorate: "$NONIDEOLOGY$"
- COUNTRY_kr_autonomous_governorate_DEF: "$NONIDEOLOGYDEF$"
- COUNTRY_kr_governorate: "$NONIDEOLOGY$"
- COUNTRY_kr_governorate_DEF: "$NONIDEOLOGYDEF$"
- COUNTRY_kr_integrated_governorate: "$NONIDEOLOGY$"
- COUNTRY_kr_integrated_governorate_DEF: "$NONIDEOLOGYDEF$"
+ COUNTRY_chinese_suzerainty: "$NONIDEOLOGY$"
+ COUNTRY_chinese_suzerainty_DEF: "$NONIDEOLOGYDEF$"
+ COUNTRY_associated_governorate: "$NONIDEOLOGY$"
+ COUNTRY_associated_governorate_DEF: "$NONIDEOLOGYDEF$"
+ COUNTRY_autonomous_governorate: "$NONIDEOLOGY$"
+ COUNTRY_autonomous_governorate_DEF: "$NONIDEOLOGYDEF$"
+ COUNTRY_governorate: "$NONIDEOLOGY$"
+ COUNTRY_governorate_DEF: "$NONIDEOLOGYDEF$"
+ COUNTRY_integrated_governorate: "$NONIDEOLOGY$"
+ COUNTRY_integrated_governorate_DEF: "$NONIDEOLOGYDEF$"
+
+### Dynamic Modifiers ###
+ china_dense_rural_infrastructure: "Щільнонаселена сільська область"
+ china_dense_rural_infrastructure_desc: "Мережі інфраструктури в цій області вже й так дуже насичені щільністю місцевого населення.\n\nБуде прибрано з досягненням максимального рівня §Hінфраструктури§! в цій області."
+
+ CHN_autonomous_region_modifier: "Автономний регіон"
+ CHN_autonomous_region_modifier_desc: "The Qing dynasty's hold over its borderlands was a complicated affair, with ebbing and flowing degrees of control. These territories to the north and west, referred to as \"Feudatory Regions\" by the Chinese and \"Chinese Tartary\" by Western observers, consisted of a patchwork of tribes, clans, and frontier military garrisons swearing allegiance to the Emperor. As Chinese nationalism evolved and the Xinhai Revolution was underway, the question of how to treat ethnic minorities was a pervasive question for post-revolutionary Chinese identity, further complicated by attempts from secessionist groups to create breakaway states in Tibet, Mongolia, and Xinjiang. With a Chinese government having established control over this region, the powers that be have decided the best way to protect the rights of the locals and secure their loyalty has been to create a self-governing Autonomous Region." # (!)
 
 ### Decisions ###
 
@@ -45,7 +55,7 @@
  china_declare_government_SHX_desc: "Тепер, коли наші позиції на північно-китайській рівнині тверді, ми можемо сміливо оголосити себе спадкоємцями Сінхайської революції. Наш новий уряд має поставити за мету, повне об'єднання країни та знищення всіх претендентів. [SHX.GetLeader] – єдиний, хто міг подумати, що Шаньсі перетвориться з невеликої кліки на значну силу. Наші, хоробрість та сміливість при звільненні Центральних Рівнин не повинні похитнутися. Ми повинні довести, що саме ми гідні вести Китай за собою!"
 
  china_declare_government_SQI_national_populist: "Створити Нову Імперію Цін"
- china_declare_government_SQI_national_populist_desc: "Чжан Тяньжань наказав вести запеклі бої за Заборонене Місто. Палац став в'язницею для боягузливої ​​родини Айсіньгеро. Деякі з них намагалися втекти, але були спіймані та поміщені під варту. Палац надійно охороняється з усіх боків загонами червоних списів. Зрештою, імператор схилився перед Шаньцином. Замість ганебної смерті, Пу І був змушений офіційно капітулювати перед Чжанем Тяньжанем у своєму церемоніальному жовтому одязі. Крім того, він змушений був ще раз підтвердити свій титул імператора перед народом. Пу І залишиться номінальним правителем країни, а різного роду дрібні імператори, священики та магістрати Шаньцін Тяньгоу керуватимуть його імперією.\n\nЧжан Тяньжань виправдав імператора за жахи цієї міжусобної війни і оголосив про кульмінацію духовного наслідування, якому передувало Повстання Боксерів та революція Суня Ятсена."
+ china_declare_government_SQI_national_populist_desc: "Чжан Тяньжань наказав вести запеклі бої за Заборонене Місто. Палац став в'язницею для боягузливої родини Айсіньгеро. Деякі з них намагалися втекти, але були спіймані та поміщені під варту. Палац надійно охороняється з усіх боків загонами червоних списів. Зрештою, імператор схилився перед Шаньцином. Замість ганебної смерті, Пу І був змушений офіційно капітулювати перед Чжанем Тяньжанем у своєму церемоніальному жовтому одязі. Крім того, він змушений був ще раз підтвердити свій титул імператора перед народом. Пу І залишиться номінальним правителем країни, а різного роду дрібні імператори, священики та магістрати Шаньцін Тяньгоу керуватимуть його імперією.\n\nЧжан Тяньжань виправдав імператора за жахи цієї міжусобної війни і оголосив про кульмінацію духовного наслідування, якому передувало Повстання Боксерів та революція Суня Ятсена."
 
  china_declare_government_other: "Сформувати Національний Уряд"
  china_declare_government_other_desc: "Тепер, коли ми дали іншим зрозуміти, що ми є потужною силою в регіоні, настав час офіційно оголосити про наші амбіції щодо об'єднання Китаю. Ми докладемо всіх зусиль, щоб покласти край епосі принижень та внутрішнього розколу. Можливо, це приверне багато непотрібної уваги до нас і найімовірніше інші претенденти на об'єднання захочуть знищити нас. Але це та жертва, яку ми готові принести заради кінця епохи мілітаристів!"
@@ -99,6 +109,52 @@
  #CHI_threaten_ger_treaty_ports: "Demand the Germans Withdraw from China"
  #CHI_threaten_ger_treaty_ports_desc: "Too long have we suffered under Germany's humiliation, from the failure of the first Northern Expedition to their restoration of the despicable Qing monarchy. With the Nationalist Party in power, we will demand the Germans fully withdraw from all territorial acquisitions on the Chinese mainland."
 
+### Decision Category Scripted GUI ###
+ china_alignment_gui_button_tooltip: "Click to view the alignments of all §YChinese cliques§!." # (!)
+ china_alignment_gui_button_text: "Chinese Alignments" # (!)
+
+### China Alignment GUI Tab ###
+ china_alignment_title_text: "Chinese Faction Alignment" # (!)
+ china_alignment_faction_info_tenets: "Tenets" # (!)
+ china_faction_alignment_name_default: "[?country_leader:china_alignment.GetName] §YAlignment§!" # (!)
+ china_faction_aligment_name_npa: "§LNational Protection Alliance§! §YAlignment§!" # (!)
+ china_faction_alignment_name_independent: "§YIndependent Cliques§!" # (!)
+ china_faction_alignment_desc: "Leader: §Y[?global.china_alignment_leaders^alignment_i.GetName]§!\nCliques aligned with §Y[?global.china_alignment_leaders^alignment_i.GetName]§!:" # (!)
+ china_no_faction_desc: "The following cliques are independent. Hover over the flags to see their alignment status with ours." # (!)
+ china_alignment_faction_member_name: "§Y[THIS.GetName]§!\n[ChinaGetMemberAlignment] §YAligned§!\n[ChinaGetMemberAlignmentCompatibilityStatus]" # (!)
+ china_alignment_faction_alignment: "[?country_leader:china_alignment.GetName]" # (!)
+ china_alignment_no_alignment: "§YNon§!" # (!)
+ china_alignment_non_aligned_alignment: "This clique is §Ynot aligned§! to any leaderships." # (!)
+ china_alignment_compatible_alignment: "This clique has a §Ycompatible alignment§! with our leadership." # (!)
+ china_alignment_incompatible_alignment: "This clique has an §Yincompatible alignment§! with our leadership." # (!)
+ china_faction_tenets_title: "[ChinaGetAlignmentTenetsTitle]" # (!)
+ china_faction_tenets_title_default: "[?country_leader:china_alignment.GetName] §YTenets§!" # (!)
+ china_faction_tenets_title_npa: "§YTenets of the§! §LNational Protection Alliance§!" # (!)
+ china_faction_tenets_title_independent: "§YIndependent Cliques§!" # (!)
+ china_faction_tenets_desc: "[ChinaGetAlignmentTenetsDesc]" # (!)
+ china_faction_tenets_northern_zhili_desc: "§LRuled by the magnanimous \"King of Baoding\" Cao Kun and the renowned \"Jade Marshal\" Wu Peifu, the Northern Zhili clique owes its ancestry to Feng Guozhang's clique of the Beiyang New Army, and even further back to the Viceroy of Zhili, the \"Chinese Bismarck\" Li Hongzhang. Far more politically conscious of the popular masses desires for political reform, the North Zhili Clique sports a history of \"earnest\" reforms.\n\nHowever many lambaste the Zhili for being nothing more than warlords, with their internal divides and Guanxi network system worsening matters. Split between Cao's Jinbao faction and Wu's Luoyang faction, the Zhili's ideals are multi-faceted. Although one thing they are united in is the Zhili's role in China's unification.\n\nWith Cao Kun's faction relying on his political heavyweight career, ruling position within the Zhili Clique as a whole, and his hallmark constitution, they promote a series of cautious modernisation of the Chinese nation and the continuation of Beiyang's legacy. In contrast, Wu Peifu's faction promotes an intellectually minded Confucian Democratic Republic, hoping to remedy the mistakes of the Beiyang Republic in a form of genuine reformist intent.§!" # (!)
+ china_faction_tenets_southern_zhili_desc: "§LThe lasting legacy of the \"Smiling Tiger\" Sun Chuanfang, the Southern Zhili Clique shares similar ancestry to the North Zhili Clique. With its progenitors being Li Hongzhang and Feng Guozhang, the South Zhili would split from their Northern relatives following the rise of the Three Supervisors of the Yangtze River. That being Feng Guozhang, Li Chun and Wang Zhanyuan.\n\nFurther emboldened by Wang Zhanyuan's power plays and Feng's death, the South Zhili would ultimately come into their own under Sun Chuanfang. With the formation of the League of Five Provinces, the Southern Zhili cemented their dominance within China's Eastern Coast. However ideologically the Southern Zhili are far from coherent, with the numerous members all espousing their own tenets.\n\nWith Sun Chuanfang promoting a sense of enlightened despotic republicanism, Qi Xieyuan in contrast promotes a policy of autocratic concessionist rule, with Chen Yi landing himself in a peculiar position as a Southern Zhili member that retains extensive ties to both Japan, and has sympathies for the ideals of the old Tongmenghui.§!" # (!)
+ china_faction_tenets_manchu_qing_desc: "§LMuch detested by the Chinese people, the monarchy did not truly die in 1911. With the fire of monarchism continually championed by Kang Youwei, Liang Qichao, the Royal Family and other monarchical groups. Restored to prominence in a false gesture by the Zhili Clique, the monarchist groups within the Assembly were never truly satisfied with their position as second fiddle to Republicans.\n\nFollowing a period of Zhili weakness, the \"Manchu Coup\" was launched, seizing control of the Central Government and placing it in the hands of the Xuantong Emperor. Ruling through the Mandate of Heaven, and with various reformers and intellectuals at their side, the Restorationists champion a reformed Monarchy, one progressed onwards from the failures that led to the Xinhai Revolution.§!" # (!)
+ china_faction_tenets_fengtian_desc: "§LThe Anguojun Government, formally the National Pacification Army Government, is the supposed last vestiges of the original Beiyang Republic. Or at least, such a statement is claimed by Grand Marshal Zhang Zuolin, its ruling figure. Underneath the surface however, the Anguojun is but another source of legitimacy with which Zhang Zuolin clings onto any claim of national legitimacy.\n\nGrouping together the many factions of the Fengtian Clique, such as the Shaoshuai Clique of Zhang Xueliang, the Shikan Clique of Yang Yuting, and the Zhang Clique, the Anguojun also incorporates those disparate factions from its time in Beijing. Carrying with it the legacy of 1928, the Shenyang Assembly sports members from the old Anhui Clique; not too dissimilar to the membership of the Jiwei club, the Old and New Communications Cliques, the Pro-Japanese Concordia Association, and finally any Beiyang bureaucrats ejected from the Beijing Assembly or Zhili. Dysfunctional at best, it is a situation held together by the sheer force of the Old Marshal alone.§!" # (!)
+ china_faction_tenets_federalists_desc: "§LOwing a similar legacy to the Revolutionary Movements of the Xinhai Revolution, the Federalist movement can find its true ancestor in the form of the Tongmenghui. Further advanced by the intellectual musings of the legendary Zhang Taiyan, Liang Qichao, Song Jiaoren, and numerous others, the \"Provincial Constitution Movement\" would see rapid strides in provinces all around the nation. With Zhejiang, Hunan, Guangdong, Sichuan and Yunnan being the most successful.\n\nFollowing the developments of the Warlord Era, the Federalist movement would become a natural development as power moved from the Central Government towards the provincial level, and the status of the province rose. Seeing its first implementation in Hunan under Zhao Hengti, and in Zhejiang under the Zhejiang Autonomy Movement, Federalism would see further adoption and consideration throughout the nation.\n\nSplit ideologically, the Federalist movement carries with it the group that espouse \"bottom up\" Federalism, such as Li Jiannong and Zhao Hengti. \"Top Down\" Federalism as espoused by Tang Jiyao, and the well-field Federalist system promoted by Chen Jiongming. Seen as an alternative revolutionary movement to the Kuomintang, the Federalists saw little success in traditionally centralist North of the country, with their biggest proponents being minor parties within Beijing.§!" # (!)
+ china_faction_tenets_left_kuomintang_desc: "§LThe Kuomintang finds its origins in the Qing-era Revolutionary secret society, the Tongmenghui. Its founder Sun Yat-sen hoped to expel the Manchu Qing and establish a new Chinese Republic which occurred under the Xinhai Revolution. Disgusted with the Beiyang Warlords, Sun established a rival government in Guangzhou in collaboration with other Southern Republicans, such as Chen Jiongming's Federalists. After Sun and Chen had a falling out, the former came into contact with the Internationale, which sent him assistance through Russian exile advisors.\n\nThe Bolsheviks helped Sun revolutionise the Kuomintang in the Reorganisation of 1924, which saw the Party adopt the principles of Democratic Centralism with the goals to unify China under a One-Party State, during which the Party would enact political tutelage to prepare China for democracy and promote Sun's Three Principles of Minsheng, Minzu, and Minquan. After Sun's death, the Kuomintang would become beset with factionalism between the leftists who supported the alliance with the Chinese Syndicalist League and the rightists who opposed it.\n\nAfter the Northern Expedition collapsed and Chiang Kai-shek was killed, the Central Committee fled to Paris with remnants maintaining an Insurgency in the MinGan region. The Left Kuomintang seeks to complete the Unification of China and lead the Socialist Revolution in Asia. There can be no doubt that socialism is the natural conclusion of the Three Principles!§!" # (!)
+ china_faction_tenets_right_kuomintang_desc: "§LThe Kuomintang finds its origins in the Qing-era Revolutionary secret society, the Tongmenghui. Its founder Sun Yat-sen hoped to expel the Manchu Qing and establish a new Chinese Republic which occurred under the Xinhai Revolution. Disgusted with the Beiyang Warlords, Sun established a rival government in Guangzhou in collaboration with other Southern Republicans, such as Chen Jiongming's Federalists. After Sun and Chen had a falling out, the former came into contact with the Internationale, which sent him assistance through Russian exile advisors.\n\nThe Bolsheviks helped Sun revolutionise the Kuomintang in the Reorganisation of 1924, which saw the Party adopt the principles of Democratic Centralism with the goals to unify China under a One-Party State, during which the Party would enact political tutelage to prepare China for democracy and promote Sun's Three Principles of Minsheng, Minzu, and Minquan. After Sun's death, the Kuomintang would become beset with factionalism between the leftists who supported the alliance with the Chinese Syndicalist League and the rightists who opposed it.\n\nThe Rightists retreated to Guizhou following the failure of the Northern Expedition as the leftist cowards of the Central Committee fled to Paris. The Right Kuomintang hopes to fulfil Sun's dream by completing the National Revolution, without the scourge of socialism infecting the Three Principles. The New China will not be built on disgusting materialist interpretations of Sanmin doctrine!§!" # (!)
+ china_faction_tenets_national_protection_alliance_desc: "§LTruly a curious and peculiar grouping of warlords, opportunists, and other malfeasant individuals, the \"National Protection Alliance\" ostensibly claims its legacy to that of Cai E, Li Liejun and Tang Jiyao's \"National Protection Army\", or the Huguojun. Whilst their namesake espoused noble ideals of fighting an ultimate, total, war of national salvation to deny a despotic madman his autocratic ambitions, the National Protection Alliance of the current era could not be any more different.\n\nInstead promulgating and reinforcing provincial despots and their control over their provinces, the National Protection Alliance is a dysfunctional grouping of disparate characters united in their own preservation of their sole self-interest. Many observers, and most adamantly their rivals, claim that the warlord faction will most certainly not last, and serves only to continue the Warlord Era.§!" # (!)
+ china_faction_tenets_geacps_desc: "§LPerhaps decried as the worst fate to have fallen the Chinese people, the Japanese would appear to have sunk their ever salivating mouths into the China's rotting corpse, and with it they have left a shell of its skeleton in its place. Held together by the Japanese Kwantung Army and their local collaborationist allies, the Japanese Empire has finally extended its influence far beyond the games of the Old Marshal.\n\nWith no coherent ideology shared by their contemporaries bar pro-Japanese attitudes, the leading figures of this government are decried as collaborators, \"Hanjian\", and utterly detested by the native populace. Causing undue suffering and tremendous national trauma, it means nothing to Tokyo so much as Japanese businesses continue to rake in profits, and the collaborators selfish greed is satiated.§!" # (!)
+ china_faction_tenets_independent_desc: "§LIn the chaos of the warlord era, many governors operated with total autonomy from the governments in Beijing or Guangzhou. Such unaligned warlords are flexible in their outlook and will attempt to maintain their autonomy in the ever-changing political landscape...§!" # (!)
+
+### Alignment Tokens ###
+ northern_zhili: "§zNorthern Zhili§!" # (!)
+ southern_zhili: "§YSouthern Zhili§!" # (!)
+ manchu_qing: "§qRestorationist§!" # (!)
+ fengtian: "§eAnguojun§!"
+ beiyang: "§NBeiyang§!"
+ federalists: "§fFederalist§!" # (!)
+ left_kuomintang: "§kLeft Kuomintang§!" # (!)
+ right_kuomintang: "§cRight Kuomintang§!" # (!)
+ chinese_southern_republican: "§GSouthern Republican§!"
+ geacps: "§jGEACPS§!" # (!)
+
 ### Tooltips
  china_is_aligned_with_zhili: "Перебуває під владою §Lдружнього до Чжилі§! режиму"
  china_is_aligned_with_zhili_NOT: "§RНе§! перебуває під владою §Lдружнього до Чжилі§! режиму"
@@ -129,10 +185,6 @@
 
  china_morale_will_change_by: "£GFX_pol_violence §YМораль§! зміниться на [?change_league_war_morale_by|+0]."
 
- china_mobilize_1_units_tt: "Створить £manpower_texticon §Y1 дивізію§! у звільненій зоні."
- china_mobilize_2_units_tt: "Створить £manpower_texticon §Y2 дивізії§! у звільненій зоні."
- china_mobilize_3_units_tt: "Створить £manpower_texticon §Y3 дивізії§! у звільненій зоні."
-
  china_men_will_begin_to_defect_tt: "§RЛюди почнуть дезертувати з нашої армії!§!"
 
  china_integration_refusal_chance_tooltip: "\n§RШанси на відмову: [?refusal_weight|%-]§! \nФактори, що впливають:\n   - §YТип уряду§!\n   - §YЗагальна кількість провінцій§!\n   - §YВідносна сила армії§!\n   - §YВідносна промислова міць§!\n   - §YСтавлення§!\n"
@@ -153,13 +205,34 @@
  owner_of_beijing_has_wargoal_against_ROOT: "§YOwner§! of §Y[608.GetName]§!: Has a war goal against §Y[ROOT.GetNameWithFlag]§!"
  owner_of_beijing_has_war_with_wargoal_against_ROOT: "§YOwner§! of §Y[608.GetName]§!: Has a war with active war goal against §Y[ROOT.GetNameWithFlag]§!"
 
- china_gets_event_109_from_china_refused_autonomy: "$gets_event_start$$china_events.109.t.from_china_refused_autonomy$$gets_event_end$"
- china_gets_event_109_from_china_refused_lands: "$gets_event_start$$china_events.109.t.from_china_refused_lands$$gets_event_end$"
- china_gets_event_109_from_china_refused_both: "$gets_event_start$$china_events.109.t.from_china_refused_both$$gets_event_end$"
- china_gets_event_109_from_russia: "$gets_event_start$$china_events.109.t.from_russia$$gets_event_end$"
- china_gets_event_109_from_india: "$gets_event_start$$china_events.109.t.from_india$$gets_event_end$"
-
+ china_chinese_united_front_does_exist: "Китайський об'єднаний фронт існує"
+ china_chinese_united_front_does_not_exist: "Китайський об'єднаний фронт не існує"
  china_cannot_declare_war_while_in_united_front: "Члени Об'єднаного фронту не можуть оголошувати інші війни."
+
+ china_becomes_CHN_tt: "§YWe have been recognised as the most legitimate government in China.§!" # (!)
+ china_is_CHN_tt: "§YWe are the most legitimate government in China.§!" # (!)
+ china_is_the_chinese_unifier_tt: "§YHas unified China.§!" # (!)
+ china_has_war_with_CUF_tt: "Is at war with the Chinese United Front" # (!)
+
+ CHN_has_chosen_a_capital_flag: "§YWe have chosen a permanent capital for China.§!" # (!)
+
+ AGJ_set_leader_tt: "§eWe shall assume national leadership of the Anguojun.§!" # (!)
+ RGC_set_leader_tt: "§jWe shall assume national leadership of the GEACPS Alignment.§!" # (!)
+ UPC_set_leader_tt: "§fWe shall assume national leadership of the Federalists.§!" # (!)
+ LKT_set_leader_tt: "§kWe shall assume national leadership of the Left Kuomintang.§!" # (!)
+ NZH_set_leader_tt: "§zWe shall assume national leadership of the Northern Zhili Clique.§!" # (!)
+ MCU_set_leader_tt: "§qWe shall assume national leadership of the Restorationists.§!" # (!)
+ RKT_set_leader_tt: "§cWe shall assume national leadership of the Right Kuomintang.§!" # (!)
+ SZH_set_leader_tt: "§YWe shall assume national leadership of the Southern Zhili Clique.§!" # (!)
+
+ CHN_No_Other_AGJ_tt: "§YNo Other Existing Factions Have Claimed the §eAnguojun§! Mantle.§!" # (!)
+ CHN_No_Other_RGC_tt: "§YNo Other Existing Factions Have Claimed the §jGEACPS§! Mantle.§!" # (!)
+ CHN_No_Other_UPC_tt: "§YNo Other Existing Factions Have Claimed the §fFederalist§! Mantle.§!" # (!)
+ CHN_No_Other_LKT_tt: "§YNo Other Existing Factions Have Claimed the §kLeft Kuomintang§! Mantle.§!" # (!)
+ CHN_No_Other_NZH_tt: "§YNo Other Existing Factions Have Claimed the §zNorthern Zhili§! Mantle.§!" # (!)
+ CHN_No_Other_MCU_tt: "§YNo Other Existing Factions Have Claimed the §qRestorationist§! Mantle.§!" # (!)
+ CHN_No_Other_RKT_tt: "§YNo Other Existing Factions Have Claimed the §cRight Kuomintang§! Mantle.§!" # (!)
+ CHN_No_Other_SZH_tt: "§YNo Other Existing Factions Have Claimed the §YSouthern Zhili§! Mantle.§!" # (!)
 
 ### Army Reform
  china_army_decisions: "Реформи армії"
@@ -200,7 +273,7 @@
  china_green_forest_school_desc: "§LДеякі з китайських польових командирів взагалі не мають військової освіти і натомість говорять, що навчалися в "університеті зеленого лісу". Однак, незважаючи на всі свої недоліки, ці колишні (а іноді й діючі) бандити використовують унікальний підхід до ведення війни, вміючи залишатися гнучкими та стійкими навіть у найскладніших обставинах. Хтось може назвати їх методи грубими або навіть злочинними, але вони часто дають результат.§!"
 
 ### League War Support
- china_league_collapse_war_support_decisions: "Підтримка війни у ​​Лізі"
+ china_league_collapse_war_support_decisions: "Підтримка війни у Лізі"
  china_request_infantry_equipment: "Запросити [FROM.GetAdjective]і гвинтівки"
  china_request_artillery_equipment: "Запросити [FROM.GetAdjective]у артилерію"
  china_request_support_equipment: "Запросити [FROM.GetAdjective]е додаткове оснащення"
@@ -275,7 +348,7 @@
  china_morale_anq_tt: "§Y[ANQ.GetName]§!\n--------------\n[GetLeagueWarMoraleANQ]"
  china_morale_lep_tt: "§Y[LEP.GetName]§!\n--------------\n[GetLeagueWarMoraleLEP]"
  china_morale_chi_tt: "§Y[CHI.GetName]§!\n--------------\n[GetLeagueWarMoraleCHI]"
- china_morale_sun_tt: "§Y[LEP.GetName]§!\n--------------\n§RЦей претендент нині не бере участі у війні!§!"
+ china_morale_sun_tt: "§Y[LEP.GetName]§!\n--------------\n§RЦей претендент нині не бере участі у війні§!"
  china_morale_ded: "§RЦей претендент нині не бере участі у війні!§!"
 
  LEP_league_war_over: "Війна Ліги завершилася."
@@ -288,43 +361,6 @@
  china_generic_land_reform_decision: "Провести земельну реформу в [FROM.GetName]"
  #Generic Description, use scripted loc for tag specific descs
  china_generic_land_reform_decision_desc: "Багато мислителів і теоретиків пропонували потенційні рішення проблем китайської глибинки. Успішно об'єднавши націю під одним прапором, ми маємо достатньо ресурсів для реалізації комплексного плану щодо вирішення цих проблем. Все, що зараз необхідно, – це політична воля для здійснення таких зусиль у широкому масштабі."
-
-### Misc Events
-
- lepwar.1.t: "Наші чоловіки – дезертири!"
- lepwar.1.desc: "День за днем, ​​наш бойовий дух падає. Ми не маємо перемог, які можна було б показати, не маємо слави, за яку можна було б триматися. Близькі довірені особи [THIS.GetLeader], закликають його бігти в безпечне місце, але поки він відмовляється і зберігає віру у перемогу, наші солдати вже почали дезертувати..."
- lepwar.1.a: "Нам просто потрібно більше часу!"
-
- # lepwar.2 (hidden event)
-
- lepwar.3.t.good: "Мотивовані солдати"
- lepwar.3.t.bad: "Зростання дезертирства"
- lepwar.3.desc.good: "Часто кажуть, що коли людина вірить, що перемога близька, вона боротиметься сильніше та краще. Так це чи ні, але недавні успіхи на полі бою, сприяли підняттю бойового духу, позитивно впливаючи на перебіг військових дій."
- lepwar.3.desc.bad: "Низка помилок та невдач призвели до того, що наші війська не змогли досягти поставленої мети. Нам не вдається досягти значних успіхів, і в міру того, як війна затягується, все більше людей починають сумніватися в нас, залишаючи армію, повертаючись додому або стаючи бандитами."
- lepwar.3.a: "Чудово..."
- lepwar.3.b: "Жахливо..."
-
- lepwar.4.t.good: "Захоплення ворожих запасів"
- lepwar.4.t.bad: "Втрата обладнання"
- lepwar.4.desc.good: "Завдяки недавнім перемогам на полі бою, наші люди захопили склад постачання, повний ворожої зброї! Хоча війська, що відступали, намагалися нічого не залишати нам, швидкість нашого просування застала їх зненацька."
- lepwar.4.desc.bad: "Після низки поразок на полі бою, бойовий дух опустився на дно. При відступі, група солдатів, яка мала доставити припаси до столиці, дезертувала і забрала їх з собою. Це є порушенням загальної дисципліни, і важкою втратою нашого оснащення."
- lepwar.4.a.good: "Чудово!"
- lepwar.4.b.bad: "Шахраї, всі до одного."
-
- lepwar.5.t.good: "Похвала лідеру [THIS.GetLeader]"
- lepwar.5.t.bad: "Критика лідера [THIS.GetLeader]"
- lepwar.5.desc.good: "Останні успіхи у війні, сприяли зміцненню позицій [THIS.GetLeader]. Члени уряду, що колись критикували його правління, почали мовчати, а голоси на підтримку почали звучати дедалі голосніше. Якщо ця тенденція збережеться, на війну чекає швидке завершення."
- lepwar.5.desc.bad: "Останні невдачі у війні, викликають дедалі більше критики на адресу керівництва [THIS.GetLeader]. Голоси противників його правління стають дедалі голоснішими, ходять чутки про змови з метою його зміщення, тоді як обіцяні перемоги, все далі й далі віддаляються. Якщо ця тенденція збережеться, [THIS.GetNameDef] може залишити [THIS.Capital.GetCapitalVictoryPointName] через внутрішні розбіжності задовго до того, як ворожа армія візьме [THIS.Capital.GetCapitalVictoryPointName]."
- lepwar.5.a: "Це правильно."
- lepwar.5.b: "Невже вони не можуть просто закрити рота?"
-
- lepwar.6.t: "Дезертири з Аньціну"
- lepwar.6.desc: "Після розпаду Кліки Аньцін, багато воєначальників, офіцерів і дрібних деспотів, які заплямували себе зв'язком Чень Тяоюаня з японцями, вважали за краще зробити ставку на [SQI.GetLeader], ніж ризикувати відплатою з боку Гоміньдану. Їхні навички, будуть корисними для нас."
- lepwar.6.a: "Ласкаво просимо!"
-
- lepwar.7.t: "Наслідки зради Чень І"
- lepwar.7.d: "Перехід губернатора Чень І до Аньцін був зустрінутий з великою зневагою та побоюваннями в лавах Кліки Нанкін. Колишній банкір, воєначальник і губернатор створив потужну мережу покровителів у Чжецзяні, і разом з ним дезертувало значна кількість солдатів та офіцерів. Зв'язок із цим районом було перервано, а критично важливі розвіддані втрачені внаслідок цього останнього удару по південному Чжилі. Однак не всі офіцери з Чжецзяну приєдналися до Ченя.\n\nОднією з небагатьох світлих плям у ці важкі часи, став героїчний відступ Танг Еньбо, давнього штабного офіцера та учня Чень І. Незважаючи на навчання в Японії та місцеві зв'язки, молодий офіцер вирішив залишитися вірним Нанкіну. Маючи великий досвід боротьби з партизанами Гоміньдану на півдні, він зміг пом'якшити збитки, завдані зрадою Чень І, відступивши до дружніх кордонів. Його майстерність, безперечно, привернула увагу маршала Ці."
- lepwar.7.a: "Сходить нова зірка!"
 
 ### Ideas ###
  unequal_treaties: "Нерівноправні договори"
@@ -341,7 +377,7 @@
  china_desertions_common_desc: "Низка поразок призвела до того, що все більше чоловіків відмовляються воювати, іноді вступаючи в армію, щоб отримати нову пару одягу та розпродати її на найближчому ринку."
  china_morale_effects_tooltip: "§YБойовий дух Ліги§!\nПриріст політичної влади: [?china_morale_dm_political_power_gain|+=%0]\nПідтримка війни: [?china_morale_dm_war_support_factor|+%=2]\nЛіміт капітуляції: [?china_morale_dm_surrender_limit|+%=0]\nПрорив: [?china_morale_dm_breakthrough_factor|+%=1]"
  china_anti_stalemate_idea_2: "Крах морального духу"
- china_anti_stalemate_idea_2_desc: "Нездатність [THIS.GetLeader] добитися закінчення війни, призвела до повного та остаточного занепаду бойового духу в наших військах. День за днем ​​солдати складають зброю або займаються бандитизмом, кидаючи нашу справу напризволяще."
+ china_anti_stalemate_idea_2_desc: "Нездатність [THIS.GetLeader] добитися закінчення війни, призвела до повного та остаточного занепаду бойового духу в наших військах. День за днем солдати складають зброю або займаються бандитизмом, кидаючи нашу справу напризволяще."
  china_motivated_soldiers: "Мотивовані солдати"
 
  ### Events ###
@@ -451,7 +487,7 @@
  china_events.6.a: "Їхня справа не така вже й права."
 
  china_events.7.t: "Держава [FROM.GetNameDefCap] запрошує до своїх лав"
- china_events.7.d: "Навіть якщо Китай, день за днем, ​​стає дедалі розділенішим, у ньому залишається місце для тих, хто має спільні погляди на майбутнє країни. Ці яскраві уми розділені, часто, горами і річками, що змушує їх самотужки виживати. І все ж, приємно бачити, що іноді зірки складають вдало і товариші знаходять спосіб звільнити себе від кайданів.\n\n[FROM.GetLeader], лідер держави [FROM.GetNameDef] вважає [ROOT.GetRulingParty] своїми союзниками у боротьбі за свободу. [ROOT.GetLeader] був запрошений до їхніх лав з метою наблизити об'єднання Китаю без зайвого кровопролиття."
+ china_events.7.d: "Навіть якщо Китай, день за днем, стає дедалі розділенішим, у ньому залишається місце для тих, хто має спільні погляди на майбутнє країни. Ці яскраві уми розділені, часто, горами і річками, що змушує їх самотужки виживати. І все ж, приємно бачити, що іноді зірки складають вдало і товариші знаходять спосіб звільнити себе від кайданів.\n\n[FROM.GetLeader], лідер держави [FROM.GetNameDef] вважає [ROOT.GetRulingParty] своїми союзниками у боротьбі за свободу. [ROOT.GetLeader] був запрошений до їхніх лав з метою наблизити об'єднання Китаю без зайвого кровопролиття."
  china_events.7.a: "Ми згодні."
  china_events.7.b: "Ми один одному, не браття."
 
@@ -521,8 +557,8 @@
  china_central_plains_war_desc_lkmt: "Дивовижні новини надходять із Китаю, в якому розгоряється чергова громадянська війна. І хоча місцеві мілітаристи, принесли клятву вірності Гоміньдану, багато хто з них вирішив обірвати зв'язки з ним, мотивуючи це тиранією.\n\nІ хоча деякі можуть зауважити, що сама ідея унітарної держави неодмінно призвела б до такого конфлікту, ні в кого немає сумнівів, що НРА має діяти швидко і рішуче, інакше Гоміньдан втратить останній шанс втілити в життя ідеї Сунь Ятсена."
  china_central_plains_war_desc_rkmt: "Після того, як він був неодноразово витіснений своїми політичними опонентами, Сунь Ятсен заснував Гоміньдан на принципах авангардизму, вимагаючи персональної клятви вірності від кожного його члена. Незважаючи на це, Гоміньдан насилу нагадував єдиний фронт, ще навіть до смерті вічного прем'єра. Праві елементи Гоміньдану спробували сформувати об'єднану коаліцію, але за останні кілька днів вона посипалася, як картковий будиночок.\n\n[FROM.GetLeader] заявив, що повстання – справа рук бандитів. Таким чином, він намагається делегітимізувати невдоволення авторитарними методами правління. Однак це мало допомогло – армії обох сторін готуються до нової війни. Гоміньдан спіткала ще одна велика невдача. Час покаже, чи зможе він упоратися з повстанням."
  china_central_plains_war_desc_zhili: "Цього не мало статися. Після нищівної перемоги Кліки Чжилі в 1920-их роках, багато хто бачив майбутнє Китаю, побудоване на її ідеях та принципах. Ці мрії були перетворені на ніщо після того, як у 1936-му році розпалася Ліга Восьми Провінцій. З тих самих пір, справи Кліки Чжилі йшли все гірше і гірше. Спроби зібрати уламки колишньої величі, повністю провалилися. Багато місцевих губернаторів та мілітаристів відкрито виступили проти влади кліки.\n\nПроводячи паралелі з "Війною на захист нації", повстанці заявляють, що хочуть звільнити країну від тиранії Чжилі. Якщо Кліка Чжилі хоче пережити цей шторм, їй доведеться проявити себе на полі бою."
- china_central_plains_war_desc_manchu: "Монархія Цін не здобула підтримки серед простого народу навіть після того, як вона повалила владу Кліки Чжилі. Спроби монархістів утвердити свою владу в регіонах, викликало нову "Війну на ​​захист нації". Повсталі активно використовують історичні паралелі, щоб надати своєму руху проти монархії, республіканський підтекст.\n\n[FROM.GetAdjective]ий уряд, своєю чергою, оголосив початок "Кампанії з умиротворення". Час покаже, яка доля чекає на династію Цін у цей непростий час."
- china_central_plains_war_desc_fengtian: "Тріумф Фентянського уряду не означає кінець його проблем, пов'язаних з невгамовністю регіональних мілітаристів. І хоча [FROM.GetLeader] зміг забезпечити лояльність частини місцевих губернаторів, як виявилося, всі ці домовленості були лише марними словами.\n\nУ багатьох провінціях вирує повстання, легітимність [FROM.GetAdjective]ого уряду поставлена ​​під питання. Почали поширюватися чутки про зв'язки Фентяню з Японією. Якщо це повстання не буде швидко придушене, мрії про єдиний Китай знову залишаться лише мріями."
+ china_central_plains_war_desc_manchu: "Монархія Цін не здобула підтримки серед простого народу навіть після того, як вона повалила владу Кліки Чжилі. Спроби монархістів утвердити свою владу в регіонах, викликало нову "Війну на захист нації". Повсталі активно використовують історичні паралелі, щоб надати своєму руху проти монархії, республіканський підтекст.\n\n[FROM.GetAdjective]ий уряд, своєю чергою, оголосив початок "Кампанії з умиротворення". Час покаже, яка доля чекає на династію Цін у цей непростий час."
+ china_central_plains_war_desc_fengtian: "Тріумф Фентянського уряду не означає кінець його проблем, пов'язаних з невгамовністю регіональних мілітаристів. І хоча [FROM.GetLeader] зміг забезпечити лояльність частини місцевих губернаторів, як виявилося, всі ці домовленості були лише марними словами.\n\nУ багатьох провінціях вирує повстання, легітимність [FROM.GetAdjective]ого уряду поставлена під питання. Почали поширюватися чутки про зв'язки Фентяню з Японією. Якщо це повстання не буде швидко придушене, мрії про єдиний Китай знову залишаться лише мріями."
  china_central_plains_war_desc_generic: "І хоча держава [FROM.GetNameDef] зробила величезний прорив у об'єднанні країни, спроби забезпечити лояльність місцевих губернаторів обернулася провалом.\n\nВзаємна недовіра, помножена на наполегливі спроби посилити інтеграцію місцевої влади, призвела до початку громадянської війни, внаслідок якої багато місцевих губернаторів і мілітаристів виступили проти центрального уряду. На тлі того, як армії обох сторін йдуть у бій, цивільні намагаються сховатися та моляться про те, щоб пережити черговий виток кровопролиття у регіоні."
  china_central_plains_war_option_government: "Нашому уряду буде краще без них!"
  china_central_plains_war_option_government_warlord: "Ми знищимо зрадників!"
@@ -699,7 +735,7 @@
 
  china_offers_available_paragraph_lands: "Наші переговори з державою [FROM.GetNameDef] пішли не за планом. Китайці не хочуть йти на жодні поступки, вимагаючи повного підпорядкування. Як альтернатива кровопролитній війні, наш уряд запропонував добровільно віддати землі зі суттєвим ханьським населенням. І хоча це вдарить по нашому іміджу, таке рішення може стати непоганим варіантом розвитку подій."
 
- china_seek_protection_paragraph_intro: "І хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. Далеко на півночі, Росія шукає шляхи встановлення гегемонії у Євразії. Немає сумнівів, що вони можуть стати для нас хорошими союзниками. З іншого боку, у південній півкулі зійшла зірка ще однієї країни. Об'єднана Індія, зацікавлена ​​у тому, щоб стримати експансіонізм Китаю. Можливо, під крилом цих могутніх держав ми знайдемо собі притулок."
+ china_seek_protection_paragraph_intro: "І хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. Далеко на півночі, Росія шукає шляхи встановлення гегемонії у Євразії. Немає сумнівів, що вони можуть стати для нас хорошими союзниками. З іншого боку, у південній півкулі зійшла зірка ще однієї країни. Об'єднана Індія, зацікавлена у тому, щоб стримати експансіонізм Китаю. Можливо, під крилом цих могутніх держав ми знайдемо собі притулок."
 
  china_seek_protection_paragraph_refused_both: "$china_seek_protection_paragraph_intro$\n\nНа жаль, жодна з цих країн так і не виступила із підтримкою нашої країни. Як це не сумно, але ми залишилися одні."
  china_seek_protection_paragraph_refused_russia_socialist_india: "$china_seek_protection_paragraph_intro$\n\nНа жаль, Росія відхилила нашу пропозицію. Тим не менш, ми можемо звернутися за допомогою до держави [HND.GetNameDef]. Однак вони можуть вимагати від нас встановити соціалістичний уряд, за їх втручання у наш конфлікт із Китаєм. Консерватори у нашому уряді виступили різко проти такої перспективи, але інших варіантів у нас немає."
@@ -714,8 +750,8 @@
  china_seek_protection_paragraph_russia_socialist: "Хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. Далеко на півночі, Росія шукає шляхи встановлення гегемонії у Євразії. Якщо ми виявимо бажання приєднатися до їхньої сфери впливу, вони вимагатимуть від нас впустити лівих політиків у наш уряд, щоб більше відповідати їхнім ідеалам революції. Консерватори в нашому уряді виступили різко проти такої перспективи, але, можливо, нам доведеться піти на такий крок заради виживання."
  china_seek_protection_paragraph_russia_default: "Хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. Далеко на півночі, Росія шукає шляхи встановлення гегемонії у Євразії. Можливо, за їх допомогою ми зможемо відвадити китайців від наших кордонів."
 
- china_seek_protection_paragraph_india_socialist: "Хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. У південній півкулі зійшла зірка ще однієї країни. Об'єднана Індія, зацікавлена ​​у тому, щоб стримати експансіонізм Китаю. Якщо ми виявимо бажання приєднатися до їхньої сфери впливу, вони вимагатимуть від нас впустити лівих політиків у наш уряд, щоб більше відповідати їхнім ідеалам революції. Консерватори в нашому уряді виступили різко проти такої перспективи, але, можливо, нам доведеться піти на такий крок заради виживання."
- china_seek_protection_paragraph_india_default: "Хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. У південній півкулі зійшла зірка ще однієї країни. Об'єднана Індія, зацікавлена ​​у тому, щоб стримати експансіонізм Китаю. Можливо, за їх допомогою ми зможемо відвадити китайців від наших кордонів."
+ china_seek_protection_paragraph_india_socialist: "Хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. У південній півкулі зійшла зірка ще однієї країни. Об'єднана Індія, зацікавлена у тому, щоб стримати експансіонізм Китаю. Якщо ми виявимо бажання приєднатися до їхньої сфери впливу, вони вимагатимуть від нас впустити лівих політиків у наш уряд, щоб більше відповідати їхнім ідеалам революції. Консерватори в нашому уряді виступили різко проти такої перспективи, але, можливо, нам доведеться піти на такий крок заради виживання."
+ china_seek_protection_paragraph_india_default: "Хоча ми довгий час боролися з тиском наших китайських повелителів, нова геополітична ситуація у світі надала нам цікаву можливість. У південній півкулі зійшла зірка ще однієї країни. Об'єднана Індія, зацікавлена у тому, щоб стримати експансіонізм Китаю. Можливо, за їх допомогою ми зможемо відвадити китайців від наших кордонів."
 
  china_events.109.a: "Ми приймаємо їхню пропозицію."
  china_events.109.b: "Якщо вони хочуть миру, то мають стати частиною нашої сфери."
@@ -856,7 +892,7 @@
  china_events.131.d.puppet: "We have received news from [FROM.overlord.GetNameDef], that as part of their official mediation with our country and on behalf of [FROM.GetNameDef], [FROM.GetNameDef] will cede away lands that they own with a significant Han minority. In return, they ask that we drop all other claims on their territory and respect their independence. While this is certainly an enticing offer, warhawk nationalists are calling for us to reject this perceived unequal treaty and to instead prepare for war with [FROM.overlord.GetNameDef]."
  china_events.131.d.not_puppet: "We have received news from [TAG.faction_leader.GetNameDef], that as part of their official mediation with our country and on behalf of [FROM.GetNameDef], [FROM.GetNameDef] will cede away lands that they own with a significant Han minority. In return, they ask that we drop all other claims on their territory and respect their independence. While this is certainly an enticing offer, warhawk nationalists are calling for us to reject this perceived unequal treaty and to instead prepare for war with [TAG.faction_leader.GetNameDef]."
  china_events.131.a: "We accept this proposal for peace."
- china_events.131.b: "We we will not sign this unequal treaty!"
+ china_events.131.b: "We will not sign this unequal treaty!"
 
  china_events.132.t: "China Accepts Compromise"
  china_events.132.d.target: "We have received news that the Chinese Government has agreed to accept the lands of which they claim which possess a Chinese minority in exchange for relinquishing all of their claims on our land. We will accept this proposal while this means our land is stripped away."
@@ -1119,8 +1155,8 @@
  china_events.313.d: "Бідна західна провінція Сичуань, була відома своїми протиборчими кліками мілітаристів, які вкинули регіон у вир громадянської війни, яка посилилася на тлі голоду. У ці непрості часи, генерал Лю Сян зміг побороти всіх своїх суперників і об'єднати провінцію під своєю владою.\n\nОфіційно розкритикувавши центральний уряд, генерал Сян направив Сичуань на стежку війни, під час якої він зміг знищити всіх своїх конкурентів. На тлі блискучих перемог над конкурентами, Лю Сян оголосив себе президентом відродженої Республіки Китай. Час покаже, чи протримається режим генерала досить довго, щоб залишити після себе якусь спадщину."
  china_events.313.a: "Перемога темної конячки Китаю!"
 
- china_events.314.t: "Держава [FROM.GetNameDefCap] об'єднала Китай"
- china_events.314.d: "У цей непростий для Китаю час, постійних воєн і чвар, політична карта регіону змінюється з кожним днем. Ні для кого вже не новина, що різні кліки мілітаристів прагнуть вийти за межі рідних провінцій, сподіваючись отримати владу і визнання. Але ось що справді здивувало всіх, так це те, що держава [FROM.GetNameDef] змогла побороти інші ворожі уряди та оголосити про створення Республіки Китай у своїй столиці, місті [FROM.Capital.GetCapitalVictoryPointName].\n\nКитай, будучи багато років розділеним, знову об'єднався під керівництвом видатного лідера, яким є [ROOT.GetLeader]. Час покаже, чи зможе Китай наздогнати у розвитку решта світу, але одне відомо точно – ера мілітаристів добігла кінця і китайський народ може зітхнути з полегшенням."
+ china_events.314.t: "Держава [FROM.GetOldName] об'єднала Китай"
+ china_events.314.d: "У цей непростий для Китаю час, постійних воєн і чвар, політична карта регіону змінюється з кожним днем. Ні для кого вже не новина, що різні кліки мілітаристів прагнуть вийти за межі рідних провінцій, сподіваючись отримати владу і визнання. Але ось що справді здивувало всіх, так це те, що держава [FROM.GetOldNameDef] змогла побороти інші ворожі уряди та оголосити про створення Республіки Китай у своїй столиці, місті [FROM.Capital.GetCapitalVictoryPointName].\n\nКитай, будучи багато років розділеним, знову об'єднався під керівництвом видатного лідера, яким є [FROM.GetLeader]. Час покаже, чи зможе Китай наздогнати у розвитку решта світу, але одне відомо точно – ера мілітаристів добігла кінця і китайський народ може зітхнути з полегшенням."
  china_events.314.a: "Китайський народ подолав свої чвари!"
 
  china_events.340.t: "Chairman Wang Holds On"
@@ -1140,7 +1176,7 @@
  china_events.343.a: "Darkness has befallen the National Revolution."
 
 # Faction Joining Events
- china_events.401.t: "China seeks to join the Internationale"
+ china_events.401.t: "China Seeks to Join the Internationale"
  china_events.401.d: "Our relationship with the Chinese Kuomintang goes back to the 1924 Reorganisation of their party when we approached the late Dr. Sun Yat-sen to work with the KMT, as we see the Kuomintang movement as the only one in which a socialist China can emerge. We helped train their revolutionary army at Whampoa and most of all, we took in the Kuomintang exiles such as Wang Jingwei following the collapse of the First Northern Expedition.\n\nNow many years later, our investment in the Kuomintang has bore fruit as the Kuomintang has succeeded in unifying China under the socialist creed and has now approached us to join the Internationale. Citing their commitment to help others secure liberation in the world revolution as well as their desire to help us oversee the destruction of the German world order, they have asked to formally be invited to the Third Internationale. While we are more than happy to accept cooperation with our Chinese comrades, a minority within our  government who are suspicious of the Kuomintang's \"Party State\" ideals and have warned against working with them."
  china_events.401.a: "Together we shall free the world!"
  china_events.401.b: "They are far too unorthodox for our taste."
@@ -1153,7 +1189,7 @@
  china_events.403.d: "Despite our desire to cooperate with the Third Internationale, unfortunately - they have denied our application to join their global revolution. Citing our ideological differences from orthodox syndicalism amongst other differences, the Internationale has formally rejected our application to join them. While this is certainly frustrating given our once close relationship with the Third Internationale, it proves to many of us that no matter what ideology - the West merely seeks to work with China for its own benefit and does not really seek to establish an equal relationship. Whether capitalist or socialist, it is quite clear to us that the West is still guided by the mindset of imperialism."
  china_events.403.a: "Imperialists can never change their stripes."
 
- china_events.404.t: "China seeks to join the Reichspakt"
+ china_events.404.t: "China Seeks to Join the Reichspakt"
  china_events.404.d: "Ever since we intervened in favour of the Beijing Government during the KMT's doomed Northern Expedition, we have held close ties with China both diplomatically and economically. Although at times fragile, especially during the anti-concessionist rebellion that nearly destroyed the our ally's rule over China, they have, thanks to our help, overcome this struggle and united China for good.\n\nNow, seeking deeper co-operation, the Chinese ambassador has requested for China to formally join our military alliance. While it could prove beneficial for both parties, we are aware how such closer ties could jeopardise the security of our investments as China would be pulled into any war Germany is in. However, at the same time it could give us the opportunity to better defend our interest in the event of a outside attack against China."
  china_events.404.a: "A military alliance will secure our investments."
  china_events.404.b: "We can not ruin our investments by allying them."
@@ -1318,7 +1354,7 @@
  united_china_kuomintang_guangxi_national_populist_DEF: "Республіка Китай"
 
 # Provinces
- chinese_province_title: "[THIS.ChinaGetStateProvinceTitle] провінція"
+ chinese_province_title: "Провінція [THIS.ChinaGetStateProvinceTitle]"
  anhui_province_state: "Аньхой"
  chahar_province_state: "Чахар"
  fengtian_province_state: "Фентянь"

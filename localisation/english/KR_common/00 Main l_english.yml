@@ -72,6 +72,8 @@
  KR_welcome_splash_tab_4_content_7: "~mw~ // miwaco.  ·  Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Rnk ·  Sasha  ·  Shiroe  ·  Sonny O'Cad"
  KR_welcome_splash_tab_4_content_8: "SuperGreenBeans  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian  ·  The Irredentista"
  KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
+ KR_welcome_splash_tab_4_content_10: "\n§YУкраїнська команда перекладачів:§!"
+ KR_welcome_splash_tab_4_content_11: "CodyMaster  ·  Bovcun  ·  Letičan"
 
 ### Career Profile ###
  KAISERREICH_CAREER_PROFILE: "Кайзеррайх"
@@ -349,20 +351,20 @@
  autonomous_territory: "Автономна територія"
 
 ### Autonomy Tooltips ###
- can_lower_autonomy_level:0 "Можете знизити автономію"
- can_raise_autonomy_level:0 "Можете збільшити автономію"
- puppet_can_become_free:0 "Можете стати незалежними"
- puppet_can_be_annexed:0 "Може бути інтегрованим"
- may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§! може підвищити свою автономію"
- may_become_free:0 "§Y[Root.GetNameDefCap]§! може здобути незалежність"
- cannot_change_autonomy_manually:0 "§RНеможливо вручну змінити рівень автономії§!"
- clamour_for_independence:0 "Вимога незалежності"
- clamour_for_autonomy:0 "Вимога автономії"
+ can_lower_autonomy_level: "Можете знизити автономію"
+ can_raise_autonomy_level: "Можете збільшити автономію"
+ puppet_can_become_free: "Можете стати незалежними"
+ puppet_can_be_annexed: "Може бути інтегрованим"
+ may_raise_autonomy: "§Y[Root.GetNameDefCap]§! може підвищити свою автономію"
+ may_become_free: "§Y[Root.GetNameDefCap]§! може здобути незалежність"
+ cannot_change_autonomy_manually: "§RНеможливо вручну змінити рівень автономії§!"
+ clamour_for_independence: "Вимога незалежності"
+ clamour_for_autonomy: "Вимога автономії"
 
 ### Opinion Modifiers ###
- KR_friendly:0 "Доброзичливий"
- KR_hostile:0 "Ворожий"
- KR_liberated_us:0 "Звільнила нас"
+ KR_friendly: "Доброзичливий"
+ KR_hostile: "Ворожий"
+ KR_liberated_us: "Звільнила нас"
  KR_loyal_subject: "Лояльний суб'єкт"
  KR_diplomatic_mission: "Дипломатична місія"
 

@@ -2,13 +2,20 @@
 
 ### Regular Tooltips (for use in custom_effect_tooltip) ###
  tooltip_white_line: "   \n"
+ tooltip_line_break: "\n"
+ tooltip_line_break_2: "$tooltip_line_break$$tooltip_line_break$"
 
- elections_in_one_months: "§HВибори відбудуться через місяць§!"
- elections_in_three_months: "§HВибори відбудуться через три місяці§!"
+ elections_in_one_months: "§HВибори відбудуться за місяць§!"
+ elections_in_three_months: "§HВибори відбудуться за три місяці§!"
 
  characters_will_be_retired: "§RНаступні персонажі будуть виведені на пенсію:§!"
  characters_will_be_recruited: "§GБудуть набрані наступні персонажі:§!"
  character_becomes_a_general: "(Skill [?skill_level]) becomes a General.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]"
+ character_becomes_a_general_bound: "(Skill $SKILL$) becomes a General.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$  £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$"
+ character_becomes_a_field_marshal: "(Skill [?skill_level]) becomes a Field Marshal.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]"
+ character_becomes_a_field_marshal_bound: "(Skill $SKILL$) becomes a Field Marshal.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$"
+ character_becomes_a_naval_commander: "(Skill [?skill_level]) becomes a naval commander.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]"
+ character_becomes_a_naval_commander_bound: "(Skill $SKILL$) becomes a naval commander.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$"
 
  tooltip_immediate_effect_upon_focus_start: "§YНегайний ефект після запуску фокусу:§!\n"
  tooltip_effect_upon_focus_completion: "\n§GЕфект після завершення фокусу:§!\n"
@@ -47,6 +54,15 @@
  tooltip_reduces_focus_effects: "§C§RReduces§! the effects of the following foci:§!"
 
  #scoped to the country joining
+ tooltip_joins_faction: "§Y[THIS.GetName]§! приєднується до фракції."
+
+ if_controlled_by_PREV: "якщо його контролює §Y[PREV.GetNonIdeologyName]§!:"
+
+ may_lead_to_war_with_THIS: "§RМоже призвести до війни з [This.GetNameDef]!§!"
+ may_lead_to_war_with_FROM: "§RМоже призвести до війни з [From.GetNameDef]!§!"
+ may_lead_to_war_with_FROM_overlord: "§RМоже призвести до війни з [From.overlord.GetNameDef]!§!"
+ may_lead_to_war_with_FROM_FROM: "§RМоже призвести до війни з [From.From.GetNameDef]!§!"
+ may_lead_to_war_with_FROM_FROM_overlord: "§RМоже призвести до війни з [From.From.overlord.GetNameDef]!§!"
  tooltip_joins_faction: "Приєднується до фракції."
 
  state_integration_enabled_tooltip: "При наявності §H[?integration_threshold?50|%%0] підпорядкування, можна провести націоналізацію§!."
@@ -56,6 +72,7 @@
 
  kill_character_tt: "помирає. "
 
+ reduce_stability_decision_cost_twenty_five_percent_tt: "Reduce the £pol_power §YPolitical Power§! cost of £GFX_decision_icon_small §Y$generic_raise_stability$§! by §G25%§!"
  reduce_propaganda_decision_cost_twenty_five_percent_tt: "Reduce the £pol_power §YPolitical Power§! cost of £GFX_decision_icon_small §Y$war_propaganda$§!, £GFX_decision_icon_small §Y$war_propaganda_casualties$§!, £GFX_decision_icon_small §Y$war_propaganda_convoys$§!, and £GFX_decision_icon_small §Y$war_propaganda_bombing$§! by §G25%§!"
 
  # used to generate tooltips in dockyard or naval base foci when the country doesn't own any coastal states
@@ -94,6 +111,9 @@
  tooltip_has_national_spirit: "$TRIGGER_HAS_IDEA_COUNTRY$"
  tooltip_has_national_spirit_NOT: "$TRIGGER_HAS_NOT_IDEA_COUNTRY$"
  tooltip_if_national_spirit_is_active: "§CIf $IDEA|Y$ is currently active:§!"
+ tooltip_available_if_not_at_war_with: "§CAvailable only if we are §Rnot§! at war with $COUNTRY|Y$.§!"
+
+ tooltip_once_at_war_with_country: "§COnce §Rwar§! with $COUNTRY|Y$ breaks out:§!"
 
  tooltip_has_government: "Current ruling party is $IDEOLOGY$." # (!)
  tooltip_has_government_NOT: "Current ruling party is not $IDEOLOGY$." # (!)
@@ -111,7 +131,9 @@
  tooltip_add_tech_detailed: "Add technology: $NAME|Y$ ($TECH|Y$)."
  tooltip_enable_hidden_tech: "Enables $TECH|Y$\n$EFFECT$"
 
- tooltip_add_dynmod: "Add $DYNMOD|Y$, which grants:"
+ tooltip_add_dynmod_empty: "Add $DYNMOD|Y$."
+ tooltip_add_dynmod: "Add $DYNMOD|Y$ which grants:"
+ tooltip_add_dynmod_scoped: "Add $DYNMOD|Y$ §Y([$SCOPE$.GetName])§! which grants:"
 
  tooltip_modify_dynmod: "Modify $DYNMOD|Y$ by"
  tooltip_modify_two_dynmods: "Modify $DYNMOD1|Y$ or $DYNMOD2|Y$ by"
@@ -135,6 +157,7 @@
 
  tooltip_spawn_units: "Create $COUNT|Y$ $TYPE|Y$ divisions.\n"
  tooltip_spawn_unit: "Create a $TYPE|Y$ division.\n"
+ tooltip_advanced_spawn_unit: "Create a $TYPE|Y$ at $STRENGTH|O$ strength with experience level of $EXPERIENCE|L$ in $LOCATION|Y$\n"
 
  tooltip_yellow_text: "$TEXT|Y$"
 
@@ -181,13 +204,9 @@
 
 ### Flag Loc segments ###
  tooltip_event_choice: "§CВибір події§!: "
- has_completed_focus: "Завершив фокус §H"
  production_cost_tt: "£GFX_production_cost  Вартість виробництва:  "
 
- has_completed_decision: "Прийняв рішення £decision_icon_small §H"
  unlocks_decisions: "Розблоковує £decision_icon_small §Hрішення§!"
- gets_event_start: "Отримує подію '§H"
- gets_event_end: "§!'."
 
  tooltip_event_pauses_focus: "Подія, пов'язана з цим фокусом, чекає на відповідь"
 
@@ -197,7 +216,11 @@
 ### On Map Area Names ###
  integration_tooltip: "Неінтегровані регіони"
 
-### Event Options ###
+### Events ###
+ KR.hidden.t: ""
+ KR.hidden.d: ""
+ KR.hidden.a: ""
+
  AI_OPTION: "Тільки опція ШІ"
 
 ### Decision Names ###
@@ -381,7 +404,7 @@
  resistance_decay_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_DECAY_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$"
  resistance_damage_to_garrison_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%2$"
 
- war_support_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$"
+ war_support_factor_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$"
  war_support_weekly_tooltip: "$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|+=%2$"
  weekly_casualties_war_support_tooltip: "$MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT$: $RIGHT|+=%2$"
  weekly_convoys_war_support_tooltip: "$MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT$: $RIGHT|+=%2$"
@@ -481,6 +504,7 @@
  navy_org_factor_tooltip: "$MODIFIER_NAVY_ORG_FACTOR$: $RIGHT|+=%1$"
  naval_morale_tooltip: "$MODIFIER_NAVAL_MORALE$: $RIGHT|+=1$"
  naval_morale_factor_tooltip: "$MODIFIER_NAVAL_MORALE_FACTOR$: $RIGHT|+=%1$"
+ navy_max_range_factor_tooltip: "$MODIFIER_NAVY_MAX_RANGE_FACTOR$: $RIGHT|+=%1$"
 
  army_xp_gain_tooltip: "$MODIFIER_XP_GAIN_ARMY$: $RIGHT|+=$ $MOD_DAILY$"
  army_xp_gain_factor_tooltip: "$MODIFIER_XP_GAIN_ARMY_FACTOR$: $RIGHT|+=%1$"
@@ -579,6 +603,7 @@
  ace_effectiveness_factor_tooltip: "$MODIFIER_ACE_EFFECTIVENESS_FACTOR$: $RIGHT|+=%1$"
 
  air_attack_factor_tooltip: "$MODIFIER_AIR_ATTACK_FACTOR$: $RIGHT|+=%1$"
+ air_defence_factor_tooltip: "$MODIFIER_AIR_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  air_range_factor_tooltip: "$MODIFIER_AIR_RANGE_FACTOR$: $RIGHT|+=%0$"
  air_agility_factor_tooltip: "$MODIFIER_AIR_AGILITY_FACTOR$: $RIGHT|+=%0$"
  air_accidents_factor_tooltip: "$MODIFIER_AIR_ACCIDENTS_FACTOR$: $RIGHT|-=%1$"
@@ -786,7 +811,7 @@
  fewer_owned_states_than_tooltip: "Менше регіонів у власності, ніж $RIGHT|Y0$"
 
 ### Scripted Loc ###
- empty: ""
+ loc_empty: ""
 
  loc_empire: "імперія"
  loc_empire_cap: "Імперія"
@@ -861,6 +886,9 @@
  loc_and_space_before: " $loc_and$"
  loc_and_space_after: "$loc_and$ "
  loc_and_space_both: " $loc_and$ "
+
+ TRIGGER_NO: "£GFX_trigger_no"
+ TRIGGER_YES: "£GFX_trigger_yes"
 
 ### Custom Cost Tooltips (for use in decisions) ###
  CP_5: "£command_power §H5§!"

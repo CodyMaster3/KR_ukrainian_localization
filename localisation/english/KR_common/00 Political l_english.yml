@@ -87,7 +87,7 @@
  party_popularity_delayed_tooltip: "Популярність партії відображає контроль чинного уряду над країною та його підтримку населенням. Політичні партії з високою популярністю більш здатні просувати свій політичний порядок денний і стабілізувати країну."
 
  party_popularity_tooltip: "§HПопулярність партії§![GetPopularityPPGain]"
- party_popularity_tooltip_long: "§H\n\nЕфекти від нинішньої популярності нашої партії:§!\nЩоденний приріст політичної влади: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionPartyPop]"
+ party_popularity_tooltip_long: "§H\n\nЕфекти від нинішньої популярності нашої партії:§!\nЩоденний приріст політичної влади: §!\n$MODIFIER_POLITICAL_POWER_GAIN$: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionPartyPop]"
 
  party_popularity_dynamic_modifier: "Популярність партії"
  party_popularity_dynamic_modifier_ideology_mapped: "Популярність партії"
@@ -106,14 +106,14 @@
 
  party_pop_coalition_ideology: "- [?global.ideology_groups^ideology_index_current.GetTokenLocalizedKey] ([GetCoalitionStability] - [GetCoalitionPPGain])\n[GetCoalitionPartyPop]"
 
- add_to_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! приєднається до коаліції."
- remove_from_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! вийде з коаліції."
- end_coalition_tt: "The §YCoalition§! will end entirely." # (!)
+ add_to_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]§! приєднається до коаліції."
+ remove_from_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]§! вийде з коаліції."
+ end_coalition_tt: "§YКоаліція§! буде повністю розпущена."
 
- has_coalition_with_target: "Перебуває в коаліції з §H[?coalition_target.GetTokenLocalizedKey]s§!."
- has_coalition_with_target_NOT: "Не перебуває в коаліції з §H[?coalition_target.GetTokenLocalizedKey]s§!."
+ has_coalition_with_target: "Перебуває в коаліції з §H[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§!."
+ has_coalition_with_target_NOT: "Не перебуває в коаліції з §H[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§!."
 
- coalition_stability_tooltip: "Наразі партнери коаліції надають $RIGHT|G%0$ їхньої популярності як додатковий §Hприріст політичної влади§!."
+ coalition_stability_tooltip: "Партнери по коаліції надають $RIGHT|G%0$ їхньої популярності як додатковий §Hприріст політичної влади§!."
 
  coalition_stability_pp_change: "§$COLOUR$[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§! coalition partners now contribute [?coalition_stability_var|Y0%] of their party popularity to our $MODIFIER_POLITICAL_POWER_GAIN$." # (!)
 
@@ -169,13 +169,13 @@
  unit_limit_breakdown_desc_disabled: "§HMaximum Supported Divisions§! has been disabled by game rules."
 
 ### Tooltips ###
- KR_party_pop_less_than: "Less than $RIGHT|%0Y$ support for [ROOT.GetRulingParty]" # (!)
- KR_party_pop_more_than: "More than $RIGHT|%0Y$ support for [ROOT.GetRulingParty]" # (!)
+ KR_party_pop_less_than: "Менше, ніж $RIGHT|%0Y$ підтримки [Root.GetRulingParty]"
+ KR_party_pop_more_than: "Більше, ніж $RIGHT|%0Y$ підтримки [ROOT.GetRulingParty]"
  is_ally_of_ROOT: "Є союзником [ROOT.GetNameDef]"
  has_coalition_with: "Перебуває в коаліції з §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
 
- KR_getting_faction_invite: "Наразі нас запрошують до фракції."
- KR_getting_faction_invite_NOT: "Наразі нас §Rне§! запрошують до фракції."
+ KR_getting_faction_invite: "Нас запрошено до фракції."
+ KR_getting_faction_invite_NOT: "Нас §Rне§! запрошено до фракції."
 
 ### Decisions ###
  generic_raise_stability: "[generic_raise_stability_text]"
@@ -215,6 +215,7 @@
  KR_plpc_enable_tt: "Правило гри §YПершість гравця§! знову буде §Gувімкнено§!\n"
  KR_plpc_turned_off: "Правило гри §YПершість гравця§! для мирних конференцій активно, але в даний час §Rвідключено§!\n"
  stt_highlight_states: "Позначені регіони"
+ AI_dont_spend_PP: "AI Don't Spend PP"
 
 ##################
 ### Ideologies ###
@@ -233,16 +234,16 @@
  national_populist: "Націонал-популізм"
 
 ### Names Coloured ###
- totalist_coloured: "§oTotalist§!" # (!) — примітка: простежте контекст ужитку ~ L.H.
- syndicalist_coloured: "§rSyndicalist§!" # (!)
- radical_socialist_coloured: "§RRadical Socialist§!" # (!)
- social_democrat_coloured: "§SSocial Democrat§!" # (!)
- social_liberal_coloured: "§lSocial Liberal§!" # (!)
- market_liberal_coloured: "§mMarket Liberal§!" # (!)
- social_conservative_coloured: "§cSocial Conservative§!" # (!)
- authoritarian_democrat_coloured: "§aAuthoritarian Democrat§!" # (!)
- paternal_autocrat_coloured: "§PPaternal Autocrat§!" # (!)
- national_populist_coloured: "§nNational Populist§!" # (!)
+ totalist_coloured: "§oТоталізм§!" # (!) — примітка: простежте контекст ужитку ~ L.H.
+ syndicalist_coloured: "§rСиндикалізм§!" # (!)
+ radical_socialist_coloured: "§RРадикальний соціалізм§!" # (!)
+ social_democrat_coloured: "§SСоціал-демократизм§!" # (!)
+ social_liberal_coloured: "§lСоціал-лібералізм§!" # (!)
+ market_liberal_coloured: "§mРинковий лібералізм§!" # (!)
+ social_conservative_coloured: "§cСоціал-консерватизм§!" # (!)
+ authoritarian_democrat_coloured: "§aАвторитарна демократія§!" # (!)
+ paternal_autocrat_coloured: "§PПатерналізм§!" # (!)
+ national_populist_coloured: "§nНаціонал-популізм§!" # (!)
 
 ### Nouns ###
  totalist_noun: "Тоталісти"

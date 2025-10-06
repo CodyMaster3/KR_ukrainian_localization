@@ -60,7 +60,7 @@
  KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
  KR_welcome_splash_tab_4_upper_header: "§YЛаскаво просимо до $KR_CURRENT_VERSION_COMBINED$§!"
  KR_welcome_splash_tab_4_lower_header: "Створено з любов’ю командою Kaiserreich:§!"
- KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$"
+ KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$\n$KR_welcome_splash_tab_4_content_10$\n$KR_welcome_splash_tab_4_content_11$"
 
  KR_welcome_splash_tab_4_content_0: "Наша команда з усіх куточків світу наполегливо працювала над створенням цієї нової версії, і ми надзвичайно вдячні, що ви вирішили в неї грати.\n\nМи сподіваємося, що вам сподобається грати в Kaiserreich так само, як нам сподобалося його створювати!"
  KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Angel  ·  Amber  ·  Anthony OliveOil  ·  Arvidus  ·  Augenis  ·  AwsomeGuy49  ·  Blackfalcon501"
@@ -73,7 +73,7 @@
  KR_welcome_splash_tab_4_content_8: "SuperGreenBeans  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian  ·  The Irredentista"
  KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
  KR_welcome_splash_tab_4_content_10: "\n§YУкраїнська команда перекладачів:§!"
- KR_welcome_splash_tab_4_content_11: "CodyMaster  ·  Bovcun  ·  Letičan"
+ KR_welcome_splash_tab_4_content_11: "CodyMaster  ·  Bovcun  ·  Letičan  ·  Myronzb"
 
 ### Career Profile ###
  KAISERREICH_CAREER_PROFILE: "Кайзеррайх"

@@ -3,9 +3,10 @@
  Patagonia_Focus: "Фокуси Патагонії"
 
 ### Factions ###
- coalition_to_dismantle_andesia: "Coalition to Dismantle Andesia" # (!) #created by patagonia_events.2260 and patagonia_events.2261 events
- anti_imperialist_league: "Anti-Imperialist League" # (!) #created by FOP_AND_defence_against_imperialism focus
- south_american_socialist_states: "South American Socialist States" # (!) #created by FOP_united_south_american_states focus
+ coalition_to_dismantle_andesia: "Коаліція з розпуску Андезії" # (!)
+ anti_imperialist_league: "Антиімперіалістична ліга" # (!)
+ south_american_socialist_states: "Південноамериканські соціалістичні держави" # (!)
+
 
 ### Starting Tree ###
  FOP_the_revolutionary_fires: "Полум'я революції"
@@ -738,7 +739,7 @@
  FOP_country_intro_header_2: "Новий Робітничий Фронт Патагонії"
  FOP_country_intro_content_2: "Багато років потому полум'я революції все ще горить у Патагонії. Чилі втрутилося, щоб захистити РФП від півночі, що дало час на будівництво держави. Антоніо Сото, лідер АРФР і один з основних учасників революції, очолює нашу країну від самого повстання, зберігаючи крихкий союз між анархістами, комуністами і радикальними соціалістами. Через політичну нестабільність, жодних виборів не проводилося, проте Сото пообіцяв піти зі своєї посади, коли криза мине, яким би не був її підсумок. Існують побоювання, що виборів не буде ще довгий час. Карлос набирає силу на півночі і люди бояться швидкого початку війни. Однак багато хто розглядає Патагонську революцію як маяк анархізму і синдикалізму і розраховує на допомогу з боку Інтернаціоналу і більшовиків, які хоч і пішли у вигнання, але все ще не знищені. З такою підтримкою, у робітників Патагонії може з'явитися шанс протистояти ворогові..."
 
- FOP_guide: "§MSindicatos - Radicales§! / §MSindicatos - Moderados§! ($syndicalist_coloured$)\n£white_dot To have the radicals win, have Giovanni achieve the majority in the USA elections; to go moderate, have Soto and Arango achieve victory.\n£white_dot Have more Syndicalist popularity than Radical Socialist or Totalist once the focus \"The First National Trade Union Congress\" is completed.\n£white_dot To avoid a communist coup as the radicals: blow the bridges in 'Question of the Paraná' and hold on the barricades in 'Defence of the City'.\n£white_dot To avoid a radical coup as the moderates: arrest Giovanni in 'Rumours of a Coup'.\n\n§MFORA - Moderados§! / §MFORA - Ugartistas§! ($radical_socialist_coloured$)\n£white_dot To have the Ugartistas win, choose to have the Ugartistas come out on top in the 9th FORA election; to have the moderates win, choose to have the Justo-Palacios come out on top.\n£white_dot Have more Radical Socialist popularity than Syndicalist or Totalist once the focus \"The First National Trade Union Congress\" is completed.\n£white_dot To avoid a communist/radical anarchist coup after completing the focus \"Collaborate with the CGT\": choose to take the fight now in 'The USA and the CUSC Are in Open Conflict'.\n\n§MComité de Unión Sindical Clasista§! ($totalist_coloured$)\n£white_dot Have more Totalist popularity than Syndicalist or Radical Socialist once the focus \"The First National Trade Union Congress\" is completed.\n£white_dot To avoid a radical anarchist coup choose the following options: 'We need that factory! March northwards!', 'Move towards Plaza San Martin.' and 'Focus on helping offensives to the south and the west'.\n*This is just one of the many ways the communist can survive the coup.\n£white_dot Around 9 months after completing the focus \"The Communist Supremacy\", the event 'A question of Andesia' will appear, accepting will give us access to the decision to form Andesia."
+ FOP_guide: "§MСиндикати - Радикали§! / §MСиндикати - Помірковані§! ($syndicalist_coloured$)\n£white_dot Щоб перемогли радикали, забезпечте перемогу Джованні на виборах АРС; щоб перемогли помірковані, забезпечте перемогу Сото та Аранго.\n£white_dot Майте більше популярності синдикалістів, ніж радикал-соціалістів або тоталістів, після завершення фокуса «Перший національний конгрес профспілок».\n£white_dot Щоб уникнути комуністичного перевороту, граючи за радикалів: підірвіть мости в «Питанні Парани» та тримайтеся на барикадах у «Обороні міста».\n£white_dot Щоб уникнути радикального перевороту, граючи за поміркованих: заарештуйте Джованні в «Чутки про переворот».\n\n§MФОРА - Помірковані§! / §MФОРА - Угартисти§! ($radical_socialist_coloured$)\n£white_dot Щоб перемогли угартисти, оберіть їхню перемогу на 9-му з'їзді ФОРА; щоб перемогли помірковані, оберіть перемогу Хусто-Паласіоса.\n£white_dot Майте більше популярності радикал-соціалістів, ніж синдикалістів або тоталістів, після завершення фокуса «Перший національний конгрес профспілок».\n£white_dot Щоб уникнути комуністичного/радикально-анархістського перевороту після завершення фокуса «Співпрацювати з ЗКП»: оберіть «Вступити в бій зараз» у «АРС та КЄСП у відкритому конфлікті».\n\n§MКомітет єдності синдикалістської класової боротьби§! ($totalist_coloured$)\n£white_dot Майте більше популярності тоталістів, ніж синдикалістів або радикал-соціалістів, після завершення фокуса «Перший національний конгрес профспілок».\n£white_dot Щоб уникнути радикально-анархістського перевороту, оберіть наступні варіанти: «Нам потрібна ця фабрика! Рушаймо на північ!», «Рухатися до площі Сан-Мартіна» та «Зосередитися на допомозі наступам на південь і захід».\n*Це лише один з багатьох способів, як комуністи можуть пережити переворот.\n£white_dot Приблизно через 9 місяців після завершення фокуса «Комуністична перевага» з'явиться подія «Питання Андезії»; згода надасть нам доступ до рішення про створення Андезії."
 
 ### Events ###
 
@@ -991,7 +992,7 @@
  patagonia_events.200.a: "Закликайте до з'їзду профспілок - нам потрібно вирішити це демократичним шляхом."
  
  patagonia_events.201.t: "Вибори дев'ятого торгового союзу АРФР"
- patagonia_events.201.d: "Напередодні Конгресу Торгових Спілок, АРФР дев'ятого Конгресу, основна гілка АРФР, що складається з поміркованих соціалістів, розпочала обговорення складу своєї делегації. З приходом революції до наших домівок, сила традиційно пацифістської і поміркованої фракції АРФР зменшується. На тлі радикалізації, викликаної перемогою Френте Обреро, Мануель Бальдомеро Угарте став відомим завдяки своїм ідеям революційного соціалізму, укупі з войовничим антиімперіалізмом.  Їм протистоять Альфредо Паласіос і Алісія Хусто де Муро, що стали символами еволюційного соціалізму на аргентинській політичній сцені. Не дивно, що соціалісти влаштували голосування і перемогла фракція..."
+ patagonia_events.201.d: "Напередодні Конгресу Торгових Спілок, АРФР дев'ятого Конгресу, основна гілка АРФР, що складається з поміркованих соціалістів, розпочала обговорення складу своєї делегації. З приходом революції до наших домівок, сила традиційно пацифістської і поміркованої фракції АРФР зменшується. На тлі радикалізації, викликаної перемогою Френте Обреро, Мануель Бальдомеро Угарте став відомим завдяки своїм ідеям революційного соціалізму, укупі з войовничим антиімперіалізмом.  Їм протистоять Альфредо Паласіос і Алісія Хусто де Муро, що стали символами еволюційного соціалізму на аргентинській політичній сцені. Не дивно, що соціалісти влаштували голосування і перемогла фракція..."
  patagonia_events.201.a: "Коаліція Хусто-Паласіоса!"
  patagonia_events.201.b: "Угартістас!"
  
@@ -1001,7 +1002,7 @@
  patagonia_events.202.b: "Ді Джіованні зміг взяти гору!"
  
  patagonia_events.203.t: "Кандидати ККПЄ"
- patagonia_events.203.d: "Поразка більшовизму і підйом синдикалізму помітно послабив позиції аргентинської комуністичної партії під час зародження революції, але багато прихильників зберегли свої ідеали досить довго, щоб організувати свій власний Торговий Союз, Комітет Класової Профспілкової Єдності.  Під час революції ця партія стала вельми привабливою, у відповідь на дії анархістів, у яких багато аргентинців вбачали пряму загрозу, а комуністів вважали такими, що борються з ними, зберігаючи своє місце в загальному революційному суспільстві. Незважаючи на те, що вони були недооцінені Конгресом, набрана ними вага дала їм певні шанси на перемогу, а раз так ККПЄ вирішили не розкидатися своїм впливом і одноголосно призначили Рудольфо Гіольді головою своєї делегації. Тільки час покаже наскільки Гіольді відповідає нашим ідеалам..."
+ patagonia_events.203.d: "Поразка більшовизму і підйом синдикалізму помітно послабив позиції аргентинської комуністичної партії під час зародження революції, але багато прихильників зберегли свої ідеали досить довго, щоб організувати свій власний Торговий Союз, Комітет Класової Профспілкової Єдності.  Під час революції ця партія стала вельми привабливою, у відповідь на дії анархістів, у яких багато аргентинців вбачали пряму загрозу, а комуністів вважали такими, що борються з ними, зберігаючи своє місце в загальному революційному суспільстві. Незважаючи на те, що вони були недооцінені Конгресом, набрана ними вага дала їм певні шанси на перемогу, а раз так ККПЄ вирішили не розкидатися своїм впливом і одноголосно призначили Рудольфо Гіольді головою своєї делегації. Тільки час покаже наскільки Гіольді відповідає нашим ідеалам..."
  patagonia_events.203.a: "Спадщина Леніна жива!"
  
  patagonia_events.204.t: "Демократичний союз підтримує Хусто і Паласіоса"
@@ -1234,7 +1235,7 @@
  patagonia_events.344.a: "Цікаво"
  
  patagonia_events.345.t: "Реструктуризація Аргентинської футбольної асоціації"
- patagonia_events.345.d: "Об'єднання Аргентинської футбольної асоціації (аматорів і професіоналів), або ОАФААП і Аргентинської Футбольної Ліги (АФЛ) в Аргентинську футбольну асоціацію в 1934 році, передбачалося як новий етап у спортивній історії Аргентини. Але політичний клімат і війна, що послідувала, справили сильний вплив на нову АФА, і тепер вона мусила займатися перестановками у своєму штаті через зміну режиму, і через те, що багато багатих спонсорів асоціації позбулися своїх капіталів під час експропріації або покинули країну. Однак держава прийшла на допомогу асоціації, як і багатьом іншим спортивним організаціям з метою їх інтеграції в нову систему і з втручанням держави правила АФА зазнали змін.  Наприклад, команди з глибинки раніше були виведені за межі професійної ліги на користь команд з центральних регіонів і столиці. Але на турнірі цього року периферійні команди, як-от Розаріо Централ, будуть введені в основний турнір для більшого представлення всіх регіонів, без зміщення фокусу спортивного життя країни тільки на столицю та її околиці."
+ patagonia_events.345.d: "Об'єднання Аргентинської футбольної асоціації (аматорів і професіоналів), або ОАФААП і Аргентинської Футбольної Ліги (АФЛ) в Аргентинську футбольну асоціацію в 1934 році, передбачалося як новий етап у спортивній історії Аргентини. Але політичний клімат і війна, що послідувала, справили сильний вплив на нову АФА, і тепер вона мусила займатися перестановками у своєму штаті через зміну режиму, і через те, що багато багатих спонсорів асоціації позбулися своїх капіталів під час експропріації або покинули країну. Однак держава прийшла на допомогу асоціації, як і багатьом іншим спортивним організаціям з метою їх інтеграції в нову систему і з втручанням держави правила АФА зазнали змін.  Наприклад, команди з глибинки раніше були виведені за межі професійної ліги на користь команд з центральних регіонів і столиці. Але на турнірі цього року периферійні команди, як-от Розаріо Централ, будуть введені в основний турнір для більшого представлення всіх регіонів, без зміщення фокусу спортивного життя країни тільки на столицю та її околиці."
  patagonia_events.345.a: "Народний спорт повертається"
  
  patagonia_events.346.t: "Протести на периферії переростають у заворушення"
@@ -1538,33 +1539,33 @@
  araucania_events.02.c: "Ми повинні прагнути до толерантності в нашому суспільстві - нехай кожна віра має своє місце."
 
 ### News Events ###
- patagonia_news.1.t: "Declaration of the [FROM.GetName]" # (!)
- patagonia_news.1.d: "The forces of the Frente Obrero Patagónico have triumphed decisively over Carlés' Argentina and seized the capital of Buenos Aires. With this victory the socialists have openly proclaimed the creation of a \"true\" [FROM.GetName] and the start of a new age for socialism in South America. A number of leading figures in the previous administration as well as other notables have been seen fleeing the country by ship.\n\nThough most of the nation's population still remain temperamentally against socialist policies, the rise of a syndicalist Argentina could upset the delicate balance of regional politics for years to come." # (!)
- patagonia_news.1.a: "A serious victory for socialism." # (!)
+ patagonia_news.1.t: "Проголошення [FROM.GetName]" # (!)
+ patagonia_news.1.d: "Сили Патагонського робітничого фронту здобули рішучу перемогу над Аргентиною Карлеса та захопили столицю Буенос-Айрес. З цією перемогою соціалісти відкрито проголосили створення «справжньої» [FROM.GetName] та початок нової ери соціалізму в Південній Америці. Низка провідних діячів попередньої адміністрації, а також інші знатні особи, були помічені, коли тікали з країни на кораблях.\n\nХоча більша частина населення країни все ще налаштована проти соціалістичної політики, піднесення синдикалістської Аргентини може порушити крихкий баланс регіональної політики на довгі роки." # (!)
+ patagonia_news.1.a: "Серйозна перемога соціалізму." # (!)
 
- patagonia_news.2.t: "Moderate Socialists Restore [FROM.GetName]" # (!)
- patagonia_news.2.d: "When war raged between Carlés' Argentina and Chilean-backed Patagonia no one would've thought that [FROM.GetName] would survive the day. In an astounding turn of events the Palacios led coalition of the USA has declared [FROM.GetName] reborn and a return of the suspended constitution.\n\nIntegrating many member of the other factions, they have begun implementing a more liberal democratic system than either their comrades or the Carles Regime. It is unknown whether Patagonia will survive the turbulence of such a regime change but many are hopeful for the nascent regime and their isolationist policy." # (!)
- patagonia_news.2.a: "Best of luck to them." # (!)
+ patagonia_news.2.t: "Помірковані соціалісти відновлюють [FROM.GetName]" # (!)
+ patagonia_news.2.d: "Коли вирувала війна між Аргентиною Карлеса та Патагонією, підтримуваною Чилі, ніхто й не думав, що [FROM.GetName] переживе цей день. У дивовижному повороті подій коаліція АРС на чолі з Паласіосом проголосила відродження [FROM.GetName] та повернення призупиненої конституції.\n\nІнтегрувавши багатьох членів інших фракцій, вони почали впроваджувати більш ліберально-демократичну систему, ніж їхні товариші або режим Карлеса. Невідомо, чи переживе Патагонія турбулентність такої зміни режиму, але багато хто з надією дивиться на новонароджений режим та його ізоляціоністську політику." # (!)
+ patagonia_news.2.a: "Успіхів їм." # (!)
 
- patagonia_news.3.t: "Communists Seize Power in Argentina" # (!)
- patagonia_news.3.d: "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinian Nation. However, the results of the recent Argentinian Trade Union Congress seemed to have not been satisfactory for the Comite de Unidad Sindical Clasista (CUSC), which, led by the now Chairman Liborio Justo, spearheaded a coup d'etat.\n\nWhile they faced some resistance, the fledgling government's forces were unable to stop the Communists, and the Congress is now fully in control of the CUSC. Whether this will put an end to the violent political disputes in Argentina or further inflame tensions on the war-weary populace, it remains to be seen..." # (!)
- patagonia_news.3.a: "Socialist calls for unity only go so far, it seems..." # (!)
- patagonia_news.3.b: "Comrade against comrade, is this really the way?" # (!)
+ patagonia_news.3.t: "Комуністи захоплюють владу в Аргентині" # (!)
+ patagonia_news.3.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, поступово стабілізував ситуацію в аргентинській нації. Однак результати нещодавнього Аргентинського конгресу профспілок, схоже, не задовольнили Комітет єдності синдикалістської класової боротьби (КЄСП), який на чолі з теперішнім головою Ліборіо Хусто очолив державний переворот.\n\nХоча вони й зіткнулися з певним опором, сили новоствореного уряду не змогли зупинити комуністів, і Конгрес тепер повністю під контролем КЄСП. Чи покладе це край жорстоким політичним суперечкам в Аргентині, чи ще більше розпалить напруженість серед втомленого від війни населення, покаже час..." # (!)
+ patagonia_news.3.a: "Заклики соціалістів до єдності, схоже, мають свої межі..." # (!)
+ patagonia_news.3.b: "Товариш проти товариша, чи це справді правильний шлях?" # (!)
 
- patagonia_news.4.t: "Radical Anarchists Seize Power in Argentina" # (!)
- patagonia_news.4.d: "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinian Nation. However, the results of the recent Argentinian Trade Union Congress seemed to have not been satisfactory for the Unión Sindical Argentina (USA). While the moderates accepted the result, radicals quickly staged their own takeover, led by Severino di Giovanni.\nAfter marching on the Presidential house, they proceded to take over the Congress, where Severino has now been sworn is a Chairman, and the rivaling unions of the USA have been removed from the Congress.\nWhether this will put an end to the violent political disputes in Argentina or further inflame tensions with the war weary populace, it remains to be seen..." # (!)
- patagonia_news.4.a: "Socialist calls for unity only go so far, it seems..." # (!)
- patagonia_news.4.b: "Comrade against comrade, is this really the way?" # (!)
+ patagonia_news.4.t: "Радикальні анархісти захоплюють владу в Аргентині" # (!)
+ patagonia_news.4.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, поступово стабілізував ситуацію в аргентинській нації. Однак результати нещодавнього Аргентинського конгресу профспілок, схоже, не задовольнили Аргентинську робітничу спілку (АРС). Хоча помірковані прийняли результат, радикали швидко організували власний переворот на чолі з Северіно ді Джованні.\nПісля походу на президентський палац вони захопили Конгрес, де Северіно склав присягу як голова, а конкуруючі профспілки АРС були виключені з Конгресу.\nЧи покладе це край жорстоким політичним суперечкам в Аргентині, чи ще більше розпалить напруженість серед втомленого від війни населення, покаже час..." # (!)
+ patagonia_news.4.a: "Заклики соціалістів до єдності, схоже, мають свої межі..." # (!)
+ patagonia_news.4.b: "Товариш проти товариша, чи це справді правильний шлях?" # (!)
 
- patagonia_news.5.t: "[FOP.GetAdjective] Chairman Found Dead" # (!)
- patagonia_news.5.d: "After the Socialist victory in the Argentino-Chilean War, the government seemed to be slowly settling down for the Argentinian Nation. With the results pointing at a clear majority of the Unión Sindical Argentina (USA), many were expecting the new government to finally stabilise the situation. However, it seems that was not meant to be, as Chairman Antonio Soto, and his main political ally, Emilio Lopez Arango, have been found dead.\nThe moderates in the USA, now leaderless, quickly lost their grip on the union to the leader of the radicals, Severino di Giovanni, who was quick to uncover a conspiracy by the other Congress factions and quickly executed a takeover. While many see the uncovering of this conspiracy as the turning point of Argentinian Political stability, others wonder if the rule of Severino will live up to his predecessors." # (!)
- patagonia_news.5.a: "How barbaric!" # (!)
- patagonia_news.5.b: "Let's hope the new Chairman can handle the situation." # (!)
+ patagonia_news.5.t: "Голову [FOP.GetAdjective] знайдено мертвим" # (!)
+ patagonia_news.5.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, поступово стабілізував ситуацію в аргентинській нації. Оскільки результати вказували на явну більшість Аргентинської робітничої спілки (АРС), багато хто очікував, що новий уряд нарешті стабілізує ситуацію. Однак, схоже, цьому не судилося статися, оскільки голову Антоніо Сото та його головного політичного союзника, Еміліо Лопеса Аранго, було знайдено мертвими.\nПомірковані в АРС, тепер без лідерів, швидко втратили контроль над спілкою на користь лідера радикалів, Северіно ді Джованні, який швидко розкрив змову інших фракцій Конгресу і здійснив переворот. Хоча багато хто вбачає в розкритті цієї змови поворотний момент у політичній стабільності Аргентини, інші задаються питанням, чи буде правління Северіно відповідати рівню його попередників." # (!)
+ patagonia_news.5.a: "Як варварськи!" # (!)
+ patagonia_news.5.b: "Сподіваємося, новий голова впорається з ситуацією." # (!)
 
- patagonia_news.6.t: "Chairman Baldomero Removed from Power" # (!)
- patagonia_news.6.d: "After the Socialist victory in the Argentino-Chilean War, the government seemed to be settling down for Argentina. With the results pointing at a clear majority of the Federación Obrera Regional Argentina (FORA), many were expecting the new government to assume its duties and finally stabilise the situation. However, this unfortunately never came to be, as Anarchist and Communist forces both clashed at the capital, and the victorious side from the skirmish quickly went against Chairman Baldomero's forces. After securing Baldomero's resignation, [FOP.GetLeader]'s forces quickly took over the Congress, expelled the opposition and sworn [FOP.GetLeader] as the new chairman. Whether this will put an end to the violent political disputes in Argentina or further inflame tensions with the war weary populace, it remains to be seen..." # (!)
- patagonia_news.6.a: "Socialist calls for unity only go so far, it seems..." # (!)
- patagonia_news.6.b: "Comrade against comrade, is this really the way?" # (!)
+ patagonia_news.6.t: "Голову Бальдомеро усунуто від влади" # (!)
+ patagonia_news.6.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, стабілізувався для Аргентини. Оскільки результати вказували на явну більшість Регіональної робітничої федерації Аргентини (ФОРА), багато хто очікував, що новий уряд візьметься за свої обов'язки і нарешті стабілізує ситуацію. Однак, на жаль, цього так і не сталося, оскільки анархістські та комуністичні сили зіткнулися в столиці, і переможець сутички швидко виступив проти сил голови Бальдомеро. Забезпечивши відставку Бальдомеро, сили [FOP.GetLeader] швидко захопили Конгрес, вигнали опозицію і привели [FOP.GetLeader] до присяги як нового голову. Чи покладе це край жорстоким політичним суперечкам в Аргентині, чи ще більше розпалить напруженість серед втомленого від війни населення, покаже час..." # (!)
+ patagonia_news.6.a: "Заклики соціалістів до єдності, схоже, мають свої межі..." # (!)
+ patagonia_news.6.b: "Товариш проти товариша, чи це справді правильний шлях?" # (!)
 
 ### Decisions ###
  FOP_industrial_planning_scheme_decisions: "Grandes Trabajos de Progreso"
@@ -1765,96 +1766,132 @@
  FOP_REP_national_populist_ADJ: "Аргентинськ"
  FOP_REP_national_populist_DEF: "Республіка Аргентина"
 
+### Factions ###
+ coalition_to_dismantle_andesia: "Коаліція з розпуску Андезії" # (!)
+ anti_imperialist_league: "Антиімперіалістична ліга" # (!)
+ south_american_socialist_states: "Південноамериканські соціалістичні держави" # (!)
+
+ FOP_guide: "§MСиндикати - Радикали§! / §MСиндикати - Помірковані§! ($syndicalist_coloured$)\n£white_dot Щоб перемогли радикали, забезпечте перемогу Джованні на виборах АРС; щоб перемогли помірковані, забезпечте перемогу Сото та Аранго.\n£white_dot Майте більше популярності синдикалістів, ніж радикал-соціалістів або тоталістів, після завершення фокуса «Перший національний конгрес профспілок».\n£white_dot Щоб уникнути комуністичного перевороту, граючи за радикалів: підірвіть мости в «Питанні Парани» та тримайтеся на барикадах у «Обороні міста».\n£white_dot Щоб уникнути радикального перевороту, граючи за поміркованих: заарештуйте Джованні в «Чутки про переворот».\n\n§MФОРА - Помірковані§! / §MФОРА - Угартисти§! ($radical_socialist_coloured$)\n£white_dot Щоб перемогли угартисти, оберіть їхню перемогу на 9-му з'їзді ФОРА; щоб перемогли помірковані, оберіть перемогу Хусто-Паласіоса.\n£white_dot Майте більше популярності радикал-соціалістів, ніж синдикалістів або тоталістів, після завершення фокуса «Перший національний конгрес профспілок».\n£white_dot Щоб уникнути комуністичного/радикально-анархістського перевороту після завершення фокуса «Співпрацювати з ЗКП»: оберіть «Вступити в бій зараз» у «АРС та КЄСП у відкритому конфлікті».\n\n§MКомітет єдності синдикалістської класової боротьби§! ($totalist_coloured$)\n£white_dot Майте більше популярності тоталістів, ніж синдикалістів або радикал-соціалістів, після завершення фокуса «Перший національний конгрес профспілок».\n£white_dot Щоб уникнути радикально-анархістського перевороту, оберіть наступні варіанти: «Нам потрібна ця фабрика! Рушаймо на північ!», «Рухатися до площі Сан-Мартіна» та «Зосередитися на допомозі наступам на південь і захід».\n*Це лише один з багатьох способів, як комуністи можуть пережити переворот.\n£white_dot Приблизно через 9 місяців після завершення фокуса «Комуністична перевага» з'явиться подія «Питання Андезії»; згода надасть нам доступ до рішення про створення Андезії."
+
+### News Events ###
+ patagonia_news.1.t: "Проголошення [FROM.GetName]" # (!)
+ patagonia_news.1.d: "Сили Патагонського робітничого фронту здобули рішучу перемогу над Аргентиною Карлеса та захопили столицю Буенос-Айрес. З цією перемогою соціалісти відкрито проголосили створення «справжньої» [FROM.GetName] та початок нової ери соціалізму в Південній Америці. Низка провідних діячів попередньої адміністрації, а також інші знатні особи, були помічені, коли тікали з країни на кораблях.\n\nХоча більша частина населення країни все ще налаштована проти соціалістичної політики, піднесення синдикалістської Аргентини може порушити крихкий баланс регіональної політики на довгі роки." # (!)
+ patagonia_news.1.a: "Серйозна перемога соціалізму." # (!)
+
+ patagonia_news.2.t: "Помірковані соціалісти відновлюють [FROM.GetName]" # (!)
+ patagonia_news.2.d: "Коли вирувала війна між Аргентиною Карлеса та Патагонією, підтримуваною Чилі, ніхто й не думав, що [FROM.GetName] переживе цей день. У дивовижному повороті подій коаліція АРС на чолі з Паласіосом проголосила відродження [FROM.GetName] та повернення призупиненої конституції.\n\nІнтегрувавши багатьох членів інших фракцій, вони почали впроваджувати більш ліберально-демократичну систему, ніж їхні товариші або режим Карлеса. Невідомо, чи переживе Патагонія турбулентність такої зміни режиму, але багато хто з надією дивиться на новонароджений режим та його ізоляціоністську політику." # (!)
+ patagonia_news.2.a: "Успіхів їм." # (!)
+
+ patagonia_news.3.t: "Комуністи захоплюють владу в Аргентині" # (!)
+ patagonia_news.3.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, поступово стабілізував ситуацію в аргентинській нації. Однак результати нещодавнього Аргентинського конгресу профспілок, схоже, не задовольнили Комітет єдності синдикалістської класової боротьби (КЄСП), який на чолі з теперішнім головою Ліборіо Хусто очолив державний переворот.\n\nХоча вони й зіткнулися з певним опором, сили новоствореного уряду не змогли зупинити комуністів, і Конгрес тепер повністю під контролем КЄСП. Чи покладе це край жорстоким політичним суперечкам в Аргентині, чи ще більше розпалить напруженість серед втомленого від війни населення, покаже час..." # (!)
+ patagonia_news.3.a: "Заклики соціалістів до єдності, схоже, мають свої межі..." # (!)
+ patagonia_news.3.b: "Товариш проти товариша, чи це справді правильний шлях?" # (!)
+
+ patagonia_news.4.t: "Радикальні анархісти захоплюють владу в Аргентині" # (!)
+ patagonia_news.4.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, поступово стабілізував ситуацію в аргентинській нації. Однак результати нещодавнього Аргентинського конгресу профспілок, схоже, не задовольнили Аргентинську робітничу спілку (АРС). Хоча помірковані прийняли результат, радикали швидко організували власний переворот на чолі з Северіно ді Джованні.\nПісля походу на президентський палац вони захопили Конгрес, де Северіно склав присягу як голова, а конкуруючі профспілки АРС були виключені з Конгресу.\nЧи покладе це край жорстоким політичним суперечкам в Аргентині, чи ще більше розпалить напруженість серед втомленого від війни населення, покаже час..." # (!)
+ patagonia_news.4.a: "Заклики соціалістів до єдності, схоже, мають свої межі..." # (!)
+ patagonia_news.4.b: "Товариш проти товариша, чи це справді правильний шлях?" # (!)
+
+ patagonia_news.5.t: "Голову [FOP.GetAdjective] знайдено мертвим" # (!)
+ patagonia_news.5.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, поступово стабілізував ситуацію в аргентинській нації. Оскільки результати вказували на явну більшість Аргентинської робітничої спілки (АРС), багато хто очікував, що новий уряд нарешті стабілізує ситуацію. Однак, схоже, цьому не судилося статися, оскільки голову Антоніо Сото та його головного політичного союзника, Еміліо Лопеса Аранго, було знайдено мертвими.\nПомірковані в АРС, тепер без лідерів, швидко втратили контроль над спілкою на користь лідера радикалів, Северіно ді Джованні, який швидко розкрив змову інших фракцій Конгресу і здійснив переворот. Хоча багато хто вбачає в розкритті цієї змови поворотний момент у політичній стабільності Аргентини, інші задаються питанням, чи буде правління Северіно відповідати рівню його попередників." # (!)
+ patagonia_news.5.a: "Як варварськи!" # (!)
+ patagonia_news.5.b: "Сподіваємося, новий голова впорається з ситуацією." # (!)
+
+ patagonia_news.6.t: "Голову Бальдомеро усунуто від влади" # (!)
+ patagonia_news.6.d: "Після перемоги соціалістів в аргентино-чилійській війні уряд, здавалося, стабілізувався для Аргентини. Оскільки результати вказували на явну більшість Регіональної робітничої федерації Аргентини (ФОРА), багато хто очікував, що новий уряд візьметься за свої обов'язки і нарешті стабілізує ситуацію. Однак, на жаль, цього так і не сталося, оскільки анархістські та комуністичні сили зіткнулися в столиці, і переможець сутички швидко виступив проти сил голови Бальдомеро. Забезпечивши відставку Бальдомеро, сили [FOP.GetLeader] швидко захопили Конгрес, вигнали опозицію і привели [FOP.GetLeader] до присяги як нового голову. Чи покладе це край жорстоким політичним суперечкам в Аргентині, чи ще більше розпалить напруженість серед втомленого від війни населення, покаже час..." # (!)
+ patagonia_news.6.a: "Заклики соціалістів до єдності, схоже, мають свої межі..." # (!)
+ patagonia_news.6.b: "Товариш проти товариша, чи це справді правильний шлях?" # (!)
+
 ### Characters ###
- FOP_rodolfo_ghioldi: "Rodolfo Ghioldi"
+ FOP_rodolfo_ghioldi: "Родольфо Ґіольді"
  FOP_rodolfo_ghioldi_leader_desc: ""
 
- FOP_antonio_soto: "Antonio Soto"
+ FOP_antonio_soto: "Антоніо Сото"
  FOP_antonio_soto_leader_desc: ""
 
- FOP_baldomero_ugarte: "Manuel Baldomero Ugarte"
+ FOP_baldomero_ugarte: "Мануель Бальдомеро Уґарте"
  FOP_baldomero_ugarte_leader_desc: ""
 
- FOP_jacques_antoine_bernard: "Jacques Antoine Bernard"
+ FOP_jacques_antoine_bernard: "Жак Антуан Бернар"
  FOP_jacques_antoine_bernard_king_leader_desc: ""
  FOP_jacques_antoine_bernard_leader_desc: ""
 
- FOP_liborio_justo: "Liborio Justo"
+ FOP_liborio_justo: "Ліборіо Хусто"
  FOP_liborio_justo_leader_desc: ""
  FOP_liborio_justo_desc_body: ""
  FOP_liborio_justo_general_desc: ""
  FOP_liborio_justo_advisor_desc: ""
 
- FOP_paulina_mansurova: "Paulina Mansurova"
+ FOP_paulina_mansurova: "Пауліна Мансурова"
  FOP_paulina_mansurova_leader_desc: ""
 
- FOP_miguel_roscigna: "Miguel Arcángel Roscigna"
+ FOP_miguel_roscigna: "Міґель Арканхель Росінья"
  FOP_miguel_roscigna_desc_body: ""
  FOP_miguel_roscigna_leader_desc: ""
  FOP_miguel_roscigna_advisor_desc: ""
 
- FOP_marc_augier: "Marc Augier"
+ FOP_marc_augier: "Марк Ож'є"
  FOP_marc_augier_leader_desc: ""
 
- FOP_umberto_lanciotti: "Umberto Lanciotti"
+ FOP_umberto_lanciotti: "Умберто Ланчотті"
  FOP_umberto_lanciotti_leader_desc: ""
 
- FOP_kurt_gustav: "Kurt Gustav Wilckens"
+ FOP_kurt_gustav: "Курт Ґустав Вількенс"
  FOP_kurt_gustav_leader_desc: ""
 
- FOP_esteban_luchich: "Esteban Lucich"
+ FOP_esteban_luchich: "Естебан Лучич"
  FOP_esteban_luchich_leader_desc: ""
 
- FOP_micaela_feldman: "Micaela Feldman"
+ FOP_micaela_feldman: "Мікаела Фельдман"
  FOP_micaela_feldman_leader_desc: ""
 
- FOP_juan_moran: "Juan Antonio Moran"
+ FOP_juan_moran: "Хуан Антоніо Моран"
  FOP_juan_moran_advisor_desc: ""
 
- FOP_luis_alberto_quesada: "Luis Alberto Quesada"
+ FOP_luis_alberto_quesada: "Луїс Альберто Кесада"
  FOP_luis_alberto_quesada_advisor_desc: ""
 
- FOP_alfredo_palacios: "Alfredo Palacios"
+ FOP_alfredo_palacios: "Альфредо Паласіос"
  FOP_alfredo_palacios_leader_desc: ""
 
- FOP_severino_di_giovanni: "Severino di Giovanni"
+ FOP_severino_di_giovanni: "Северіно ді Джованні"
  FOP_severino_di_giovanni_leader_desc: ""
 
- FOP_guillermo_mac_hannaford: "Guillermo Mac Hannaford"
+ FOP_guillermo_mac_hannaford: "Ґільєрмо Мак Ганнафорд"
  FOP_Guillermo_Mac_Hannaford_desc: ""
 
- FOP_leonidas_barletta: "Leonidas Barletta"
+ FOP_leonidas_barletta: "Леонідас Барлетта"
  FOP_leonidas_barletta_advisor_desc: ""
 
- FOP_emilio_lopez_arango: "Emilio López Arango"
+ FOP_emilio_lopez_arango: "Еміліо Лопес Аранґо"
  FOP_emilio_lopez_arango_advisor_desc: ""
 
- FOP_jose_fernando_penelon: "José Fernando Penelón"
+ FOP_jose_fernando_penelon: "Хосе Фернандо Пенелон"
  FOP_jose_fernando_penelon_advisor_desc: ""
 
- FOP_victorio_codovilla: "Victorio Codovilla"
+ FOP_victorio_codovilla: "Вікторіо Кодовілья"
  FOP_victorio_codovilla_advisor_desc: ""
 
- FOP_candido_testa: "Candido Testa"
+ FOP_candido_testa: "Кандідо Теста"
  FOP_candido_testa_advisor_desc: ""
 
- FOP_alvaro_yunque: "Alvaro Yunque"
+ FOP_alvaro_yunque: "Альваро Юнке"
  FOP_alvaro_yunque_advisor_desc: ""
 
- FOP_rodolfo_gonzalez_pacheco: "Rodolfo González Pacheco"
+ FOP_rodolfo_gonzalez_pacheco: "Родольфо Ґонсалес Пачеко"
  FOP_rodolfo_gonzalez_pacheco_advisor_desc: ""
 
- FOP_geronimo_arnedo_alvarez: "Geronimo Arnedo Alvarez"
+ FOP_geronimo_arnedo_alvarez: "Херонімо Арнедо Альварес"
  FOP_geronimo_arnedo_alvarez_advisor_desc: ""
 
- FOP_diego_abad_de_santillan: "Diego Abad de Santillan"
+ FOP_diego_abad_de_santillan: "Дієґо Абад де Сантільян"
  FOP_diego_abad_de_santillan_advisor_desc: ""
 
- FOP_antonio_de_tomaso: "Antonio de Tomaso"
+ FOP_antonio_de_tomaso: "Антоніо де Томасо"
  FOP_antonio_de_tomaso_advisor_desc: ""
 
- FOP_gregorio_bermann: "Gregorio Bermann"
+ FOP_gregorio_bermann: "Ґреґоріо Берманн"
  FOP_gregorio_bermann_advisor_desc: ""
 
- FOP_roberto_noble: "Roberto Noble"
+ FOP_roberto_noble: "Роберто Нобле"
  FOP_roberto_noble_advisor_desc: ""

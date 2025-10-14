@@ -243,10 +243,10 @@
  
 ### Intro Screen ###
  ECU_country_intro_background: "GFX_ECU_intro"
- ECU_country_intro_header: "The Republic of Ecuador" # (!)
- ECU_country_intro_content: "Ecuador suffered a bumpy development after her independence in 1809. Border uncertainties led to conflicts with Peru and Colombia while the rivalling oligarchies of the conservative big landowners in the highlands and the liberal populace on the coast fought each other bitterly.\n\nA first era of relative peace was achieved under the dictatorship of the church friendly conservative President Gabriel Garcia Moreno who expanded central administration, the educational system, and the infrastructure. In 1875 Moreno was assassinated, which brought about a time of domestic turmoil once more till the liberals under General Eloy Alfaro seemed to have prevailed, but the political issues that started with his assassination, coupled with the terrible economic situation, that only went more poorly after the economic woes of the United Kingdom and the USA, ensured that the situation didn't stabilise as planned.\n\nThe Conservatives, who currently hold power in a mockery of the constitution, took over in 1921 in a coup, deposing President Tamayo and making sure that a renewed Argolla Clique of the party rules the country. Term Limits are a thing of the past, and the populace resents the rather poorly executed fraudulent elections. However, slow economic recovery may explain the people's tolerance for the Regime, and now that 1936 is starting, surely nothing can go wrong for the plans of La Nueva Argolla." # (!)
+ ECU_country_intro_header: "Республіка Еквадор"
+ ECU_country_intro_content: "Розвиток Еквадору після здобуття незалежності в 1809 році був тернистим. Невизначеність кордонів призвела до конфліктів з Перу та Колумбією, а конкуруючі олігархії консервативних великих землевласників у високогір'ї та ліберального населення на узбережжі вели запеклу боротьбу.\n\nПерша епоха відносного миру була досягнута за диктатури прихильного до церкви консервативного президента Габріеля Гарсії Морено, який розширив центральну адміністрацію, освітню систему та інфраструктуру. У 1875 році Морено було вбито, що знову призвело до періоду внутрішніх заворушень, доки ліберали під керівництвом генерала Елоя Альфаро, здавалося, не взяли гору. Проте політичні проблеми, що почалися з його вбивства, у поєднанні з жахливою економічною ситуацією, яка лише погіршилася після економічних труднощів у Сполученому Королівстві та США, не дозволили ситуації стабілізуватися, як планувалося.\n\nКонсерватори, які зараз утримують владу, знущаючись над конституцією, прийшли до влади в 1921 році внаслідок перевороту, поваливши президента Тамайо і забезпечивши, щоб країною правила оновлена партійна кліка «Арґолья». Обмеження термінів залишилося в минулому, а населення обурюється досить погано проведеними сфальсифікованими виборами. Однак повільне економічне відновлення може пояснити терпимість народу до режиму, і тепер, коли починається 1936 рік, напевно, ніщо не може піти не так для планів «Нової Арґольї»."
 
- ECU_guide: "§MLiberales Radicales / Conservadores§! ($market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot After Black Monday occurs, choose that the \"election will be held tomorrow.\"\n£white_dot Empower the desired party in the election that follows, and all subsequent elections.\n\n§MJunta Militar§! ($authoritarian_democrat_coloured$)\n£white_dot After Black Monday occurs, choose that \"Ecuador comes first...\"\n£white_dot After completing the \"A New Constitution\" focus, choose that \"the military shall protect the constitution forever.\""
+ ECU_guide: "§MРадикальні ліберали / Консерватори§! ($market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot Після «Чорного понеділка» оберіть варіант «вибори відбудуться завтра».\n£white_dot Підтримайте бажану партію на наступних та всіх подальших виборах.\n\n§MВійськова хунта§! ($authoritarian_democrat_coloured$)\n£white_dot Після «Чорного понеділка» оберіть варіант «Еквадор понад усе...»\n£white_dot Після завершення фокуса «Нова конституція» оберіть варіант «військові будуть вічно захищати конституцію»."
 
 ### Events ###
  ecuador_events.1.t: "Наслідки Чорного Понеділка"
@@ -444,74 +444,74 @@
  ECU_radical_socialist_DEF: "Народна Республіка Еквадор"
 
 ### Characters ###
- ECU_carlos_mancheno_cajas: "Carlos Mancheno Cajas"
+ ECU_carlos_mancheno_cajas: "Карлос Манчено Кахас"
  ECU_carlos_mancheno_cajas_leader_desc: ""
 
- ECU_alberto_enriquez_gallo: "Alberto Enríquez Gallo"
+ ECU_alberto_enriquez_gallo: "Альберто Енрікес Ґалло"
  ECU_alberto_enriquez_gallo_leader_desc: ""
  ECU_alberto_enriquez_gallo_commander_desc: ""
 
- ECU_jose_maria_velasco_ibarra: "José María Velasco Ibarra"
+ ECU_jose_maria_velasco_ibarra: "Хосе Марія Веласко Ібарра"
  ECU_jose_maria_velasco_ibarra_leader_desc: ""
 
- ECU_carlos_julio_arosemena_tola: "Carlos Julio Arosemena Tola"
+ ECU_carlos_julio_arosemena_tola: "Карлос Хуліо Аросемена Тола"
  ECU_carlos_julio_arosemena_tola_leader_desc: ""
 
- ECU_antonio_pons_campuzano: "Antonio Pons Campuzano"
+ ECU_antonio_pons_campuzano: "Антоніо Понс Кампусано"
  ECU_antonio_pons_campuzano_leader_desc: ""
 
- ECU_naptali_bonifaz_ascaszubi: "Neptalí Bonifaz Ascaszubi"
+ ECU_naptali_bonifaz_ascaszubi: "Непталі Боніфас Аскасубі"
  ECU_naptali_bonifaz_ascaszubi_leader_desc: ""
 
- ECU_mariano_suarez_veintimilla: "Mariano Suárez Veintimilla"
+ ECU_mariano_suarez_veintimilla: "Маріано Суарес Вейнтімілья"
 
- ECU_isidro_ramon_antonio_ayora_cueva: "Isidro Ramon Antonio Ayora Cueva"
+ ECU_isidro_ramon_antonio_ayora_cueva: "Ісідро Рамон Антоніо Айора Куева"
  ECU_isidro_ramon_antonio_ayora_cueva_leader_desc: ""
 
- ECU_carlos_alberto_arroyo_del_rio: "Carlos Alberto Arroyo del Río"
+ ECU_carlos_alberto_arroyo_del_rio: "Карлос Альберто Арройо дель Ріо"
  ECU_carlos_alberto_arroyo_del_rio_leader_desc: ""
 
- ECU_andres_fernandez_de_cordova_nieto: "Andrés Fernández de Córdova Nieto"
+ ECU_andres_fernandez_de_cordova_nieto: "Андрес Фернандес де Кордова Ньєто"
 
- ECU_alfredo_baquerizo_moreno: "Alfredo Baquerizo Moreno"
+ ECU_alfredo_baquerizo_moreno: "Альфредо Бакерісо Морено"
  ECU_alfredo_baquerizo_moreno_leader_desc: ""
 
- ECU_federico_paez_chiriboaga: "Federico Páez Chiriboaga"
+ ECU_federico_paez_chiriboaga: "Федеріко Паес Чірібоаґа"
  ECU_federico_paez_chiriboaga_leader_desc: ""
 
- ECU_nela_martinez_espinosa: "Nela Martínez Espinosa"
+ ECU_nela_martinez_espinosa: "Нела Мартінес Еспіноса"
  ECU_nela_martinez_espinosa_leader_desc: ""
 
- ECU_ricardo_paredes_romero: "Ricardo Paredes Romero"
+ ECU_ricardo_paredes_romero: "Рікардо Паредес Ромеро"
  ECU_ricardo_paredes_romero_leader_desc: ""
 
- ECU_dolores_caucango_quilo: "Dolores Cacuango Quilo"
+ ECU_dolores_caucango_quilo: "Долорес Какуанґо Кіло"
  ECU_dolores_caucango_quilo_leader_desc: ""
 
- ECU_francisco_urrutia_suarez: "Francisco Urrutia Suárez"
+ ECU_francisco_urrutia_suarez: "Франсіско Уррутіа Суарес"
 
- ECU_cesar_edmundo_chiribonga_gonzalez: "César Edmundo Chiriboga Gonzalez"
+ ECU_cesar_edmundo_chiribonga_gonzalez: "Сесар Едмундо Чірібоґа Ґонсалес"
  ECU_cesar_edmundo_chiribonga_gonzalez_commander_desc: ""
 
- ECU_hugo_ortiz_garces: "Hugo Ortiz Garcés"
+ ECU_hugo_ortiz_garces: "Уґо Ортіс Ґарсес"
  ECU_hugo_ortiz_garces_commander_desc: ""
 
- ECU_luis_alberto_larrea_alba: "Luis Alberto Larrea Alba"
+ ECU_luis_alberto_larrea_alba: "Луїс Альберто Ларреа Альба"
  ECU_luis_alberto_larrea_alba_commander_desc: ""
 
- ECU_rafael_moran_valverde: "Rafael Morán Valverde"
+ ECU_rafael_moran_valverde: "Рафаель Моран Вальверде"
 
- ECU_victor_emilio_estrada: "Victor Emilio Estrada"
- ECU_matilde_hidalgo: "Matilde Hidalgo"
- ECU_luisa_gomez_de_la_torre_paez: "Luisa Gomez de la Torre Paez"
- ECU_augusto_nicolas_martinez: "Augusto Nicolas Martinez"
- ECU_leopoldo_benites: "Leopoldo Benites"
- ECU_antonio_parra_velasco: "Antonio Parra Velasco"
- ECU_bayardo_tovar: "Bayardo Tovar"
- ECU_cosimo_rennella: "Cosimo Rennella"
- ECU_juan_ramon_castro: "Juan Ramon Castro"
- ECU_victor_leonidas_naranjo_fiallo: "Victor Leonidas Naranjo Fiallo"
- ECU_cabrera_sevilla_gral_luis: "Cabrera Sevilla Gral Luis"
+ ECU_victor_emilio_estrada: "Віктор Еміліо Естрада"
+ ECU_matilde_hidalgo: "Матільде Ідальґо"
+ ECU_luisa_gomez_de_la_torre_paez: "Луїса Ґомес де ла Торре Паес"
+ ECU_augusto_nicolas_martinez: "Ауґусто Ніколас Мартінес"
+ ECU_leopoldo_benites: "Леопольдо Бенітес"
+ ECU_antonio_parra_velasco: "Антоніо Парра Веласко"
+ ECU_bayardo_tovar: "Баярдо Товар"
+ ECU_cosimo_rennella: "Козімо Реннелла"
+ ECU_juan_ramon_castro: "Хуан Рамон Кастро"
+ ECU_victor_leonidas_naranjo_fiallo: "Віктор Леонідас Наранхо Ф'яльо"
+ ECU_cabrera_sevilla_gral_luis: "Луїс Кабрера Севілья"
  ECU_hugo_endara_penaherrera: "Уго Ендара Пеньяеррера"
- ECU_juan_de_dios_martinez: "Juan de Dios Martinez"
- ECU_congreso_nacional_de_ecuador: "Congreso Nacional de Ecuador"
+ ECU_juan_de_dios_martinez: "Хуан де Діос Мартінес"
+ ECU_congreso_nacional_de_ecuador: "Національний конгрес Еквадору"

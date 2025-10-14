@@ -14,12 +14,12 @@
  BRI_radical_socialist_ADJ:0 "Бретонськ"
  BRI_radical_socialist_DEF:0 "Бретонська Комуна"
 
- LIL:0 "Walloon Flanders" # (!)
- LIL_ADJ:0 "Lillois" # (!)
- LIL_DEF:0 "the Protectorate of Walloon Flanders" # (!)
+ LIL:0 "Валлонська Фландрія"
+ LIL_ADJ:0 "Фландрійськ"
+ LIL_DEF:0 "Протекторат Валлонська Фландрія"
 
- LIL_authoritarian_democrat_party:0 "Verwaltungskommission" # (!)
- LIL_authoritarian_democrat_party_long:0 "Verwaltungskommission Wallonisch-Flandern (Administrative Commission of Walloon Flanders)" # (!)
+ LIL_authoritarian_democrat_party:0 "Verwaltungskommission"
+ LIL_authoritarian_democrat_party_long:0 "Verwaltungskommission Wallonisch-Flandern (Адміністративна комісія Валлонської Фландрії)"
 
  LIL_social_democrat_party:0 "$LIL_authoritarian_democrat_party$"
  LIL_social_democrat_party_long:0 "$LIL_authoritarian_democrat_party_long$"

@@ -73,7 +73,7 @@
  KR_welcome_splash_tab_4_content_8: "SuperGreenBeans  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian  ·  The Irredentista"
  KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
  KR_welcome_splash_tab_4_content_10: "\n§YУкраїнська команда перекладачів:§!"
- KR_welcome_splash_tab_4_content_11: "CodyMaster  ·  Bovcun  ·  Letičan  ·  Myronzb"
+ KR_welcome_splash_tab_4_content_11: "CodyMaster  ·  Bovcun  ·  Letičan  ·  Myronzb" # це мило
 
 ### Career Profile ###
  KAISERREICH_CAREER_PROFILE: "Кайзеррайх"
@@ -248,72 +248,71 @@
  economic_sphere_default_icon: "GFX_goal_generic_positive_trade_relations_gold"
  economic_sphere_default_desc: ""
 
-### International Market Triggers ###
- trade_partners_at_peace: "Countries At Peace"
- trade_partners_at_war: "Countries At War"
- trade_partners_majors: "Major Countries"
- trade_partners_faction_leader: "Faction Leader"
- trade_partners_faction_members: "All Faction Members"
- trade_partners_major_faction_members: "Major Faction Members"
- trade_partners_minor_faction_members: "Minor Faction Members"
- trade_partners_reichspakt: "All [GER.GetFactionName] Countries"
- trade_partners_internationale: "All [INT.GetFactionName] Countries"
- trade_partners_entente: "All [ENT.GetFactionName] Countries"
- trade_partners_moscow_accord: "All [RUS.GetFactionName] Countries"
- trade_partners_co_prosperity_sphere: "All [JAP.GetFactionName] Countries"
- trade_partners_overlord: "Overlord"
- trade_partners_puppets_of_same_overlord: "Puppets of Our Overlord"
- trade_partners_same_economic_sphere: "Members of Our Economic Sphere"
- trade_partners_mitteleuropa: "Members of $mitteleuropa_title$"
- trade_partners_phalanstere: "Members of the $INT_phalanstere$"
- trade_partners_iedc: "Members of the $CAN_iedc$"
- trade_partners_geacps: "Members of the $JAP_asian_economic_sphere$"
- trade_partners_non_aggression_pacts: "Non-Aggression Pact Signatories"
- trade_partners_guarantors: "Guarantors"
- trade_partners_same_government: "Countries with the Same Government"
- trade_partners_different_government: "Countries with a Different Government"
- trade_partners_same_government_type: "Countries with the Same Government Type"
- trade_partners_different_government_type: "Countries with a Different Government Type"
- trade_partners_socialists: "All Socialist Countries"
- trade_partners_non_socialists: "All Non-Socialist Countries"
- trade_partners_totalists: "$totalist$ Countries"
- trade_partners_syndicalists: "$syndicalist$ Countries"
- trade_partners_radical_socialists: "$radical_socialist$ Countries"
- trade_partners_is_elected: "$social_democrat$, $social_liberal$, $market_liberal$ or $social_conservative$ Countries"
- trade_partners_is_democratic: "$social_democrat$, $social_liberal$, $market_liberal$, $social_conservative$ or $authoritarian_democrat$ Countries"
- trade_partners_is_liberal: "$social_democrat$, $social_liberal$ or $market_liberal$ Countries"
- trade_partners_is_conservative: "$social_conservative$ or $authoritarian_democrat$ Countries"
- trade_partners_social_democrats: "$social_democrat$ Countries"
- trade_partners_social_liberals: "$social_liberal$ Countries"
- trade_partners_market_liberals: "$market_liberal$ Countries"
- trade_partners_social_conservatives: "$social_conservative$ Countries"
- trade_partners_is_authoritarian: "$authoritarian_democrat$, $paternal_autocrat$ or $national_populist$ Countries"
- trade_partners_is_dictatorship: "$paternal_autocrat$ or $national_populist$ Countries"
- trade_partners_authoritarian_democrats: "$authoritarian_democrat$ Countries"
- trade_partners_paternal_autocrats: "$paternal_autocrat$ Countries"
- trade_partners_national_populists: "$national_populist$ Countries"
- trade_partners_monarchies: "All Monarchies"
- trade_partners_republics: "All Republics"
- trade_partners_north_america: "North American Countries"
- trade_partners_central_america: "Central American Countries"
- trade_partners_caribbean: "Caribbean Countries"
- trade_partners_south_america: "South American Countries"
- trade_partners_europe: "European Countries"
- trade_partners_africa: "African Countries"
- trade_partners_north_africa: "North African Countries"
- trade_partners_africa_except_north: "Subsaharan African Countries"
- trade_partners_asia: "Asian Countries"
- trade_partners_india: "Indian Countries"
- trade_partners_asia_except_india: "East Asian Countries"
- trade_partners_middle_east: "Middle Eastern Countries"
- trade_partners_oceania: "Oceanian Countries "
- trade_partners_neighbours: "Neighbours"
- trade_partners_same_continent_neighbours: "Same Continent Neighbours"
- trade_partners_home_area_neighbours: "Home Area Neighbours"
-
-
+ ### International Market Triggers ###
+ trade_partners_at_peace: "Країни в мирі"
+ trade_partners_at_war: "Країни у війні"
+ trade_partners_majors: "Великі держави"
+ trade_partners_faction_leader: "Лідер фракції"
+ trade_partners_faction_members: "Усі члени фракції"
+ trade_partners_major_faction_members: "Великі держави-члени фракції"
+ trade_partners_minor_faction_members: "Малі держави-члени фракції"
+ trade_partners_reichspakt: "Усі країни [GER.GetFactionName]"
+ trade_partners_internationale: "Усі країни [INT.GetFactionName]"
+ trade_partners_entente: "Усі країни [ENT.GetFactionName]"
+ trade_partners_moscow_accord: "Усі країни [RUS.GetFactionName]"
+ trade_partners_co_prosperity_sphere: "Усі країни [JAP.GetFactionName]"
+ trade_partners_overlord: "Сюзерен"
+ trade_partners_puppets_of_same_overlord: "Маріонетки нашого сюзерена"
+ trade_partners_same_economic_sphere: "Члени нашої економічної сфери"
+ trade_partners_mitteleuropa: "Члени $mitteleuropa_title$"
+ trade_partners_phalanstere: "Члени $INT_phalanstere$"
+ trade_partners_iedc: "Члени $CAN_iedc$"
+ trade_partners_geacps: "Члени $JAP_asian_economic_sphere$"
+ trade_partners_non_aggression_pacts: "Підписанти пакту про ненапад"
+ trade_partners_guarantors: "Гаранти"
+ trade_partners_same_government: "Країни з таким самим урядом"
+ trade_partners_different_government: "Країни з іншим урядом"
+ trade_partners_same_government_type: "Країни з таким самим типом правління"
+ trade_partners_different_government_type: "Країни з іншим типом правління"
+ trade_partners_socialists: "Усі соціалістичні країни"
+ trade_partners_non_socialists: "Усі несоціалістичні країни"
+ trade_partners_totalists: "$totalist$ країни"
+ trade_partners_syndicalists: "$syndicalist$ країни"
+ trade_partners_radical_socialists: "$radical_socialist$ країни"
+ trade_partners_is_elected: "Країни ($social_democrat$, $social_liberal$, $market_liberal$ або $social_conservative$)"
+ trade_partners_is_democratic: "Країни ($social_democrat$, $social_liberal$, $market_liberal$, $social_conservative$ або $authoritarian_democrat$)"
+ trade_partners_is_liberal: "Країни ($social_democrat$, $social_liberal$ або $market_liberal$)"
+ trade_partners_is_conservative: "Країни ($social_conservative$ або $authoritarian_democrat$)"
+ trade_partners_social_democrats: "$social_democrat$ країни"
+ trade_partners_social_liberals: "$social_liberal$ країни"
+ trade_partners_market_liberals: "$market_liberal$ країни"
+ trade_partners_social_conservatives: "$social_conservative$ країни"
+ trade_partners_is_authoritarian: "Країни ($authoritarian_democrat$, $paternal_autocrat$ або $national_populist$)"
+ trade_partners_is_dictatorship: "Країни ($paternal_autocrat$ або $national_populist$)"
+ trade_partners_authoritarian_democrats: "$authoritarian_democrat$ країни"
+ trade_partners_paternal_autocrats: "$paternal_autocrat$ країни"
+ trade_partners_national_populists: "$national_populist$ країни"
+ trade_partners_monarchies: "Усі монархії"
+ trade_partners_republics: "Усі республіки"
+ trade_partners_north_america: "Країни Північної Америки"
+ trade_partners_central_america: "Країни Центральної Америки"
+ trade_partners_caribbean: "Країни Карибського басейну"
+ trade_partners_south_america: "Країни Південної Америки"
+ trade_partners_europe: "Європейські країни"
+ trade_partners_africa: "Африканські країни"
+ trade_partners_north_africa: "Країни Північної Африки"
+ trade_partners_africa_except_north: "Країни Субсахарської Африки"
+ trade_partners_asia: "Азійські країни"
+ trade_partners_india: "Індійські країни"
+ trade_partners_asia_except_india: "Східноазійські країни"
+ trade_partners_middle_east: "Близькосхідні країни"
+ trade_partners_oceania: "Країни Океанії "
+ trade_partners_neighbours: "Сусіди"
+ trade_partners_same_continent_neighbours: "Сусіди на тому ж континенті"
+ trade_partners_home_area_neighbours: "Сусіди в домашньому регіоні"
+ 
 ### Static Modifiers ###
- volunteer_limit_plus_three: "Increased Volunteer Limit"
+ volunteer_limit_plus_three: "Збільшений ліміт добровольців"
  volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|0+=]"
  volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
  volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|0+=]"
@@ -586,7 +585,7 @@
 
 ### Government in Exile Events ###
  mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective]ий лідер у вигнанні пропонує свої послуги"
- mtg_exile_leader_added.1.desc:0 "Після довгої і небезпечної подорожі через утримувану ворогом територію і кілька нейтральних країн [From.GetName] нарешті прибув до столиці. Після невеликого відпочинку лідер [From.GetSheHe] запропонував свою допомогу в нашій.\n\nСудячи з повідомлень, [From.GetSheHe] «прагне повернутися до свого звичайного заняття – вбивств і руйнувань»."
+ mtg_exile_leader_added.1.desc:0 "Після довгої і небезпечної подорожі через утримувану ворогом територію і кілька нейтральних країн [From.GetName] нарешті прибув до столиці. Після невеликого відпочинку лідер [From.GetSheHe] запропонував свою допомогу в нашій.\n\nСудячи з повідомлень, [From.GetSheHe] «прагне повернутися до свого звичайного заняття – вбивств і руйнувань»."
  mtg_exile_leader_added.1.a:0 "Ваша боротьба ще не закінчена."
 
  mtg_exile_government.2.title:0 "[From.GetAdjective]ий уряд у вигнанні"
@@ -675,37 +674,37 @@
  construction_tech_research:0 "Час дослідження будівництва"
 
 ### Hidden Techs ###
- tech_camel_corps:0 "Camel Corps" # (!)
-
+ tech_camel_corps:0 "Корпус верблюдів"
+ 
  tech_ski_infantry:0 "Лижна піхота"
  tech_ski_infantry_terrain_effect:0 "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
  tech_marine_bonus:0 "Покр. морські піхотинці"
  tech_marine_bonus_2:0 "Навчені морські піхотинці"
- tech_marine_bonus_combined:0 "Superior Marines" # (!)
+ tech_marine_bonus_combined:0 "Покращена морська піхота"
 
- tech_jungle_warfare:0 "Jungle Combat Training" # (!)
+ tech_jungle_warfare:0 "Тренування для бою в джунглях"
  tech_jungle_warfare_terrain_effect:0 "  §Y$jungle$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
 
- tech_forest_warfare:0 "Forest Combat Training" # (!)
+ tech_forest_warfare:0 "Тренування для бою в лісі"
  tech_forest_warfare_terrain_effect:0 "  §Y$forest$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
 
  tech_improved_field_hospitals:0 "Поліпшені польові шпиталі"
 
  tech_expanded_engineer_corps:0 "Розширена бригада інженерів"
 
- tech_mountain_warfare:0 "Mountain Combat Training" # (!)
+ tech_mountain_warfare:0 "Гірська підготовка"
  tech_mountain_warfare_terrain_effect:0 "  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
  tech_improved_recon_units:0 "Навчені розвідники"
 
- tech_urban_warfare:0 "Urban Combat Training" # (!)
+ tech_urban_warfare:0 "Підготовка до міського бою"
  tech_urban_warfare_terrain_effect:0 "  §Y$urban$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
 
- tech_desert_warfare:0 "Desert Combat Training" # (!)
+ tech_desert_warfare:0 "Тренування для бою в пустелі"
  tech_desert_warfare_terrain_effect:0 "  §Y$desert$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
- tech_marsh_warfare:0 "Marsh Combat Training" # (!)
+ tech_marsh_warfare:0 "Тренування для бою на болотах"
  tech_marsh_warfare_terrain_effect:0 "  §Y$marsh$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
  tech_anti_fortification_artillery:0 "Протифортифікаційна артилерія"
@@ -745,18 +744,18 @@
 
  tech_anti_armour_tactics: "Протиброньова тактика"
 
- tech_river_boats: "Річкові човни" # (&?)
+ tech_river_boats: "Річковий флот" # (&?) та хз що тут писати Річкові човни тепер будуть річковим флотом
  tech_river_boats_terrain_effect: "  §Y$river$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
- tech_armored_car_spearhead: "Armoured Car Spearhead" # (!)
+ tech_armored_car_spearhead: "Авангард із бронеавтомобілів"
 
  tech_masterful_blitz: "$tactic_masterful_blitz$"
 
  tech_human_wave_tactics: "$tactic_human_wave_tactics$"
 
- tech_improved_decryption: "Improved Decryption" # (!)
+ tech_improved_decryption: "Покращене дешифрування"
 
- tech_elephant_sappers: "Elephant Sappers" # (!)
+ tech_elephant_sappers: "Слони-сапери"
  tech_elephant_sappers_terrain_effect: "  §Y$jungle$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
 
  tech_bicycle_battalion: "$bicycle_battalion$"
@@ -778,12 +777,13 @@
  assault_battalion_desc: "$blackshirt_assault_battalion_desc$"
 
  tech_assault_battalion: "$assault_battalion$"
- tech_assault_battalion_effect: "Enables §Y$assault_battalion$§! support company."
+ tech_assault_battalion_effect: "Відкриває роту підтримки §Y$assault_battalion$§!."
+ 
+ modifier_army_sub_unit_assault_battalion_attack_factor: "$assault_battalion$ Атака"
+ modifier_army_sub_unit_assault_battalion_defence_factor: "$assault_battalion$ Захист"
+ modifier_army_sub_unit_assault_battalion_speed_factor: "$assault_battalion$ Швидкість"
+ modifier_army_sub_unit_assault_battalion_max_org_factor: "$assault_battalion$ Організація"
 
- modifier_army_sub_unit_assault_battalion_attack_factor: "$assault_battalion$ Attack"
- modifier_army_sub_unit_assault_battalion_defence_factor: "$assault_battalion$ Defence"
- modifier_army_sub_unit_assault_battalion_speed_factor: "$assault_battalion$ Speed"
- modifier_army_sub_unit_assault_battalion_max_org_factor: "$assault_battalion$ Organisation"
 
  ### Modules ###
  tank_makeshift_armor: "Імпровізована броня"
@@ -801,4 +801,4 @@
  on_annex_workaround_ADJ: " "
  on_annex_workaround_DEF: " "
 
- system_placeholder_leader: "Placeholder"
+system_placeholder_leader: "Заглушка"

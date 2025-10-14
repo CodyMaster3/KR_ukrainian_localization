@@ -65,11 +65,11 @@
  generic_events.75.t: "[From.From.GetAdjective]і землі"
  generic_events.75.d: "[Root.GetAdjective]ий уряд обговорює, що робити з [return_to.GetAdjective]ими землями, які ми зараз займаємо - землями, на які ми не маємо законних прав. Чи повинні ми повернути їм ці землі?"
  generic_events.75.a: "Так, повернути їм всі землі."
- KR_will_return_all: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями або претензіями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include states that are [Root.GetAdjective] §Yclaimed§! or §Ycore§! states."
+ KR_will_return_all: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями або претензіями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nПримітка: це §Rне§! включатиме штати, які є [Root.GetAdjective]ими §Yзаявленими§! або §Yнаціональними§!."
  generic_events.75.b: "Так, поверніть їм землю... але збережіть найбільш життєво важливі регіони"
- KR_will_return_rest: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями або претензіями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include states that are [Root.GetAdjective] §Yclaimed§! or §Ycore§! states, nor will it include §Yvital§! states such as canals."
- generic_events.75.c: "Повернути їм лише їхні основні землі"
- KR_will_return_cores: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include [Root.GetAdjective] §Yclaimed§! or §Ycore§! states, nor §Yvital§! states such as canals. Any [return_to.GetAdjective] §Yclaims§! will also be retained."
+ KR_will_return_rest: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями або претензіями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nПримітка: це §Rне§! включатиме штати, які є [Root.GetAdjective]ими §Yзаявленими§! або §Yнаціональними§! штатами, а також §Yжиттєво важливі§! штати, такі як канали."
+ generic_events.75.c: "Повернути їм лише їхні національні землі"
+ KR_will_return_cores: "Всі прибережні або прилеглі землі, які є [return_to.GetAdjective]ими національними землями, будуть повернуті державі §Y[return_to.GetNameDef]§!.\n\nПримітка: це §Rне§! включатиме [Root.GetAdjective] §Yзаявлені§! або §Yнаціональні§! штати, а також §Yжиттєво важливі§! штати, такі як канали. Будь-які [return_to.GetAdjective] §Yпретензії§! також будуть збережені."
  generic_events.75.e: "Ми збережемо все!"
  KR_will_not_return: "Ми §Rне§! повернемо жодної з їхніх земель, і нас більше не попросять про це."
 
@@ -115,7 +115,7 @@
 
  coalition_stability_tooltip: "Партнери по коаліції надають $RIGHT|G%0$ їхньої популярності як додатковий §Hприріст політичної влади§!."
 
- coalition_stability_pp_change: "§$COLOUR$[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§! coalition partners now contribute [?coalition_stability_var|Y0%] of their party popularity to our $MODIFIER_POLITICAL_POWER_GAIN$." # (!)
+ coalition_stability_pp_change: "§$COLOUR$[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§! партнери по коаліції тепер вносять [?coalition_stability_var|Y0%] популярності своєї партії до нашого $MODIFIER_POLITICAL_POWER_GAIN$."
 
 ### At War Notice ###
  has_scripted_peace: "Ми в стані війни"
@@ -144,10 +144,10 @@
 
  unit_limit_list_item: "\n   - "
 
- unit_limit_reached_floor_desc: "\n(Capped to a minimum of [?floor|H0])" # (!)
- unit_limit_reached_ceiling_desc: "\n(Capped to a maximum of [?ceiling|H0])" # (!)
- unit_limit_base_value_desc: "\nBase Value: [?base_units|G1]" # (!)
- unit_limit_core_population_desc: "$unit_limit_list_item$From Core Population: [?core_base|G1]" # (!)
+ unit_limit_reached_floor_desc: "\n(Обмежено мінімумом у [?floor|H0])" # (!)
+ unit_limit_reached_ceiling_desc: "\n(Обмежено максимумом у [?ceiling|H0])" # (!)
+ unit_limit_base_value_desc: "\nБазове значення: [?base_units|G1]" # (!)
+ unit_limit_core_population_desc: "$unit_limit_list_item$Від національного населення: [?core_base|G1]" # (!)
  unit_limit_noncore_population_desc: "\n   - Від неосновного населення: [?non_core_base|G1]"
  unit_limit_subject_population_bonus_desc: "\n   - Від населення §HСуб'єкта§!: [?subject_base_units|G1]"
  unit_limit_subject_state_bonus_desc: "\n   - Від регіонів §HСуб'єкта§!: [?subject_states|G0]"
@@ -162,11 +162,11 @@
  unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
 
  unit_limit_above_limit_desc: "\n--------------\n$unit_limit_above_limit_text$"
- unit_limit_above_limit_text: "§RWe have currently exceeded our capacity, and the only way to alleviate the stress on our country will be to remove some of our divisions.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+ unit_limit_above_limit_text: "§RНаразі ми перевищили нашу спроможність, і єдиний спосіб зменшити навантаження на країну — розформувати частину дивізій.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
 
  unit_limit_breakdown_desc: "[unit_limit_breakdown_desc]"
- unit_limit_breakdown_desc_enabled: "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them.\n\nThe maximum number of supported units is based on the country's §Hpopulation§! and §Hnumber of owned states§!, and is then multiplied by a ratio of this value to the §Hnumber of factories§! in the states.\n\nIn §Hcivil wars§!, the base values are calculated from the sum of all states owned by all participants."
- unit_limit_breakdown_desc_disabled: "§HMaximum Supported Divisions§! has been disabled by game rules."
+ unit_limit_breakdown_desc_enabled: "Кожна країна здатна підтримувати лише певну кількість окремих військових дивізій, перш ніж її економіка та інфраструктура почнуть зазнавати труднощів з їхнім утриманням.\n\nМаксимальна кількість підтримуваних підрозділів залежить від §Hнаселення§! країни та §Hкількості володінь§!, а потім множиться на співвідношення цього значення до §Hкількості фабрик§! у цих володіннях.\n\nПід час §Hгромадянських війн§! базові значення розраховуються із суми всіх володінь, що належать усім учасникам."
+ unit_limit_breakdown_desc_disabled: "§HМаксимальна кількість підтримуваних дивізій§! була вимкнена правилами гри."
 
 ### Tooltips ###
  KR_party_pop_less_than: "Менше, ніж $RIGHT|%0Y$ підтримки [Root.GetRulingParty]"
@@ -234,16 +234,16 @@
  national_populist: "Націонал-популізм"
 
 ### Names Coloured ###
- totalist_coloured: "§oТоталізм§!" # (!) — примітка: простежте контекст ужитку ~ L.H.
- syndicalist_coloured: "§rСиндикалізм§!" # (!)
- radical_socialist_coloured: "§RРадикальний соціалізм§!" # (!)
- social_democrat_coloured: "§SСоціал-демократизм§!" # (!)
- social_liberal_coloured: "§lСоціал-лібералізм§!" # (!)
- market_liberal_coloured: "§mРинковий лібералізм§!" # (!)
- social_conservative_coloured: "§cСоціал-консерватизм§!" # (!)
- authoritarian_democrat_coloured: "§aАвторитарна демократія§!" # (!)
- paternal_autocrat_coloured: "§PПатерналізм§!" # (!)
- national_populist_coloured: "§nНаціонал-популізм§!" # (!)
+ totalist_coloured: "§oТоталізм§!" 
+ syndicalist_coloured: "§rСиндикалізм§!"
+ radical_socialist_coloured: "§RРадикальний соціалізм§!"
+ social_democrat_coloured: "§SСоціал-демократизм§!"
+ social_liberal_coloured: "§lСоціал-лібералізм§!"
+ market_liberal_coloured: "§mРинковий лібералізм§!"
+ social_conservative_coloured: "§cСоціал-консерватизм§!"
+ authoritarian_democrat_coloured: "§aАвторитарна демократія§!"
+ paternal_autocrat_coloured: "§PПатерналізм§!"
+ national_populist_coloured: "§nНаціонал-популізм§!"
 
 ### Nouns ###
  totalist_noun: "Тоталісти"

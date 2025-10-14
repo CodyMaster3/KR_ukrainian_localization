@@ -25,9 +25,9 @@
  unlock_focuses: "§GЗгодом цей фокус буде автоматично обійдений і розблокує інші фокуси§!"
  tooltip_focus_unlocked_by_event: "§GЦей фокус буде автоматично розблоковано за допомогою події§!"
  enables_new_focus_branches: "Включає нові гілки фокусів"
- unlocks_new_focuses: "§GNew national focuses will be unlocked.§!"
+ unlocks_new_focuses: "§GБуде розблоковано нові національні фокуси.§!"
 
- tooltip_merge_national_spirits: "The previously gained §YNational Spirits§! will be merged into a §Gmore powerful§! one!"
+ tooltip_merge_national_spirits: "Отримані раніше §Yнаціональні духи§! буде об'єднано в один, §Gбільш могутній§!!"
  tooltip_apply_one_of_effects_depending_on_ideas: "§gЗастосується один з наступних ефектів залежно від поточного національного духу:§!"
  tooltip_apply_one_of_effects_depending_on_ruling_party: "§gЗастосується один з наступних ефектів залежно від поточної правлячої партії:§!"
 
@@ -40,18 +40,16 @@
 
  which_has_the_following_effect: "Що має наступний ефект:"
 
- modifies_sic: "Modifies your §HSecond in Command§!:"
+ modifies_sic: "Змінює вашу §Hдругу особу в командуванні§!:"
 
  improves_designer_tt: "§GПокращення§! §YКонструкторського бюро§!:"
  improves_industrial_concern_tt: "§GПокращення§! §YПромислового концерну§!:"
- improves_political_advisor_tt: "§GImproves§! a §YPolitical Advisors§!:"
- improves_military_advisor_tt: "§GImproves§! a §YMilitary Advisors§!:"
-
- tooltip_timer_reset_for_peace: "§RThe timer until negotiations for peace will need to be held will be reset.§!"
-
- tooltip_adds_extra_effects_to_foci: "§CAdd extra effects to the following foci:§!"
- tooltip_increases_focus_effects: "§C§GIncreases§! the effects of the following foci:§!"
- tooltip_reduces_focus_effects: "§C§RReduces§! the effects of the following foci:§!"
+ improves_political_advisor_tt: "§GПокращує§! §Yполітичного радника§!:"
+ improves_military_advisor_tt: "§GПокращує§! §Yвійськового радника§!:"
+ tooltip_timer_reset_for_peace: "§RТаймер до початку мирних перемовин буде скинуто.§!"
+ tooltip_adds_extra_effects_to_foci: "§CДодає додаткові ефекти до таких фокусів:§!"
+ tooltip_increases_focus_effects: "§C§GПосилює§! ефекти таких фокусів:§!"
+ tooltip_reduces_focus_effects: "§C§RПослаблює§! ефекти таких фокусів:§!"
 
  #scoped to the country joining
  tooltip_joins_faction: "§Y[THIS.GetName]§! приєднується до фракції."
@@ -72,14 +70,14 @@
 
  kill_character_tt: "помирає. "
 
- reduce_stability_decision_cost_twenty_five_percent_tt: "Reduce the £pol_power §YPolitical Power§! cost of £GFX_decision_icon_small §Y$generic_raise_stability$§! by §G25%§!"
- reduce_propaganda_decision_cost_twenty_five_percent_tt: "Reduce the £pol_power §YPolitical Power§! cost of £GFX_decision_icon_small §Y$war_propaganda$§!, £GFX_decision_icon_small §Y$war_propaganda_casualties$§!, £GFX_decision_icon_small §Y$war_propaganda_convoys$§!, and £GFX_decision_icon_small §Y$war_propaganda_bombing$§! by §G25%§!"
+ reduce_stability_decision_cost_twenty_five_percent_tt: "Зменшує вартість рішення £GFX_decision_icon_small §Y$generic_raise_stability$§! в £pol_power §Yполітичній владі§! на §G25%§!"
+ reduce_propaganda_decision_cost_twenty_five_percent_tt: "Зменшує вартість рішень £GFX_decision_icon_small §Y$war_propaganda$§!, £GFX_decision_icon_small §Y$war_propaganda_casualties$§!, £GFX_decision_icon_small §Y$war_propaganda_convoys$§! та £GFX_decision_icon_small §Y$war_propaganda_bombing$§! в £pol_power §Yполітичній владі§! на §G25%§!"
 
  # used to generate tooltips in dockyard or naval base foci when the country doesn't own any coastal states
  random_owned_controlled_coastal_state: "Випадкова прибережна провінція, що належить і контролюється"
 
- focus_tree_has_changed_tt: "§RThe political situation has evolved.§!" # (!)
- focus_tree_will_change_tt: "§GThe Focus Tree will Change...§!" # (!)
+ focus_tree_has_changed_tt: "§RПолітична ситуація змінилася.§!"
+ focus_tree_will_change_tt: "§GДерево фокусів зміниться...§!"
 
  received_equipment_500: "Ви отримали §G500§! піхотного спорядження з цієї країни"
  received_equipment_1000: "Ви отримали §G1000§! піхотного спорядження з цієї країни"
@@ -88,119 +86,119 @@
  received_equipment_5000: "Ви отримали §G5000§! піхотного спорядження з цієї країни"
 
 ### Bindable Localisation ###
- tooltip_enable_focus: "§GEnables§! the national focus $FOCUS|Y$." # (!)
- tooltip_enable_two_focuses: "§GEnables§! the national focuses $FOCUS1|Y$ and $FOCUS2|Y$." # (!)
- tooltip_disable_focus: "§RDisables§! the national focus $FOCUS|Y$." # (!)
- tooltip_disable_two_focuses: "§RDisables§! the national focuses $FOCUS1|Y$ and $FOCUS2|Y$." # (!)
+ tooltip_enable_focus: "§GВмикає§! національний фокус $FOCUS|Y$." )
+ tooltip_enable_two_focuses: "§GВмикає§! національні фокуси $FOCUS1|Y$ та $FOCUS2|Y$."
+ tooltip_disable_focus: "§RВимикає§! національний фокус $FOCUS|Y$."
+ tooltip_disable_two_focuses: "§RВимикає§! національні фокуси $FOCUS1|Y$ та $FOCUS2|Y$."
 
- tooltip_if_focus_completed: "§CIf $FOCUS|Y$ was completed:§!"
- tooltip_if_focus_not_completed: "§CIf $FOCUS|Y$ was §RNOT§! completed:§!"
- tooltip_if_two_foci_completed: "§CIf $FOCUS1|Y$ or $FOCUS2|Y$ were completed:§!"
- tooltip_if_two_foci_not_completed: "§CIf $FOCUS1|Y$ and $FOCUS2|Y$ were §RNOT§! completed:§!"
+ tooltip_if_focus_completed: "§CЯкщо фокус $FOCUS|Y$ було завершено:§!"
+ tooltip_if_focus_not_completed: "§CЯкщо фокус $FOCUS|Y$ §RНЕ§! було завершено:§!"
+ tooltip_if_two_foci_completed: "§CЯкщо фокуси $FOCUS1|Y$ або $FOCUS2|Y$ було завершено:§!"
+ tooltip_if_two_foci_not_completed: "§CЯкщо фокуси $FOCUS1|Y$ та $FOCUS2|Y$ §RНЕ§! було завершено:§!"
 
- tooltip_extra_effect_from_focus_completion: "§CExtra Effect from completion of $FOCUS|Y$:§!"
- tooltip_strengthen_focus: "§GStrengthens§! the effects of the national focus $FOCUS|Y$." # (!)
- tooltip_strengthen_two_focuses: "§GStrengthens§! the effects of the national focuses $FOCUS1|Y$ and $FOCUS2|Y$." # (!)
+ tooltip_extra_effect_from_focus_completion: "§CДодатковий ефект від завершення $FOCUS|Y$:§!"
+ tooltip_strengthen_focus: "§GПосилює§! ефекти національного фокуса $FOCUS|Y$."
+ tooltip_strengthen_two_focuses: "§GПосилює§! ефекти національних фокусів $FOCUS1|Y$ та $FOCUS2|Y$."
 
- tooltip_if_country_completed_focus: "§CIf $COUNTRY|Y$ has completed $FOCUS|Y$:§!"
- tooltip_if_country_not_completed_focus: "§CIf $COUNTRY|Y$ has §RNOT§! completed $FOCUS|Y$:§!"
+ tooltip_if_country_completed_focus: "§CЯкщо $COUNTRY|Y$ завершила фокус $FOCUS|Y$:§!"
+ tooltip_if_country_not_completed_focus: "§CЯкщо $COUNTRY|Y$ §RНЕ§! завершила фокус $FOCUS|Y$:§!"
 
- tooltip_effects_determined_by_focus: "The effects of this national focus will be determined by the focus $FOCUS|Y$." # (!)
- tooltip_set_focus_effects: "The national focus $FOCUS|Y$ will now have the following effects:" # (!)
+ tooltip_effects_determined_by_focus: "Ефекти цього національного фокуса будуть визначені фокусом $FOCUS|Y$."
+ tooltip_set_focus_effects: "Національний фокус $FOCUS|Y$ тепер матиме такі ефекти:"
 
  tooltip_has_national_spirit: "$TRIGGER_HAS_IDEA_COUNTRY$"
  tooltip_has_national_spirit_NOT: "$TRIGGER_HAS_NOT_IDEA_COUNTRY$"
- tooltip_if_national_spirit_is_active: "§CIf $IDEA|Y$ is currently active:§!"
- tooltip_available_if_not_at_war_with: "§CAvailable only if we are §Rnot§! at war with $COUNTRY|Y$.§!"
+ tooltip_if_national_spirit_is_active: "§CЯкщо $IDEA|Y$ наразі активний:§!"
+ tooltip_available_if_not_at_war_with: "§CДоступно, лише якщо ми §Rне§! воюємо з $COUNTRY|Y$.§!"
 
- tooltip_once_at_war_with_country: "§COnce §Rwar§! with $COUNTRY|Y$ breaks out:§!"
+ tooltip_once_at_war_with_country: "§CКоли почнеться §Rвійна§! з $COUNTRY|Y$:§!"
 
- tooltip_has_government: "Current ruling party is $IDEOLOGY$." # (!)
- tooltip_has_government_NOT: "Current ruling party is not $IDEOLOGY$." # (!)
+ tooltip_has_government: "Поточна керівна партія: $IDEOLOGY$."
+ tooltip_has_government_NOT: "Поточна керівна партія не є $IDEOLOGY$."
 
- tooltip_available_if_not_at_war_with: "§CAvailable only if we are §Rnot§! at war with $COUNTRY|Y$.§!" # (!)
- tooltip_change_law_to: "Change $CATEGORY$ to '$LAW|Y$' which grants:"
+ tooltip_available_if_not_at_war_with: "§CДоступно, лише якщо ми §Rне§! воюємо з $COUNTRY|Y$.§!"
+ tooltip_change_law_to: "Змінити $CATEGORY$ на «$LAW|Y$», що надає:"
 
- tooltip_if_political_advisor_is_hired: "§CIf $ADVISOR|Y$ is hired as a §YPolitical Advisor§!:§!"
- tooltip_improves_advisor_trait: "§GImproves§! the trait of $ADVISOR|Y$:"
- tooltip_disable_political_advisor: "§R$ADVISOR|Y$ will no longer be available as a §YPolitical Advisor§!§!"
+ tooltip_if_political_advisor_is_hired: "§CЯкщо $ADVISOR|Y$ найнято як §Yполітичного радника§!:§!"
+ tooltip_improves_advisor_trait: "§GПокращує§! рису радника $ADVISOR|Y$:"
+ tooltip_disable_political_advisor: "§R$ADVISOR|Y$ більше не буде доступний як §Yполітичний радник§!§!"
 
- tooltip_has_tech: "Has researched $TECH|Y$"
- tooltip_has_tech_detailed: "Has researched $NAME|Y$ ($TECH|Y$)"
- tooltip_add_tech: "Add technology: $TECH|Y$."
- tooltip_add_tech_detailed: "Add technology: $NAME|Y$ ($TECH|Y$)."
- tooltip_enable_hidden_tech: "Enables $TECH|Y$\n$EFFECT$"
+ tooltip_has_tech: "Досліджено $TECH|Y$"
+ tooltip_has_tech_detailed: "Досліджено $NAME|Y$ ($TECH|Y$)"
+ tooltip_add_tech: "Додати технологію: $TECH|Y$."
+ tooltip_add_tech_detailed: "Додати технологію: $NAME|Y$ ($TECH|Y$)."
+ tooltip_enable_hidden_tech: "Вмикає $TECH|Y$\n$EFFECT$"
 
- tooltip_add_dynmod_empty: "Add $DYNMOD|Y$."
- tooltip_add_dynmod: "Add $DYNMOD|Y$ which grants:"
- tooltip_add_dynmod_scoped: "Add $DYNMOD|Y$ §Y([$SCOPE$.GetName])§! which grants:"
+ tooltip_add_dynmod_empty: "Додати $DYNMOD|Y$."
+ tooltip_add_dynmod: "Додати $DYNMOD|Y$, що надає:"
+ tooltip_add_dynmod_scoped: "Додати $DYNMOD|Y$ §Y([$SCOPE$.GetName])§!, що надає:"
 
- tooltip_modify_dynmod: "Modify $DYNMOD|Y$ by"
- tooltip_modify_two_dynmods: "Modify $DYNMOD1|Y$ or $DYNMOD2|Y$ by"
- tooltip_modify_three_dynmods: "Modify $DYNMOD1|Y$, $DYNMOD2|Y$ or $DYNMOD3|Y$ by"
- tooltip_modify_four_dynmods: "Modify $DYNMOD1|Y$, $DYNMOD2|Y$, $DYNMOD3|Y$ or $DYNMOD4|Y$ by"
+ tooltip_modify_dynmod: "Змінити $DYNMOD|Y$ на"
+ tooltip_modify_two_dynmods: "Змінити $DYNMOD1|Y$ або $DYNMOD2|Y$ на"
+ tooltip_modify_three_dynmods: "Змінити $DYNMOD1|Y$, $DYNMOD2|Y$ або $DYNMOD3|Y$ на"
+ tooltip_modify_four_dynmods: "Змінити $DYNMOD1|Y$, $DYNMOD2|Y$, $DYNMOD3|Y$ або $DYNMOD4|Y$ на"
 
- tooltip_replace_dynmod: "Replace $DYNMOD1|Y$ with $DYNMOD2|Y$\nEffective change:" # (!)
+ tooltip_replace_dynmod: "Замінити $DYNMOD1|Y$ на $DYNMOD2|Y$\nРезультуюча зміна:"
 
- tooltip_replace_one_of_two_ideas: "Replace $IDEA1|Y$ or $IDEA2|Y$ with $IDEA3|Y$\nEffective change:"
+ tooltip_replace_one_of_two_ideas: "Замінити $IDEA1|Y$ або $IDEA2|Y$ на $IDEA3|Y$\nРезультуюча зміна:"
 
- tooltip_add_building_shared: "Add $NUMBER|G$ $BUILDING|Y$" # (!)
- tooltip_add_building_on_all_provinces: "$tooltip_add_building_shared$ in all provinces.\n" # (!)
- tooltip_add_building_on_border_provinces: "$tooltip_add_building_shared$ in all border provinces.\n" # (!)
- tooltip_add_building_on_border_provinces_with_tag: "$tooltip_add_building_shared$ in all provinces bordering §Y[$TAG$.GetFlag] [$TAG$.GetNonIdeologyNameDefCap]§!.\n" # (!)
- tooltip_add_building_on_coastal_provinces: "$tooltip_add_building_shared$ in all coastal provinces.\n" # (!)
- tooltip_add_naval_base_levels: "Add $NUMBER|G$ levels to all existing naval bases.\n" # (!)
- tooltip_add_building_on_naval_base: "$tooltip_add_building_shared$ in all naval bases.\n" # (!)
- tooltip_add_building_on_victory_points: "$tooltip_add_building_shared$ in all victory points.\n" # (!)
- tooltip_add_building_on_victory_points_above_value: "$tooltip_add_building_shared$ in all victory points equal or greater than $VALUE|Y$.\n" # (!)
- tooltip_add_building_on_victory_point: "$tooltip_add_building_shared$ in £victory_points  §Y[THIS.Controller.GetVictoryPointName_$VP$]§!.\n" # (!)
+ tooltip_add_building_shared: "Додати $NUMBER|G$ $BUILDING|Y$"
+ tooltip_add_building_on_all_provinces: "$tooltip_add_building_shared$ в усіх провінціях.\n"
+ tooltip_add_building_on_border_provinces: "$tooltip_add_building_shared$ в усіх прикордонних провінціях.\n"
+ tooltip_add_building_on_border_provinces_with_tag: "$tooltip_add_building_shared$ в усіх провінціях, що межують з §Y[$TAG$.GetFlag] [$TAG$.GetNonIdeologyNameDefCap]§!.\n"
+ tooltip_add_building_on_coastal_provinces: "$tooltip_add_building_shared$ в усіх прибережних провінціях.\n"
+ tooltip_add_naval_base_levels: "Додати $NUMBER|G$ рівнів до всіх наявних військово-морських баз.\n"
+ tooltip_add_building_on_naval_base: "$tooltip_add_building_shared$ на всіх військово-морських базах.\n"
+ tooltip_add_building_on_victory_points: "$tooltip_add_building_shared$ в усіх переможних очках.\n"
+ tooltip_add_building_on_victory_points_above_value: "$tooltip_add_building_shared$ в усіх переможних очках, що дорівнюють або перевищують $VALUE|Y$.\n"
+ tooltip_add_building_on_victory_point: "$tooltip_add_building_shared$ в £victory_points  §Y[THIS.Controller.GetVictoryPointName_$VP$]§!.\n"
 
- tooltip_spawn_units: "Create $COUNT|Y$ $TYPE|Y$ divisions.\n"
- tooltip_spawn_unit: "Create a $TYPE|Y$ division.\n"
- tooltip_advanced_spawn_unit: "Create a $TYPE|Y$ at $STRENGTH|O$ strength with experience level of $EXPERIENCE|L$ in $LOCATION|Y$\n"
+ tooltip_spawn_units: "Створити $COUNT|Y$ дивізій типу $TYPE|Y$.\n"
+ tooltip_spawn_unit: "Створити дивізію типу $TYPE|Y$.\n"
+ tooltip_advanced_spawn_unit: "Створити дивізію типу $TYPE|Y$ з боєздатністю $STRENGTH|O$ та рівнем досвіду $EXPERIENCE|L$ в $LOCATION|Y$\n"
 
  tooltip_yellow_text: "$TEXT|Y$"
 
- tooltip_in_days: "In $DAYS|Y0$ days:"
- tooltip_after_days: "After $DAYS|Y0$ days:"
+ tooltip_in_days: "Через $DAYS|Y0$ дн.:"
+ tooltip_after_days: "Після $DAYS|Y0$ дн.:"
 
- tooltip_available_scientist: "$CHARACTER|Y$ becomes available as a §GScientist§!."
+ tooltip_available_scientist: "$CHARACTER|Y$ стає доступним як §Gвчений§!."
 
- tooltip_create_division_template: "Create $NAME|Y$ template, which has the following composition:$LINE_1$$LINE_2$$LINE_3$$LINE_4$$LINE_5$$LINE_6$$LINE_7$$LINE_8$$LINE_9$$LINE_10$$SUPPORT_1$$SUPPORT_2$$SUPPORT_3$$SUPPORT_4$$SUPPORT_5$[GetTemplateDeletionWarning]" # (!)
- division_template_deletion_warning: "\nAny existing templates with the same name will be §Rdisbanded§!, refunding all manpower and equipment." # (!)
- line_battalion_tt: "\n£indent £$ICON$ §Y$COUNT$ $NAME$§! line battalions" # (!)
- support_battalion_tt: "\n£indent £$ICON$ §Y$NAME$§!" # (!)
+ tooltip_create_division_template: "Створити шаблон «$NAME|Y$» з таким складом:$LINE_1$$LINE_2$$LINE_3$$LINE_4$$LINE_5$$LINE_6$$LINE_7$$LINE_8$$LINE_9$$LINE_10$$SUPPORT_1$$SUPPORT_2$$SUPPORT_3$$SUPPORT_4$$SUPPORT_5$[GetTemplateDeletionWarning]"
+ division_template_deletion_warning: "\nБудь-які наявні шаблони з такою ж назвою буде §Rрозформовано§! з поверненням усіх людських ресурсів та спорядження."
+ line_battalion_tt: "\n£indent £$ICON$ §Y$COUNT$ лінійних батальйонів $NAME$§!"
+ support_battalion_tt: "\n£indent £$ICON$ §Y$NAME$§!" 
 
- tooltip_indented_list: "\n£indent $ITEM$$NEXT_ITEM$" # (!)
+ tooltip_indented_list: "\n£indent $ITEM$$NEXT_ITEM$" 
 
- tooltip_triggers_with_header: "$HEADER$$TRIGGERS$" # (!)
+ tooltip_triggers_with_header: "$HEADER$$TRIGGERS$" 
 
- tooltip_at_least_one_of: "At least one of $ITEMS$:" # (!)
- tooltip_items_comma: "$ITEM|Y$, $NEXT_ITEM$" # (!)
- tooltip_items_and: "$ITEM|Y$ and $NEXT_ITEM|Y$" # (!)
- tooltip_items_or: "$ITEM|Y$ or $NEXT_ITEM|Y$" # (!)
+ tooltip_at_least_one_of: "Принаймні одне з $ITEMS$:" 
+ tooltip_items_comma: "$ITEM|Y$, $NEXT_ITEM$" 
+ tooltip_items_and: "$ITEM|Y$ та $NEXT_ITEM|Y$" 
+ tooltip_items_or: "$ITEM|Y$ або $NEXT_ITEM|Y$" 
 
- has_completed_decision: "Has completed decision £decision_icon_small $DECISION|H$" # (!)
- has_completed_decision_NOT: "Has not completed decision £decision_icon_small $DECISION|H$" # (!)
+ has_completed_decision: "Завершено рішення £decision_icon_small $DECISION|H$" 
+ has_completed_decision_NOT: "Не завершено рішення £decision_icon_small $DECISION|H$" 
 
- has_completed_decision_in_focus: "$has_completed_decision$ in focus $FOCUS|H$" # (!)
- has_completed_decision_in_focus_NOT: "$has_completed_decision_NOT$ in focus $FOCUS|H$" # (!)
+ has_completed_decision_in_focus: "$has_completed_decision$ у фокусі $FOCUS|H$" 
+ has_completed_decision_in_focus_NOT: "$has_completed_decision_NOT$ у фокусі $FOCUS|H$" 
 
- has_completed_decision_in_focus_2: "$has_completed_decision$ in focus $FOCUS|H$ or focus $FOCUS_2|H$" # (!)
- has_completed_decision_in_focus_2_NOT: "$has_completed_decision_NOT$ in focus $FOCUS|H$ or focus $FOCUS_2|H$" # (!)
+ has_completed_decision_in_focus_2: "$has_completed_decision$ у фокусі $FOCUS|H$ або $FOCUS_2|H$" 
+ has_completed_decision_in_focus_2_NOT: "$has_completed_decision_NOT$ у фокусі $FOCUS|H$ або $FOCUS_2|H$" 
 
- tooltip_unlock_decisions_to: "Unlocks $NAME|Y$ decisions to $EFFECT$." # (!)
+ tooltip_unlock_decisions_to: "Розблоковує рішення «$NAME|Y$» для $EFFECT$." 
 
- add_equipment_to_stockpile_tt: "$UNITS|Y$ units of $EQUIPMENT|Y$ is added to the national stockpile." # (!)
+ add_equipment_to_stockpile_tt: "$UNITS|Y$ одиниць $EQUIPMENT|Y$ додано до державних резервів." 
 
- tooltip_owner_of_state_with_flag: "[$STATE$.Owner.GetFlag] the owner of [$STATE$.GetName]" # (!)
- tooltip_owner_of_state: "the owner of [$STATE$.GetName]" # (!)
+ tooltip_owner_of_state_with_flag: "[$STATE$.Owner.GetFlag] власник [$STATE$.GetName]" 
+ tooltip_owner_of_state: "власник [$STATE$.GetName]" 
 
- tooltip_if_controlled_by: "If controlled by $COUNTRY|Y$:" # (!)
+ tooltip_if_controlled_by: "Якщо контролюється $COUNTRY|Y$:" 
 
- tooltip_received_equipment: "You received $QUANTITY|G$ infantry equipment from that country" # (!)
+ tooltip_received_equipment: "Ви отримали $QUANTITY|G$ піхотного спорядження від цієї країни" 
 
- may_lead_to_war_with: "§RMay lead to war with $COUNTRY$§!" # (!)
+ may_lead_to_war_with: "§RМоже призвести до війни з $COUNTRY$§!" 
 
 ### Flag Loc segments ###
  tooltip_event_choice: "§CВибір події§!: "
@@ -305,7 +303,7 @@
  cic_from_target_factor_tooltip: "Цивільна промисловість з цільової країни"
  mic_from_target_factor_tooltip: "Військова промисловість з цільової країни"
 
- state_defection_chance: "State Defection Chance" # (!)
+ state_defection_chance: "Шанс переходу провінції" 
  state_defection_chance_tooltip: "$state_defection_chance$: $RIGHT|-=%%0$"
 
 ### Modifiers (for use as tooltips in variable effects) ###

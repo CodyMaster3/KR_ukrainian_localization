@@ -3,7 +3,7 @@
 
 ### Parties
  HEJ_totalist_party: "Majlis al Sha'bī"
- HEJ_totalist_party_long: "Majlis al Sha'bī al Thawrī fī Jazīrat al 'Arab\n(Popular Revolutionary Council in the Arabian Peninsula)" # (!)
+ HEJ_totalist_party_long: "Majlis al Sha'bī al Thawrī fī Jazīrat al 'Arab\n(Народна Революційна Рада на Аравійському півострові)"
  HEJ_syndicalist_party: "$HEJ_totalist_party$"
  HEJ_syndicalist_party_long: "$HEJ_totalist_party_long$"
  HEJ_radical_socialist_party: "$HEJ_totalist_party$"
@@ -272,8 +272,8 @@
  HEJ_medina_academy: "Мединська авіаційна академія"
  HEJ_medina_academy_desc: "Хіджазу не вистачає спеціалізованих військових коледжів для ведення боїв у небі, тому заклад академії в Медині допоможе нам підготувати нове покоління льотчиків."
 
-### Characters ###
- HEJ_abdullah_bin_al_hussein: "Abdullah bin al-Hussein"
- HEJ_zeid_bin_hussein_al_hashmid: "Zeid bin Hussein al-Hashmid"
- HEJ_abdul_qadir_pasha_el_jundi: "Abdul Qadir Pasha el-Jundi"
- HEJ_ghazi_bin_faisal_al_hashmid: "Ghazi bin Faisal al-Hashmid"
+ ### Characters ###
+ HEJ_abdullah_bin_al_hussein: "Абдулла бін аль-Хусейн"
+ HEJ_zeid_bin_hussein_al_hashmid: "Зейд бін Хусейн аль-Хашмід"
+ HEJ_abdul_qadir_pasha_el_jundi: "Абдул Кадір-паша ель-Джунді"
+ HEJ_ghazi_bin_faisal_al_hashmid: "Газі бін Фейсал аль-Хашмід"

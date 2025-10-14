@@ -20,8 +20,8 @@
  KR_compassionate_gentleman:0 "Доброзичливий джентльмен"
  KR_flamboyant_brute:0 "Яскравий грубіян"
  KR_great_compromiser:0 "Майстер компромісу"
- KR_happy_amateur: "Happy Amateur" # (!)
- KR_iron_fisted_brute: "Iron-Fisted Brute" # (!)
+ KR_happy_amateur: "Щасливий аматор"
+ KR_iron_fisted_brute: "Жорстокий деспот"
  KR_man_of_the_people:0 "Людина з народу"
  KR_naive_optimist:0 "Наївний оптиміст"
  KR_plodding_bureaucrat:0 "Повільний бюрократ"
@@ -69,7 +69,7 @@
  KR_tank_proponent:0 "Прихильник танків"
  KR_war_propagandist:0 "Військовий пропагандист"
  KR_young_guard:0 "Молода гвардія"
- KR_militia_organiser: "Militia Organiser"
+ KR_militia_organiser: "Організатор ополчення"
  
 ### Research ###
  KR_education_reformer:0 "Реформатор освіти"
@@ -111,13 +111,13 @@
  KR_pious_intellectual:0 "Благочестивий інтелектуал"
  KR_heartless_lawyer:0 "Безсердечний адвокат"
  KR_teleological_planner:0 "Телеологічний планувальник"
- KR_faithful_lieutenant: "Faithful Lieutenant"
+ KR_faithful_lieutenant: "Вірний лейтенант"
 
 ##################################
 ### Generic Seconds in Command ###
 ##################################
 
- KR_empty_sic:0 "TEMP - Empty Trait"
+ KR_empty_sic:0 "Тимчасово - порожня риса"
 
  KR_administrative_genius_sic:0 "$KR_administrative_genius$"
  KR_agricultural_economist_sic:0 "$KR_agricultural_economist$"
@@ -228,22 +228,22 @@
  KR_heir_to_the_revolution_sic: "Спадкоємець китайської революції"
  KR_heir_to_the_revolution: "Спадкоємець китайської революції"
 
- KR_mouthpiece_of_rca_sic: "Mouthpiece of RCA"
- KR_mouthpiece_of_rca_2_sic: "Mouthpiece of RCA"
- KR_mouthpiece_of_rca_3_sic: "Mouthpiece of RCA"
- KR_mouthpiece_of_rca_4_sic: "Mouthpiece of the RCA"
+ KR_mouthpiece_of_rca_sic: "Рупор РКА"
+ KR_mouthpiece_of_rca_2_sic: "Рупор РКА"
+ KR_mouthpiece_of_rca_3_sic: "Рупор РКА"
+ KR_mouthpiece_of_rca_4_sic: "Рупор РКА"
 
  KR_hero_of_the_chinese_revolution_sic: "Герой китайської революції"
  KR_hero_of_the_chinese_revolution_2_sic: "Герой китайської революції"
  KR_hero_of_the_chinese_revolution_3_sic: "Герой китайської революції"
  KR_hero_of_the_chinese_revolution_4_sic: "Герой китайської революції"
 
- KR_the_pursuit_of_datong_sic: "The Pursuit of Datong"
- KR_the_pursuit_of_datong_2_sic: "The Pursuit of Datong"
- KR_the_pursuit_of_datong_3_sic: "The Pursuit of Datong"
+ KR_the_pursuit_of_datong_sic: "Прагнення до Датуну"
+ KR_the_pursuit_of_datong_2_sic: "Прагнення до Датуну"
+ KR_the_pursuit_of_datong_3_sic: "Прагнення до Датуну"
 
- KR_realising_datong_sic: "Realising Datong"
- KR_realising_datong_sic_tt: "The effects of this trait are represented with the §YRealising Datong§! modifier in the National Ideas tab."
+ KR_realising_datong_sic: "Реалізація Датуну"
+ KR_realising_datong_sic_tt: "Ефекти цієї риси представлені модифікатором §YРеалізація Датуну§! у вкладці національних ідей."
 
  KR_the_red_napoleon_sic: "Червоний Наполеон"
  KR_the_red_napoleon_sic_tt: "Наслідки цієї риси представлені за допомогою §YЧервоний Наполеон§! модифікатор на вкладці Національні ідеї."
@@ -332,10 +332,10 @@
  ### IRE ###
  KR_big_fellow_3: "$IRE_big_fellow_1$"
  KR_the_chief_4: "$IRE_the_chief_1$"
- KR_agrarian_firebrand: "Agrarian Firebrand"
- KR_passionate_feminist: "Passionate Feminist"
+ KR_agrarian_firebrand: "Аграрний бунтар"
+ KR_passionate_feminist: "Палка феміністка"
  KR_passionate_feminist_2: "$KR_passionate_feminist$"
- KR_consummate_proceduralist: "Consummate Proceduralist"
+ KR_consummate_proceduralist: "Досвідчений процедураліст"
 
 ### IRQ ###
  KR_conniving_opportunist:0 "Підступний опортуніст"
@@ -367,8 +367,8 @@
  KR_pliant_authorities:0 "Податлива влада"
 
 ### LEP ###
- KR_flour_king: "Flour King"
- KR_general_guillotine: "General Guillotine"
+ KR_flour_king: "Борошняний король"
+ KR_general_guillotine: "Генерал Гільйотина"
 
 ### LIT ###
  KR_daimler_benz_engineer:0 "Інженер Даймлер-Бенц"
@@ -433,18 +433,18 @@
  
 ### QIE ###
  KR_army_chief_imperial_commissioner:0 "Імперський комісар"
- KR_idealistic_monarchist: "Idealistic Monarchist"
- KR_contentious_peacemaker: "Contentious Peacemaker"
- KR_hero_of_chinese_liberalism: "Hero of Chinese Liberalism"
- KR_conductor_of_the_banking_clans: "Conductor of the Banking Clans"
- KR_devout_constitutionalist: "Devout Constitutionalist"
- KR_leftist_lawyer: "Leftist Lawyer"
- KR_speaker_of_the_assembly: "Speaker of the Assembly"
- KR_detested_educator: "Detested Educator"
- KR_director_general: "Director General"
+ KR_idealistic_monarchist: "Монархіст-ідеаліст"
+ KR_contentious_peacemaker: "Спірний миротворець"
+ KR_hero_of_chinese_liberalism: "Герой китайського лібералізму"
+ KR_conductor_of_the_banking_clans: "Диригент банківських кланів"
+ KR_devout_constitutionalist: "Відданий конституціоналіст"
+ KR_leftist_lawyer: "Юрист лівих поглядів"
+ KR_speaker_of_the_assembly: "Спікер асамблеї"
+ KR_detested_educator: "Зненавиджений освітянин"
+ KR_director_general: "Генеральний директор"
 
 ### HNN ###
- KR_resented_attache: "Resented Attaché"
+ KR_resented_attache: "Ненависний аташеé"
 
 ### ROM ###
  KR_the_capitanul_sic:0 "Căpitanul"
@@ -494,9 +494,9 @@
  KR_la_pasionaria:0 "La Pasionaria"
 
 ### SZC ###
- KR_gentleman_polymath_sic: "Gentleman Polymath"
- KR_establishment_navigator_sic: "Establishment Navigator"
- KR_marshal_of_tianjin: "Marshal of Tianjin"
+ KR_gentleman_polymath_sic: "Джентльмен-ерудит"
+ KR_establishment_navigator_sic: "Навігатор істеблішменту"
+ KR_marshal_of_tianjin: "Маршал Тяньцзіня"
 
 ### TIB ###
  KR_foreign_buddhist:0 "Буддист-іноземець"
@@ -511,28 +511,28 @@
  KR_man_of_the_centre: "Людина центру"
  KR_voices_of_our_rebirth: "Голос нашого відродження"
  KR_council_of_jurors: "Голова Ради присяжних"
- KR_millii_fyrka_frontman: "Millii Fyrka's Frontman"
+ KR_millii_fyrka_frontman: "Фронтмен Міллій Фірки"
  KR_representatives_of_protofis_1: "Представники Протофісу"
  KR_representatives_of_protofis_2: "Представники Протофісу"
  KR_evil_genius: "Злий геній"
- KR_radical_firebrand: "Radical Firebrand"
+ KR_radical_firebrand: "Радикальний бунтар"
  KR_idealistic_communard: "Комунар-ідеаліст"
  KR_charming_romantic: "Чарівний романтик"
  KR_autarkist_revolutionary: "Революціонер-автаркіст"
  KR_cooperative_organiser: "Організатор кооперативу"
  KR_exceptional_acamedician: "Винятковий академік"
- KR_fading_forebearer: "Fading Forebearer"
- KR_establishment_navigator: "Establishment Navigator"
+ KR_fading_forebearer: "Згасаючий попередник"
+ KR_establishment_navigator: "Навігатор істеблішменту"
  KR_marxist_doctrinaire: "Марксистський доктринер"
  KR_cinema_genius: "Геній кіно"
  UKR_metropolitan_of_kyiv_and_all_ukraine: "Митрополит Київський і всієї України"
  KR_MHC_maknovite: "Махновець\n(Експерт)"
  KR_MHC_propaganda: "Пропаганда\n(Експерт)"
- KR_MHC_chief_otaman: "The Chief Otaman\n(Expert)"
- KR_MHC_chief_otaman_2: "The Chief Otaman\n(Expert)"
- KR_MHC_chief_otaman_3: "The Chief Otaman\n(Expert)"
- KR_MHC_chief_otaman_4: "The Chief Otaman\n(Expert)"
- KR_commissioner_of_poale_zion: "Commissioner of Poale Zion"
+ KR_MHC_chief_otaman: "Головний Отаман\n(Експерт)"
+ KR_MHC_chief_otaman_2: "Головний Отаман\n(Експерт)"
+ KR_MHC_chief_otaman_3: "Головний Отаман\n(Експерт)"
+ KR_MHC_chief_otaman_4: "Головний Отаман\n(Експерт)"
+ KR_commissioner_of_poale_zion: "Комісар Поалей-Ціону"
  KR_mathematical_pioneer: "Піонер математики"
  KR_incendiary_demagogue: "Запальний демагог"
  KR_idealistic_communard1: "Комунар-ідеаліст"
@@ -594,7 +594,7 @@
  
 ### XSM ###
  KR_clan_council_sic:0 "Рада кланів"
- KR_nationalist_imam: "Nationalist Imam"
+ KR_nationalist_imam: "Імам-націоналіст"
 
 ####################################################
 ### Generic Military Staff - ported from vanilla ###

@@ -96,8 +96,9 @@
  FER_constitution_restored: "Відновлено республіканську конституцію"
  FER_hetman_constitution: "Створено Семеновську конституцію"
 
- FER_if_moscow_taken_masters_of_siberia_bypass: "If we own §Y[219.GetName]§!, this focus will be §Ybypassed§! and all the effects below will be executed." # (!)
- FER_if_moscow_taken_masters_of_siberia_bypass_2: "If we own §Y[219.GetName]§!, the focus §Y$FER_masters_over_siberia$§! will be §Ybypassed§! if not already completed and most of its effects will be executed." # (!)
+ FER_if_moscow_taken_masters_of_siberia_bypass: "Якщо ми володіємо §Y[219.GetName]§!, цей фокус буде §Yпропущено§!, і всі нижченаведені ефекти будуть виконані." # (!)
+ FER_if_moscow_taken_masters_of_siberia_bypass_2: "Якщо ми володіємо §Y[219.GetName]§!, фокус §Y$FER_masters_over_siberia$§! буде §Yпропущено§!, якщо він ще не завершений, і більшість його ефектів буде виконано." # (!)
+
 
  ### Decisions ###
  FER_ride_to_west: "Рейд на Захід"
@@ -178,9 +179,9 @@
  FER_air_force: "Російські військово-повітряні сили"
  FER_navy: "Російський флот"
 
- FER_reactionary_resistance: "Reactionary Resistance" # (!)
- FER_socialist_reconstruction: "Socialist Reconstruction" # (!)
- FER_socialist_reconstruction_3: "New Far East Economy" # (!)
+ FER_reactionary_resistance: "Реакційний опір"
+ FER_socialist_reconstruction: "Соціалістична відбудова"
+ FER_socialist_reconstruction_3: "Нова далекосхідна економіка"
 
 ### Focus tree ###
  FER_focus: "Фокус Далекого Сходу"
@@ -359,16 +360,16 @@
  FER_join_old_allies_desc: "Антанта була як другом, так і ворогом за обставинами. У нову еру, коли Німеччина ще більше намагається закріпити своє домінування над світом, Антанта є єдиним бастіоном, який протистоїть їй. Включення Росії до цього блоку сил принаймні нагадає Берліну, що його вороги були переможені, але ніколи не будуть остаточно знищені."
 
 ### Socialist Puppet ###
- FER_red_vladivostok: "Red Vladivostok" # (!)
- FER_crush_the_reactionaries: "Crush the Reactionaries" # (!)
- FER_secure_regional_allies: "Secure Regional Allies" # (!)
- FER_foster_socialist_education: "Foster Socialist Education" # (!)
- FER_create_the_pra: "Create the PRA" # (!)
- FER_revolution_of_the_east: "Revolution of the East" # (!)
- FER_revive_the_port_of_vladivostok: "Revive the Port of Vladivostok" # (!)
- FER_rebuild_the_mining_industry: "Rebuild the Mining Industry" # (!)
- FER_expand_the_fishery_industry: "Expand the Fishery Industry" # (!)
- FER_build_political_legitimacy: "Build Political Legitimacy" # (!)
+ FER_red_vladivostok: "Червоний Владивосток" # (!)
+ FER_crush_the_reactionaries: "Знищити реакціонерів" # (!)
+ FER_secure_regional_allies: "Заручитися підтримкою регіональних союзників" # (!)
+ FER_foster_socialist_education: "Сприяти соціалістичній освіті" # (!)
+ FER_create_the_pra: "Створити НРА" # (!)
+ FER_revolution_of_the_east: "Революція Сходу" # (!)
+ FER_revive_the_port_of_vladivostok: "Відродити порт Владивосток" # (!)
+ FER_rebuild_the_mining_industry: "Відбудувати гірничу промисловість" # (!)
+ FER_expand_the_fishery_industry: "Розширити рибну промисловість" # (!)
+ FER_build_political_legitimacy: "Здобути політичну легітимність" # (!)
 
 ### Intro Screen ###
  FER_country_intro_background: "GFX_FER_intro"
@@ -862,7 +863,7 @@
  FER_RUS_state_national_populist: "Російська Держава"
  FER_RUS_state_national_populist_DEF: "Російська Держава"
 
- FER_GU: "Green Ukraine" # (!)
+ FER_GU: "Зелена Україна" # (!)
 
  #FER_RUS_republic_authoritarian_democrat: "Russian Republic"
  #FER_RUS_republic_authoritarian_democrat_ADJ: "Russian"

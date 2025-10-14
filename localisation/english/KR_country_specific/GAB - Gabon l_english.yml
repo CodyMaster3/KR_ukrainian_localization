@@ -16,12 +16,12 @@
  GAB_radical_socialist_DEF: "Комуна Габон"
 
 ### Characters ###
- GAB_jean_baptiste_ndende_dibantsa: "Jean-Baptiste Ndende Dibantsa"
- GAB_jean_baptiste_ndende_dibantsa_leader_desc: "§YBorn:§! §L1875, in Tsogho Country, French Gabon§!"
- GAB_Charles_NTchorere: "Charles N'Tchoréré"
- GAB_charles_ntchorere_leader_desc: "§YBorn:§! §LNovember 16th, 1896, in Libreville, French Gabon§!"
- GAB_Gabriel_Leon_Mba: "Gabriel Léon M'ba"
- GAB_gabriel_leon_mba_leader_desc: "§YBorn:§! §LFebruary 9th, 1902, in Libreville, French Gabon§!"
+ GAB_jean_baptiste_ndende_dibantsa: "Жан-Батист Нденде Дібанца"
+ GAB_jean_baptiste_ndende_dibantsa_leader_desc: "§YНародився:§! §L1875, Земля цого, Французький Габон§!"
+ GAB_Charles_NTchorere: "Шарль Н'Чорере"
+ GAB_charles_ntchorere_leader_desc: "§YНародився:§! §L16 листопада 1896, Лібревіль, Французький Габон§!"
+ GAB_Gabriel_Leon_Mba: "Габріель Леон М'ба"
+ GAB_gabriel_leon_mba_leader_desc: "§YНародився:§! §L9 лютого 1902, Лібревіль, Французький Габон§!"
 
 ### Focus tree ###
  KR_gabon_focus: "Фокуси Габону"
@@ -60,11 +60,11 @@
  GAB_Apply_Constitution_desc: "Ратифікація конституції остаточно закріпить нашу незалежність і згуртує народ Габону."
 
 # Introduction
- GAB_guide: "§MDemocracy Survives§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$)\n£white_dot Complete the focus \"The Declaration of Independence\" and have the syndicalist coup fail.\n£white_dot Complete the focus \"Draft Constitution\" to elect the $social_conservative_coloured$, $market_liberal_coloured$ or $social_liberal_coloured$\n\n§MSyndicalist Coup§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Complete the focus \"The Declaration of Independence\" and have the syndicalist coup succeed.\n£white_dot Complete the focus \"Draft Constitution\" to elect the $radical_socialist_coloured$, §rAnarcho-Syndicalists§! or the $totalist_coloured$."
+ GAB_guide: "§MДемократія виживає§! ($social_conservative_coloured$ / $market_liberal_coloured$ / $social_liberal_coloured$)\n£white_dot Завершіть фокус «Декларація незалежності» та проваліть синдикалістський переворот.\n£white_dot Завершіть фокус «Розробити конституцію», щоб обрати $social_conservative_coloured$, $market_liberal_coloured$ або $social_liberal_coloured$.\n\n§MСиндикалістський переворот§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$)\n£white_dot Завершіть фокус «Декларація незалежності» та успішно здійсніть синдикалістський переворот.\n£white_dot Завершіть фокус «Розробити конституцію», щоб обрати $radical_socialist_coloured$, §rанархо-синдикалістів§! або $totalist_coloured$."
 
 ### Events ###
- gabon_events.1.t: "Dibantsa Challenges Government" # (!)
- gabon_events.1.d: "Following the destabilisation that came with the fall of Mittelafrika, Jean-Baptiste Ndende Dibantsa, leader of the Gabonese section of the League for Human and Citizens' Rights, has rallied popular support in order to seize control of the government." # (!)
+ gabon_events.1.t: "Дібанца кидає виклик уряду"
+ gabon_events.1.d: "Після дестабілізації, що настала з падінням Міттельафрики, Жан-Батист Нденде Дібанца, лідер габонської секції Ліги прав людини та громадянина, згуртував народну підтримку, щоб захопити контроль над урядом."
  gabon_events.1.a: "Народна революція вдалася!"
  gabon_events.1.b: "Наші молоді демократичні інститути виживають, долаючи свою першу перешкоду."
  

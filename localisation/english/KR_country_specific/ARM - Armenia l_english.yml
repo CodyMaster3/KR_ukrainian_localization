@@ -58,7 +58,7 @@
  ARM_once_coast_controlled: "§G2 верфі§! буде побудовано у випадковому прибережному регіоні, яким ми володіємо і який ми контролюємо."
  ARM_trade_proposal_ongoing: "Вже ведуться переговори про укладення торговельної угоди"
  ARM_three_trade_agreements: "Ми провели переговори щонайменше щодо трьох торговельних угод."
- ARM_no_electable_socialists_tt: "§CDue to our alignment to the fervently §Ranti-revolutionary§! §Y[ROOT.faction_leader.GetName]§!, the §RSocialists§! had no chance of winning the election!§!" # (!)
+ ARM_no_electable_socialists_tt: "§CЧерез нашу прихильність до затято §Rантиреволюційного§! §Y[ROOT.faction_leader.GetName]§!, §Rсоціалісти§! не мали жодного шансу перемогти на виборах!§!"
 
 ### Factions ###
  Tabriz_accord: "Тебризькі угоди"

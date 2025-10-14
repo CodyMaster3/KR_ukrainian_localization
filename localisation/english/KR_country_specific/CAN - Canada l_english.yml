@@ -5,13 +5,13 @@
  entente: "Антанта" #created by history\countries\IMP - Canada and UK.txt and GBR_spawn_uk effect
 
 ### Parties ###
- CAN_totalist_party: "WP" # (!)
- CAN_totalist_party_long: "Worker's Party" # (!)
- CAN_syndicalist_party: "RLP" # (!)
- CAN_syndicalist_party_long: "Revolutionary Labour Party" # (!)
+ CAN_totalist_party: "РП"
+ CAN_totalist_party_long: "Робітнича партія"
+ CAN_syndicalist_party: "РРП"
+ CAN_syndicalist_party_long: "Революційна робітнича партія"
  CAN_radical_socialist_party: "КФС (ПС)"
  CAN_radical_socialist_party_long: "Кооперативна федерація Співдружності (Прогресивно-соціалістична)"
- CAN_social_democrat_party: "CCF (Farmer-Labour)" # (!)
+ CAN_social_democrat_party: "КФС (Фермерсько-робітнича)"
  CAN_social_democrat_party_long: "Кооперативна федерація співдружності (Фермерсько-робітнича)"
  CAN_social_liberal_party: "$CAN_market_liberal_party$"
  CAN_social_liberal_party_long: "$CAN_market_liberal_party_long$"
@@ -2318,10 +2318,10 @@
 
  CAN_thomas_alexander_mcewen: "Томас Александер Мак'юен"  
  CAN_timothy_buck: "Тімоті 'Тім' Бак"  
- CAN_timothy_buck_leader_desc: "§YBorn:§! §LJanuary 6th, 1891, in Beccles, Suffolk, England§!" # (!)
+ CAN_timothy_buck_leader_desc: "§YНародився:§! §L6 січня 1891 року, Беклс, Саффолк, Англія§!"
  CAN_arthur_herbert_evans: "Артур Герберт 'Слім' Еванс"  
- CAN_annie_buller: "Annie Buller" # (!)
- CAN_annie_buller_leader_desc: "§YBorn:§! §LDecember 9th, 1895, in Montréal, Québec, Dominion of Canada§!" # (!)
+ CAN_annie_buller: "Енні Буллер"
+ CAN_annie_buller_leader_desc: "§YНародилася:§! §L9 грудня 1895 року, Монреаль, Квебек, Домініон Канада§!"
  CAN_clarence_gillis: "Кларенс Ґілліс"  
  CAN_james_shaver_woodsworth: "Джеймс Шейвер Вудсворт"  
  CAN_major_james_coldwell: "Майор Джеймс Колдвелл"  

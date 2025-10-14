@@ -1,99 +1,99 @@
 ﻿l_english:
 
 ### Tooltips ###
- CA_local_autonomy_limited_start_kokand:0 "§YKokand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" # (!)
- CA_local_autonomy_limited_start_khorezm:0 "§YKhorezm§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" # (!)
- CA_local_autonomy_limited_start_bukhara:0 "§YBukhara§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" # (!)
- CA_local_autonomy_limited_start_samarkand:0 "§YSamarkand§! gains the modifier §YLimited Local Autonomy§!, which grants\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" # (!)
- CA_local_autonomy_limited_up_one_kokand:0 "The state modifier §YLimited Local Autonomy§! in §YKokand§! is modified by\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" # (!)
- CA_local_autonomy_limited_up_one_khorezm:0 "The state modifier §YLimited Local Autonomy§! in §YKhorezm§! is modified by\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" # (!)
- CA_local_autonomy_1:0 "Limited Local Autonomy" # (!)
- CA_local_autonomy_2:0 "Limited Local Autonomy" # (!)
- CA_local_autonomy_3:0 "Significant Local Autonomy" # (!)
- CA_local_autonomy_4:0 "Significant Local Autonomy" # (!)
- CA_local_autonomy_5:0 "Sweeping Local Autonomy" # (!)
+CA_local_autonomy_limited_start_kokand:0 "§YКоканд§! отримує модифікатор §YОбмежена місцева автономія§!, що надає\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" 
+ CA_local_autonomy_limited_start_khorezm:0 "§YХорезм§! отримує модифікатор §YОбмежена місцева автономія§!, що надає\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" 
+ CA_local_autonomy_limited_start_bukhara:0 "§YБухара§! отримує модифікатор §YОбмежена місцева автономія§!, що надає\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" 
+ CA_local_autonomy_limited_start_samarkand:0 "§YСамарканд§! отримує модифікатор §YОбмежена місцева автономія§!, що надає\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" 
+ CA_local_autonomy_limited_up_one_kokand:0 "Модифікатор штату §YОбмежена місцева автономія§! в §YКоканді§! змінено на\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" 
+ CA_local_autonomy_limited_up_one_khorezm:0 "Модифікатор штату §YОбмежена місцева автономія§! в §YХорезмі§! змінено на\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+10%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n      $MODIFIER_LOCAL_MANPOWER$: §R-10%§!\n\n" 
+ CA_local_autonomy_1:0 "Обмежена місцева автономія" 
+ CA_local_autonomy_2:0 "Обмежена місцева автономія" 
+ CA_local_autonomy_3:0 "Значна місцева автономія" 
+ CA_local_autonomy_4:0 "Значна місцева автономія" 
+ CA_local_autonomy_5:0 "Широка місцева автономія" 
 
- CA_available_military_advisor_tt:0 "§GAvailable§! as §YMilitary Advisor§!:" # (!)
- CA_industrial_recovery_unification_by_wire_tt:0 "§CIndustrialisation decisions will begin to add a small amount of §mWar Support§!.§!" # (!)
- CA_industrial_recovery_bankroll_local_initiatives_tt:0 "§CIndustrialisation decisions will begin to add a small amount of §mStability§!.§!" # (!)
- CA_fund_local_initiatives_build_slot_karakum_tt:0 "§CIf we own §Y[GetStateName_584]§! when this focus completes, then this focus will add a building slot in the state!§!" # (!)
- CA_fund_local_initiatives_build_slot_kyzylkum_tt:0 "§CIf we own §Y[GetStateName_712]§! when this focus completes, then this focus will add a building slot in the state!§!" # (!)
- CA_fund_local_initiatives_build_slot_pamir_tt:0 "§CIf we own §Y[GetStateName_804]§! when this focus completes, then this focus will add a building slot in the state!§!" # (!)
- CA_revitalise_the_cities_tt:0 "\n§CIf we own both §Y[GetStateName_407]§! and §Y[GetStateName_732]§! when this focus completes, then this focus will add civilian factories in both states!§!" # (!)
+ CA_available_military_advisor_tt:0 "§GДоступний§! як §Yвійськовий радник§!:" 
+ CA_industrial_recovery_unification_by_wire_tt:0 "§CРішення з індустріалізації почнуть додавати невелику кількість §mпідтримки війни§!.§!" 
+ CA_industrial_recovery_bankroll_local_initiatives_tt:0 "§CРішення з індустріалізації почнуть додавати невелику кількість §mстабільності§!.§!" 
+ CA_fund_local_initiatives_build_slot_karakum_tt:0 "§CЯкщо ми володіємо §Y[GetStateName_584]§! на момент завершення цього фокуса, він додасть комірку для будівництва в цьому штаті!§!" 
+ CA_fund_local_initiatives_build_slot_kyzylkum_tt:0 "§CЯкщо ми володіємо §Y[GetStateName_712]§! на момент завершення цього фокуса, він додасть комірку для будівництва в цьому штаті!§!" 
+ CA_fund_local_initiatives_build_slot_pamir_tt:0 "§CЯкщо ми володіємо §Y[GetStateName_804]§! на момент завершення цього фокуса, він додасть комірку для будівництва в цьому штаті!§!" 
+ CA_revitalise_the_cities_tt:0 "\n§CЯкщо ми володіємо і §Y[GetStateName_407]§!, і §Y[GetStateName_732]§! на момент завершення цього фокуса, він додасть цивільні фабрики в обох штатах!§!" 
 
- CA_prep_intro_tooltip:0 "§RWe will need to use decisions and focuses to increase our Preparation before conflict breaks out!§!" # (!)
- CA_prep_tooltip:0 "£GFX_supply_texticon $RIGHT|0=+$ Preparation" # (!)
+ CA_prep_intro_tooltip:0 "§RНам потрібно буде використовувати рішення та фокуси, щоб підвищити нашу підготовку до початку конфлікту!§!" 
+ CA_prep_tooltip:0 "£GFX_supply_texticon $RIGHT|0=+$ Підготовка" 
 
  CA_5_prep_cost:0 "£GFX_supply_texticon [?5|H0]"
  CA_5_prep_cost_blocked:0 "£GFX_supply_texticon [?5|R0]"
- CA_5_prep_cost_tooltip:0 "It costs $CA_5_prep_cost$ to take this decision" # (!)
+ CA_5_prep_cost_tooltip:0 "Прийняття цього рішення коштує $CA_5_prep_cost$" 
 
- CA_german_aid_threat:0 "Germany Intervenes in Central Asia" # (!)
+ CA_german_aid_threat:0 "Німеччина втручається в Центральній Азії" 
 
- CA_able_to_repair:0 "§CWe have survived the Russian onslaught!§!" # (!)
- CA_outlasted_trk_and_khi:0 "§CWe have outlasted our rebellious neighbours!§!" # (!)
- CA_internal_struggles_concluded:0 "§CWe have settled our internal conflicts.§!" # (!)
+ CA_able_to_repair:0 "§CМи пережили російську навалу!§!" 
+ CA_outlasted_trk_and_khi:0 "§CМи пережили наших бунтівних сусідів!§!" 
+ CA_internal_struggles_concluded:0 "§CМи владнали наші внутрішні конфлікти.§!" 
 
- CA_ongoing_project_decision_flag:0 "We currently have an ongoing Special Development Project" # (!)
+ CA_ongoing_project_decision_flag:0 "Наразі ми маємо активний спеціальний проєкт розвитку" 
 
 ### Decisions ###
  CA_unite_central_asia:0 "Об'єднати Центральну Азію"
- CA_united_flag:0 "We have united Central Asia." # (!)
- CA_industrial_recovery_category:0 "Industrial Recovery Plan" # (!)
- CA_join_reichspakt:0 "Ally with Germany" # (!)
- CA_join_reichspakt_desc:0 "Minor German aid certainly played a factor in our defence against the Russian onslaught. To protect our independence in the future, we shall request to join their military alliance." # (!)
- CA_join_ottomans:0 "Ally with the Ottoman Empire" # (!)
- CA_join_ottomans_desc:0 "The Sublime Porte has been among the greatest supporters of Turkic independence, and we already share ties by blood. It is about time we formalise our entry into their sphere." # (!)
- CA_invite_ETS:0 "Invite East Turkestan" # (!)
+ CA_united_flag:0 "Ми об'єднали Центральну Азію." 
+ CA_industrial_recovery_category:0 "План відновлення промисловості" 
+ CA_join_reichspakt:0 "Союз із Німеччиною" 
+ CA_join_reichspakt_desc:0 "Незначна німецька допомога, безумовно, відіграла роль у нашій обороні від російської навали. Щоб захистити нашу незалежність у майбутньому, ми попросимо приєднатися до їхнього військового союзу." 
+ CA_join_ottomans:0 "Союз з Османською імперією" 
+ CA_join_ottomans_desc:0 "Висока Порта була одним із найбільших прихильників тюркської незалежності, і ми вже пов'язані кровними узами. Настав час офіційно оформити наш вступ до їхньої сфери впливу." 
+ CA_invite_ETS:0 "Запросити Східний Туркестан" 
 
- CA_light_industrialisation_plan_mission_timer:0 "Pragmatic Industrialisation Plan" # (!)
- CA_heavy_industrialisation_plan_mission_timer:0 "Ambitious Industrialisation Plan" # (!)
+ CA_light_industrialisation_plan_mission_timer:0 "Прагматичний план індустріалізації" 
+ CA_heavy_industrialisation_plan_mission_timer:0 "Амбітний план індустріалізації" 
 
- CA_fund_research_projects_decision:0 "Fund Research Projects" # (!)
- CA_fund_economic_development_decision:0 "Fund Economic Development" # (!)
- CA_fund_manufacturing_decision:0 "Fund Manufacturing Sectors" # (!)
- CA_fund_russian_technical_aid_decision:0 "Requisition Russian Technical Expertise" # (!)
- CA_fund_military_research_decision:0 "Fund Military Research Projects" # (!)
- CA_exploit_territories_decision:0 "Exploit Territorial Wealth" # (!)
- CA_resume_smuggling_decision:0 "Resume Smuggling Operations" # (!)
+ CA_fund_research_projects_decision:0 "Фінансувати дослідницькі проєкти" 
+ CA_fund_economic_development_decision:0 "Фінансувати економічний розвиток" 
+ CA_fund_manufacturing_decision:0 "Фінансувати виробничі сектори" 
+ CA_fund_russian_technical_aid_decision:0 "Залучити російських технічних фахівців" 
+ CA_fund_military_research_decision:0 "Фінансувати військові дослідницькі проєкти" 
+ CA_exploit_territories_decision:0 "Експлуатувати багатства територій" 
+ CA_resume_smuggling_decision:0 "Відновити контрабандні операції" 
 
- CA_illi_river_dam:0 "Illi River Dam" # (!)
- CA_expand_fergana_irrigation:0 "Expand Fergana Valley Irrigation Network" # (!)
- CA_nukus_canal:0 "Build the Nukus Canal" # (!)
- CA_vakhsh_river_dam:0 "Vakhsh River Dam" # (!)
- CA_purchase_margilan_silk_factories:0 "Purchase Margilan Silk Factories" # (!)
- CA_tajik_silk_farms:0 "Expand Tajik Silk Farms" # (!)
- CA_dushanbe_cement_plant:0 "Dushanbe Cement Plant" # (!)
- CA_shymkent_cement_plant:0 "Shymkent Cement Plant" # (!)
- CA_reopen_carpet_industry:0 "Re-Open Carpet Industries" # (!)
- CA_nationalise_foreign_armories:0 "Nationalise Foreign Armouries" # (!)
- CA_tashkent_steel_plant:0 "Tashkent Steel Plant" # (!)
- CA_fergana_oil_prospecting:0 "Fergana Valley Oil Prospecting" # (!)
- CA_mangghyshlaq_oil_prospecting:0 "Mangghyshlaq Oil Prospecting" # (!)
- CA_cheleken_oil_and_gas_prospecting:0 "Cheleken Oil and Natural Gas Prospecting" # (!)
- CA_dzhezkazgan_copper_mines:0 "Dzhezkazgan Copper Mines" # (!)
- CA_navoi_uranium_mines:0 "Navoi Uranium Mines" # (!)
- CA_bozymchak_copper_pit:0 "Bozymchak Copper Pit" # (!)
- CA_kyzylsu_to_bukhara:0 "Lay Down the Kyzyl-Su to Bukhara Line" # (!)
- CA_samarkand_to_pishbek:0 "Lay Down the Samarkand to Pishbek Line" # (!)
+ CA_illi_river_dam:0 "Дамба на річці Ілі" 
+ CA_expand_fergana_irrigation:0 "Розширити іригаційну мережу Ферганської долини" 
+ CA_nukus_canal:0 "Побудувати Нукуський канал" 
+ CA_vakhsh_river_dam:0 "Дамба на річці Вахш" 
+ CA_purchase_margilan_silk_factories:0 "Придбати Маргіланські шовкові фабрики" 
+ CA_tajik_silk_farms:0 "Розширити таджицькі шовкові ферми" 
+ CA_dushanbe_cement_plant:0 "Цементний завод у Душанбе" 
+ CA_shymkent_cement_plant:0 "Цементний завод у Шимкенті" 
+ CA_reopen_carpet_industry:0 "Відновити килимарську промисловість" 
+ CA_nationalise_foreign_armories:0 "Націоналізувати іноземні зброярні" 
+ CA_tashkent_steel_plant:0 "Ташкентський металургійний завод" 
+ CA_fergana_oil_prospecting:0 "Розвідка нафти у Ферганській долині" 
+ CA_mangghyshlaq_oil_prospecting:0 "Розвідка нафти на Мангишлаці" 
+ CA_cheleken_oil_and_gas_prospecting:0 "Розвідка нафти та природного газу на Челекені" 
+ CA_dzhezkazgan_copper_mines:0 "Мідні копальні Джезказгана" 
+ CA_navoi_uranium_mines:0 "Уранові копальні Навої" 
+ CA_bozymchak_copper_pit:0 "Мідний кар'єр Бозимчак" 
+ CA_kyzylsu_to_bukhara:0 "Прокласти лінію Кизил-Су — Бухара" 
+ CA_samarkand_to_pishbek:0 "Прокласти лінію Самарканд — Пішпек" 
 
- CA_bandits_and_remnants_decisions_category:0 "Bandits and Remnants" # (!)
+ CA_bandits_and_remnants_decisions_category:0 "Бандити та залишки" 
 
- CA_deal_with_fergana_kurbashi:0 "Dealing with the Fergana Kurbashi" # (!)
- CA_handle_kyrgyz_tribes:0 "Handling the Kyrgyz Tribes" # (!)
- CA_deal_with_turkmen_tribes:0 "Controlling the Turkmen Tribes" # (!)
- CA_see_to_khivan_royals:0 "See to the Khivan Royals" # (!)
- CA_manage_urban_tajiks:0 "Manage the Urban Tajiks" # (!)
- CA_handle_bukharan_bureaucrats:0 "Handle the Bukharan Bureaucrats" # (!)
- CA_reel_in_remnant_riders:0 "Reeling in the Remnant Riders" # (!)
- CA_crush_opportunists:0 "Crushing the Opportunists" # (!)
+ CA_deal_with_fergana_kurbashi:0 "Розв'язати питання з ферганськими курбаші" 
+ CA_handle_kyrgyz_tribes:0 "Врегулювати питання з киргизькими племенами" 
+ CA_deal_with_turkmen_tribes:0 "Контролювати туркменські племена" 
+ CA_see_to_khivan_royals:0 "Подбати про хівінських роялістів" 
+ CA_manage_urban_tajiks:0 "Впоратися з міськими таджиками" 
+ CA_handle_bukharan_bureaucrats:0 "Розібратися з бухарськими бюрократами" 
+ CA_reel_in_remnant_riders:0 "Приборкати залишки вершників" 
+ CA_crush_opportunists:0 "Знищити опортуністів" 
 
- CA_hold_out_vs_russia:0 "Hold Out Against Russia" # (!)
- CA_defend_kazakhs_tt:0 "Kazakhs will be §Rannexed§! if they are capitulated by the end of the war. Defend your northern brothers!" # (!)
- CA_hold_out_vs_socialist_russia:0 "Hold out Against the Socialists" # (!)
- CA_attack_socialist_bukhara_timer:0 "Attack Red Bukhara" # (!)
- CA_socialist_russian_intervention_timer:0 "Expected Russian Intervention" # (!)
- CA_our_russian_ally_withdraws:0 "Our Russian Allies Withdraw" # (!)
+ CA_hold_out_vs_russia:0 "Триматися проти Росії" 
+ CA_defend_kazakhs_tt:0 "Казахів буде §Rанексовано§!, якщо вони капітулюють до кінця війни. Захистіть своїх північних братів!" 
+ CA_hold_out_vs_socialist_russia:0 "Триматися проти соціалістів" 
+ CA_attack_socialist_bukhara_timer:0 "Атакувати червону Бухару" 
+ CA_socialist_russian_intervention_timer:0 "Очікуване російське втручання" 
+ CA_our_russian_ally_withdraws:0 "Наші російські союзники відступають" 
 
  ### Factions ###
  Central_Asia_last_stand:0 "Бішкецький пакт"
@@ -305,52 +305,52 @@
  CA_united_national_populist:0 "$CA_united_totalist$"
  CA_united_national_populist_DEF:0 "$CA_united_totalist_DEF$"
 
- KHI_turkestan:0 "Khanate of Turkestan" # (!)
- KHI_turkestan_DEF:0 "the Khanate of Turkestan" # (!)
- BUK_turkestan:0 "Emirate of Turkestan" # (!)
- BUK_turkestan_DEF:0 "the Emirate of Turkestan" # (!)
- TRK_turkestan:0 "Turkestan Republic" # (!)
- TRK_turkestan_DEF:0 "the Turkestan Republic" # (!)
- TRK_turkestan_radical_socialist:0 "Turkestani Labour Republic" # (!)
- TRK_turkestan_radical_socialist_DEF:0 "the Turkestani Labour Republic" # (!)
- TRK_turkestan_syndicalist:0 "Socialist Republic of Turkestan" # (!)
- TRK_turkestan_syndicalist_DEF:0 "the Socialist Republic of Turkestan" # (!)
- TRK_turkestan_totalist:0 "Socialist Republic of Turkestan" # (!)
- TRK_turkestan_totalist_DEF:0 "the Socialist Republic of Turkestan" # (!)
+ KHI_turkestan:0 "Туркестанське ханство" 
+ KHI_turkestan_DEF:0 "Туркестанське ханство" 
+ BUK_turkestan:0 "Туркестанський емірат" 
+ BUK_turkestan_DEF:0 "Туркестанський емірат" 
+ TRK_turkestan:0 "Туркестанська республіка" 
+ TRK_turkestan_DEF:0 "Туркестанська республіка" 
+ TRK_turkestan_radical_socialist:0 "Туркестанська робітнича республіка" 
+ TRK_turkestan_radical_socialist_DEF:0 "Туркестанська робітнича республіка" 
+ TRK_turkestan_syndicalist:0 "Соціалістична республіка Туркестан" 
+ TRK_turkestan_syndicalist_DEF:0 "Соціалістична республіка Туркестан" 
+ TRK_turkestan_totalist:0 "Соціалістична республіка Туркестан" 
+ TRK_turkestan_totalist_DEF:0 "Соціалістична республіка Туркестан" 
 
 ### Characters ###
- ALO_zhumabay_shayakhmetov: "Zhumabay Shayakhmetov"
- ALO_saken_seifullin: "Saken Seifullin"
- ALO_mirjaqip_dulatuli: "Mirjaqip Dulatuli"
- ALO_alimkhan_yermekov: "Alimkhan Yermekov"
- ALO_alikhan_bukeikhanov: "Alikhan Bukeikhanov"
- ALO_amanzholov_sadyk_ayukevich: "Amanzholov Sadyk Ayukevich"
- ALO_bauyrzhan_momyshuly: "Bauyrzhan Momyshuly"
- ALO_bazarbay_mamentov: "Bazarbay Mamentov"
- ALO_mukhamedzhan_tynyshpaev: "Mukhamedzhan Tynyshpaev"
- ALO_smagul_sadwakasov: "Smagul Sadwakasov"
- ALO_sultanbek_khojanov: "Sultanbek Khojanov"
- ALO_zhumabay_shayakhmetuly: "Zhumabay Shayakhmetuly"
+ ALO_zhumabay_shayakhmetov: "Жумабай Шаяхметов"
+ ALO_saken_seifullin: "Сакен Сейфуллін"
+ ALO_mirjaqip_dulatuli: "Міржакіп Дулатули"
+ ALO_alimkhan_yermekov: "Алімхан Єрмеков"
+ ALO_alikhan_bukeikhanov: "Аліхан Букейханов"
+ ALO_amanzholov_sadyk_ayukevich: "Садик Аманжолов"
+ ALO_bauyrzhan_momyshuly: "Бауиржан Момишули"
+ ALO_bazarbay_mamentov: "Базарбай Маметов"
+ ALO_mukhamedzhan_tynyshpaev: "Мухамеджан Тинишпаєв"
+ ALO_smagul_sadwakasov: "Смагул Садуакасов"
+ ALO_sultanbek_khojanov: "Султанбек Ходжанов"
+ ALO_zhumabay_shayakhmetuly: "Жумабай Шаяхметули"
 
- BUK_mohammed_alim_khan: "Mohammed Alim Khan"
- BUK_fayzullah_khodjaev: "Fayzullah Khodjaev"
- BUK_sadriddin_ayni: "Sadriddin Ayni"
- BUK_ibrahim_bek: "Ibrahim Bek"
- BUK_mulla_abdul_qahhor: "Mulla Abdul Qahhor"
- BUK_shahmurad_khan: "Shahmurad Khan"
+ BUK_mohammed_alim_khan: "Мохаммед Алім-хан"
+ BUK_fayzullah_khodjaev: "Файзулла Ходжаєв"
+ BUK_sadriddin_ayni: "Садриддін Айні"
+ BUK_ibrahim_bek: "Ібрагім-бек"
+ BUK_mulla_abdul_qahhor: "Мулла Абдул-Каххор"
+ BUK_shahmurad_khan: "Шахмурад-хан"
 
- KHI_junaid_khan: "Junaid Khan"
- KHI_balysh_ovezov: "Balysh Ovezov"
- KHI_eshi_khan: "Eshi Khan"
- KHI_oraz_geldy_kandzhik: "Oraz Geldy Kandzhik"
- KHI_azis_khan_chapykov: "Azis Khan Chapykov"
+ KHI_junaid_khan: "Джунаїд-хан"
+ KHI_balysh_ovezov: "Балиш Овезов"
+ KHI_eshi_khan: "Еші-хан"
+ KHI_oraz_geldy_kandzhik: "Ораз Ґельди Канджик"
+ KHI_azis_khan_chapykov: "Азіз-хан Чапиков"
 
- TRK_madamin_bek: "Madamin Bek"
- TRK_turar_ryskulov: "Turar Ryskulov"
- TRK_mustafa_shokay: "Mustafa Shokay"
- TRK_kurshirmat: "Kurshirmat"
- TRK_muetdin_bek: "Muetdin Bek"
- TRK_katta_ergash: "Katta Ergash"
+ TRK_madamin_bek: "Мадамін-бек"
+ TRK_turar_ryskulov: "Турар Рискулов"
+ TRK_mustafa_shokay: "Мустафа Шокай"
+ TRK_kurshirmat: "Курширмат"
+ TRK_muetdin_bek: "Муетдін-бек"
+ TRK_katta_ergash: "Катта Ергаш"
 
 ### Events ###
 

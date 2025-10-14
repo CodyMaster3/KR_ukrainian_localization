@@ -56,28 +56,28 @@
  indian_wars_threat:0 "Війна за об'єднання Індії"
 
 ### Flags ###
- india_united:0 "India is United" # (!)
+ india_united:0 "Індія об'єднана"
 
 ### Characters ###
- GUJ_bahman_pestonji_wadia: "Bahman Pestonji Wadia"
- GUJ_sayajirao_gaekwad_iii: "Sayajirao Gaekwad III"
+ GUJ_bahman_pestonji_wadia: "Бахман Пестонджі Вадія"
+ GUJ_sayajirao_gaekwad_iii: "Саяджірао Ґаеквад III"
 
- PAK_aga_khan_iii: "Aga Khan III"
- PAK_liaquat_ali_khan: "Liaquat Ali Khan"
- PAK_allama_mashriqi: "Allama Mashriqi"
- PAK_akbar_khan: "Akbar Khan"
- PAK_abul_ala_maududi: "Abul A'la Maududi"
+ PAK_aga_khan_iii: "Ага-хан III"
+ PAK_liaquat_ali_khan: "Ліякат Алі Хан"
+ PAK_allama_mashriqi: "Аллама Машрікі"
+ PAK_akbar_khan: "Акбар Хан"
+ PAK_abul_ala_maududi: "Абул Ала Маудуді"
 
- PAK_ali_haidar: "Ali Haidar"
- PAK_mahmood_khan_durrani: "Mahmood Khan Durrani"
- PAK_shah_nawaz_khan: "Shah Nawaz Khan"
+ PAK_ali_haidar: "Алі Хайдар"
+ PAK_mahmood_khan_durrani: "Махмуд Хан Дуррані"
+ PAK_shah_nawaz_khan: "Шах Наваз Хан"
 
- PJB_tara_singh: "Tara Singh"
+ PJB_tara_singh: "Тара Сінґх"
 
- RJS_sawai_man_singh_ii: "Sawai Man Singh II"
+ RJS_sawai_man_singh_ii: "Савай Ман Сінґх II"
 
- TRV_chithira_thirunal_balarama_varma: "Chithira Thirunal Balarama Varma"
- TRV_chandrasekharan_nair: "Chandrasekharan Nair"
+ TRV_chithira_thirunal_balarama_varma: "Чітіра Тірунал Баларама Варма"
+ TRV_chandrasekharan_nair: "Чандрасекаран Наїр"
  
  ### Tooltips ###
  india_will_seize_ceylon_if_germany_at_war:0 "Цейлон буде захоплено, якщо це рішення буде прийнято в той час, коли Німеччина буде залучена до великої війни."

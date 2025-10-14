@@ -191,214 +191,214 @@
  FIN_a_stable_finland: "Стабільна Фінляндія"
  FIN_a_stable_finland_desc: "Король та його близькі радники зуміли за тяжких обставин зберегти стабільність і мир, характерні для Фінляндії після Громадянської війни. Тепер, коли всі загрози нейтралізовані або повністю усунуті, ми можемо гордо знов заявити про себе на світовій арені."
 
- FIN_reinforce_the_mannerheim_line: "Reinforce the [ROOT.FIN_GetMannerheimLineName] Line"
- FIN_reinforce_the_mannerheim_line_desc: "A defensive fortification line built during the Russian Civil War, the [ROOT.FIN_GetMannerheimLineName] Line has been key with regards to acting as a deterrent for the Russians to the east. However it has not been upgraded in some time, and its age is beginning to show. We should look towards upgrading it."
+ FIN_reinforce_the_mannerheim_line: "Зміцнити лінію [ROOT.FIN_GetMannerheimLineName]"
+ FIN_reinforce_the_mannerheim_line_desc: "Оборонна лінія укріплень, побудована під час Громадянської війни в Росії, лінія [ROOT.FIN_GetMannerheimLineName] була ключовим фактором стримування для росіян на сході. Однак вона давно не модернізувалася, і її вік починає даватися взнаки. Нам слід подумати про її модернізацію."
 
- FIN_mannerheim_line_socialist: "Manner"
- FIN_mannerheim_line_monarchy: "Fredrik Kaarle"
- FIN_mannerheim_line_socdem: "Tanner"
- FIN_mannerheim_line_default: "Mannerheim"
+ FIN_mannerheim_line_socialist: "Маннера"
+ FIN_mannerheim_line_monarchy: "Фредріка Каарле"
+ FIN_mannerheim_line_socdem: "Таннера"
+ FIN_mannerheim_line_default: "Маннергейма"
 
- FIN_state_arms_factories: "State Arms Factories"
- FIN_state_arms_factories_desc: "The Finnish private sector is limited in resources, so state companies such as VKT and SAKO are necessary to ensure proper supply of armament for our army during war time."
+ FIN_state_arms_factories: "Державні збройові заводи"
+ FIN_state_arms_factories_desc: "Фінський приватний сектор має обмежені ресурси, тому державні компанії, такі як VKT і SAKO, необхідні для забезпечення належного постачання озброєння для нашої армії під час війни."
 
- FIN_sponsor_lahti_and_saloranta: "Sponsor Lahti and Saloranta"
- FIN_sponsor_lahti_and_saloranta_desc: "We are in constant search for gifted weapons designers. Aimo Lahti and Arvo Saloranta have made an impression with their designs, and should be recruited on the state payroll."
+ FIN_sponsor_lahti_and_saloranta: "Спонсорувати Лахті та Салоранту"
+ FIN_sponsor_lahti_and_saloranta_desc: "Ми постійно шукаємо талановитих конструкторів зброї. Аймо Лахті та Арво Салоранта вразили нас своїми розробками, і їх слід найняти на державну службу."
 
- FIN_yhteissisu_vehicles: "Yhteissisu Vehicles"
- FIN_yhteissisu_vehicles_desc: "Despite our army largely relying on horses and bicycles, the automobile industry is steadily growing. Lucrative cooperation with German businesses has helped in the development of Vanaja trucks."
+ FIN_yhteissisu_vehicles: "Техніка Yhteissisu"
+ FIN_yhteissisu_vehicles_desc: "Хоча наша армія здебільшого покладається на коней та велосипеди, автомобільна промисловість неухильно зростає. Вигідна співпраця з німецькими підприємствами допомогла в розробці вантажівок Vanaja."
 
- FIN_artillery_production: "Artillery Production"
- FIN_artillery_production_desc: "Finnish doctrine has always relied on artillery, and it is also something we can produce ourselves. Stocking up on shells for the bad day should be started before the bad day hits."
+ FIN_artillery_production: "Виробництво артилерії"
+ FIN_artillery_production_desc: "Фінська доктрина завжди покладалася на артилерію, і це те, що ми можемо виробляти самі. Накопичення снарядів на чорний день слід розпочати до того, як цей чорний день настане."
 
- FIN_panzers_in_the_snow: "Panzers in the Snow"
- FIN_panzers_in_the_snow_desc: "We have limited ability to produce armour, but our allies in Berlin have more than enough capacity. Agreements with Henschel and Krupp should be signed to ensure expertise needed for our own armoured force."
+ FIN_panzers_in_the_snow: "Танки в снігах"
+ FIN_panzers_in_the_snow_desc: "Ми маємо обмежені можливості для виробництва бронетехніки, але наші союзники в Берліні мають більш ніж достатні потужності. Слід підписати угоди з Henschel та Krupp, щоб отримати досвід, необхідний для наших власних бронетанкових сил."
 
- FIN_tank_design_department: "Valtion Panssaritehdas"
- FIN_tank_design_department_desc: "It's a tall order, but with proper funding Finland can have its own capacity to build simple armoured vehicles."
+ FIN_tank_design_department: "Державний танковий завод"
+ FIN_tank_design_department_desc: "Це складне завдання, але за належного фінансування Фінляндія може мати власні потужності для створення простих броньованих машин."
 
- FIN_anti_armour_weapons: "Anti-Armour Weapons"
- FIN_anti_armour_weapons_desc: "Our enemies will come at us with waves of steel and fire, and we must be ready. We do not have enough armour to counter it, so cheaper methods must be invented."
+ FIN_anti_armour_weapons: "Протитанкова зброя"
+ FIN_anti_armour_weapons_desc: "Наші вороги наступатимуть на нас хвилями сталі та вогню, і ми повинні бути готові. У нас недостатньо бронетехніки, щоб протистояти цьому, тому потрібно винаходити дешевші методи."
 
- FIN_integrate_suojeluskunta: "Integrate the White Guard"
- FIN_integrate_suojeluskunta_desc: "Instead of being a separate organisation with its own commander, the White Guards should be made into part of the standing army, and serve as reserves and a training organisation."
+ FIN_integrate_suojeluskunta: "Інтегрувати Шюцкор"
+ FIN_integrate_suojeluskunta_desc: "Замість того, щоб бути окремою організацією з власним командувачем, Шюцкор (Біла гвардія) слід зробити частиною регулярної армії та використовувати як резерв і навчальну організацію."
 
- FIN_national_mobilisation: "National Mobilisation"
- FIN_national_mobilisation_desc: "When push comes to shove, every Finn understands to carry their weight in defence of the Fatherland."
+ FIN_national_mobilisation: "Національна мобілізація"
+ FIN_national_mobilisation_desc: "Коли прийде скрута, кожен фін розуміє, що повинен зробити свій внесок у захист Батьківщини."
 
- FIN_lotta_svard: "Lotta Svärd"
- FIN_lotta_svard_desc: "A Women's auxiliary organisation will train young, patriotic ladies to fill support services in signals, medicine and supply, freeing up precious manpower for the front."
+ FIN_lotta_svard: "Лотта Свярд"
+ FIN_lotta_svard_desc: "Жіноча допоміжна організація навчатиме молодих патріотичних дівчат для роботи в службах зв'язку, медицини та постачання, звільняючи дорогоцінні людські ресурси для фронту."
 
- FIN_the_salpa_line: "The Salpa Line"
- FIN_the_salpa_line_desc: "If the [ROOT.FIN_GetMannerheimLineName] is our first line of defence, the Salpa Line is the last, and it shall not be breached!"
+ FIN_the_salpa_line: "Лінія Салпа"
+ FIN_the_salpa_line_desc: "Якщо лінія [ROOT.FIN_GetMannerheimLineName] — це наша перша лінія оборони, то лінія Салпа — остання, і її не прорвати!"
 
- FIN_upgrade_sissi_units: "Upgrade Sissi Units"
- FIN_upgrade_sissi_units_desc: "'Sissi', in its original meaning, a forest bandit, is the roughest of the army, the guerillas operating in uncharted woods and behind enemy lines, striking quickly and leaving no trace."
+ FIN_upgrade_sissi_units: "Покращити підрозділи Сіссі"
+ FIN_upgrade_sissi_units_desc: "«Сіссі», в його первісному значенні «лісовий розбійник», — це найзагартованіша частина армії, партизани, що діють у незвіданих лісах і в тилу ворога, завдаючи швидких ударів і не залишаючи слідів."
 
- FIN_support_jaeger_officers: "Support Jäger Officers"
- FIN_support_jaeger_officers_desc: "The young patriots of the Royal Prussian 27th Jäger Battalion trained and fought with the Germans, and they have to came dominate much of the army. Their spirit is aggressive and mobile, drawing from German military schools."
+ FIN_support_jaeger_officers: "Підтримати офіцерів-єгерів"
+ FIN_support_jaeger_officers_desc: "Молоді патріоти з Королівського прусського 27-го єгерського батальйону навчалися й воювали разом з німцями, і вони стали домінувати в значній частині армії. Їхній дух — агресивний і мобільний, що черпає натхнення з німецьких військових шкіл."
 
- FIN_support_old_guard_officers: "Support Mannerheim's Clique"
- FIN_support_old_guard_officers_desc: "Carl Gustaf Mannerheim and those close to him are generally men of an old, more technical school of warfare, avoiding the rash offences of great spirit that the Jägers so much adore."
+ FIN_support_old_guard_officers: "Підтримати кліку Маннергейма"
+ FIN_support_old_guard_officers_desc: "Карл Густав Маннергейм і його близьке оточення — це, як правило, люди старої, більш технічної школи ведення війни, які уникають необдуманих наступів великого духу, які так обожнюють єгері."
 
- FIN_encircle_and_destroy: "Encircle and Destroy"
- FIN_encircle_and_destroy_desc: "The forests are not a barrier to us, but a pathway. Our enemies are restricted to roads, while our mobile forces can cut them into pieces like one cuts a motti of firewood."
+ FIN_encircle_and_destroy: "Оточити та знищити"
+ FIN_encircle_and_destroy_desc: "Ліси для нас не перешкода, а шлях. Наші вороги обмежені дорогами, тоді як наші мобільні сили можуть розрізати їх на шматки, як ріжуть дрова для «мотті»."
 
- FIN_create_the_sotakorkeakoulu: "Expansion of Sotakorkeakoulu"
- FIN_create_the_sotakorkeakoulu_desc: "An army is only as good as its leaders, and training exemplary leaders is our priority."
+ FIN_create_the_sotakorkeakoulu: "Розширення Військової академії"
+ FIN_create_the_sotakorkeakoulu_desc: "Армія настільки хороша, наскільки хороші її лідери, і підготовка зразкових лідерів — наш пріоритет."
 
- FIN_salvage_captured_equipment: "Salvage Captured Equipment"
- FIN_salvage_captured_equipment_desc: "We do not have the industrial capacity of our enemies, but they can helpfully supplement our budget by allowing us to capture their armour and guns and turn them against them."
+ FIN_salvage_captured_equipment: "Рятувати трофейну техніку"
+ FIN_salvage_captured_equipment_desc: "Ми не маємо промислового потенціалу наших ворогів, але вони можуть люб'язно поповнити наш бюджет, дозволивши нам захоплювати їхню бронетехніку та гармати й обертати їх проти них же."
 
- FIN_the_white_death: "The White Death"
- FIN_the_white_death_desc: "\"I do not use a scope for sniping. It can reveal one's position through the shine, and is easily frosted by the breath in subzero temperatures.\" - Simo Häyhä"
+ FIN_the_white_death: "Біла смерть"
+ FIN_the_white_death_desc: "«Я не використовую оптичний приціл для снайперської стрільби. Він може видати позицію через блиск і легко замерзає від дихання за мінусових температур» — Сімо Гяюгя"
 
- FIN_erillinen_pataljoonat: "Kaukopartiot"
- FIN_erillinen_pataljoonat_desc: "Dedicating some of our best units to operate in the flanks and backs of the enemy will wreack havoc to their cohesion, and net us proper intel needed for conducting further operations."
+ FIN_erillinen_pataljoonat: "Далекі патрулі"
+ FIN_erillinen_pataljoonat_desc: "Виділення деяких з наших найкращих підрозділів для дій на флангах і в тилу ворога посіє хаос у його лавах і забезпечить нас належними розвідданими, необхідними для проведення подальших операцій."
 
- FIN_dedicated_medical_units: "Lotta Field Hospitals"
- FIN_dedicated_medical_units_desc: "Men from medical positions can be freed up for more urgent roles by allowing Lotta Svärd to operate entire hospitals some distance away from the frontline."
+ FIN_dedicated_medical_units: "Польові шпиталі «Лотта»"
+ FIN_dedicated_medical_units_desc: "Чоловіків з медичних посад можна звільнити для більш нагальних завдань, дозволивши «Лотті Свярд» керувати цілими шпиталями на деякій відстані від лінії фронту."
 
- FIN_nenonen_doctrine: "Nenonen Doctrine"
- FIN_nenonen_doctrine_desc: "Vilho Nenonen is a general, but most of all he is a mathematical genius. The Fire Correction Circle is just one of his inventions that will enable our artillery to react faster, target better and destroy more."
+ FIN_nenonen_doctrine: "Доктрина Ненонена"
+ FIN_nenonen_doctrine_desc: "Вільхо Ненонен — генерал, але перш за все він — математичний геній. Коло корекції вогню — лише один з його винаходів, який дозволить нашій артилерії реагувати швидше, краще цілитися і знищувати більше."
 
- FIN_improve_radio_communications: "Department of Radio Intelligence"
- FIN_improve_radio_communications_desc: "Expanding the radio listening base in Lahti to a full department under the Air Force will make it possible to gather more intel faster."
+ FIN_improve_radio_communications: "Департамент радіорозвідки"
+ FIN_improve_radio_communications_desc: "Розширення бази радіоперехоплення в Лахті до повноцінного департаменту під егідою ВПС дозволить збирати більше розвідданих швидше."
 
- FIN_new_air_bases: "New Air Bases"
- FIN_new_air_bases_desc: "In a country of large distances, a good network of air bases is integral for defence."
+ FIN_new_air_bases: "Нові авіабази"
+ FIN_new_air_bases_desc: "У країні з великими відстанями хороша мережа авіабаз є невід'ємною частиною оборони."
 
- FIN_increase_airforce_budget: "Increase Airforce Budget"
- FIN_increase_airforce_budget_desc: "The air force has usually been something ignored in favour of the army, despite its potential."
+ FIN_increase_airforce_budget: "Збільшити бюджет ВПС"
+ FIN_increase_airforce_budget_desc: "Повітряні сили зазвичай ігнорували на користь армії, попри їхній потенціал."
 
- FIN_ace_pilots: "Ace Pilots"
- FIN_ace_pilots_desc: "Screening should be done as part of the military service to find and train potential pilots, even if they are poor farmers' sons."
+ FIN_ace_pilots: "Пілоти-аси"
+ FIN_ace_pilots_desc: "У рамках військової служби слід проводити відбір для виявлення та навчання потенційних пілотів, навіть якщо вони є синами бідних фермерів."
 
- FIN_modernise_lentosotakoulu: "Modernise Lentosotakoulu"
- FIN_modernise_lentosotakoulu_desc: "The means of air warfare are rapidly changing, and we need to stay in the flow if we are to defend our own skies."
+ FIN_modernise_lentosotakoulu: "Модернізувати Академію Повітряних сил"
+ FIN_modernise_lentosotakoulu_desc: "Засоби повітряної війни швидко змінюються, і нам потрібно залишатися в тренді, якщо ми хочемо захистити власне небо."
 
- FIN_urban_aerial_defences: "Urban Aerial Defences"
- FIN_urban_aerial_defences_desc: "Finland's few major cities make easy targets for bombing, and should be adequately defended."
+ FIN_urban_aerial_defences: "Міська протиповітряна оборона"
+ FIN_urban_aerial_defences_desc: "Кілька великих міст Фінляндії є легкими цілями для бомбардувань, і їх слід належним чином захистити."
 
- FIN_domestic_fighter_designs: "Domestic Fighter Designs"
- FIN_domestic_fighter_designs_desc: "VLT was founded as a state-owned avitation manufacturing and design plant. In a brief time, we will have our first Finnish-designed and manufactured fighter planes."
+ FIN_domestic_fighter_designs: "Вітчизняні розробки винищувачів"
+ FIN_domestic_fighter_designs_desc: "VLT було засновано як державне авіабудівне та конструкторське підприємство. Незабаром у нас з'являться перші винищувачі фінської розробки та виробництва."
 
- FIN_fighter_supremacy: "Fighter Supremacy"
- FIN_fighter_supremacy_desc: "Despite the bombing proponents like Väinö Vuori, fighters should be the priority of a small air force such as ours."
+ FIN_fighter_supremacy: "Перевага винищувачів"
+ FIN_fighter_supremacy_desc: "Попри прихильників бомбардувальників, таких як Вяйньо Вуорі, пріоритетом для невеликих повітряних сил, як наші, мають бути винищувачі."
 
- FIN_wartsila_engines: "Wärtsilä Engines"
- FIN_wartsila_engines_desc: "Producing a quality aeroplane engine is no small feat. If we can achieve it, only the sky is limit!"
+ FIN_wartsila_engines: "Двигуни Wärtsilä"
+ FIN_wartsila_engines_desc: "Виробництво якісного авіаційного двигуна — нелегка справа. Якщо ми зможемо цього досягти, то для нас не буде нічого неможливого!"
 
- FIN_cutting_edge_production_lines: "Cutting-Edge Production Lines"
- FIN_cutting_edge_production_lines_desc: "We cannot compete in quantity, but we can in quality."
+ FIN_cutting_edge_production_lines: "Передові виробничі лінії"
+ FIN_cutting_edge_production_lines_desc: "Ми не можемо конкурувати в кількості, але можемо в якості."
 
- FIN_twelve_squadron_plan: "Twelve-Squadron Plan"
- FIN_twelve_squadron_plan_desc: "According to the high command, 12 squadrons of fighters should be able to protect the entire airspace of Finland - so let's set that as a target, and seek a major expansion of the air force."
+ FIN_twelve_squadron_plan: "План дванадцяти ескадрилій"
+ FIN_twelve_squadron_plan_desc: "Згідно з даними верховного командування, 12 ескадрилій винищувачів зможуть захистити весь повітряний простір Фінляндії — тож давайте поставимо це за мету і прагнутимемо значного розширення повітряних сил."
 
- FIN_vuoris_assault_wings: "Vuori's Assault Wings"
- FIN_vuoris_assault_wings_desc: "The bomber lobby of the Finnish Air Force proposes using bombers as flying artillery, something to ensure that we will win battles on land."
+ FIN_vuoris_assault_wings: "Штурмові крила Вуорі"
+ FIN_vuoris_assault_wings_desc: "Бомбардувальне лобі фінських ВПС пропонує використовувати бомбардувальники як літаючу артилерію, щось, що забезпечить нам перемогу в наземних боях."
 
- FIN_bomber_supremacy: "Bomber Supremacy"
- FIN_bomber_supremacy_desc: "Bombers will always get through."
+ FIN_bomber_supremacy: "Перевага бомбардувальників"
+ FIN_bomber_supremacy_desc: "Бомбардувальники завжди прорвуться."
 
- FIN_naval_bombers: "Naval Bombers"
- FIN_naval_bombers_desc: "The Gulf of Finland is an important naval pathway, and with proper planes, we can ensure that no ships pass it without our permission."
+ FIN_naval_bombers: "Морські бомбардувальники"
+ FIN_naval_bombers_desc: "Фінська затока є важливим морським шляхом, і з належними літаками ми можемо гарантувати, що жоден корабель не пройде нею без нашого дозволу."
 
- FIN_improve_coastal_defences: "Improve Coastal Defences"
- FIN_improve_coastal_defences_desc: "Finland's coastline is long and its navy small, so fortifications are the best way to ensure it stays adequately defended."
+ FIN_improve_coastal_defences: "Покращити берегову оборону"
+ FIN_improve_coastal_defences_desc: "Берегова лінія Фінляндії довга, а її флот невеликий, тому укріплення — найкращий спосіб забезпечити її належний захист."
 
- FIN_expand_export_fleets: "Expand Export Fleets"
- FIN_expand_export_fleets_desc: "Most of the Finnish economy is based around exporting the products of our forest industries. Without ships, there are no exports."
+ FIN_expand_export_fleets: "Розширити експортний флот"
+ FIN_expand_export_fleets_desc: "Більша частина фінської економіки базується на експорті продукції нашої лісової промисловості. Без кораблів немає експорту."
 
- FIN_cheap_cruisers: "Cheap Cruisers"
- FIN_cheap_cruisers_desc: "It is hard to convince [ROOT.GetLeader] to give the navy much extra funds, so we must aim to use cheap designs instead."
+ FIN_cheap_cruisers: "Дешеві крейсери"
+ FIN_cheap_cruisers_desc: "Важко переконати [ROOT.GetLeader] виділити флоту багато додаткових коштів, тому ми повинні натомість використовувати дешеві проєкти."
 
- FIN_german_naval_cooperation: "German Naval Cooperation"
- FIN_german_naval_cooperation_desc: "The naval superpower of the Baltic is Germany, and with them, we cannot fail."
+ FIN_german_naval_cooperation: "Німецька морська співпраця"
+ FIN_german_naval_cooperation_desc: "Морською наддержавою Балтики є Німеччина, і з нею ми не можемо зазнати поразки."
 
- FIN_expand_andree_rosenqvist: "Expand Andrée & Rosenqvist"
- FIN_expand_andree_rosenqvist_desc: "Dockyards of A&R in Turku are our pride, and must be supported by the state as a matter of national security."
+ FIN_expand_andree_rosenqvist: "Розширити Andrée & Rosenqvist"
+ FIN_expand_andree_rosenqvist_desc: "Верфі A&R у Турку — наша гордість, і держава повинна підтримувати їх як питання національної безпеки."
 
- FIN_hit_and_run_tactics: "Hit-and-Run Tactics"
- FIN_hit_and_run_tactics_desc: "A smaller fleet should focus on mobility and wit, rather than brawn and fire."
+ FIN_hit_and_run_tactics: "Тактика «вдарив і втік»"
+ FIN_hit_and_run_tactics_desc: "Менший флот повинен зосередитися на мобільності та кмітливості, а не на силі та вогні."
 
- FIN_prowl_the_waters: "Prowl the Waters"
- FIN_prowl_the_waters_desc: "Submarines are cheap and deadly, which makes them ideal for a nation with a limited budget."
+ FIN_prowl_the_waters: "Нишпорити у водах"
+ FIN_prowl_the_waters_desc: "Підводні човни дешеві та смертоносні, що робить їх ідеальними для країни з обмеженим бюджетом."
 
- FIN_increase_torpedo_production: "Increase Torpedo Production"
- FIN_increase_torpedo_production_desc: "A single torpedo costs some hundred marks. A Russian cruiser costs millions of roubles."
+ FIN_increase_torpedo_production: "Збільшити виробництво торпед"
+ FIN_increase_torpedo_production_desc: "Одна торпеда коштує кілька сотень марок. Російський крейсер — мільйони рублів."
 
- FIN_naval_expansion: "Naval Expansion"
- FIN_naval_expansion_desc: "Major increases in the naval budget have enabled us to truly focus on shipbuilding. It is already positively affecting the morale of the naval officers."
+ FIN_naval_expansion: "Розширення флоту"
+ FIN_naval_expansion_desc: "Значне збільшення військово-морського бюджету дозволило нам по-справжньому зосередитися на суднобудуванні. Це вже позитивно впливає на моральний дух морських офіцерів."
 
- FIN_baltic_naval_bases: "Baltic Naval Bases"
- FIN_baltic_naval_bases_desc: "Our Baltic Sea has plenty of islands and harbors well-suited for military bases, positioned to protect Helsinki and other major cities."
+ FIN_baltic_naval_bases: "Балтійські військово-морські бази"
+ FIN_baltic_naval_bases_desc: "Наше Балтійське море має безліч островів і гаваней, добре придатних для військових баз, розташованих для захисту Гельсінкі та інших великих міст."
 
- FIN_expand_crichton_vulcan: "Expand Crichton-Vulcan"
- FIN_expand_crichton_vulcan_desc: "Crichton-Vulcan is the largest dockyard in Finland, often contracted even by foreign powers to build ships for them."
+ FIN_expand_crichton_vulcan: "Розширити Crichton-Vulcan"
+ FIN_expand_crichton_vulcan_desc: "Crichton-Vulcan — найбільша верф у Фінляндії, яка часто отримує контракти навіть від іноземних держав на будівництво кораблів для них."
 
- FIN_mines_in_the_baltic: "Mines in the Baltic"
- FIN_mines_in_the_baltic_desc: "The Gulf of Finland and the Gulf of Bothnia can be both closed at their narrowest points with a dedicated minelayer."
+ FIN_mines_in_the_baltic: "Міни на Балтиці"
+ FIN_mines_in_the_baltic_desc: "Фінську та Ботнічну затоки можна закрити в їхніх найвужчих місцях за допомогою спеціалізованого мінного загороджувача."
 
- FIN_rannikkojaakari: "The Coastal Jägers"
- FIN_rannikkojaakari_desc: "The first unit of Finnish naval infantry will be given specialised training and equipment to conduct skilled amphibious operations."
+ FIN_rannikkojaakari: "Берегові єгері"
+ FIN_rannikkojaakari_desc: "Перший підрозділ фінської морської піхоти отримає спеціалізовану підготовку та оснащення для проведення вмілих десантних операцій."
 
- FIN_modernise_the_transit_networks: "Modernise the Transit Networks"
- FIN_modernise_the_transit_networks_desc: "Finland has long distances, and nothing works without a proper transit system. What use is having mineral goods if they cannot be transported into factories or ports?"
+ FIN_modernise_the_transit_networks: "Модернізувати транзитні мережі"
+ FIN_modernise_the_transit_networks_desc: "Фінляндія має великі відстані, і ніщо не працює без належної транспортної системи. Яка користь від корисних копалин, якщо їх неможливо доставити на заводи чи в порти?"
 
- FIN_agricultural_subsidies: "Agricultural Subsidies"
- FIN_agricultural_subsidies_desc: "Let's face it, Finland sucks for growing crops. Summers are short and winters harsh. If we are to have much food security, it needs to be subsidised."
+ FIN_agricultural_subsidies: "Сільськогосподарські субсидії"
+ FIN_agricultural_subsidies_desc: "Будемо відвертими, Фінляндія погано підходить для вирощування сільськогосподарських культур. Літо коротке, а зими суворі. Якщо ми хочемо мати хоч якусь продовольчу безпеку, це потрібно субсидувати."
 
- FIN_nationalise_alandsbanken: "Nationalise Ålandsbanken"
- FIN_nationalise_alandsbanken_desc: "Ålandsbanken is one of the major banks that took a heavy beating in speculation surrounding the Black Monday crisis. The Ministry of Economy has proposed to nationalsie the bank to stabilise its financial freefall."
+ FIN_nationalise_alandsbanken: "Націоналізувати Ålandsbanken"
+ FIN_nationalise_alandsbanken_desc: "Ålandsbanken — один з великих банків, який сильно постраждав від спекуляцій навколо кризи «Чорного понеділка». Міністерство економіки запропонувало націоналізувати банк, щоб стабілізувати його фінансове падіння."
 
- FIN_expand_university_helsinki: "Expand the University of Helsinki"
- FIN_expand_university_helsinki_desc: "As Anders Chydenius always said, a nation is only as brilliant as its young men and women are educated."
+ FIN_expand_university_helsinki: "Розширити Гельсінський університет"
+ FIN_expand_university_helsinki_desc: "Як завжди казав Андерс Кюденіус, нація настільки геніальна, наскільки освічені її молоді чоловіки та жінки."
 
- FIN_ahlstrom_forestry_exports: "Ahlstrom Forestry Exports"
- FIN_ahlstrom_forestry_exports_desc: "It is said that Finland stands on a foundation of wood, and it is true. Planks, paper, cardboard, plywood, timber - all of it goes for export."
+ FIN_ahlstrom_forestry_exports: "Експорт лісоматеріалів Ahlstrom"
+ FIN_ahlstrom_forestry_exports_desc: "Кажуть, що Фінляндія стоїть на дерев'яному фундаменті, і це правда. Дошки, папір, картон, фанера, пиломатеріали — все це йде на експорт."
 
- FIN_draw_on_oy_alkoholiliike: "Draw on Oy Alkoholiliike"
- FIN_draw_on_oy_alkoholiliike_desc: "Alcohol is good, but people tend to use it irresponsibly. Naturally, a state monopoly of it is the correct solution, and it bringing us more profits is just icing on the top."
+ FIN_draw_on_oy_alkoholiliike: "Скористатися Oy Alkoholiliike"
+ FIN_draw_on_oy_alkoholiliike_desc: "Алкоголь — це добре, але люди схильні вживати його безвідповідально. Звісно, державна монополія на нього — правильне рішення, а те, що вона приносить нам більше прибутків, — це лише приємний бонус."
 
- FIN_expand_outukumpu_operations: "Expand Outokumpu Operations"
- FIN_expand_outukumpu_operations_desc: "Outokumpu - the Strange Hill - boasts some of the largest copper deposits in the Nordic countries, and there is plenty to expand in it."
+ FIN_expand_outukumpu_operations: "Розширити діяльність Outokumpu"
+ FIN_expand_outukumpu_operations_desc: "Оутокумпу — «Дивний пагорб» — може похвалитися одними з найбільших родовищ міді в скандинавських країнах, і там є багато можливостей для розширення."
 
- FIN_expand_kemi_mines: "Expand Kemi Mines"
- FIN_expand_kemi_mines_desc: "Lapland has much untapped mining potential. The best place to start is from around export harbours such as Kemi, which can be used to deliver the ore south."
+ FIN_expand_kemi_mines: "Розширити шахти Кемі"
+ FIN_expand_kemi_mines_desc: "Лапландія має значний невикористаний гірничодобувний потенціал. Найкраще почати з районів навколо експортних гаваней, таких як Кемі, які можна використовувати для доставки руди на південь."
 
- FIN_makola_mining_complex: "Makola Mining Complex"
- FIN_makola_mining_complex_desc: "Nickel and copper deposits of Nivala were discovered in the 1920s by a German company but were never properly utilised due to lack of funds."
+ FIN_makola_mining_complex: "Гірничий комплекс Макола"
+ FIN_makola_mining_complex_desc: "Нікелеві та мідні родовища Нівали були відкриті в 1920-х роках німецькою компанією, але так і не були належним чином освоєні через брак коштів."
 
- FIN_petsamo_janiskoski_mines: "Petsamo-Kolosjoki Mines"
- FIN_petsamo_janiskoski_mines_desc: "Petsamo sits on top of massive deposits of nickel. There would be plenty of riches there, if we only could access it."
+ FIN_petsamo_janiskoski_mines: "Шахти Петсамо-Колосьйокі"
+ FIN_petsamo_janiskoski_mines_desc: "Петсамо розташоване на величезних родовищах нікелю. Там було б багато багатств, якби тільки ми мали до них доступ."
 
- FIN_steel_mills_in_tornio: "Northern Steel"
- FIN_steel_mills_in_tornio_desc: "Iron ores from Laplandish mines can be most efficiently processed into steel in Tornio and Kemi, and then shipped to further afield."
+ FIN_steel_mills_in_tornio: "Північна сталь"
+ FIN_steel_mills_in_tornio_desc: "Залізні руди з лапландських шахт найефективніше переробляти на сталь у Торніо та Кемі, а потім відправляти далі."
 
- FIN_finnish_mineral_wealth: "Finnish Mineral Wealth"
- FIN_finnish_mineral_wealth_desc: "Many more mineral deposits can be found in Finland, given proper geological study and enough money. Nature will not stand in our way!"
+ FIN_finnish_mineral_wealth: "Мінеральні багатства Фінляндії"
+ FIN_finnish_mineral_wealth_desc: "У Фінляндії можна знайти ще багато родовищ корисних копалин, за умови належного геологічного вивчення та достатніх коштів. Природа не стане нам на заваді!"
 
- FIN_expand_harjavalta_mines: "Ore Refining"
- FIN_expand_harjavalta_mines_desc: "Thanks to foreign capital and expertise, we're able to expand the southern metallurgy plants turning our ores into useable form."
+ FIN_expand_harjavalta_mines: "Збагачення руди"
+ FIN_expand_harjavalta_mines_desc: "Завдяки іноземному капіталу та досвіду ми можемо розширити південні металургійні заводи, перетворюючи наші руди на придатну для використання форму."
 
- FIN_expand_imatra: "Expand Imatra"
- FIN_expand_imatra_desc: "Imatra has quickly became one of the largest steel producing towns. Transportation through Lake Saimaa ties it more tightly into our national infrastructure."
+ FIN_expand_imatra: "Розширити Іматру"
+ FIN_expand_imatra_desc: "Іматра швидко стала одним з найбільших міст-виробників сталі. Транспортування через озеро Саймаа тісніше пов'язує його з нашою національною інфраструктурою."
 
- FIN_finlayson_textiles: "Finlayson Textiles"
- FIN_finlayson_textiles_desc: "The 'Manchester of Finland' - Tampere - is the largest concentration of industry in the Nordic countries, and is particularly known for its massive textile industry."
+ FIN_finlayson_textiles: "Текстиль Finlayson"
+ FIN_finlayson_textiles_desc: "«Фінський Манчестер» — Тампере — є найбільшим промисловим центром у скандинавських країнах і особливо відомий своєю величезною текстильною промисловістю."
 
- FIN_create_pohjolan_voima: "Create Pohjolan Voima"
- FIN_create_pohjolan_voima_desc: "The Rivers and streams of Finland are only waiting to be tapped for energy production. Pohjolan Voima Oy will answer to the growing need of Finnish industries for electricity."
+ FIN_create_pohjolan_voima: "Створити Pohjolan Voima"
+ FIN_create_pohjolan_voima_desc: "Річки та струмки Фінляндії лише чекають, щоб їх використовували для виробництва енергії. Pohjolan Voima Oy відповість на зростаючу потребу фінської промисловості в електроенергії."
 
- FIN_exploit_hydroelectric_power: "Exploit Hydroelectric Power"
- FIN_exploit_hydroelectric_power_desc: "Further spending on hydro power infrastructure should improve the Finnish industry's production ability greatly."
+ FIN_exploit_hydroelectric_power: "Використовувати гідроелектроенергію"
+ FIN_exploit_hydroelectric_power_desc: "Подальші витрати на інфраструктуру гідроелектростанцій повинні значно покращити виробничі можливості фінської промисловості."
 
- FIN_domestic_tire_production: "Domestic Tyre Production"
- FIN_domestic_tire_production_desc: "Nokia Rubber Factory is creating domestic rubber products, primarily shoes and tyres. It is only possible through state subsidies, which are used for acquiring expensive rubber."
+ FIN_domestic_tire_production: "Вітчизняне виробництво шин"
+ FIN_domestic_tire_production_desc: "Гумовий завод Nokia виробляє вітчизняні гумові вироби, переважно взуття та шини. Це можливо лише завдяки державним субсидіям, які використовуються для закупівлі дорогого каучуку."
 
- FIN_radiosonde_experiments: "Radiosonde Experiments"
- FIN_radiosonde_experiments_desc: "The budding electronics production of the country needs money and expertise, and perhaps one day it will become a major industry in the north."
+ FIN_radiosonde_experiments: "Експерименти з радіозондами"
+ FIN_radiosonde_experiments_desc: "Електроніка, що зароджується в країні, потребує грошей та досвіду, і, можливо, одного дня вона стане основною галуззю на півночі."
 
 ### Bookmark ###
  FIN_KR_gathering_storm_desc: "На північній периферії Європи гордо височіє Фінляндія - бастіон німецького впливу в Скандинавії. Виникнувши на уламках Російської імперії, де соціалізм загрожував нації ще на етапі її зародження, королівство перетворилося на вірного союзника Німеччини у боротьбі проти принципів соціалізму та імперіалістичних рук Росії. Але після майже двох десятиліть незалежності під керівництвом монарха та національної коаліції в країні назріває неспокій: чи є Фінляндія справді вільною, чи німецьке панування просто трохи витонченіше, ніж за часів старих царів?"
@@ -408,7 +408,8 @@
  FIN_country_intro_header: "Королівство Фінляндія"
  FIN_country_intro_content: "Після проголошення незалежності від Росії 4 грудня 1917 року, фінське товариство розділилося на два табори: Червону Гвардію, яку вів Алі Аалтонен, і Білу Гвардію, якою керує Карл Густав Маннергейм.\n\nГромадянська війна між Червоною Фінляндією, яка була представлена, в основному, соціал-демократами, та Білою Фінляндією, яка була представлена реакційними силами та німецькими єгерями, стала лише питанням часу.\n\nПісля трьох місяців кровопролитних битв, Білі, за підтримки Німеччини, вибили Червоних та їхню Народну Делегацію зі столиці.\n\nЗ попелу війни народилася нова антисоціалістична Фінляндія, на чолі з принцом Фредеріком Карлом Гессенським, який був коронований як Фредерік Каарле I, у відповідність до фінської традиції.\n\nНезважаючи на відносно спокійні роки буття німецьким протекторатом, фінський народ став все більш негативно налаштованим проти своїх господарів, чиї компанії вбили національну економіку, а офіцери диктують королеві, що робити. Радикали лівого та правого спрямування нарощують силу, а король та Національна Коаліція намагаються просто не помічати проблеми..."
 
- FIN_guide: "§MKingdom - National Coalition§! ($authoritarian_democrat_coloured$)\n£white_dot Send the police and defeat the Lapua plot, or do not send the police and have the Jägers defeat the Lapua coup.\n£white_dot Wait until 1 March 1937 or get your Karelian claims to unlock the rest of the Monarchy tree.\n\n§MMannerheim Clique§! ($paternal_autocrat_coloured$)\n£white_dot Do not send the police, have the Lapua Movement and the Red Guard fight.\n£white_dot Have Mannerheim rally the White Guard and come out on top.\n£white_dot Let him hold onto power.\n\n§MDemocracy§! ($social_liberal_coloured$ / $social_democrat_coloured$ / $social_conservative_coloured$)\n£white_dot Same as above, but have Mannerheim relinquish power to the parties immediately.\n\n§MLapua Movement§! ($national_populist_coloured$)\n£white_dot Do not send the police.\n£white_dot Let the Lapua Movement take power during their march on parliament.\n\n§MPeople's Delegation§! ($syndicalist_coloured$)\n£white_dot Same as above, but have the Red Guard fight the Lapua Movement during their attempted takeover.\n£white_dot Choose to have the Finnish People's Delegation take power.\n\n§MRed Guards§! ($totalist_coloured$)\n£white_dot Same as above, but after taking the focus \"Disband the Red Guard\", either weaken the Red Guard and have the later disbanding fail, or let them catch on and take over."
+ FIN_guide: "§MКоролівство - Національна коаліція§! ($authoritarian_democrat_coloured$)\n£white_dot Надішліть поліцію і придушіть змову Лапуа, або не надсилайте поліцію і дозвольте єгерям придушити переворот Лапуа.\n£white_dot Зачекайте до 1 березня 1937 року або отримайте свої карельські претензії, щоб розблокувати решту дерева монархії.\n\n§MКліка Маннергейма§! ($paternal_autocrat_coloured$)\n£white_dot Не надсилайте поліцію, дозвольте Руху Лапуа та Червоній гвардії битися.\n£white_dot Дозвольте Маннергейму згуртувати Білу гвардію та вийти переможцем.\n£white_dot Дозвольте йому утримувати владу.\n\n§MДемократія§! ($social_liberal_coloured$ / $social_democrat_coloured$ / $social_conservative_coloured$)\n£white_dot Те ж саме, що й вище, але дозвольте Маннергейму негайно передати владу партіям.\n\n§MРух Лапуа§! ($national_populist_coloured$)\n£white_dot Не надсилайте поліцію.\n£white_dot Дозвольте Руху Лапуа захопити владу під час їхнього походу на парламент.\n\n§MНародна делегація§! ($syndicalist_coloured$)\n£white_dot Те ж саме, що й вище, але дозвольте Червоній гвардії битися з Рухом Лапуа під час їхньої спроби перевороту.\n£white_dot Оберіть, щоб владу взяла Фінська народна делегація.\n\n§MЧервоногвардійці§! ($totalist_coloured$)\n£white_dot Те ж саме, що й вище, але після взяття фокуса «Розпустити Червону гвардію», або ослабте Червону гвардію і проваліть її подальший розпуск, або дозвольте їм розгадати ваші плани і захопити владу."
+
 
 ### Events ###
 
@@ -683,10 +684,10 @@
  finland_events.120.a: "Звичайно, товариші!"
  finland_events.120.b: "Вони думають це Інтернаціонал?"
 
- finland_events.1200.t: "The Eastern Front of the Internationale"
- finland_events.1200.request: "Though we have managed to protect the revolution at home, as the world enters crisis after crisis, we remain far from our allies in the West. However, this does not mean we are alone in the East. Now, [RUS.GetNameDef] has embraced the revolutionary cause and stands as the largest Socialist nation in the world. It may be wise to draw closer to nearby [RUS.Capital.GetCapitalVictoryPointName], lest [INT.GetNameDef] proves to far off to support us."
- finland_events.1200.a: "We shall join them."
- finland_events.1200.b: "We'd rather join [INT.GetNameDef]."
+ finland_events.1200.t: "Східний фронт Інтернаціоналу"
+ finland_events.1200.request: "Хоча нам і вдалося захистити революцію вдома, оскільки світ переживає кризу за кризою, ми залишаємося далеко від наших союзників на Заході. Однак це не означає, що ми самотні на Сході. Тепер [RUS.GetNameDef] прийняла революційну справу і є найбільшою соціалістичною нацією у світі. Можливо, було б розумно зблизитися з сусіднім [RUS.Capital.GetCapitalVictoryPointName], щоб не виявилося, що [INT.GetNameDef] занадто далеко, аби нас підтримати."
+ finland_events.1200.a: "Ми приєднаємося до них."
+ finland_events.1200.b: "Ми краще приєднаємося до [INT.GetNameDef]."
 
  finland_events.121.t: "[FROM.GetNameDefCap] погоджується!"
  finland_events.121.d: "Ми отримали звістку про те, що Франція прийняла нас теплою душею і дозволила разом боротися зі світовим капіталізмом. Разом, ми знищимо цих капіталістів!"
@@ -722,32 +723,32 @@
  finland_events.132.d: "Міністерство закордонних справ Німеччини, наголосивши, що ми стабілізували наш уряд після періоду потрясінь, знову простягло руку дружби нашому народу. Ми знову є частиною Райхспакту."
  finland_events.132.a: "Наша безпека гарантована."
 
- finland_events.133.t: "Fall of the Kingdom of Finland" # (!)
- finland_events.133.d.natpop: "Founded in the ashes of the Russian Empire, the Kingdom of Finland had remained since the end of the Great War a nation thoroughly entrenched in the German sphere. It appears now though that this was not meant to last. In the wake of Black Monday, the Finnish government was thrown into crisis as political violence spiralled out of control. Unable to maintain order, the regime finally collapsed.\n\nThe ultranationalist Lapua Movement under Kurt Martti Wallenius, now leader of the Republic of Finland, marched on Helsinki, seizing power and unleashing a wave of violence against monarchists and socialists alike. Authoritarian, corporatist, and virulently anti-German, the movement no doubt represents a violent break with the old order." # (!)
- finland_events.133.d.syndicalist: "Founded in the ashes of the Russian Empire, the Kingdom of Finland had remained since the end of the Great War a nation thoroughly entrenched in the German sphere. It appears now though that this was not meant to last. In the wake of Black Monday, the Finnish government was thrown into crisis as political violence spiralled out of control. Unable to maintain order, the regime finally collapsed.\n\nAfter days of intense fighting in Helsinki, the syndicalist Finnish People's Delegation and the Red Guard paramilitary were able to triumph over the nationalist groups and government forces, seizing power and declaring a republic. The new socialist regime has cut all ties to Mitteleuropa, already looking towards Paris for a new benefactor." # (!)
- finland_events.133.d.mannerheim: "Founded in the ashes of the Russian Empire, the Kingdom of Finland had remained since the end of the Great War a nation thoroughly entrenched in the German sphere. It appears now though that this was not meant to last. In the wake of Black Monday, the Finnish government was thrown into crisis as political violence spiralled out of control. Unable to maintain order, the regime finally collapsed.\n\nUnder the leadership of the well-respected Field Marshal, Carl Gustaf Mannerheim, the White Guard was rallied to overthrow the monarchy and defeat socialist and ultranationalist militias, expelling German influence in the process. Now that the marshal has emerged victorious, he has stated his intent to hold onto power until Finland can be fully stabilised." # (!)
- finland_events.133.d.democracy: "Founded in the ashes of the Russian Empire, the Kingdom of Finland had remained since the end of the Great War a nation thoroughly entrenched in the German sphere. It appears now though that this was not meant to last. In the wake of Black Monday, the Finnish government was thrown into crisis as political violence spiralled out of control. Unable to maintain order, the regime finally collapsed.\n\nUnder the leadership of the well-respected Field Marshal, Carl Gustaf Mannerheim, the White Guard was rallied to overthrow the monarchy and defeat socialist and ultranationalist militias, expelling German influence in the process. Now that the marshal has emerged victorious, he has decided to relinquish power to the political parties, restoring democracy." # (!)
- finland_events.133.a: "Those fools!" # (!)
- finland_events.133.b: "Reactionary bickering." # (!)
- finland_events.133.c: "Another blow to German influence." # (!)
- finland_events.133.d: "Free at last!" # (!)
- finland_events.133.e: "Excellent!" # (!)
+ finland_events.133.t: "Падіння Королівства Фінляндія" # (!)
+ finland_events.133.d.natpop: "Засноване на руїнах Російської імперії, Королівство Фінляндія з кінця Великої війни залишалося країною, міцно вкоріненою в німецькій сфері. Проте, схоже, цьому не судилося тривати довго. Внаслідок Чорного понеділка фінський уряд опинився в кризі, оскільки політичне насильство вийшло з-під контролю. Не в змозі підтримувати порядок, режим нарешті впав.\n\nУльтранаціоналістичний рух Лапуа під керівництвом Курта Мартті Валленіуса, теперішнього лідера Республіки Фінляндія, увійшов до Гельсінкі, захопив владу і розв'язав хвилю насильства як проти монархістів, так і проти соціалістів. Авторитарний, корпоративістський та затято антинімецький, цей рух, безсумнівно, являє собою жорстокий розрив зі старим порядком." # (!)
+ finland_events.133.d.syndicalist: "Засноване на руїнах Російської імперії, Королівство Фінляндія з кінця Великої війни залишалося країною, міцно вкоріненою в німецькій сфері. Проте, схоже, цьому не судилося тривати довго. Внаслідок Чорного понеділка фінський уряд опинився в кризі, оскільки політичне насильство вийшло з-під контролю. Не в змозі підтримувати порядок, режим нарешті впав.\n\nПісля кількох днів запеклих боїв у Гельсінкі синдикалістська Фінська народна делегація та парамілітарна Червона гвардія змогли перемогти націоналістичні групи та урядові сили, захопивши владу та проголосивши республіку. Новий соціалістичний режим розірвав усі зв'язки з Міттельєвропою, вже шукаючи нового покровителя в Парижі." # (!)
+ finland_events.133.d.mannerheim: "Засноване на руїнах Російської імперії, Королівство Фінляндія з кінця Великої війни залишалося країною, міцно вкоріненою в німецькій сфері. Проте, схоже, цьому не судилося тривати довго. Внаслідок Чорного понеділка фінський уряд опинився в кризі, оскільки політичне насильство вийшло з-під контролю. Не в змозі підтримувати порядок, режим нарешті впав.\n\nПід керівництвом шанованого фельдмаршала Карла Густава Маннергейма Біла гвардія була згуртована для повалення монархії та розгрому соціалістичних та ультранаціоналістичних ополчень, вигнавши при цьому німецький вплив. Тепер, коли маршал здобув перемогу, він заявив про свій намір утримувати владу до повної стабілізації Фінляндії." # (!)
+ finland_events.133.d.democracy: "Засноване на руїнах Російської імперії, Королівство Фінляндія з кінця Великої війни залишалося країною, міцно вкоріненою в німецькій сфері. Проте, схоже, цьому не судилося тривати довго. Внаслідок Чорного понеділка фінський уряд опинився в кризі, оскільки політичне насильство вийшло з-під контролю. Не в змозі підтримувати порядок, режим нарешті впав.\n\nПід керівництвом шанованого фельдмаршала Карла Густава Маннергейма Біла гвардія була згуртована для повалення монархії та розгрому соціалістичних та ультранаціоналістичних ополчень, вигнавши при цьому німецький вплив. Тепер, коли маршал здобув перемогу, він вирішив передати владу політичним партіям, відновивши демократію." # (!)
+ finland_events.133.a: "Ці дурні!" # (!)
+ finland_events.133.b: "Реакційні чвари." # (!)
+ finland_events.133.c: "Ще один удар по німецькому впливу." # (!)
+ finland_events.133.d: "Нарешті вільні!" # (!)
+ finland_events.133.e: "Чудово!" # (!)
 
- finland_events.140.t: "[From.GetNameDefCap] Seeks Autonomy Within the [Root.GetFactionName]" # (!)
- finland_events.140.d.start: "During the Second Weltkrieg, the mere idea of members of the Reichspakt abandoning their responsibilities to protect Germany and Europe against syndicalism and Russian expansionism was seen as nothing more than traitorous. However, in the aftermath of the war, with our victory over the greatest threat east of the Dnieper now secured, such an idea has moved from the fringes of our allied nations' opposition, to the annals of their governments. However, what comes as a great surprise to Berlin is who seeks to be free from Germany today - Finland.\n\nIn spite of our nations' amicable relationship, one which has been strengthened through the rule of King [Root.GetLeader], Wilhelm II's" # (!)
- finland_events.140.d.end: "the Kingdom of Finland now sees our \"special relationship\" as all but unnecessary in the face of peace in Eastern Europe. While parts of the Reichstag see this as being a complete betrayal of the relationship between Finland and Germany, others understand Finland's apprehension towards continuing such a close relationship. Some even remember the naivety of Wilhelm II, and how he believed that the first Weltkrieg would be over quickly due to the familial ties of the royalty of Europe. The fool he once was.\n\nUltimately, the decision falls to [Root.GetSecondInCommand]. Whether Finland will continue their own endeavours without our direct oversight will be decided by the stroke of a pen." # (!)
- finland_events.140.d.kaarle: "$finland_events.140.d.start$ brother-in-law, $finland_events.140.d.end$" # (!)
- finland_events.140.d.vaino: "$finland_events.140.d.start$ nephew, $finland_events.140.d.end$" # (!)
- finland_events.140.a: "They have done their duty, allow them their independence." # (!)
- finland_events.140.b: "We may need them at hand for the next war." # (!)
+ finland_events.140.t: "[From.GetNameDefCap] прагне автономії в межах [Root.GetFactionName]" # (!)
+ finland_events.140.d.start: "Під час Другого Вельткригу сама ідея про те, що члени Райхспакту можуть знехтувати своїми обов'язками із захисту Німеччини та Європи від синдикалізму та російського експансіонізму, вважалася не чим іншим, як зрадою. Однак після війни, коли наша перемога над найбільшою загрозою на схід від Дніпра була забезпечена, така ідея перейшла з маргінесу опозиції наших союзних націй до анналів їхніх урядів. Проте великим сюрпризом для Берліна стало те, хто сьогодні прагне звільнитися від Німеччини — Фінляндія.\n\nПопри дружні стосунки наших націй, зміцнені правлінням короля [Root.GetLeader], шваґра Вільгельма II," # (!)
+ finland_events.140.d.end: "Королівство Фінляндія тепер вважає наші «особливі відносини» абсолютно непотрібними в умовах миру у Східній Європі. Хоча частина Рейхстагу вбачає в цьому повну зраду відносин між Фінляндією та Німеччиною, інші розуміють побоювання Фінляндії щодо продовження таких тісних зв'язків. Дехто навіть згадує наївність Вільгельма II і те, як він вірив, що перший Вельткриг швидко закінчиться через родинні зв'язки європейських монархів. Яким же дурнем він колись був.\n\nЗрештою, рішення залишається за [Root.GetSecondInCommand]. Чи продовжить Фінляндія свої власні справи без нашого прямого нагляду, буде вирішено одним розчерком пера." # (!)
+ finland_events.140.d.kaarle: "$finland_events.140.d.start$ шваґра, $finland_events.140.d.end$" # (!)
+ finland_events.140.d.vaino: "$finland_events.140.d.start$ племінника, $finland_events.140.d.end$" # (!)
+ finland_events.140.a: "Вони виконали свій обов'язок, дайте їм незалежність." # (!)
+ finland_events.140.b: "Вони можуть знадобитися нам у наступній війні." # (!)
 
- finland_events.141.t: "[From.GetNameDefCap] Grants Us Diplomatic Autonomy" # (!)
- finland_events.141.d: "Thanks to our efforts, as well as the support of key sympathetic members in the German Reichstag, Finland now stands independent. With our duties complete and the war in the east finally over, many Finnish veterans greet the news warmly, knowing that their efforts have assured that the next generation will find peace in the land their forefathers fought valiantly to protect.\n\nToday, a military parade was held in Helsinki. German soldiers performed a military march in the Senaatintori (Senate Square), with King [Root.GetLeader] in attendance. Once the formalities were complete, the King gave a short speech for his German compatriots:\n\n\"To the soldiers of Germany, the nation of Finland and its people are eternally thankful for your efforts during both Weltkriegs. Had it not been for your efforts in nineteen-seventeen, Finland may have found itself subjugated once more. And now, through the efforts of these past few years, we once again stand free. We thank you for all that you've done. And while our national relationship changes, our kinship does not, we are eternally grateful for the future you have bestowed upon us.\"" # (!)
- finland_events.141.a: "For a generation of peace for Finland!" # (!)
+ finland_events.141.t: "[From.GetNameDefCap] надає нам дипломатичну автономію" # (!)
+ finland_events.141.d: "Завдяки нашим зусиллям, а також підтримці ключових прихильників у німецькому Рейхстазі, Фінляндія тепер є незалежною. З виконаними обов'язками та завершенням війни на сході, багато фінських ветеранів тепло сприймають цю новину, знаючи, що їхні зусилля забезпечили мир для наступного покоління на землі, яку їхні предки відважно захищали.\n\nСьогодні в Гельсінкі відбувся військовий парад. Німецькі солдати пройшли військовим маршем на Сенатській площі (Senaatintori) у присутності короля [Root.GetLeader]. Після завершення формальностей король виголосив коротку промову для своїх німецьких співвітчизників:\n\n«Солдатам Німеччини, нація Фінляндії та її народ вічно вдячні за ваші зусилля під час обох Вельткригів. Якби не ваші зусилля в 1917 році, Фінляндія могла б знову опинитися під гнітом. І тепер, завдяки зусиллям останніх кількох років, ми знову вільні. Ми дякуємо вам за все, що ви зробили. І хоча наші національні відносини змінюються, наше споріднення — ні, ми вічно вдячні за майбутнє, яке ви нам подарували»." # (!)
+ finland_events.141.a: "За покоління миру для Фінляндії!" # (!)
 
- finland_events.142.t: "[From.GetNameDefCap] Denies Our Autonomy Within the Reichspakt" # (!)
- finland_events.142.d: "Two Weltkriegs have defined two generations of Finns. In the First Weltkrieg, the Finnish people would take a risk to achieve independence. In the Second Weltkrieg, the sons of those veterans would fight for what their fathers gave everything for. Both times, Finland has survived. And both times, Germany stood by Finland.\n\nBecause of this - along with the risk of a new war looming over Europe - the German Reichstag has denied us our diplomatic autonomy. The veterans of the Second Weltkrieg and, soon, their sons will stand side by side with their German brothers-in-arms for the foreseeable future. For Berlin, the risk of war demands a strong and unified Europe. For Finland and her people, however, all this means is that peace, true peace, may not be found. The threat of war may forever loom over Finland, and another generation of Finns may have to die once more—perhaps not even on Finnish land itself.\n\nKing [Root.GetLeader] sat with the Päämaja (Defence Command), preparing future defense plans. Garrisons in Lappland. Border guards on the east and west. Coast guard along the cities. Minelaying routes along the coast. Expeditionary forces to Germany. Convoy routes for troops abroad. A strenuous chain of responsibilities for both Finland and the whole of Europe. [Root.GetLeader] wondered if the Finnish people were truly happy. " # (!)
- finland_events.142.a: "To another generation of war." # (!)
+ finland_events.142.t: "[From.GetNameDefCap] відмовляє нам в автономії в межах Райхспакту" # (!)
+ finland_events.142.d: "Два Вельткриги визначили два покоління фінів. У Першому Вельткризі фінський народ ризикнув, щоб здобути незалежність. У Другому Вельткризі сини тих ветеранів воювали за те, за що їхні батьки віддали все. Обидва рази Фінляндія вижила. І обидва рази Німеччина стояла поруч з Фінляндією.\n\nЧерез це, а також через ризик нової війни, що нависає над Європою, німецький Рейхстаг відмовив нам у дипломатичній автономії. Ветерани Другого Вельткригу і, незабаром, їхні сини стоятимуть пліч-о-пліч зі своїми німецькими братами по зброї в осяжному майбутньому. Для Берліна ризик війни вимагає сильної та єдиної Європи. Для Фінляндії та її народу, однак, все це означає, що мир, справжній мир, може бути не знайдений. Загроза війни може вічно нависати над Фінляндією, і ще одне покоління фінів, можливо, знову доведеться помирати — можливо, навіть не на фінській землі.\n\nКороль [Root.GetLeader] сидів з Головним штабом (Päämaja), готуючи майбутні плани оборони. Гарнізони в Лапландії. Прикордонники на сході та заході. Берегова охорона вздовж міст. Маршрути мінування вздовж узбережжя. Експедиційні сили до Німеччини. Конвойні маршрути для військ за кордон. Важкий ланцюг обов'язків як для Фінляндії, так і для всієї Європи. [Root.GetLeader] замислився, чи справді щасливий фінський народ." # (!)
+ finland_events.142.a: "До ще одного покоління війни." # (!)
 
 ### Companies ###
  FIN_outokumpu: "Outokumpu"
@@ -784,7 +785,8 @@
  FIN_sisu_desc: "Сісу є унікальним фінським виразом життєстійкості народу країни. Фінляндія зіткнулася з важкими випробуваннями та зробить це знову."
 
  FIN_mounting_dissent_idea: "Зростання невдоволення"
- FIN_mounting_dissent_idea_desc: "The Finnish people have been witness to the rapid German influence that has proliferated throughout the nation ever since the establishment of the Kingdom of Finland in 1918 following the victory of the White Guard in the Civil War. This influence can be seen in the form of treaties, German companies in the private sector, German-made weaponry, and the king himself, who is of German descent. As a result, the Finnish people have slowly begun to resent the increasingly tightening grip the German juggernaut has had on the kingdom, resulting in dissent which threatens to boil over at any moment."
+ FIN_mounting_dissent_idea_desc: "Фінський народ став свідком стрімкого поширення німецького впливу по всій країні з моменту створення Королівства Фінляндія в 1918 році після перемоги Білої гвардії в Громадянській війні. Цей вплив можна побачити у формі договорів, німецьких компаній у приватному секторі, зброї німецького виробництва та самого короля, який має німецьке походження. В результаті фінський народ поступово почав обурюватися все більш міцною хваткою німецького гіганта над королівством, що призвело до невдоволення, яке загрожує вибухнути будь-якої миті."
+
 
  FIN_labour_strike_idea: "Робочі страйки"
  FIN_finnish_sovereignty_idea: "Фінська незалежність"
@@ -817,24 +819,26 @@
  FIN_progressive_taxation_idea: "Прогресивний податок"
  FIN_constitution_of_finland_idea: "Республіканська конституція"
 
- FIN_grain_issue: "The Grain Issue"
+ FIN_grain_issue: "Зернове питання"
  FIN_black_monday_idea: "Чорний Понеділок"
  FIN_relief_fortification_work_idea: "$FIN_relief_fortification_work$"
  FIN_road_building_programme_idea: "$FIN_road_building_programme$"
- FIN_nationalised_banking_system: "Nationalised Banking System"
+ FIN_nationalised_banking_system: "Націоналізована банківська система"
  FIN_oy_alkoholiliike: "Oy Alkoholiliike"
 
- FIN_suomen_maavoimat: "Suomen Maavoimat"
- FIN_suomen_ilmavoimat: "Suomen Ilmavoimat"
- FIN_suomen_merivoimat: "Suomen Merivoimat"
- FIN_industrial_modernisation: "Industrial Modernisation"
- FIN_merchant_marine: "Merchant Marine"
- FIN_joint_german_finnish_naval_projects: "Joint German-Finnish Naval Projects"
+ FIN_suomen_maavoimat: "Сухопутні війська Фінляндії"
+ FIN_suomen_ilmavoimat: "Повітряні сили Фінляндії"
+ FIN_suomen_merivoimat: "Військово-морські сили Фінляндії"
+ FIN_industrial_modernisation: "Промислова модернізація"
+ FIN_merchant_marine: "Торговельний флот"
+ FIN_joint_german_finnish_naval_projects: "Спільні німецько-фінські морські проєкти"
+
 
 ### Flags ###
  FIN_red_guard_weakening_success: "Червона гвардія була ослаблена"
- FIN_red_guard_weakening_fail: "The Red Guard stands strong"
- FIN_black_monday_decision_ongoing: "Another Black Monday measure is currently ongoing"
+ FIN_red_guard_weakening_fail: "Червона гвардія тримається міцно"
+ FIN_black_monday_decision_ongoing: "Наразі триває інший захід у рамках «Чорного понеділка»"
+
 
 ### Tooltips ###
  FIN_democracy_triumphant_tooltip: "§GСоціал-демократи, аграрії або їхня коаліція має бути при владі§!."
@@ -853,18 +857,20 @@
  FIN_maavoimat_custom_modifier_recon_tactics: "[tech_extensive_reconnaissance_effect][tech_anti_armour_tactics_effect]"
 
  FIN_suomen_merivoimat_custom_modifier_tooltip: "[FIN_GetMerivoimatCustomModifierTooltip]"
- FIN_screen_production_bonus: "§Y$screen_ship$§!: £GFX_production_cost  Production Cost:  [?-0.1|=-%]"
+ FIN_screen_production_bonus: "§Y$screen_ship$§!: £GFX_production_cost  Вартість виробництва:  [?-0.1|=-%]"
 
- FIN_increases_export_fleets_rewards: "§CCompletion of this focus increases the effects granted by the focus §Y$FIN_expand_export_fleets$§!§!."
- FIN_export_fleets_extra_rewards_andros: "§CCompletion of the focus §Y$FIN_expand_andree_rosenqvist$§! will increase the effect of this focus to:§!"
- FIN_export_fleets_extra_rewards_bases: "§CCompletion of the focus §Y$FIN_baltic_naval_bases$§! will increase the effect of this focus to:§!"
- FIN_export_fleets_extra_rewards_crichton: "§CCompletion of the focus §Y$FIN_expand_crichton_vulcan$§! will increase the effect of this focus to:§!"
- FIN_export_fleets_extra_rewards_bases_crichton: "§CCompletion of the foci §Y$FIN_baltic_naval_bases$§! and §Y$FIN_expand_crichton_vulcan$§! will each increase the effect of this focus to a maximum of:§!"
- FIN_export_fleets_extra_rewards_andros_bases: "§CCompletion of the foci §Y$FIN_expand_andree_rosenqvist$§! and §Y$FIN_expand_crichton_vulcan$§! will each increase the effect of this focus to a maximum of:§!"
- FIN_export_fleets_extra_rewards_all: "§CCompletion of the foci §Y$FIN_expand_andree_rosenqvist$§!, §Y$FIN_baltic_naval_bases$§! and §Y$FIN_expand_crichton_vulcan$§! will each increase the effect of this focus to a maximum of:§!"
+ FIN_increases_export_fleets_rewards: "§CЗавершення цього фокуса посилює ефекти, що надаються фокусом §Y$FIN_expand_export_fleets$§!§!."
+ FIN_export_fleets_extra_rewards_andros: "§CЗавершення фокуса §Y$FIN_expand_andree_rosenqvist$§! посилить ефект цього фокуса до:§!"
+ FIN_export_fleets_extra_rewards_bases: "§CЗавершення фокуса §Y$FIN_baltic_naval_bases$§! посилить ефект цього фокуса до:§!"
+ FIN_export_fleets_extra_rewards_crichton: "§CЗавершення фокуса §Y$FIN_expand_crichton_vulcan$§! посилить ефект цього фокуса до:§!"
+ FIN_export_fleets_extra_rewards_bases_crichton: "§CЗавершення фокусів §Y$FIN_baltic_naval_bases$§! та §Y$FIN_expand_crichton_vulcan$§! посилить ефект цього фокуса до максимального значення:§!"
+ FIN_export_fleets_extra_rewards_andros_bases: "§CЗавершення фокусів §Y$FIN_expand_andree_rosenqvist$§! та §Y$FIN_expand_crichton_vulcan$§! посилить ефект цього фокуса до максимального значення:§!"
+ FIN_export_fleets_extra_rewards_all: "§CЗавершення фокусів §Y$FIN_expand_andree_rosenqvist$§!, §Y$FIN_baltic_naval_bases$§! та §Y$FIN_expand_crichton_vulcan$§! посилить ефект цього фокуса до максимального значення:§!"
+
+
 
 ### Dynamic Modifiers ###
- FIN_karelian_fortifications_modifier: "Karelian Fortifications"
+ FIN_karelian_fortifications_modifier: "Карельські укріплення"
 
 ### Opinion Modifiers ###
  FIN_curtailed_swedish_rights: "Урізали права етнічних шведів"
@@ -876,8 +882,8 @@
  FIN_did_not_recognise_our_independence: "Не визнали нас"
 
 ### Decisions ###
-FIN_equal_RP_membership: "Request Further Independence" # (!)
- FIN_equal_RP_membership_desc: "Not alone do we share the laurels of victory with our German allies, but also the origins of our monarchy, and our steadfast defence against the far left. Now with Russia defeated, it is the time to stand with the German Empire are equals, not subjects." # (!)
+ FIN_equal_RP_membership: "Просити про більшу незалежність" # (!)
+ FIN_equal_RP_membership_desc: "Ми не лише ділимо лаври перемоги з нашими німецькими союзниками, а й походження нашої монархії та нашу непохитну оборону проти крайніх лівих. Тепер, коли Росію переможено, настав час стояти пліч-о-пліч з Німецькою імперією як рівні, а не як піддані." # (!)
  FIN_join_nordic_council: "Вступити в [FROM.GetFactionName]"
  FIN_join_nordic_council_desc: "[FROM.GetFactionName] був заснований за участі Данії, Норвегії та Швеції з метою стримування зовнішніх сил від вторгнення в регіон. Так як ми поділяємо бажання тримати зовнішніх гравців, таких як Росія, за межами Скандинавського регіону, чи варто нам подавати заявку на вступ до альянсу?"
  FIN_join_nordic_federation: "Вступити в Нордичну Федерацію"
@@ -894,9 +900,9 @@ FIN_equal_RP_membership: "Request Further Independence" # (!)
  FIN_seek_new_markets: "Шукати нові ринки збуту"
  FIN_inflation_control_measures: "Заходи боротьби з інфляцією"
 
- FIN_expansion_decisions: "Greater Finland"
- FIN_claim_karelia: "Reassert the Eastern Claims"
- FIN_claim_kola: "Claim the White Sea"
+ FIN_expansion_decisions: "Велика Фінляндія"
+ FIN_claim_karelia: "Відновити східні претензії"
+ FIN_claim_kola: "Претендувати на Біле море"
 
 ### Country Names ###
  FIN: "Фінляндія"
@@ -926,118 +932,118 @@ FIN_equal_RP_membership: "Request Further Independence" # (!)
  FIN_monarchy_national_populist_DEF: "Національна Республіка Фінляндія"
 
 ### Characters ###
- FIN_otto_wille_kuusinen: "Otto Wille Kuusinen"
- FIN_otto_wille_kuusinen_leader_desc: "§YBorn:§! §LOctober 4th, 1881, in Laukaa, Vasa Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_niilo_wallari: "Niilo Wälläri"
- FIN_niilo_wallari_leader_desc: "§YBorn:§! §LJuly 5th, 1897, in Punkalaidun, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_oskari_tokoi: "Oskari Tokoi"
- FIN_oskari_tokoi_leader_desc: "§YBorn:§! §LMay 15th, 1873, in Kannus, Vasa Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_vaino_tanner: "Väinö Tanner"
- FIN_vaino_tanner_leader_desc: "§YBorn:§! §LMarch 12th, 1881, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_kyosti_kallio: "Kyösti Kallio"
- FIN_kyosti_kallio_leader_desc: "§YBorn:§! §LApril 10th, 1873, in Ylivieska, Vasa Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_heikki_ritavuori: "Heikki Ritavuori"
- FIN_heikki_ritavuori_leader_desc: "§YBorn:§! §LMarch 23rd, 1880, in Turku, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_pehr_evind_svinhufvud: "Pehr Evind Svinhufvud"
- FIN_pehr_evind_svinhufvud_leader_desc: "§YBorn:§! §LDecember 15th, 1861, in Sääksmäki, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_carl_gustaf_mannerheim: "Carl Gustaf Mannerheim"
- FIN_carl_gustaf_mannerheim_leader_desc: "§YBorn:§! §LJune 4th, 1867, in Askainen, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_juho_kusti_paasikivi: "Juho Kusti Paasikivi"
- FIN_juho_kusti_paasikivi_leader_desc: "§YBorn:§! §LNovember 27th, 1870, in Koski, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
+ FIN_otto_wille_kuusinen: "Отто Вілле Куусінен"
+ FIN_otto_wille_kuusinen_leader_desc: "§YНародився:§! §L4 жовтня 1881 року, Лаукаа, Вазаська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_niilo_wallari: "Нійло Вяллярі"
+ FIN_niilo_wallari_leader_desc: "§YНародився:§! §L5 липня 1897 року, Пункалайдун, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_oskari_tokoi: "Оскарі Токой"
+ FIN_oskari_tokoi_leader_desc: "§YНародився:§! §L15 травня 1873 року, Каннус, Вазаська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_vaino_tanner: "Вяйньо Таннер"
+ FIN_vaino_tanner_leader_desc: "§YНародився:§! §L12 березня 1881 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_kyosti_kallio: "Кюесті Калліо"
+ FIN_kyosti_kallio_leader_desc: "§YНародився:§! §L10 квітня 1873 року, Юлівієска, Вазаська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_heikki_ritavuori: "Гейккі Рітавуорі"
+ FIN_heikki_ritavuori_leader_desc: "§YНародився:§! §L23 березня 1880 року, Турку, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_pehr_evind_svinhufvud: "Пер Евінд Свінгуфвуд"
+ FIN_pehr_evind_svinhufvud_leader_desc: "§YНародився:§! §L15 грудня 1861 року, Сяяксмякі, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_carl_gustaf_mannerheim: "Карл Густав Маннергейм"
+ FIN_carl_gustaf_mannerheim_leader_desc: "§YНародився:§! §L4 червня 1867 року, Аскайнен, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_juho_kusti_paasikivi: "Юго Кусті Паасіківі"
+ FIN_juho_kusti_paasikivi_leader_desc: "§YНародився:§! §L27 листопада 1870 року, Коскі, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
 
- FIN_friedrich_karl_von_hessen_kassel: "Friedrich Karl von Hessen-Kassel"
- FIN_friedrich_karl_von_hessen_kassel_regnal: "Fredrik Kaarle"
- FIN_friedrich_karl_von_hessen_kassel_leader_desc: "§YBorn:§! §LMay 1st, 1868, in Panker Castle, Plön, Province of Schleswig-Holstein, Kingdom of Prussia, North German Confederation§!\n§YBackground:§! §LFriedrich Karl von Hessen-Kassel, Kaiser Wilhelm's brother-in-law, was elected King of Finland by the Finnish parliament on 9 October 1918 and arrived with his son prince Wolfgang as future crown prince in 1919. He has proven to be a stern, silent man, who directs the country with a firm hand alongside his supporters in the National Coalition Party.\n\nIn more recent years however, the Finnish King of German heritage has increasingly developed into a symbol of German influence in Finland and despite his best attempts, his popularity that had been growing in the wake of reconstructing the country has waned beyond loyalists of the National Coalition.§!"
+ FIN_friedrich_karl_von_hessen_kassel: "Фрідріх Карл Гессен-Кассельський"
+ FIN_friedrich_karl_von_hessen_kassel_regnal: "Фредрік Каарле"
+ FIN_friedrich_karl_von_hessen_kassel_leader_desc: "§YНародився:§! §L1 травня 1868 року, замок Панкер, Плен, провінція Шлезвіг-Гольштейн, Королівство Пруссія, Північнонімецька конфедерація§!\n§YЖиттєпис:§! §LФрідріх Карл Гессен-Кассельський, шваґер кайзера Вільгельма, був обраний королем Фінляндії фінським парламентом 9 жовтня 1918 року і прибув зі своїм сином, принцом Вольфгангом, як майбутнім наслідним принцом у 1919 році. Він проявив себе як сувора, мовчазна людина, яка керує країною твердою рукою разом зі своїми прихильниками в Національній коаліційній партії.\n\nОднак останніми роками фінський король німецького походження все більше ставав символом німецького впливу у Фінляндії, і попри всі його зусилля, його популярність, що зростала після відбудови країни, впала за межами лоялістів Національної коаліції.§!"
 
- FIN_wolfgang_von_hessen_kassel: "Wolfgang von Hessen-Kassel"
- FIN_wolfgang_von_hessen_kassel_regnal: "Väinö I"
- FIN_wolfgang_von_hessen_kassel_leader_desc: "§YBorn:§! §LNovember 6th, 1896, in Castle Rumpenheim, Offenbach am Main, Province of Starkenburg, Grand Duchy of Hesse, German Empire§!\n§YBackground:§! §LIf Prince Wolfgang's late father was solemn and distant, his son has done his best to truly integrate into the Finnish high society. He has served in the Finnish army, married a Finnish noblewoman and paid much attention to Finland's economic and cultural life. All this has prepared him to be a well-liked King, perhaps capable of truly solidifying Finland as a monarchy.§!"
+ FIN_wolfgang_von_hessen_kassel: "Вольфганг Гессен-Кассельський"
+ FIN_wolfgang_von_hessen_kassel_regnal: "Вяйньо I"
+ FIN_wolfgang_von_hessen_kassel_leader_desc: "§YНародився:§! §L6 листопада 1896 року, замок Румпенгайм, Оффенбах-на-Майні, провінція Штаркенбург, Велике герцогство Гессен, Німецька імперія§!\n§YЖиттєпис:§! §LЯкщо покійний батько принца Вольфганга був похмурим і відстороненим, то його син зробив усе можливе, щоб по-справжньому інтегруватися у фінське вище суспільство. Він служив у фінській армії, одружився з фінською аристократкою і приділяв багато уваги економічному та культурному життю Фінляндії. Все це підготувало його до ролі улюбленого короля, можливо, здатного по-справжньому зміцнити Фінляндію як монархію.§!"
 
- FIN_kurt_martti_wallenius: "Kurt Martti Wallenius"
- FIN_kurt_martti_wallenius_leader_desc: "§YBorn:§! §LJuly 25th, 1893, in Kuopio, Kuopio Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_vilho_annala: "Vilho Annala"
- FIN_vilho_annala_leader_desc: "§YBorn:§! §LJanuary 17th, 1888, in Lapua, Vasa Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_erik_heinrichs: "Erik Heinrichs"
- FIN_erik_heinrichs_sic_desc: "§YBorn:§! §LJuly 21st, 1890, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_lauri_malmberg: "Lauri Malmberg"
- FIN_lauri_malmberg_army_chief_desc: "§YBorn:§! §LMay 8th, 1888, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_karl_lennart_oesch: "Karl Lennart Oesch"
- FIN_karl_lennart_oesch_commander_desc: "§YBorn:§! §LAugust 8th, 1892, in Pyhäjärvi, Vyborg Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_aksel_airo: "Aksel Airo"
- FIN_aksel_airo_high_command_desc: "§YBorn:§! §LFebruary 14th, 1898, in Turku, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_aaro_pajari: "Aaro Pajari"
- FIN_aaro_pajari_commander_desc: "§YBorn:§! §LJuly 17th, 1897, in Asikkala, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_wiljo_tuompo: "Wiljo Tuompo"
- FIN_wiljo_tuompo_commander_desc: "§YBorn:§! §LSeptember 23rd, 1893, in Pornainen, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_ruben_lagus: "Ruben Lagus"
- FIN_ruben_lagus_high_command_desc: "§YBorn:§! §LOctober 12th, 1896, in Koski, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_vilho_nenonen: "Vilho Nenonen"
- FIN_vilho_nenonen_high_command_desc: "§YBorn:§! §LMarch 6th, 1883, in Kuopio, Kuopio Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_paavo_talvela: "Paavo Talvela"
- FIN_paavo_talvela_commander_desc: "§YBorn:§! §LFebruary 19th, 1897, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_paul_von_gerich: "Paul von Gerich"
- FIN_paul_von_gerich_high_command_desc: "§YBorn:§! §LAugust 9th, 1873, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_hjalmar_siilasvuo: "Hjalmar Siilasvuo"
- FIN_hjalmar_siilasvuo_commander_desc: "§YBorn:§! §LMarch 18th, 1892, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_niilo_hersalo: "Niilo Hersalo"
- FIN_niilo_hersalo_commander_desc: "§YBorn:§! §LMarch 14th, 1895, in Hollola, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_harald_ohquist: "Harald Öhquist"
- FIN_harald_ohquist_commander_desc: "§YBorn:§! §LMarch 1st, 1891, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_hugo_osterman: "Hugo Österman"
- FIN_hugo_osterman_high_command_desc: "§YBorn:§! §LSeptember 5th, 1892, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_aarne_sihvo: "Aarne Sihvo"
- FIN_aarne_sihvo_army_chief_desc: "§YBorn:§! §LNovember 22nd, 1889, in Virolahti, Vyborg Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_vaino_valve: "Väinö Valve"
- FIN_vaino_valve_navy_chief_desc: "§YBorn:§! §LDecember 28th, 1895, in Lappeenranta, Vyborg Governorate, Grand Duchy of Finland, Russian Empire§!"
+ FIN_kurt_martti_wallenius: "Курт Мартті Валленіус"
+ FIN_kurt_martti_wallenius_leader_desc: "§YНародився:§! §L25 липня 1893 року, Куопіо, Куопіоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_vilho_annala: "Вільхо Аннала"
+ FIN_vilho_annala_leader_desc: "§YНародився:§! §L17 січня 1888 року, Лапуа, Вазаська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_erik_heinrichs: "Ерік Гейнрікс"
+ FIN_erik_heinrichs_sic_desc: "§YНародився:§! §L21 липня 1890 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_lauri_malmberg: "Лаурі Мальмберг"
+ FIN_lauri_malmberg_army_chief_desc: "§YНародився:§! §L8 травня 1888 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_karl_lennart_oesch: "Карл Леннарт Еш"
+ FIN_karl_lennart_oesch_commander_desc: "§YНародився:§! §L8 серпня 1892 року, Пюхяярві, Виборзька губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_aksel_airo: "Аксель Айро"
+ FIN_aksel_airo_high_command_desc: "§YНародився:§! §L14 лютого 1898 року, Турку, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_aaro_pajari: "Ааро Паярі"
+ FIN_aaro_pajari_commander_desc: "§YНародився:§! §L17 липня 1897 року, Асіккала, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_wiljo_tuompo: "Вільйо Туомпо"
+ FIN_wiljo_tuompo_commander_desc: "§YНародився:§! §L23 вересня 1893 року, Порнайнен, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_ruben_lagus: "Рубен Лагус"
+ FIN_ruben_lagus_high_command_desc: "§YНародився:§! §L12 жовтня 1896 року, Коскі, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_vilho_nenonen: "Вільхо Ненонен"
+ FIN_vilho_nenonen_high_command_desc: "§YНародився:§! §L6 березня 1883 року, Куопіо, Куопіоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_paavo_talvela: "Пааво Талвела"
+ FIN_paavo_talvela_commander_desc: "§YНародився:§! §L19 лютого 1897 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_paul_von_gerich: "Пауль фон Ґеріх"
+ FIN_paul_von_gerich_high_command_desc: "§YНародився:§! §L9 серпня 1873 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_hjalmar_siilasvuo: "Яльмар Сійласвуо"
+ FIN_hjalmar_siilasvuo_commander_desc: "§YНародився:§! §L18 березня 1892 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_niilo_hersalo: "Нійло Герсало"
+ FIN_niilo_hersalo_commander_desc: "§YНародився:§! §L14 березня 1895 року, Голлола, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_harald_ohquist: "Гаральд Еквіст"
+ FIN_harald_ohquist_commander_desc: "§YНародився:§! §L1 березня 1891 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_hugo_osterman: "Гуго Естерман"
+ FIN_hugo_osterman_high_command_desc: "§YНародився:§! §L5 вересня 1892 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_aarne_sihvo: "Аарне Сігво"
+ FIN_aarne_sihvo_army_chief_desc: "§YНародився:§! §L22 листопада 1889 року, Віролагті, Виборзька губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_vaino_valve: "Вяйньо Вальве"
+ FIN_vaino_valve_navy_chief_desc: "§YНародився:§! §L28 грудня 1895 року, Лаппеенранта, Виборзька губернія, Велике князівство Фінляндське, Російська імперія§!"
  FIN_eero_rahola: "Ееро Рагола"
- FIN_eero_rahola_admiral_desc: "§YBorn:§! §LJanuary 15th, 1897, in Mänttä, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_svante_sundman: "Svante Sundman"
- FIN_svante_sundman_navy_chief_desc: "§YBorn:§! §LMay 12th, 1895, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_tuomas_hyrskymurto: "Tuomas Hyrskymurto"
- FIN_tuomas_hyrskymurto_sic_desc: "§YBorn:§! §LSeptember 14th, 1881, in Turku, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_adolf_taimi: "Adolf Taimi"
- FIN_adolf_taimi_sic_desc: "§YBorn:§! §LOctober 3rd, 1881, in Saint-Petersburg, Saint-Petersburg Governorate, Russian Empire§!"
- FIN_karl_august_fagerholm: "Karl-August Fagerholm"
- FIN_karl_august_fagerholm_sic_desc: "§YBorn:§! §LDecember 31st, 1901, in Siuntio, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_juho_sunila: "Juho Sunila"
- FIN_juho_sunila_sic_desc: "§YBorn:§! §LAugust 16th, 1875, in Liminka, Uleaborg Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_aimo_cajander: "Aimo Cajander"
- FIN_aimo_cajander_sic_desc: "§YBorn:§! §LApril 4th, 1879, in Uusikaupunki, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_edwin_flinck: "Edwin Flinck"
- FIN_edwin_flinck_sic_desc: "§YBorn:§! §LDecember 22nd, 1894, in Vyborg, Vyborg Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_bruno_salmiala: "Bruno Salmiala"
- FIN_bruno_salmiala_sic_desc: "§YBorn:§! §LAugust 24th, 1890, in Saint-Petersburg, Saint-Petersburg Governorate, Russian Empire§!"
- FIN_johan_henrik_lumivuokko: "Johan Henrik Lumivuokko"
- FIN_johan_henrik_lumivuokko_advisor_desc: "§YBorn:§! §LMarch 29th, 1884, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_august_wesley: "August Wesley"
- FIN_august_wesley_advisor_desc: "§YBorn:§! §LAugust 3rd, 1887, in Tampere, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_edvard_gylling: "Edward Gylling"
- FIN_edvard_gylling_advisor_desc: "§YBorn:§! §LNovember 30th, 1881, in Kuopio, Kuopio Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_hella_wuolijoki: "Hella Wuolijoki"
- FIN_hella_wuolijoki_advisor_desc: "§YBorn:§! §LJuly 22nd, 1886, in Helme, Governorate of Livonia, Russian Empire§!"
- FIN_vaino_voionmaa: "Väinö Voionmaa"
- FIN_vaino_voionmaa_advisor_desc: "§YBorn:§! §LFebruary 12th, 1869, in Jyväskylä, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_urho_kekkonen: "Urho Kekkonen"
- FIN_urho_kekkonen_advisor_desc: "§YBorn:§! §LSeptember 3rd, 1900, in Pielavesi, Kuopio Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_eljas_erkko: "Eljas Erkko"
- FIN_eljas_erkko_advisor_desc: "§YBorn:§! §LJune 1st, 1895, in Helsinki, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_risto_ryti: "Risto Ryti"
- FIN_risto_ryti_advisor_desc: "§YBorn:§! §LFebruary 3rd, 1889, in Huittinen, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_rafael_haarla: "Rafael Haarla"
- FIN_rafael_haarla_advisor_desc: "§YBorn:§! §LMarch 6th, 1876, in Korpilahti, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_hjalmar_procope: "Hjalmar Procopé"
- FIN_hjalmar_procope_advisor_desc: "§YBorn:§! §LAugust 8th, 1889, in Stockholm, Uppland Province, Kingdom of Sweden§!"
- FIN_elmo_kaila: "Elmo Kaila"
- FIN_elmo_kaila_advisor_desc: "§YBorn:§! §LFebruary 6th, 1888, in Jokioinen, Tavastehus Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_elias_simojoki: "Elias Simojoki"
- FIN_elias_simojoki_advisor_desc: "§YBorn:§! §LJanuary 28th, 1899, in Rautio, Vasa Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_vihtori_kosola: "Vihtori Kosola"
- FIN_vihtori_kosola_advisor_desc: "§YBorn:§! §LJuly 1884, in Ylihärmä, Vasa Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_aladar_paasonen: "Aladár Paasonen"
- FIN_aladar_paasonen_advisor_desc: "§YBorn:§! §LDecember 11th, 1898, in Budapest, Pest-Pilis-Solt-Kiskun County, Kingdom of Hungary, Austria-Hungary§!"
- FIN_reino_hallamaa: "Reino Hallamaa"
- FIN_reino_hallamaa_advisor_desc: "§YBorn:§! §LMarch 12th, 1899, in Kokemäki, Åbo Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_vaino_vuori: "Väinö Vuori"
- FIN_vaino_vuori_air_chief_desc: "§YBorn:§! §LMay 5th, 1896, in Porvoo, Nyland Governorate, Grand Duchy of Finland, Russian Empire§!"
- FIN_sixtus_hjelmman: "Sixtus Hjelmman"
- FIN_sixtus_hjelmman_air_chief_desc: "§YBorn:§! §LMay 8th, 1869, in Iisalmi, Kuopio Governorate, Grand Duchy of Finland, Russian Empire§!"
+ FIN_eero_rahola_admiral_desc: "§YНародився:§! §L15 січня 1897 року, Мянття, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_svante_sundman: "Сванте Сундман"
+ FIN_svante_sundman_navy_chief_desc: "§YНародився:§! §L12 травня 1895 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_tuomas_hyrskymurto: "Туомас Гюрскюмурто"
+ FIN_tuomas_hyrskymurto_sic_desc: "§YНародився:§! §L14 вересня 1881 року, Турку, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_adolf_taimi: "Адольф Таймі"
+ FIN_adolf_taimi_sic_desc: "§YНародився:§! §L3 жовтня 1881 року, Санкт-Петербург, Санкт-Петербурзька губернія, Російська імперія§!"
+ FIN_karl_august_fagerholm: "Карл-Август Фагергольм"
+ FIN_karl_august_fagerholm_sic_desc: "§YНародився:§! §L31 грудня 1901 року, Сіунтіо, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_juho_sunila: "Юго Суніла"
+ FIN_juho_sunila_sic_desc: "§YНародився:§! §L16 серпня 1875 року, Лімінка, Улеаборзька губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_aimo_cajander: "Аймо Каяндер"
+ FIN_aimo_cajander_sic_desc: "§YНародився:§! §L4 квітня 1879 року, Уусікаупункі, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_edwin_flinck: "Едвін Флінк"
+ FIN_edwin_flinck_sic_desc: "§YНародився:§! §L22 грудня 1894 року, Виборг, Виборзька губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_bruno_salmiala: "Бруно Салміала"
+ FIN_bruno_salmiala_sic_desc: "§YНародився:§! §L24 серпня 1890 року, Санкт-Петербург, Санкт-Петербурзька губернія, Російська імперія§!"
+ FIN_johan_henrik_lumivuokko: "Йоган Генрік Лумівуокко"
+ FIN_johan_henrik_lumivuokko_advisor_desc: "§YНародився:§! §L29 березня 1884 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_august_wesley: "Август Веслі"
+ FIN_august_wesley_advisor_desc: "§YНародився:§! §L3 серпня 1887 року, Тампере, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_edvard_gylling: "Едвард Ґюллінґ"
+ FIN_edvard_gylling_advisor_desc: "§YНародився:§! §L30 листопада 1881 року, Куопіо, Куопіоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_hella_wuolijoki: "Гелла Вуолійокі"
+ FIN_hella_wuolijoki_advisor_desc: "§YНародилася:§! §L22 липня 1886 року, Гельме, Ліфляндська губернія, Російська імперія§!"
+ FIN_vaino_voionmaa: "Вяйньо Войонмаа"
+ FIN_vaino_voionmaa_advisor_desc: "§YНародився:§! §L12 лютого 1869 року, Ювяскюля, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_urho_kekkonen: "Урго Кекконен"
+ FIN_urho_kekkonen_advisor_desc: "§YНародився:§! §L3 вересня 1900 року, Пієлавесі, Куопіоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_eljas_erkko: "Ельяс Еркко"
+ FIN_eljas_erkko_advisor_desc: "§YНародився:§! §L1 червня 1895 року, Гельсінкі, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_risto_ryti: "Рісто Рюті"
+ FIN_risto_ryti_advisor_desc: "§YНародився:§! §L3 лютого 1889 року, Гуйттінен, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_rafael_haarla: "Рафаель Гаарла"
+ FIN_rafael_haarla_advisor_desc: "§YНародився:§! §L6 березня 1876 року, Корпілагті, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_hjalmar_procope: "Яльмар Прокопе"
+ FIN_hjalmar_procope_advisor_desc: "§YНародився:§! §L8 серпня 1889 року, Стокгольм, провінція Уппланд, Королівство Швеція§!"
+ FIN_elmo_kaila: "Ельмо Кайла"
+ FIN_elmo_kaila_advisor_desc: "§YНародився:§! §L6 лютого 1888 року, Йокіойнен, Тавастегуська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_elias_simojoki: "Еліас Сімойокі"
+ FIN_elias_simojoki_advisor_desc: "§YНародився:§! §L28 січня 1899 року, Раутіо, Вазаська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_vihtori_kosola: "Вігторі Косола"
+ FIN_vihtori_kosola_advisor_desc: "§YНародився:§! §Lлипень 1884 року, Юлігярмя, Вазаська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_aladar_paasonen: "Аладар Паасонен"
+ FIN_aladar_paasonen_advisor_desc: "§YНародився:§! §L11 грудня 1898 року, Будапешт, комітат Пешт-Піліш-Шольт-Кішкун, Королівство Угорщина, Австро-Угорщина§!"
+ FIN_reino_hallamaa: "Рейно Галламаа"
+ FIN_reino_hallamaa_advisor_desc: "§YНародився:§! §L12 березня 1899 року, Кокемякі, Абоська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_vaino_vuori: "Вяйньо Вуорі"
+ FIN_vaino_vuori_air_chief_desc: "§YНародився:§! §L5 травня 1896 року, Порвоо, Нюландська губернія, Велике князівство Фінляндське, Російська імперія§!"
+ FIN_sixtus_hjelmman: "Сікстус Г'єльман"
+ FIN_sixtus_hjelmman_air_chief_desc: "§YНародився:§! §L8 травня 1869 року, Ійсалмі, Куопіоська губернія, Велике князівство Фінляндське, Російська імперія§!"

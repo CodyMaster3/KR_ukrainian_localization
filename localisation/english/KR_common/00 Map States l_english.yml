@@ -4385,7 +4385,7 @@
  STATE_1085_RENAME: "[1085.Controller.GetStateName_1085]"
  STATE_1085_UIGHUR: "Teklimakan Qumluqi"
 
- STATE_1086: "Gartok" # (!)
+ STATE_1086: "Ґар-Ток"
  STATE_1086_RENAME: "[1086.Controller.GetStateName_1086]"
  STATE_1086_CHINESE: "Gadake"
 
@@ -4522,7 +4522,7 @@
  STATE_1117_RENAME: "[1117.Controller.GetStateName_1117]"
  STATE_1117_PERSIAN: "$VICTORY_POINTS_5064_FARSI$"
 
- STATE_1118: "Qataghan" # (!)
+ STATE_1118: "Катаган"
  STATE_1118_RENAME: "[1118.Controller.GetStateName_1118]"
 
  STATE_1119: "$VICTORY_POINTS_10229$"

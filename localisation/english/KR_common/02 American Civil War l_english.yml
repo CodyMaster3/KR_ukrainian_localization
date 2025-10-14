@@ -42,14 +42,14 @@
  ACW_six_units_raised:0 "Буде призвано §G6§! додаткових загонів ополчення"
  USA_capital_moved:0 "Столиця була перенесена"
 
- ACW_support_faction_generic_tt:0 "Supported American Faction" # (!)
+ ACW_support_faction_generic_tt:0 "Підтримувана американська фракція"
 
  ACW_fired_up:0 "Горять бажанням"
  ACW_fired_up_desc:0 "Наші війська бажають воювати. Ведіть їх у бій!"
  ACW_times_up:0 "Занадто довго"
  ACW_times_up_desc:0 "Війна затягнулася, і вже давно немає ніякого суттєвого прогресу. Наші війська починають втрачати бойовий дух."
  ACW_once_the_war_begins:0 "Коли починається громадянська війна:"
- ACW_has_supported_side:0 "Has supported a side in the §YAmerican Civil War§!" # (!)
+ ACW_has_supported_side:0 "Підтримано сторону в §YГромадянській війні в Америці§!"
  ACW_gain_core_on_state:0 "Якщо будь-який сусідній штат є основним у §H[Root.GetNameDef]§!:"
 
  CP_25_PP_25:0 "£pol_power §Y25§! £command_power §Y25§!"
@@ -61,32 +61,33 @@
  2000_infantry_equipment_1_tooltip:0 "Вартість прийняття рішення $2000_infantry_equipment_1_blocked$"
 
 ### State Modifiers ###
- USA_state_control_low:0 "§GLow§!" # (!)
- USA_state_control_medium:0 "§LMedium§!" # (!)
- USA_state_control_high:0 "§OHigh§!" # (!)
- USA_state_control_total:0 "§RTotal§!" # (!)
+ USA_state_control_low:0 "§GНизький§!"
+ USA_state_control_medium:0 "§LСередній§!"
+ USA_state_control_high:0 "§OВисокий§!"
+ USA_state_control_total:0 "§RПовний§!"
 
  USA_socialist_state:0 "$USA_socialist_state_base$: [USA_GetStateControlLevelLabel]"
- USA_socialist_state_base:0 "SPA Control" # (!)
- USA_socialist_state_desc:0 "[USA_GetSocialistStateControlDesc]" # (!)
- USA_socialist_state_desc_partial:0 "This state harbours support for the §RSocialist Party of America§!. Its allegiance in case a civil conflict breaks out is not certain." # (!)
- USA_socialist_state_desc_total:0 "This state is fully controlled by the §RSocialist Party of America§!. Its allegiance to the Federal government is non-existent." # (!)
+ USA_socialist_state_base:0 "Контроль СПА"
+ USA_socialist_state_desc:0 "[USA_GetSocialistStateControlDesc]" 
+ USA_socialist_state_desc_partial:0 "Цей штат підтримує §RСоціалістичну партію Америки§!. Його лояльність у разі громадянського конфлікту непевна."
+ USA_socialist_state_desc_total:0 "Цей штат повністю контролюється §RСоціалістичною партією Америки§!. Його лояльність до федерального уряду відсутня."
 
  USA_longist_state:0 "$USA_longist_state_base$: [USA_GetStateControlLevelLabel]"
- USA_longist_state_base:0 "Longist Control" # (!)
- USA_longist_state_desc:0 "[USA_GetLongistStateControlDesc]" # (!)
- USA_longist_state_desc_partial:0 "This state is fully controlled by the movement surrounding §LHuey Long§!. Its allegiance to the Federal government is non-existent." # (!)
- USA_longist_state_desc_total:0 "This state is fully controlled by the movement surrounding §LHuey Long§!. Its allegiance to the Federal government is non-existent." # (!)
+ USA_longist_state_base:0 "Контроль лонгістів"
+ USA_longist_state_desc:0 "[USA_GetLongistStateControlDesc]"
+ USA_longist_state_desc_partial:0 "Цей штат повністю контролюється рухом, що згуртувався навколо §LГ'юї Лонга§!. Його лояльність до федерального уряду відсутня."
+ USA_longist_state_desc_total:0 "Цей штат повністю контролюється рухом, що згуртувався навколо §LГ'юї Лонга§!. Його лояльність до федерального уряду відсутня."
+
 
 ### Decisions ####
  ACW_foreign_volunteer_decisions:0 "Іноземні добровольці"
- ACW_foreign_volunteer_decisions_desc:0 "With the civil war raging in America, it might be good to send supplies and arms over to the faction that we wish to help have victory in that bloody conflict." # (!)
+ ACW_foreign_volunteer_decisions_desc:0 "Оскільки в Америці вирує громадянська війна, було б доцільно надіслати припаси та зброю тій фракції, якій ми бажаємо перемоги в цьому кривавому конфлікті."
 
- ACW_support_socialists:0 "Support [FROM.GetNameDef]" # (!)
- ACW_support_socialists_desc:0 "We should support our comrades in America fighting for the liberation of all workers." # (!)
+ ACW_support_socialists:0 "Підтримати [FROM.GetNameDef]"
+ ACW_support_socialists_desc:0 "Ми повинні підтримати наших товаришів в Америці, що борються за визволення всіх робітників."
 
- ACW_support_non_socialists:0 "Support [FROM.GetNameDef]" # (!)
- ACW_support_non_socialists_desc:0 "We should support [FROM.GetNameDef] in their fight against syndicalists and traitors alike." # (!)
+ ACW_support_non_socialists:0 "Підтримати [FROM.GetNameDef]"
+ ACW_support_non_socialists_desc:0 "Ми повинні підтримати [FROM.GetNameDef] в їхній боротьбі проти синдикалістів та зрадників." 
 
  ACW_civil_war_decisions:0 "Громадянська війна"
  ACW_civil_war_decisions_desc:0 "Почалася Друга Громадянська війна в Америці, і ми маємо перемогти в ній заради Америки!"

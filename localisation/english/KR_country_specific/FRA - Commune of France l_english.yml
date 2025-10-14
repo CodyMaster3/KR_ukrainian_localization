@@ -7,8 +7,8 @@
  FRA_ongoing_phalanstere_development: "§YДопомагає у розвитку іншої країни.§!"
  CSA_redeagles_tt: "Прибудуть нові авіатори-добровольці та літаки."
 
- FRA_will_build_in_savoy_if_owned: "§Y[735.GetName]§! will also gain §Y1 $industrial_complex$§! if controlled by §Y[ROOT.GetNameWithFlag]§!."
- FRA_will_build_in_upper_savoy_if_owned: "§Y[943.GetName]§! will also gain §Y1 $industrial_complex$§! and §Y1 $infrastructure$§! if controlled by §Y[ROOT.GetNameWithFlag]§!."
+ FRA_will_build_in_savoy_if_owned: "§Y[735.GetName]§! також отримає §Y1 $industrial_complex$§!, якщо контролюється §Y[ROOT.GetNameWithFlag]§!."
+ FRA_will_build_in_upper_savoy_if_owned: "§Y[943.GetName]§! також отримає §Y1 $industrial_complex$§! та §Y1 $infrastructure$§!, якщо контролюється §Y[ROOT.GetNameWithFlag]§!."
 
  INT_phalanstere: "Інтернаціональний Фаланстер"
 
@@ -32,8 +32,8 @@
 
  is_controlled_by_INT_or_ally_tt: "контролюється членом §YІнтернаціоналу§!"
 
- FRA_blocks_operation_eulen: "§GCompleting this focus impedes §Y[GER.GetNameWithFlag]§! from progressing on the focus§! §Y$GER_operation_eulen$§!.\n\n§RIf §Y$GER_operation_eulen$§! is launched, the bonuses will be lost!§!"
- FRA_failed_operation_eulen: "§LDue to the success of the German §Y$GER_operation_eulen$§!, significant effort will be diverted towards calming down Catholic unrest, greatly reducing the potential effect of this initiative.§!"
+ FRA_blocks_operation_eulen: "§GЗавершення цього фокуса завадить §Y[GER.GetNameWithFlag]§! виконати фокус§! §Y$GER_operation_eulen$§!.\n\n§RЯкщо операцію «§Y$GER_operation_eulen$§!» буде розпочато, бонуси буде втрачено!§!"
+ FRA_failed_operation_eulen: "§LЧерез успіх німецької операції «§Y$GER_operation_eulen$§!» значні зусилля буде спрямовано на придушення католицьких заворушень, що значно зменшить потенційний ефект від цієї ініціативи.§!"
 
  FRA_af_custom_modifier_tooltip: "[FRA_ArmeeFederale_MobileWarfareProductionBonus][FRA_ArmeeFederale_FirstLineBreak][FRA_ArmeeFederale_ArtilleryProductionBonus][FRA_ArmeeFederale_SecondLineBreak][FRA_ArmeeFederale_ArmourBonus]"
  FRA_af_line_break: "\n"
@@ -133,12 +133,12 @@
  FRA_armee_de_lair_populaire_modifier: "Armée de l'Air Populaire"
  FRA_marine_federale_modifier: "Marine Fédérale"
 
- FRA_voluntary_association_modifier: "Voluntary Association"
- FRA_modernisation_and_cartelisation_modifier: "Modernisation and Cartelisation"
- FRA_militarisation_of_the_proletariat_modifier: "Militarisation of the Proletariat"
- FRA_planism_modifier: "Planism"
+ FRA_voluntary_association_modifier: "Волонтерські об'єднання"
+ FRA_modernisation_and_cartelisation_modifier: "Модернізація та картелізація"
+ FRA_militarisation_of_the_proletariat_modifier: "Мілітаризація пролетаріату"
+ FRA_planism_modifier: "Планізм"
 
- FRA_city_of_lights: "City of Lights"
+ FRA_city_of_lights: "Місто вогнів"
 
 ### Parties ###
  FRA_totalist_party: "Я/С"
@@ -199,100 +199,100 @@
  phalanstere_research_name: "Інтернаціональний Фаланстер"
  phalanstere_research_desc: "У ході зустрічі у старовинному Кембриджському університеті було ухвалено рішення про створення всесвітнього плану щодо об'єднання технологічних досягнень синдикалістських країн. З того часу цей план перетворився на більш амбітний план "Всесвітній Фаланстер", спрямований на допомогу синдикалістським режимам по всьому світу."
 
- FRA_tech_ski_infantry: "Alpine Combat Training"
+ FRA_tech_ski_infantry: "Альпійські навчання бою"
 
 ### Focuses ###
  commune_of_france_focus: "Фокуси Французької Комуни"
 
- FRA_office_des_chemins_de_fer: "Office des Chemins de Fer"
- FRA_office_des_chemins_de_fer_desc: "A Congress meeting over the status of France's infrastructure at the BGT showed the disorganisation of our rail system and how backwards it became. The Congress agreed on the need to create a new office specifically tasked with the development and maintenance of our railways to connect all the parts of France together."
+ FRA_office_des_chemins_de_fer: "Управління залізниць"
+ FRA_office_des_chemins_de_fer_desc: "Засідання Конгресу в ЗКП щодо стану інфраструктури Франції виявило дезорганізацію та відсталість нашої залізничної системи. Конгрес погодився з необхідністю створити нове управління, спеціально уповноважене на розвиток та обслуговування наших залізниць, щоб з'єднати всі частини Франції."
 
- FRA_voluntary_association: "Voluntary Association"
- FRA_voluntary_association_desc: "The greatest economic policy is not one that is dictated from above, but one that arises naturally from below, from the proletariat, from the workers. We reject statism, and instead embrace evermore the decentralisation and liberation of the French economy: we will not triumph by trying to corral the masses, but by letting the People freed by Mother Anarchy usher in a new age of prosperity."
+ FRA_voluntary_association: "Добровільне об'єднання"
+ FRA_voluntary_association_desc: "Найкраща економічна політика — це не та, що диктується згори, а та, що виникає природним шляхом знизу, від пролетаріату, від робітників. Ми відкидаємо етатизм і натомість все більше приймаємо децентралізацію та звільнення французької економіки: ми переможемо не намагаючись загнати маси, а дозволивши Народу, звільненому Матір'ю Анархією, розпочати нову еру процвітання."
 
  FRA_socialist_education: "Соціалістична освіта"
  FRA_socialist_education_desc: "Освіта Французької республіки багато в чому була відмінною, і це дозволяло середньостатистичному громадянину отримати великі знання в галузі науки та мистецтва. Ми прагнемо продовжувати роботу над цією спадщиною, домагаючись того, щоб у французьких школах головною метою була не побудова ієрархії та дисципліни, як у деяких реакційних країнах, а освіта."
 
- FRA_support_workers_initiatives: "Support Workers’ Initiatives"
- FRA_support_workers_initiatives_desc: "The ingenuity and common sense of the masses, most attuned with production, cannot be underestimated. We must make a particular effort to help initiatives coming from the economic base not just become reality, but flourish. Not only will this no doubt ensure the men involved in these projects dedicate themselves even harder to their work, seeing their efforts rewarded, but it will be a great propaganda success, both at home and abroad."
+FRA_support_workers_initiatives: "Підтримка робітничих ініціатив"
+ FRA_support_workers_initiatives_desc: "Не можна недооцінювати винахідливість і здоровий глузд мас, які найкраще знайомі з виробництвом. Ми повинні докласти особливих зусиль, щоб ініціативи, що йдуть з економічної бази, не лише втілювалися в життя, а й процвітали. Це не тільки, безсумнівно, гарантує, що люди, залучені до цих проєктів, будуть ще старанніше присвячувати себе своїй роботі, бачачи винагороду за свої зусилля, але й стане великим пропагандистським успіхом як вдома, так і за кордоном."
 
- FRA_consumer_cooperatives: "Consumer Cooperatives"
- FRA_consumer_cooperatives_desc: "Economist Charles Gides had developed before the War a network of cooperative stores, linked to the old SFIO. He had hoped to usher in the "Cooperative Republic" through an alternative economy, freed from capitalism and undue profits. Since the Revolution, consumer cooperatives have become ubiquitous, working hand in hand with producer cooperatives to bring all manners of goods to the workers at fair prices, massifying exchanges."
+ FRA_consumer_cooperatives: "Споживчі кооперативи"
+ FRA_consumer_cooperatives_desc: "Економіст Шарль Жід до війни розробив мережу кооперативних магазинів, пов'язаних зі старою СФІО. Він сподівався започаткувати «Кооперативну республіку» через альтернативну економіку, вільну від капіталізму та надмірних прибутків. Після Революції споживчі кооперативи стали повсюдними, працюючи пліч-о-пліч з виробничими кооперативами, щоб доставляти робітникам усілякі товари за справедливими цінами, масовізуючи обмін."
 
- FRA_garden_city_movement: "Garden City Movement"
- FRA_garden_city_movement_desc: "A better living environment means a healthier, more productive worker. To accommodate rural-urban migration and support the development of our industrial capacity, large-scale projects were approved to have neighborhoods sprout on the edge of cities or on demolished slums. Built according to the ideals of the "garden city" movement, they feature family homes and medium-density housing, shared services and amenities, as well as large green spaces."
+ FRA_garden_city_movement: "Рух за міста-сади"
+ FRA_garden_city_movement_desc: "Краще середовище для життя означає здоровішого, продуктивнішого робітника. Щоб задовольнити потреби міграції з села в місто та підтримати розвиток нашого промислового потенціалу, були затверджені масштабні проєкти будівництва районів на околицях міст або на місці знесених нетрів. Побудовані відповідно до ідеалів руху «місто-сад», вони включають сімейні будинки та житло середньої щільності, спільні послуги та зручності, а також великі зелені зони."
 
- FRA_close_bureaucratic_loopholes: "Close Bureaucratic Loopholes"
- FRA_close_bureaucratic_loopholes_desc: "One recurring criticism of the revolutionary State rings particularly true: economic democracy is a complicated business, leading to intolerable inefficiencies. We must work to make the economy more efficient, without endangering its deliberative and workers-led qualities, and the most obvious point to start is to review our bureaucracy and trim down excessive processes which invite both sluggishness and corruption."
+ FRA_close_bureaucratic_loopholes: "Ліквідувати бюрократичні лазівки"
+ FRA_close_bureaucratic_loopholes_desc: "Одна з постійних критик революційної держави є особливо влучною: економічна демократія — це складна справа, що призводить до нестерпної неефективності. Ми повинні працювати над тим, щоб зробити економіку ефективнішою, не ставлячи під загрозу її дорадчі та робітничі якості, і найочевиднішим початком є перегляд нашої бюрократії та скорочення надмірних процесів, що породжують як повільність, так і корупцію."
 
- FRA_modernisation_and_cartelisation: "Modernisation and Cartelisation"
- FRA_modernisation_and_cartelisation_desc: "Socialism is above all the triumph of economic efficiency over capitalist nonsense. The Revolution has already led to a great rationalisation of the Economy, industrial federations working with the federal government to streamline production. However, this process can be taken further by encouraging the rise of specialised industrial ensembles, working harmoniously together, cogs in a great machine."
+ FRA_modernisation_and_cartelisation: "Модернізація та картелювання"
+ FRA_modernisation_and_cartelisation_desc: "Соціалізм — це перш за все тріумф економічної ефективності над капіталістичним безглуздям. Революція вже призвела до значної раціоналізації економіки, коли промислові федерації працюють з федеральним урядом для оптимізації виробництва. Однак цей процес можна поглибити, заохочуючи створення спеціалізованих промислових комплексів, що гармонійно працюють разом, як гвинтики у великому механізмі."
 
- FRA_embrace_chain_production: "Embrace Chain Production"
- FRA_embrace_chain_production_desc: "French industry at the turn of the Revolution was particular. Though there already was a large proletarian class, many of the workers were still close to their artisan forefathers, with chain production and scientific management only being the norm in a select few industries. Though this might be occasionally unpopular with some workers, we must continue to convince unions to embrace this important step in the modernisation of production."
+ FRA_embrace_chain_production: "Впровадити потокове виробництво"
+ FRA_embrace_chain_production_desc: "Французька промисловість на зорі Революції була особливою. Хоча пролетарський клас уже був великим, багато робітників усе ще були близькі до своїх предків-ремісників, а потокове виробництво та наукове управління були нормою лише в небагатьох галузях. Хоча це може бути іноді непопулярним серед деяких робітників, ми повинні продовжувати переконувати профспілки прийняти цей важливий крок у модернізації виробництва."
 
- FRA_mass_application_of_pre_stressed_concrete: "Mass Application of Pre-Stressed Concrete"
- FRA_mass_application_of_pre_stressed_concrete_desc: "Developed by engineer Eugène Freyssinet, pre-stressed concrete is a new step in modern construction. Concrete, the industrial age’s darling material, has been found to have a durability and deformation problem with time and wear. The method helps alleviate these risks, particularly for constructions under heavy use or pressure. New, more durable builds will begin, and a campaign of strengthening of at-risk sites will be launched."
+ FRA_mass_application_of_pre_stressed_concrete: "Масове застосування попередньо напруженого бетону"
+ FRA_mass_application_of_pre_stressed_concrete_desc: "Розроблений інженером Еженом Фрейссіне, попередньо напружений бетон — це новий крок у сучасному будівництві. Було виявлено, що бетон, улюблений матеріал промислової епохи, з часом і від зносу має проблеми з довговічністю та деформацією. Цей метод допомагає зменшити ці ризики, особливо для конструкцій, що зазнають значних навантажень або тиску. Розпочнеться будівництво нових, більш довговічних споруд, а також буде запущено кампанію зі зміцнення об'єктів, що перебувають у зоні ризику."
 
- FRA_develop_the_rhone_valley: "Develop the Rhône Valley"
- FRA_develop_the_rhone_valley_desc: "The Rhône, lifeline of the South-East, wedged between the Massif Central and the Alps, has historically been capricious. Artery of trade between North and South, it is also notoriously prone to flooding, severely hindering development along its banks. This was of course before Man tamed Nature through labour and technology, and we now can canalise the temper of the river for the benefits of our industrial development."
+ FRA_develop_the_rhone_valley: "Розвиток долини Рони"
+ FRA_develop_the_rhone_valley_desc: "Рона, життєва артерія південного сходу, затиснута між Центральним масивом та Альпами, історично була примхливою. Будучи артерією торгівлі між північчю та півднем, вона також відома своєю схильністю до повеней, що серйозно перешкоджає розвитку вздовж її берегів. Звісно, це було до того, як Людина приборкала Природу за допомогою праці та технологій, і тепер ми можемо спрямувати норов річки на користь нашого промислового розвитку."
 
- FRA_exploit_the_massif_central: "Exploit the Massif Central"
- FRA_exploit_the_massif_central_desc: "The economic and infrastructural development of the regions of the Alps and the Massif Central allows for a greater exploitation of the mineral resources available there. Our prospectors discovered new mineral deposits and we are now ready to start exploiting them on an industrial scale!"
+ FRA_exploit_the_massif_central: "Експлуатація Центрального масиву"
+ FRA_exploit_the_massif_central_desc: "Економічний та інфраструктурний розвиток регіонів Альп та Центрального масиву дозволяє краще використовувати наявні там мінеральні ресурси. Наші геологи виявили нові родовища корисних копалин, і тепер ми готові розпочати їхню експлуатацію в промислових масштабах!"
 
- FRA_voice_of_the_people: "Voice of the People"
- FRA_voice_of_the_people_desc: "France, beating heart of the Revolution, must be able to reach workers everywhere, particularly those still chafing under the chains of Capital. From Paris to the World, we will emit radio programming in all major languages and let our comrades know that they are not alone. This cannot however be simply a propaganda broadcast: we will ensure alongside news and socialist messaging, will be broader education, entertainment and good music."
+ FRA_voice_of_the_people: "Голос народу"
+ FRA_voice_of_the_people_desc: "Франція, серце Революції, повинна мати можливість достукатися до робітників усюди, особливо до тих, хто все ще страждає під кайданами Капіталу. З Парижа до всього світу ми будемо вести радіомовлення всіма основними мовами і дамо знати нашим товаришам, що вони не самотні. Однак це не може бути просто пропагандистським мовленням: ми забезпечимо, щоб поряд з новинами та соціалістичними повідомленнями була й ширша освіта, розваги та хороша музика."
 
- FRA_point_du_jour_studios: "Point du Jour Studios"
- FRA_point_du_jour_studios_desc: "The Seventh Art is undeniably the medium of this century, a revolution in entertainment and communication of ideas. Born in France, we must admit that Hollywood and Babelsberg have overtaken cinema’s home in production capacity, pumping out counter-revolutionary material for the world. We will support the extension of facilities in the Parisian suburb of Billancourt, Point du Jour (Sunrise) Studios, and fund innovative film-makers."
+ FRA_point_du_jour_studios: "Студії «Пуен-дю-Жур»"
+ FRA_point_du_jour_studios_desc: "Сьоме мистецтво — безперечно, медіум цього століття, революція в розвагах та передачі ідей. Народившись у Франції, ми повинні визнати, що Голлівуд та Бабельсберг обігнали батьківщину кіно за виробничими потужностями, випускаючи контрреволюційний матеріал для всього світу. Ми підтримаємо розширення потужностей у паризькому передмісті Біянкур, студій «Пуен-дю-Жур» (Світанок), та профінансуємо інноваційних кінематографістів."
 
- FRA_build_the_autoroutes: "Build the Autoroutes"
- FRA_build_the_autoroutes_desc: "The engineer and urbanist Henri Prost came up with a plan to develop highways around the Parisian region to link the outlying suburbs. This idea is receiving widespread support and the BGT decided to fund new projects to expand highways through the Federation. The communes of Marseille and Lyon also asked him to draw highway plans for their cities."
+ FRA_build_the_autoroutes: "Будівництво автомагістралей"
+ FRA_build_the_autoroutes_desc: "Інженер та урбаніст Анрі Прост розробив план розвитку автомагістралей навколо паризького регіону для сполучення віддалених передмість. Ця ідея отримує широку підтримку, і ЗКП вирішила профінансувати нові проєкти з розширення автомагістралей по всій Федерації. Комуни Марселя та Ліона також попросили його розробити плани автомагістралей для своїх міст."
 
- FRA_militarisation_of_the_proletariat: "Militarisation of the Proletariat"
- FRA_militarisation_of_the_proletariat_desc: "We cannot forget this: we, workers, are at war, we have always been at war, we will always be at war. Production is a tireless battle, unceasing warfare against creeping Reaction, against the degenerated bourgeoisie and all that dare stand against History. The producers of France must rise to the occasion, embrace their destiny and work harder than ever to forge the tools of global liberation."
+ FRA_militarisation_of_the_proletariat: "Мілітаризація пролетаріату"
+ FRA_militarisation_of_the_proletariat_desc: "Ми не повинні забувати: ми, робітники, воюємо, ми завжди воювали, ми завжди будемо воювати. Виробництво — це невтомна битва, безперервна війна проти повзучої Реакції, проти деградованої буржуазії та всього, що насмілюється протистояти Історії. Виробники Франції повинні відповідати виклику, прийняти свою долю і працювати старанніше, ніж будь-коли, щоб викувати інструменти глобального визволення."
 
- FRA_second_wave_of_mechanisation: "Second Wave of Mechanisation"
- FRA_second_wave_of_mechanisation_desc: "France is a powerhouse of agriculture, our land has always been generous in her bounty. However, despite our efforts, the harvest of today doesn’t look too different from that of before the Revolution, and in some cases, from hundreds of years ago. It is still largely a manual, labour-intensive process, with mechanisation progressing slowly. To further modernise our economy, we must help our farmers embrace the new tools of their trade."
+ FRA_second_wave_of_mechanisation: "Друга хвиля механізації"
+ FRA_second_wave_of_mechanisation_desc: "Франція — потужна сільськогосподарська держава, наша земля завжди була щедрою на врожаї. Однак, попри наші зусилля, сьогоднішній урожай не надто відрізняється від того, що був до Революції, а в деяких випадках — і сотні років тому. Це все ще переважно ручний, трудомісткий процес, а механізація просувається повільно. Для подальшої модернізації нашої економіки ми повинні допомогти нашим фермерам освоїти нові інструменти їхньої праці."
 
- FRA_large_scale_rural_projects: "Large-Scale Rural Projects"
- FRA_large_scale_rural_projects_desc: "We are a nation of small landholders, when the Revolution came there were few large estates to seize, few tenant farmers. This has meant that life in the countryside has remained relatively unchanged in the last decades. With, however, notable exceptions: the generalisation of agricultural cooperatives and experiments in voluntary collectivisation. These are the necessary path in rural economic development, and we will encourage their work."
+ FRA_large_scale_rural_projects: "Масштабні сільські проєкти"
+ FRA_large_scale_rural_projects_desc: "Ми — нація дрібних землевласників; коли прийшла Революція, було мало великих маєтків для захоплення, мало орендарів. Це означає, що життя в сільській місцевості за останні десятиліття залишилося відносно незмінним. Проте з помітними винятками: узагальнення сільськогосподарських кооперативів та експерименти з добровільною колективізацією. Це необхідний шлях у сільському економічному розвитку, і ми будемо заохочувати їхню роботу."
 
- FRA_communal_waterworks: "Communal Waterworks"
- FRA_communal_waterworks_desc: "For now, it would be unthinkable to ask our peasant class to put in common their plots of land, source of great pride for them. However, there are many aspects of agriculture that can and should be mutualised to make them more efficient and our agriculture eventually even more productive: waterworks are one of them. Encouraging communes to coordinate such projects will sow the seeds of further modernisation of the rural economy."
+ FRA_communal_waterworks: "Комунальні водопроводи"
+ FRA_communal_waterworks_desc: "Наразі було б немислимо просити наш селянський клас об'єднувати свої земельні ділянки, джерело великої гордості для них. Однак є багато аспектів сільського господарства, які можна і слід об'єднувати, щоб зробити їх ефективнішими, а наше сільське господарство з часом ще більш продуктивним: водопровідні мережі — одна з них. Заохочення комун до координації таких проєктів посіє насіння подальшої модернізації сільської економіки."
 
- FRA_ploughshares_into_swords: "Ploughshares into Swords"
- FRA_ploughshares_into_swords_desc: "The rural world must help share the burden of the great industrial war effort, do its part in the defence of the Revolution. Decentralised production, particularly of goods necessitating a more artisanal touch in their creation or assembly, will be able to find a home there. The harvest secured, the peasant, the artisan will help their comrade the soldier be equipped in the best quality goods, proud descendants of ancestral craftsmanship."
+ FRA_ploughshares_into_swords: "Перекувати орала на мечі"
+ FRA_ploughshares_into_swords_desc: "Сільський світ повинен розділити тягар великих промислових військових зусиль, зробити свій внесок в оборону Революції. Децентралізоване виробництво, особливо товарів, що потребують більш ремісничого підходу до їх створення чи збирання, зможе знайти там своє місце. Зібравши врожай, селянин, ремісник допоможуть своєму товаришу-солдату бути оснащеним найкращими товарами, гордими нащадками давньої майстерності."
 
- FRA_new_hydroelectric_dams: "New Hydroelectric Dams"
- FRA_new_hydroelectric_dams_desc: "Our mountainous regions in the Alps and the Massif Central have plenty of high flow rivers, a perfect environment to install a clean and lasting source of energy and help revitalise the backwards, rural mountainous regions of France."
+ FRA_new_hydroelectric_dams: "Нові гідроелектростанції"
+ FRA_new_hydroelectric_dams_desc: "Наші гірські регіони в Альпах та Центральному масиві мають безліч річок з великою течією — ідеальне середовище для створення чистого та довговічного джерела енергії та допомоги у відродженні відсталих, сільських гірських регіонів Франції."
 
- FRA_syndical_consolidation: "Syndical Consolidation"
- FRA_syndical_consolidation_desc: "As the next step in the great revolutionary conflict draws nearer, we must call upon union federations to reject all rivalries, all interpersonal conflicts, all corporatisms, and embrace productive discipline. The time for debate has passed, now is the time to return to their roots as tools of class war: there is only one working class, let there be one singular syndical will."
+ FRA_syndical_consolidation: "Синдикальна консолідація"
+ FRA_syndical_consolidation_desc: "З наближенням наступного етапу великого революційного конфлікту ми повинні закликати профспілкові федерації відкинути всі суперництва, всі міжособистісні конфлікти, всі корпоративізми та прийняти виробничу дисципліну. Час для дебатів минув, тепер час повернутися до своїх коренів як до інструментів класової війни: є лише один робітничий клас, нехай буде одна єдина синдикальна воля."
 
- FRA_embrace_planism: "Embrace Planism"
- FRA_embrace_planism_desc: "Scientific management of the Economy is the future, we will not rest until the economic forces of the Nation are in total harmony with the State, working towards triumph over the enemies of the workers. We cannot allow ourselves to be distracted by any lesser concerns, we must have only one goal: the survival and triumph of the Revolution, and so we must follow one line, one will, one great Plan."
+ FRA_embrace_planism: "Впровадити планізм"
+ FRA_embrace_planism_desc: "Наукове управління економікою — це майбутнє; ми не заспокоїмося, доки економічні сили нації не будуть у повній гармонії з державою, працюючи на перемогу над ворогами робітників. Ми не можемо дозволити собі відволікатися на будь-які менш важливі турботи, у нас повинна бути лише одна мета: виживання та тріумф Революції, і тому ми повинні дотримуватися однієї лінії, однієї волі, одного великого Плану."
 
- FRA_expand_manufacture_darmes_de_tulle: "Expand Manufacture d'Armes de Tulle"
- FRA_expand_manufacture_darmes_de_tulle_desc: "Tulle, in the Limousin, is home to one of the oldest and largest weapons manufacturing plants in France, with thousands of workers principally focused on small arms. As our rearmament drive ramps up, it's been decided to further expand the "Manu", as the locals have nicknamed it. Indeed, unlike other plants situated in traditional industrial bassins, notably in the North, this one is far from the reach of the enemy."
+ FRA_expand_manufacture_darmes_de_tulle: "Розширити збройовий завод у Тюлі"
+ FRA_expand_manufacture_darmes_de_tulle_desc: "Тюль у Лімузені є домом для одного з найстаріших і найбільших заводів з виробництва зброї у Франції, де тисячі робітників зосереджені переважно на стрілецькій зброї. Зі зростанням нашого переозброєння було вирішено розширити «Ману», як її називають місцеві. Дійсно, на відміну від інших заводів, розташованих у традиційних промислових басейнах, зокрема на півночі, цей знаходиться далеко від досяжності ворога."
 
- FRA_directorate_for_arms_production: "Directorate for Military Production"
- FRA_directorate_for_arms_production_desc: "If we want to triumph in the arms race against reactionary powers, we cannot allow any distraction to hamper our war readiness efforts. A federal executive committee composed of officers, experts, lawmakers, labour leaders will be assembled and use the full might of the proletarian State to take direct control of our defence industry, ensuring it is perfectly tuned to respond to our needs and drives."
+ FRA_directorate_for_arms_production: "Директорат військового виробництва"
+ FRA_directorate_for_arms_production_desc: "Якщо ми хочемо перемогти в гонці озброєнь проти реакційних держав, ми не можемо дозволити жодним відволіканням заважати нашим зусиллям з підготовки до війни. Буде створено федеральний виконавчий комітет, що складатиметься з офіцерів, експертів, законодавців та профспілкових лідерів, який використає всю міць пролетарської держави для прямого контролю над нашою оборонною промисловістю, забезпечуючи її ідеальну налаштованість на реагування на наші потреби та прагнення."
 
- FRA_maximise_production_capacity: "Maximise Production Capacity"
- FRA_maximise_production_capacity_desc: "We start at a disadvantage in population and industrial base in the race against Reaction. Though we will try our best to catch up, we must do the most we can with what we have. Our free workers are more productive, more skilled than the ones desperately awaiting their liberation. If we must work twice as hard too, we will. One great effort is all we need, and our comrades are more than ready to throw themselves in this effort for us all."
+ FRA_maximise_production_capacity: "Максимізувати виробничі потужності"
+ FRA_maximise_production_capacity_desc: "Ми починаємо з невигідного становища за чисельністю населення та промисловою базою в гонці проти Реакції. Хоча ми докладемо всіх зусиль, щоб наздогнати, ми повинні зробити максимум з того, що маємо. Наші вільні робітники продуктивніші, кваліфікованіші за тих, хто відчайдушно чекає на своє визволення. Якщо нам доведеться працювати вдвічі більше, ми це зробимо. Нам потрібне одне велике зусилля, і наші товариші більш ніж готові кинутися в цю справу заради нас усіх."
 
- FRA_the_working_mans_automobile: "The Working Man's Automobile"
- FRA_the_working_mans_automobile_desc: "Socialism means answering the needs and desires of the workers. Many of our comrades think about the possibilities opened up by owning one's own car, unbound by laid tracks and traced itineraries. Public, mass transportation will never be replaced, but this dream must be made attainable for all hard-working Frenchmen. And so we will reach out to automobile industry unions to design new models, durable, but simple and cheap, easily repairable."
+ FRA_the_working_mans_automobile: "Автомобіль для робітника"
+ FRA_the_working_mans_automobile_desc: "Соціалізм означає задоволення потреб і бажань робітників. Багато наших товаришів думають про можливості, які відкриває володіння власним автомобілем, не прив'язаним до прокладених колій та маршрутів. Громадський масовий транспорт ніколи не буде замінено, але ця мрія повинна стати досяжною для всіх працьовитих французів. І тому ми звернемося до профспілок автомобільної промисловості з проханням розробити нові моделі, довговічні, але прості та дешеві, які легко ремонтувати."
 
- FRA_new_tractor_factories: "New Tractor Factories"
- FRA_new_tractor_factories_desc: "With mechanisation efforts came a new need for a large number of mechanical agricultural equipment, most importantly tractors, base building block of this drive. Each cooperative already has theirs, but if we want to fully transition away from the scythe, every peasant must have his own modern beast of burden. To avoid further burdening of our existing automobile industry plants, we will direct the creation of dedicated factories."
+ FRA_new_tractor_factories: "Нові тракторні заводи"
+ FRA_new_tractor_factories_desc: "Зі зусиллями з механізації виникла нова потреба у великій кількості механічного сільськогосподарського обладнання, найважливішим з яких є трактори — основа цього руху. Кожен кооператив уже має свої, але якщо ми хочемо повністю відмовитися від коси, кожен селянин повинен мати власну сучасну робочу худобу. Щоб уникнути подальшого навантаження на наші існуючі заводи автомобільної промисловості, ми спрямуємо створення спеціалізованих заводів."
 
- FRA_viticulture_of_the_twentieth_century: "Viticulture of the Twentieth Century"
- FRA_viticulture_of_the_twentieth_century_desc: "Wine, cornerstone of French sociability, any excuse being the right one to open a good bottle. The reds of Bordeaux or Burgundy, the whites of Lorraine, they all have admirers here and abroad. Harvest is still largely done by hand, and the whole process is still rather artisanal: though some parts are too crucial to modernise, giving the nectar its subtle taste, we can help the production of wine into this century with modernised equipment."
+ FRA_viticulture_of_the_twentieth_century: "Виноградарство двадцятого століття"
+ FRA_viticulture_of_the_twentieth_century_desc: "Вино, наріжний камінь французького спілкування, будь-який привід є слушним, щоб відкрити хорошу пляшку. Червоні вина Бордо чи Бургундії, білі з Лотарингії — всі вони мають шанувальників тут і за кордоном. Збір врожаю все ще переважно ручний, і весь процес залишається досить ремісничим: хоча деякі етапи занадто важливі для модернізації, надаючи нектару його тонкий смак, ми можемо допомогти виробництву вина увійти в це століття з модернізованим обладнанням."
 
- FRA_expand_the_textile_industry: "Expand the Textile Industry"
- FRA_expand_the_textile_industry_desc: "From the early days of the industrial revolution, the textile industry has always been at the forefront of economic progress. Now, synthetic fibers, new machines and techniques have made possible the mass production, in less labour-intensive manners, of textiles and clothing. Paris is already the capital of fashion, soon we will also be the homeland of affordable, durable textile: our workers will be better dressed than all the ladies of Berlin."
+ FRA_expand_the_textile_industry: "Розширити текстильну промисловість"
+ FRA_expand_the_textile_industry_desc: "З перших днів промислової революції текстильна промисловість завжди була на передовій економічного прогресу. Тепер синтетичні волокна, нові машини та технології зробили можливим масове виробництво, менш трудомісткими способами, текстилю та одягу. Париж уже є столицею моди, незабаром ми також станемо батьківщиною доступного, довговічного текстилю: наші робітники будуть одягнені краще, ніж усі дами Берліна."
 
  FRA_road_to_war: "Шлях до війни"
  FRA_road_to_war_desc: "Війна з Німеччиною неминуча, адже німці тримають наших братів під окупацією в Ельзас-Лотарингії, а з їхньою величезною кількістю маріонеток вони стають головною контрреволюційною силою в Європі, пригнічуючи якщо не весь світ, то сотні мільйонів людей. Час це зупинити і помститися їм за все. Перший Вельткріг не був останнім."
@@ -300,14 +300,16 @@
  FRA_renseignements_generaux: "Інформбюро"
  FRA_renseignements_generaux_desc: "Вочевидь, що ми зможемо захистити нашу країну без сучасного централізованого розвідувального управління. Старі табу все ще сильні в наших умах, і важко уявити таку централізовану систему влади, але ми маємо піти на ці жертви. Німецькі шпигуни вже тихо посміюються з наших жалюгідних "розвідувальних комітетів"."
 
- FRA_the_haunting_spectre: "The Haunting Spectre"
- FRA_the_haunting_spectre_desc: "In every port, in every warehouse, in every barrack, and on every assembly line of every counter-revolutionary power, we have a comrade, ready to do his part in the great struggle. Our network of informants and sympathisers is unmatched, as after what could be greater than the global working class: we will use it to its full extent as we further our intelligence efforts."
+ FRA_the_haunting_spectre: "Примара, що блукає"
+ FRA_the_haunting_spectre_desc: "У кожному порту, на кожному складі, в кожній казармі та на кожній складальній лінії кожної контрреволюційної держави у нас є товариш, готовий зробити свій внесок у велику боротьбу. Наша мережа інформаторів і симпатиків не має собі рівних, бо що може бути величнішим за світовий робітничий клас: ми використаємо її повною мірою для посилення наших розвідувальних зусиль."
+
 
  FRA_vanguard_of_the_revolution: "Авангард революції"
  FRA_vanguard_of_the_revolution_desc: "Ті, хто все ще бореться під капіталістичним гнітом, дивляться на нас з великою надією, як на великий маяк, серце Революції, що б'ється. Ми повинні зробити все, що в наших силах, щоб допомогти тим, хто рве кайдани, це наш історичний обов'язок. Ідеологічна та матеріальна підтримка — це одне, але ми повинні йти далі та брати безпосередню участь у збройній боротьбі: Французи будуть боротися по всьому світу за свободу всіх робітників і переможуть, так само як ми перемогли тут."
 
- FRA_curie_research_institute: "Curie Research Institute"
- FRA_curie_research_institute_desc: "Obscurantism has no place in our nation. Materialism guides us: our politics are scientific, and so science should be given all that it needs to progress. Our brightest minds will work to serve France, the Revolution, and thus Humanity as a whole. We will the establish a research institute aimed at cementing our technological superiority, named after the brilliant physicists Pierre and Marie Curie."
+ FRA_curie_research_institute: "Дослідницький інститут Кюрі"
+ FRA_curie_research_institute_desc: "Обскурантизму немає місця в нашій нації. Нас веде матеріалізм: наша політика наукова, тому науці слід надати все необхідне для прогресу. Наші найсвітліші уми працюватимуть на благо Франції, Революції, а отже, і всього людства. Ми заснуємо дослідницький інститут, спрямований на зміцнення нашої технологічної переваги, названий на честь геніальних фізиків П'єра та Марії Кюрі."
+
 
  FRA_synthetic_chemistry: "Синтетичні ресурси"
  FRA_synthetic_chemistry_desc: "Території Франції великі і сповнені ресурсів, але вони можуть містити у собі абсолютно все. Бракує нафти, гуми, вольфраму та хрому, і у разі конфлікту ми не зможемо покладатися на торгівлю. Ми повинні знайти нові шляхи доступу до них, і деякі вчені навіть припускають, що ми зможемо створювати їх."
@@ -318,8 +320,8 @@
  FRA_damocles: "Проєкт «Дамокл»"
  FRA_damocles_desc: "Сьогодні відбулася зустріч у Кембриджському університеті, натхненна Кембриджською конференцією, яка відбулася під час Десятого конгресу Інтернаціоналу. Група фізиків-теоретиків із Британії та Франції просить нашу підтримку для започаткування проекту "Дамокл", спільного англо-французького комітету з ядерних досліджень."
 
- FRA_zoe_project: "Zoé Project"
- FRA_zoe_project_desc: "While the Damocles Project held great promise, the refusal by [ENG.GetNameDef] to take part crippled the cooperation between our scientists and theirs. Regardless, we must persevere and try to figure out what uses we can make of the atom. We will dedicate this project to the very woman who discovered Radium and set us on this path."
+ FRA_zoe_project: "Проєкт «Зої»"
+ FRA_zoe_project_desc: "Хоча проєкт «Дамоклів меч» мав великі перспективи, відмова [ENG.GetNameDef] брати участь у ньому підірвала співпрацю між нашими та їхніми вченими. Попри це, ми повинні наполегливо працювати й з'ясувати, як ми можемо використати атом. Ми присвятимо цей проєкт тій самій жінці, яка відкрила радій і вказала нам цей шлях."
 
  FRA_fortify_the_german_border: "Німецький кордон"
  FRA_fortify_the_german_border_desc: "Ми вже побудували досить значну мережу укріплень уздовж річки Маас та кордону з Фландрією-Валлонією. Однак ми можемо покращити її за допомогою нових бункерів та передових військових споруд, таких як радіостанції та сучасні артилерійські установки. Ми зробимо те, на що республіка ніколи б не спромоглася піти."
@@ -354,8 +356,8 @@
  FRA_the_congress_of_the_internationale: "Інтернаціональний Конгрес"
  FRA_the_congress_of_the_internationale_desc: "Лідери соціалістичних, синдикалістських та тоталістичних партій, глави держав та урядів, міністри закордонних справ та журналісти – всі прибули до Парижа на відкриття Дев'ятого конгресу Третього інтернаціоналу. Ми першими приймаємо його у себе, а також скромно сподіваємося, що покажемо себе як провідна соціалістична країна у світі."
 
- FRA_mission_to_india: "Mission to [HND.GetNameDef]"
- FRA_mission_to_india_desc: "[HND.GetNameDefCap] asked for our support in their struggle against its neighbours, the Lahore imperialists and the Princely Federation reactionaries. They ask of us that we send military advisors to train their officers and their troops. We will ensure this aid arrives rapidly, so that they may unite India faster."
+ FRA_mission_to_india: "Місія до [HND.GetNameDef]"
+ FRA_mission_to_india_desc: "[HND.GetNameDefCap] попросила нашої підтримки в боротьбі проти своїх сусідів — лахорських імперіалістів та реакціонерів з Князівської федерації. Вони просять нас надіслати військових радників для навчання їхніх офіцерів та військ. Ми забезпечимо швидке надходження цієї допомоги, щоб вони могли швидше об'єднати Індію."
 
  FRA_arab_committee: "Антиколоніалізм"
  FRA_arab_committee_desc: "Зрадники та вороги французького народу, ублюдок Петен та кліка його друзів, використовують потенціал корінного пролетаріату. Але ми не дозволимо цьому продовжуватись. Наш вірний алжирський товариш Саїл Мухамед, який живе у Франції, запропонував ідею про підтримку соціалістичних визвольних рухів по всій Африці заради загального блага африканців."
@@ -369,200 +371,200 @@
  FRA_found_the_phalanstere_international: "Інтернаціональний Фаланстер"
  FRA_found_the_phalanstere_international_desc: "У ході зустрічі у старовинному Кембриджському університеті було ухвалено рішення про створення всесвітнього плану щодо об'єднання технологічних досягнень синдикалістських країн. З того часу цей план перетворився на більш амбітний план "Всесвітній Фаланстер", спрямований на допомогу синдикалістським режимам по всьому світу."
 
- FRA_integrate_the_corps_francs: "Integrate the Corps Francs"
- FRA_integrate_the_corps_francs_desc: "The Corps Francs, our commando troops, proved their worth in the Great War and the revolutionary events of the past decades, breaking impossible stalemates through sheer will and heroism. Infiltration and neutralisation, opening a breach for our regular forces: only the bravest of braves are willing to take the risks of such missions, and we need this fervour in the coming confrontations with the Revolution's enemies."
+ FRA_integrate_the_corps_francs: "Інтегрувати «Вільні корпуси»"
+ FRA_integrate_the_corps_francs_desc: "«Вільні корпуси», наші командос, довели свою цінність у Великій війні та революційних подіях останніх десятиліть, долаючи безвихідні ситуації завдяки незламній волі та героїзму. Проникнення та нейтралізація, прорив для наших регулярних сил: лише найхоробріші з хоробрих готові йти на ризик таких місій, і нам потрібен цей запал у майбутніх зіткненнях з ворогами Революції."
 
- FRA_the_riflemans_friend: "The Rifleman's Friend"
- FRA_the_riflemans_friend_desc: "We invent every day new ways of slaughter, and so we might forget that no matter how advanced our machines of death, it is not them that triumph, that conquer, that advance, but man. In the end, it all still comes down to a man and his weapon. Each soldier is a worker for the Revolution, and he must be able to trust that his tools are best suited for his grim but necessary task."
+ FRA_the_riflemans_friend: "Друг стрільця"
+ FRA_the_riflemans_friend_desc: "Ми щодня винаходимо нові способи вбивства і тому можемо забути, що, якими б досконалими не були наші машини смерті, перемагають, завойовують, просуваються не вони, а людина. Зрештою, все зводиться до людини та її зброї. Кожен солдат — це робітник Революції, і він повинен бути впевнений, що його інструменти найкраще підходять для його похмурого, але необхідного завдання."
 
- FRA_eyes_on_the_ligne_bleue: "Eyes on the Ligne Bleue"
- FRA_eyes_on_the_ligne_bleue_desc: "The \"Blue Line\", the Vosges, named after the beautiful morning hue of the venerable mountains, is our frontier with German imperial-junkerism. Our way to peace and victory lies in the vales and forests of the range, towards our brothers in Alsace, our comrades of the Ruhr. We cannot allow the enemy to choose the field of battle, we must push, attack, take the fight to him, surprise him even through impassable terrain."
+ FRA_eyes_on_the_ligne_bleue: "Погляд на «Блакитну лінію»"
+ FRA_eyes_on_the_ligne_bleue_desc: "«Блакитна лінія», Вогези, названа на честь прекрасного ранкового відтінку величних гір, є нашим кордоном з німецьким імперіал-юнкерством. Наш шлях до миру та перемоги лежить у долинах і лісах цього хребта, до наших братів в Ельзасі, наших товаришів у Рурі. Ми не можемо дозволити ворогу обирати поле бою, ми повинні тиснути, атакувати, нав'язувати йому бій, дивувати його навіть на непрохідній місцевості."
 
- FRA_reform_the_high_command: "Reform the High Command"
- FRA_reform_the_high_command_desc: "Our Federal Forces have for too long been suspected of counter-revolutionary sympathies, and this has hindered organisational reforms. A safe high-command was deemed preferable to an efficient high-command. This stagnation cannot be allowed to continue, or France, already at a disadvantage in the coming fight with Reaction, will never be able to defend the proletariat's burning torch. Adaptability and discipline will be our goal."
+ FRA_reform_the_high_command: "Реформувати верховне командування"
+ FRA_reform_the_high_command_desc: "Наші Федеральні сили занадто довго підозрювали в контрреволюційних симпатіях, і це перешкоджало організаційним реформам. Безпечне верховне командування вважалося кращим за ефективне. Ця стагнація не може тривати, інакше Франція, вже перебуваючи в невигідному становищі в майбутній боротьбі з Реакцією, ніколи не зможе захистити палаючий смолоскип пролетаріату. Нашою метою будуть адаптивність та дисципліна."
 
- FRA_all_for_the_revolution: "All for the Revolution"
- FRA_all_for_the_revolution_desc: "The decisive factor in warfare will always be will. Will to triumph, will to fulfil our History-ordained destiny. We will win because we must, because the French people has been tasked with saving civilisation from bourgeois rot. We will win because facing us are mere slaves of Capital, not free men fighting to break the chains. They may have Krupp steel, but we have the united will of the proletariat: victory is certain."
+ FRA_all_for_the_revolution: "Все для Революції"
+ FRA_all_for_the_revolution_desc: "Вирішальним фактором у війні завжди буде воля. Воля до перемоги, воля до виконання нашої визначеної Історією долі. Ми переможемо, бо повинні, бо французькому народу доручено врятувати цивілізацію від буржуазної гнилі. Ми переможемо, бо перед нами лише раби Капіталу, а не вільні люди, що борються за розрив кайданів. У них може бути круппівська сталь, але в нас є єдина воля пролетаріату: перемога неминуча."
 
- FRA_our_comrades_fight_too: "Our Comrades' Fight, Too"
- FRA_our_comrades_fight_too_desc: "In the coming armed struggle against Capital, we are not alone: not only can we count on our allies, but in every nation, in every factory, the worker hopes for our victory, await his liberation. Some will go further, throw off their chains and join us here, and we will assemble a grand international army of free proletarians to assist our forces. What could the enemy do against our combined might?"
+ FRA_our_comrades_fight_too: "Наші товариші теж борються"
+ FRA_our_comrades_fight_too_desc: "У прийдешній збройній боротьбі проти Капіталу ми не самотні: ми можемо розраховувати не лише на наших союзників, але й на те, що в кожній нації, на кожному заводі робітник сподівається на нашу перемогу, чекає на своє визволення. Дехто піде далі, скине свої кайдани й приєднається до нас, і ми зберемо велику міжнародну армію вільних пролетарів для допомоги нашим силам. Що зможе ворог протиставити нашій об'єднаній могутності?"
 
- FRA_levee_en_masse: "Levée en Masse"
- FRA_levee_en_masse_desc: "When our elders in Revolution were threatened by Reaction, they mobilised the entire Nation to defend its newly won liberty. Young men fought, women bandaged their wounds, children and elders preached the creed of Liberty. We must first match their fervour in the mobilisation of the masses, and then we will go further. We fight for Liberation, for the new economic age, no cause is more deserving of our sacrifices."
+ FRA_levee_en_masse: "Масовий призов"
+ FRA_levee_en_masse_desc: "Коли нашим предкам по Революції загрожувала Реакція, вони мобілізували всю націю для захисту щойно здобутої свободи. Молоді чоловіки билися, жінки перев'язували їхні рани, діти та старі проповідували кредо Свободи. Ми повинні спочатку зрівнятися з їхнім запалом у мобілізації мас, а потім піти далі. Ми боремося за Визволення, за нову економічну еру, жодна справа не є більш гідною наших жертв."
 
- FRA_the_methodical_war: "The Methodical War"
- FRA_the_methodical_war_desc: "This century has killed the daring charge, the heroic last stand. If there was any doubt, the Great War has proved this beyond a doubt: warfare is now a question of planning, of timetables, of logistics, of charts. War is a purely materialistic question. If we want our stand to defend the Revolution to be successful, we must not seek vainglory but intellectual and material supremacy over the forces of Capital."
+ FRA_the_methodical_war: "Методична війна"
+ FRA_the_methodical_war_desc: "Це століття вбило відважну атаку, героїчну останню битву. Якщо й були сумніви, Велика війна розвіяла їх остаточно: війна тепер — це питання планування, розкладів, логістики, схем. Війна — це суто матеріалістичне питання. Якщо ми хочемо, щоб наша оборона Революції була успішною, ми повинні прагнути не марнославства, а інтелектуальної та матеріальної переваги над силами Капіталу."
 
- FRA_an_armys_stomach: "An Army's Stomach"
- FRA_an_armys_stomach_desc: "A great enemy of the Revolution once said "an army marches on its stomach". He was then defeated, not by braver men or superior tactics, but by stretched supply lines. He did not take his advice to heart, and so History left him behind. We will not make the same mistake, our mission is too important. The comrade-soldier will fight, will triumph, and will be well-fed, well-clothed, and well-armed, the whole way."
+ FRA_an_armys_stomach: "Шлунок армії"
+ FRA_an_armys_stomach_desc: "Великий ворог Революції колись сказав: «армія марширує на своєму шлунку». Потім його перемогли не хоробріші люди чи краща тактика, а розтягнуті лінії постачання. Він не взяв до серця власну пораду, і тому Історія залишила його позаду. Ми не повторимо тієї ж помилки, наша місія занадто важлива. Товариш-солдат буде битися, перемагатиме, і буде добре нагодований, одягнений та озброєний на всьому шляху."
 
- FRA_principe_de_concentration: "Principe de Concentration"
- FRA_principe_de_concentration_desc: "France has the best artillerymen in the world, we have proved this in many a campaign, and will prove it again in the next. Our perfectly timed, superbly executed barrages will sweep away the armies of Capital, destroy the fortresses of Reaction, and blast the way open for our men, to Berlin and beyond! There is only one queen that we will abide by, and it is she, Artillery, Queen of the Battlefield."
+ FRA_principe_de_concentration: "Принцип концентрації"
+ FRA_principe_de_concentration_desc: "Франція має найкращих артилеристів у світі, ми довели це в багатьох кампаніях і доведемо знову в наступній. Наші ідеально розраховані за часом, чудово виконані артобстріли зметуть армії Капіталу, знищать фортеці Реакції та проб'ють шлях для наших людей до Берліна і далі! Є лише одна королева, якій ми підкоряємося, і це вона — Артилерія, Королева поля бою."
 
- FRA_aero_terrestrial_integration: "Aero-Terrestrial Integration"
- FRA_aero_terrestrial_integration_desc: "A single decisive punch, through the enemy lines, that's all it takes. A lucky breakthrough? We only believe in what we can see, luck will have nothing to do with it. We need perfect coordination between our forces, and we will relentless drill it into our men. Air power will soften up our targets, artillery will blow them away, armour and infantry will mop up whatever meagre resistance a serf of the Kaiser can muster to being liberated."
+ FRA_aero_terrestrial_integration: "Аеро-наземна інтеграція"
+ FRA_aero_terrestrial_integration_desc: "Один рішучий удар, крізь ворожі лінії, — це все, що потрібно. Щасливий прорив? Ми віримо лише в те, що бачимо, удача тут ні до чого. Нам потрібна ідеальна координація між нашими силами, і ми будемо невпинно вбивати це в голови наших людей. Повітряні сили розм'якшать наші цілі, артилерія їх знесе, а бронетехніка та піхота доб'ють будь-який мізерний опір, який може виставити кріпак кайзера на шляху до свого визволення."
 
- FRA_supremacy_of_movement: "Supremacy of Movement"
- FRA_supremacy_of_movement_desc: "We must face the facts: the enemy outnumbers us, and dwarves us in industrial might. We have with us the international brotherhood of workers, but a plan to negate Capital's advantages couldn't hurt. And for that, we must be daring, the next war cannot be one of positions, it must be over before they know what has happened to them. Advance, envelop, encircle, crush, to the end of the Earth, until we are free."
+ FRA_supremacy_of_movement: "Перевага в русі"
+ FRA_supremacy_of_movement_desc: "Ми повинні визнати факти: ворог переважає нас чисельно і значно випереджає в промисловій могутності. З нами — міжнародне братерство робітників, але план для нівелювання переваг Капіталу не завадить. І для цього ми повинні бути сміливими, наступна війна не може бути позиційною, вона повинна закінчитися, перш ніж вони зрозуміють, що сталося. Наступати, охоплювати, оточувати, нищити, до кінця Землі, доки ми не станемо вільними."
 
- FRA_la_petite_reine: "La Petite Reine"
- FRA_la_petite_reine_desc: "The \"Little Queen\", the bicycle: our enemies might scoff, but this quintessential object of the workers' life will be an instrument of our triumph. When our troops outflank theirs, discreetly infiltrate their lines, quickly advancing only powered by proletarian might, we shall see who laughs last. Their vehicles will breakdown, run out of gas, will be confined to roads: ours will fly across the countryside."
+ FRA_la_petite_reine: "Маленька королева"
+ FRA_la_petite_reine_desc: "«Маленька королева», велосипед: наші вороги можуть насміхатися, але цей квінтесенційний предмет робітничого життя стане інструментом нашого тріумфу. Коли наші війська обійдуть їхні фланги, непомітно проникнуть у їхні лінії, швидко просуваючись лише завдяки пролетарській силі, ми побачимо, хто сміятиметься останнім. Їхня техніка зламається, у неї закінчиться пальне, вона буде прикута до доріг, а наша — летітиме полями."
 
- FRA_overrun_capitals_front_lines: "Overrun Capital's Front Lines"
- FRA_overrun_capitals_front_lines_desc: "If we want to overwhelm the enemy and negate his advantages, we must be quick, our troops must cross vast expanses in hours, days at most. Embrace the future: entire divisions, supplies, artillery and all, not chained to the limited energy of Man and Beast, but effortlessly carried by machines, ready to fight at a moment's notice. This is a new age, the age of motors: production has been revolutionised, warfare soon will be too."
+ FRA_overrun_capitals_front_lines: "Прорвати фронт Капіталу"
+ FRA_overrun_capitals_front_lines_desc: "Якщо ми хочемо здолати ворога та нівелювати його переваги, ми повинні діяти швидко, наші війська повинні долати величезні відстані за години, максимум — за дні. Прийміть майбутнє: цілі дивізії, припаси, артилерія і все інше, не прив'язані до обмеженої енергії людини й тварини, а без зусиль переміщувані машинами, готові до бою в будь-який момент. Це нова ера, ера моторів: виробництво було революціонізоване, незабаром буде й війна."
 
- FRA_the_modern_comrade_soldier: "The Modern Comrade-Soldier"
- FRA_the_modern_comrade_soldier_desc: "Gone are the days of militiamen with a red armband, a Lebel, and a dream of Revolution. The modern comrade-soldier is perfectly trained, drilled, equipped to deal with all that the coming conflict will throw at him. His officer are not the tyrants of yesterday, they are united in one common purpose, one common will, and they too have been tirelessly studying the Great War and the various revolutionary conflicts that followed."
+ FRA_the_modern_comrade_soldier: "Сучасний товариш-солдат"
+ FRA_the_modern_comrade_soldier_desc: "Минули дні ополченців з червоною пов'язкою, «Лебелем» і мрією про Революцію. Сучасний товариш-солдат ідеально навчений, видресируваний, екіпірований, щоб впоратися з усім, що кине йому прийдешній конфлікт. Його офіцери — не тирани вчорашнього дня, вони об'єднані однією спільною метою, однією спільною волею, і вони теж невтомно вивчали Велику війну та різні революційні конфлікти, що слідували за нею."
 
- FRA_expand_the_fusiliers: "Expand the Fusiliers"
- FRA_expand_the_fusiliers_desc: "There remains a secondary but nonetheless concerning counter-revolutionary threat across the Mediterranean Sea. Shadows of their former selves, the men we once called brothers, the Exiles, await the killing blow of History, their captives calling to us in despair. When the opportunity comes, we will have to land in Algiers, and so we need to revitalise our traditions of marine infantry, to act as first glorious wave of liberation upon the African continent."
+ FRA_expand_the_fusiliers: "Розширити фузилерів"
+ FRA_expand_the_fusiliers_desc: "Залишається другорядна, але все ж тривожна контрреволюційна загроза по той бік Середземного моря. Тіні самих себе, люди, яких ми колись називали братами, Вигнанці, чекають на смертельний удар Історії, а їхні бранці з відчаєм кличуть нас. Коли з'явиться можливість, нам доведеться висадитися в Алжирі, і тому нам потрібно відродити наші традиції морської піхоти, щоб стати першою славетною хвилею визволення на африканському континенті."
 
- FRA_corps_francs_hunters: "Corps Francs Hunters"
- FRA_corps_francs_hunters_desc: "Our commandos have achieved tremendous successes in action, first to break whatever desperate defences Capital foolishly mounted. Tip of the spear of Revolution, it must be ever sharper. And so this elite of elites will be further reinforced, trained, tirelessly working until enemy commanders turn tails at the mere possibility of their presence on the battlefield."
+ FRA_corps_francs_hunters: "Мисливці «Вільних корпусів»"
+ FRA_corps_francs_hunters_desc: "Наші командос досягли величезних успіхів у бою, першими прориваючи будь-яку відчайдушну оборону, яку по-дурному вибудовував Капітал. Вістря списа Революції, воно повинно бути ще гострішим. І тому ця еліта з еліт буде ще більше посилена, навчена, невпинно працюватиме, доки ворожі командири не тікатимуть, ледь зачувши про їхню можливу присутність на полі бою."
 
- FRA_deepen_the_fog_of_war: "Deepen the Fog of War"
- FRA_deepen_the_fog_of_war_desc: "There is no greater power, no greater advantage in warfare than knowledge. We will know the enemy's every move and obscure our own, making him pounce at shadows before stabbing him in the back. This won't be difficult: everywhere we advance, we are in friendly territory, the workers awaits us; everywhere we are pushed back, revolutionary solidarity will sabotage their efforts at secrecy. The enemy will question his sanity as he is swept away."
+ FRA_deepen_the_fog_of_war: "Згустити туман війни"
+ FRA_deepen_the_fog_of_war_desc: "Немає більшої сили, більшої переваги у війні, ніж знання. Ми будемо знати кожен крок ворога і приховуватимемо свої, змушуючи його кидатися на тіні, перш ніж завдати йому удару в спину. Це не буде складно: скрізь, де ми наступаємо, ми на дружній території, робітники чекають на нас; скрізь, де нас відтісняють, революційна солідарність саботуватиме їхні спроби зберегти таємницю. Ворог засумнівається у власному глузді, коли його зметуть."
 
- FRA_chasseurs_portes: "Chasseurs Portés"
- FRA_chasseurs_portes_desc: "Rapid deployment is critical, both to reinforce everywhere the enemy attacks and to push through any break in the front. For this purpose, we will assemble specialised mobile infantry troops, ready to respond to any situation that arise in the coming revolutionary war, and to act as wedge tearing apart resistance."
+ FRA_chasseurs_portes: "Мотопіхота"
+ FRA_chasseurs_portes_desc: "Швидке розгортання є критично важливим, як для посилення оборони скрізь, де атакує ворог, так і для прориву будь-якої діри у фронті. З цією метою ми зберемо спеціалізовані мобільні піхотні війська, готові реагувати на будь-яку ситуацію, що виникне в прийдешній революційній війні, і діяти як клин, що розриває опір."
 
- FRA_corps_du_genie_militaire: "Corps du Génie Militaire"
- FRA_corps_du_genie_militaire_desc: "Our engineer corps has a long and proud history, supporting French might across Europe and across the globe, shattering apart any resistance. Whether they come from the Polytechnique School or have risen up the ranks, our combat engineers take us across rivers, shelter us safely behind defences, and blow apart the enemy's. With further training and ever more advanced tools, they will continue to act as the backbone of our forces."
+ FRA_corps_du_genie_militaire: "Військовий інженерний корпус"
+ FRA_corps_du_genie_militaire_desc: "Наш інженерний корпус має довгу й славетну історію, підтримуючи французьку міць по всій Європі та всьому світу, руйнуючи будь-який опір. Чи то випускники Політехнічної школи, чи ті, хто піднявся по службі, наші бойові інженери переправляють нас через річки, надійно укривають за оборонними спорудами та розносять ворожі. З подальшим навчанням та все більш досконалими інструментами вони й надалі залишатимуться кістяком наших сил."
 
- FRA_rapid_response_detachments: "Rapid Response Detachments"
- FRA_rapid_response_detachments_desc: "The many are one, revolutionary warfare means that sacrifice must be made, but this cannot mean that the lives of our comrades is thrown away. Especially when France must face enemies with a demographic advantage. Rapid treatment, experienced doctors and dedicated nurses, efficient deployment of reinforcements: we will do everything in our power to minimise casualties, and to prevent a wound to be the end of one's commitment to the Revolution."
+ FRA_rapid_response_detachments: "Загони швидкого реагування"
+ FRA_rapid_response_detachments_desc: "Багато — це одне, революційна війна означає, що жертви необхідні, але це не може означати, що життя наших товаришів кидають на вітер. Особливо, коли Франція має справу з ворогами, що мають демографічну перевагу. Швидке лікування, досвідчені лікарі та віддані медсестри, ефективне розгортання підкріплень: ми зробимо все, що в наших силах, щоб мінімізувати втрати та не допустити, щоб поранення стало кінцем відданості Революції."
 
- FRA_legacy_of_the_grande_batterie: "Legacy of the Grande Batterie"
- FRA_legacy_of_the_grande_batterie_desc: "Our forefathers conquered through the might of artillery, slowly honing their craft. We are the inheritors of more than a century of such traditions, and we will write down our own glorious chapter, reducing to rubble all that stands in the way of Progress, in the way of the People. Witness us, artillerymen of yesteryears; take note, our descendants: the triumph of the Revolution comes from the barrel of the cannon."
+ FRA_legacy_of_the_grande_batterie: "Спадок «Великої батареї»"
+ FRA_legacy_of_the_grande_batterie_desc: "Наші пращури завойовували могутністю артилерії, повільно вдосконалюючи свою майстерність. Ми є спадкоємцями понад столітніх традицій і напишемо власну славну главу, перетворюючи на руїни все, що стоїть на шляху Прогресу, на шляху Народу. Свідчіть нам, артилеристи минулих років; візьміть до уваги, наші нащадки: тріумф Революції виходить зі ствола гармати."
 
- FRA_precise_fire_control: "Precise Fire Control"
- FRA_precise_fire_control_desc: "Red rolling thunder will fall upon the enemies of the working class. Perfect coordination between our artillerymen will wash away any resistance standing against us, a barrage technique already perfected during the Great War but that will now serve us faithfully and be adapted to the new battlefields of revolutionary conquest. We are the best in our field but could always be better, for we serve the most important cause."
+ FRA_precise_fire_control: "Точне керування вогнем"
+ FRA_precise_fire_control_desc: "Червоний гуркіт грому впаде на ворогів робітничого класу. Ідеальна координація між нашими артилеристами змиє будь-який опір, що стоятиме проти нас — техніка загороджувального вогню, вже вдосконалена під час Великої війни, тепер вірно служитиме нам і буде адаптована до нових полів битв революційного завоювання. Ми найкращі у своїй справі, але завжди можемо стати кращими, бо ми служимо найважливішій справі."
 
- FRA_dual_purpose_howitzers: "Dual-Purpose Howitzers"
- FRA_dual_purpose_howitzers_desc: "Our engineers are hard at work to take ever further the science of dispersing threats to the Revolution. Their latest find is another proof, if one was ever needed, of French ingenuity: cannons that can be converted for both anti-aircraft and anti-armour action, to accompany our troops and respond to their every need."
+ FRA_dual_purpose_howitzers: "Гаубиці подвійного призначення"
+ FRA_dual_purpose_howitzers_desc: "Наші інженери наполегливо працюють, щоб просувати науку про розсіювання загроз Революції. Їхня остання знахідка — ще один доказ, якщо він був потрібен, французької винахідливості: гармати, які можна переобладнати як для протиповітряної, так і для протитанкової дії, щоб супроводжувати наші війська та реагувати на кожну їхню потребу."
 
- FRA_comrade_estiennes_heritage: "Comrade Estienne's Heritage"
- FRA_comrade_estiennes_heritage_desc: "General Estienne, a hero who revolutionised forever the battlefield. Against a hierarchy set in their ways, which wasted in doomed offensives the infantryman's life, he carried the torch of armoured warfare and earned his nickname of \"Père des chars\", Father of the Tanks. They were the instrument of triumphs in the latter stages of the Great War, that sadly could not be transformed into victory: the Revolutionary War will prove their usefulness again."
+ FRA_comrade_estiennes_heritage: "Спадок товариша Етьєна"
+ FRA_comrade_estiennes_heritage_desc: "Генерал Етьєн, герой, який назавжди революціонізував поле бою. Проти ієрархії, що застрягла у своїх звичаях, яка марнувала життя піхотинців у приречених наступах, він ніс смолоскип бронетанкової війни й заслужив прізвисько «Батько танків». Вони були інструментом тріумфів на завершальних етапах Великої війни, які, на жаль, не вдалося перетворити на перемогу: Революційна війна знову доведе їхню корисність."
 
- FRA_proletarian_knights: "Proletarian Knights"
- FRA_proletarian_knights_desc: "The cavalry of past centuries might be on its way out, but its spirit shines brightly. Knights, hussars, dragons, the mantle of their bold and glorious legacy has been taken up by a new cavalry, motorised, armoured, heavily armed, but still charging and sowing terror in the enemy's heart. Yesterday, the serf was shut out of serving on horseback, today it is the proletarian who has the mechanical know-how to operate the beasts of modernity."
+ FRA_proletarian_knights: "Пролетарські лицарі"
+ FRA_proletarian_knights_desc: "Кавалерія минулих століть, можливо, й відходить у минуле, але її дух сяє яскраво. Лицарі, гусари, драгуни — мантію їхньої сміливої та славетної спадщини перейняла нова кавалерія, моторизована, броньована, важко озброєна, але все ще атакує і сіє жах у серці ворога. Вчора кріпакові було заборонено служити верхи, сьогодні ж саме пролетар має механічні знання, щоб керувати звірами сучасності."
 
- FRA_chars_du_futur: "Chars du Futur"
- FRA_chars_du_futur_desc: "Armour is a quickly advancing field: from artillery on shaky tractors twenty years ago, we are getting ever closer to future tanks able to turn the tide of battles by themselves, if not the war herself. Whether they act as support for our infantry or point of the sword we drive into the heart of Capital, they are revolutionary. And so we cannot allow ourselves to fall behind in terms of either technological or strategic developments."
+ FRA_chars_du_futur: "Танки майбутнього"
+ FRA_chars_du_futur_desc: "Бронетехніка — це галузь, що швидко розвивається: від артилерії на хитких тракторах двадцять років тому ми все ближче підходимо до майбутніх танків, здатних самостійно переламати хід битв, якщо не самої війни. Чи то вони діють як підтримка нашої піхоти, чи як вістря меча, який ми встромлюємо в серце Капіталу, вони є революційними. І тому ми не можемо дозволити собі відставати ні в технологічному, ні в стратегічному розвитку."
 
- FRA_the_battlefields_new_queen: "The Battlefield's New Queen"
- FRA_the_battlefields_new_queen_desc: "Artillery will always have our hearts, but we must admit that there she has a rival for title of Queen of the Battlefield: armour. She has already proven herself invaluable in recent conflicts, and we know that she will only get more crucial as technology and tactics advance. However, we have no need to choose between our loves: artillery will blast open the way, armour will sweep away the enemy, and our true mistress, Revolution, will triumph."
+ FRA_the_battlefields_new_queen: "Нова королева поля бою"
+ FRA_the_battlefields_new_queen_desc: "Артилерія завжди буде в наших серцях, але ми повинні визнати, що в неї є суперниця за титул Королеви поля бою: бронетехніка. Вона вже довела свою неоціненну користь у недавніх конфліктах, і ми знаємо, що її роль буде лише зростати з розвитком технологій і тактики. Однак нам не потрібно вибирати між нашими коханнями: артилерія прокладе шлях, бронетехніка змете ворога, а наша справжня господиня, Революція, переможе."
 
- FRA_mobile_fortresses: "Mobile Fortresses"
- FRA_mobile_fortresses_desc: "We will simply crush Reaction under the infatigable threads of our armour, advancing as the tide, slowly but surely, unstoppable. Reaction will throw all that it has towards our mobile bastions, and we will laugh heartily at its desperate attempt at hindering the march of the proletariat. After all, there is no rush, Clio is on our side, the outcome of this eternal war is pre-ordained."
+ FRA_mobile_fortresses: "Мобільні фортеці"
+ FRA_mobile_fortresses_desc: "Ми просто розчавимо Реакцію під невпинними гусеницями нашої бронетехніки, наступаючи, як приплив, повільно, але впевнено, нестримно. Реакція кине все, що має, проти наших мобільних бастіонів, а ми від душі посміємося з її відчайдушної спроби завадити маршу пролетаріату. Зрештою, поспішати нікуди, Кліо на нашому боці, результат цієї вічної війни визначено наперед."
 
- FRA_overwhelming_firepower: "Overwhelming Firepower"
- FRA_overwhelming_firepower_desc: "The feeble attempts of the slaves of Capital to hold back the might of the free workers will be blown apart by our armoured cavalry. Fiercely, we advance, rightfully, we push on to Berlin, until the Kaiser bows to the humblest seamstress of the Internationale and begs for our forgiveness. We cannot tolerate for even a second more to see our comrades in chains, and so we cannot slow down in our attacks: armour will furiously pierce through."
+ FRA_overwhelming_firepower: "Переважна вогнева міць"
+ FRA_overwhelming_firepower_desc: "Жалюгідні спроби рабів Капіталу стримати міць вільних робітників будуть рознесені нашою бронекавалерією. Люто ми наступаємо, по праву ми йдемо на Берлін, доки кайзер не вклониться найскромнішій швачці Інтернаціоналу й не попросить у нас пробачення. Ми не можемо терпіти ні секунди більше, бачачи наших товаришів у кайданах, і тому ми не можемо сповільнювати наші атаки: бронетехніка люто прорветься."
 
- FRA_restructure_the_marine_federale: "Restructure the Marine Fédérale"
- FRA_restructure_the_marine_federale_desc: "We must admit that the Federal Navy has seen better days, Revolution and the loss of France's ultramarine territories have hurt our naval forces. If we want to triumph against the Algiers regime and effectively assist our British comrades on the seas, a heavy-handed rearmament program as well as a re-examination of our strategic priorities is needed urgently."
+ FRA_restructure_the_marine_federale: "Реструктурувати Федеральний флот"
+ FRA_restructure_the_marine_federale_desc: "Треба визнати, що Федеральний флот бачив кращі часи; Революція та втрата заморських територій Франції завдали шкоди нашим військово-морським силам. Якщо ми хочемо перемогти режим в Алжирі та ефективно допомагати нашим британським товаришам на морях, нам терміново потрібна жорстка програма переозброєння, а також перегляд наших стратегічних пріоритетів."
 
- FRA_shipbuilding_union_expertise: "Shipbuilding Union Expertise"
- FRA_shipbuilding_union_expertise_desc: "Our arsenals are filled to the brim with talented workers, some who have worked for decades in the shipbuilding trade, and thus know every crook and cranny of every vessel. Their expertise could too easily be overlooked: their unions' federation must play an integral role in our re-armement programme, working in tandem with the Federal Navy. We are still lagging behind, but will make up for it with proletarian ingenuity."
+ FRA_shipbuilding_union_expertise: "Досвід профспілки суднобудівників"
+ FRA_shipbuilding_union_expertise_desc: "Наші арсенали повні талановитих робітників, деякі з яких десятиліттями працювали в суднобудуванні і тому знають кожен закуток кожного судна. Їхній досвід занадто легко можна проігнорувати: федерація їхніх профспілок повинна відігравати невід'ємну роль у нашій програмі переозброєння, працюючи в тандемі з Федеральним флотом. Ми все ще відстаємо, але надолужимо це пролетарською винахідливістю."
 
- FRA_expand_toulon_arsenal: "Expand Toulon Arsenal"
- FRA_expand_toulon_arsenal_desc: "As the foremost base of our Mediterranean forces, Toulon is without contest our most important military port, kept busy by the constant threat posed by reactionary presence in Corsica and frequent confrontations with Algiers' navy. If we want to affirm our supremacy over the sea, and one day go on the offensive, the infrastructures of Toulon must be expanded."
+ FRA_expand_toulon_arsenal: "Розширити арсенал у Тулоні"
+ FRA_expand_toulon_arsenal_desc: "Як передова база наших середземноморських сил, Тулон, безперечно, є нашим найважливішим військовим портом, який постійно зайнятий через загрозу, що походить від реакційної присутності на Корсиці, та часті зіткнення з флотом Алжиру. Якщо ми хочемо утвердити свою перевагу на морі й одного дня перейти в наступ, інфраструктуру Тулона необхідно розширити."
 
- FRA_refurbish_atlantic_bases: "Refurbish Atlantic Bases"
- FRA_refurbish_atlantic_bases_desc: "Our naval bases facing the Atlantic, chiefly situated in Brittany, are moribund: attention is turned to the South, and the Channel and the Ocean are guarded by the British. This shameful complacency cannot continue, we too must be able to go toe to toe with the Kaiser and his satellites at sea. Dockyards and submarine bases will be modernised, and we will convert to military use some of the local shipbuilding industry."
+ FRA_refurbish_atlantic_bases: "Оновити атлантичні бази"
+ FRA_refurbish_atlantic_bases_desc: "Наші військово-морські бази, що виходять до Атлантики, розташовані переважно в Бретані, перебувають у занепаді: увага звернена на південь, а Ла-Манш та океан охороняються британцями. Ця ганебна самозаспокоєність не може тривати, ми теж повинні бути здатні на рівних боротися з кайзером та його сателітами на морі. Верфі та бази підводних човнів будуть модернізовані, і ми переобладнаємо для військових потреб частину місцевої суднобудівної промисловості."
 
- FRA_red_fleet_old_school: "Red Fleet, Old School"
- FRA_red_fleet_old_school_desc: "If we want to reconquer our naval standing, a grand fleet is necessary, one that can stand proudly next to our allies'. Large, powerful ships will impose the people's will on the seas, beautiful prowesses of French engineering and shipbuilding, armed with the most impressive naval gunnery French ships have carried."
+ FRA_red_fleet_old_school: "Червоний флот старої школи"
+ FRA_red_fleet_old_school_desc: "Якщо ми хочемо відновити наше морське становище, необхідний великий флот, який зможе гордо стояти поруч із флотами наших союзників. Великі, потужні кораблі нав'язуватимуть волю народу на морях, прекрасні зразки французької інженерії та суднобудування, озброєні найвражаючою морською артилерією, яку коли-небудь мали французькі кораблі."
 
- FRA_the_aeronavales_day: "The Aéronavale's Day"
- FRA_the_aeronavales_day_desc: "It's obvious to us now that large, lumbering ships are the obsessions of naval officers with something to prove or make forget. Let the leviathans painfully move into position, a swam of planes will welcome them. They won't know what hit them, and will be at the bottom of the Channel before they realise that unwieldy colossuses make for great target practice."
+ FRA_the_aeronavales_day: "День морської авіації"
+ FRA_the_aeronavales_day_desc: "Тепер нам очевидно, що великі, неповороткі кораблі — це нав'язлива ідея морських офіцерів, яким є що доводити або про що забути. Нехай левіафани болісно займають позиції, рій літаків їх зустріне. Вони не зрозуміють, що їх вразило, і опиняться на дні Ла-Маншу, перш ніж усвідомлять, що громіздкі колоси — чудова мішень для тренувань."
 
- FRA_meute_tactics: "Meute Tactics"
- FRA_meute_tactics_desc: "We have a lot of catching up to do, starting at clear disadvantage against our main enemy's navy. A situation the French Navy knows well, sadly. What we lack in tonnage, we will make up for in bravery, and cunning: undersea corsairs will hunt down ships as a pack. Soon enough, the Kaiserliche Marine will be too afraid to leave its ports, haunted by the shadows of our sea hounds."
+ FRA_meute_tactics: "Тактика «зграї»"
+ FRA_meute_tactics_desc: "Нам потрібно багато надолужувати, починаючи з явної невигідної позиції проти флоту нашого головного ворога. Ситуація, на жаль, добре знайома французькому флоту. Те, чого нам не вистачає в тоннажі, ми компенсуємо хоробрістю та хитрістю: підводні корсари полюватимуть на кораблі зграєю. Досить скоро Кайзерліхмаріне боятиметься виходити зі своїх портів, переслідуваний тінями наших морських гончих."
 
- FRA_the_peoples_lance: "The People's Lance"
- FRA_the_peoples_lance_desc: "France was a pioneer in advances of submarine technology, it's up to us to renew this glorious legacy. Submariners are the daring anti-heroes of this century's naval war, feared, respected, hated. Some particularly idealistic or conservative officers still cling on to outdated notions for the development of our navy, they will have to get used to the new paradigm: no tactic is too dirty in the fight against Capital."
+ FRA_the_peoples_lance: "Спис народу"
+ FRA_the_peoples_lance_desc: "Франція була піонером у розвитку підводних технологій, і тепер наше завдання — відновити цю славетну спадщину. Підводники — сміливі антигерої морської війни цього століття, яких бояться, поважають, ненавидять. Деякі особливо ідеалістичні або консервативні офіцери все ще чіпляються за застарілі уявлення про розвиток нашого флоту, але їм доведеться звикнути до нової парадигми: жодна тактика не є занадто брудною в боротьбі проти Капіталу."
 
- FRA_the_noose_around_capitals_neck: "The Noose around Capital's Neck"
- FRA_the_noose_around_capitals_neck_desc: "Imperialist powers are reliant on trade, on the product of exploitation from their colonies. Without, they wither and die. We will do our proletarian duty and speed up that process, enacting a total blockade against the enemies of the Revolution. Helped by our allies, we will slowly but surely strangle the Empires, until they beg for mercy and liberation."
+ FRA_the_noose_around_capitals_neck: "Зашморг на шиї Капіталу"
+ FRA_the_noose_around_capitals_neck_desc: "Імперіалістичні держави залежать від торгівлі, від продукту експлуатації своїх колоній. Без цього вони в'януть і вмирають. Ми виконаємо наш пролетарський обов'язок і прискоримо цей процес, встановивши тотальну блокаду проти ворогів Революції. За допомогою наших союзників ми повільно, але впевнено будемо душити імперії, доки вони не благатимуть про пощаду та визволення."
 
- FRA_peoples_shield_and_broadside: "People's Shield and Broadside"
- FRA_peoples_shield_and_broadside_desc: "Ultimately, it's still all about cannons. Bigger guns, better guns, more easily manoeuvrable, manned by dedicated sailors who won't hesitate to put their lives on the line to defend their floating fortresses against threats. Advancements in both our main and anti-aircraft gunnery will ensure that our fleet can reign unimpeded."
+ FRA_peoples_shield_and_broadside: "Щит і борт народу"
+ FRA_peoples_shield_and_broadside_desc: "Зрештою, все зводиться до гармат. Більші гармати, кращі гармати, більш маневрені, укомплектовані відданими моряками, які не вагаючись поставлять своє життя на кін, щоб захистити свої плавучі фортеці від загроз. Покращення як нашої головної, так і зенітної артилерії забезпечать безперешкодне панування нашого флоту."
 
- FRA_colonnes_de_neptune: "Colonnes de Neptune"
- FRA_colonnes_de_neptune_desc: "Across the seas, reactionary threats still lurk. Marine infantry will be crucial in dealing once and for all with these remnants of an outdated system, to deal the mercy kill. Our marines' legacy is tainted by colonialism: they will wash away their units' sins by forging a new glorious history as the first red wave of righteous popular retribution landing on the beaches of imperial capitalism."
+FRA_colonnes_de_neptune: "Колони Нептуна"
+ FRA_colonnes_de_neptune_desc: "За морями все ще ховаються реакційні загрози. Морська піхота буде вирішальною для того, щоб раз і назавжди розправитися з цими залишками застарілої системи, завдавши удару милосердя. Спадщина наших морпіхів заплямована колоніалізмом: вони змиють гріхи своїх підрозділів, викувавши нову славетну історію як перша червона хвиля справедливої народної відплати, що висадиться на пляжах імперіалістичного капіталізму."
 
- FRA_close_naval_coordination: "Close Naval Coordination"
- FRA_close_naval_coordination_desc: "Rivalries between arms of the Navy cannot be tolerated, our situation cannot allow petty, unproductive competition. The naval war is fought on, under the seas and in the air, and each front will be finely tuned to work with the other, harmoniously toiling towards a single goal: glorious victory, death to Reaction."
+ FRA_close_naval_coordination: "Тісна морська координація"
+ FRA_close_naval_coordination_desc: "Суперництво між родами ВМС нетерпиме, наша ситуація не дозволяє дріб'язкової, непродуктивної конкуренції. Морська війна ведеться на морі, під водою та в повітрі, і кожен фронт буде точно налаштований на роботу з іншими, гармонійно працюючи заради єдиної мети: славетної перемоги, смерті Реакції."
 
- FRA_chasseurs_tueurs_groups: "Chasseurs-Tueurs Groups"
- FRA_chasseurs_tueurs_groups_desc: "Of course, we are not the only ones with submarines. The mutts of the enemy lurk, preying upon us: we won't allow ourselves to be hunted, and so we will become hunters. Specialised squadrons will wage total, permanent war against capitalist piracy, which seeks to hinder the collective efforts of the global proletariat against reactionary aggression."
+ FRA_chasseurs_tueurs_groups: "Групи мисливців-убивць"
+ FRA_chasseurs_tueurs_groups_desc: "Звісно, не лише ми маємо підводні човни. Ворожі пси ховаються, полюючи на нас: ми не дозволимо полювати на себе, і тому самі станемо мисливцями. Спеціалізовані ескадрильї вестимуть тотальну, перманентну війну проти капіталістичного піратства, яке прагне перешкодити колективним зусиллям світового пролетаріату проти реакційної агресії."
 
- FRA_protect_revolutionary_lifelines: "Protect Revolutionary Lifelines"
- FRA_protect_revolutionary_lifelines_desc: "The might of revolutionary production can makeup for most capitalist inefficiencies, but sadly we have not yet invented ways to grow rubber in the French countryside and find oil where there is none. We will stockpile, we will find ways to make more with less, but some strategic goods will need to be gathered by comrades abroad: we cannot allow the sea-lanes bringing them to us to be cut off by the enemy."
+ FRA_protect_revolutionary_lifelines: "Захист революційних ліній життя"
+ FRA_protect_revolutionary_lifelines_desc: "Міць революційного виробництва може компенсувати більшість капіталістичних неефективностей, але, на жаль, ми ще не винайшли способів вирощувати каучук у французькій сільській місцевості та знаходити нафту там, де її немає. Ми будемо накопичувати запаси, знаходити способи робити більше з меншими затратами, але деякі стратегічні товари доведеться добувати товаришам за кордоном: ми не можемо дозволити, щоб морські шляхи, якими їх доставляють, були перерізані ворогом."
 
- FRA_naval_power_projection: "Naval Power Projection"
- FRA_naval_power_projection_desc: "The future of sea warfare is in the aviation, more effective, precise, agile than any gun. Our experiments in this field have proved concluant, we must now move full steam ahead with the development of larger, better aircraft carriers, that will allow to punch above our weight, across the seven seas."
+ FRA_naval_power_projection: "Проєкція морської сили"
+ FRA_naval_power_projection_desc: "Майбутнє морської війни — за авіацією, ефективнішою, точнішою, маневренішою за будь-яку гармату. Наші експерименти в цій галузі виявилися переконливими, і тепер ми повинні рухатися повним ходом у розробці більших, кращих авіаносців, які дозволять нам завдавати ударів, що перевищують нашу вагу, по всіх семи морях."
 
- FRA_squadron_warfare: "Squadron Warfare"
- FRA_squadron_warfare_desc: "Naval traditions are alive and well, and a well-ordered, well-directed fleet will still rule the waves. Once, the French Navy was dubbed \"La Royale\", she can now proudly call herself \"La Populaire\", her ships most impressive, their crew the pride of the people, drilled in revolutionary discipline: no-one will be able to stand against us when we contest control the seas."
+ FRA_squadron_warfare: "Ескадронна війна"
+ FRA_squadron_warfare_desc: "Морські традиції живі й здорові, і добре впорядкований, добре керований флот все ще пануватиме на хвилях. Колись французький флот називали «Королівським» («La Royale»), тепер він може з гордістю називатися «Народним» («La Populaire»), його кораблі — найвражаючіші, їхні екіпажі — гордість народу, вишколені в революційній дисципліні: ніхто не зможе протистояти нам, коли ми будемо боротися за контроль над морями."
 
- FRA_brest_naval_academy: "Brest Naval Academy"
- FRA_brest_naval_academy_desc: "With a long and proud history, the "École navale" of Brest, in Brittany has been the alma mater of most of our naval officers. Continuous training and formation to ensure they never get complacent will be an important step in renovation of the Federal Navy. But we will also expand its research facilities, with rebuilding will come innovation and modernisation."
+ FRA_brest_naval_academy: "Брестська військово-морська академія"
+ FRA_brest_naval_academy_desc: "З довгою та славетною історією, «École navale» у Бресті, в Бретані, була альма-матер для більшості наших морських офіцерів. Постійне навчання та підготовка, щоб вони ніколи не заспокоювалися, стане важливим кроком у оновленні Федерального флоту. Але ми також розширимо його дослідницькі потужності, адже з відбудовою прийдуть інновації та модернізація."
 
- FRA_international_naval_intelligence: "International Naval Intelligence"
- FRA_international_naval_intelligence_desc: "Revolutionary camaraderie extends to intelligence sharing: our British and Italian comrades can also boast proud maritime traditions, and we would be foolish to pass up on potential cooperation in naval matters. Together, our efforts will thwart any attempt from the Revolution's enemies at going unnoticed."
+ FRA_international_naval_intelligence: "Міжнародна морська розвідка"
+ FRA_international_naval_intelligence_desc: "Революційне товариство поширюється і на обмін розвідданими: наші британські та італійські товариші також можуть похвалитися славетними морськими традиціями, і було б нерозумно відмовлятися від потенційної співпраці в морських справах. Разом наші зусилля зірвуть будь-яку спробу ворогів Революції залишитися непоміченими."
 
- FRA_gifts_for_enemy_ships: "Gifts for Enemy Ships"
- FRA_gifts_for_enemy_ships_desc: "It's possible that we won't be able to undo our lateness in the naval race by the time the inevitable coming conflict falls upon Europe. No matter: we shall fight as dirty as we must. Channel, Atlantic, Mediterranean: on three fronts, Reichspakt ships will be welcomed by a generous spread of patient explosives. Death by a thousand cuts: ship by ship, their fleet will be whittled down, their shipping hindered."
+ FRA_gifts_for_enemy_ships: "Подарунки для ворожих кораблів"
+ FRA_gifts_for_enemy_ships_desc: "Можливо, ми не зможемо надолужити наше відставання в морській гонці до того часу, як неминучий конфлікт обрушиться на Європу. Не біда: ми будемо битися так брудно, як це буде необхідно. Ла-Манш, Атлантика, Середземномор'я: на трьох фронтах кораблі Райхспакту зустріне щедрий розсип терплячої вибухівки. Смерть від тисячі порізів: корабель за кораблем їхній флот буде виснажуватися, їхнє судноплавство — ускладнюватися."
 
- FRA_la_lutte_aerienne: "La Lutte Aérienne"
- FRA_la_lutte_aerienne_desc: "Still in its infancy during the Great War, aviation already revolutionised warfare. In the few years of the conflict, it made incredible strides, from reconnaissance to air jousts between gallant knights of the air, to bombings and mass deployment. Since then, at every turn aeroplanes have proved their incredible usefulness, and shown further potential. France was already a pioneer in the domain, she must stay dominant."
+ FRA_la_lutte_aerienne: "Повітряна боротьба"
+ FRA_la_lutte_aerienne_desc: "Ще в зародковому стані під час Великої війни, авіація вже революціонізувала ведення війни. За кілька років конфлікту вона зробила неймовірні кроки, від розвідки до повітряних дуелей між галантними лицарями неба, до бомбардувань та масового розгортання. Відтоді літаки на кожному кроці доводили свою неймовірну корисність і демонстрували подальший потенціал. Франція вже була піонером у цій галузі, вона повинна залишатися домінантною."
 
- FRA_ecole_de_lair: "École de l'Air"
- FRA_ecole_de_lair_desc: "As it was recently decided to create a separate branch of the Federal Forces for aviation, it's only natural that it gets its own officer formation school. The Air School will have aspiring officers be taught by the great pilots of the Great War and the Revolution, so that they may transmit their experience. Pioneers and fresh-faced new guards will no doubt stake out a glorious legacy for our air force."
+ FRA_ecole_de_lair: "Повітряна школа"
+ FRA_ecole_de_lair_desc: "Оскільки нещодавно було вирішено створити окремий рід військ Федеральних сил для авіації, цілком природно, що він отримає власну школу підготовки офіцерів. У Повітряній школі майбутніх офіцерів навчатимуть великі пілоти Великої війни та Революції, щоб вони могли передати свій досвід. Піонери та свіжа кров, безсумнівно, залишать славетну спадщину для наших повітряних сил."
 
- FRA_naval_aerial_coordination: "Naval-Aerial Coordination"
- FRA_naval_aerial_coordination_desc: "The Sky and Sea, terrifying forces of nature, have now been tamed by Mankind. They are, like everything else, a battlefield: the next conflict will no doubt also be fought there, and must be won there too. The air force was not given autonomy as a means to isolate it, but on the contrary to give more flexibility to its missions. Coordination with the Federal Navy will be essential, and any branch rivalry must be nipped in the bud."
+ FRA_naval_aerial_coordination: "Морсько-повітряна координація"
+ FRA_naval_aerial_coordination_desc: "Небо і Море, жахливі сили природи, тепер приборкані Людством. Вони, як і все інше, є полем битви: наступний конфлікт, безсумнівно, також буде вестися там, і там же його потрібно виграти. Повітряні сили отримали автономію не для того, щоб їх ізолювати, а навпаки, щоб надати більше гнучкості їхнім місіям. Координація з Федеральним флотом буде вкрай важливою, і будь-яке суперництво між родами військ повинно бути придушене в зародку."
 
- FRA_hone_torpillage_skills: "Hone Torpillage Skills"
- FRA_hone_torpillage_skills_desc: "Torpedoes strike fear in the heart of any seaman, a well-known tool by now they nonetheless get ever more sophisticated and deadly. Naturally, their potential must be harnessed for our cause, whether they come from the depths or from the air. We will hone our tactics with this most glorious of harpoons, ready to spear the modern sea monsters into scrap metal in a single blow."
+ FRA_hone_torpillage_skills: "Відточити навички торпедування"
+ FRA_hone_torpillage_skills_desc: "Торпеди вселяють страх у серце кожного моряка; хоча це вже добре відомий інструмент, вони все ж стають дедалі складнішими та смертоноснішими. Звісно, їхній потенціал необхідно використати для нашої справи, чи то вони йдуть з глибин, чи з повітря. Ми відточимо нашу тактику з цим найславетнішим з гарпунів, готові одним ударом перетворити сучасних морських чудовиськ на металобрухт."
 
- FRA_arsenal_de_laeronautique: "Arsenal de l'Aéronautique"
- FRA_arsenal_de_laeronautique_desc: "Great and brave pilots, we have aplenty. Brilliant engineers, we certainly do too. We must now combine their efforts to make tomorrow's aeroplane, to show that proletarian efforts can equal and best whatever Junkers, Amiot or Latécoère can put out. Research and testing facilities will be established to centralise our development efforts, and ensure we are not left behind in the air race."
+ FRA_arsenal_de_laeronautique: "Арсенал аеронавтики"
+ FRA_arsenal_de_laeronautique_desc: "Великих і хоробрих пілотів у нас вдосталь. Геніальних інженерів, безперечно, теж. Тепер ми повинні об'єднати їхні зусилля, щоб створити літак завтрашнього дня, щоб показати, що пролетарські зусилля можуть зрівнятися і перевершити все, що можуть запропонувати Junkers, Amiot або Latécoère. Будуть створені дослідницькі та випробувальні центри для централізації наших розробок та забезпечення того, щоб ми не відставали в повітряній гонці."
 
- FRA_barrage_david: "Barrage David"
- FRA_barrage_david_desc: "Our engineers have worked for some time on the possibility of electromagnetic detection of aircraft. Finally, under the leadership of Pierre David, we will soon be able to implement it on a large scale. This first generation of field bistatic detection will allow us to create an invisible wall that will detect any aircraft that crosses it, immediately putting our own forces on alert and informing them of the enemy's approximate location."
+ FRA_barrage_david: "Бар'єр Давіда"
+ FRA_barrage_david_desc: "Наші інженери деякий час працювали над можливістю електромагнітного виявлення літаків. Нарешті, під керівництвом П'єра Давіда, ми незабаром зможемо впровадити його в широких масштабах. Це перше покоління польового бістатичного виявлення дозволить нам створити невидиму стіну, яка виявлятиме будь-який літак, що її перетне, негайно приводячи в бойову готовність наші власні сили та інформуючи їх про приблизне місцезнаходження ворога."
 
- FRA_popular_aviation: "Popular Aviation"
- FRA_popular_aviation_desc: "The early days of aviation made it to be a hobby of the gentleman, the War showed that workers' sons could fly a plane better than the most prideful aristocrat. Many pilots kept flying after the Revolution, and some established flying clubs, occasionally based around unions. We will promote these and encourage young men to join, using these clubs to recruit the talented, and prepare others for roles as auxiliary pilots in the coming war."
+ FRA_popular_aviation: "Народна авіація"
+ FRA_popular_aviation_desc: "На зорі авіації це було хобі джентльменів, війна ж показала, що сини робітників можуть керувати літаком краще, ніж найпихатіший аристократ. Багато пілотів продовжували літати після Революції, а деякі заснували аероклуби, іноді на базі профспілок. Ми будемо їх просувати та заохочувати молодь приєднуватися, використовуючи ці клуби для набору талановитих кадрів та підготовки інших до ролі допоміжних пілотів у прийдешній війні."
 
- FRA_les_amazones: "Les Amazones"
- FRA_les_amazones_desc: "To ensure that as many available pilots as possible are in combat roles, we will create a female corps of auxiliary pilots. Famous sportswoman pilot Maryse Bastié has demanded to be able to join our air force, her wish will be granted: we hope her renown will lead more young women to consider this daring path. Indeed, though they will be assigned away from the front, to convoy and transport missions, there will still be a risk of danger."
+ FRA_les_amazones: "Амазонки"
+ FRA_les_amazones_desc: "Щоб забезпечити, щоб якомога більше доступних пілотів виконували бойові завдання, ми створимо жіночий корпус допоміжних пілотів. Відома спортсменка-пілотеса Маріз Бастьє вимагала дозволу приєднатися до наших повітряних сил, і її бажання буде задоволено: ми сподіваємося, що її слава спонукатиме більше молодих жінок розглянути цей сміливий шлях. Дійсно, хоча їх і призначатимуть подалі від фронту, на конвойні та транспортні місії, ризик небезпеки все одно існуватиме."
 
- FRA_politique_des_stocks: "Politique des Stocks"
- FRA_politique_des_stocks_desc: "One of our main issues is mass production of aircraft, as these complex marvels of engineering are still often assembled in near-artisanal conditions. Through coordination with unions, we will work to create workshops, assembly lines that will let us ready a grand air fleet. We must be ready for combat, and cannot let the hope of a quick collapse of capitalistic powers hinder thorough preparations."
+ FRA_politique_des_stocks: "Політика запасів"
+ FRA_politique_des_stocks_desc: "Однією з наших головних проблем є масове виробництво літаків, оскільки ці складні дива інженерії все ще часто збираються в майже ремісничих умовах. Через координацію з профспілками ми працюватимемо над створенням цехів, складальних ліній, що дозволять нам підготувати великий повітряний флот. Ми повинні бути готові до бою і не можемо дозволити, щоб надія на швидкий крах капіталістичних держав завадила ретельній підготовці."
 
- FRA_spirit_of_the_air_division: "Spirit of the Air Division"
- FRA_spirit_of_the_air_division_desc: "General Fayolle, in the latter years of the Great War, made great strides in promotion of the use of aircrafts in warfare. The new air force owes much to his legacy. The early pilots, \"knights of the air\", no longer fly, but their elegant duels are still in the mind of every infantryman that witnessed them. No doubt that many of our pilots will seek to imitate their example, adding their names to the long list of heroes of French aviation."
+ FRA_spirit_of_the_air_division: "Дух повітряної дивізії"
+ FRA_spirit_of_the_air_division_desc: "Генерал Файоль в останні роки Великої війни досяг значних успіхів у просуванні використання авіації у війні. Нові повітряні сили багато чим зобов'язані його спадщині. Перші пілоти, «лицарі неба», більше не літають, але їхні елегантні дуелі досі в пам'яті кожного піхотинця, який їх бачив. Безсумнівно, багато наших пілотів прагнутимуть наслідувати їхній приклад, вписуючи свої імена до довгого списку героїв французької авіації."
 
- FRA_beyond_the_frontiers: "Beyond the Frontiers"
- FRA_beyond_the_frontiers_desc: "War is an economic question: production is the nerve of war. Bombing runs have so far been largely tactical, local, but we must embrace technical advances that allow a strategic use of aviation: we will strike their production centres, hinder their industry, reduce their infrastructure, their defences to rubble. They will learn that there is nowhere that is safe from our rightful assaults."
+ FRA_beyond_the_frontiers: "За межами кордонів"
+ FRA_beyond_the_frontiers_desc: "Війна — це економічне питання: виробництво — нерв війни. Досі бомбардування були переважно тактичними, локальними, але ми повинні прийняти технічний прогрес, що дозволяє стратегічне використання авіації: ми будемо завдавати ударів по їхніх виробничих центрах, перешкоджати їхній промисловості, руйнувати їхню інфраструктуру, їхню оборону дощенту. Вони зрозуміють, що ніде немає безпеки від наших справедливих нападів."
 
- FRA_groupes_de_linfanterie_de_lair: "Groupes de l'Infanterie de l'Air"
- FRA_groupes_de_linfanterie_de_lair_desc: "Already at the end of the Great War, the idea of infantry parachuted behind enemy lines to break stalemates had begun to emerge among the most daring officers. As planes have grown ever more imposing, this hope is now a possibility, and early tests have proved conclusive. We will assemble a first elite of paradropped infantry, ready to take on missions that yesterday seemed like folly, today like a logical new step in tactics."
+ FRA_groupes_de_linfanterie_de_lair: "Групи повітряної піхоти"
+ FRA_groupes_de_linfanterie_de_lair_desc: "Вже наприкінці Великої війни ідея десантування піхоти в тилу ворога для прориву пату почала з'являтися серед найсміливіших офіцерів. Оскільки літаки ставали все більш грізними, ця надія тепер стала можливістю, і перші випробування виявилися переконливими. Ми зберемо першу еліту десантної піхоти, готову виконувати місії, які вчора здавалися божевіллям, а сьогодні — логічним новим кроком у тактиці."
 
- FRA_adaptable_strike_tactics: "Adaptable Strike Tactics"
- FRA_adaptable_strike_tactics_desc: "Flexibility, adaptability will be the way to victory, we cannot afford to rely on a single tactic to blast open the way for our ground troops. Multi-purpose bombers will be produced, that will be able to both neutralise smaller ground targets and assist in larger strategic efforts."
+ FRA_adaptable_strike_tactics: "Адаптивна ударна тактика"
+ FRA_adaptable_strike_tactics_desc: "Гнучкість, адаптивність стануть шляхом до перемоги; ми не можемо дозволити собі покладатися на одну тактику, щоб пробити шлях для наших сухопутних військ. Будуть вироблятися багатоцільові бомбардувальники, які зможуть як нейтралізувати менші наземні цілі, так і допомагати у більших стратегічних зусиллях."
 
- FRA_assault_brigades: "Assault Brigades"
- FRA_assault_brigades_desc: "To open the way for our troops and terrorise the enemy, specialised crafts will be produced that will rain fire and lead upon those who dare stand against the march of History. Lightweight, these will conduct daring missions that will get them as close as possible to the targets, to ensure not only that it is hit, but that all witnesses can testify of the skills of our angels of Death."
+ FRA_assault_brigades: "Штурмові бригади"
+ FRA_assault_brigades_desc: "Щоб прокласти шлях для наших військ і тероризувати ворога, будуть вироблятися спеціалізовані літаки, які обрушуватимуть вогонь і свинець на тих, хто наважиться протистояти ходу Історії. Легкі, вони виконуватимуть сміливі місії, які наблизять їх якомога ближче до цілей, щоб не лише забезпечити влучання, а й щоб усі свідки могли засвідчити майстерність наших ангелів Смерті."
 
- FRA_reaction_propulsion_experiments: "Réaction Propulsion Experiments"
- FRA_reaction_propulsion_experiments_desc: "Propulsion by a rocket engine is a long-mulled over advancement in aeroplane design, allowing for speed yet unmatched by classic engines. Proofs of concepts have already shown that it is possible, and the first prototypes for military use are already impressive. All it takes now is standardisation and refinement of the technology, and the Revolution will have total supremacy over the skies."
+ FRA_reaction_propulsion_experiments: "Експерименти з реактивним рухом"
+ FRA_reaction_propulsion_experiments_desc: "Рух за допомогою ракетного двигуна — це давно обговорюване вдосконалення в конструкції літаків, що дозволяє досягти швидкості, ще незрівнянної з класичними двигунами. Докази концепції вже показали, що це можливо, і перші прототипи для військового використання вже вражають. Тепер залишається лише стандартизувати та вдосконалити технологію, і Революція матиме повну перевагу в небі."
 
- FRA_hurricane_of_fire: "Hurricane of Fire"
- FRA_hurricane_of_fire_desc: "There is power in the masses, this is true politically, this is true militarily. We will cover the heavens with our wings, attacking as one great aerial proletarian phalanx, overwhelm the enemy with our united firepower. Red wings in the wind, red skies in the night, nothing will stand in the path of progress our heroic mission done, only a new dawn, the rising sun announcing to the world that we are one day closer to the triumph of Revolution."
+ FRA_hurricane_of_fire: "Ураган вогню"
+ FRA_hurricane_of_fire_desc: "У масах — сила, це правда політично, це правда й у військовому плані. Ми покриємо небеса своїми крилами, атакуючи як одна велика повітряна пролетарська фаланга, здолаємо ворога нашою об'єднаною вогневою міццю. Червоні крила на вітрі, червоні небеса вночі, ніщо не стане на шляху прогресу; після нашої героїчної місії — лише новий світанок, сонце, що сходить, сповіщаючи світу, що ми на один день ближче до тріумфу Революції."
 
 ### Bookmark ###
  FRA_KR_gathering_storm_desc: "Третя республіка впала так, як і виникла: розбита німецькою зброєю і зіткнулася з революцією вдома. У 1919 році CGT оголосила загальний страйк, що призвів до падіння буржуазного уряду. Протягом 15 років нова "Французька Комуна" об'єднувалася навколо спільної платформи синдикально-соціалістичного консенсусу на чолі з Комітетом громадського порятунку. Однак до 1936 року необхідність відбудови країни та захисту революції, на думку багатьох критиків, застаріла, і дедалі частіше лунають заклики до більш радикальної політики. Франція впевнена у своїй місії, але незрозуміло, які революційні течії стануть домінуючими в наступні роки..."
@@ -572,15 +574,15 @@
  FRA_country_intro_header: "Французька Комуна"
  FRA_country_intro_content: "Третя Республіка впала так само, як і народилася: зовні розгромлена німецькою зброєю, а всередині зіткнувшись із комуністичною революцією. У листопаді 1919 року ВКТ оголосила Загальний революційний страйк, що паралізував країну і призвів до падіння буржуазного уряду. "Партія порядку" була недостатньо сильна, щоб покласти край безладдям, і в наступні місяці французький істеблішмент був вигнаний з країни коаліцією лівих сил у короткій, але жорстокій громадянській війні.\n\nПротягом останніх п'ятнадцяти років самопроголошена "Французька Комуна" об'єдналася під синдикалістсько-соціалістичною ідеєю на чолі з Комітетом громадської безпеки. Однак до 1936 року компроміс, досягнутий з метою відновлення зруйнованої країни та захисту плодів революції від іноземної загрози, вважається багатьма критиками дедалі застарілими, і частішають заклики до радикальнішої політики. Франція все більше впевнена у своїй стабільності та своєму призначенні, але французькі революційні підвалини розрізнені, і неясно, які саме ідеологічні течії найближчими роками переважатимуть..."
 
- FRA_guide: "§MAnarchistes / Orthodox Syndicalists / Jacobins / Sorelians§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$):\n£white_dot In the 1936 elections, have any faction obtain a majority by supporting them 3 times or more.\n\n§MNo majority in elections§! ($syndicalist_coloured$)\n£white_dot In the 1936 election, do not support any faction more than 2 times.\n\n§MRadical Jacobin Reformation§! ($totalist_coloured$)\n£white_dot Have the Jacobins obtain a majority in the 1936 elections.\n£white_dot Choose to sweep away the old system.\n£white_dot Bring Léon Blum and the Popular Front to trial.\n£white_dot Execute them.\n£white_dot Failing to purge the Popular Front will lead to a coup by General Gamelin, restoring the Orthodox Syndicalists to power."
+ FRA_guide: "§MАнархісти / Ортодоксальні синдикалісти / Якобінці / Сореліанці§! ($radical_socialist_coloured$ / $syndicalist_coloured$ / $totalist_coloured$):\n£white_dot На виборах 1936 року забезпечте, щоб будь-яка фракція отримала більшість, підтримавши її 3 або більше разів.\n\n§MВідсутність більшості на виборах§! ($syndicalist_coloured$)\n£white_dot На виборах 1936 року не підтримуйте жодну фракцію більше 2 разів.\n\n§MРадикальна якобінська реформа§! ($totalist_coloured$)\n£white_dot Забезпечте, щоб якобінці отримали більшість на виборах 1936 року.\n£white_dot Оберіть знести стару систему.\n£white_dot Віддайте Леона Блюма та Народний фронт під суд.\n£white_dot Стратити їх.\n£white_dot Провал чистки Народного фронту призведе до перевороту генерала Гамелена, що відновить владу ортодоксальних синдикалістів."
 
 ### Events ###
 
- france_events.1.t: "A New Flag for the Federation?"
- france_events.1.d: "The question of the federal flag has stood out as a point of long-standing disagreements since the revolutionary days. The red flag, of course, had always been the flag of the proletariat, the flag of the martyrs, the flag of the barricades, and many argued that the Revolution should only fly these colours, a proud declaration of war against the bourgeoisie: proletarians have no motherland, after all. However, even though the Tricolour had not been the flag of revolutionary enthusiasm for decades and had degenerated into being merely the flag of the bankers' republic, the flag of the Versaillais of 1871, many felt too attached to it to let it go. Part of the socialist movement, particularly within the SFIO, had long sought to reconquer this flag from the hands of the bourgeois and give it back the same vigour it had when the People faced the monarchs of Europe at Valmy and triumphed. Or they simply worried that abandoning the Red, White and Blue would be too much of a provocation to the world, and to our compatriots who had not fully become comrades just yet.\n\nAnd so a compromise was found, much like in every aspect of the Revolution. The Tricolour was conserved, but was defaced with the symbols of the proletarian struggle, of the workers, of the mutineers, and was always flown alongside the red flag. With our victory in the latest elections, we have been given a popular mandate to finally settle this debate: should we keep the compromise of 1920 and the defaced Tricolour, forge a new, redder compromise flag, or simply enshrine the Red once and for all?"
- france_events.1.a: "Forge a new compromise, forward towards revolutionary renewal!"
- france_events.1.b: "Red! The workers need nothing more and deserve nothing less."
- france_events.1.c: "Too many have laid their lives for the Tricolore, no need to retire it."
+ france_events.1.t: "Новий прапор для Федерації?"
+ france_events.1.d: "Питання федерального прапора було предметом давніх розбіжностей ще з революційних часів. Червоний прапор, звісно, завжди був прапором пролетаріату, прапором мучеників, прапором барикад, і багато хто стверджував, що Революція повинна нести лише ці кольори — горду декларацію війни проти буржуазії: зрештою, пролетарі не мають батьківщини. Однак, хоча Триколор десятиліттями не був прапором революційного ентузіазму і виродився, ставши лише прапором республіки банкірів, прапором версальців 1871 року, багато хто був занадто прив'язаний до нього, щоб відмовитися. Частина соціалістичного руху, особливо в межах СФІО, давно прагнула відвоювати цей прапор з рук буржуазії й повернути йому ту саму силу, яку він мав, коли Народ протистояв монархам Європи під Вальмі й переміг. Або ж вони просто боялися, що відмова від Червоного, Білого та Синього буде занадто великою провокацією для світу та для наших співвітчизників, які ще не повністю стали товаришами.\n\nІ так було знайдено компроміс, як і в кожному аспекті Революції. Триколор було збережено, але спотворено символами пролетарської боротьби, робітників, бунтівників, і він завжди вивішувався поруч із червоним прапором. З нашою перемогою на останніх виборах ми отримали народний мандат, щоб нарешті вирішити цю суперечку: чи варто нам зберегти компроміс 1920 року та спотворений Триколор, створити новий, більш червоний компромісний прапор, чи просто раз і назавжди увічнити Червоний?"
+ france_events.1.a: "Створити новий компроміс, вперед до революційного оновлення!"
+ france_events.1.b: "Червоний! Робітники не потребують нічого більшого і не заслуговують ні на що менше."
+ france_events.1.c: "Занадто багато людей віддали свої життя за Триколор, не варто від нього відмовлятися."
 
  france_events.5.t: "Відставка Марсо Півера"
  france_events.5.d: "Незважаючи на успішну організацію Конгресу синдикалістів у травні, адміністрація Півера піддалася критиці за відсутність реакції у відповідь на репресії щодо профспілок у Німеччині. Сьогодні на Загальній біржі праці опозиція погодилася на вотум недовіри Піверу, який оголосив, що буде проведено вибори для обрання нового Комітету. Його обов'язки будуть тимчасово виконуватися Комітетом громадської безпеки, доки не будуть отримані результати виборів."
@@ -689,8 +691,8 @@
  france_events.30.a: "Краще почати збирати речі!"
 
  france_events.41.t: "Усі делегати прибули"
- france_events.41.d: "Лідери соціалістичних, синдикалістських та більшовицьких партій, глави держав та урядів, міністри закордонних справ та журналісти – всі прибули до Парижа на відкриття Дев'ятого конгресу Третього Інтернаціоналу. Настав час відчинити двері та взяти слово." # (&)
- france_events.41.a: "A warm welcome to our comrades!" # (!)
+ france_events.41.d: "Лідери соціалістичних, синдикалістських та більшовицьких партій, глави держав та урядів, міністри закордонних справ та журналісти – всі прибули до Парижа на відкриття Дев'ятого конгресу Третього Інтернаціоналу. Настав час відчинити двері та все обговорити." # (&)
+ france_events.41.a: "Щиро вітаємо наших товаришів!" # (!)
 
  france_events.42.t: "Виступає голова Комітету громадської безпеки" # (&)
  france_events.42.d: "Тепер, коли всі зібралися, і Конгрес почався, настав час перейти до відкритої дискусії. Прем'єр-міністр першим взяв слово та обмовив мету Третього Інтернаціоналу. Після того як вона стала зрозумілішою, починаються дебати." # (&)
@@ -943,7 +945,7 @@
  france_events.144.t: "Комунальні вибори 1941 року"
  france_events.144.d: "Як і планувалося в 1936 році, п'ятирічний термін роботи нинішньої Загальної біржі праці добігає кінця. Настав час обговорити економічну та внутрішню політику, а також зовнішні питання, щоб ЗБП могла обрати нових виконавчих членів Комітету громадської безпеки."
  france_events.144.a: "Приступимо до роботи, товариші!"
- france_events.144.b: "The Final Struggle is upon us, now is not the time for petty democratism!"
+ france_events.144.b: "Фінальна битва вже близько, зараз не час для дріб'язкового демократизму!"
 
  france_events.145.t: "Вибори ЗБП 1941 року: Статус армії"
  france_events.145.d: "Пройшло п'ять років після останньої великої реформи революційних збройних сил, і французька армія досягла нових висот. Однак різні фракції ЗКП, як і раніше, розходяться в думках щодо подальшого розвитку гаранта цілісності країни."
@@ -1017,14 +1019,15 @@
  france_events.156.c: "Перемагають "Анархісти" - Суспільство без держави!"
  france_events.156.e: "Перемагають "Якобінці" - Ми справжні комунари."
 
- france_events.157.t: "Camarade Valois' Speech"
- france_events.157.d: "Comrade Valois has humbly come to the representatives of the nation's workers with one modest request: for him to be given the tools to triumph in the struggle against the enemies of the Revolution. Years of Sorelian rule and the streamlining of procedures and production for the war effort have made this demand a formality: Valois and his government are already nearly all-powerful. Naturally, all appearances have been dutifully maintained: Sorelian rethoric is one of radical syndicalism, and the election of the CNS was to be a reform towards the ethos of the revolutionary days. But slowly, surely, power was concentrated in the hands of Sorelians. Proletarian democracy is alive, but it serves only one mistress: the grand historical, revolutionary purpose of all Frenchmen, the War to save civilisation itself from bourgeois decay.\n\nValois is more comfortable with courteous theoretical debate than grand speeches. His leadership has reflected this temperament, and though often forceful, to not say violent, the Sorelians have a rather placid leader. Comrade Valois did not have the makings of a dictator and did not wish to be one: he sees himself as merely imbued by the accidents of History with the role of unworthy guide of the French proletariat. But today Valois found within himself oratory skills on par with the greatest revolutionary tribunes. Passionately arguing for the executive to be granted emergency powers, so that once and for all the Revolution may triumph first across Europe, then the World, he concluded his speech with a promise to hunt down Reaction wherever it may hide, to rapturous applause. He had found, of course, a receptive audience: believers were enraptured, remaining adversaries did not wish to wake up tomorrow to armed comrades accusing them of counter-revolutionary activity. And so a vote granting the government vast emergency powers nearly unanimously passed, as enthusiastic representatives shouted "Vive Camarade-Chef Valois!""
- france_events.157.a: "Death to Reaction, wherever she hides!"
+ france_events.157.t: "Промова товариша Валуа"
+ france_events.157.d: "Товариш Валуа смиренно звернувся до представників робітників нації з одним скромним проханням: надати йому інструменти для перемоги в боротьбі з ворогами Революції. Роки сореліанського правління та оптимізація процедур і виробництва для воєнних потреб зробили цю вимогу формальністю: Валуа та його уряд вже майже всемогутні. Звісно, всі формальності були ретельно дотримані: сореліанська риторика — це риторика радикального синдикалізму, а вибори до НСР мали стати реформою, що повертала б до етосу революційних днів. Але повільно, впевнено, влада зосереджувалася в руках сореліанців. Пролетарська демократія жива, але вона служить лише одній господині: великій історичній, революційній меті всіх французів, Війні за порятунок самої цивілізації від буржуазного занепаду.\n\nВалуа більше до вподоби ввічливі теоретичні дебати, ніж грандіозні промови. Його лідерство відображало цей темперамент, і хоча сореліанці часто були рішучими, щоб не сказати жорстокими, їхній лідер був досить спокійним. Товариш Валуа не мав задатків диктатора і не хотів ним бути: він бачить себе лише тим, кому випадковості Історії довірили роль негідного провідника французького пролетаріату. Але сьогодні Валуа відкрив у собі ораторські здібності на рівні найвидатніших революційних трибунів. Пристрасно доводячи необхідність надання виконавчій владі надзвичайних повноважень, щоб Революція раз і назавжди могла перемогти спочатку в Європі, а потім і в усьому світі, він завершив свою промову обіцянкою вистежувати Реакцію, де б вона не ховалася, під бурхливі оплески. Звісно, він знайшов вдячну аудиторію: віруючі були в захваті, а ті, хто ще залишався в опозиції, не бажали прокинутися завтра від звинувачень озброєних товаришів у контрреволюційній діяльності. І так, голосування, що надавало уряду широкі надзвичайні повноваження, пройшло майже одноголосно, а захоплені представники кричали: «Хай живе товариш-вождь Валуа!»"
+ france_events.157.a: "Смерть Реакції, де б вона не ховалася!"
 
- france_events.158.t: "The Rising Sun"
- france_events.158.d: "An award ceremony, frequent sight these days, as our heroes are given the recognition they deserve for their efforts at the front. Camarade Valois, eager to mingle with his fellow worker-combatant, is never too busy to salute them, listen to stories from the front, hear about the heroic sacrifice of a comrade. This time, it was a cavalry unit, federal dragoons. Though their horseback-riding days were behind them and these were now a fierce mechanised force, tip of the spear driven into Reaction's darkened heart, the spirit of the cavalry remained strong: brave or foolhardy, critics would say aristocratic, but none could deny their courage. As Comrade Valois reviewed these troops, his eye was caught by a bright, blood-red banner affixed to the leading tank: crimson flying proudly, adorned with the Sun's flaming rays, in its heart the symbols of the Revolution.\n\nImpossible to mistake it, the symbol was in every history book: this was an ad hoc reproduction of the Oriflamme, the ancient kings of France's sacred war banner, the golden flame cleansing away their enemy, updated to serve the Proletariat. When Valois inquired about this odd sight, an increasingly nervous officer attempted to explain this was nothing more than a unit tradition, initiative from soldiers reviving childish dreams of chivalry. He was no doubt expecting scandal, perhaps punishment, as before the Comrade-Chief cut him off he was attempting to assume full responsibility. Instead, Valois was full of enthusiasm: indeed, what better way to show the inherent revolutionary character of the French nation that to root our symbols in those of the glorious victories of our ancestors? The Frenchman has always been a mover of history, our past is nothing to shun. So full of enthusiasm in fact, that the Chief promised the banner would soon be flown alongside the federal and red flags, reintroduced as France's war banner in her grand civilisational duty."
- france_events.158.a: "Our comrades might not share this view..."
- france_events.158.b: "Trust the boundless creativity of the masses! Forward, under the rising sun of socialism!"
+ france_events.158.t: "Сонце, що сходить"
+ france_events.158.d: "Церемонія нагородження, звична річ у ці дні, коли наші герої отримують заслужене визнання за свої зусилля на фронті. Товариш Валуа, охочий поспілкуватися зі своїми товаришами-робітниками-бійцями, ніколи не буває занадто зайнятий, щоб привітати їх, послухати історії з фронту, дізнатися про героїчну жертву товариша. Цього разу це був кавалерійський підрозділ, федеральні драгуни. Хоча дні верхової їзди для них залишилися в минулому, і тепер це була грізна механізована сила, вістря списа, встромленого в темне серце Реакції, дух кавалерії залишався сильним: хоробрий або відчайдушний, критики сказали б аристократичний, але ніхто не міг заперечити їхньої мужності. Коли товариш Валуа оглядав ці війська, його погляд привернув яскравий, криваво-червоний прапор, прикріплений до провідного танка: багрянець гордо майорів, прикрашений палаючими променями Сонця, а в його серці — символи Революції.\n\nПомилитися було неможливо, цей символ був у кожному підручнику історії: це була імпровізована репродукція Орифламми, священного бойового прапора давніх королів Франції, золотого полум'я, що очищало їхніх ворогів, оновленого для служіння Пролетаріату. Коли Валуа запитав про це дивне видовище, все більш знервований офіцер спробував пояснити, що це не більше ніж традиція підрозділу, ініціатива солдатів, які відроджували дитячі мрії про лицарство. Він, безсумнівно, очікував скандалу, можливо, покарання, оскільки, перш ніж товариш-вождь перебив його, він намагався взяти всю відповідальність на себе. Натомість Валуа був сповнений ентузіазму: справді, що може бути кращим способом показати притаманний революційний характер французької нації, ніж вкорінити наші символи в символах славетних перемог наших предків? Француз завжди був рушієм історії, наше минуле — це не те, чого слід соромитися. Настільки сповнений ентузіазму, що Вождь пообіцяв, що прапор незабаром буде піднято поруч із федеральним та червоним прапорами, відновлений як бойовий прапор Франції в її великому цивілізаційному обов'язку."
+ france_events.158.a: "Наші товариші можуть не поділяти цієї думки..."
+ france_events.158.b: "Довіряймо безмежній творчості мас! Вперед, під сонцем соціалізму, що сходить!"
+
 
  france_events.159.t: "Париж втрачено!"
  france_events.159.d: "Париж, "місто вогнів", колиска революції та столиця Франції, був захоплений ворогом! Поки він стикається з опором цивільного населення, ми маємо швидко контратакувати та повернути повний контроль над містом."
@@ -1107,29 +1110,20 @@
  france_events.1033.d: "Комуна Франції — провідна соціалістична держава світу, об'єднана у федерацію міських комун і керована Комітетом громадського порятунку, головним органом виконавчої влади. Однак з моменту свого заснування Друга комуна не була однорідною у своїй політиці — виникли численні фракції, кожна з яких мала власне уявлення про те, яким шляхом має йти Франція. З наближенням часу реваншу над Німеччиною та світової революції, вибори до ГКП 1936 року стають дуже важливими...\n\nЗаміна дискредитованому Марсо Піверту прийшли якобінці на чолі з [FRA.GetLeader] - лідером екстремістської фракції, яка виступає за посилення централізації. Зараз вони мають більшість у ГКП."
  france_events.1033.a: "Цікаво."
 
- france_events.1034.t: "Sorelians Elected in France"
- france_events.1034.d: "Комуна Франції є провідною соціалістичною державою у світі. Це федерація міських комун, якими керує Комітет громадського порятунку, що є головним виконавчим органом. З моменту свого заснування Друга Комуна не була однорідною у своїй політиці, численні фракції, що мали свій власний чіткий напрямок розвитку Франції, змагалися за владу. З наближенням реваншу проти Німеччини та світової революції вибори 1936 року мали стати дуже важливими...\n\nThe disgraced Marceau Pivert's replacement arose from the Sorelians, the Sorelians named Georges Valois as their leader, who now hold the majority in the CSP. The Sorelians are orthodox syndicalists, and advocate centralisation with the Bourse Générale du Travail - the \"parliament\" - as the chief institution."
- france_events.1034.a: "Цікаво."
+ france_events.1036.t: "Виборчий глухий кут у Франції"
+ france_events.1036.d: "Комуна Франції — провідна соціалістична держава світу, об'єднана у федерацію міських комун і керована Комітетом громадського порятунку, головним органом виконавчої влади. Однак з моменту свого заснування Друга комуна не була однорідною у своїй політиці — виникли численні фракції, кожна з яких мала власне уявлення про те, яким шляхом має йти Франція. З наближенням часу реваншу над Німеччиною та світової революції, вибори до ГКП 1936 року стають дуже важливими...\n\nНастільки важливими, що жодна з чотирьох фракцій не змогла здобути більшість. Як і до виборів, потрібно знайти коаліцію, але як це змінить політичний ландшафт Комуни? Це знають лише члени самого КГП."
 
- france_events.1035.t: "Anarchistes Elected in France"
- france_events.1035.d: "Комуна Франції — провідна соціалістична держава світу, об'єднана у федерацію міських комун і керована Комітетом громадського порятунку, головним органом виконавчої влади. Однак з моменту свого заснування Друга комуна не була однорідною у своїй політиці — виникли численні фракції, кожна з яких мала власне уявлення про те, яким шляхом має йти Франція. З наближенням часу реваншу над Німеччиною та світової революції, вибори до ГКП 1936 року стають дуже важливими...\n\nЗаміна дискредитованому Марсо Піверту arose from the Anarchistes, a movement inspired by the Ukrainian revolutionary Nestor Makhno. The Anarchistes now lead the CSP and favour greater regional freedom and a drastic cut in the CSP's powers."
- france_events.1035.a: "Цікаво."
+ france_events.1037.t: "Дев'ятий Інтернаціональний конгрес"
+ france_events.1037.d: "Соціалістичні делегати з усього світу зібралися в Парижі та його околицях на черговий конгрес свого руху. Третій Інтернаціонал був створений французькими соціалістами після революції 1920 року і відтоді допомагав спрямовувати зусилля робітничого руху. Хоча в Інтернаціоналі домінують синдикалісти, він прагне бути широкою організацією і тому вітає червоних усіх мастей. Делегатів зустріли військовим парадом та натхненною промовою у Версалі, вбраному в червоне з цієї нагоди.\n\nНа порядку денному — поширення революційного запалу, зокрема в Азії та Північній Америці, конфлікт в Іспанії, політика щодо колоніалізму та вимоги до членства у військовому союзі Інтернаціоналу."
+ france_events.1037.a: "Цікавий розвиток подій."
 
- france_events.1036.t: "Electoral Gridlock in France"
- france_events.1036.d: "Комуна Франції — провідна соціалістична держава світу, об'єднана у федерацію міських комун і керована Комітетом громадського порятунку, головним органом виконавчої влади. Однак з моменту свого заснування Друга комуна не була однорідною у своїй політиці — виникли численні фракції, кожна з яких мала власне уявлення про те, яким шляхом має йти Франція. З наближенням часу реваншу над Німеччиною та світової революції, вибори до ГКП 1936 року стають дуже важливими...\n\nIt was so important, in fact, that none of the four factions could acquire a majority. Much like before the election, a coalition must be found, but how will this change the shape of the Commune's politics? Only the men in the CSP itself know."
- france_events.1036.a: "Цікаво."
-
- france_events.1037.t: "The Ninth International Congress"
- france_events.1037.d: "Socialist delegates from around the world are gathered in and around Paris for the latest congress of their movement. The Third Internationale was created by French socialists after the 1920 revolution and has since helped steer the efforts of the labour movement. Dominated by syndicalists, the Internationale however intends to be a broad-tent organisation and thus welcomes reds of all stripes. Delegates were greeted by a military parade and a rousing speech in Versailles, clad in red for the occasion.\n\nAt the top of the agenda is the spread of revolutionary fervour, particularly to Asia and North America, conflict in Spain, policy on colonialism and requirements for membership of the Internationale's military alliance."
- france_events.1037.a: "An interesting development."
-
- france_events.1038.t: "The Tenth International Congress"
- france_events.1038.d: "The Ninth Congress of the Third Internationale, held in Paris, dealt with spreading the ideology overseas, supporting socialist movements and strengthening the ties between existing socialist nations, and thanks to the gathering's success, the Tenth International Congress has been called, to be held in London.\n\nRepresentatives from the entire world were greeted by a British artillery salute, a Scottish bagpipe chorus and an overall warm reception. As Europe rolls closer and closer to war, military and economic cooperation between the socialists is expected to be the primary topic of discussion, and France and Britain will once again call the shots on the Internationale's policy."
+ france_events.1038.t: "Десятий Інтернаціональний конгрес"
+ france_events.1038.d: "Дев'ятий конгрес Третього Інтернаціоналу, що відбувся в Парижі, займався поширенням ідеології за кордоном, підтримкою соціалістичних рухів та зміцненням зв'язків між існуючими соціалістичними націями. Завдяки успіху цього зібрання було скликано Десятий Інтернаціональний конгрес, який відбудеться в Лондоні.\n\nПредставників з усього світу зустріли британським артилерійським салютом, шотландським хором волинок та загалом теплим прийомом. Оскільки Європа все ближче підкочується до війни, очікується, що основною темою обговорення буде військова та економічна співпраця між соціалістами, а Франція та Британія знову визначатимуть політику Інтернаціоналу."
  france_events.1038.a: "Цікаво."
 
- france_events.1039.t: "Creation of the International Avant-Garde"
- france_events.1039.d: "A combined effort by the Commune of France and the Union of Britain a few days ago has birthed the International Avant-Garde, a programme that aims to create a united art style for art and genre for music, as well as new literary techniques, each of them encouraged to be socialist, unorthodox, anti-traditionalist and anti-religious.\n\nIt's reported that artists, writers and musicians from all around the world will participate in this programme, from the United States to South Africa to Japan. The first festival to show off the fruits of the programme is planned to happen within two years at Cannes. Is this the dawn of the new, syndicalist entertainment?"
- france_events.1039.a: "Solidarity forever!"
+ france_events.1039.t: "Створення Міжнародного авангарду"
+ france_events.1039.d: "Спільні зусилля Французької комуни та Союзу Британії кілька днів тому породили Міжнародний авангард — програму, що має на меті створити єдиний мистецький стиль для мистецтва та жанр для музики, а також нові літературні техніки, кожна з яких заохочується бути соціалістичною, неортодоксальною, антитрадиціоналістською та антирелігійною.\n\nПовідомляється, що в цій програмі візьмуть участь художники, письменники та музиканти з усього світу, від Сполучених Штатів до Південної Африки та Японії. Перший фестиваль, що продемонструє плоди програми, планується провести протягом двох років у Каннах. Чи це світанок нової, синдикалістської розваги?"
+ france_events.1039.a: "Солідарність назавжди!"
 
 ### Decisions ###
  FRA_liberate_europe_category: "Визволення Європи"
@@ -1199,195 +1193,195 @@
  FRA_neosocialist_ADJ: "Неосоціалістичн"
 
 ### Characters ###
- FRA_marcel_deat: "Marcel Déat"
- FRA_marcel_deat_leader_desc: "§YBorn:§! §LMarch 7th, 1894, in Guérigny, Nièvre, French Republic§!\n§YBackground:§! §LMarcel Déat has upended the Communard political system. A Revisionist who has frequently made public his contempt for syndicalism, Déat stands in opposition to much of France's political establishment. His many enemies both within and outside France could lead to his, and perhaps also the Commune's, downfall.§!"
- FRA_marcel_deat_sic_desc: "§YBorn:§! §LMarch 7th, 1894, in Guérigny, Nièvre, French Republic§!"
+ FRA_marcel_deat: "Марсель Деа"
+ FRA_marcel_deat_leader_desc: "§YНародився:§! §L7 березня 1894 року, Геріньї, Ньєвр, Французька Республіка§!\n§YЖиттєпис:§! §LМарсель Деа перевернув комунарську політичну систему. Ревізіоніст, який часто публічно висловлював свою зневагу до синдикалізму, Деа протистоїть більшій частині політичного істеблішменту Франції. Його численні вороги як у Франції, так і за її межами можуть призвести до його, а можливо, і до падіння Комуни.§!"
+ FRA_marcel_deat_sic_desc: "§YНародився:§! §L7 березня 1894 року, Геріньї, Ньєвр, Французька Республіка§!"
 
- FRA_adrien_marquet: "Adrien Marquet"
- FRA_adrien_marquet_leader_desc: "§YBorn:§! §LOctober 6th, 1884, in Bordeaux, Gironde, French Republic§!\n§YBackground:§! §LJacobin of the first hour, Adrien Marquet has been ceaseless in promoting and showcasing Déat's \"Constructive Revolution\" through his rulership of the Bordeaux Commune. With the Jacobins having secured a majority in the BGT, Marquet has been appointed to use his leadership experience to put an end to anarchic chaos.§!"
- FRA_adrien_marquet_sic_desc: "§YBorn:§! §LOctober 6th, 1884, in Bordeaux, Gironde, French Republic§!"
+ FRA_adrien_marquet: "Адрієн Марке"
+ FRA_adrien_marquet_leader_desc: "§YНародився:§! §L6 жовтня 1884 року, Бордо, Жиронда, Французька Республіка§!\n§YЖиттєпис:§! §LЯкобінець першої години, Адрієн Марке невпинно просував і демонстрував «конструктивну революцію» Деа через своє правління в комуні Бордо. Оскільки якобінці здобули більшість у ГКП, Марке було призначено використати свій лідерський досвід, щоб покласти край анархічному хаосу.§!"
+ FRA_adrien_marquet_sic_desc: "§YНародився:§! §L6 жовтня 1884 року, Бордо, Жиронда, Французька Республіка§!"
 
- FRA_georges_valois: "Georges Valois"
- FRA_georges_valois_leader_desc: "§YBorn:§! §LOctober 7th, 1878, in Paris, Seine, French Republic§!\n§YBackground:§! §LGeorges Valois, an adherent to the national-syndicalist teachings of Georges Sorel, has become chairman of the Bourse Générale du Travail. Valois advocates the unification of the chairmanships of the Bourse Générale du Travail and Comité de Salut Public, a precursor in the eyes of many Communards, to tyranny.§!"
+ FRA_georges_valois: "Жорж Валуа"
+ FRA_georges_valois_leader_desc: "§YНародився:§! §L7 жовтня 1878 року, Париж, Сена, Французька Республіка§!\n§YЖиттєпис:§! §LЖорж Валуа, прихильник націонал-синдикалістських вчень Жоржа Сореля, став головою Загальної конфедерації праці. Валуа виступає за об'єднання посад голів Загальної конфедерації праці та Комітету громадського порятунку, що в очах багатьох комунарів є передвісником тиранії.§!"
 
- FRA_marcel_cachin: "Marcel Cachin"
- FRA_marcel_cachin_leader_desc: "§YBorn:§! §LSeptember 20th, 1869, in Paimpol, Côtes-du-Nord, French Empire§!\n§YBackground:§! §LMarcel Cachin, former diplomat and bureau chief of the state-owned newspaper, Humanité, has become chairman of the Commune of France. While a Leninist, his diplomatic attitude and general charisma, allow him to retain some degree cordiality with syndicalists and anarchists.§!"
- FRA_marcel_cachin_advisor_desc: "§YBorn:§! §LSeptember 20th, 1869, in Paimpol, Côtes-du-Nord, French Empire§!"
+ FRA_marcel_cachin: "Марсель Кашен"
+ FRA_marcel_cachin_leader_desc: "§YНародився:§! §L20 вересня 1869 року, Пемполь, Кот-дю-Нор, Французька імперія§!\n§YЖиттєпис:§! §LМарсель Кашен, колишній дипломат і керівник бюро державної газети «Юманіте», став головою Французької комуни. Хоча він і ленініст, його дипломатичність та загальна харизма дозволяють йому підтримувати певну долю привітності з синдикалістами та анархістами.§!"
+ FRA_marcel_cachin_advisor_desc: "§YНародився:§! §L20 вересня 1869 року, Пемполь, Кот-дю-Нор, Французька імперія§!"
 
- FRA_leon_jouhaux: "Léon Jouhaux"
- FRA_leon_jouhaux_leader_desc: "§YBorn:§! §LJuly 1st, 1879, in Paris, Seine, French Republic§!\n§YBackground:§! §LLéon Jouhaux has been elected Chairman of the Bourse Générale du Travail. Jouhaux, as a revolutionary trade unionist, participated in the general strike of 1919 which precipitated the Commune's establishment. He is an adherent of orthodox French syndicalism, a true centrist among the factions of the Commune.§!"
+ FRA_leon_jouhaux: "Леон Жуо"
+ FRA_leon_jouhaux_leader_desc: "§YНародився:§! §L1 липня 1879 року, Париж, Сена, Французька Республіка§!\n§YЖиттєпис:§! §LЛеон Жуо був обраний головою Загальної конфедерації праці. Жуо, як революційний профспілковий діяч, брав участь у загальному страйку 1919 року, що прискорив створення Комуни. Він є прихильником ортодоксального французького синдикалізму, справжнім центристом серед фракцій Комуни.§!"
 
- FRA_vincent_auriol: "Vincent Auriol"
- FRA_vincent_auriol_leader_desc: "§YBorn:§! §LAugust 27th, 1884, in Revel, Haute-Garonne, French Republic§!\n§YBackground:§! §LVincent Auriol, long accused by hardline syndicalists of harbouring sympathies for the bourgeoisie, has become chairman of the Bourse Générale du Travail. He advocates the gradual transition to a more democratic system of government in the Commune.§!"
- FRA_vincent_auriol_advisor_desc: "§YBorn:§! §LAugust 27th, 1884, in Revel, Haute-Garonne, French Republic§!"
+ FRA_vincent_auriol: "Венсан Оріоль"
+ FRA_vincent_auriol_leader_desc: "§YНародився:§! §L27 серпня 1884 року, Ревель, Верхня Гаронна, Французька Республіка§!\n§YЖиттєпис:§! §LВенсан Оріоль, якого давно звинувачують жорсткі синдикалісти в симпатіях до буржуазії, став головою Загальної конфедерації праці. Він виступає за поступовий перехід до більш демократичної системи правління в Комуні.§!"
+ FRA_vincent_auriol_advisor_desc: "§YНародився:§! §L27 серпня 1884 року, Ревель, Верхня Гаронна, Французька Республіка§!"
 
- FRA_jacques_doriot: "Jacques Doriot"
- FRA_jacques_doriot_leader_desc: "§YBorn:§! §LSeptember 26th, 1898, in Bresles, Oise, French Republic§!\n§YBackground:§! §LJacques Doriot, veteran of the Great War, returned from captivity in Germany to find a France forever changed. His personal transformation from moderate socialist, to Leninist, and now national-syndicalist, has instilled in him an engrained proclivity for compromise.§!"
- FRA_jacques_doriot_advisor_desc: "§YBorn:§! §LSeptember 26th, 1898, in Bresles, Oise, French Republic§!"
+ FRA_jacques_doriot: "Жак Доріо"
+ FRA_jacques_doriot_leader_desc: "§YНародився:§! §L26 вересня 1898 року, Брель, Уаза, Французька Республіка§!\n§YЖиттєпис:§! §LЖак Доріо, ветеран Великої війни, повернувся з німецького полону і побачив Францію, що назавжди змінилася. Його особиста трансформація від поміркованого соціаліста до ленініста, а тепер і до націонал-синдикаліста, прищепила йому глибоку схильність до компромісів.§!"
+ FRA_jacques_doriot_advisor_desc: "§YНародився:§! §L26 вересня 1898 року, Брель, Уаза, Французька Республіка§!"
 
- FRA_benoit_frachon: "Benoît Frachon"
- FRA_benoit_frachon_leader_desc: "§YBorn:§! §LMay 13th, 1893, in Le Chambon-Feugerolles, Loire, French Republic§!\n§YBackground:§! §LBenoît Frachon, a veteran of the French Civil War, has become chairman of the Bourse Générale du Travail. While a syndicalist, he is sympathetic towards the opposing anarchist faction; to that end, he has declared mending the Commune's factionalism the chief goal of his chairmanship.§!"
- FRA_benoit_frachon_advisor_desc: "§YBorn:§! §LMay 13th, 1893, in Le Chambon-Feugerolles, Loire, French Republic§!"
+ FRA_benoit_frachon: "Бенуа Фрашон"
+ FRA_benoit_frachon_leader_desc: "§YНародився:§! §L13 травня 1893 року, Ле-Шамбон-Фежероль, Луара, Французька Республіка§!\n§YЖиттєпис:§! §LБенуа Фрашон, ветеран Французької громадянської війни, став головою Загальної конфедерації праці. Хоча він і синдикаліст, він симпатизує опозиційній анархістській фракції; з цією метою він проголосив головною метою свого головування подолання фракційності в Комуні.§!"
+ FRA_benoit_frachon_advisor_desc: "§YНародився:§! §L13 травня 1893 року, Ле-Шамбон-Фежероль, Луара, Французька Республіка§!"
 
- FRA_pierre_monatte: "Pierre Monatte"
- FRA_pierre_monatte_leader_desc: "§YBorn:§! §LJanuary 15th, 1881, in Monlet, Haute-Loire, French Republic§!\n§YBackground:§! §LWorker. Militant. Revolutionary. Pierre Monatte has had an immense influence on our nation, leading us confidently for over a decade now. Born on January 15th, 1881, he was a renowned trade unionist before the Great War and had been unjustly arrested several times for various syndicalist 'crimes' against Capital, such as his participation in righteous protests in the aftermath of the Courrières mining disaster. Having quickly risen through the ranks of the General Confederation of Labour, he was even briefly forced into exile by the Republic's repression of the movement. When the War broke out, he was of the few to dare say a resounding no to collaboration with the bourgeois government, shortly before being sent to the front. This prescience and his reputation as a stalwart, tireless revolutionary meant that when the time came, Monatte played a critical role in the overthrowing of the old order, and was in an excellent place to steer the new proletarian course of our nation.\n\nBecoming one of the main organisers of the 'Orthodoxes', and certainly their most influential member, his leadership led the union of the previously feuding 'Centrists' and 'Ultras' to victory in the 1926 elections, capturing the Presidency. A master politician, Monatte has managed to stay afloat through a fragile coalition with the Anarchists, ever juggling their demands, along with the other, fractal factions that are so important in the parliament. Yet the man at the top will always be a target, and to say the position he holds is coveted would be an understatement. As knives sharpen in every dark corner, how long can the light keep them at bay?§!"
- FRA_pierre_monatte_advisor_desc: "§YBorn:§! §LJanuary 15th, 1881, in Monlet, Haute-Loire, French Republic§!"
+ FRA_pierre_monatte: "П'єр Монатт"
+ FRA_pierre_monatte_leader_desc: "§YНародився:§! §L15 січня 1881 року, Монле, Верхня Луара, Французька Республіка§!\n§YЖиттєпис:§! §LРобітник. Боєць. Революціонер. П'єр Монатт мав величезний вплив на нашу націю, впевнено ведучи нас уже понад десятиліття. Народившись 15 січня 1881 року, він був відомим профспілковим діячем ще до Великої війни і був несправедливо заарештований кілька разів за різні синдикалістські «злочини» проти Капіталу, такі як його участь у справедливих протестах після катастрофи на шахті в Курр'єрі. Швидко піднявшись по кар'єрних сходах у Загальній конфедерації праці, він навіть був змушений на деякий час виїхати у вигнання через репресії Республіки проти руху. Коли почалася війна, він був одним з небагатьох, хто наважився рішуче сказати «ні» співпраці з буржуазним урядом, незадовго до того, як його відправили на фронт. Ця далекоглядність і його репутація стійкого, невтомного революціонера означали, що коли настав час, Монатт відіграв вирішальну роль у поваленні старого порядку і опинився в чудовому становищі, щоб спрямувати новий пролетарський курс нашої нації.\n\nСтавши одним з головних організаторів «ортодоксів», і, безумовно, їхнім найвпливовішим членом, його лідерство привело союз раніше ворогуючих «центристів» і «ультра» до перемоги на виборах 1926 року, захопивши президентство. Майстерний політик, Монатт зумів утриматися на плаву завдяки крихкій коаліції з анархістами, постійно жонглюючи їхніми вимогами, а також іншими, роздробленими фракціями, які є такими важливими в парламенті. Проте людина на вершині завжди буде мішенню, і сказати, що посада, яку він обіймає, є бажаною, було б применшенням. Поки ножі гостряться в кожному темному кутку, як довго світло зможе їх стримувати?§!"
+ FRA_pierre_monatte_advisor_desc: "§YНародився:§! §L15 січня 1881 року, Монле, Верхня Луара, Французька Республіка§!"
 
- FRA_conseil_de_defense_federal: "Conseil de Défense Fédéral"
- FRA_conseil_de_defense_federal_leader_desc: "§YFounded:§! §LFebruary 1936, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!"
- FRA_conseil_de_defense_federal_41_leader_desc: "§YFounded:§! §LFebruary 1941, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!"
- FRA_conseil_de_defense_federal_46_leader_desc: "§YFounded:§! §LFebruary 1946, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!"
- FRA_conseil_de_defense_federal_51_leader_desc: "§YFounded:§! §LFebruary 1951, in the Palace of the People, Paris, Paris Commune, Federation of the Communes of France§!"
+ FRA_conseil_de_defense_federal: "Федеральна рада оборони"
+ FRA_conseil_de_defense_federal_leader_desc: "§YЗаснована:§! §Lлютий 1936 року, Палац народу, Париж, Паризька комуна, Федерація комун Франції§!"
+ FRA_conseil_de_defense_federal_41_leader_desc: "§YЗаснована:§! §Lлютий 1941 року, Палац народу, Париж, Паризька комуна, Федерація комун Франції§!"
+ FRA_conseil_de_defense_federal_46_leader_desc: "§YЗаснована:§! §Lлютий 1946 року, Палац народу, Париж, Паризька комуна, Федерація комун Франції§!"
+ FRA_conseil_de_defense_federal_51_leader_desc: "§YЗаснована:§! §Lлютий 1951 року, Палац народу, Париж, Паризька комуна, Федерація комун Франції§!"
 
- FRA_maurice_gamelin: "Maurice Gamelin"
- FRA_maurice_gamelin_leader_desc: "§YBorn:§! §LSeptember 20th, 1872, in Paris, Seine, French Republic§!\n§YBackground:§! §LGeneral Maurice Gamelin has overthrown the Jacobin regime of Marcel Déat. While his coup is an obvious affront to the already dubious Communard democratic process, many now regard Gamelin as the saviour of the Commune, and even syndicalism itself.§!"
- FRA_maurice_gamelin_army_chief_desc: "§YBorn:§! §LSeptember 20th, 1872, in Paris, Seine, French Republic§!"
+ FRA_maurice_gamelin: "Моріс Гамелен"
+ FRA_maurice_gamelin_leader_desc: "§YНародився:§! §L20 вересня 1872 року, Париж, Сена, Французька Республіка§!\n§YЖиттєпис:§! §LГенерал Моріс Гамелен повалив якобінський режим Марселя Деа. Хоча його переворот є явним посяганням на і без того сумнівний демократичний процес Комуни, багато хто тепер вважає Гамелена рятівником Комуни і навіть самого синдикалізму.§!"
+ FRA_maurice_gamelin_army_chief_desc: "§YНародився:§! §L20 вересня 1872 року, Париж, Сена, Французька Республіка§!"
 
- FRA_georges_catroux: "Georges Catroux"
- FRA_georges_catroux_army_chief_desc: "§YBorn:§! §LJanuary 29th, 1877, in Limoges, Haute-Vienne, French Republic§!"
+ FRA_georges_catroux: "Жорж Катру"
+ FRA_georges_catroux_army_chief_desc: "§YНародився:§! §L29 січня 1877 року, Лімож, Верхня В'єнна, Французька Республіка§!"
 
- FRA_gaston_billotte: "Gaston Billotte"
- FRA_gaston_billotte_commander_desc: "§YBorn:§! §LFebruary 10th, 1875, in Sommeval, Aube, French Republic§!"
+ FRA_gaston_billotte: "Гастон Бійотт"
+ FRA_gaston_billotte_commander_desc: "§YНародився:§! §L10 лютого 1875 року, Сомваль, Об, Французька Республіка§!"
 
- FRA_charles_delestraint: "Charles Delestraint"
- FRA_charles_delestraint_army_chief_desc: "§YBorn:§! §LMarch 12th, 1879, in Biache-Saint-Vaast, Pas-de-Calais, French Republic§!"
+ FRA_charles_delestraint: "Шарль Делестрен"
+ FRA_charles_delestraint_army_chief_desc: "§YНародився:§! §L12 березня 1879 року, Б'яш-Сен-Вааст, Па-де-Кале, Французька Республіка§!"
 
- FRA_marie_pierre_koenig: "Marie-Pierre Koenig"
- FRA_marie_pierre_koenig_leader_desc: "§YBorn:§! §LOctober 10th, 1898, in Caen, Calvados, French Republic§!"
- FRA_marie_pierre_koenig_army_chief_desc: "§YBorn:§! §LOctober 10th, 1898, in Caen, Calvados, French Republic§!"
+ FRA_marie_pierre_koenig: "Марі-П'єр Кеніг"
+ FRA_marie_pierre_koenig_leader_desc: "§YНародився:§! §L10 жовтня 1898 року, Кан, Кальвадос, Французька Республіка§!"
+ FRA_marie_pierre_koenig_army_chief_desc: "§YНародився:§! §L10 жовтня 1898 року, Кан, Кальвадос, Французька Республіка§!"
 
- FRA_ernest_petit: "Ernest Petit"
- FRA_ernest_petit_high_command_desc: "§YBorn:§! §LFebruary 20th, 1888, in Paimbœuf, Loire-Inférieure, French Republic§!"
+ FRA_ernest_petit: "Ернест Петі"
+ FRA_ernest_petit_high_command_desc: "§YНародився:§! §L20 лютого 1888 року, Пембеф, Нижня Луара, Французька Республіка§!"
 
- FRA_henri_tanguy: "Henri Tanguy"
- FRA_henri_tanguy_commander_desc: "§YBorn:§! §LJune 12th, 1908, in Morlaix, Finistère, French Republic§!"
+ FRA_henri_tanguy: "Анрі Тангі"
+ FRA_henri_tanguy_commander_desc: "§YНародився:§! §L12 червня 1908 року, Морле, Фіністер, Французька Республіка§!"
 
- FRA_rene_olry: "René Olry"
- FRA_rene_olry_high_command_desc: "§YBorn:§! §LJune 28th, 1880, in Lille, Nord, French Republic§!"
+ FRA_rene_olry: "Рене Олрі"
+ FRA_rene_olry_high_command_desc: "§YНародився:§! §L28 червня 1880 року, Лілль, Нор, Французька Республіка§!"
 
- FRA_diego_brosset: "Diego Brosset"
- FRA_diego_brosset_commander_desc: "§YBorn:§! §LOctober 3rd, 1898, in Buenos Aires, Buenos Aires Province, Argentine Republic§!"
+ FRA_diego_brosset: "Дієго Броссе"
+ FRA_diego_brosset_commander_desc: "§YНародився:§! §L3 жовтня 1898 року, Буенос-Айрес, провінція Буенос-Айрес, Аргентинська Республіка§!"
 
- FRA_jean_edouard_verneau: "Jean-Édouard Verneau"
- FRA_jean_edouard_verneau_commander_desc: "§YBorn:§! §LAugust 29th, 1890, in Vignot, Meuse, French Republic§!"
+ FRA_jean_edouard_verneau: "Жан-Едуар Верно"
+ FRA_jean_edouard_verneau_commander_desc: "§YНародився:§! §L29 серпня 1890 року, Віньо, Мез, Французька Республіка§!"
 
- FRA_georges_revers: "Georges Revers"
- FRA_georges_revers_commander_desc: "§YBorn:§! §LJuly 30th, 1891, in Saint-Malo, Ille-et-Vilaine, French Republic§!"
+ FRA_georges_revers: "Жорж Ревер"
+ FRA_georges_revers_commander_desc: "§YНародився:§! §L30 липня 1891 року, Сен-Мало, Іль і Вілен, Французька Республіка§!"
 
- FRA_andre_boris: "André Boris"
- FRA_andre_boris_commander_desc: "§YBorn:§! §LAugust 23rd, 1878, in Toul, Meurthe-et-Moselle, French Republic§!"
+ FRA_andre_boris: "Андре Боріс"
+ FRA_andre_boris_commander_desc: "§YНародився:§! §L23 серпня 1878 року, Туль, Мерт і Мозель, Французька Республіка§!"
 
- FRA_nestor_makhno: "Nestor Makhno"
- FRA_nestor_makhno_commander_desc: "§YBorn:§! §LNovember 8th, 1888, in Huliaipole, Yekaterinoslav Governorate, Russian Empire§!\n§YBackground:§! §LBorn in extreme poverty in rural Eastern Ukraine, Nestor Makhno experienced the worst of the late Russian Empire - he lost his father when he was ten months old and any chance at gaining an education at ten years old, as he had to abandon school to work odd jobs to feed his family. He developed a primal rage for the landlord and the factory-owner, led a wildcat strike against his landlord when he was twelve, and fully devoted himself to the impending revolution since he was seventeen, after witnessing the Revolution of 1905. He led anarchist study groups, skirmished with the police, and was ultimately convicted to a life sentence of hard labour.\n\nSickly, yet energetic, Makhno was released after the February Revolution, and immediately travelled to Ukraine to continue his work. Now, he was no longer a propagandist, but a revolutionary leader. After being briefly exiled from Huliapole due to the German occupation, he bore witness to the rise of the Bolsheviks, which he denounced as a "paper revolution" and returned home in July 1918. There, he set up the Revolutionary Insurgent Army and began a year long war of resistance against the Germans and Ukrainian nationalists. Though brutal and not at all educated in army affairs, Makhno earned the favour of the countryside and gave the Hetman a much tougher fight than expected before being forced to flee. Ultimately, he arrived in the Commune of France, which he immediately denounced as yet another paper revolution. Uninterested in its intellectual foundations, Makhno merely saw disunity, inaction and oligarchy which threatened to overturn the accomplishments of the Revolution by creating yet another aristocracy. Much like Bolshevik exiles, he was integrated into the Federal Army, and earned a following with tales of his exploits - however, he was a maverick in the officer corps, clashing with his superiors and ignoring his duties. Neither him nor the Army were satisfied, so, Makhno left for the wider world - serving in revolutionary volunteer corps throughout the post-war to further the world revolution instead. This path has brought him to Patagonia - where he can serve the cause while being out of mind for the Communards.§!"
+ FRA_nestor_makhno: "Нестор Махно"
+ FRA_nestor_makhno_commander_desc: "§YНародився:§! §L8 листопада 1888 року, Гуляйполе, Катеринославська губернія, Російська імперія§!\n§YЖиттєпис:§! §LНародившись у крайній бідності в сільській Східній Україні, Нестор Махно зазнав найгіршого з часів пізньої Російської імперії — він втратив батька, коли йому було десять місяців, і будь-яку можливість здобути освіту в десять років, оскільки мусив покинути школу, щоб працювати на випадкових роботах, аби прогодувати сім'ю. Він розвинув первісну лють до поміщика та власника фабрики, очолив стихійний страйк проти свого поміщика, коли йому було дванадцять, і повністю присвятив себе майбутній революції з сімнадцяти років, ставши свідком Революції 1905 року. Він очолював анархістські гуртки, вступав у сутички з поліцією і врешті-решт був засуджений до довічного ув'язнення на каторзі.\n\nХворобливий, але енергійний, Махно був звільнений після Лютневої революції й негайно вирушив до України, щоб продовжити свою роботу. Тепер він був уже не пропагандистом, а революційним лідером. Після короткого вигнання з Гуляйполя через німецьку окупацію він став свідком піднесення більшовиків, яких він засудив як «паперову революцію», і повернувся додому в липні 1918 року. Там він створив Революційну повстанську армію і розпочав річну війну опору проти німців та українських націоналістів. Хоча він був жорстоким і зовсім не мав військової освіти, Махно завоював прихильність селян і дав гетьману набагато жорсткіший бій, ніж очікувалося, перш ніж був змушений тікати. Зрештою, він прибув до Французької комуни, яку він негайно засудив як ще одну «паперову революцію». Не цікавлячись її інтелектуальними основами, Махно бачив лише роз'єднаність, бездіяльність та олігархію, що загрожували перекреслити досягнення Революції, створивши ще одну аристократію. Подібно до більшовицьких вигнанців, його інтегрували до Федеральної армії, де він здобув послідовників завдяки розповідям про свої подвиги — проте в офіцерському корпусі він був одинаком, конфліктуючи з начальством та ігноруючи свої обов'язки. Ні він, ні армія не були задоволені, тож Махно покинув їх, щоб служити у революційних добровольчих корпусах по всьому світу, просуваючи світову революцію. Цей шлях привів його до Патагонії, де він може служити справі, перебуваючи подалі від комунарів.§!"
 
- FRA_henri_adeline: "Henri Adeline"
- FRA_henri_adeline_high_command_desc: "§YBorn:§! §LMay 8th, 1898, in Verdun, Meuse, French Republic§!"
+ FRA_henri_adeline: "Анрі Аделін"
+ FRA_henri_adeline_high_command_desc: "§YНародився:§! §L8 травня 1898 року, Верден, Мез, Французька Республіка§!"
 
- FRA_aime_doumenc: "Aimé Doumenc"
- FRA_aime_doumenc_commander_desc: "§YBorn:§! §LNovember 16th, 1880, in Grenoble, Isère, French Republic§!"
+ FRA_aime_doumenc: "Еме Думенк"
+ FRA_aime_doumenc_commander_desc: "§YНародився:§! §L16 листопада 1880 року, Гренобль, Ізер, Французька Республіка§!"
 
- FRA_raoul_magrin_vernerey: "Raoul Magrin Vernerey"
- FRA_raoul_magrin_vernerey_high_command_desc: "§YBorn:§! §LFebruary 7th, 1892, in Budapest, Pest-Pilis-Solt-Kiskun County, Kingdom of Hungary, Austria-Hungary§!"
+ FRA_raoul_magrin_vernerey: "Рауль Магрен-Вернере"
+ FRA_raoul_magrin_vernerey_high_command_desc: "§YНародився:§! §L7 лютого 1892 року, Будапешт, комітат Пешт-Піліш-Шольт-Кішкун, Королівство Угорщина, Австро-Угорщина§!"
 
- FRA_joseph_putz: "Joseph Putz"
- FRA_joseph_putz_high_command_desc: "§YBorn:§! §LApril 24th, 1895, in Brussels, Brabant, Kingdom of Belgium§!"
+ FRA_joseph_putz: "Жозеф Пюц"
+ FRA_joseph_putz_high_command_desc: "§YНародився:§! §L24 квітня 1895 року, Брюссель, Брабант, Королівство Бельгія§!"
 
- FRA_andre_marty: "André Marty"
- FRA_andre_marty_commander_desc: "§YBorn:§! §LNovember 6th, 1886, in Perpignan, Pyrénées-Orientales, French Republic§!"
+ FRA_andre_marty: "Андре Марті"
+ FRA_andre_marty_commander_desc: "§YНародився:§! §L6 листопада 1886 року, Перпіньян, Східні Піренеї, Французька Республіка§!"
 
- FRA_georges_blanchard: "Georges Blanchard"
- FRA_georges_blanchard_high_command_desc: "§YBorn:§! §LDecember 9th, 1877, in Orléans, Loiret, French Republic§!"
+ FRA_georges_blanchard: "Жорж Бланшар"
+ FRA_georges_blanchard_high_command_desc: "§YНародився:§! §L9 грудня 1877 року, Орлеан, Луаре, Французька Республіка§!"
 
- FRA_clement_blanc: "Clément Blanc"
- FRA_clement_blanc_commander_desc: "§YBorn:§! §LOctober 1st, 1897, in Perpignan, Pyrénées-Orientales, French Republic§!"
+ FRA_clement_blanc: "Клеман Блан"
+ FRA_clement_blanc_commander_desc: "§YНародився:§! §L1 жовтня 1897 року, Перпіньян, Східні Піренеї, Французька Республіка§!"
 
- FRA_paul_legentilhomme: "Paul Legentilhomme"
- FRA_paul_legentilhomme_commander_desc: "§YBorn:§! §LMarch 26th, 1884, in Valognes, Manche, French Republic§!"
+ FRA_paul_legentilhomme: "Поль Лежантійом"
+ FRA_paul_legentilhomme_commander_desc: "§YНародився:§! §L26 березня 1884 року, Валонь, Манш, Французька Республіка§!"
 
- FRA_florimond_bonte: "Florimond Bonte"
- FRA_florimond_bonte_commander_desc: "§YBorn:§! §LJanuary 22nd, 1890, in Tourcoing, Nord, French Republic§!"
+ FRA_florimond_bonte: "Флорімон Бонт"
+ FRA_florimond_bonte_commander_desc: "§YНародився:§! §L22 січня 1890 року, Туркуен, Нор, Французька Республіка§!"
 
- FRA_aubert_frere: "Aubert Frère"
- FRA_aubert_frere_commander_desc: "§YBorn:§! §LAugust 21st, 1881, in Grévillers, Pas-de-Calais, French Republic§!\n§YBackground:§! §LBorn the 6th of 11 children, he would receive a Christian education before entering the Saint-Cyr military school at the age of 19. Most of his early career was spent in Morocco before returning to France in 1912. His first experience during the Weltkrieg would be at the battle of Charleroi, and he would later fight at both Verdun and the Somme. He would be promoted first to battalion commander in the first infantry regiment, and later the head of a battalion of Alpine troops. He would be injured three times and be cited eight times before the war ended.§!"
+ FRA_aubert_frere: "Обер Фрер"
+ FRA_aubert_frere_commander_desc: "§YНародився:§! §L21 серпня 1881 року, Гревільє, Па-де-Кале, Французька Республіка§!\n§YЖиттєпис:§! §LНародившись 6-м з 11 дітей, він отримав християнську освіту, перш ніж у 19 років вступити до військової школи Сен-Сір. Більшу частину своєї ранньої кар'єри він провів у Марокко, а в 1912 році повернувся до Франції. Його першим бойовим досвідом під час Вельткригу стала битва при Шарлеруа, а пізніше він воював під Верденом та на Соммі. Спочатку його підвищили до командира батальйону в першому піхотному полку, а згодом — до командира батальйону альпійських військ. До кінця війни він був поранений тричі й отримав вісім згадок у наказах.§!"
 
- FRA_henri_frenay: "Henri Frenay"
- FRA_henri_frenay_commander_desc: "§YBorn:§! §LNovember 11th, 1905, in Lyon, Rhône, French Republic§!"
+ FRA_henri_frenay: "Анрі Френе"
+ FRA_henri_frenay_commander_desc: "§YНародився:§! §L11 листопада 1905 року, Ліон, Рона, Французька Республіка§!"
 
- FRA_louis_buisson: "Louis Buisson"
- FRA_louis_buisson_commander_desc: "§YBorn:§! §LDecember 14th, 1889, in Le Bourget-du-Lac, Savoie, French Republic§!"
+ FRA_louis_buisson: "Луї Бюїссон"
+ FRA_louis_buisson_commander_desc: "§YНародився:§! §L14 грудня 1889 року, Ле-Бурже-дю-Лак, Савоя, Французька Республіка§!"
 
- FRA_francois_darlan: "François Darlan"
- FRA_francois_darlan_navy_chief_desc: "§YBorn:§! §LAugust 7th, 1881, in Nérac, Lot-et-Garonne, French Republic§!\n§YBackground:§! §LJean Louis Xavier François Darlan was born to a family long connected to the navy. He would graduate from the École Navale in 1902, and during the Great War would notably serve in an artillery battery at the Battle of Verdun. Swept in the chaos of the Revolution and spurned by his patriotism and moderate left-wing convictions, Darlan would rejoin the Federal Navy and over the next several years would rise rapidly through the ranks. He is now one of the most respected men in the French Navy, proud of the institution he has helped to rebuild.§!"
+ FRA_francois_darlan: "Франсуа Дарлан"
+ FRA_francois_darlan_navy_chief_desc: "§YНародився:§! §L7 серпня 1881 року, Нерак, Лот і Гаронна, Французька Республіка§!\n§YЖиттєпис:§! §LЖан Луї Ксав'є Франсуа Дарлан народився в родині, давно пов'язаній з флотом. У 1902 році він закінчив Військово-морську школу, а під час Великої війни, зокрема, служив в артилерійській батареї в битві під Верденом. Захоплений хаосом Революції та спонуканий своїм патріотизмом і поміркованими лівими переконаннями, Дарлан знову приєднався до Федерального флоту і протягом наступних кількох років стрімко просувався по службі. Зараз він — один з найшанованіших людей у французькому флоті, гордий інституцією, яку допоміг відновити.§!"
 
- FRA_raoul_castex: "Raoul Castex"
- FRA_raoul_castex_navy_chief_desc: "§YBorn:§! §LOctober 27th, 1878, in Saint-Omer, Pas-de-Calais, French Republic§!"
+ FRA_raoul_castex: "Рауль Кастекс"
+ FRA_raoul_castex_navy_chief_desc: "§YНародився:§! §L27 жовтня 1878 року, Сент-Омер, Па-де-Кале, Французька Республіка§!"
 
- FRA_andre_georges_lemmonier: "André-Georges Lemonnier"
- FRA_andre_georges_lemmonier_high_command_desc: "§YBorn:§! §LFebruary 24th, 1896, in Guingamp, Côtes-du-Nord, French Republic§!"
+ FRA_andre_georges_lemmonier: "Андре-Жорж Лемоньє"
+ FRA_andre_georges_lemmonier_high_command_desc: "§YНародився:§! §L24 лютого 1896 року, Генган, Кот-д'Армор, Французька Республіка§!"
 
- FRA_gabriel_auphan: "Gabriel Auphan"
- FRA_gabriel_auphan_admiral_desc: "§YBorn:§! §LNovember 4th, 1894, in Alès, Gard, French Republic§!"
+ FRA_gabriel_auphan: "Габріель Офан"
+ FRA_gabriel_auphan_admiral_desc: "§YНародився:§! §L4 листопада 1894 року, Алес, Гар, Французька Республіка§!"
 
- FRA_philippe_auboyneau: "Philippe Auboyneau"
- FRA_philippe_auboyneau_high_command_desc: "§YBorn:§! §LNovember 9th, 1899, in Constantinople, Vilayet of Konstantiniyye, Ottoman Empire§!"
+ FRA_philippe_auboyneau: "Філіпп Обуано"
+ FRA_philippe_auboyneau_high_command_desc: "§YНародився:§! §L9 листопада 1899 року, Константинополь, вілаєт Константинополь, Османська імперія§!"
 
- FRA_marcel_gensoul: "Marcel Gensoul"
- FRA_marcel_gensoul_high_command_desc: "§YBorn:§! §LOctober 12th, 1880, in Montpellier, Hérault, French Republic§!"
+ FRA_marcel_gensoul: "Марсель Жансуль"
+ FRA_marcel_gensoul_high_command_desc: "§YНародився:§! §L12 жовтня 1880 року, Монпельє, Еро, Французька Республіка§!"
 
- FRA_louis_lazare_kahn: "Louis-Lazare Kahn"
- FRA_louis_lazare_kahn_high_command_desc: "§YBorn:§! §LOctober 13th, 1895, in Versailles, Seine-et-Oise, French Republic§!"
+ FRA_louis_lazare_kahn: "Луї-Лазар Кан"
+ FRA_louis_lazare_kahn_high_command_desc: "§YНародився:§! §L13 жовтня 1895 року, Версаль, Сена і Уаза, Французька Республіка§!"
 
- FRA_edouard_peisson: "Édouard Peisson"
- FRA_edouard_peisson_theorist_desc: "§YBorn:§! §LMarch 7th, 1896, in Marseille, Bouches-du-Rhône, French Republic§!"
+ FRA_edouard_peisson: "Едуар Пессон"
+ FRA_edouard_peisson_theorist_desc: "§YНародився:§! §L7 березня 1896 року, Марсель, Буш-дю-Рон, Французька Республіка§!"
 
- FRA_irene_and_frederic_joliot_curie: "Irène & Frédéric Joliot-Curie"
- FRA_irene_and_frederic_joliot_curie_theorist_desc: "§YBorn:§! §LSeptember 12th, 1897, in Paris, Seine, French Republic§!\n§YBorn:§! §LMarch 19th, 1900, in Paris, Seine, French Republic§!"
- FRA_robert_esnault_pelterie: "Robert Esnault-Pelterie"
- FRA_robert_esnault_pelterie_theorist_desc: "§YBorn:§! §LNovember 8th, 1881, in Paris, Seine, French Republic§!"
+ FRA_irene_and_frederic_joliot_curie: "Ірен та Фредерік Жоліо-Кюрі"
+ FRA_irene_and_frederic_joliot_curie_theorist_desc: "§YНародилася:§! §L12 вересня 1897 року, Париж, Сена, Французька Республіка§!\n§YНародився:§! §L19 березня 1900 року, Париж, Сена, Французька Республіка§!"
+ FRA_robert_esnault_pelterie: "Робер Есно-Пельтрі"
+ FRA_robert_esnault_pelterie_theorist_desc: "§YНародився:§! §L8 листопада 1881 року, Париж, Сена, Французька Республіка§!"
 
- FRA_joseph_vuillemin: "Joseph Vuillemin"
- FRA_joseph_vuillemin_air_chief_desc: "§YBorn:§! §LMarch 14th, 1883, in Bordeaux, Gironde, French Republic§!"
- FRA_martial_henri_valin: "Martial Henri Valin"
- FRA_martial_henri_valin_air_chief_desc: "§YBorn:§! §LMay 14th, 1898, in Limoges, Haute-Vienne, French Republic§!"
- FRA_maryse_bastie: "Maryse Bastié"
- FRA_maryse_bastie_high_command_desc: "§YBorn:§! §LFebruary 27th, 1898, in Limoges, Haute-Vienne, French Republic§!"
- FRA_victor_leon_ernest_denain: "Victor Léon Ernest Denain"
- FRA_victor_leon_ernest_denain_high_command_desc: "§YBorn:§! §LNovember 6th, 1880, in Dax, Landes, French Republic§!"
- FRA_jean_francois_jannekeyn: "Jean-François Jannekeyn"
- FRA_jean_francois_jannekeyn_high_command_desc: "§YBorn:§! §LNovember 16th, 1892, in Cambrai, Nord, French Republic§!"
- FRA_alfred_heurtaux: "Alfred Heurtaux"
- FRA_alfred_heurtaux_high_command_desc: "§YBorn:§! §LMay 20th, 1893, in Nantes, Loire-Inférieure, French Republic§!"
- FRA_georges_guynemer: "Georges Guynemer"
- FRA_georges_guynemer_high_command_desc: "§YBorn:§! §LDecember 24th, 1894, in Paris, Seine, French Republic§!"
+ FRA_joseph_vuillemin: "Жозеф Вюймен"
+ FRA_joseph_vuillemin_air_chief_desc: "§YНародився:§! §L14 березня 1883 року, Бордо, Жиронда, Французька Республіка§!"
+ FRA_martial_henri_valin: "Марсіаль Анрі Вален"
+ FRA_martial_henri_valin_air_chief_desc: "§YНародився:§! §L14 травня 1898 року, Лімож, Верхня В'єнна, Французька Республіка§!"
+ FRA_maryse_bastie: "Маріз Бастьє"
+ FRA_maryse_bastie_high_command_desc: "§YНародилася:§! §L27 лютого 1898 року, Лімож, Верхня В'єнна, Французька Республіка§!"
+ FRA_victor_leon_ernest_denain: "Віктор Леон Ернест Денен"
+ FRA_victor_leon_ernest_denain_high_command_desc: "§YНародився:§! §L6 листопада 1880 року, Дакс, Ланди, Французька Республіка§!"
+ FRA_jean_francois_jannekeyn: "Жан-Франсуа Жаннекен"
+ FRA_jean_francois_jannekeyn_high_command_desc: "§YНародився:§! §L16 листопада 1892 року, Камбре, Нор, Французька Республіка§!"
+ FRA_alfred_heurtaux: "Альфред Ерто"
+ FRA_alfred_heurtaux_high_command_desc: "§YНародився:§! §L20 травня 1893 року, Нант, Нижня Луара, Французька Республіка§!"
+ FRA_georges_guynemer: "Жорж Ґінемер"
+ FRA_georges_guynemer_high_command_desc: "§YНародився:§! §L24 грудня 1894 року, Париж, Сена, Французька Республіка§!"
 
- FRA_pierre_jules_cot: "Pierre Jules Cot"
- FRA_pierre_jules_cot_advisor_desc: "§YBorn:§! §LNovember 20th, 1895, in Grenoble, Isère, French Republic§!"
- FRA_leon_blum: "Léon Blum"
- FRA_leon_blum_advisor_desc: "§YBorn:§! §LApril 9th, 1872, in Paris, Seine, French Republic§!"
- FRA_daniel_guerin: "Daniel Guérin"
- FRA_daniel_guerin_advisor_desc: "§YBorn:§! §LMay 19th, 1904, in Paris, Seine, French Republic§!"
- FRA_maurice_thorez: "Maurice Thorez"
- FRA_maurice_thorez_advisor_desc: "§YBorn:§! §LApril 28th, 1900, in Noyelles-Godault, Pas-de-Calais, French Republic§!"
- FRA_charles_rappoport: "Charles Rappoport"
- FRA_charles_rappoport_advisor_desc: "§YBorn:§! §LJune 14th, 1865, in Dūkštas, Kovno Governorate, Russian Empire§!"
- FRA_henri_barbe: "Henri Barbé"
- FRA_henri_barbe_advisor_desc: "§YBorn:§! §LMarch 14th, 1902, in Paris, Seine, French Republic§!"
- FRA_gabriel_lafaye: "Gabriel Lafaye"
- FRA_gabriel_lafaye_advisor_desc: "§YBorn:§! §LOctober 4th, 1888, in Eauze, Gers, French Republic§!"
- FRA_joseph_paul_boncour: "Joseph Paul-Boncour"
- FRA_joseph_paul_boncour_advisor_desc: "§YBorn:§! §LAugust 4th, 1873, in Saint-Aignan, Loir-et-Cher, French Republic§!"
+ FRA_pierre_jules_cot: "П'єр Жуль Кот"
+ FRA_pierre_jules_cot_advisor_desc: "§YНародився:§! §L20 листопада 1895 року, Гренобль, Ізер, Французька Республіка§!"
+ FRA_leon_blum: "Леон Блюм"
+ FRA_leon_blum_advisor_desc: "§YНародився:§! §L9 квітня 1872 року, Париж, Сена, Французька Республіка§!"
+ FRA_daniel_guerin: "Даніель Герен"
+ FRA_daniel_guerin_advisor_desc: "§YНародився:§! §L19 травня 1904 року, Париж, Сена, Французька Республіка§!"
+ FRA_maurice_thorez: "Моріс Торез"
+ FRA_maurice_thorez_advisor_desc: "§YНародився:§! §L28 квітня 1900 року, Нуаєль-Годо, Па-де-Кале, Французька Республіка§!"
+ FRA_charles_rappoport: "Шарль Раппопорт"
+ FRA_charles_rappoport_advisor_desc: "§YНародився:§! §L14 червня 1865 року, Дукштас, Ковенська губернія, Російська імперія§!"
+ FRA_henri_barbe: "Анрі Барбе"
+ FRA_henri_barbe_advisor_desc: "§YНародився:§! §L14 березня 1902 року, Париж, Сена, Французька Республіка§!"
+ FRA_gabriel_lafaye: "Габріель Лафай"
+ FRA_gabriel_lafaye_advisor_desc: "§YНародився:§! §L4 жовтня 1888 року, Еоз, Жер, Французька Республіка§!"
+ FRA_joseph_paul_boncour: "Жозеф Поль-Бонкур"
+ FRA_joseph_paul_boncour_advisor_desc: "§YНародився:§! §L4 серпня 1873 року, Сент-Еньян, Луар і Шер, Французька Республіка§!"
  FRA_jacques_duclos: "Жак Дюкло"
- FRA_jacques_duclos_advisor_desc: "§YBorn:§! §LOctober 2nd, 1896, in Louey, Hautes-Pyrénées, French Republic§!"
- FRA_jean_zyromski: "Jean Zyromski"
- FRA_jean_zyromski_advisor_desc: "§YBorn:§! §LApril 20th, 1890, in Nevers, Nièvre, French Republic§!"
+ FRA_jacques_duclos_advisor_desc: "§YНародився:§! §L2 жовтня 1896 року, Луе, Верхні Піренеї, Французька Республіка§!"
+ FRA_jean_zyromski: "Жан Зіромський"
+ FRA_jean_zyromski_advisor_desc: "§YНародився:§! §L20 квітня 1890 року, Невер, Ньєвр, Французька Республіка§!"
 
- FRA_jacques_sadoul: "Jacques Sadoul"
- FRA_jacques_sadoul_advisor_desc: "§YBorn:§! §LMay 22nd, 1881, in Paris, Seine, French Republic§!"
- FRA_suzanne_girault: "Suzanne Girault"
- FRA_suzanne_girault_advisor_desc: "§YBorn:§! §LJuly 28th, 1882, in La Chaux-de-Fonds, Neuchâtel, Swiss Confederation§!"
+ FRA_jacques_sadoul: "Жак Садуль"
+ FRA_jacques_sadoul_advisor_desc: "§YНародився:§! §L22 травня 1881 року, Париж, Сена, Французька Республіка§!"
+ FRA_suzanne_girault: "Сюзанн Жиро"
+ FRA_suzanne_girault_advisor_desc: "§YНародилася:§! §L28 липня 1882 року, Ла-Шо-де-Фон, Невшатель, Швейцарська Конфедерація§!"
 
- FRA_confederation_general_du_travail: "Confédération Générale du Travail"
- FRA_confederation_general_du_travail_sic_desc: "§YFounded:§! §LSeptember 23rd, 1895, in Limoges, Haute-Vienne, French Republic§!"
+ FRA_confederation_general_du_travail: "Загальна конфедерація праці"
+ FRA_confederation_general_du_travail_sic_desc: "§YЗаснована:§! §L23 вересня 1895 року, Лімож, Верхня В'єнна, Французька Республіка§!"
 
- FRA_odette_sansom: "Odette Sansom"
- FRA_richard_sorge: "Richard Sorge"
+ FRA_odette_sansom: "Одетт Сансом"
+ FRA_richard_sorge: "Ріхард Зорге"

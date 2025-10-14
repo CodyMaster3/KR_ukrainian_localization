@@ -18,7 +18,7 @@
  UPC_national_populist_party:0 "Ігуаньдао"
 
 ### Factions ###
- asia_pacific_treaty_organisation:0 "Asia-Pacific Treaty Organisation" # (!) #created by UPC_found_our_faction_decision decision
+ asia_pacific_treaty_organisation:0 "Азіатсько-Тихоокеанська Організація Співпраці" #created by UPC_found_our_faction_decision decision
 
 ### Leader Descs ###
  FNG_zhang_xueliang_UPC_leader_desc:0 ""

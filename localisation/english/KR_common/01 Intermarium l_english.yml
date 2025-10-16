@@ -74,14 +74,14 @@
  
  MIE_2000_guns_500_sup: "£rifle_texticon  §H2000§! £support_texticon §H500§!"
  MIE_2000_guns_500_sup_blocked: "£rifle_texticon  §R2000§!  £support_texticon §R500§!"
- MIE_2000_guns_500_sup_tooltip: "Вартість прийняття рішення $intermarium_2000_guns_500_sup_blocked$"
+ MIE_2000_guns_500_sup_tooltip: "Вартість прийняття рішення $MIE_2000_guns_500_sup_blocked$"
  MIE_2000_guns_tt: "£rifle_texticon  §H2000§! та £support_texticon §H500§! додаються до пулу."
  
  air_xp_50: "£air_experience §H50§!"
  air_xp_50_blocked: "£air_experience §R50§!"
  air_xp_50_tooltip: "Вартість прийняття рішення $air_xp_50_blocked$"
  
- MIE_build_forts_in_whr: "Оствалл"
+ MIE_build_forts_in_blr: "Оствалл"
  
  intermarium_events.1.t: "Східноєвропейська співпраця"
  intermarium_events.1.d: "[intermarium_leader.GetNameDefCap] вирішив інвестувати частину нашого спільного фонду оборонної співпраці в будівництво укріплень на кордоні з Росією. Ці укріплення вже побудовані і готові служити нам."

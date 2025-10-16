@@ -566,10 +566,10 @@
  STATE_127: "Сассекс"
  STATE_127_RENAME: "[127.Controller.GetStateName_127]"
 
- STATE_128: "Західний Мі́дленд"
+ STATE_128: "Західний Мідленд"
  STATE_128_RENAME: "[128.Controller.GetStateName_128]"
 
- STATE_129: "Східний Мі́дленд"
+ STATE_129: "Східний Мідленд"
  STATE_129_RENAME: "[129.Controller.GetStateName_129]"
 
  STATE_130: "Йоркшир"

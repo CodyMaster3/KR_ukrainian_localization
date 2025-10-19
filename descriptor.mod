@@ -1,5 +1,5 @@
 name="Kaiserreich: Українська локалізація"
-version="0.9.3"
+version="0.9.4"
 tags={
 	"Translation"
 }

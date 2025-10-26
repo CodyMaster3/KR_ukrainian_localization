@@ -507,6 +507,35 @@
  papal_state_events.64.d: "Папа [PAP.GetLeader] зробив заклик до вірних католиків на території держави [SRI.GetNameDef], закликаючи їх повстати проти 'безбожних синдикалістів'... і люб'язно допомогти їм із постачанням та тренуваннями. Чисельність партизанів навряд чи є незліченними, але можуть стати дратівливим фактором, якщо вони раптово виникнуть у нашому тилу."
  papal_state_events.64.a: "Це нічого не змінює."
 
+ papal_state_events.66.t: "$papal_state_events.7.t$"
+ papal_state_events.66.d: "$papal_state_events.7.d$"
+ papal_state_events.66.a: "$papal_state_events.7.a$"
+ #Текст нище потребує вичитки, бо його перекладав Гасеп
+ papal_state_events.67.t: "Пія XII обрано новим Папою"
+ papal_state_events.67.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи. Кардинал Евгеніо Пачеллі прийняв ім'я Пія XII, тим самим продовжуючи лінію свого попередника."
+ papal_state_events.67.a: "Щасти, Ваша Святосте"
+ papal_state_events.67.b: "Нікчемну людину обрали нікчемні люди"
+
+ papal_state_events.68.t: "Стефана X обрано новим Папою"
+ papal_state_events.68.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи. Кардинал Елія далла Кости прийняв ім'я Стефана X. Багато хто вважає, що новий Папа може незабаром відмовитися від світської влади на користь цивільного уряду."
+ papal_state_events.68.a: "Нехай щастить, Ваша Святосте"
+ papal_state_events.68.b: "Принаймні він знає своє місце"
+
+ papal_state_events.69.t: "Папа Іван XXIII – \"соціалістичний Папа\""
+ papal_state_events.69.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи — кардинала Акілла Льонара, відомого як \"соціалістичний кардинал\". Він прийняв ім'я Івана XXIII. Багато хто вбачає в цьому пом'якшення позиції Церкви щодо синдикалізму та можливість відновлення контактів із державою [SRI.GetNameDef]."
+ papal_state_events.69.a: "Нехай щастить, Ваша Святосте"
+ papal_state_events.69.b: "Цікавий розвиток подій"
+
+ papal_state_events.70.t: "Юлія IV обрано новим Папою"
+ papal_state_events.70.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи. Ним став Альфредо Ільдефонсо Шустер — принциповий політик і непримиренний противник синдикалізму, який прийняв ім'я Юлія IV. Очікується, що його обрання ще більше поглибить ідеологічний розкол в Італії."
+ papal_state_events.70.a: "Нехай щастить, Ваша Святосте"
+ papal_state_events.70.b: "Ось і показали своє справжнє обличчя"
+
+ papal_state_events.71.t: "Pope Arrives in [refuge.GetNameDef]"
+ papal_state_events.71.d: "Pope [PAP.GetLeader] arrived in [refuge.GetNameDef] today, having sought refuge there since his exile from Rome was decreed by [SRI.GetNameDef] more than a week ago.\n\nWhile exhausted from his journey, the Pope addressed an enormous crowd of well-wishers and faithful gathered outside his hotel, and called on the rest of the world to seek endurance and strength of heart in the face of the syndicalist menace."
+ papal_state_events.71.a: "At least he's safe."
+ papal_state_events.71.b: "Good riddance."
+ #Текст вище потребує вичитки, бо його перекладав Гасеп
 ### Characters ###
  PAP_pius_xi: "Pius XI"
  PAP_pius_xi_leader_desc: "§YBorn:§! §LMay 31st, 1857, in Desio, Kingdom of Lombardy-Venetia, Austrian Empire§!\n§YBackground:§! §LPope Pius XI, formerly Cardinal Achille Ratti, was elected to the Holy See in 1922, having spent most of the previous years as a papal representative in the newly re-established state of Poland, and was named a cardinal in 1921. Thus, he avoided most of the turmoil of the civil war and the danger that the Papacy underwent in its later stages. He was the first pope since the unification of Italy to give an ascension speech at Saint Peter's, as the practice has been abandoned during the 'Hostage Years' under the Savoyard monarchy. His papacy has been also marked by increasing tensions between factions in the Curia, and the troubled re-establishment of temporal authority.§!"

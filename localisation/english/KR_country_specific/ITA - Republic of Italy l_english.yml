@@ -1051,22 +1051,75 @@
  italy_events.186.d: "Держава [From.GetNameDefCap] звернулася до нас із пропозицією миру - ми закінчуємо війну, віддаючи їм все, що вони вже встигли забрати, і всі їхні претензії на утримувані нами чи членами союзу [Root.GetFactionName] території. Альтернативою є продовження цієї тривалої війни, в якій ми не досягли жодного прогресу."
  italy_events.186.a: "Давайте закінчимо це."
  italy_events.186.b: "Ні, ми все ще можемо боротися!"
+ #Текст нище потребує вичитки, бо його перекладав Гасеп
+ italy_events.200.t: "Італія об'єднана!"
+ italy_events.200.d: "Сьогодні Його Святість Папа — [PAP.GetLeader] оголосив про остаточне возз'єднання Італії. \"Наше возз'єднання дорого нам коштувало\", — сказав Він натовпу в Римі. — \"Ми повинні пам'ятати про смерті багатьох людей. Минулі образи мають бути забуті, і ми повинні бути вдячні, що наша нація пережила такі складні часи і знову знайшла себе\".\n\nУряд позиціонує себе як наступника Італійської федерації 1920-х років і черпає легітимність у руху неогвельфів XIX століття. Незважаючи на нарікання щодо втручання церкви у політику, для більшості цей час єднання став приводом для святкування."
+ italy_events.200.a: "Нова сила вже тут."
 
- italy_events.200.t: "Italy United!"
- italy_events.200.d: "Today His Holiness Pope [PAP.GetLeader] declared that Italy had finally been reunified and made whole. \"Our reunification has come about at great cost\", he told a cheering crowd in Rome, \"and we must remember the sacrifices made by so many. Grievances of the past must be put aside, and we must be grateful that our nation has come through such a troubled time and found itself once more.\"\n\nThe government has styled itself as a successor to the short-lived Italian Federation in the 1920s and has also drawn legitimacy from the 19th century Neo-Guelph movement, which sought to unite Italy as a federation under the Pope. There is still much grumbling within the country at the Church intertwining with politics, but for most this time of unity has brought a great deal to celebrate."
- italy_events.200.a: "A new power arises."
+ italy_events.201.t: "Італія об'єднана!"
+ italy_events.201.d.kingdom: "Сьогодні король Ломбардії — [LOM.GetLeader] оголосив про остаточне возз'єднання Італії.\"Наше возз'єднання дорого нам коштувало\", — сказав він натовпу в Римі. — \"Ми повинні пам'ятати про смерті багатьох людей\". Минулі образи мають бути забуті».\n\nДля легітимації своєї влади [LOM.GetLeader] коронований як король Італії. Незважаючи на нарікання щодо аристократичного характеру режиму, для більшості цей час єдиння став приводом для святкування."
+ italy_events.201.d.fed: "Сьогодні герцог Ломбардії — [LOM.GetLeader] оголосив про остаточне возз'єднання Італії. \"Наше возз'єднання дорого нам коштувало\", — сказав він натовпу в Римі.\n\nУряд позиціонує себе як наступника Італійської федерації. Незважаючи на нарікання щодо аристократичного характеру правління, для більшості цей час єднання став приводом для святкування."
+ italy_events.201.d.rep: "Сьогодні прем'єр-міністр країни [LOM.GetNameDef] — [LOM.GetLeader] оголосив про возз'єднання Італії. «Друге Рісорджименто дорого нам коштувало», — сказав він натовпу в Римі.\n\nУряд значно стабільніший, ніж коли Італійська республіка була розпущена, але багато хто побоюється наслідків розширення виборчих прав після інтеграції соціалістичних регіонів північного заходу."
+ italy_events.201.a: "Нова сила вже тут."
 
- italy_events.201.t: "Italy United!"
- italy_events.201.d.kingdom: "Today the King of Lombardy, [LOM.GetLeader], declared that Italy had finally been reunified and made whole. \"Our reunification has come about at great cost\", he told a cheering crowd in Rome, \"and we must remember the sacrifices made by so many. Grievances of the past must be put aside, and we must be grateful that our nation has come through such a troubled time and found itself once more.\"\n\nSeeking to legitimise his rule, [LOM.GetLeader] has been coronated as the King of Italy. There is still much grumbling within the country at the fact that - in many ways - Italy has returned to its aristocratic roots rather than embracing democracy, but for most this time of unity has brought a great deal to celebrate."
- italy_events.201.d.fed: "Today the Duke of Lombardy, [LOM.GetLeader], declared that Italy had finally been reunified and made whole. \"Our reunification has come about at great cost\", he told a cheering crowd in Rome, \"and we must remember the sacrifices made by so many. Grievances of the past must be put aside, and we must be grateful that our nation has come through such a troubled time and found itself once more.\"\n\nThe government has styled itself as a successor to the Italian Federation. There is still much grumbling within the country at the fact that - in many ways - Italy has returned to its aristocratic roots rather than embracing democracy, but for most this time of unity has brought a great deal to celebrate."
- italy_events.201.d.rep: "Today the Prime Minister of [LOM.GetNameDef], [LOM.GetLeader], declared that Italy had once again been reunified. \"This Second Risorgimento has come about at great cost\", he told a cheering crowd in Rome, \"and we must remember the sacrifices made by so many. Grievances of the past must be put aside, and we must be grateful that our nation has come through such a troubled time and found itself once more.\"\n\nThe government is considerably more stable now than when the previous Italian Republic was dissolved not so long ago, but there are many within the country who fear what expanding voting rights will do now that the country is united and the more socialist parts of the northwest have been incorporated."
- italy_events.201.a: "A new power arises."
+ italy_events.202.t: "Італія об'єднана!"
+ italy_events.202.d.old: "Сьогодні дож країни [VNC.GetNameDef] — [VNC.GetLeader] оголосив про остаточне возз'єднання Італії. \"Наше возз'єднання дорого нам коштувало\", — сказав він натовпу в Римі.\n\nУряд має багато спільного з Венеціанською республікою, в якій знать має велику владу. Незважаючи на нарікання щодо аристократичного характеру правління, для більшості цей час єнання став приводом для святкування."
+ italy_events.202.d.new: "Сьогодні дож країни [VNC.GetNameDef] — [VNC.GetLeader] оголосив про возз'єднання Італії. \"Друге Рісорджименто дорого нам коштувало\", — сказав він натовпу в Римі.\n\nУряд стабільний, але багато хто побоюється наслідків розширення виборчих прав після інтеграції соціалістичних регіонів північного заходу."
+ italy_events.202.a: "Нова сила з'являється."
 
- italy_events.202.t: "Italy United!"
- italy_events.202.d.old: "Today the Doge of [VNC.GetNameDef], [VNC.GetLeader], declared that Italy had finally been reunified and made whole. \"Our reunification has come about at great cost\", he told a cheering crowd in Rome, \"and we must remember the sacrifices made by so many. Grievances of the past must be put aside, and we must be grateful that our nation has come through such a troubled time and found itself once more.\"\n\nThe government bears many similarities to the Old Republic of Venice, with nobles holding large amounts of power. There is still much grumbling within the country at the fact that Italy has returned to its aristocratic roots rather than embracing democracy, but for most this time of unity has brought a great deal to celebrate."
- italy_events.202.d.new: "Today the Doge of [VNC.GetNameDef], [VNC.GetLeader], declared that Italy had once again been reunified. \"This Second Risorgimento has come about at great cost\", he told a cheering crowd in Rome, \"and we must remember the sacrifices made by so many. Grievances of the past must be put aside, and we must be grateful that our nation has come through such a troubled time and found itself once more.\"\n\nThe government is considerably more stable now than when the Italian Republic was dissolved not so long ago, but there are many within the country who fear what expanding voting rights will do now that the country is united and the more socialist parts of the northwest have been incorporated."
- italy_events.202.a: "A new power arises."
+ italy_events.203.t: "АНІ перемагає на виборах в Італії"
+ italy_events.203.d: "Після Чорного понеділка Австрія відкликала війська з Італії. Для боротьби з кризою правлячі ліберали призначили дострокові вибори, на яких перемогла антиавстрійська АНІ.\n\nНовий прем'єр-міністр [ITA.GetLeader] заявив у Мілані, що ніщо не стане на шляху величі Італії, а криза, яка спричинена \"австрійським втручанням\" буде викорінена новим урядом."
+ italy_events.203.a: "Цікаво."
+ italy_events.203.b: "Здається, з'явився новий ворог."
+ italy_events.203.c: "Ми будемо сильнішими, ніж будь-коли!"
 
+ italy_events.204.t: "Венеційське повстання"
+ italy_events.204.d: "Після перемоги антиавстрійської АНІ у Венеції почалося повстання. Багато хто з повстанців вимагає відновлення Венеційської республіки.\n\nНеясно, чи це австрійська провокація, чи справжній протест проти правління АНІ. Бої на півночі Італії становлять загрозу для уряду в Мілані."
+ italy_events.204.a: "Чи зможе Королева Адріатики вижити?"
+
+ italy_events.205.t: "Італійську Федерацію відновлено"
+ italy_events.205.d.tuscwaus: "За підтримки Австрії венеційські лідери оголосили про відновлення Італійської федерації. Радою Федерації тепер керує великий герцог Тоскани П'єтро Фердинандо — Габсбург, що свідчить про відновлення австрійського впливу."
+ italy_events.205.d.lombwaus: "За підтримки Австрії венеційські лідери оголосили про відновлення Італійської федерації. Головою Ради Федерації став герцог Марчелло Вісконті — несподіване рішення, враховуючи антиавстрійські настрої."
+ italy_vents.205.d.venwaus: "За підтримки Австрії венеційські лідери оголосили про відновлення Італійської федерації. Головою Ради став прем'єр Венеції Джузеппе Вольпі — герой опору проти АНІ."
+ italy_events.205.a: "Подивимося, як довго це триватиме."
+
+ italy_events.206.t: "Розпуск Італійської республіки"
+ italy_events.206.d: "Після повстання проти АНІ Венеція та Ломбардія оголосили про незалежність. Ломбардія під військовим управлінням, але очікується, що герцог Вісконті стане її лідером.\n\nЦей крок залишає обидві держави вразливими для зовнішніх загроз."
+ italy_events.206.a: "Старий порядок розпадається."
+
+ italy_events.207.t: "Австрія відновлює Федерацію"
+ italy_events.207.d: "Австрія оголосила про відновлення Італійської федерації без республіканців. Вся влада передана Раді на чолі з Габсбургом П'єтро Фердинандо.\n\nЦе означає повернення австрійського впливу, втраченого після Чорного понеділка."
+ italy_vents.207.a: "Подивимося, як довго це триватиме."
+
+ italy_events.208.t: "[ITA.GetNameDefCap] відхиляє австрійський ультиматум"
+ italy_events.208.d: "Австрія вимагала відновити правління Федераційної ради в Італії. Після закінчення терміну ультиматуму Італія відмовилася, і на кордоні почалися сутички.\n\nПрем'єр [ITA.GetLeader] закликав боротися з «австрійським імперіалізмом»."
+ italy_events.208.a: "Небезпечний крок."
+
+ italy_events.209.t: "[AUS.GetNameDefCap] виводить війська з Італії"
+ italy_events.209.d: "Чорний понеділок змусив Австрію вивести війська з Італії. Це залишило країну вразливою до атак від [SRI.GetNameDef]их ворогів."
+ italy_events.209.a: "Австрійський вплив слабшає."
+ italy_events.209.b: "Можливо, це можливість?"
+
+ italy_events.210.t: "Італійська демократія вижила"
+ italy_events.210.d: "Після місяців тероризму АНІ вотум недовіри уряду в Мілані був відхилений. Прем'єр [ITA.GetLeader] оголосив, що демократія в Італії вижила."
+ italy_events.210.a: "Схоже на те."
+
+ italy_events.211.t: "Падіння італійського уряду"
+ italy_events.211.d.tusc: "Вдалось відновити довіру до населення. Владу перебрала Федераційна рада на чолі з Габсбургом П'єтро Фердинандо, яка відновила Італійську федерацію."
+ italy_events.211.d.lomb: "Вдалось відновити довіру до населення. Владу перебрала Федераційна рада на чолі з герцогом Вісконті, яка відновила Італійську федерацію."
+ italy_events.211.d.separate: "Після падіння республіки Венеція та Ломбардія вирішили розділитися."
+ italy_events.211.a: "Цікаво."
+
+ italy_events.212.t: "АНІ скидає уряд Італії"
+ italy_events.212.d: "Після провалу на виборах 1937 року [ITA_GetNatPopLeader] і АНІ скинули уряд. За підтримки армії АНІ взяв повний контроль над країною."
+ italy_events.212.a: "Схоже на рецепт нестабільності."
+
+ italy_events.213.t: "Італія об'єднана!"
+ italy_events.213.d.ani: "Лідер [ITA.GetNameDef] [ITA_GetNatPopLeader] оголосив про возз'єднання Італії. \"Друге Рісорджименто коштувало нам дорого, але попереду нові жертви заради величі Італії\".\n\nСиньосорочники вживають заходів для придушення опозиції в нових регіонах."
+ italy_events.213.d.fed: "Голова Федераційної ради [ITA.GetLeader] оголосив про возз'єднання Італії. Незважаючи на нарікання щодо аристократичного правління, для більшості це час святкування."
+ italy_events.213.d.rep: "Прем'єр-міністр [ITA.GetNameDef] оголосив про возз'єднання Італії. Уряд став стабільнішим, але існують побоювання щодо розширення виборчих прав."
+ italy_events.213.a: "Нова сила вже тут."
+ #Текст вище потребує вичитки, бо його перекладав Гасеп
 ### Cosmetic Tags ###
  ITA: "Італія"
  ITA_ADJ: "Італійськ"

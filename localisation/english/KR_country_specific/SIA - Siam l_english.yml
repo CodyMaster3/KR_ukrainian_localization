@@ -3,8 +3,8 @@
  KR_Siam: "Дерево фокусів [SIA.GetSIAshortname]у"
 
 ### World Tension ###
- SIA_SiaCW_RadSoc_threat: "Socialist Regime in Siam"
- SIA_SiaCW_PatAut_threat: "German-leaning Regime in Siam"
+ SIA_SiaCW_RadSoc_threat: "Соціалістичний режим у Сіамі"
+ SIA_SiaCW_PatAut_threat: "Пронімецький режим у Сіамі"
 
 ### Traits ###
  SIA_iron_marshal_trait: "Залізний фельдмаршал"
@@ -310,7 +310,7 @@
  SIA_country_intro_header_2: "Загальна ситуація"
  SIA_country_intro_content_2: "Будучи зовні економічно і промислово процвітаючим, [SIA.GetSIAshortname] насправді дуже покладається на інвестиції Німеччини, і плекає економічні зв'язки, які він розділяє з нацією. Його промисловість загалом дуже крихка, оскільки основним джерелом експорту є рис, цукор і деревина. Крім того, зростає націоналізм серед етнічних меншин, який торкнувся багатьох, оскільки в найближчому майбутньому це викликало потенціал сепаратистських рухів. Проте, незважаючи на все це, роздута бюрократична система, яка існує з моменту правління Рами VI, позбавила від таких необхідних податків, що дозволило бандитам постійно бігати на диких островах Сіаму."
 
- SIA_guide: "§MPrajadhipok's Reforms§! (§lSocial Liberal§! / §SSocial Democrat§! / §cSocial Conservative§!)\n£white_dot During Black Monday, choose the most Political Power/resource-intensive options, so you weather the storm with as little dissent as possible.\n£white_dot You'll get to choose which of the parties you want to be in power.\n£white_dot Alternatively: reduce the tensions enough during the Yellow Dossier affair, or have Phibun choose to repeal martial law.\n\nTo get any path below, start with:\n£white_dot During Black Monday, choose the least PP/resource-intensive options; to further dissent among the population.\n£white_dot The Khana Ratsadon will carry out a coup.\n£white_dot During the \"Yellow Cover Dossier\" affair, choose to arrest \"syndicalist sympathizers\" or try to incite further conflict in the Parliament.\n\n§MCoup§! - §MPhibun§! / §MSarit§! / §MPhao§! (§NNational Populist§! / §PPaternal Autocrat§!)\n£white_dot During \"Phibunsongkhram's Dilemma\", choose \"Try to end this factional bickering.\"\n£white_dot Wait 2 months, there should be an option to \"take power for ourselves.\", after which Phibun will take over and turn you into §NNational Populist§!.\n£white_dot To keep him alive, implement the Ratthaniyom reforms, but do not pass the New Anthem Act, yet do the \"promote the usage of the Bangkok dialect in Compulsory Education\" act; Phibun will live until the '50s that way.\n£white_dot If Phibun gets assassinated (whether by not implementing the reforms or being too harsh/soft) you will be able to go down either Phao's §NNational Populist§! republican path or Sarit's §PPaternal Autocrat§! restoration of Royal Power.\n\n§MBirth of the Socialist Republic§! (§RRadical Socialist§!)\n£white_dot During \"Phibunsongkhram's Dilemma\", select \"HM's Dignity must be upheld!\", siding with the Royalists.\n£white_dot When the rebellion starts, go with the \"For the country!\" option (the Rebels) and try to win the civil war by capturing Bangkok.\n\n§MPower to the King§! (§PPaternal Autocrat§!)\n£white_dot During \"Phibunsongkhram's Dilemma\", select \"It's treason then!\", siding with the Parliamentarians.\n£white_dot When the rebellion starts, go with the \"For the king!\" option (the Rebels), and try to win the civil war by capturing Bangkok.\n£white_dot (Bonus): On this path Paribatra Sukhumbhand can seize the throne after Rama VII dies.\n"
+ SIA_guide: "§MРеформи Прачадіпока§! (§lСоціал-лібералізм§! / §SСоціал-демократія§! / §cСоціал-консерватизм§!)\n£white_dot Під час Чорного понеділка обирайте найбільш витратні за Політичну Владу/ресурси варіанти, щоб подолати шторм із якомога меншими заворушеннями.\n£white_dot Ви зможете обрати, яка з партій керуватиме.\n£white_dot Альтернативний шлях: достатньо знизьте напругу під час справи «Жовтого досьє» або дозвольте Фібуну скасувати воєнний стан.\n\nЩоб отримати будь-який із шляхів нижче, почніть із:\n£white_dot Під час Чорного понеділка обирайте найменш витратні за ПВ/ресурси варіанти, щоб посилити заворушення серед населення.\n£white_dot Народна Партія (Khana Ratsadon) здійснить переворот.\n£white_dot Під час справи «Жовтого досьє» оберіть арешт «синдикалістських симпатиків» або спробуйте спровокувати подальший конфлікт у Парламенті.\n\n§MПереворот§! - §MФібун§! / §MСаріт§! / §MPхао§! (§NNаціонал-популізм§! / §PБатьківський автократизм§!)\n£white_dot Під час «Дилеми Пібунсонгкрама» оберіть «Спробувати покласти край цій фракційній ворожнечі».\n£white_dot Зачекайте 2 місяці, має з'явитися варіант «Взяти владу собі», після чого Фібун візьме кермо і перетворить вас на §NNаціонал-популізм§!.\n£white_dot Щоб залишити його живим, впроваджуйте реформи Раттханійон, але не ухвалюйте Закон про Новий Гімн, натомість прийміть акт «сприяти використанню бангкокського діалекту в обов'язковій освіті»; так Фібун проживе до 50-х років.\n£white_dot Якщо Фібуна буде вбито (чи через не впровадження реформ, чи через надмірну суворість/м'якість), ви зможете обрати республіканський шлях Пхао §NNаціонал-популізм§! або реставрацію Королівської Влади Саріта §PБатьківський автократизм§!.\n\n§MНародження Соціалістичної Республіки§! (§RРадикальний соціалізм§!)\n£white_dot Під час «Дилеми Пібунсонгкрама» оберіть «Гідність Його Величності має бути збережена!», ставши на бік Роялістів.\n£white_dot Коли почнеться повстання, оберіть варіант «За країну!» (Повстанці) та спробуйте виграти громадянську війну, захопивши Бангкок.\n\n§MВлада Королю§! (§PБатьківський автократизм§!)\n£white_dot Під час «Дилеми Пібунсонгкрама» оберіть «Це зрада!», ставши на бік Парламентарів.\n£white_dot Коли почнеться повстання, оберіть варіант «За короля!» (Повстанці) та спробуйте виграти громадянську війну, захопивши Бангкок.\n£white_dot (Бонус): На цьому шляху Парібатра Сукхумбханд може захопити трон після смерті Рами VII."
 
 ### Newly Reformed Siamese Events ###
 
@@ -576,17 +576,17 @@
  siam_events.52.d.nor: "Прем'єр Пхібунсонгкхрам помер мирно у своєму будинку сьогодні в [GetDateText] після перенесеного серцевого нападу. Його останні слова були спрямовані його дружині, Ла-Яде Пхібунсонгкхрам; він сказав: "Любов, смерть - це дійсно блаженство", в оточенні його друзів і сім'ї.\n\nНароджений, як 'Плек Хіттасангха' 1897 року, він отримав титул 'Луанг Пхібунсонгкхрам' через його надзвичайну службу під час сіамської інтервенції в Бірмі. Він постійно допомагав модернізувати сіамську армію протягом усієї своєї служби. На його честь було проведено велику ходу у всіх чотирьох гілках сіамських збройних сил у Бангкоку, а вулицю в місті перейменовано на шосе Пхібунсонгкхрама."
  siam_events.52.c: "Нехай спочине він з миром..."
 
- siam_events.53.t: "King Prajadhipok's New Orchestral Piece" # (!)
- siam_events.53.d: "Earlier today, King Prajadhipok's 3rd composed song - \"Kluen Krathop Fang\" (Crashing Waves), was premiered at the Sala Chalermkrung Royal Theatre with Phra Chenduriyang (Piti Wathayakon) as the conductor as part of the \"Wiwah Phra Samut\" (Neptune's Bride) royal drama.\n\nPrajadhipok started composing this song in 1931 while travelling back by boat from the Klaikangwon Palace, based on the traditional Thai tune with the same name. However, he could not finish this piece's orchestration for Western instruments until recently due to his royal duties." # (!)
- siam_events.53.a: "Such a Powerful Overture." # (!)
+ siam_events.53.t: "Новий оркестровий твір короля Прачадіпока"
+ siam_events.53.d: "Сьогодні в Королівському театрі Сала Чалермкрунг відбулася прем'єра третьої композиції короля Прачадіпока — «Kluen Krathop Fang» (Хвилі, що розбиваються), диригував якою Пхра Чендуріянґ (Піті Ватхаякон) у рамках королівської драми «Wiwah Phra Samut» (Наречена Нептуна).\n\nПрачадіпок почав створювати цю пісню у 1931 році, повертаючись човном із палацу Клайканґвон, на основі традиційної тайської мелодії з тією ж назвою. Проте він не міг закінчити оркестровку цього твору для західних інструментів донедавна через свої королівські обов'язки."
+ siam_events.53.a: "Яка потужна увертюра."
 
  siam_events.54.t: "Перші жінки-офіцери завершили навчання"
  siam_events.54.d: "Сьогодні перші 28 жінок-офіцерів [ROOT.GetSIAprefixEN]ської [SIA.GetProperAdjective]ої армії закінчили свій помітний тренувальний курс. Будучи прогресивним за своєю природою, всі жінки-курсанти були змушені проходити одну й ту саму навчальну програму, як і їхні колеги-чоловіки, та мають бути на лінії фронту, як це роблять чоловіки, - але будуть змушені покинути активну службу, коли вони перебувають у шлюбі, консерваторами.\n\nОдин з видатних новобранців був другим лейтенантом Джираватом Пхібунсонгкхрамом, старшою донькою Луанг Пхібунсонгкхрама, яка служитиме в компанії Суранарі, полку Сурійозарі в Лопбурі, який пізніше збільшать до розміру батальйону, якщо пілотний проєкт виявиться успішним."
  siam_events.54.a: "Крісла для леді"
 
- siam_events.55.t: "Створення Міністерства транспорту"
+ siam_events.55.t: "Створення міністерства транспорту"
  siam_events.55.d.specific: "Спочатку частина Міністерства внутрішніх справ - Департамент автомобільних доріг, Департамент шляхів сполучення, Департамент повітряного транспорту та Управління порту - тепер утворюють нове окреме міністерство з метою сприяння будівництву нових автомагістралей і залізниць, що з'єднують великі міста по всій країні. Будучи амбітним - у самому міністерстві не вистачає робочої сили для виконання плану самостійно. Хтось пропонує нам найняти тих німецьких та австрійських інженерів, щоб допомогти нам тим часом, поки ті, кого ми відправили вчитися за кордон, не повернуться додому."
- siam_events.55.d.fallback: "Originally part of the Ministry of Interior - the Department of Highways, the Department of Railways, the Department of Air Transportation and the Port Authority will now form a new separate Ministry in an effort to facilitate the construction of new highways and railways connecting major cities throughout the country. While ambitious the Ministry itself lacks the manpower to fulfil the plan by itself. Some suggest that we hire foreign engineers to help us until those we sent to study overseas return home."
+ siam_events.55.d.fallback: "Департамент автомобільних доріг, Департамент залізниць, Департамент повітряного транспорту та Портове управління, які спочатку входили до Міністерства внутрішніх справ, тепер сформують нове окреме міністерство з метою сприяння будівництву нових автомобільних і залізничних шляхів, що з'єднують великі міста по всій країні. Хоча Міністерство амбітне, воно саме по собі не має достатньої робочої сили для виконання плану. Деякі пропонують найняти іноземних інженерів, щоб допомогти нам, поки ті, кого ми відправили на навчання за кордон, не повернуться додому."
  siam_events.55.a: "Давайте знову візьмемо цих інженерів на роботу."
  siam_events.55.b: "Ми стоятимемо на наших власних ногах."
 
@@ -598,12 +598,12 @@
  SIA_engineers_USA: "Американці"
  SIA_ministry_of_transportation_tt: "§YМи зможемо розпочати всеосяжну програму перегляду інфраструктури після того, як вирішимо проблему людських ресурсів.§!\n"
 
- siam_events.56.t: "Chao Phraya Dam Completed" # (!)
- siam_events.56.d: "First conceived in the reigns of King Chulalongkorn in 1902 by Dutch Hydraulic Engineer Jan Homan van der Heide, the bend of Bang Kra Bian River in Chainat province was chosen as the site to build a giant irrigation dam to control the water level in the Chao Phraya river downstream but the project was soon canceled due to the lack of funds. The second attempt in 1913, restated again due to the 3 consecutive years of drought was also abandoned soon after with the start of the Weltkrieg.\n\nIt wasn't until 1932 during the 150th anniversary of the establishment of Rattanakosin (Bangkok) that the Royal Irrigation Department finally secured the budget needed for such endeavour. While the project faces brief stoppage during the Black Mondays - this has now reached its conclusion and awaiting the opening ceremony by [SIA.GetLeader]." # (!)
- siam_events.56.a: "Would this finally tamed Chao Phraya's disastrous floods?" # (!)
+ siam_events.56.t: "Завершено будівництво греблі Чао Прайя"
+ siam_events.56.d: "Вперше задумана за часів правління короля Чулалонгкорна у 1902 році голландським інженером-гідравліком Яном Гоманом ван дер Гейде, вигин річки Банґ Кра Біан у провінції Чайнат був обраний місцем для будівництва гігантської іригаційної греблі для контролю рівня води в нижній течії річки Чао Прайя, але незабаром проєкт був скасований через брак коштів. Друга спроба у 1913 році, відновлена через 3 послідовні роки посухи, також була незабаром залишена з початком Вельткрігу.\n\nЛише у 1932 році, під час 150-ї річниці заснування Раттанакосіна (Бангкока), Королівський іригаційний департамент нарешті забезпечив бюджет, необхідний для такого починання. Хоча проєкт зіткнувся з короткочасною зупинкою під час Чорного понеділка, він тепер завершений і очікує церемонії відкриття, яку проведе [SIA.GetLeader]."
+ siam_events.56.a: "Чи вдасться це нарешті приборкати катастрофічні повені Чао Прайя?"
 
- siam_events.57.t: "Відкриття Пам'ятника демократії"
- siam_events.57.d: "Після 2 років будівництва новий Пам'ятник демократії відкритий для відвідувачів якраз вчасно, щоб відзначити 5-ту річницю від дня ухвалення нами першої конституції. За словами Сільпи Бхірасі, архітектора, що стоїть за новим пам'ятником, \"Ми реконструюємо дорогу Ратчадамноен до \"Єлисейських полів\" у Бангкоку, з пам'ятником демократії в якості \"Тріумфальної арки\".\n\nСам пам'ятник дуже непопулярний серед місцевих жителів і власників магазинів, багато з яких були виселені зі своїх будинків і підприємств у зв'язку з розширенням Ратчадамної дороги для створення урочистого бульвару. Проте, він зустрічається з величезними фанфарами в інших місцях і використовується як інструмент пропаганди для нового [SIA.GetProperAdjective]ого уряду."
+ siam_events.57.t: "Відкриття пам'ятника демократії"
+ siam_events.57.d: "Після 2 років будівництва новий пам'ятник демократії відкритий для відвідувачів якраз вчасно, щоб відзначити 5-ту річницю від дня ухвалення нами першої конституції. За словами Сільпи Бхірасі, архітектора, що стоїть за новим пам'ятником, \"Ми реконструюємо дорогу Ратчадамноен до \"Єлисейських полів\" у Бангкоку, з пам'ятником демократії в якості \"Тріумфальної арки\".\n\nСам пам'ятник дуже непопулярний серед місцевих жителів і власників магазинів, багато з яких були виселені зі своїх будинків і підприємств у зв'язку з розширенням Ратчадамної дороги для створення урочистого бульвару. Проте, він зустрічається з величезними фанфарами в інших місцях і використовується як інструмент пропаганди для нового [SIA.GetProperAdjective]ого уряду."
  siam_events.57.a: "Пам'ятник, що відповідає новому статусу Бангкока."
 
  siam_events.58.t: "Відкриття нового пам'ятника захисту Конституції"
@@ -705,181 +705,181 @@
  siam_events.76.a: "Ми стоятимемо на своєму."
 
 ## Songkran Flavour ##
- siam_events.77.t: "Songkran Day" # (!)
+ siam_events.77.t: "Сонгкран"
  siam_events.77.d: "[SIA_songkran_day_event_desc]"
  siam_events.77.a: "[SIA_songkran_day_event_option]"
 
 ## Initial Black Monday ##
- siam_events.77.d.bm: "In the wake of the turmoil caused by Black Monday, a serene atmosphere enveloped [SIA.GetSIAshortname] today as the Songkran festival commenced. Families congregated at local temples to present offerings to the monks. Elders engaged in the traditional ritual of water pouring over Buddha statues, symbolising purification and the eradication of misfortunes and transgressions. As the celebration carry on into the afternoon, the streets buzzed with excitement as people of all ages partook in jubilant water fights, a festive highlight that continued into the evening.\n\nAmidst these celebrations, King [SIA.GetLeader] addressed the nation via radio, exhorting unity in the face of adversity. He reassured the citizens that together they would surmount the current crisis, just as they had overcome any crisis that had befell them." #temp
+ siam_events.77.d.bm: "На тлі сум'яття, спричиненого Чорним понеділком, безтурботна атмосфера огорнула [SIA.GetSIAshortname] сьогодні, коли розпочався фестиваль Сонгкран. Сім'ї збиралися в місцевих храмах, щоб піднести дари ченцям. Старші брали участь у традиційному ритуалі поливання водою статуй Будди, що символізує очищення та викорінення нещасть і проступків. Оскільки святкування тривало до полудня, вулиці гули від хвилювання, коли люди різного віку брали участь у радісних водних боях — святковій кульмінації, що тривала до вечора.\n\nСеред цих святкувань король [SIA.GetLeader] звернувся до нації по радіо, закликаючи до єдності перед обличчям лиха. Він запевнив громадян, що разом вони подолають нинішню кризу, як долали будь-яку кризу, що спіткала їх." #temp
 ## Khana Ratsadon Coup ##
- siam_events.77.d.krc.SocDem: "The Khana Ratsadon Coup has happened. And they've elected Pridi." #temp
- siam_events.77.d.krc.SocLib: "The Khana Ratsadon Coup has happened. And they've elected Sawaet." #temp
- siam_events.77.d.krc.SocCon: "The Khana Ratsadon Coup has happened. And they've elected Pramoj." #temp
- siam_events.77.d.krc.bmr.SocDem: "The Khana Ratsadon Coup has happened. And they've elected Pridi. Also the economy is recovering." #temp
- siam_events.77.d.krc.bmr.SocLib: "The Khana Ratsadon Coup has happened. And they've elected Sawaet. Also the economy is recovering." #temp
- siam_events.77.d.krc.bmr.SocCon: "The Khana Ratsadon Coup has happened. And they've elected Pramoj. Also the economy is recovering." #temp
- siam_events.77.d.krc.bmo.SocDem: "The Khana Ratsadon Coup has happened. And they've elected Pridi. Also the economy is recovered." #temp
- siam_events.77.d.krc.bmo.SocLib: "The Khana Ratsadon Coup has happened. And they've elected Sawaet. Also the economy is recovered." #temp
- siam_events.77.d.krc.bmo.SocCon: "The Khana Ratsadon Coup has happened. And they've elected Pramoj. Also the economy is recovered." #temp
+ siam_events.77.d.krc.SocDem: "Відбувся переворот Народної Партії. Вони обрали Пріді." #temp
+ siam_events.77.d.krc.SocLib: "Відбувся переворот Народної Партії. Вони обрали Савета." #temp
+ siam_events.77.d.krc.SocCon: "Відбувся переворот Народної Партії. Вони обрали Прамота." #temp
+ siam_events.77.d.krc.bmr.SocDem: "Відбувся переворот Народної Партії. Вони обрали Пріді. Також економіка відновлюється." #temp
+ siam_events.77.d.krc.bmr.SocLib: "Відбувся переворот Народної Партії. Вони обрали Савета. Також економіка відновлюється." #temp
+ siam_events.77.d.krc.bmr.SocCon: "Відбувся переворот Народної Партії. Вони обрали Прамота. Також економіка відновлюється." #temp
+ siam_events.77.d.krc.bmo.SocDem: "Відбувся переворот Народної Партії. Вони обрали Пріді. Також економіка відновилася." #temp
+ siam_events.77.d.krc.bmo.SocLib: "Відбувся переворот Народної Партії. Вони обрали Савета. Також економіка відновилася." #temp
+ siam_events.77.d.krc.bmo.SocCon: "Відбувся переворот Народної Партії. Вони обрали Прамота. Також економіка відновилася." #temp
 ## Prajadhipok Constitution ##
- siam_events.77.d.constitution: "The King had given us a constitution. With election being planned to held this year." #temp
- siam_events.77.d.constitution.bmr: "The King had given us a constitution. With election being planned to held this year. Also the economy begun to recovered for a bit."
- siam_events.77.d.constitution.bmr.SocDem: "Pridi is in charge and we're recovering" #temp
- siam_events.77.d.constitution.bmr.SocLib: "Sawaet is in charge and we're recovering." #temp
- siam_events.77.d.constitution.bmr.SocCon: "Pramoj is in charge and we're recovering." #temp
- siam_events.77.d.constitution.bmr2.SocDem: "Pridi is in charge and we're recovering. Part 2" #temp
- siam_events.77.d.constitution.bmr2.SocLib: "Sawaet is in charge and we're recovering. Part 2" #temp
- siam_events.77.d.constitution.bmr2.SocCon: "Pramoj is in charge and we're recovering. Part 2" #temp
- siam_events.77.d.constitution.bmo.SocDem: "Pridi is in charge and we've recovered." #temp
- siam_events.77.d.constitution.bmo.SocLib: "Sawaet is in charge and we've recovered." #temp
- siam_events.77.d.constitution.bmo.SocCon: "Pramoj is in charge and we're recovered." #temp
- siam_events.77.d.constitution.RamaVII.neutral: "King Prajadhipok had urged calm as the world found itself at war, and he told us to enjoy Songkran, while we still can." #temp
- siam_events.77.d.constitution.RamaVII.war.faction: "King Prajadhipok had called for unity in the face of war on Songkran. Also we're in a faction." #temp
- siam_events.77.d.constitution.RamaVII.war: "King Prajadhipok had called for unity in the face of war on Songkran." #temp
- siam_events.77.d.constitution.RamaVII.peace: "Peace is upon Siam, and King Prajadhipok couldn't be more happy." #temp
- siam_events.77.d.constitution.RamaVII.peace.faction: "Peace is upon Siam, and King Prajadhipok couldn't be more happy. We're also in a faction." #temp
- siam_events.77.d.constitution.RamaVII.peace.neautral: "Peace is upon Siam, and King Prajadhipok couldn't be more happy. We're also neutral the whole way."
- siam_events.77.d.constitution.RamaVIII.neutral: "King Prajadhipok had passed away and Ananda Mahidol was crowned the new king. As the war is waged around the neutral nation. The King had urged calm and called for celebration of Songkran while the world around them are blowing up." #temp
- siam_events.77.d.constitution.RamaVIII.war: "King Ananda Mahidol had called for unity in the face of war on Songkran." #temp
- siam_events.77.d.constitution.RamaVIII.peace: "Peace is upon Siam, and King Ananda Mahidol couldn't be more happy." #temp
- siam_events.77.d.constitution.RamaVIII.peace.faction: "Peace is upon Siam, and King Ananda Mahidol couldn't be more happy. We're also in a faction." #temp
- siam_events.77.d.constitution.RamaIX.neutral: "King Ananda Mahidol had passed away and Bhumibol was crowned the new king. As the war is waged around the neutral nation. The King had urged calm and called for celebration of Songkran while the world around them are blowing up." #temp
- siam_events.77.d.constitution.RamaIX.war: "King Bhumibol had called for unity in the face of war on Songkran." #temp
- siam_events.77.d.constitution.RamaIX.peace: "Peace is upon Siam, and King Bhumibol couldn't be more happy." #temp
- siam_events.77.d.constitution.RamaIX.peace.faction: "Peace is upon Siam, and King Bhumibol couldn't be more happy. We're also in a faction." #temp
+ siam_events.77.d.constitution: "Король дав нам конституцію. Вибори заплановані на цей рік." #temp
+ siam_events.77.d.constitution.bmr: "Король дав нам конституцію. Вибори заплановані на цей рік. Також економіка дещо почала відновлюватися."
+ siam_events.77.d.constitution.bmr.SocDem: "Пріді керує, і ми відновлюємося." #temp
+ siam_events.77.d.constitution.bmr.SocLib: "Савет керує, і ми відновлюємося." #temp
+ siam_events.77.d.constitution.bmr.SocCon: "Прамот керує, і ми відновлюємося." #temp
+ siam_events.77.d.constitution.bmr2.SocDem: "Пріді керує, і ми відновлюємося. Частина 2" #temp
+ siam_events.77.d.constitution.bmr2.SocLib: "Савет керує, і ми відновлюємося. Частина 2" #temp
+ siam_events.77.d.constitution.bmr2.SocCon: "Прамот керує, і ми відновлюємося. Частина 2" #temp
+ siam_events.77.d.constitution.bmo.SocDem: "Пріді керує, і ми відновилися." #temp
+ siam_events.77.d.constitution.bmo.SocLib: "Савет керує, і ми відновилися." #temp
+ siam_events.77.d.constitution.bmo.SocCon: "Прамот керує, і ми відновилися." #temp
+ siam_events.77.d.constitution.RamaVII.neutral: "Король Прачадіпок закликав до спокою, оскільки світ опинився у війні, і сказав нам насолоджуватися Сонгкраном, поки ми ще можемо." #temp
+ siam_events.77.d.constitution.RamaVII.war.faction: "Король Прачадіпок закликав до єдності перед обличчям війни під час Сонгкрану. Також ми у фракції." #temp
+ siam_events.77.d.constitution.RamaVII.war: "Король Прачадіпок закликав до єдності перед обличчям війни під час Сонгкрану." #temp
+ siam_events.77.d.constitution.RamaVII.peace: "У Сіамі запанував мир, і король Прачадіпок не може бути щасливішим." #temp
+ siam_events.77.d.constitution.RamaVII.peace.faction: "У Сіамі запанував мир, і король Прачадіпок не може бути щасливішим. Також ми у фракції." #temp
+ siam_events.77.d.constitution.RamaVII.peace.neautral: "У Сіамі запанував мир, і король Прачадіпок не може бути щасливішим. Також ми були нейтральними весь час."
+ siam_events.77.d.constitution.RamaVIII.neutral: "Король Прачадіпок помер, і Ананду Махідола коронували новим королем. У той час як навколо нейтральної нації точиться війна, Король закликав до спокою та святкування Сонгкрану, поки світ навколо вибухає." #temp
+ siam_events.77.d.constitution.RamaVIII.war: "Король Ананда Махідол закликав до єдності перед обличчям війни під час Сонгкрану." #temp
+ siam_events.77.d.constitution.RamaVIII.peace: "У Сіамі запанував мир, і король Ананда Махідол не може бути щасливішим." #temp
+ siam_events.77.d.constitution.RamaVIII.peace.faction: "У Сіамі запанував мир, і король Ананда Махідол не може бути щасливішим. Також ми у фракції." #temp
+ siam_events.77.d.constitution.RamaIX.neutral: "Король Ананда Махідол помер, і Пхуміпола коронували новим королем. У той час як навколо нейтральної нації точиться війна, король закликав до спокою та святкування Сонгкрану, поки світ навколо вибухає." #temp
+ siam_events.77.d.constitution.RamaIX.war: "Король Пхуміпол закликав до єдності перед обличчям війни під час Сонгкрану." #temp
+ siam_events.77.d.constitution.RamaIX.peace: "У Сіамі запанував мир, і король Пхуміпол не може бути щасливішим." #temp
+ siam_events.77.d.constitution.RamaIX.peace.faction: "У Сіамі запанував мир, і король Пхуміпол не може бути щасливішим. Також ми у фракції." #temp
 ## Civil War Socialist Republic Victory in Thamrongnawasawat Rebellion ##
- siam_events.77.d.SocRep: "This is siam_events.77.d.SocRep" #temp
- siam_events.77.d.SocRep.bmr: "This is siam_events.77.d.SocRep.bmr" #temp
- siam_events.77.d.SocRep.bmo: "This is siam_events.77.d.SocRep.bmo" #temp
+ siam_events.77.d.SocRep: "Це siam_events.77.d.SocRep" #temp
+ siam_events.77.d.SocRep.bmr: "Це siam_events.77.d.SocRep.bmr" #temp
+ siam_events.77.d.SocRep.bmo: "Це siam_events.77.d.SocRep.bmo" #temp
 ## Civil War Royalist Victory in Thamrongnawasawat Rebellion ##
- siam_events.77.d.royalist: "This is siam_events.77.d.royalist" #temp
- siam_events.77.d.royalist.bmr: "This is siam_events.77.d.royalist.bmr" #temp
- siam_events.77.d.royalist.bmo: "This is siam_events.77.d.royalist.bmo" #temp
+ siam_events.77.d.royalist: "Це siam_events.77.d.royalist" #temp
+ siam_events.77.d.royalist.bmr: "Це siam_events.77.d.royalist.bmr" #temp
+ siam_events.77.d.royalist.bmo: "Це siam_events.77.d.royalist.bmo" #temp
 ## Civil War Boworadet Victory in Boworadet Rebellion ##
- siam_events.77.d.boworadet: "This is siam_events.77.d.boworadet" #temp
- siam_events.77.d.boworadet.bmr: "This is siam_events.77.d.boworadet.bmr" #temp
- siam_events.77.d.boworadet.bmo: "This is siam_events.77.d.boworadet.bmo" #temp
+ siam_events.77.d.boworadet: "Це siam_events.77.d.boworadet" #temp
+ siam_events.77.d.boworadet.bmr: "Це siam_events.77.d.boworadet.bmr" #temp
+ siam_events.77.d.boworadet.bmo: "Це siam_events.77.d.boworadet.bmo" #temp
 ## Civil War Parliamentarian Victory in Boworadet Rebellion ##
- siam_events.77.d.parliamentarian: "This is siam_events.77.d.parliamentarian" #temp
- siam_events.77.d.parliamentarian.bmr: "This is siam_events.77.d.parliamentarian.bmr" #temp
- siam_events.77.d.parliamentarian.bmo: "This is siam_events.77.d.parliamentarian.bmo" #temp
+ siam_events.77.d.parliamentarian: "Це siam_events.77.d.parliamentarian" #temp
+ siam_events.77.d.parliamentarian.bmr: "Це siam_events.77.d.parliamentarian.bmr" #temp
+ siam_events.77.d.parliamentarian.bmo: "Це siam_events.77.d.parliamentarian.bmo" #temp
 ## Phibun in control ##
- siam_events.77.d.phibun: "This is siam_events.77.d.phibun" #temp
- siam_events.77.d.phibun.bmr: "This is siam_events.77.d.phibun.bmr" #temp
- siam_events.77.d.phibun.bmo: "This is siam_events.77.d.phibun.bmo" #temp
+ siam_events.77.d.phibun: "Це siam_events.77.d.phibun" #temp
+ siam_events.77.d.phibun.bmr: "Це siam_events.77.d.phibun.bmr" #temp
+ siam_events.77.d.phibun.bmo: "Це siam_events.77.d.phibun.bmo" #temp
 ## Phibun gave up power ##
- siam_events.77.d.phibungaveup: "This is siam_events.77.d.phibungaveup" #temp
- siam_events.77.d.phibungaveup.bmr: "This is siam_events.77.d.phibungaveup.bmr" #temp
- siam_events.77.d.phibungaveup.bmo: "This is siam_events.77.d.phibungaveup.bmo" #temp
+ siam_events.77.d.phibungaveup: "Це siam_events.77.d.phibungaveup" #temp
+ siam_events.77.d.phibungaveup.bmr: "Це siam_events.77.d.phibungaveup.bmr" #temp
+ siam_events.77.d.phibungaveup.bmo: "Це siam_events.77.d.phibungaveup.bmo" #temp
 ## Phao in control ##
- siam_events.77.d.phao: "This is siam_events.77.d.phao" #temp
- siam_events.77.d.phao.bmr: "This is siam_events.77.d.phao.bmr" #temp
- siam_events.77.d.phao.bmo: "This is siam_events.77.d.phao.bmo" #temp
+ siam_events.77.d.phao: "Це siam_events.77.d.phao" #temp
+ siam_events.77.d.phao.bmr: "Це siam_events.77.d.phao.bmr" #temp
+ siam_events.77.d.phao.bmo: "Це siam_events.77.d.phao.bmo" #temp
 ## Sarit in control ##
- siam_events.77.d.sarit: "This is siam_events.77.d.sarit" #temp
- siam_events.77.d.sarit.bmr: "This is siam_events.77.d.sarit.bmr" #temp
- siam_events.77.d.sarit.bmo: "This is siam_events.77.d.sarit.bmo" #tem
-## Boriphat in control ## Is it Boriphat or Paribatr, also why are we communicating in English when we can just speak Thai?
- siam_events.77.d.boriphat: "This is siam_events.77.d.boriphat" #temp
- siam_events.77.d.boriphat.bmr: "This is siam_events.77.d.boriphat.bmr" #temp
- siam_events.77.d.boriphat.bmo: "This is siam_events.77.d.boriphat.bmo" #temp
+ siam_events.77.d.sarit: "Це siam_events.77.d.sarit" #temp
+ siam_events.77.d.sarit.bmr: "Це siam_events.77.d.sarit.bmr" #temp
+ siam_events.77.d.sarit.bmo: "Це siam_events.77.d.sarit.bmo" #temp
+## Boriphat in control ##
+ siam_events.77.d.boriphat: "Це siam_events.77.d.boriphat" #temp
+ siam_events.77.d.boriphat.bmr: "Це siam_events.77.d.boriphat.bmr" #temp
+ siam_events.77.d.boriphat.bmo: "Це siam_events.77.d.boriphat.bmo" #temp
 ## Answer ##
 ## Initial BM ##
- siam_events.77.a.bm: "We've endured far worse than this!"
+ siam_events.77.a.bm: "Ми пережили набагато гірше, ніж це!"
 ## Khana Ratsadon Coup ##
- siam_events.77.a.krc: "We'll make this country great again!" #temp
- siam_events.77.a.krc.bmr: "Slow and Steady wins the race!" #temp
- siam_events.77.a.krc.bmo: "We're thriving here!" #temp
+ siam_events.77.a.krc: "Ми знову зробимо цю країну великою!" #temp
+ siam_events.77.a.krc.bmr: "Повільно, але впевнено перемагаємо!" #temp
+ siam_events.77.a.krc.bmo: "Ми процвітаємо!" #temp
 ## Prajadhipok Constitution ##
- siam_events.77.a.constitution: "So begins the democratic process!" #temp
- siam_events.77.a.constitution.bmr: "So begins the democratic process and economy had recovered!"
- siam_events.77.a.constitution.bmr.SocDem: "Woooo!" #temp
- siam_events.77.a.constitution.bmr.SocLib: "Awesome!" #temp
- siam_events.77.a.constitution.bmr.SocCon: "Great!" #temp
- siam_events.77.a.constitution.bmr2.SocDem: "Yes baby!" #temp
- siam_events.77.a.constitution.bmr2.SocLib: "Perfect!" #temp
- siam_events.77.a.constitution.bmr2.SocCon: "A Great occasion." #temp
- siam_events.77.a.constitution.bmo.SocDem: "Pridi is in charge and we've recovered." #temp
- siam_events.77.a.constitution.bmo.SocLib: "Sawaet is in charge and we've recovered." #temp
- siam_events.77.a.constitution.bmo.SocCon: "Pramoj is in charge and we're recovered." #temp
- siam_events.77.a.constitution.RamaVII.neutral: "King Prajadhipok will see us through neutrality period." #temp
- siam_events.77.a.constitution.RamaVII.war: "King Prajadhipok will see us through war period." #temp
- siam_events.77.a.constitution.RamaVII.peace: "King Prajadhipok had see us through the war. Now let's enjoy peace." #temp
- siam_events.77.a.constitution.RamaVIII.neutral: "King Ananda Mahidol will see us through neutrality period." #temp
- siam_events.77.a.constitution.RamaVIII.war: "King Ananda Mahidol will see us through war period." #temp
- siam_events.77.a.constitution.RamaVIII.peace: "King Ananda Mahidol had see us through the war. Now let's enjoy peace." #temp
- siam_events.77.a.constitution.RamaIX.neutral: "King Bhumibol will see us through neutrality period." #temp
- siam_events.77.a.constitution.RamaIX.war: "King Bhumibol will see us through war period." #temp
- siam_events.77.a.constitution.RamaIX.peace: "King Bhumibol had see us through the war. Now let's enjoy peace." #temp
+ siam_events.77.a.constitution: "Так починається демократичний процес!" #temp
+ siam_events.77.a.constitution.bmr: "Так починається демократичний процес, і економіка відновилася!"
+ siam_events.77.a.constitution.bmr.SocDem: "Урааа!" #temp
+ siam_events.77.a.constitution.bmr.SocLib: "Чудово!" #temp
+ siam_events.77.a.constitution.bmr.SocCon: "Гарно!" #temp
+ siam_events.77.a.constitution.bmr2.SocDem: "Так, дитинко!" #temp
+ siam_events.77.a.constitution.bmr2.SocLib: "Ідеально!" #temp
+ siam_events.77.a.constitution.bmr2.SocCon: "Велика подія." #temp
+ siam_events.77.a.constitution.bmo.SocDem: "Пріді керує, і ми відновилися." #temp
+ siam_events.77.a.constitution.bmo.SocLib: "Савет керує, і ми відновилися." #temp
+ siam_events.77.a.constitution.bmo.SocCon: "Прамот керує, і ми відновилися." #temp
+ siam_events.77.a.constitution.RamaVII.neutral: "Король Прачадіпок проведе нас через період нейтралітету." #temp
+ siam_events.77.a.constitution.RamaVII.war: "Король Прачадіпок проведе нас через період війни." #temp
+ siam_events.77.a.constitution.RamaVII.peace: "Король Прачадіпок провів нас через війну. Тепер насолоджуймося миром." #temp
+ siam_events.77.a.constitution.RamaVIII.neutral: "Король Ананда Махідол проведе нас через період нейтралітету." #temp
+ siam_events.77.a.constitution.RamaVIII.war: "Король Ананда Махідол проведе нас через період війни." #temp
+ siam_events.77.a.constitution.RamaVIII.peace: "Король Ананда Махідол провів нас через війну. Тепер насолоджуймося миром." #temp
+ siam_events.77.a.constitution.RamaIX.neutral: "Король Пхуміпол проведе нас через період нейтралітету." #temp
+ siam_events.77.a.constitution.RamaIX.war: "Король Пхуміпол проведе нас через період війни." #temp
+ siam_events.77.a.constitution.RamaIX.peace: "Король Пхуміпол провів нас через війну. Тепер насолоджуймося миром." #temp
 ## Civil War Socialist Republic Victory in Thamrongnawasawat Rebellion ##
- siam_events.77.a.SocRep: "Trust Pridi." #temp
- siam_events.77.a.SocRep.bmr: "Keep trusting Pridi." #temp
- siam_events.77.a.SocRep.bmo: "In Pridi. We Trust." #temp
+ siam_events.77.a.SocRep: "Довіряємо Пріді." #temp
+ siam_events.77.a.SocRep.bmr: "Продовжуємо довіряти Пріді." #temp
+ siam_events.77.a.SocRep.bmo: "Ми довіряємо Пріді." #temp
 ## Civil War Royalist Victory in Thamrongnawasawat Rebellion ##
- siam_events.77.a.royalist: "The Royalist will fixed the nations!" #temp
- siam_events.77.a.royalist.bmr: "The Royalist is fixing the economy!" #temp
- siam_events.77.a.royalist.bmo: "The Royalist had fixed the nations!" #temp
+ siam_events.77.a.royalist: "Роялісти виправлять націю!" #temp
+ siam_events.77.a.royalist.bmr: "Роялісти виправляють економіку!" #temp
+ siam_events.77.a.royalist.bmo: "Роялісти виправили націю!" #temp
 ## Civil War Boworadet Victory in Boworadet Rebellion ##
- siam_events.77.a.boworadet: "Boworadet had saved the nation!" #temp
- siam_events.77.a.boworadet.bmr: "Boworadet is fixing the economy!" #temp
- siam_events.77.a.boworadet.bmo: "Boworadet had fixed the economy!" #temp
+ siam_events.77.a.boworadet: "Боворадет врятував націю!" #temp
+ siam_events.77.a.boworadet.bmr: "Боворадет виправляє економіку!" #temp
+ siam_events.77.a.boworadet.bmo: "Боворадет виправив економіку!" #temp
 ## Civil War Parliamentarian Victory in Boworadet Rebellion ##
- siam_events.77.a.parliamentarian: "We shall never bow to the tyrants!" #temp
- siam_events.77.a.parliamentarian.bmr: "We are fixing the economy!" #temp
- siam_events.77.a.parliamentarian.bmo: "We have fixed the economy!" #temp
+ siam_events.77.a.parliamentarian: "Ми ніколи не схилимося перед тиранами!" #temp
+ siam_events.77.a.parliamentarian.bmr: "Ми виправляємо економіку!" #temp
+ siam_events.77.a.parliamentarian.bmo: "Ми виправили економіку!" #temp
 ## Phibun in control ##
- siam_events.77.a.phibun: "We salute the Iron Marshal" #temp
- siam_events.77.a.phibun.bmr: "The Iron Marshal is fixing the economy" #temp
- siam_events.77.a.phibun.bmo: "The Iron Marshal fixed the economy" #temp
+ siam_events.77.a.phibun: "Ми вітаємо Залізного Маршала" #temp
+ siam_events.77.a.phibun.bmr: "Залізний Маршал виправляє економіку" #temp
+ siam_events.77.a.phibun.bmo: "Залізний Маршал виправив економіку" #temp
 ## Phibun gave up power ##
- siam_events.77.a.phibungaveup: "The Iron Marshal saved the nation's democracy." #temp
- siam_events.77.a.phibungaveup.bmr: "We're fixing the economy" #temp
- siam_events.77.a.phibungaveup.bmo: "We've fixed the economy" #temp
+ siam_events.77.a.phibungaveup: "Залізний Маршал врятував демократію нації." #temp
+ siam_events.77.a.phibungaveup.bmr: "Ми виправляємо економіку" #temp
+ siam_events.77.a.phibungaveup.bmo: "Ми виправили економіку" #temp
 ## Phao in control ##
- siam_events.77.a.phao: "Phao hailed in a new Republic" #temp
- siam_events.77.a.phao.bmr: "Phao is fixing the economy" #temp
- siam_events.77.a.phao.bmo: "Phao had fixed the economy" #temp
+ siam_events.77.a.phao: "Пхао віщує нову республіку" #temp
+ siam_events.77.a.phao.bmr: "Пхао виправляє економіку" #temp
+ siam_events.77.a.phao.bmo: "Пхао виправив економіку" #temp
 ## Sarit in control ##
- siam_events.77.a.sarit: "Sarit had restored order." #temp
- siam_events.77.a.sarit.bmr: "Sarit is fixing the economy." #temp
- siam_events.77.a.sarit.bmo: "Sarit had fixed the economy." #temp
-## Boriphat in control ## Is it Boriphat or Paribatr, also why are we communicating in English when we can just speak Thai?
- siam_events.77.a.boriphat: "Boriphat had usurped the throne." #temp
- siam_events.77.a.boriphat.bmr: "Boriphat is fixing the economy." #temp
- siam_events.77.a.boriphat.bmo: "Boriphat had fixed the economy." #temp
+ siam_events.77.a.sarit: "Саріт відновив порядок." #temp
+ siam_events.77.a.sarit.bmr: "Саріт виправляє економіку." #temp
+ siam_events.77.a.sarit.bmo: "Саріт виправив економіку." #temp
+## Boriphat in control ##
+ siam_events.77.a.boriphat: "Борипат узурпував трон." #temp
+ siam_events.77.a.boriphat.bmr: "Борипат виправляє економіку." #temp
+ siam_events.77.a.boriphat.bmo: "Борипат виправив економіку." #temp
 
-## Second Weltkrieg Reaction ## Either Russia invades Germany, or the French, or the Germans goes on the attack. Idk pick a plot.
- siam_events.78.t: "A War in Europe"
- siam_events.78.d.neutral: "We must preserve our neutral status." #temp
- siam_events.78.d.sphere: "Time to liberate Asia." #temp
- siam_events.78.d.reichpakt: "We must preserve the old order." #temp
- siam_events.78.d.socialist: "The time has come." #temp
- siam_events.78.a.neutral: "If we stand incredibly still they will not see us." #temp
- siam_events.78.a.sphere: "The time for us Asians had come." #temp
- siam_events.78.a.reichpakt: "We must stop the Japanese." #temp
- siam_events.78.a.socialist: "Times for the Workers to rise!" #temp
+## Second Weltkrieg Reaction ##
+ siam_events.78.t: "Війна в Європі"
+ siam_events.78.d.neutral: "Ми повинні зберігати наш нейтральний статус." #temp
+ siam_events.78.d.sphere: "Час визволяти Азію." #temp
+ siam_events.78.d.reichpakt: "Ми повинні зберегти старий порядок." #temp
+ siam_events.78.d.socialist: "Час настав." #temp
+ siam_events.78.a.neutral: "Якщо ми стоятимемо нерухомо, вони нас не побачать." #temp
+ siam_events.78.a.sphere: "Настав час для нас, азіатів." #temp
+ siam_events.78.a.reichpakt: "Ми повинні зупинити японців." #temp
+ siam_events.78.a.socialist: "Час робітникам повстати!" #temp
 
-## Nation at war ## Probaly when the Eastern Sea War kicks in, or when Siam find themselves at war.
- siam_events.79.t: "War founds its way to Siam"
- siam_events.79.d.war.neutral: "We're at war and we're neutral." #temp
- siam_events.79.d.war.sphere: "We're at war and we're with Japan." #temp
- siam_events.79.d.war.reichpakt: "We're at war and we're with Germany." #temp
- siam_events.79.d.war.socialist: "We're at war and we're proclaiming the world revolution." #temp
- siam_events.79.a.war.neutral: "So you've awaken the elephant in the room." #temp
- siam_events.79.a.war.sphere: "Time to strike the Germans!" #temp
- siam_events.79.a.war.reichpakt: "We must defend our territory from the Japanese at all cost." #temp
- siam_events.79.a.war.socialist: "Time to spread the Workers Revolution!" #temp
+## Nation at war ##
+ siam_events.79.t: "Війна прийшла до Сіаму"
+ siam_events.79.d.war.neutral: "Ми воюємо і ми нейтральні." #temp
+ siam_events.79.d.war.sphere: "Ми воюємо і ми з Японією." #temp
+ siam_events.79.d.war.reichpakt: "Ми воюємо і ми з Німеччиною." #temp
+ siam_events.79.d.war.socialist: "Ми воюємо і ми проголошуємо світову революцію." #temp
+ siam_events.79.a.war.neutral: "Отже, ви розбудили слона в кімнаті." #temp
+ siam_events.79.a.war.sphere: "Час ударити по німцях!" #temp
+ siam_events.79.a.war.reichpakt: "Ми повинні захистити нашу територію від японців будь-якою ціною." #temp
+ siam_events.79.a.war.socialist: "Час поширювати робітничу революцію!" #temp
 
-## Peace on Siam ## Probably when the Eastern Sea War Ended?, I have no idea how this last one will be implemented.
- siam_events.80.t: "Peace for the Nation"
- siam_events.80.d.peace.neutral: "We're finally at peace. And we're neutral." #temp
- siam_events.80.d.peace.sphere: "We're finally at peace. And we're with Japan." #temp
- siam_events.80.d.peace.reichpakt: "We're finally at peace and we're with Germany." #temp
- siam_events.80.d.peace.socialist: "We're finally at peace and the world revolution succeeded." #temp
- siam_events.80.a.peace.neutral: "Yay 1" #temp
- siam_events.80.a.peace.sphere: "Yay 2" #temp
- siam_events.80.a.peace.reichpakt: "Yay 3" #temp
- siam_events.80.a.peace.socialist: "Yay 4" #temp
+## Peace on Siam ##
+ siam_events.80.t: "Мир для Нації"
+ siam_events.80.d.peace.neutral: "Ми нарешті в мирі. І ми нейтральні." #temp
+ siam_events.80.d.peace.sphere: "Ми нарешті в мирі. І ми з Японією." #temp
+ siam_events.80.d.peace.reichpakt: "Ми нарешті в мирі, і ми з Німеччиною." #temp
+ siam_events.80.d.peace.socialist: "Ми нарешті в мирі, і світова революція досягла успіху." #temp
+ siam_events.80.a.peace.neutral: "Ура 1" #temp
+ siam_events.80.a.peace.sphere: "Ура 2" #temp
+ siam_events.80.a.peace.reichpakt: "Ура 3" #temp
+ siam_events.80.a.peace.socialist: "Ура 4" #temp
 
 ###################################
 ##
@@ -1281,22 +1281,22 @@
 
 # State Integration
  SIA_integration_decisions: "Інтеграція територій"
- SIA_integration_decisions_desc: "§OMonthon Thesapiban system§!, while not without its flaws, allows for flexible integration of existing governance under [ROOT.Capital.GetCapitalVictoryPointName]'s watchful eyes.\n\nWhile not necessarily required, we can invest extra resources to §Chasten the integration process§! for these newly reacquired lands."
+ SIA_integration_decisions_desc: "§OСистема «Монтон Тесафібан»§!, хоч і не позбавлена недоліків, дозволяє гнучко інтегрувати існуюче управління під пильним оком [ROOT.Capital.GetCapitalVictoryPointName].\n\nХоча це не обов'язково, ми можемо інвестувати додаткові ресурси, щоб §Cпришвидшити процес інтеграції§! для цих щойно повернених земель."
  SIA_implement_municipal_reform_state: "§OМуніципальні реформи§! в [From.GetName]"
- SIA_implement_municipal_reform_state_desc: "By redrawing administrative boundaries in [From.GetName] and replacing the High Commissioner position with Provincial Councils, local issues are more likely to be heard and acted upon."
- SIA_reinforce_local_police_state: "§YReinforce Local Police§! in [From.GetName]"
- SIA_reinforce_local_police_state_desc: "By supporting local police forces, be it in terms of manpower or training, [From.GetName] would now be a safer place for both local citizens and our newly transferred bureaucrats, who are working to centralize our hold in the region."
+ SIA_implement_municipal_reform_state_desc: "Перемалювавши адміністративні кордони в [From.GetName] і замінивши посаду Верховного комісара на Провінційні ради, місцеві проблеми, ймовірно, будуть почуті та вирішені."
+ SIA_reinforce_local_police_state: "§YПосилити місцеву поліцію§! в [From.GetName]"
+ SIA_reinforce_local_police_state_desc: "Підтримуючи місцеві поліцейські сили, чи то в плані робочої сили, чи то навчання, [From.GetName] тепер стане безпечнішим місцем як для місцевих громадян, так і для наших нещодавно переведених бюрократів, які працюють над централізацією нашого контролю в регіоні."
  SIA_expand_civil_service_state: "§GРозширення державної служби§! в [From.GetName]"
- SIA_expand_civil_service_state_desc: "By expanding civil service access in [From.GetName], the lifes of those who lived here are more and more connect to those who live elsewhere in [SIA.GetSIAshortname] than ever before."
+ SIA_expand_civil_service_state_desc: "Розширюючи доступ до державної служби в [From.GetName], життя тих, хто тут проживає, все більше пов'язуються з життям тих, хто мешкає в інших частинах [SIA.GetSIAshortname], ніж будь-коли раніше."
  SIA_integrate_state: "§CІнтегрувати§! [From.GetName]"
- SIA_integrate_state_desc: "With the liberation of [From.GetName], we shall §Creintegrate them back into our country§! again."
+ SIA_integrate_state_desc: "З визволенням [From.GetName] ми §Cреінтегруємо їх назад у нашу країну§! знову."
 
- SIA_integration_more_unlocked_tt: "Unlock repeatable §YReinforce Local Police§! and §GExpand Civil Service§! decisions for this state.\n"
- SIA_integration_repeatable_tt: "This decision is repeatable and will reappear.\n"
+ SIA_integration_more_unlocked_tt: "Розблокувати повторювані рішення: §YПосилити місцеву поліцію§! та §GРозширити державну службу§! для цієї держави.\n"
+ SIA_integration_repeatable_tt: "Це рішення є повторюваним і з'явиться знову.\n"
 
  SIA_250_inf_10_CP: "£rifle_texticon §H250§! £command_power §Y10§!"
  SIA_250_inf_10_CP_blocked: "£rifle_texticon §R250§! £command_power §R10§!"
- SIA_250_inf_10_CP_tooltip: "It costs $SIA_250_inf_10_CP_blocked$ to take the decision"
+ SIA_250_inf_10_CP_tooltip: "Вартість прийняття рішення становить $SIA_250_inf_10_CP_blocked$"
 
 # Diplomatic Matters
  SIA_diplomatic_matters_category: "Дипломатичні питання"
@@ -1420,248 +1420,247 @@
 
 ### Characters ###
  ## Head of State
- SIA_prajadhipok: "Prajadhipok"
- SIA_prajadhipok_leader_desc: "§YBorn:§! §LNovember 8th, 1893, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LPrajadhipok, also known by his regnal name Rama VII, was enthroned as King of Siam upon the death of his brother in 1925. Unprepared for kingship, having previously been far down the order of succession, he is essentially a puppet of the Supreme Council of State run by his cousins. Educated abroad and commissioned in the British Army, Prajadhipok nonetheless genuinely cares for his people and works diligently to improve his subjects' lot.§!"
+ SIA_prajadhipok: "Прачадіпок"
+ SIA_prajadhipok_leader_desc: "§YНародився:§! §L8 листопада 1893 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LПрачадіпок, також відомий під своїм правлячим іменем Рама VII, був зведений на трон Сіаму після смерті свого брата у 1925 році. Непідготовлений до королівського сану, оскільки раніше був далеко в черзі успадкування, він по суті є маріонеткою Верховної державної ради, керованої його двоюрідними братами. Здобувши освіту за кордоном та отримавши звання в Британській армії, Прачадіпок, тим не менш, щиро піклується про свій народ і сумлінно працює над покращенням долі своїх підданих.§!"
 
- SIA_ananda_mahidol: "Ananda Mahidol"
- SIA_ananda_mahidol_leader_desc: "§YBorn:§! §LSeptember 20th, 1925, in Heidelberg, Grand Duchy of Baden, German Empire§!\n§YBackground:§! §LAnanda Mahidol, known by his regnal name Rama VIII, has ascended to the Siamese throne following the death of his uncle, Rama VII. Ananda Mahidol was once considered a very unlikely candidate for the throne, being barely a teenager and of low birth. He originally held the rank of 'Mom Chao', making him among the lowest of Siamese princes. Despite his youth and inexperience, he has quickly won the hearts of the Siamese people. Foreign observers, however, believe that he did not really want to be king that his reign would not last long.§!"
+ SIA_ananda_mahidol: "Ананда Махідол"
+ SIA_ananda_mahidol_leader_desc: "§YНародився:§! §L20 вересня 1925 року в Гайдельберзі, Велике герцогство Баден, Німецька імперія§!\n§YПередісторія:§! §LАнанда Махідол, відомий під своїм правлячим іменем Рама VIII, зійшов на сіамський трон після смерті свого дядька, Рами VII. Ананда Махідол колись вважався вкрай малоймовірним кандидатом на трон, будучи ледь підлітком і низького походження. Спочатку він мав титул «Мом Чао», що робило його одним із найнижчих сіамських принців. Попри свою молодість і недосвідченість, він швидко завоював серця сіамського народу. Однак іноземні спостерігачі вважають, що він насправді не хотів бути королем і що його правління буде недовгим.§!"
 
- SIA_bhumibol_adulyadej: "Bhumibol Adulyadej"
- SIA_bhumibol_adulyadej_leader_desc: "§YBorn:§! §LDecember 5th, 1927, in Cambridge, Massachusetts, United States of America§!\n§YBackground:§! §LBhumibol Adulyadej, known by his regnal name Rama IX has ascended to the Siamese throne following the mysterious death of his late brother, Rama VIII. Bhumibol Adulyadej has so far proven himself much more politically competent than his late brother, navigating the convoluted Siamese political landscape with seeming ease. Many speak of Bhumibol Adulyadej as the saviour of the once embattled Siamese monarchy.§!"
+ SIA_bhumibol_adulyadej: "Пхуміпол Адульядет"
+ SIA_bhumibol_adulyadej_leader_desc: "§YНародився:§! §L5 грудня 1927 року в Кембриджі, Массачусетс, Сполучені Штати Америки§!\n§YПередісторія:§! §LПхуміпол Адульядет, відомий під своїм правлячим іменем Рама IX, зійшов на сіамський трон після загадкової смерті свого покійного брата, Рами VIII. Пхуміпол Адульядет поки що виявив себе набагато політично компетентнішим, ніж його покійний брат, з очевидною легкістю орієнтуючись у заплутаному сіамському політичному ландшафті. Багато хто говорить про Пхуміпола Адульядета як про рятівника колись охопленої боротьбою сіамської монархії.§!"
 
- SIA_chula_chakrabongse: "Chula Chakrabongse"
- SIA_chula_chakrabongse_leader_desc: "§YBorn:§! §LMarch 28th, 1908, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!\n§YBackground:§! §LChula Chakrabongse, the half-Ukrainian grandson of King Rama V, has been installed as king of Siam. Chula Chakrabongse lived an eccentric life of leisure in Britain and later Austria before becoming king and has delegated nearly all of his royal duties in favour of his passion for both horse and automobile racing.§!"
+ SIA_chula_chakrabongse: "Чула Чакрабонґсе"
+ SIA_chula_chakrabongse_leader_desc: "§YНародився:§! §L28 березня 1908 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!\n§YПередісторія:§! §LЧула Чакрабонґсе, напіукраїнський онук короля Рами V, був призначений королем Сіаму. Чула Чакрабонґсе жив ексцентричним дозвільним життям у Британії, а пізніше в Австрії, перш ніж стати королем, і делегував майже всі свої королівські обов'язки на користь своєї пристрасті до кінних та автомобільних перегонів.§!"
 
- SIA_paribatra_sukhumbhand: "Paribatra Sukhumbhand"
- SIA_paribatra_sukhumbhand_leader_desc: "§YBorn:§! §LJune 29th, 1881, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LParibatra Sukhumbhand, uncle to expected successor to the Siamese throne Ananda Mahidol, has seized control of the Siamese government, citing Ananda's inexperience and his age. With the full support of the Privy Council, he has crowned himself as King Rama IX, firmly establishing the Boripatr cadet branch as the new ruling house.§!"
- SIA_paribatra_sukhumbhand_sic_desc: "§YBorn:§! §LJune 29th, 1881, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_paribatra_sukhumbhand: "Парібатра Сукхумбханд"
+ SIA_paribatra_sukhumbhand_leader_desc: "§YНародився:§! §L29 червня 1881 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LПарібатра Сукхумбханд, дядько очікуваного наступника сіамського трону Ананди Махідола, захопив контроль над сіамським урядом, посилаючись на недосвідченість та вік Ананди. За повної підтримки Таємної ради він коронував себе як Рама IX, твердо утвердивши молодшу гілку Борипатру як новий правлячий дім.§!"
+ SIA_paribatra_sukhumbhand_sic_desc: "§YНародився:§! §L29 червня 1881 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_chumbhotbongs_paribatra: "Chumbhotbongs Paribatra"
- SIA_chumbhotbongs_paribatra_leader_desc: "§YBorn:§! §LDecember 5th, 1904, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!\n§YBackground:§! §LChumbhotbongs Paribatra, known by his regnal name Rama X, has succeeded his father, Rama IX, to the throne of Siam. Chumbhotbongs Paribatra is something of a recluse, but still politically competent. He is a known patron of the arts, having converted multiple state-owned properties into museums, and has personally sponsored many great artists both in Siam and abroad.§!"
+ SIA_chumbhotbongs_paribatra: "Чумпхотбонґс Парібатра"
+ SIA_chumbhotbongs_paribatra_leader_desc: "§YНародився:§! §L5 грудня 1904 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!\n§YПередісторія:§! §LЧумпхотбонґс Парібатра, відомий під своїм правлячим іменем Рама X, успадкував трон Сіаму від свого батька, Рами IX. Чумпхотбонґс Парібатра є дещо відлюдником, але все ж таки політично компетентний. Він відомий покровитель мистецтв, який перетворив численні державні об'єкти на музеї та особисто спонсорував багатьох великих митців як у Сіамі, так і за кордоном.§!"
 
- SIA_sukhumabhinanda: "Sukhumabhinanda"
- SIA_sukhumabhinanda_leader_desc: "§YBorn:§! §LDecember 15th, 1923, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!\n§YBackground:§! §LSukhumbhinanda, son of former King Paribatra Sukhumbhand (Rama IX) and a lowborn woman, was legitimised by his brother King Rama X due to the latter's inability to produce a male heir. He has ascended to the throne as Rama XI. Sukhumbhinanda is a prominent philanthropist whose efforts to relieve Bangkok's poorest have garnered him much publicity. With Sukhumbhinanda's ascension much of the remaining public discontent with the monarchy has dissipated.§!"
+ SIA_sukhumabhinanda: "Сукхумапхінанда"
+ SIA_sukhumabhinanda_leader_desc: "§YНародився:§! §L15 грудня 1923 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!\n§YПередісторія:§! §LСукхумапхінанда, син колишнього короля Парібатри Сукхумбханда (Рама IX) і жінки низького походження, був легітимізований своїм братом королем Рамою X через нездатність останнього народити спадкоємця чоловічої статі. Він зійшов на трон як Рама XI. Сукхумапхінанда є видатним філантропом, чиї зусилля зі звільнення найбідніших верств Бангкока принесли йому значну популярність. Зі сходженням Сукхумапхінанди більшість суспільного невдоволення, що залишилося до монархії, розвіялося.§!"
 
- SIA_supha_sirimanon: "Supha Sirimanon"
- SIA_supha_sirimanon_leader_desc: "§YBorn:§! §LJuly 15th, 1914, in Mueang Angthong, Monthon Ayutthaya, Kingdom of Siam§!\n§YBackground:§! §LJournalist, Poet, and now the new Premier of the Republic - Supha Sirimanon looked like an odd choice for the national leadership position at first. Within the leftist intelligentsia community though, he is more well-known under his pen name \"Jittin Thammachart\", and as the translator behind Das Kapital's Thai language publication.\n\nWhile an adherent of Classical Marxism at heart, Supha is a Pragmatist and viewed Planned Economy as the way forward - and that there's no way for the Workers and Capitalists to reconcile with each other.§!"
- SIA_supha_sirimanon_advisor_desc: "§YBorn:§! §LJuly 15th, 1914, in Mueang Angthong, Monthon Ayutthaya, Kingdom of Siam§!"
+ SIA_supha_sirimanon: "Супха Сіріманон"
+ SIA_supha_sirimanon_leader_desc: "§YНародився:§! §L15 липня 1914 року в Мианг-Ангтхонг, Монтон-Аюттхая, Королівство Сіам§!\n§YПередісторія:§! §LЖурналіст, поет, а тепер і новий прем'єр Республіки — Супха Сіріманон спершу здавався дивним вибором на посаду національного лідера. Однак у спільноті лівої інтелігенції він більш відомий під своїм псевдонімом «Джиттін Тхаммачарт» і як перекладач, який стоїть за публікацією «Капіталу» тайською мовою.\n\nБудучи прихильником класичного марксизму в душі, Супха є прагматиком і розглядає планову економіку як шлях уперед — і вважає, що робітники та капіталісти не можуть примиритися.§!"
+ SIA_supha_sirimanon_advisor_desc: "§YНародився:§! §L15 липня 1914 року в Мианг-Ангтхонг, Монтон-Аюттхая, Королівство Сіам§!"
 
- SIA_pridi_phanomyong: "Pridi Phanomyong"
- SIA_pridi_phanomyong_royal: "Luang Praditmanutham"
- SIA_pridi_phanomyong_leader_desc: "§YBorn:§! §LMay 11th, 1900, in Mueang Krungkao, Monthon Ayutthaya, Kingdom of Siam§!\n§YBackground:§! §LPridi Phanomyong, also known by his ministerial title 'Luang Praditmanutham', immediately set out to better the lives of the Siamese people upon his appointment as a minister. His controversial 'Yellow Cover Dossier' outlined his political and economic reform agenda and divided the Siamese government, but the controversy only served to further Pridi's political career.§!"
- SIA_pridi_phanomyong_victorious_leader_desc: "§YBorn:§! §LMay 11th, 1900, in Mueang Krungkao, Monthon Ayutthaya, Kingdom of Siam§!\n§YBackground:§! §LPridi Phanmoyong, previously known by his ministerial title 'Luang Praditmanutham', has become the Chairman of the Khanagummakarn Sapha Patiwat following a brief but bloody Siamese Civil War. Phanomyong's policies of economic nationalisation and radical parliamentarian reform may now continue, however challenges from more radical elements among Pridi's old-Sahachip Party members have grown significantly. Despite his popularity, Phanomyong struggles to maintain his authority even with his allies in the Navy.§!"
- SIA_pridi_phanomyong_sic_desc: "§YBorn:§! §LMay 11th, 1900, in Mueang Krungkao, Monthon Ayutthaya, Kingdom of Siam§!"
+ SIA_pridi_phanomyong: "Пріді Пханомйонґ"
+ SIA_pridi_phanomyong_royal: "Луанґ Прадітманутхам"
+ SIA_pridi_phanomyong_leader_desc: "§YНародився:§! §L11 травня 1900 року в Мианг-Крунгкао, Монтон-Аюттхая, Королівство Сіам§!\n§YПередісторія:§! §LПріді Пханомйонґ, також відомий під своїм міністерським титулом «Луанґ Прадітманутхам», одразу після призначення міністром почав працювати над покращенням життя сіамського народу. Його суперечливе «Жовте досьє» окреслило його політичну та економічну програму реформ і розділило сіамський уряд, але суперечка лише сприяла подальшій політичній кар'єрі Пріді.§!"
+ SIA_pridi_phanomyong_victorious_leader_desc: "§YНародився:§! §L11 травня 1900 року в Мианг-Крунгкао, Монтон-Аюттхая, Королівство Сіам§!\n§YПередісторія:§! §LПріді Пханомйонґ, раніше відомий під своїм міністерським титулом «Луанґ Прадітманутхам», став Головою Виконавчого комітету Революційної Ради (Khanagummakarn Sapha Patiwat) після нетривалої, але кровопролитної сіамської громадянської війни. Політика Пханомйонґа щодо економічної націоналізації та радикальної парламентської реформи тепер може бути продовжена, проте виклики з боку більш радикальних елементів серед колишніх членів партії «Сахачіп» (Sahachip) Пріді значно зросли. Попри свою популярність, Пханомйонґу важко зберегти свою владу навіть серед своїх союзників у військово-морському флоті.§!"
+ SIA_pridi_phanomyong_sic_desc: "§YНародився:§! §L11 травня 1900 року в Мианг-Крунгкао, Монтон-Аюттхая, Королівство Сіам§!"
 
- SIA_thawan_thamrongnawasawat: "Thawan Thamrongnawasawat"
- SIA_thawan_thamrongnawasawat_royal: "Luang Thamrongnawasawat"
- SIA_thawan_thamrongnawasawat_leader_desc: "§YBorn:§! §LNovember 21st, 1901, in Mueang Krungkao, Monthon Ayutthaya, Kingdom of Siam§!\n§YBackground:§! §LNicknamed the 'Golden-Tongue Statesman', Thawan is renowned for his public speaking and debating skills, which he fully exploits for his coalition building. As a champion of the grassroots, the ex-Admiral favours policies which helps the common people, such as price ceiling for household commodities and expansion of public welfare. However, these policies also put him at odds with the capitalists and the burgeoning Thai-Chinese middle class who are burdened with greater taxes.§!"
- # WIP
- SIA_thawan_thamrongnawasawat_sic_desc: "§YBorn:§! §LNovember 21st, 1901, in Mueang Krungkao, Monthon Ayutthaya, Kingdom of Siam§!"
+ SIA_thawan_thamrongnawasawat: "Тхаван Тхамронґнавасават"
+ SIA_thawan_thamrongnawasawat_royal: "Луанґ Тхамронґнавасават"
+ SIA_thawan_thamrongnawasawat_leader_desc: "§YНародився:§! §L21 листопада 1901 року в Мианг-Крунгкао, Монтон-Аюттхая, Королівство Сіам§!\n§YПередісторія:§! §LНазваний «Державним діячем із золотим язиком», Тхаван відомий своїми навичками публічних виступів та дебатів, які він повністю використовує для формування коаліцій. Як поборник інтересів низів, колишній адмірал віддає перевагу політиці, що допомагає простим людям, як-от встановлення цінової стелі для товарів домашнього вжитку та розширення суспільного добробуту. Однак ця політика також ставить його у конфлікт із капіталістами та новоявленим тайсько-китайським середнім класом, на який покладається більше податків.§!"
+ SIA_thawan_thamrongnawasawat_sic_desc: "§YНародився:§! §L21 листопада 1901 року в Мианг-Крунгкао, Монтон-Аюттхая, Королівство Сіам§!"
 
- SIA_pote_sarasin: "Pote Sarasin"
- SIA_pote_sarasin_leader_desc: "§YBorn:§! §LMarch 25th, 1905, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!\n§YBackground:§! §LA Thai-Chinese from upper middle-class background, Pote Sarasin's experience in the Ministry of Finance during the Black Monday has shaped his worldview. As fan of the Austrian economist Hayek and a strict adherence to the law, he is against the expansion of state-owned enterprises while trying to ensure the fair, free and open competition. Another policy of his being the expansion of higher education across the nation as a mean to reinvigorate the recovering local industries.§!"
- SIA_pote_sarasin_advisor_desc: "§YBorn:§! §LMarch 25th, 1905, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_pote_sarasin: "Поте Сарасін"
+ SIA_pote_sarasin_leader_desc: "§YНародився:§! §L25 березня 1905 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!\n§YПередісторія:§! §LПоте Сарасін, тайський китаєць із заможної родини середнього класу, чий світогляд сформував досвід роботи в Міністерстві фінансів під час Чорного понеділка. Як прихильник австрійського економіста Гаєка та суворий прихильник закону, він виступає проти розширення державних підприємств, намагаючись забезпечити чесну, вільну та відкриту конкуренцію. Іншим його пріоритетом є розширення вищої освіти по всій країні як засіб для пожвавлення місцевої промисловості, що відновлюється.§!"
+ SIA_pote_sarasin_advisor_desc: "§YНародився:§! §L25 березня 1905 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
- SIA_seni_pramoj: "Seni Pramoj"
- SIA_seni_pramoj_leader_desc: "§YBorn:§! §LMay 26th, 1905, in Mueang Nakhon Sawan, Monthon Nakhon Sawan, Kingdom of Siam§!\n§YBackground:§! §LAs a member of a cadet branch of the Chakri Dynasty with Chinese ancestry, Seni may appear as an odd choice of leader for a republican Siamese state. Despite that, this 'Young Viper' managed to gather enough political clout among the many conservative circles with his own political shrewdness rather than his familial connection to gain a working majority for the new government to function properly. His policy of 'Ngoen Phan' (Money Fluctuation) helps keep the rural area happy and secured from the Syndicalist hands. Whether if he only pays lip services to the republican causes, however, remains to be seen...§!"
- SIA_seni_pramoj_sic_desc: "§YBorn:§! §LMay 26th, 1905, in Mueang Nakhon Sawan, Monthon Nakhon Sawan, Kingdom of Siam§!"
+ SIA_seni_pramoj: "Сені Прамот"
+ SIA_seni_pramoj_leader_desc: "§YНародився:§! §L26 травня 1905 року в Мианг-Накхон-Саван, Монтон-Накхон-Саван, Королівство Сіам§!\n§YПередісторія:§! §LЯк член молодшої гілки династії Чакрі з китайським походженням, Сені може здатися дивним вибором лідера для республіканської сіамської держави. Попри це, цей «Молодий Гадюка» зумів зібрати достатній політичний вплив серед багатьох консервативних кіл завдяки власній політичній кмітливості, а не сімейним зв'язкам, щоб забезпечити робочу більшість для належного функціонування нового уряду. Його політика «Нгоен Пхан» (Коливання грошей) допомагає зберегти сільські райони задоволеними та убезпеченими від синдикалістських рук. Однак, чи надає він лише формальні послуги республіканським ідеалам, ще належить з'ясувати…§!"
+ SIA_seni_pramoj_sic_desc: "§YНародився:§! §L26 травня 1905 року в Мианг-Накхон-Саван, Монтон-Накхон-Саван, Королівство Сіам§!"
 
- SIA_plaek_phibunsongkhram: "Plaek Phibunsongkhram"
- SIA_plaek_phibunsongkhram_royal: "Luang Phibunsongkhram"
- SIA_plaek_phibunsongkhram_leader_desc: "§YBorn:§! §LJuly 14th, 1897, in Mueang Nonthaburi, Kingdom of Siam§!\n§YBackground:§! §LField Marshal Plaek Phibunsongkhram, more popularly known as 'Chormpon Por' by the locals and 'Phibun' in the West, the one-time ally of Pridi Phanmoyong and the People's Party has seized power following the Yellow Cover Dossier Affair. Together with Luang Wichitwathakarn and his allies in the military he has built his own cult of personality to side-line the Monarchy. He views the current state of Siam as an 'outdated relic of a bygone era' and intends to use his power to promote militarism and nationalism, proclaiming both to be additional essential principles of the modern nation.§!"
- SIA_plaek_phibunsongkhram_sic_desc: "§YBorn:§! §LJuly 14th, 1897, in Mueang Nonthaburi, Kingdom of Siam§!\n§YBackground:§! §LBorn as Plaek Kittasangkha from a Thai fruit orchard owner family, Phibun and his older brother Prakit started their Royal Siamese Army Cadet School in 1909. After graduation, he briefly served in the 7th Artillery Regiment (Phitsanulok), where he met his wife and the 1st Royal Guards Artillery Regiment before securing a Royal Scholarship to continue his study at k.u.k. Artillerie-Schießschule in Hajmáskér, Hungary and then at Theresianische Militärakademie in Wiener Neustadt, Austria. Not long after he returned to Siam, Phibun became known for his exploits in the Siamese Intervention in Burma 1928-1929 for the liberation of Moulmein and Dawei in Tenasserim - in which he was given his title, \"Luang Phibunsongkhram\" for his achievements. Through sheer charisma and personal connections with both the younger officers and the high command via Prince Pridi Debyabongs Devakula, his old superior - it is no surprise that he reached his current position at a relatively young age.§!\n\n§YNotes: His given name means \"Strange\" in Thai as his parents viewed the position of his ears at birth as weird, and thus usually preferred to be instead referred to by his initial character P (Por).§!"
+ SIA_plaek_phibunsongkhram: "Плек Пібунсонґкрам"
+ SIA_plaek_phibunsongkhram_royal: "Луанґ Пібунсонґкрам"
+ SIA_plaek_phibunsongkhram_leader_desc: "§YНародився:§! §L14 липня 1897 року в Мианг-Нонтхабурі, Королівство Сіам§!\n§YПередісторія:§! §LФельдмаршал Плек Пібунсонґкрам, більш відомий серед місцевих як «Чомпон Пор» і як «Пібун» на Заході, колишній союзник Пріді Пханомйонґа та Народної Партії, захопив владу після Справи «Жовтого досьє». Разом із Луанґом Вічітватхакарном та своїми союзниками у військових колах він створив власний культ особистості, щоб відсунути Монархію на другий план. Він розглядає поточний стан Сіаму як «застарілий пережиток минулої епохи» і має намір використати свою владу для просування мілітаризму та націоналізму, проголошуючи обидва додатковими основними принципами сучасної нації.§!"
+ SIA_plaek_phibunsongkhram_sic_desc: "§YНародився:§! §L14 липня 1897 року в Мианг-Нонтхабурі, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Плек Кіттасанґкха в сім'ї тайського власника фруктового саду, Пібун та його старший брат Пракіт розпочали навчання у Королівській сіамській армійській кадетській школі у 1909 році. Після закінчення він недовго служив у 7-му артилерійському полку (Пітсанулок), де зустрів свою дружину, та в 1-му артилерійському полку Королівської гвардії, перш ніж отримати Королівську стипендію для продовження навчання в k.u.k. Artillerie-Schießschule в Хаймашкерові, Угорщина, а потім у Терезіанській військовій академії у Вінер-Нойштадті, Австрія. Незабаром після повернення до Сіаму Пібун став відомим завдяки своїм подвигам під час Сіамської інтервенції в Бірмі 1928-1929 років для визволення Моулмейна та Давея в Тенассерімі, за які він отримав титул «Луанґ Пібунсонґкрам». Завдяки чистій харизмі та особистим зв'язкам як із молодшими офіцерами, так і з вищим командуванням через принца Пріді Деб'ябонґса Девакула, його старого начальника, не дивно, що він досяг своєї нинішньої посади у відносно молодому віці.§!\n\n§YПримітка: Його ім'я означає «Дивний» тайською мовою, оскільки його батьки вважали розташування його вух при народженні дивним, і тому він зазвичай волів, щоб його називали по ініціалу П. (Пор).§!"
 
- SIA_phao_sriyanond: "Phao Sriyanond"
- SIA_phao_sriyanond_leader_desc: "§YBorn:§! §LMarch 1st, 1910, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!\n§YBackground:§! §LPolice Chief Phao Sriyanond has succeeded Plaek Phibunsongkhram as leader of Siam's military regime with the support of the Soi Ratchakhru Clique. Phao is known for his brutality and political cunning, and his political opponents tend to 'disappear'. Phao also believes the Siamese monarchy to be an antiquated relic which impairs the cause of nationalism, and is thus an avowed Republican.§!"
- SIA_phao_sriyanond_sic_desc: "§YBorn:§! §LMarch 1st, 1910, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_phao_sriyanond: "Пхао Сріянонд"
+ SIA_phao_sriyanond_leader_desc: "§YНародився:§! §L1 березня 1910 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!\n§YПередісторія:§! §LНачальник поліції Пхао Сріянонд змінив Плека Пібунсонґкрама на посаді лідера військового режиму Сіаму за підтримки Кліки Сой Ратчакхру. Пхао відомий своєю жорстокістю та політичною хитрістю, а його політичні опоненти схильні «зникати». Пхао також вважає сіамську монархію застарілим пережитком, який перешкоджає справі націоналізму, і тому є переконаним республіканцем.§!"
+ SIA_phao_sriyanond_sic_desc: "§YНародився:§! §L1 березня 1910 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
- SIA_sarit_thanarat: "Sarit Thanarat"
- SIA_sarit_thanarat_leader_desc: "§YBorn:§! §LJune 16th, 1908, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!\n§YBackground:§! §LGeneral Sarit Thanarat has succeeded Plaek Phibunsongkhram as leader of Siam's military regime with the support of the Sisao Thawaet Clique. Originally a lowly officer in the Phayap Army, he quickly rose through the ranks with Plaek and Phin's help. An ardent anti-Syndicalist, he views the Monarchy as an important tool against the reds and as the focal point of Thai Nationalism.§!"
- SIA_sarit_thanarat_sic_desc: "§YBorn:§! §LJune 16th, 1908, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_sarit_thanarat: "Саріт Тханарат"
+ SIA_sarit_thanarat_leader_desc: "§YНародився:§! §L16 червня 1908 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!\n§YПередісторія:§! §LГенерал Саріт Тханарат змінив Плека Пібунсонґкрама на посаді лідера військового режиму Сіаму за підтримки Кліки Сисао Тхавает. Спочатку скромний офіцер армії Пхаяп, він швидко піднявся по службі за допомогою Плека та Пхіна. Затятий антисиндикаліст, він розглядає Монархію як важливий інструмент проти червоних і як координаційний центр тайського націоналізму.§!"
+ SIA_sarit_thanarat_sic_desc: "§YНародився:§! §L16 червня 1908 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
  ## Field Marshals/Generals
- SIA_boworadet_kridakorn: "Boworadet Kridakorn"
- SIA_boworadet_kridakorn_royal: "Prince Boworadet Kridakorn"
- SIA_boworadet_kridakorn_sic_desc: "§YBorn:§! §LApril 3rd, 1877, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LA grandson of King Mongkut/Rama IV, Boworadet completed his military studies overseas in the United Kingdom in 1898 while his father worked as the Siamese ambassador there. Not satisfied with his starting rank in the Royal Siamese Army, he went for another year at the School of Military Engineering in Chatham, the United Kingdom. However, with the pro-Entente military commanders quickly sidelined by the Siamese entrance to the Weltkrieg, it wouldn't be until 1928 when King Prajadhipok personally appointed him as the new Minister of Defence to shore up the king's support against the Siamese Supreme Council of State.§!\n\n§YNotes: Has a close relationship with King Prajadhipok and is known as a populist commander within the Army.§!"
+ SIA_boworadet_kridakorn: "Боворадет Крідакон"
+ SIA_boworadet_kridakorn_royal: "Принц Боворадет Крідакон"
+ SIA_boworadet_kridakorn_sic_desc: "§YНародився:§! §L3 квітня 1877 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LОнук короля Монгкута/Рами IV, Боворадет закінчив військові студії за кордоном у Сполученому Королівстві у 1898 році, поки його батько працював там сіамським послом. Не задоволений своїм початковим званням у Королівській сіамській армії, він провів ще один рік у Школі військової інженерії в Чатемі, Сполучене Королівство. Однак, коли провоєнні командири Антанти були швидко відсунуті на другий план через вступ Сіаму у Вельткріг, лише у 1928 році король Прачадіпок особисто призначив його новим Міністром оборони, щоб зміцнити підтримку короля проти Верховної державної ради Сіаму.§!\n\n§YПримітка: Має близькі стосунки з королем Прачадіпоком і відомий як командир-популіст в Армії.§!"
 
- SIA_jarun_seriroengrit: "Jarun Rattanakul Seriroengrit"
- SIA_jarun_seriroengrit_royal: "Luang Seriroengrit"
- SIA_jarun_seriroengrit_high_command_desc: "§YBorn:§! §LOctober 27th, 1895, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LA scion in the house of Rattanakul, whose family's history can be traced to the Ayutthaya period, Jarun entered the Royal Siamese Army Cadet School in 1907 and graduated with the highest score. Jarun quickly climbed up through the ranks as the protégé of Prince Purachatra Jayakara, Father of the Siamese Railway and Wireless Communication, in the Royal Siamese Army's Department of Engineering.\n\nJarun's name came to the forefront during the Siamese Intervention in Burma 1928-1929 when units under his Phayap Army command \"liberated\" the Shan states up to the Salween River defensive line, where better supply train and fast communication proved to be the decisive factor in the rugged terrain.§!\n\n§YNotes: His wife, Erb Rattanakul Seriroengrit, allegedly hired a gunman to assassinate Phibun's first mistress, Rujee Uthaikorn, but failed. The couple claimed in court that they only knew Phibun had one, but not whom.§!"
+ SIA_jarun_seriroengrit: "Джарун Раттанакул Серірьонґріт"
+ SIA_jarun_seriroengrit_royal: "Луанґ Серірьонґріт"
+ SIA_jarun_seriroengrit_high_command_desc: "§YНародився:§! §L27 жовтня 1895 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LНащадок дому Раттанакул, чия сімейна історія простежується до періоду Аюттхаї, Джарун вступив до Королівської сіамської армійської кадетської школи у 1907 році та закінчив її з найвищим балом. Джарун швидко піднявся по службі як протеже принца Пурачатри Джаякари, Батька сіамських залізниць та бездротового зв'язку, у Департаменті інженерії Королівської сіамської армії.\n\nІм'я Джаруна вийшло на перший план під час Сіамської інтервенції в Бірмі 1928-1929 років, коли підрозділи під його командуванням армії Пхаяп «визволили» Шанські держави аж до оборонної лінії річки Салуїн, де краще забезпечення та швидкий зв'язок виявилися вирішальними факторами на пересіченій місцевості.§!\n\n§YПримітка: Його дружина, Ерб Раттанакул Серірьонґріт, нібито найняла бойовика для вбивства першої коханки Пібуна, Руджі Утхайкорн, але невдало. Подружжя стверджувало в суді, що вони знали лише про існування коханки Пібуна, але не знали, хто вона.§!"
 
- SIA_phot_phahonyothin: "Phot Phahonyothin"
- SIA_phot_phahonyothin_royal: "Phraya Phahonphonpayuhasena"
- SIA_phot_phahonyothin_sic_desc: "§YBorn:§! §LMarch 29th, 1887, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LBorn as Phot Phahonyothin to a Thai-Teochew Chinese father, Colonel Kim Phahonyothin, and a Thai-Mon mother, Chap Phahonyothin. Phahon entered the Royal Siamese Army Cadet School in 1901 and graduated with the highest score. He was later sent by Royal Scholarship to study at the Kadettenschule in Potsdam, then Royal Prussian Main Cadet Institute at Groß-Lichterfelde in Berlin, where he became a classmate of the would-be German flying ace Hermann von Göring and an acquaintance of Japanese general Hideki Tojo through sword duel. Phahon continued his studies at the Engineering College of Copenhagen in Denmark. However, he only managed to study there for one year before being forced to return to Siam in 1912 as his scholarship fund ran out.\n\nPhraya Phahonphonpayuhasena (Phot Phahonyothin) later acted as a founding core member of the \"The Musketeers\", the influential clique of post-Weltkrieg officers, with Phahon himself serving as the Deputy Inspector of Artillery.§!\n\n§YNotes: Is an upright person, perhaps too much, since he expects everyone to treat him the same way he does to others and is quite shy to strangers in general.§!"
+ SIA_phot_phahonyothin: "Пхот Пхахонйотхін"
+ SIA_phot_phahonyothin_royal: "Пхрая Пхахонпхонпхаюхасена"
+ SIA_phot_phahonyothin_sic_desc: "§YНародився:§! §L29 березня 1887 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Пхот Пхахонйотхін у сім'ї тайсько-теохьюського китайця, полковника Кіма Пхахонйотхіна, та тайсько-монської матері, Чап Пхахонйотхін. Пхахон вступив до Королівської сіамської армійської кадетської школи у 1901 році та закінчив її з найвищим балом. Пізніше він був відправлений за Королівською стипендією на навчання до Kadettenschule в Потсдамі, потім до Головного королівського прусського кадетського інституту у Гросс-Ліхтерфельде в Берліні, де став однокласником майбутнього німецького аса Германа фон Герінга та знайомим японського генерала Хідекі Тодзьо через фехтувальний поєдинок. Пхахон продовжив навчання в Інженерному коледжі Копенгагена в Данії. Проте він провчився там лише один рік, перш ніж був змушений повернутися до Сіаму у 1912 році, оскільки його стипендіальний фонд вичерпався.\n\nПхрая Пхахонпхонпхаюхасена (Пхот Пхахонйотхін) пізніше був одним із засновників «Мушкетерів», впливової кліки офіцерів після Вельткрігу, причому сам Пхахон обіймав посаду заступника інспектора артилерії.§!\n\n§YПримітка: Він чесна людина, можливо, занадто, оскільки очікує, що всі ставитимуться до нього так само, як він ставиться до інших, і загалом досить сором'язливий із незнайомцями.§!"
 
- SIA_din_tharab: "Din Tharab"
- SIA_din_tharab_royal: "Phraya Srisitthisongkhram"
- SIA_din_tharab_army_chief_desc: "§YBorn:§! §LMay 10th, 1891, in Mueang Phetchaburi, Kingdom of Siam§!\n§YBackground:§! §LBorn as Din Tharab in a middle-class farming family. Din entered the Royal Siamese Army Cadet School in 1901 and graduated with the highest score. He was later sent by Royal Scholarship to study at the Kadettenschule in Potsdam, then Royal Prussian Main Cadet Institute at Groß-Lichterfelde, in Berlin, along with Cadet Phot Phahonyothin (Phraya Phahonphonpayuhasena) before returning to Siam in 1914. Though supportive of democratic reform, Din remained a staunch royalist and detested any attempt to achieve regime change forcefully.\n\nPhraya Srisitthisongkhram (Din Tharab) later acted as a founding core member of \"The Musketeers\", the influential clique of post-Weltkrieg officers, with Din himself serving as the 1st Army's Chief of Staff.§!\n\n§YNotes: Fan of German literature in general, with complete collections of both Friedrich Schiller and Johann Wolfgang von Goethe's work in his home.§!"
+ SIA_din_tharab: "Дін Тхараб"
+ SIA_din_tharab_royal: "Пхрая Сісітхісонгкрам"
+ SIA_din_tharab_army_chief_desc: "§YНародився:§! §L10 травня 1891 року в Мианг-Пхетчабурі, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Дін Тхараб у сім'ї фермерів середнього класу. Дін вступив до Королівської сіамської армійської кадетської школи у 1901 році та закінчив її з найвищим балом. Пізніше він був відправлений за Королівською стипендією на навчання до Kadettenschule в Потсдамі, потім до Головного королівського прусського кадетського інституту у Гросс-Ліхтерфельде, в Берліні, разом із кадетом Пхотом Пхахонйотхіном (Пхрая Пхахонпхонпхаюхасена), перш ніж повернутися до Сіаму у 1914 році. Хоча Дін підтримував демократичні реформи, він залишався стійким роялістом і зневажав будь-які спроби насильницької зміни режиму.\n\nПхрая Сісітхісонгкрам (Дін Тхараб) пізніше був одним із засновників «Мушкетерів», впливової кліки офіцерів після Вельткрігу, причому сам Дін обіймав посаду начальника штабу 1-ї армії.§!\n\n§YПримітка: Шанувальник німецької літератури загалом, із повними колекціями творів як Фрідріха Шиллера, так і Йоганна Вольфганга фон Гете у своєму домі.§!"
 
- SIA_sala_emasiri: "Sala Emasiri"
- SIA_sala_emasiri_royal: "Phrayra Rithhi-arkaney"
- SIA_sala_emasiri_army_chief_desc: "§YBorn:§! §LJanuary 14th, 1889, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LBorn as Sala Emasiri in a military family. Sala entered the Royal Siamese Army Cadet School in 1903 and graduated at the top of the class. Sala was serving as the Deputy Commander of the 8th Artillery Regiment in Nakhon Ratchasima when Siam entered the Weltkrieg, serving with distinction during the war on the Indochinese Front.\n\nPhrayra Rithhi-arkaney (Sala Emasiri) was later inducted as a core member of the \"The Musketeers\", the influential clique post-Weltkrieg officers, with Sala himself serving as the Commander of the 1st Royal Artillery Regiment in Bangkok, being the group's sole key member who has not studied in the German Empire.§!\n\n§YNotes: Devout Theravada Buddhist. His father, Siri Emasiri/Phraya Manusarasart Buncha, was also known as a great poet with his rendition of Ramakien (Thai Ramayana) epic etched into the walls of Wat Phra Kaew.§!"
+ SIA_sala_emasiri: "Сала Емасірі"
+ SIA_sala_emasiri_royal: "Пхрая Рітхі-арканей"
+ SIA_sala_emasiri_army_chief_desc: "§YНародився:§! §L14 січня 1889 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Сала Емасірі у військовій сім'ї. Сала вступив до Королівської сіамської армійської кадетської школи у 1903 році та закінчив її з відзнакою. Сала служив заступником командира 8-го артилерійського полку в Накхонратчасімі, коли Сіам вступив у Вельткріг, і відзначився під час війни на Індокитайському фронті.\n\nПхрая Рітхі-арканей (Сала Емасірі) пізніше був включений як основний член «Мушкетерів», впливової кліки офіцерів після Вельткрігу, причому сам Сала служив командиром 1-го королівського артилерійського полку в Бангкоку, будучи єдиним ключовим членом групи, який не навчався в Німецькій імперії.§!\n\n§YПримітка: Набожний буддист Тхеравади. Його батько, Сірі Емасірі/Пхрая Манусарасарт Бунча, також був відомий як великий поет, чия інтерпретація епосу «Рамакх'єн» (тайська Рамаяна) викарбувана на стінах Ват Пхра Кео.§!"
 
- SIA_wan_chuthin: "Wan Chuthin"
- SIA_wan_chuthin_royal: "Luang Prasartpitthayayuth"
- SIA_wan_chuthin_army_chief_desc: "§YBorn:§! §LJune 9th, 1894, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LBorn as Wan Chuthin to a Thai-Teochew Chinese father, Judge Euan Chuthin, and a Thai mother, Wong Chuthin. Wan entered the Royal Siamese Army Cadet School in 1908 and graduated with the fifth-highest score. He was later sent by Royal Scholarship to study at the Kadettenschule in Potsdam, then Royal Prussian Main Cadet Institute at Groß-Lichterfelde in Berlin, though the start of the Weltkrieg forced him and many Thai cadets to relocate to Eidgenössische Technische Hochschule Zürich in Switzerland instead where he first learned about the Swiss Democracy. Following the Siamese entrance into the war, Wan applied for a military attaché position in Berlin and briefly served as the vice-commander of the small Royal Siamese Army contingent in Europe before returning to Siam in 1921.\n\nLuang Prasartpitthayayuth (Wan Chuthin) later acted as a founding core member of the \"The Musketeers\", the influential clique post-Weltkrieg officers, with Wan himself serving as the Director of the General Staff College.§!\n\n§YNotes: Has a close relationship with Prince Paribatra Sukhumbandhu, his sponsor and one of the \"Pro-German Triumvirate\" princes, and thus considered the Prince's protégé.§!"
+ SIA_wan_chuthin: "Ван Чутхін"
+ SIA_wan_chuthin_royal: "Луанґ Прасартпіттхаяют"
+ SIA_wan_chuthin_army_chief_desc: "§YНародився:§! §L9 червня 1894 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Ван Чутхін у сім'ї тайсько-теохьюського китайця, судді Еуана Чутхіна, та тайської матері, Вонґ Чутхін. Ван вступив до Королівської сіамської армійської кадетської школи у 1908 році та закінчив її з п'ятим найвищим балом. Пізніше він був відправлений за Королівською стипендією на навчання до Kadettenschule в Потсдамі, потім до Головного королівського прусського кадетського інституту у Гросс-Ліхтерфельде в Берліні, хоча початок Вельткрігу змусив його та багатьох тайських кадетів переїхати до Швейцарської вищої технічної школи Цюріха, де він вперше дізнався про швейцарську демократію. Після вступу Сіаму у війну Ван подав заявку на посаду військового аташе в Берліні та недовго служив віцекомандиром невеликого контингенту Королівської сіамської армії в Європі, перш ніж повернутися до Сіаму у 1921 році.\n\nЛуанґ Прасартпіттхаяют (Ван Чутхін) пізніше був одним із засновників «Мушкетерів», впливової кліки офіцерів після Вельткрігу, причому сам Ван обіймав посаду директора Коледжу Генерального штабу.§!\n\n§YПримітка: Має близькі стосунки з принцом Парібатрою Сукхумбандом, його спонсором та одним із принців «Пронімецького тріумвірату», і тому вважається протеже принца.§!"
 
- SIA_phin_choonhavan: "Phin Choonhavan"
- SIA_phin_choonhavan_royal: "Luang Chumnanyutthasart"
- SIA_phin_choonhavan_army_chief_desc: "§YBorn:§! §LOctober 14th, 1891, in Mueang Samut Songkhram, Kingdom of Siam§!\n§YBackground:§! §LBorn to a family of Thai fruit orchard owners, Phin graduated from the Royal Siamese Army Cadet School with high distinction and was one with the quickest promotion to Major rank in his mid-thirties through his sheer will. He graduated from the same RSCAS class as Phibun and greatly respects him. He is considered one of Phibun's most prominent supporters as he is next in line for the 3rd Military Region (Isan/Northeast) commander.§!\n\n§YNotes: Loves his nation equally as much as his fruit orchard; known to occasionally give flowers he planted himself as gifts with hidden meanings.§!"
+ SIA_phin_choonhavan: "Пхін Чунхаван"
+ SIA_phin_choonhavan_royal: "Луанґ Чумнам'юттхасарт"
+ SIA_phin_choonhavan_army_chief_desc: "§YНародився:§! §L14 жовтня 1891 року в Мианг-Самут-Сонґкхрам, Королівство Сіам§!\n§YПередісторія:§! §LНароджений у сім'ї тайських власників фруктових садів, Пхін закінчив Королівську сіамську армійську кадетську школу з великою відзнакою і був одним із тих, хто найшвидше отримав звання майора у свої тридцяті роки завдяки своїй рішучості. Він закінчив той самий клас RSCAS, що й Пібун, і дуже його поважає. Він вважається одним із найвидатніших прихильників Пібуна, оскільки є наступним у черзі на посаду командира 3-го військового округу (Ісан/Північний Схід).§!\n\n§YПримітка: Любить свою націю так само, як і свій фруктовий сад; відомий тим, що час від часу дарує квіти, які він сам посадив, із прихованим змістом.§!"
 
- SIA_thep_panthumasaen: "Thep Phanthumasaen"
- SIA_thep_panthumasaen_royal: "Phraya Songsuradet"
- SIA_thep_panthumasaen_army_chief_desc: "§YBorn:§! §LAugust 12th, 1892, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!\n§YBackground:§! §LBorn as Thep Phanthumasaen in a military family. Wan entered the Royal Siamese Army Cadet School in 1904 and graduated with the highest score. It was in the RSACS that he first noticed the treatment gap between the aristocrat and commoner among the cadets. Songsuradet was later sent by Royal Scholarship to study at the Preußische Kriegsakademie in Berlin. He then entered military service as an army engineer in Magdeburg before returning to Siam in 1915, living in the German Empire for eight years. Songsuradet briefly saw combat during the Weltkrieg on the Indochinese Front before serving as the Chief Engineer who played a huge role in the Siamese railway construction nationwide, with one of his biggest achievements being the 1.3km-long Khun Tan Tunnel, which connected Chiang Mai to the rest of the country.\n\nPhraya Songsuradet (Thep Phanthumasaen) later acted as a founding core member of the \"The Musketeers\", the influential clique post-Weltkrieg officers, with Songsuradet himself serving as the Chief of Directorate of Operations, as well as the Chief of Education at the RCACS.§!\n\n§YNotes: Often clashes with Phibun on most topics, also an avid dog lover.§!"
+ SIA_thep_panthumasaen: "Тхеп Пхантхумасен"
+ SIA_thep_panthumasaen_royal: "Пхрая Сонґсурадет"
+ SIA_thep_panthumasaen_army_chief_desc: "§YНародився:§! §L12 серпня 1892 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Тхеп Пхантхумасен у військовій сім'ї. Ван вступив до Королівської сіамської армійської кадетської школи у 1904 році та закінчив її з найвищим балом. Саме в RSACS він вперше помітив різницю в ставленні до аристократів і простолюдинів серед кадетів. Пізніше Сонґсурадет був відправлений за Королівською стипендією на навчання до Preußische Kriegsakademie в Берліні. Потім він вступив на військову службу як армійський інженер у Магдебурзі, перш ніж повернутися до Сіаму у 1915 році, проживши у Німецькій імперії вісім років. Сонґсурадет недовго брав участь у бойових діях під час Вельткрігу на Індокитайському фронті, перш ніж служити головним інженером, який відіграв величезну роль у будівництві сіамських залізниць по всій країні, причому одним із його найбільших досягнень був тунель Кхун Тан завдовжки 1,3 км, який з'єднав Чіангмай із рештою країни.\n\nПхрая Сонґсурадет (Тхеп Пхантхумасен) пізніше був одним із засновників «Мушкетерів», впливової кліки офіцерів після Вельткрігу, причому сам Сонґсурадет обіймав посаду начальника Управління операцій, а також начальника освіти в RCACS.§!\n\n§YПримітка: Часто конфліктує з Пібуном з більшості тем, а також є затятим любителем собак.§!"
 
- SIA_adul_adulyadejchrat: "Adul Adulyadejarat"
- SIA_adul_adulyadejchrat_royal: "Luang Adulyadejchrat"
+ SIA_adul_adulyadejchrat: "Адул Адульядетчарат"
+ SIA_adul_adulyadejchrat_royal: "Луанґ Адульядетчарат"
  # WIP
- SIA_adul_adulyadejchrat_army_chief_desc: "§YBorn:§! §LJune 28th, 1894, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_adul_adulyadejchrat_army_chief_desc: "§YНародився:§! §L28 червня 1894 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_pichit_kriengsakpichit: "Pichit Kriengsakpichit"
- SIA_pichit_kriengsakpichit_royal: "Luang Kriengsakpichit"
+ SIA_pichit_kriengsakpichit: "Пічіт Кріенґсакпічіт"
+ SIA_pichit_kriengsakpichit_royal: "Луанґ Кріенґсакпічіт"
  # WIP; Phra Pradaeng Province's old name
- SIA_pichit_kriengsakpichit_army_chief_desc: "§YBorn:§! §LJuly 20th, 1896, in Mueang Nakhon Khuean Khan, Kingdom of Siam§!"
+ SIA_pichit_kriengsakpichit_army_chief_desc: "§YНародився:§! §L20 липня 1896 року в Мианг-Накхон-Кхуен-Кхан, Королівство Сіам§!"
 
- SIA_karj_karjsongkhram: "Karj Karjsongkhram"
- SIA_karj_karjsongkhram_royal: "Luang Karjsongkhram"
- SIA_karj_karjsongkhram_commander_desc: "§YBorn:§! §LApril 12th, 1890, in Princedom of Nakhon Lamphunchai, Kingdom of Siam§!\n§YBackground:§! §LBorn as Tian Kengradomying, Karj entered the Royal Siamese Army Cadet School before serving in the Phayap Army with an average performance. He later moved to Bangkok after finishing the Royal Siamese General Staff College to sit in military procurement commissions for the post-Burmese Intervention Royal Siamese Reform Plan of 2473 B.E. - thus wielding bigger influence than his title shown to be.§!\n\n§YNotes: He is known to be quite aloof and often butt heads with those under his command, also for having at least 5 mistresses at once.§!"
+ SIA_karj_karjsongkhram: "Кардж Кардсонґкрам"
+ SIA_karj_karjsongkhram_royal: "Луанґ Кардсонґкрам"
+ SIA_karj_karjsongkhram_commander_desc: "§YНародився:§! §L12 квітня 1890 року в Князівстві Накхон-Лампхунчай, Королівство Сіам§!\n§YПередісторія:§! §LНароджений як Тіан Кенґрадом'їнґ, Кардж вступив до Королівської сіамської армійської кадетської школи, перш ніж служити в армії Пхаяп із середньою успішністю. Пізніше він переїхав до Бангкока після закінчення Королівського сіамського коледжу Генерального штабу, щоб засідати в комісіях із військових закупівель для Плану реформ Королівства Сіам 2473 року Б. Е. після інтервенції у Бірмі, таким чином, маючи більший вплив, ніж показує його титул.§!\n\n§YПримітка: Він досить відчужений і часто сперечається з підлеглими, а також відомий тим, що одночасно має щонайменше 5 коханок.§!"
 
- SIA_mangkorn_promyothee: "Mangkorn Promyothee"
- SIA_mangkorn_promyothee_royal: "Luang Promyothee"
+ SIA_mangkorn_promyothee: "Манґкорн Промйотхі"
+ SIA_mangkorn_promyothee_royal: "Луанґ Промйотхі"
  # WIP
- SIA_mangkorn_promyothee_commander_desc: "§YBorn:§! §LNovember 16th, 1896, in Mueang Thonburi, Kingdom of Siam§!"
+ SIA_mangkorn_promyothee_commander_desc: "§YНародився:§! §L16 листопада 1896 року в Мианг-Тхонбурі, Королівство Сіам§!"
 
  ## Admirals
- SIA_sindhu_kamolnawin: "Sindhu Kamolnawin"
- SIA_sindhu_kamolnawin_royal: "Luang Sinthusongkhramchai"
+ SIA_sindhu_kamolnawin: "Сіндху Камолнавін"
+ SIA_sindhu_kamolnawin_royal: "Луанґ Сінтхусонґкрамчай"
  # WIP
- SIA_sindhu_kamolnawin_navy_chief_desc: "§YBorn:§! §LJune 23rd, 1901, in Mueang Samut Sakhon, Monthon Nakhon Chaisi, Kingdom of Siam§!"
+ SIA_sindhu_kamolnawin_navy_chief_desc: "§YНародився:§! §L23 червня 1901 року в Мианг-Самут-Сакхон, Монтон-Накхон-Чайсі, Королівство Сіам§!"
 
- SIA_thongdee_suwanprueng: "Thongdee Suwanprueng"
- SIA_thongdee_suwanprueng_royal: "Phraya Witchitchollatee"
+ SIA_thongdee_suwanprueng: "Тхонґді Суванпхреунґ"
+ SIA_thongdee_suwanprueng_royal: "Пхрая Вітчітчоллатхі"
  # WIP
- SIA_thongdee_suwanprueng_navy_chief_desc: "§YBorn:§! §LOctober 23rd, 1890, in Mueang Thonburi, Kingdom of Siam§!"
+ SIA_thongdee_suwanprueng_navy_chief_desc: "§YНародився:§! §L23 жовтня 1890 року в Мианг-Тхонбурі, Королівство Сіам§!"
 
- SIA_bunchai_sawathasuk: "Bunchai Sawathasuk"
- SIA_bunchai_sawathasuk_royal: "Phraya Wicharnjakkich"
+ SIA_bunchai_sawathasuk: "Бунчай Саваттхасук"
+ SIA_bunchai_sawathasuk_royal: "Пхрая Вічарнджаккіч"
  # WIP
- SIA_bunchai_sawathasuk_navy_chief_desc: "§YBorn:§! §LJune 17th, 1890, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_bunchai_sawathasuk_navy_chief_desc: "§YНародився:§! §L17 червня 1890 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_mongkol_mongkolnawin: "Mongkol Mongkolnawin"
- SIA_mongkol_mongkolnawin_royal: "Phra Mongkolnavavuth"
+ SIA_mongkol_mongkolnawin: "Монґкол Монґколнавін"
+ SIA_mongkol_mongkolnawin_royal: "Пхра Монґколнававутх"
  # WIP
- SIA_mongkol_mongkolnawin_navy_chief_desc: "§YBorn:§! §LNovember 1st, 1894, in Mueang Nonthaburi, Kingdom of Siam§!"
+ SIA_mongkol_mongkolnawin_navy_chief_desc: "§YНародився:§! §L1 листопада 1894 року в Мианг-Нонтхабурі, Королівство Сіам§!"
 
- SIA_prayoon_yutthasartkosol: "Prayoon Yutthasartkosol"
- SIA_prayoon_yutthasartkosol_royal: "Luang Yutthasartkosol"
- SIA_prayoon_yutthasartkosol_high_command_desc: "§YBorn:§! §LOctober 19th, 1893, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_prayoon_yutthasartkosol: "Праюнґ Юттхасарткосол"
+ SIA_prayoon_yutthasartkosol_royal: "Луанґ Юттхасарткосол"
+ SIA_prayoon_yutthasartkosol_high_command_desc: "§YНародився:§! §L19 жовтня 1893 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
  ## Air Chiefs
- SIA_boonjeam_komolmit: "Boonjeam Komolmit"
- SIA_boonjeam_komolmit_royal: "Luang Athuekthewadet"
- SIA_boonjeam_komolmit_air_chief_desc: "§YBorn:§! §LAugust 2nd, 1897, in Mueang Nakhon Chaisi, Monthon Nakhon Chaisi, Kingdom of Siam§!"
+ SIA_boonjeam_komolmit: "Бунчіам Комолміт"
+ SIA_boonjeam_komolmit_royal: "Луанґ Атхуектхевадет"
+ SIA_boonjeam_komolmit_air_chief_desc: "§YНародився:§! §L2 серпня 1897 року в Мианг-Накхон-Чайсі, Монтон-Накхон-Чайсі, Королівство Сіам§!"
 
- SIA_long_sinsuk: "Long Sinsuk"
- SIA_long_sinsuk_royal: "Phraya Vehasayarnsilpasit"
- SIA_long_sinsuk_air_chief_desc: "§YBorn:§! §LOctober 5th, 1887, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_long_sinsuk: "Лонґ Сінсук"
+ SIA_long_sinsuk_royal: "Пхрая Вехасаярнсілпасіт"
+ SIA_long_sinsuk_air_chief_desc: "§YНародився:§! §L5 жовтня 1887 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_munee_mahasantana: "Munee Mahasantana"
- SIA_munee_mahasantana_royal: "Phra Vejayantrungsarit"
- SIA_munee_mahasantana_air_chief_desc: "§YBorn:§! §LMarch 25th, 1892, in Mueang Thonburi, Kingdom of Siam§!"
+ SIA_munee_mahasantana: "Муні Махасантана"
+ SIA_munee_mahasantana_royal: "Пхра Вечаянтрунґсаріт"
+ SIA_munee_mahasantana_air_chief_desc: "§YНародився:§! §L25 березня 1892 року в Мианг-Тхонбурі, Королівство Сіам§!"
 
- SIA_sunee_suwanprateep: "Sunee Suwanprateep"
- SIA_sunee_suwanprateep_royal: "Phraya Chalermarkart"
- SIA_sunee_suwanprateep_air_chief_desc: "§YBorn:§! §LApril 26th, 1887, in Mueang Suphanburi, Kingdom of Siam§!"
+ SIA_sunee_suwanprateep: "Суні Суванпратіп"
+ SIA_sunee_suwanprateep_royal: "Пхрая Чалермкарт"
+ SIA_sunee_suwanprateep_air_chief_desc: "§YНародився:§! §L26 квітня 1887 року в Мианг-Супханбурі, Королівство Сіам§!"
 
- SIA_thip_ketuthat: "Thip Ketuthat"
- SIA_thip_ketuthat_royal: "Phraya Tayarnpikart"
- SIA_thip_ketuthat_air_chief_desc: "§YBorn:§! §LFebruary 23rd, 1887, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_thip_ketuthat: "Тхіп Кетутхат"
+ SIA_thip_ketuthat_royal: "Пхрая Таярнпікарт"
+ SIA_thip_ketuthat_air_chief_desc: "§YНародився:§! §L23 лютого 1887 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
  ## Seconds in Command
- SIA_kon_hutasingha: "Kon Hutasingha"
- SIA_kon_hutasingha_royal: "Phraya Manopakorn Nitithada"
- SIA_kon_hutasingha_sic_desc: "§YBorn:§! §LJuly 15th, 1884, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_kon_hutasingha: "Кон Хутхасінгха"
+ SIA_kon_hutasingha_royal: "Пхрая Манопакорн Нітітхада"
+ SIA_kon_hutasingha_sic_desc: "§YНародився:§! §L15 липня 1884 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_pramarn_adireksarn: "Pramarn Adireksarn"
- SIA_pramarn_adireksarn_sic_desc: "§YBorn:§! §LDecember 31st, 1913, in Mueang Saraburi, Monthon Ayutthaya, Kingdom of Siam§!"
+ SIA_pramarn_adireksarn: "Прамарн Адірексарн"
+ SIA_pramarn_adireksarn_sic_desc: "§YНародився:§! §L31 грудня 1913 року в Мианг-Сарабурі, Монтон-Аюттхая, Королівство Сіам§!"
 
- SIA_sawaet_piampongsarn: "Sawaet Piampongsarn"
- SIA_sawaet_piampongsarn_sic_desc: "§YBorn:§! §LFebruary 26th, 1909, in Mueang Rayong, Monthon Chanthaburi, Kingdom of Siam§!"
+ SIA_sawaet_piampongsarn: "Савет Пхіампонґсарн"
+ SIA_sawaet_piampongsarn_sic_desc: "§YНародився:§! §L26 лютого 1909 року в Мианг-Районґ, Монтон-Чантхабурі, Королівство Сіам§!"
 
  ## Political
- SIA_tiang_sirikhanth: "Tiang Sirikhanth"
- SIA_tiang_sirikhanth_advisor_desc: "§YBorn:§! §LDecember 5th, 1909, in Mueang Sakon Nakhon, Monthon Udon, Kingdom of Siam§!"
+ SIA_tiang_sirikhanth: "Тіанґ Сірікханґтх"
+ SIA_tiang_sirikhanth_advisor_desc: "§YНародився:§! §L5 грудня 1909 року в Мианг-Сакон-Накхон, Монтон-Удон, Королівство Сіам§!"
 
- SIA_wan_waithayakon: "Wan Waithayakon"
- SIA_wan_waithayakon_royal: "Prince Wan Waithayakon"
- SIA_wan_waithayakon_advisor_desc: "§YBorn:§! §LAugust 25th, 1891, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_wan_waithayakon: "Ван Вайтхаякон"
+ SIA_wan_waithayakon_royal: "Принц Ван Вайтхаякон"
+ SIA_wan_waithayakon_advisor_desc: "§YНародився:§! §L25 серпня 1891 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_wichit_wichitwathakan: "Wichit Wichitwathakan"
- SIA_wichit_wichitwathakan_royal: "Luang Wichitwathakan"
- SIA_wichit_wichitwathakan_advisor_desc: "§YBorn:§! §LAugust 11th, 1898, in Mueang Uthai Thani, Monthon Nakhon Sawan, Kingdom of Siam§!"
+ SIA_wichit_wichitwathakan: "Вічіт Вічітватхакан"
+ SIA_wichit_wichitwathakan_royal: "Луанґ Вічітватхакан"
+ SIA_wichit_wichitwathakan_advisor_desc: "§YНародився:§! §L11 серпня 1898 року в Мианг-Утхай-Тхані, Монтон-Накхон-Саван, Королівство Сіам§!"
 
  ## Economic
- SIA_mangkorn_samsen: "Mangkorn Samsen"
- SIA_mangkorn_samsen_advisor_desc: "§YBorn:§! §LJuly 3rd, 1888, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_mangkorn_samsen: "Манґкорн Самсен"
+ SIA_mangkorn_samsen_advisor_desc: "§YНародився:§! §L3 липня 1888 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_sun_kijjumnong: "Sun Kijjumnong"
- SIA_sun_kijjumnong_advisor_desc: "§YBorn:§! §L1898, in the Kingdom of Siam§!"
+ SIA_sun_kijjumnong: "Сун Кіджжумнонґ"
+ SIA_sun_kijjumnong_advisor_desc: "§YНародився:§! §L1898 року в Королівстві Сіам§!"
 
- SIA_wichit_lulitanon: "Wichit Lulitanon"
- SIA_wichit_lulitanon_advisor_desc: "§YBorn:§! §LJune 30th, 1906, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_wichit_lulitanon: "Вічіт Лулітанон"
+ SIA_wichit_lulitanon_advisor_desc: "§YНародився:§! §L30 червня 1906 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
- SIA_wisuth_tonwanik: "Wisuth Tonwanik"
- SIA_wisuth_tonwanik_royal: "Phraya Tonwanikmontri"
- SIA_wisuth_tonwanik_advisor_desc: "§YBorn:§! §LMarch 1st, 1894, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_wisuth_tonwanik: "Вісутх Тонванік"
+ SIA_wisuth_tonwanik_royal: "Пхрая Тонванікмонтрі"
+ SIA_wisuth_tonwanik_advisor_desc: "§YНародився:§! §L1 березня 1894 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
  ## Research
- SIA_jira_wichitsongkhram: "Jira Wichitsongkhram"
- SIA_jira_wichitsongkhram_royal: "Luang Wichitsongkhram"
- SIA_jira_wichitsongkhram_advisor_desc: "§YBorn:§! §LOctober 4th, 1897, in Mueang Thonburi, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_jira_wichitsongkhram: "Джіра Вічітсонґкрам"
+ SIA_jira_wichitsongkhram_royal: "Луанґ Вічітсонґкрам"
+ SIA_jira_wichitsongkhram_advisor_desc: "§YНародився:§! §L4 жовтня 1897 року в Мианг-Тхонбурі, Монтон-Крунгтхеп, Королівство Сіам§!"
 
- SIA_pin_malakul: "Pin Malakul"
- SIA_pin_malakul_advisor_desc: "§YBorn:§! §LOctober 24th, 1903, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_pin_malakul: "Пін Малакул"
+ SIA_pin_malakul_advisor_desc: "§YНародився:§! §L24 жовтня 1903 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
- SIA_tua_lapanukrom: "Tua Lapanukrom"
- SIA_tua_lapanukrom_advisor_desc: "§YBorn:§! §LOctober 21st, 1898, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_tua_lapanukrom: "Туа Лапанукром"
+ SIA_tua_lapanukrom_advisor_desc: "§YНародився:§! §L21 жовтня 1898 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
  ## Construction
- SIA_jerm_arwuth: "Jerm Arwuth"
- SIA_jerm_arwuth_royal: "Phraya Jinda Chakkarath"
- SIA_jerm_arwuth_advisor_desc: "§YBorn:§! §LOctober 12th, 1880, in Mueang Thonburi, Kingdom of Siam§!"
+ SIA_jerm_arwuth: "Джерм Арвутх"
+ SIA_jerm_arwuth_royal: "Пхрая Джинда Чаккаратх"
+ SIA_jerm_arwuth_advisor_desc: "§YНародився:§! §L12 жовтня 1880 року в Мианг-Тхонбурі, Королівство Сіам§!"
 
- SIA_narisara_nuwattiwong: "Narisara Nuwattiwong"
- SIA_narisara_nuwattiwong_royal: "Prince Narisara Nuwattiwong"
- SIA_narisara_nuwattiwong_advisor_desc: "§YBorn:§! §LApril 28th, 1863, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_narisara_nuwattiwong: "Нарісара Нуваттівонґ"
+ SIA_narisara_nuwattiwong_royal: "Принц Нарісара Нуваттівонґ"
+ SIA_narisara_nuwattiwong_advisor_desc: "§YНародився:§! §L28 квітня 1863 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_purachatra_jayakara: "Purachatra Jayakara"
- SIA_purachatra_jayakara_royal: "Prince Purachatra Jayakara"
- SIA_purachatra_jayakara_advisor_desc: "§YBorn:§! §LJanuary 23rd, 1881, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_purachatra_jayakara: "Пурачатра Джаякара"
+ SIA_purachatra_jayakara_royal: "Принц Пурачатра Джаякара"
+ SIA_purachatra_jayakara_advisor_desc: "§YНародився:§! §L23 січня 1881 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
  ## Other
- SIA_bung_suphachalasai: "Bung Suphachalasai"
- SIA_bung_suphachalasai_royal: "Luang Suphachalasai"
- SIA_bung_suphachalasai_advisor_desc: "§YBorn:§! §LJanuary 22nd, 1895, in Mueang Krungthep Mahanakhon, Kingdom of Siam§!"
+ SIA_bung_suphachalasai: "Бунґ Супхачаласай"
+ SIA_bung_suphachalasai_royal: "Луанґ Супхачаласай"
+ SIA_bung_suphachalasai_advisor_desc: "§YНародився:§! §L22 січня 1895 року в Мианг-Крунгтхеп-Маханакхон, Королівство Сіам§!"
 
- SIA_buntaeng_thongsawat: "Buntaeng Thongsawat"
- SIA_buntaeng_thongsawat_advisor_desc: "§YBorn:§! §LApril 15th, 1912, in the Princedom of Nakhon Lampang, Monthon Phayap, Kingdom of Siam§!"
+ SIA_buntaeng_thongsawat: "Бунтеенґ Тхонґсават"
+ SIA_buntaeng_thongsawat_advisor_desc: "§YНародився:§! §L15 квітня 1912 року в Князівстві Накхон-Лампанґ, Монтон-Пхаяп, Королівство Сіам§!"
 
- SIA_kulap_saipradit: "Kulap Saipradit"
- SIA_kulap_saipradit_advisor_desc: "§YBorn:§! §LMarch 31st, 1906, in Mueang Phra Nakhon, Monthon Krungthep, Kingdom of Siam§!"
+ SIA_kulap_saipradit: "Кулап Сайпрадіт"
+ SIA_kulap_saipradit_advisor_desc: "§YНародився:§! §L31 березня 1906 року в Мианг-Пхра-Накхон, Монтон-Крунгтхеп, Королівство Сіам§!"
 
- SIA_pijarn_dullalampha: "Pijarn Dullalampha"
- SIA_pijarn_dullalampha_royal: "Phra Pijarnpollakij"
- SIA_pijarn_dullalampha_advisor_desc: "§YBorn:§! §LJanuary 9th, 1893, in Mueang Trat, Kingdom of Siam§!"
+ SIA_pijarn_dullalampha: "Пітчарн Дуллалампха"
+ SIA_pijarn_dullalampha_royal: "Пхра Пітчарнполлакіч"
+ SIA_pijarn_dullalampha_advisor_desc: "§YНародився:§! §L9 січня 1893 року в Мианг-Трат, Королівство Сіам§!"
 
- SIA_tianthai_apichartbhut: "Tianthai Apichartbhut"
- SIA_tianthai_apichartbhut_advisor_desc: "§YBorn:§! §LApril 8th, 1907, in the Kingdom of Siam§!"
+ SIA_tianthai_apichartbhut: "Тіантхай Апічартпхут"
+ SIA_tianthai_apichartbhut_advisor_desc: "§YНародився:§! §L8 квітня 1907 року в Королівстві Сіам§!"
 
- SIA_wart_sunthonjamorn: "Wart Sunthonjamorn"
- SIA_wart_sunthonjamorn_advisor_desc: "§YBorn:§! §L1892, in the Kingdom of Siam§!"
+ SIA_wart_sunthonjamorn: "Варт Сунтхонджаморн"
+ SIA_wart_sunthonjamorn_advisor_desc: "§YНародився:§! §L1892 року в Королівстві Сіам§!"
 
  ##Operatives
- SIA_jumkad_plangkoon: "Jumkad Plangkoon"
- SIA_puey_ungphakorn: "Puey Ungphakorn"
+ SIA_jumkad_plangkoon: "Джумкад Планґкун"
+ SIA_puey_ungphakorn: "Пуей Унґпхакорн"
 
  ## Ranks & Medals Localization
  # General, Field Marshal and Navy Commanders - Seems like placeholder by PDX but gonna put this here for now

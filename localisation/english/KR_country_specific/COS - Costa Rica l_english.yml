@@ -29,8 +29,8 @@
  COS_national_populist_party_long: "Карибський легіон"
  COS_national_populist_party: "КЛ"
 
- COS_ferrer_social_democrat_long: "Partido Liberación Nacional (National Liberation Party)"
- COS_ferrer_social_democrat: "PLN"
+ COS_ferrer_social_democrat_long: "Partido Liberación Nacional (Партія національного визволення)"
+ COS_ferrer_social_democrat: "ПНВ"
 
 ### Tooltips ###
  COS_USA_bail_ZKG: "The §YUSA§! accepted to bail out the §YZKG§!"
@@ -62,35 +62,35 @@
  COS_10_convoys_cost_blocked: "£topbar_convoys §R10§!"
  COS_10_convoys_cost_tooltip: "Вартість прийняття рішення $COS_10_convoys_cost_blocked$"
 
- COS_UFC_higher_than_15: "More than §Y15§! influence from the §YUFC§!"
+ COS_UFC_higher_than_15: "Більше ніж §Y15§! впливу від §YUFC§!"
 
- COS_UFC_lower_than_95: "Less than §Y95§! influence from the §YUFC§!"
- COS_UFC_lower_than_98: "Less than §Y98§! influence from the §YUFC§!"
- COS_UFC_lower_than_100: "Less than §Y100§! influence from the §YUFC§!"
+ COS_UFC_lower_than_95: "Менше ніж §Y95§! впливу від §YUFC§!"
+ COS_UFC_lower_than_98: "Менше ніж §Y98§! впливу від §YUFC§!"
+ COS_UFC_lower_than_100: "Менше ніж §Y100§! впливу від §YUFC§!"
 
  COS_UFC_plus_tt: "Вплив §YЮФК§! збільшиться на £banana_texticon §R[?cos_UFC_change]%§!\n"
  COS_UFC_minus_tt: "Вплив §YЮФК§! зменшиться на £banana_texticon §G[?cos_UFC_change_dummy]%§!\n"
 
- COS_UFC_eradicated: "The §YUFC§! will stop operating in the country. Their influence will be §Geradicated§!\n"
+ COS_UFC_eradicated: "§YUFC§! припинить свою діяльність у країні. Їхній вплив буде §Gвикорінений§!\n"
  COS_EXPANDING_OPERATIONS: "§YЮФК§! розширює свою діяльність"
 
- COS_increase_UFC_lose: "We will lose an extra £banana_texticon §G2%§! if we either complete the focus §YIndustrial Development Scheme§! or §YA Different Approach§!."
+ COS_increase_UFC_lose: "Ми втратимо додаткові £banana_texticon §G2%§!, якщо завершимо фокус §YПрограма промислового розвитку§! або §YІнший підхід§!."
 
- COS_ZKG_higher_than_10: "More than §Y10§! influence from the §YZKG§!"
- COS_ZKG_higher_than_11: "More than §Y11§! influence from the §YZKG§!"
- COS_ZKG_higher_than_14: "More than §Y14§! influence from the §YZKG§!"
- COS_ZKG_higher_than_17: "More than §Y17§! influence from the §YZKG§!"
- COS_ZKG_higher_than_20: "More than §Y20§! influence from the §YZKG§!"
+ COS_ZKG_higher_than_10: "Більше ніж §Y10§! впливу від §YZKG§!"
+ COS_ZKG_higher_than_11: "Більше ніж §Y11§! впливу від §YZKG§!"
+ COS_ZKG_higher_than_14: "Більше ніж §Y14§! впливу від §YZKG§!"
+ COS_ZKG_higher_than_17: "Більше ніж §Y17§! впливу від §YZKG§!"
+ COS_ZKG_higher_than_20: "Більше ніж §Y20§! впливу від §YZKG§!"
 
- COS_ZKG_lower_than_98: "Less than §Y98§! influence from the §YZKG§!"
- COS_ZKG_lower_than_95: "Less than §Y95§! influence from the §YZKG§!"
+ COS_ZKG_lower_than_98: "Менше ніж §Y98§! впливу від §YZKG§!"
+ COS_ZKG_lower_than_95: "Менше ніж §Y95§! впливу від §YZKG§!"
 
  COS_ZKG_plus_tt: "Вплив §YZKG§! збільшиться на £coffee_texticon §R[?cos_ZKG_change]%§!\n"
  COS_ZKG_minus_tt: "Вплив §YZKG§! зменшиться на £coffee_texticon §G[?cos_ZKG_change_dummy]%§!\n"
 
- COS_ZKG_eradicated: "The §YZKG§! will stop operating in the country. Their influence will be §Geradicated§!\n"
+ COS_ZKG_eradicated: "§YZKG§! припинить свою діяльність у країні. Їхній вплив буде §Gвикорінений§!\n"
 
- COS_increase_ZKG_lose: "We will lose an extra £coffee_texticon §G2%§! if we either complete the focus §YIndustrial Development Scheme§! or §YA Different Approach§!."
+ COS_increase_ZKG_lose: "Ми втратимо додаткові £coffee_texticon §G2%§!, якщо завершимо фокус §YПрограма промислового розвитку§! або §YІнший підхід§!."
 
  UFC_Profit_1_COST: "§Y1§! прибуток ЮФК"
  UFC_Profit_1_COST_blocked: "§R1§! прибуток ЮФК"
@@ -138,7 +138,7 @@
  COS_Plantation_Expansion_desc: "Позитивна реакція як самої компанії, так і інших інвесторів, а також швидка реакція нашого уряду призвели до укладення угоди щодо нових плантацій. Пообіцявши покладатися на переважно корінну костариканську робочу силу і прийнявши вимоги Атлантичного робітничого конгресу, всі зацікавлені сторони прийшли до відповідної угоди, і перші гектари землі були введені в експлуатацію."
 
  COS_UFC_decisions: "United Fruit Company"
- COS_UFC_decisions_desc: "З тих пір, як американець Кіт ступив на землю Коста-Ріки і отримав контракт на створення залізничної мережі в нашій країні, його компанія §YUnited Fruit Company§! або §YЮФК§! відіграє важливу роль в економіці Коста-Рики. Однак великий успіх компанії не залишився виключно костариканським, і завдяки розумним інвестиціям компанія створила мережу дочірніх підприємств і плантацій по всьому Карибському басейну, принісши величезні статки цим країнам, але також спричинивши масові соціальні потрясіння, що часто призводять до §Rстрайків§!, §Rнасильства§! і §Rполітичної катастрофи§!.\n\nВплив §YЮФК§! : £banana_texticon [?party_popularity@market_liberal|%R0]\n"
+ COS_UFC_decisions_desc: "З тих пір, як американець Кіт ступив на землю Коста-Рики і отримав контракт на створення залізничної мережі в нашій країні, його компанія §YUnited Fruit Company§! або §YЮФК§! відіграє важливу роль в економіці Коста-Рики. Однак великий успіх компанії не залишився виключно костариканським, і завдяки розумним інвестиціям компанія створила мережу дочірніх підприємств і плантацій по всьому Карибському басейну, принісши величезні статки цим країнам, але також спричинивши масові соціальні потрясіння, що часто призводять до §Rстрайків§!, §Rнасильства§! і §Rполітичної катастрофи§!.\n\nВплив §YЮФК§! : £banana_texticon [?party_popularity@market_liberal|%R0]\n"
 
  COS_Improve_Conditions_Plantations: "Improve the Conditions of the Plantations"
  COS_Improve_Conditions_Plantations_desc: "Even though the Atlantic Workers Congress has fought hard to secure the little rights plantation workers now have, the working conditions are still consider inhumane by many. Further checks on the company will help us improve the life of the men working in the plantations and also reduce the pull of these companies on political affairs."
@@ -229,21 +229,21 @@
 
  COS_form_faction: "Сформувати $democratic_alliance_of_the_caribbean$"
  COS_Invite: "Запросити [FROM.GetName] до пакту"
- COS_form_economic_bloc: "Form the Caribbean Economic Bloc"
- COS_economic_bloc: "Invite [FROM.GetName] into the Economic Bloc"
- COS_protect_panama: "Rescue Panama from Colombian coercion"
- COS_protect_panama_desc: "Panama has been bullied by Colombia into joining their alliance under the weak justification of saving them from socialism. Let's give them a way out of this before their sovereignty is threatened any more."
- COS_merge_with_the_andean_pact: "Merge with the Andean Pact"
- COS_merge_with_the_andean_pact_desc: "The Andean Pact was created as a way to ensure stability and protection in their region and their goals are very similar to ours, but a dispute over Panama has soured relations between us and Colombia. The best course of action to amend this divide is to invite them into our alliance and sort our issues internally."
- COS_integrate_into_CEN: "Re-joining the Federal Republic"
- COS_integrate_into_CEN_desc: "With four members of the republic already united and willing to fight for our cause, it is our time to re-join the Federal Republic, to help them eliminate the issues that tore apart the first one, to uphold democracy in the union and to create a powerful army capable of protecting us and carrying on the goal of our alliance."
+ COS_form_economic_bloc: "Сформувати Карибський економічний блок"
+ COS_economic_bloc: "Запросити [FROM.GetName] до Економічного блоку"
+ COS_protect_panama: "Врятувати Панаму від Колумбійського примусу"
+ COS_protect_panama_desc: "Колумбія змусила Панаму приєднатися до свого альянсу під слабким виправданням порятунку їх від соціалізму. Давайте дамо їм вихід із цієї ситуації, перш ніж їхній суверенітет буде під загрозою ще більше."
+ COS_merge_with_the_andean_pact: "Об'єднатися з Андським пактом"
+ COS_merge_with_the_andean_pact_desc: "Андський пакт був створений як спосіб забезпечення стабільності та захисту в їхньому регіоні, і їхні цілі дуже схожі на наші, але суперечка щодо Панами зіпсувала відносини між нами та Колумбією. Найкращий спосіб виправити цей розкол — запросити їх до нашого альянсу та вирішити наші проблеми всередині."
+ COS_integrate_into_CEN: "Повторне приєднання до Федеративної Республіки"
+ COS_integrate_into_CEN_desc: "Оскільки чотири члени республіки вже об'єднані та готові боротися за нашу справу, настав наш час знову приєднатися до Федеративної Республіки, допомогти їм усунути проблеми, які розірвали першу, підтримати демократію в союзі та створити потужну армію, здатну захистити нас і продовжити мету нашого альянсу."
  COS_Invasion: "Звільнити [FROM.GetNameDef]"
  COS_Invasion_desc: "Занадто довго народ [FROM.GetName] страждав від диктаторів та корумпованих чиновників. Щоб виправити це, Карибський легіон взяв на себе зобов'язання звільнити цих людей, повалити режим і відновити демократію в країні."
 
- CEN_COS_peace_timer: "Peace with the Caribbean Alliance"
- CEN_COS_peace_timer_desc: "Our victory in Costa Rica has put us on an advantageous position to initiate negations. We will limit ourself to territory our army has and can capture by foot alone, as it is clear that our navy is not sufficient enough to help in naval invasion."
- COS_peace_timer: "A Falling Alliance"
- COS_peace_timer_desc: "The fall of Costa Rica has brough disaster to the alliance. If we are not able to save them soon, we will have no option to accept our enemies demands and retreat from occupied central american land."
+ CEN_COS_peace_timer: "Мир з Карибським альянсом"
+ CEN_COS_peace_timer_desc: "Наша перемога в Коста-Риці поставила нас у вигідне становище для початку переговорів. Ми обмежимося територією, яку наша армія має і може захопити лише пішим ходом, оскільки зрозуміло, що нашого флоту недостатньо, щоб допомогти у морському вторгненні."
+ COS_peace_timer: "Альянс, що розпадається"
+ COS_peace_timer_desc: "Падіння Коста-Рики принесло катастрофу альянсу. Якщо ми не зможемо врятувати їх найближчим часом, у нас не буде іншого вибору, окрім як прийняти вимоги наших ворогів і відступити з окупованих земель Центральної Америки."
 
  COS_Ferrer_Pacifist_decisions: "Політика [COS.GetLeader]"
  COS_Ferrer_Pacifist_decisions_desc: "Пробуджений антиконституційними діями своїх попередників і борючись за права кожного громадянина Коста-Рики, §Y[COS.GetLeader]§! має великі амбіції для маленької нації. Він та його Хунта планують не лише запровадити нові радикальні закони, вони також планують §Yпереписати конституцію§! та §Yліквідувати армію§!, що завершиться проголошенням створення §CДругої Республіки§!"
@@ -274,13 +274,13 @@
  COS_beacon_democracy: "Маяк демократії"
  COS_beacon_democracy_desc: "Сильні традиції демократії та прогресивні реформи за останні кілька десятиліть призвели до того, що Коста-Рика сприймається за кордоном як яскравий маяк центральноамериканської демократії."
 
- COS_influence_of_the_UFC_dynamic_modifier: "£pol_idea Influence of the UFC"
- COS_influence_of_the_UFC_idea: "Influence of the UFC"
- COS_influence_of_the_UFC_idea_desc: "The United Fruit Company or the UFC has built railways, infrastructure and housing to expand their operations in our country, but the terrible practices that their employees have to endure has earned them a terrible reputation.\nCurrent influence of the UFC: §Y[?COS.COS_UFC_influence]§!\n§W-----------------\nThis gives us the following effects:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_UFC_influence_modifier|+=]\n$MODIFIER_STABILITY_POPULARITY_FACTOR$: [?COS.COS_UFC_influence_modifier|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_UFC_influence_construction_speed|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$:§! §Y[?COS.COS_UFC_influence_consumer_goods|=%]§!"
+ COS_influence_of_the_UFC_dynamic_modifier: "£pol_idea Вплив UFC"
+ COS_influence_of_the_UFC_idea: "Вплив UFC"
+ COS_influence_of_the_UFC_idea_desc: "Компанія «United Fruit Company», або UFC, побудувала залізниці, інфраструктуру та житло для розширення своєї діяльності у нашій країні, але жахлива практика, яку змушені терпіти їхні працівники, здобула їм жахливу репутацію.\nПоточний вплив UFC: §Y[?COS.COS_UFC_influence]§!\n§W-----------------\nЦе дає нам такі ефекти:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_UFC_influence_modifier|+=]\n$MODIFIER_STABILITY_POPULARITY_FACTOR$: [?COS.COS_UFC_influence_modifier|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_UFC_influence_construction_speed|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$:§! §Y[?COS.COS_UFC_influence_consumer_goods|=%]§!"
 
- COS_influence_of_the_ZKG_dynamic_modifier: "£pol_idea Influence of the ZKG"
- COS_influence_of_the_ZKG_idea: "Influence of the ZKG"
- COS_influence_of_the_ZKG_idea_desc: "The Zentralamerikanische Kaffee-Gesellschaft or ZKG was created by coffee barons of German descent to protect and expand their influence over the Costa Rican government and expand their plantations in the central valley.\nCurrent influence of the ZKG: §Y[?COS.COS_ZKG_influence]§!\n§W-----------------\nThis gives us the following effects:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_ZKG_influence_pol_power_gain|+=]\n$research_speed_factor_tooltip$: [?COS.COS_ZKG_influence_research_speed|+=%]\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?COS.COS_ZKG_influence_production_cap|+=%]§!"
+ COS_influence_of_the_ZKG_dynamic_modifier: "£pol_idea Вплив ZKG"
+ COS_influence_of_the_ZKG_idea: "Вплив ZKG"
+ COS_influence_of_the_ZKG_idea_desc: "«Zentralamerikanische Kaffee-Gesellschaft» (Центральноамериканська кавова компанія), або ZKG, була створена кавовими баронами Німецького походження для захисту та розширення свого впливу на Коста-Риканський уряд та розширення своїх плантацій у центральній долині.\nПоточний вплив ZKG: §Y[?COS.COS_ZKG_influence]§!\n§W-----------------\nЦе дає нам такі ефекти:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?COS.COS_ZKG_influence_pol_power_gain|+=]\n$research_speed_factor_tooltip$: [?COS.COS_ZKG_influence_research_speed|+=%]\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?COS.COS_ZKG_influence_production_cap|+=%]§!"
 
  COS_black_monday: "Банкрутство ZKG"
  COS_black_monday_desc: "Незважаючи на те, що колись прибуткова кавова компанія не знала кінця своєму багатству, навіть інвестуючи в активи, які раніше належали ЮФК, криза, яка сколихнула Німеччину, залишила свій відбиток і на ZKG. З падінням акцій і стрімким падінням попиту на каву, перенапружена компанія не змогла знайти покупця на свої збанкрутілі активи і йде на дно у полум'ї пожежі."
@@ -304,7 +304,7 @@
  COS_Plan_Limon_Foreign_Assistance_desc: "Іноземна допомога відіграє ключову роль у реалізації Плану Лімона, оскільки без їхніх знань в галузі інженерії та сучасного будівництва ми б назавжди застрягли в 19 столітті."
 
  COS_Plan_Limon_End: "План Лімон"
- COS_Plan_Limon_End_desc: "Успіхи "Плану Лімон" очевидні, як день, і промисловість Коста-Ріки рухається вперед, як ніколи раніше."
+ COS_Plan_Limon_End_desc: "Успіхи "Плану Лімон" очевидні, як день, і промисловість Коста-Рики рухається вперед, як ніколи раніше."
 
  COS_National_Parks: "Ініціатива з національних парків"
  COS_National_Parks_desc: "Наша країна не має ні капіталу, ні ресурсів, щоб утримувати індустріальне суспільство. Тому ми повинні змінити курс і зберегти те зелене, що дала нам матінка-природа, а також залучити тих, хто має менше, щоб насолодитися нашою пишністю."
@@ -312,11 +312,11 @@
  COS_Agricultural_Protection: "Захист сільського господарства"
  COS_Agricultural_Protection_desc: "У той час як поля дають урожай на сотнях гектарів, люди на вулиці з кожним днем стають все більш голодними. Централізовані державні стимули для створення більш різноманітної дієти для наших людей повинні зменшити це явище!"
 
- COS_Banking_Reforms_Idea: "Banking Reform"
+ COS_Banking_Reforms_Idea: "Банківська реформа"
 
- COS_Educating_the_Countryside: "Educating the Countryside"
+ COS_Educating_the_Countryside: "Освіта сільської місцевості"
 
- COS_Cement_Administration_Idea: "Cement Administration"
+ COS_Cement_Administration_Idea: "Адміністрування цементної промисловості"
 
  COS_AM_REFUGEES: "Американські біженці"
  COS_AM_REFUGEES_desc: "Рятуючись від хаосу, що охопив їхню батьківщину, тисячі американських біженців прибули до нашої країни, принісши з собою свій капітал і знання."
@@ -328,11 +328,11 @@
 
  COS_Rural_Credit: "Сільські кредити"
 
- COS_mobile_warfare_idea: "Mobile Warfare"
+ COS_mobile_warfare_idea: "Мобільна війна"
 
- COS_improve_tactics: "Improve Tactics"
+ COS_improve_tactics: "Покращити тактику"
 
- COS_renovated_bellavista: "Renovated Bellavista Barracks"
+ COS_renovated_bellavista: "Відремонтовані казарми Беллавіста"
 
  COS_German_Attache: "Морський аташе Німеччини"
  COS_German_Attache_desc: "Спостерігачі з Kaiserliche Marine вивчають нашу берегову охорону і навчають її протичовновій тактиці, щоб захистити наше узбережжя і не допустити, щоб наші вантажні судна прийняли на себе основний тягар бойових дій"
@@ -340,16 +340,16 @@
  COS_Public_Education: "Реформована система освіти"
  COS_Public_Education_desc: "Освіта для всіх є головним пріоритетом для уряду Коста-Рики, і нова програма надала доступ до державної системи освіти всім костариканцям."
 
- COS_Expanded_Citizenship: "Expanded Citizenship"
+ COS_Expanded_Citizenship: "Розширене громадянство"
 
- COS_car_economic_bloc_dynamic_modifier: "£pol_idea Caribbean Economic Bloc"
- COS_car_economic_bloc_idea: "Caribbean Economic Bloc"
+ COS_car_economic_bloc_dynamic_modifier: "£pol_idea Карибський економічний блок"
+ COS_car_economic_bloc_idea: "Карибський економічний блок"
  COS_car_economic_bloc_idea_desc: "§W$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?COS.COS_car_eco_bloc_modifier|+=%]\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?COS.COS_car_eco_bloc_research|+=%]§!"
- COS_cos_alliance_member_tooltip: "§LFor every nation joining the economic bloc, this modifier will be increased.§!"
+ COS_cos_alliance_member_tooltip: "§LЗ кожною нацією, що приєднується до економічного блоку, цей модифікатор збільшуватиметься.§!"
 
- COS_CEN_ties: "Central American Ties"
+ COS_CEN_ties: "Центральноамериканські зв'язки"
 
- COS_CEN_ties_2: "Increased Central American Ties"
+ COS_CEN_ties_2: "Посилені центральноамериканські зв'язки"
 
  COS_Domestic_Designs_2: "Вітчизняні проєкти"
 
@@ -363,8 +363,8 @@
  COS_UFC_Profit_idea: "Прибуток від ЮФК"
  COS_UFC_Profit_idea_desc: "Збільшення прибутку від діяльності United Fruit Company в країні сприяє розвитку нашої економіки."
 
- COS_investing: "Investing"
- COS_investing_desc: "With the influence of the big companies that help in the development of our country gone, the government has been force to take from its limiting budget to compensate."
+ COS_investing: "Інвестування"
+ COS_investing_desc: "Після того, як вплив великих компаній, що допомагали розвитку нашої країни, зник, уряд був змушений взяти компенсацію зі свого обмеженого бюджету."
 
 ### Focuses ###
  COS_ZKG_Bailout: "Допомога ZKG"
@@ -483,7 +483,7 @@
  COS_Expand_Citizenship: "Розширення громадянства"
  COS_Expand_Citizenship_desc: "Тертя між корінним костариканським населенням і чорношкірими іммігрантами на атлантичному узбережжі вже давно викликають проблеми в нашому суспільстві, оскільки останні ніколи не були повністю визнані громадянами Коста-Рики, а більше розглядалися як робоча сила для американських плантацій. Дон Пепе планує розширити положення про громадянство, зробивши всіх дітей цих чорношкірих іммігрантів повноправними громадянами Коста-Рики."
  COS_Rewrite_the_Constitution: "Перепис конституції"
- COS_Rewrite_the_Constitution_desc: "За допомогою "Хунти Фундатора" ми ратифікували понад 830 реформ, які повністю змінили фізіономію країни і перетворили Коста-Ріку на гуманний і соціалістичний рай. Від масштабних змін в економічній політиці, щоб зробити нашу країну менш залежною від іноземних держав, до соціалістичних реформ у сфері охорони здоров'я та пенсійної системи - Коста-Рика змінилася назавжди."
+ COS_Rewrite_the_Constitution_desc: "За допомогою "Хунти Фундатора" ми ратифікували понад 830 реформ, які повністю змінили фізіономію країни і перетворили Коста-Рику на гуманний і соціалістичний рай. Від масштабних змін в економічній політиці, щоб зробити нашу країну менш залежною від іноземних держав, до соціалістичних реформ у сфері охорони здоров'я та пенсійної системи - Коста-Рика змінилася назавжди."
  COS_Fullfill_our_Duty: "Виконання свого обов'язоку"
  COS_Fullfill_our_Duty_desc: "Незважаючи на те, що зараз у нас один з найдемократичніших і найстабільніших режимів на планеті, наші брати в Центральній Америці все ще потіють під гнітом корумпованих політиків, "соціалістичних" революціонерів і авторитарних диктатур. Ми є їхньою останньою лінією захисту і єдиними, хто має силу вивести їх на чисту воду."
  COS_Shining_Beacon_of_Progress: "Сяючий маяк прогресу"
@@ -533,14 +533,14 @@
  COS_Aircraft_Contracts_desc: "Через систему ленд-лізу і заради захисту Америки, США надіслали нам необхідне озброєння, щоб забезпечити наші війська і не допустити, щоб ми виявилися непідготовленими, якщо війна прийде на наші береги. Не лише через продаж, але й через місцеве партнерство, американці сподіваються продовжувати будувати наші добрі стосунки і водночас створити лояльну базу операцій поблизу Каналу."
 
 ### Bookmark ###
- COS_KR_gathering_storm_desc: "Class warfare, rapid militarisation and the Iron Grip of the Kaiser hold the world in its grasp, which makes it even more peculiar that in the midst of all this violence and pain we can find the tiny republic of Costa Rica. Taking great pride in their impressive literacy statistics and their unbreakable dedication to the Constitution, the nation stands as a rock above its neighbours who have long been eyeing its land. As their greatest ally starts to descend into chaos, vultures all across the Americas are waiting for the proud eagle to fall. Diplomacy will have to prevail if we are to survive the coming tide..."
+ COS_KR_gathering_storm_desc: "Класова війна, стрімка мілітаризація та Залізна Рука Кайзера тримають світ у своїх лещатах, що робить ще більш своєрідним те, що серед усього цього насильства та болю ми можемо знайти крихітну республіку Коста-Рика. Пишаючись своєю вражаючою статистикою грамотності та непохитною відданістю Конституції, нація стоїть скелею над своїми сусідами, які давно зазіхають на її землю. Оскільки їхній найбільший союзник починає занурюватися у хаос, стерв'ятники по всій Америці чекають падіння гордого орла. Дипломатія має перемогти, якщо ми хочемо пережити прийдешню хвилю..."
 
 ### Intro Screen ###
  COS_country_intro_background: "GFX_COS_intro"
  COS_country_intro_header: "Коста-Рика: Центральноамериканська історія успіху"
  COS_country_intro_content: "Захована глибоко в джунглях Центральної Америки, наша маленька, але горда нація процвітала протягом багатьох десятиліть, маючи рівень грамотності вищий, ніж у деяких європейських країнах, і повільно, але стабільно зростаючу економіку, засновану на торгівлі бананами і, особливо, кавою.\n\nЗавдяки суворому дотриманню всіма партіями конституції, в країні не було жодного військового втручання чи політичного перевороту з часів невдалої диктатури Тічино в 1917 році, яка була повалена всього через кілька місяців під тиском народу, що відмовився терпіти диктатора в своїй республіці. Відтоді країна перебуває під контролем різноманітної, хоча й егалітарної касти політиків, які користуються плодами зростаючої німецької економіки та тісними зв'язками між нашими двома народами.\n\nПід крилом НРП президент Рікардо Хімінес може озирнутися на успішний термін, під час якого він впорався як з економічною депресією, спричиненою американською рецесією, так і зі зростаючими голосами соціалістичних рухів, які, натхненні Атлантичним робітничим конгресом, нарешті прокинулися від сну і зажадали кращого представництва. Хоча вони дещо досягли своїх цілей і змусили уряд розробити проект трудової угоди, закон ще далекий від ухвалення, і під висхідною зіркою Мануеля Мора Вальверде проблеми між компаніями та робітниками ще далекі від завершення.\n\nТим не менш, нація процвітає, оскільки плоди наших відносин з Mitteleuropa приносять плоди у вигляді програм культурного обміну, наукової допомоги та міцного зв'язку між університетами, такими як KU Leuven у Фландрії-Валлонії, та вищим класом Коста-Рики."
 
- COS_guide: "§MPRN (Conservadores)§! ($social_conservative_coloured$)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Do not complete the focus §YAdapt the constitution§!.\n£white_dot After winning the 1940 elections, Calderón will take over and go down the §MPRN (Socialistas)§! path.\n£white_dot Accept the offer to restore stability and held emergency elections, that will be won by Ricardo Jiménez of the §cPRN§!.\n\n§MPRN (Socialistas)§! ($social_democrat_coloured$)\n£white_dot Nominating Calderón in the republican nomination or the §cPRN§! winning the 1940 elections, will see him announcing sweeping reforms and leading a socialist government.\n£white_dot After around 2 years, Calderón will demand emergency powers.\n£white_dot Around less than a year later, an offer to restore stability will appear, reject the offer to continue the socialist government.\n£white_dot In the next elections have Picado take control.\n\n§MPartido Liberación Nacional§! ($social_democrat_coloured$)\n£white_dot Nominate Cortés in the republican nomination.\n£white_dot Complete the focus §YAdapt the constitution§! and win the 1940 elections.\n£white_dot When Ferrer goes on the air, have him put on the first boat to Mexico, this will lead to him escaping and launching a coup.\n£white_dot Or, have Calderón announce his second term in the elections and Ferrer will go on the air and coup him regardless of your choices.\n£white_dot Or, follow the steps to make the army depose Mora, have the council retain control and Ferrer will go on the air and coup them regardless of your choices.\n\n§MPartido Vanguardia Popular§! ($syndicalist_coloured$) §CNote: If Central America or Nicaragua is syndicalist, they will annex Costa Rica. Otherwise, Costa Rica will return to a conservative regime.§!\n£white_dot Follow the same steps as the §MPRN (Socialistas)y§! path, but choose to accept the offer to restore stability and have Mora proclaim the Workers Republic.\n£white_dot If Central America or Nicaragua is syndicalist, they will offer to annex the country (making you switch to them), rejecting will make the army depose Mora shortly after.\n\n§MForeign Policy§!\n§MReichspakt§!\n£white_dot Ask for German protection after the Second American Civil War breaks out. Giving us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot If Canada invades Panama, choose to remain neutral.\n§MEntente§!\n£white_dot Ask for Canadian protection after the Second American Civil War breaks out, set the game rule §YEntente§! in §YCosta Rican Foreign Policy§! to guarantee Canada accepts. This will give us a guarantee from them and a decision to join their faction once the Second Weltkrieg begins.\n£white_dot Or, if Canada invades Panama, send an offer to them, joining their war against Panama and their faction.\n§MDemocratic Alliance of the Caribbean§!\n£white_dot Follow the steps in the §MPartido Liberación Nacional§! path.\n£white_dot Complete the decision £decision_icon_small §YForm $democratic_alliance_of_the_caribbean$§! to gain access to decision to invite all democratic Central American, Caribbean and northern South American nations into our faction.\n§CNote: Central America will also have the option to create this faction if they are democratic, but will wait until June of 1940 to do this if Costa Rica is player controlled.§!"
+ COS_guide: "§MPRN (Консерватори)§! ($social_conservative_coloured$)\n£white_dot Номінувати Кортеса на республіканських зборах.\n£white_dot Не завершувати фокус §YАдаптувати конституцію§!.\n£white_dot Після перемоги на виборах 1940 року Кальдерон візьме владу та піде шляхом §MPRN (Соціалісти)§!.\n£white_dot Прийняти пропозицію щодо відновлення стабільності та проведення надзвичайних виборів, на яких переможе Рікардо Хіменес від §cPRN§!.\n\n§MPRN (Соціалісти)§! ($social_democrat_coloured$)\n£white_dot Номінування Кальдерона на республіканських зборах або перемога §cPRN§! на виборах 1940 року призведе до того, що він оголосить про широкі реформи та очолить соціалістичний уряд.\n£white_dot Приблизно через 2 роки Кальдерон вимагатиме надзвичайних повноважень.\n£white_dot Приблизно менш ніж через рік з'явиться пропозиція щодо відновлення стабільності, відхиліть пропозицію, щоб продовжити соціалістичний уряд.\n£white_dot На наступних виборах до влади прийде Пікадо.\n\n§MПартія національного визволення§! ($social_democrat_coloured$)\n£white_dot Номінувати Кортеса на республіканських зборах.\n£white_dot Завершити фокус §YАдаптувати конституцію§! та перемогти на виборах 1940 року.\n£white_dot Коли Феррер виступить в ефірі, відправити його на першому човні до Мексики, що призведе до його втечі та початку перевороту.\n£white_dot Або, якщо Кальдерон оголосить про свій другий термін на виборах, Феррер виступить в ефірі та здійснить переворот незалежно від вашого вибору.\n£white_dot Або, дотримуватися кроків, щоб армія скинула Мору, нехай рада збереже контроль, і Феррер виступить в ефірі та здійснить переворот незалежно від вашого вибору.\n\n§MПартія народної авангарди§! ($syndicalist_coloured$) §CПримітка: Якщо Центральна Америка або Нікарагуа є синдикалістами, вони анексують Коста-Рику. В іншому випадку Коста-Рика повернеться до консервативного режиму.§!\n£white_dot Дотримуватися тих самих кроків, що й на шляху §MPRN (Соціалісти)§!, але обрати прийняти пропозицію щодо відновлення стабільності та домовитися, щоб Мора проголосив Робітничу Республіку.\n£white_dot Якщо Центральна Америка або Нікарагуа є синдикалістами, вони запропонують анексувати країну (змушуючи вас перейти до них), відмова призведе до того, що армія скине Мору незабаром після цього.\n\n§MЗовнішня політика§!\n§MРайхспакт§!\n£white_dot Попросити захисту у Німеччини після початку Другої громадянської війни в Америці. Це дасть нам гарантію від них та рішення приєднатися до їхньої фракції, коли почнеться Друга світова війна.\n£white_dot Якщо Канада вторгається в Панаму, обрати залишатися нейтральними.\n§MАнтанта§!\n£white_dot Попросити захисту у Канади після початку Другої громадянської війни в Америці, встановити правило гри §YАнтанта§! у §YЗовнішня політика Коста-Рики§!, щоб гарантувати, що Канада погодиться. Це дасть нам гарантію від них та рішення приєднатися до їхньої фракції, коли почнеться Друга світова війна.\n£white_dot Або, якщо Канада вторгається в Панаму, надіслати їм пропозицію, приєднавшись до їхньої війни проти Панами та їхньої фракції.\n§MДемократичний альянс Карибського басейну§!\n£white_dot Дотримуватися кроків на шляху §MПартії національного визволення§!.\n£white_dot Завершити рішення £decision_icon_small §YСформувати $democratic_alliance_of_the_caribbean$§!, щоб отримати доступ до рішення запросити всі демократичні нації Центральної Америки, Карибського басейну та північної Південної Америки до нашої фракції.\n§CПримітка: Центральна Америка також матиме можливість створити цю фракцію, якщо вони є демократичними, але чекатиме до червня 1940 року, щоб зробити це, якщо Коста-Рика контролюється гравцем.§!"
 
  COS_guide_1: "$CEN_pre_guide$"
 
@@ -585,7 +585,7 @@
  costa_rica_events.9.a: "З'єднайте мене з німцями на першій лінії!"
  costa_rica_events.9.b: "Ми дійсно самотні у світі."
 
- costa_rica_events.11.d: "$costa_rica_events.8.d_start$ Whilst we will be obligated to make further concessions to the ZKG to pay off our debts, they have accepted to take part of the hit and have granted us a loan with which we can survive the crisis."
+ costa_rica_events.11.d: "$costa_rica_events.8.d_start$ Хоча ми будемо зобов'язані піти на подальші поступки ZKG, щоб сплатити наші борги, вони погодилися взяти на себе частину удару і надали нам позику, з якою ми можемо пережити кризу."
  costa_rica_events.11.a: "Deutschland über alles!"
 
  costa_rica_events.12.d: "Не дивно, що через свої внутрішні проблеми Німецька імперія відхилила наші прохання про позику для порятунку ZKG і залишила нас без іншої альтернативи, окрім американців."
@@ -600,7 +600,7 @@
  costa_rica_events.14.a: "Будемо сподіватися, що ми не отримаємо повторення страйку 34-го року."
 
  costa_rica_events.15.t: "Антинегритянський протест у Сан-Хосе"
- costa_rica_events.15.d: "Відтоді, як ЮФК ступила на територію Коста-Ріки і започаткувала свою бананову імперію, чорношкірі робітники та їхні сім'ї переїхали до країни, щоб працювати на плантаціях компанії. Оскільки місцеві костариканці не мали наміру приєднуватися до бананового хрестового походу ЮФК і були цілком задоволені торгівлею кавою, Кіт був змушений імпортувати все більше і більше ямайців для роботи на своїх полях. Втомлені чужинцями на своїй землі, костариканці так і не змогли повністю прийняти своїх нових громадян і тримали від них чітку дистанцію. З роками це призвело до тертя між двома сторонами, яке вдалося уникнути ескалації лише завдяки географічним особливостям, що розділяли їх.\n\nОднак зменшення прибутків від торгівлі кавою та загальна свідомість серед негритянського населення призвели до того, що ці дві групи знову зіткнулися. Костариканці протестують проти того, що вони вважають загрозою їхній культурі, проти втечі іноземців з їхньої визначеної території в провінції Лімон, тоді як чорношкірі вимагають, щоб уряд ставився до них як до рівноправних громадян республіки."
+ costa_rica_events.15.d: "Відтоді, як ЮФК ступила на територію Коста-Рики і започаткувала свою бананову імперію, чорношкірі робітники та їхні сім'ї переїхали до країни, щоб працювати на плантаціях компанії. Оскільки місцеві костариканці не мали наміру приєднуватися до бананового хрестового походу ЮФК і були цілком задоволені торгівлею кавою, Кіт був змушений імпортувати все більше і більше ямайців для роботи на своїх полях. Втомлені чужинцями на своїй землі, костариканці так і не змогли повністю прийняти своїх нових громадян і тримали від них чітку дистанцію. З роками це призвело до тертя між двома сторонами, яке вдалося уникнути ескалації лише завдяки географічним особливостям, що розділяли їх.\n\nОднак зменшення прибутків від торгівлі кавою та загальна свідомість серед негритянського населення призвели до того, що ці дві групи знову зіткнулися. Костариканці протестують проти того, що вони вважають загрозою їхній культурі, проти втечі іноземців з їхньої визначеної території в провінції Лімон, тоді як чорношкірі вимагають, щоб уряд ставився до них як до рівноправних громадян республіки."
  costa_rica_events.15.a: "Послабити обмеження."
  costa_rica_events.15.b: "Змусити компанії наймати корінних костариканців."
  costa_rica_events.15.c: "Забезпечити дотримання визначених заборонених зон."
@@ -669,7 +669,7 @@
 
 ### COTO Events ###
  costa_rica_events.30.t: "Криза навколо Кото"
- costa_rica_events.30.d_start: "З моменту здобуття Панамою незалежності від Іспанії вони претендують на Кото, регіон у панамській провінції Чірікі вздовж панамсько-коста-риканського кордону. У 1911 році голову Верховного суду США Едварда Д. Вайта попросили провести арбітраж. Він виніс своє рішення в 1914 році, але Панама не визнала його, стверджуючи, що воно було на користь Коста-Рики. Військові дії спалахнули в 1921 році, коли Коста-Ріка вторглася в цю територію. Панама легко відвоювала цю територію. Однак конфлікт поширився, коли Коста-Ріка переїхала до провінції Бокас-дель-Торо. Побоюючись, що її інтереси можуть опинитися під загрозою, Сполучені Штати змусили Панаму прийняти рішення Білої Америки.\n\nОскільки наші американські союзники впали в анархію, панамський уряд відновив суперечку і вимагає, щоб ми передали територію або зустрілися з їхньою армією на полі бою. Хоча наші війська останнім часом збільшилися в розмірах, ми все ще повністю перевершуємо наших панамських сусідів і потребуємо іноземної допомоги, щоб здобути перемогу.\n\nНаші союзники, однак, не прагнуть вести ще одну безглузду війну і віддають перевагу більш дипломатичному розв'язанню кризи, підтверджуючи рішення Фалло Вайта і змушуючи Панаму відступити раз і назавжди."
+ costa_rica_events.30.d_start: "З моменту здобуття Панамою незалежності від Іспанії вони претендують на Кото, регіон у панамській провінції Чірікі вздовж панамсько-коста-риканського кордону. У 1911 році голову Верховного суду США Едварда Д. Вайта попросили провести арбітраж. Він виніс своє рішення в 1914 році, але Панама не визнала його, стверджуючи, що воно було на користь Коста-Рики. Військові дії спалахнули в 1921 році, коли Коста-Рика вторглася в цю територію. Панама легко відвоювала цю територію. Однак конфлікт поширився, коли Коста-Рика переїхала до провінції Бокас-дель-Торо. Побоюючись, що її інтереси можуть опинитися під загрозою, Сполучені Штати змусили Панаму прийняти рішення Білої Америки.\n\nОскільки наші американські союзники впали в анархію, панамський уряд відновив суперечку і вимагає, щоб ми передали територію або зустрілися з їхньою армією на полі бою. Хоча наші війська останнім часом збільшилися в розмірах, ми все ще повністю перевершуємо наших панамських сусідів і потребуємо іноземної допомоги, щоб здобути перемогу.\n\nНаші союзники, однак, не прагнуть вести ще одну безглузду війну і віддають перевагу більш дипломатичному розв'язанню кризи, підтверджуючи рішення Фалло Вайта і змушуючи Панаму відступити раз і назавжди."
  costa_rica_events.30.d: "$costa_rica_events.30.d_start$As our American allies have now fallen into anarchy, the Panamanian government has reopened the dispute and is demanding that we hand over the territory or face their army on the battlefield. Whilst our troops have recently grown in size, we are still completely outmatched by our Panamanian neighbours and will need foreign assistance if we are to become victorious.\n\nOur allies however are less eager to fight yet another pointless war and would prefer a more diplomatic solution to the crisis by re-enforcing the Fallo White ruling and forcing Panama to back down once and for all."
  costa_rica_events.30.a: "Звернутися за посередництвом до Канади."
  costa_rica_events.30.b: "Звернутися за посередництвом до Німеччини."
@@ -962,7 +962,7 @@
  costa_rica_events.109.a: "Прощавай!"
 
  costa_rica_events.110.t: "Страйк на плантаціях"
- costa_rica_events.110.d: "Ще одна плантація, згуртована Мора, ПНА та Атлантичним робітничим конгресом, приступила до роботи, вимагаючи, щоб уряд втрутився і продовжив виконувати їхні вимоги до власників плантацій. Оскільки заклики ПНА набувають все більшої популярності в сільській місцевості, багато хто побоюється, що Коста-Ріка також може врешті-решт опинитися на порозі революції."
+ costa_rica_events.110.d: "Ще одна плантація, згуртована Мора, ПНА та Атлантичним робітничим конгресом, приступила до роботи, вимагаючи, щоб уряд втрутився і продовжив виконувати їхні вимоги до власників плантацій. Оскільки заклики ПНА набувають все більшої популярності в сільській місцевості, багато хто побоюється, що Коста-Рика також може врешті-решт опинитися на порозі революції."
  costa_rica_events.110.a: "Дідько!"
 
  costa_rica_events.113.t: "Криза в Центральній Америці"
@@ -1026,90 +1026,90 @@
  costa_rica_events.131.d: "На наш превеликий подив, канадський уряд ввічливо відхилив нашу пропозицію, скоріш за все, через побоювання, що їм доведеться захищати нас, якщо прийде час."
  costa_rica_events.131.a: "Принаймні, ми спробували."
 
- costa_rica_events.132.t: "Formation of the Democratic Alliance of the Caribbean"
- costa_rica_events.132.d: "With our country being saved from tyranny by the Caudillo Figueres Ferrer, a new wave of hope for freedom and democracy has manifested.\nThis new spirit to fight for the less fortunate countries still oppressed by dictators has resulted in the proclamation of the Democratic Alliance of the Caribbean, an alliance open to all the democracies of the Caribbean, as well as to El Salvador and Ecuador. Its fundamental aims will be to strengthen democracy in the region and to act as one in defence of our common economic, military and political interests.\nWith one of its immediate goals being the creation of a democratic Central American Federation, uniting the five republics to use their combined might to bring the goals of the alliance to reality."
- costa_rica_events.132.a: "For a brighter future for Central America!"
+ costa_rica_events.132.t: "Формування Демократичного альянсу Карибського басейну"
+ costa_rica_events.132.d: "Після того, як нашу країну врятував від тиранії Каудільйо Фігерес Феррер, виникла нова хвиля надії на свободу та демократію.\nЦей новий дух боротьби за менш заможні країни, які все ще пригнічені диктаторами, призвів до проголошення Демократичного альянсу Карибського басейну, альянсу, відкритого для всіх демократичних країн Карибського басейну, а також для Сальвадору та Еквадору. Його основними цілями будуть зміцнення демократії в регіоні та спільні дії на захист наших спільних економічних, військових та політичних інтересів.\nОднією з його найближчих цілей є створення демократичної Центральноамериканської Федерації, яка об'єднає п'ять республік, щоб використати їхню спільну міць для реалізації цілей альянсу."
+ costa_rica_events.132.a: "За світле майбутнє Центральної Америки!"
 
- costa_rica_events.133.t: "Invitation to the Economic Bloc"
- costa_rica_events.133.d: "Our [FROM.GetAdjetive] allies have proposed an economic bloc to strengthen the economy of the members of the alliance."
- costa_rica_events.133.a: "We appreciate the solidarity."
+ costa_rica_events.133.t: "Запрошення до Економічного блоку"
+ costa_rica_events.133.d: "Наші [FROM.GetAdjetive] союзники запропонували економічний блок для зміцнення економіки членів альянсу."
+ costa_rica_events.133.a: "Ми цінуємо солідарність."
 
- costa_rica_events.134.t: "[FROM.GetName] Offers us an Invitation to Democratic Alliance of the Caribbean"
- costa_rica_events.134.d: "[FROM.GetName] has offered us an invitation to their faction, claiming that our current alliance with Colombia will over time devolve into one of subjugation and that they are looking for the best for our democracy and sovereignty.\n\nWhile a very alarmist take on the issue, it is true that there is a big power imbalance between us and Colombia, but their strength is also beneficial because it helps deter forces to attacks us. Should accept this offer?"
- costa_rica_events.134.a: "Our destiny lies with in the Caribbean."
- costa_rica_events.134.b: "The Colombians will offer better protection."
+ costa_rica_events.134.t: "[FROM.GetName] Пропонує Нам Запрошення до Демократичного альянсу Карибського басейну"
+ costa_rica_events.134.d: "[FROM.GetName] запропонувала нам приєднатися до їхньої фракції, стверджуючи, що наш поточний альянс із Колумбією з часом перетвориться на підкорення, і що вони прагнуть найкращого для нашої демократії та суверенітету.\n\nХоча це дуже алармістське твердження, це правда, що між нами та Колумбією існує великий дисбаланс сил, але їхня сила також корисна, оскільки допомагає стримувати сили від нападу на нас. Чи варто приймати цю пропозицію?"
+ costa_rica_events.134.a: "Наша доля лежить у Карибському басейні."
+ costa_rica_events.134.b: "Колумбійці запропонують кращий захист."
 
- costa_rica_events.135.t: "Suspicious Activity from Panama"
- costa_rica_events.135.d: "We have received news of a meeting between Panama and [FROM.FROM.GetName], discussing Panama potentially leaving our alliance over fears of subjugation. This is a very obvious ploy of [FROM.FROM.GetName] to get Panama on their Alliance, but showing that we don't mean this at all could calm this distrust from spiralling out of control."
- costa_rica_events.135.a: "Nothing to worry about."
- costa_rica_events.135.b: "Let's reassure our ally of our true intentions"
+ costa_rica_events.135.t: "Підозріла Активність Панами"
+ costa_rica_events.135.d: "Ми отримали новини про зустріч між Панамою та [FROM.FROM.GetName], де обговорювалося можливе залишення Панамою нашого альянсу через побоювання підкорення. Це дуже очевидна хитрість [FROM.FROM.GetName], щоб залучити Панаму до свого Альянсу, але демонстрація того, що ми зовсім цього не прагнемо, може заспокоїти цю недовіру, щоб вона не вийшла з-під контролю."
+ costa_rica_events.135.a: "Нема про що хвилюватися."
+ costa_rica_events.135.b: "Давайте запевнимо нашого союзника у наших справжніх намірах"
 
- costa_rica_events.136.t: "Panama Aligns with Us"
- costa_rica_events.136.d: "Panama has seen reason and decided to join us."
- costa_rica_events.136.a: "Another ally to the democratic cause."
+ costa_rica_events.136.t: "Панама Приєднується до Нас"
+ costa_rica_events.136.d: "Панама побачила розум і вирішила приєднатися до нас."
+ costa_rica_events.136.a: "Ще один союзник демократичної справи."
 
- costa_rica_events.137.t: "Panama Declines Our Offer"
- costa_rica_events.137.d: "Panama has decided to remain in the Andean Pact."
- costa_rica_events.137.a: "Let's hope the best for them."
+ costa_rica_events.137.t: "Панама Відхиляє Нашу Пропозицію"
+ costa_rica_events.137.d: "Панама вирішила залишитися в Андському пакті."
+ costa_rica_events.137.a: "Будемо сподіватися на краще для них."
 
- costa_rica_events.138.t: "A Union of Alliances?"
- costa_rica_events.138.d: "[FROM.GetName] has come today to sort our issues regarding our shared interest in the region of Panama. Their solution involved uniting both alliances to share such an important position.\nThey also argue that uniting our forces will help to better defend against any threats and give us benefits to our economies, but it's undeniable that this would come at the price of helping in their crusade against dictatorships and leaving our non-democratic members out."
- costa_rica_events.138.a: "Unity will bring prosperity and security to all."
- costa_rica_events.138.b: "We are better off on our own."
+ costa_rica_events.138.t: "Союз Альянсів?"
+ costa_rica_events.138.d: "[FROM.GetName] сьогодні прибула, щоб вирішити наші проблеми, пов'язані з нашим спільним інтересом у регіоні Панами. Їхнє рішення включало об'єднання обох альянсів, щоб розділити таку важливу позицію.\nВони також стверджують, що об'єднання наших сил допоможе краще захиститися від будь-яких загроз і принесе користь нашим економікам, але незаперечно, що це матиме ціну допомоги у їхньому хрестовому поході проти диктатур та виключення наших недемократичних членів."
+ costa_rica_events.138.a: "Єдність принесе процвітання та безпеку всім."
+ costa_rica_events.138.b: "Нам краще самостійно."
 
- costa_rica_events.139.t: "Unification with Costa Rica"
- costa_rica_events.139.d: "The Costa Rican government surprised us today announcing their intentions of joining our country in hopes to create a stronger union and implement the democratic framework of their country into the Federation, to avoid the issues that brought down its predecessor.\n\nExpectedly, we will not reject such a deal and have work to make the union as smooth and fast as possible to have the five republics finally united under the banner of the Federation."
- costa_rica_events.139.a: "The Federation reunited at last."
+ costa_rica_events.139.t: "Об'єднання з Коста-Рикою"
+ costa_rica_events.139.d: "Уряд Коста-Рики здивував нас сьогодні, оголосивши про свій намір приєднатися до нашої країни в надії створити міцніший союз та впровадити демократичні основи своєї країни у Федерацію, щоб уникнути проблем, які зруйнували її попередницю.\n\nЯк і очікувалося, ми не відхилимо таку угоду і будемо працювати над тим, щоб зробити об'єднання якомога більш гладким і швидким, щоб п'ять республік нарешті об'єдналися під прапором Федерації."
+ costa_rica_events.139.a: "Федерація нарешті возз'єдналася."
 
- costa_rica_events.140.t: "Establishing Closer Ties with Central America"
- costa_rica_events.140.d_level_1: "As the first step in drawing our countries closer, [FROM.GetLeader] has suggested that we reduce our number of military personal as they are more fitting for taking the job of security.\nThis would hardly change our current situation as our army is already very small in comparison to them.\n\nBut something they demanded was a ban on all news that print anti-unification propaganda as they don't desire that these ideas later brew into rebellions and protest."
- costa_rica_events.140.d_level_2: "Another meeting was held today about further ties, in which the Central American government offered to invest in our industrial sector to reduce the amount of control foreign owned companies have in our country.\nBut our experts see that this would only be transferring that control over to them as no promises have been made regarding the control of the land and factories outside of a good share of the profits coming back to us.\nThere isn't much pushback knowing the full end goal of the negotiation, but the few that still resist see this as our last chance to maintain our sovereignty."
- costa_rica_events.140.d_level_3: "On today's meeting, we were surprised by Central America \"offering\" to take care of most of our external diplomatic matters so we can fully prepare for future integration into the wider union.\nWith this being our last true chance to decline, many government workers are threatening to resign if we accept this deal."
- costa_rica_events.140.d_final: "Our final meeting is being held as the final paper is being completed for our government to transition to just a regional one and to have the five republics finally united under one banner once more."
- costa_rica_events.140.a: "Closer relations will benefit both."
- costa_rica_events.140.b: "This is unacceptable."
+ costa_rica_events.140.t: "Встановлення Ближчих Зв'язків із Центральною Америкою"
+ costa_rica_events.140.d_level_1: "Як перший крок до зближення наших країн, [FROM.GetLeader] запропонував, щоб ми скоротили кількість військового персоналу, оскільки вони більш придатні для виконання завдань з безпеки.\nЦе навряд чи змінить нашу поточну ситуацію, оскільки наша армія вже дуже мала порівняно з ними.\n\nАле вони вимагали заборони всіх новин, які друкують антиоб'єднавчу пропаганду, оскільки вони не бажають, щоб ці ідеї пізніше переросли у повстання та протести."
+ costa_rica_events.140.d_level_2: "Сьогодні відбулася ще одна зустріч щодо подальших зв'язків, на якій уряд Центральної Америки запропонував інвестувати у наш промисловий сектор, щоб зменшити ступінь контролю іноземних компаній у нашій країні.\nАле наші експерти бачать, що це лише передасть контроль над ними, оскільки не було обіцянок щодо контролю над землею та фабриками, окрім того, що до нас повернеться значна частка прибутків.\nОсобливого опору немає, знаючи кінцеву мету переговорів, але ті, хто все ще чинить опір, бачать у цьому наш останній шанс зберегти свій суверенітет."
+ costa_rica_events.140.d_level_3: "На сьогоднішній зустрічі нас здивувала Центральна Америка, «запропонувавши» взяти на себе більшість наших зовнішніх дипломатичних справ, щоб ми могли повністю підготуватися до майбутньої інтеграції у ширший союз.\nОскільки це наш останній реальний шанс відмовитися, багато державних службовців погрожують піти у відставку, якщо ми приймемо цю угоду."
+ costa_rica_events.140.d_final: "Наше фінальне засідання відбувається, коли завершується оформлення останнього документа для переходу нашого уряду до суто регіонального, і п'ять республік нарешті об'єднаються під одним прапором."
+ costa_rica_events.140.a: "Ближчі відносини підуть на користь обом."
+ costa_rica_events.140.b: "Це неприйнятно."
 
 ### Characters ###
- COS_manuel_mora_valverde: "Manuel Mora Valverde"
- COS_manuel_mora_valverde_leader_desc: "§YBorn:§! §LAugust 27th, 1909, in San José, San José Province, Republic of Costa Rica§!"
- COS_rafael_angel_calderon_guardia: "Rafael Ángel Calderón Guardia"
- COS_rafael_angel_calderon_guardia_leader_desc: "§YBorn:§! §LMarch 10th, 1900, in San José, San José Province, Republic of Costa Rica§!"
- COS_teodoro_picado_michalski: "Teodoro Picado Michalski"
- COS_teodoro_picado_michalski_leader_desc: "§YBorn:§! §LJanuary 10th, 1900, in San José, San José Province, Republic of Costa Rica§!"
- COS_jose_figueres_ferrer: "José Figueres Ferrer"
- COS_jose_figueres_ferrer_army_chief_desc: "§YBorn:§! §LSeptember 25th, 1906, in San Ramón, Alajuela Province, Republic of Costa Rica§!"
- COS_francisco_vargas_vargas: "Francisco Vargas Vargas"
- COS_carlos_maria_jimenez_ortiz: "Carlos María Jiménez Ortiz"
+ COS_manuel_mora_valverde: "Мануель Мора Вальверде"
+ COS_manuel_mora_valverde_leader_desc: "§YНародився:§! §L27 серпня 1909 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_rafael_angel_calderon_guardia: "Рафаель Анхель Кальдерон Гвардія"
+ COS_rafael_angel_calderon_guardia_leader_desc: "§YНародився:§! §L10 березня 1900 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_teodoro_picado_michalski: "Теодоро Пікадо Міхальський"
+ COS_teodoro_picado_michalski_leader_desc: "§YНародився:§! §L10 січня 1900 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_jose_figueres_ferrer: "Хосе Фігерес Феррер"
+ COS_jose_figueres_ferrer_army_chief_desc: "§YНародився:§! §L25 вересня 1906 року в Сан-Рамон, Провінція Алахуела, Республіка Коста-Рика§!"
+ COS_francisco_vargas_vargas: "Франсіско Варгас Варгас"
+ COS_carlos_maria_jimenez_ortiz: "Карлос Марія Хіменес Ортіс"
 
- COS_ricardo_jimenez_oreamuno: "Ricardo Jiménez Oreamuno"
- COS_ricardo_jimenez_oreamuno_leader_desc: "§YBorn:§! §LFebruary 6th, 1859, in Cartago, Cartago Province, Republic of Costa Rica§!\n§YBackground:§! §LThe son of two-time president Jesús Jiménez Zamora, Ricardo Jiménez Oreamuno rose to prominence before the Weltkrieg. In his first term as president between 1910 and 1914, he oversaw the repayment of the country's crippling national debt. By his third stint as president, the country's national debt had again skyrocketed, and again President Jiménez attempted, less successfully than before, to bring Costa Rica back from the brink of default.\nLooking forward, Jiménez fears that without a principled hand to guide it, Costa Rican democracy could be hijacked by foreign economic interests. Perhaps though he wishes to retire from politics, such fears will ensure his continued presence.§!"
+ COS_ricardo_jimenez_oreamuno: "Рікардо Хіменес Ореамуно"
+ COS_ricardo_jimenez_oreamuno_leader_desc: "§YНародився:§! §L6 лютого 1859 року в Картаго, Провінція Картаго, Республіка Коста-Рика§!\n§YПоходження:§! §LСин дворазового президента Хесуса Хіменеса Самори, Рікардо Хіменес Ореамуно здобув популярність ще до Світової війни. Під час свого першого терміну на посаді президента між 1910 і 1914 роками він керував погашенням величезного національного боргу країни. До його третього терміну на посаді президента національний борг країни знову стрімко зріс, і Президент Хіменес знову, менш успішно, ніж раніше, спробував вивести Коста-Рику з-під загрози дефолту.\nДивлячись уперед, Хіменес побоюється, що без принципової руки, яка б керувала нею, Коста-Риканська демократія може бути захоплена іноземними економічними інтересами. Хоча він, можливо, бажає піти з політики, такі побоювання забезпечать його постійну присутність.§!"
 
- COS_leon_cortes_castro: "León Cortés Castro"
- COS_leon_cortes_castro_leader_desc: "§YBorn:§! §LOctober 8th, 1882, in Alajuela, Alajuela Province, Republic of Costa Rica§!"
- COS_julio_acosta_garcia: "Хуліо Акоста Ґарсія"
- COS_julio_acosta_garcia_leader_desc: "§YBorn:§! §LMay 23rd, 1872, in San Ramón, Alajuela Province, Republic of Costa Rica§!"
+ COS_leon_cortes_castro: "Леон Кортес Кастро"
+ COS_leon_cortes_castro_leader_desc: "§YНародився:§! §L8 жовтня 1882 року в Алахуела, Провінція Алахуела, Республіка Коста-Рика§!"
+ COS_julio_acosta_garcia: "Хуліо Акоста Гарсія"
+ COS_julio_acosta_garcia_leader_desc: "§YНародився:§! §L23 травня 1872 року в Сан-Рамон, Провінція Алахуела, Республіка Коста-Рика§!"
 
- COS_consejo_de_seguridad_nacional: "Consejo de Seguridad Nacional"
- COS_consejo_de_seguridad_nacional_leader_desc: "§YFounded:§! §Lin San José, San José Province, Republic of Costa Rica§!\n§YBackground:§! §LWith great political disruption at hand, a mostly conservative Council of Ministers has been appointed collectively act as both head of state and government while national affairs are sorted.§!"
+ COS_consejo_de_seguridad_nacional: "Рада національної безпеки"
+ COS_consejo_de_seguridad_nacional_leader_desc: "§YЗаснована:§! §Lу Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!\n§YПоходження:§! §LВ умовах великих політичних потрясінь було призначено переважно консервативну Раду Міністрів, яка колективно виконує функції як глави держави, так і уряду, поки національні справи не будуть впорядковані.§!"
 
- COS_max_koberg_bolandi: "Max Koberg Bolandi"
+ COS_max_koberg_bolandi: "Макс Коберг Боланді"
 
- COS_rafael_castro_quesada: "Rafael Castro Quesada"
- COS_rafael_castro_quesada_army_chief_desc: "§YBorn:§! §LMarch 27th, 1885, in San José, San José Province, Republic of Costa Rica§!"
- COS_arturo_quiros_carranza: "Arturo Quirós Carranza"
- COS_arturo_quiros_carranza_army_chief_desc: "§YBorn:§! §LJune 8th, 1887, in San José, San José Province, Republic of Costa Rica§!"
+ COS_rafael_castro_quesada: "Рафаель Кастро Кесада"
+ COS_rafael_castro_quesada_army_chief_desc: "§YНародився:§! §L27 березня 1885 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_arturo_quiros_carranza: "Артуро Кірос Карранса"
+ COS_arturo_quiros_carranza_army_chief_desc: "§YНародився:§! §L8 червня 1887 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
 
- COS_ricardo_castro_beeche: "Ricardo Castro Béeche"
- COS_ricardo_castro_beeche_advisor_desc: "§YBorn:§! §LApril 11th, 1894, in San José, San José Province, Republic of Costa Rica§!"
- COS_rafael_calderon_mumoz: "Rafael Calderón Muñoz"
- COS_rafael_calderon_mumoz_advisor_desc: "§YBorn:§! §LOctober 24th, 1869, in San José, San José Province, Republic of Costa Rica§!"
- COS_jose_albertazzi_avendano: "José Albertazzi Avendaño"
- COS_jose_albertazzi_avendano_advisor_desc: "§YBorn:§! §LJanuary 15th, 1892, in Paraíso, Cartago Province, Republic of Costa Rica§!"
- COS_juan_rafael_arias_bonilla: "Juan Rafael Arias Bonilla"
- COS_juan_rafael_arias_bonilla_advisor_desc: "§YBorn:§! §LFebruary 15th, 1877, in Heredia, Heredia Province, Republic of Costa Rica§!"
- COS_cleto_gonzalez_viquez: "Cleto González Víquez"
- COS_cleto_gonzalez_viquez_advisor_desc: "§YBorn:§! §LOctober 13th, 1858, in Barva, Heredia Province, Republic of Costa Rica§!"
- COS_santos_leon_herrera: "Santos León Herrera"
- COS_santos_leon_herrera_advisor_desc: "§YBorn:§! §LMay 21st, 1874, in San José, San José Province, Republic of Costa Rica§!"
- COS_jorge_volio_jimenez: "Jorge Volio Jiménez"
- COS_jorge_volio_jimenez_army_chief_desc: "§YBorn:§! §LAugust 26th, 1882, in Cartago, Cartago Province, Republic of Costa Rica§!"
+ COS_ricardo_castro_beeche: "Рікардо Кастро Беече"
+ COS_ricardo_castro_beeche_advisor_desc: "§YНародився:§! §L11 квітня 1894 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_rafael_calderon_mumoz: "Рафаель Кальдерон Муньос"
+ COS_rafael_calderon_mumoz_advisor_desc: "§YНародився:§! §L24 жовтня 1869 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_jose_albertazzi_avendano: "Хосе Альбертацці Авенданьо"
+ COS_jose_albertazzi_avendano_advisor_desc: "§YНародився:§! §L15 січня 1892 року в Параїсо, Провінція Картаго, Республіка Коста-Рика§!"
+ COS_juan_rafael_arias_bonilla: "Хуан Рафаель Аріас Бонілья"
+ COS_juan_rafael_arias_bonilla_advisor_desc: "§YНародився:§! §L15 лютого 1877 року в Ередії, Провінція Ередія, Республіка Коста-Рика§!"
+ COS_cleto_gonzalez_viquez: "Клето Гонсалес Вікес"
+ COS_cleto_gonzalez_viquez_advisor_desc: "§YНародився:§! §L13 жовтня 1858 року в Барва, Провінція Ередія, Республіка Коста-Рика§!"
+ COS_santos_leon_herrera: "Сантос Леон Еррера"
+ COS_santos_leon_herrera_advisor_desc: "§YНародився:§! §L21 травня 1874 року в Сан-Хосе, Провінція Сан-Хосе, Республіка Коста-Рика§!"
+ COS_jorge_volio_jimenez: "Хорхе Воліо Хіменес"
+ COS_jorge_volio_jimenez_army_chief_desc: "§YНародився:§! §L26 серпня 1882 року в Картаго, Провінція Картаго, Республіка Коста-Рика§!"

@@ -130,75 +130,75 @@
 ###############################################
 
  ottoman_province_title: "[THIS.OttomansGetStateProvinceStatus]"
- OTT_vilayet_state: "Vilayet of [THIS.OttomansGetStateProvinceTitle]" # (!): зробіть як [x] вілаєт, а в назвах нижче – примкетник (по можливості). ~ L.H.
- OTT_mutasarrifate_state: "Mutasarrifate of [THIS.OttomansGetStateProvinceTitle]" # (!): [x] мутасарріфат?
- OTT_egypt_state: "Ottoman Egypt"
+ OTT_vilayet_state: "Вілаєт [THIS.OttomansGetStateProvinceTitle|A]" # (!): зробіть як [x] вілаєт, а в назвах нижче – примкетник (по можливості). ~ L.H.
+ OTT_mutasarrifate_state: "Мутасарріфат [THIS.OttomansGetStateProvinceTitle|A]" # (!): [x] мутасарріфат?
+ OTT_egypt_state: "Османський Єгипет"
 
- ottoman_province_773: "Constantinople"
- ottoman_province_341: "Edirne"
- ottoman_province_989: "Salonica"
- ottoman_province_340: "Bursa"
- ottoman_province_339: "Aydin"
- ottoman_province_356: "Kastamonu"
- ottoman_province_49: "Ankara"
- ottoman_province_345: "Sivas"
- ottoman_province_346: "Konya"
- ottoman_province_344: "Adana"
- ottoman_province_355: "Trabzon"
- ottoman_province_354: "Erzurum"
- ottoman_province_585: "Batum"
- ottoman_province_1000: "Kars"
+ ottoman_province_773: "Константинополь"
+ ottoman_province_341: "Адріанополь"
+ ottoman_province_989: "Салоніки"
+ ottoman_province_340: "Бурса"
+ ottoman_province_339: "Айдин"
+ ottoman_province_356: "Кастамону"
+ ottoman_province_49: "Анкара"
+ ottoman_province_345: "Сівас"
+ ottoman_province_346: "Конья"
+ ottoman_province_344: "Адана"
+ ottoman_province_355: "Трабзон"
+ ottoman_province_354: "Ерзурум"
+ ottoman_province_585: "Батумі"
+ ottoman_province_1000: "Карс"
 
- ottoman_province_352: "Van"
- ottoman_province_350: "Diyarbekir"
+ ottoman_province_352: "Ван"
+ ottoman_province_350: "Діярбекір"
 
- ottoman_province_230: "Erivan"
- ottoman_province_229: "Baku"
- ottoman_province_419: "Tabriz"
+ ottoman_province_230: "Еривань"
+ ottoman_province_229: "Баку"
+ ottoman_province_419: "Тебриз"
 
- ottoman_province_676: "Mosul"
- ottoman_province_291: "Baghdad"
- ottoman_province_812: "Basra"
+ ottoman_province_676: "Мосул"
+ ottoman_province_291: "Багдад"
+ ottoman_province_812: "Басра"
 
- ottoman_province_164: "the Archipelago"
+ ottoman_province_164: "Архіпелаг"
 
- ottoman_province_677: "Aleppo"
- ottoman_province_553: "Beirut"
- ottoman_province_454: "Jerusalem"
- ottoman_province_554: "Syria"
- ottoman_province_679: "Hejaz"
- ottoman_province_293: "Yemen"
- ottoman_province_659: "Aden"
- ottoman_province_294: "Muscat"
+ ottoman_province_677: "Алеппо"
+ ottoman_province_553: "Бейрут"
+ ottoman_province_454: "Єрусалим"
+ ottoman_province_554: "Сирія"
+ ottoman_province_679: "Хіджаз"
+ ottoman_province_293: "Ємен"
+ ottoman_province_659: "Аден"
+ ottoman_province_294: "Маскат"
 
- ottoman_province_448: "Tripolitania"
+ ottoman_province_448: "Триполітанія"
 
- cyprus_mutasarrifate_state: "Cyprus"
- mt_lebanon_mutasarrifate_state: "Mt. Lebanon"
+ cyprus_mutasarrifate_state: "Кіпр"
+ mt_lebanon_mutasarrifate_state: "Гора Ліван"
 
 #############
 # Companies #
 #############
 
- karabuk_demir: "Karabük Demir Çelik Fabrikaları"
- koc: "Koç Ticaret A.Ş"
- tpc: "Türk Petrol Şirketi"
- ankara_tufek: "Ankara Tüfek Fabrikası"
- sarsilmaz: "Sarsılmaz"
- mke: "MKE Top Fabrikası"
- opel_osmanen: "Opel Tophane"
- uzel_traktor: "Uzel Traktör Fabrikası"
- hulomsas: "Anadolu-Osmanlı Şimendifer Kumpanyası"
- hurkus: "Hürkuş"
- tomtas: "TOMTAŞ"
- nuri_demirag_company: "Nuri Demirağ"
- thk_company: "Osmanlı Hava Kurumu"
- golcuk_tersanesi: "Gölcük Tersanesi"
- taskizak_tersanesi: "Taşkızak Tersanesi"
- ddum: "Devlet Demiryolları Umum Müdürlüğü"
- postahane: "Postahane-i Amire"
- sadolin: "Sadolin ve Yaşarin A.Ş"
- basak: "Başak Traktör"
+ karabuk_demir: "Карабюкський металургійний завод"
+ koc: "Коч Тікарет А.Ш."
+ tpc: "Турецька нафтова компанія"
+ ankara_tufek: "Анкарська рушнична фабрика"
+ sarsilmaz: "Сарсилмаз"
+ mke: "Фабрика гармат МКЕ"
+ opel_osmanen: "Опель Топхане"
+ uzel_traktor: "Фабрика тракторів Узел"
+ hulomsas: "Анатолійсько-Османська залізнична компанія"
+ hurkus: "Хюркуш"
+ tomtas: "ТОМТАШ"
+ nuri_demirag_company: "Нурі Деміраг"
+ thk_company: "Османська авіаційна установа"
+ golcuk_tersanesi: "Верфі Гьольджюк"
+ taskizak_tersanesi: "Верфі Ташкізак"
+ ddum: "Головне управління державних залізниць"
+ postahane: "Поштахане-і Аміре"
+ sadolin: "Садолін ве Яшарін А.Ш."
+ basak: "Башак Трактор"
 
 ### Ship Name Listss
  NAME_THEME_DENIZALTI_OTT: "Denizalti (Підводні човни)"
@@ -332,22 +332,22 @@
 
 ### Scripted Loc
 # Used in [OTT_GetHeirName]
- OTT_mehmed_selim_osmanoglu_crown_prince_desc: "Mehmed Selim" # (!)
- OTT_mehmed_ziyaeddin_osmanoglu_crown_prince_desc: "Mehmed Ziyaeddin" # (!)
- OTT_mehmed_abdulkadir_osmanoglu_crown_prince_desc: "Mehmed Abdülkadir" # (!)
- OTT_ahmed_nuri_osmanoglu_crown_prince_desc: "Ahmed Nuri" # (!)
- OTT_ahmed_nihad_osmanoglu_crown_prince_desc: "Ahmed Nihad" # (!)
- OTT_mehmed_burhaneddin_osmanoglu_crown_prince_desc: "Mehmed Burhaneddin" # (!)
- OTT_mehmed_cemaleddin_osmanoglu_crown_prince_desc: "Mehmed Cemaleddin" # (!)
+ OTT_mehmed_selim_osmanoglu_crown_prince_desc: "Мехмед Селім" # (!)
+ OTT_mehmed_ziyaeddin_osmanoglu_crown_prince_desc: "Мехмед Зіяеддін" # (!)
+ OTT_mehmed_abdulkadir_osmanoglu_crown_prince_desc: "Мехмед Абдулкадір" # (!)
+ OTT_ahmed_nuri_osmanoglu_crown_prince_desc: "Ахмед Нурі" # (!)
+ OTT_ahmed_nihad_osmanoglu_crown_prince_desc: "Ахмед Ніхад" # (!)
+ OTT_mehmed_burhaneddin_osmanoglu_crown_prince_desc: "Мехмед Бурханеддін" # (!)
+ OTT_mehmed_cemaleddin_osmanoglu_crown_prince_desc: "Мехмед Джемаледдін" # (!)
 
 # Used in [OTT_GetSultanCommonName]
- OTT_abdulmecid_common_name: "Abdülmecid" # (!)
- OTT_mehmed_ziyeddin_common_name: "Ziyaeddin" # (!)
- OTT_mehmed_abdulkadir_common_name: "Abdülkadir" # (!)
- OTT_ahmed_nuri_common_name: "Nuri" # (!)
- OTT_ahmed_nihad_common_name: "Nihad" # (!)
- OTT_osman_fuad_common_name: "Fuad" # (!)
- OTT_omer_faruk_common_name: "Faruk" # (!)
+ OTT_abdulmecid_common_name: "Абдул-Меджид" # (!)
+ OTT_mehmed_ziyeddin_common_name: "Зіяеддін" # (!)
+ OTT_mehmed_abdulkadir_common_name: "Абдулкадір" # (!)
+ OTT_ahmed_nuri_common_name: "Нурі" # (!)
+ OTT_ahmed_nihad_common_name: "Ніхад" # (!)
+ OTT_osman_fuad_common_name: "Фуад" # (!)
+ OTT_omer_faruk_common_name: "Фарук" # (!)
 
 ### Decisions
 # Syria
@@ -413,11 +413,11 @@
 #####################
 # Dynamic Modifiers #
 #####################
- OTT_literacy_negative_dynamic_modifier: "Widespread Illiteracy" # (!)
- OTT_literacy_negative_dynamic_modifier_desc: "Illiteracy is widespread among much of the [TUR.GetAdjective] population. The complexity of the Perso-Arabic script, combined with limited access to schooling and inadequate educational standards, has contributed to a general disinterest in further education, evident in the lack of engagement with supplementary materials and government bulletins. This state of affairs has significantly hindered past modernisation efforts and continues to limit [TUR.GetNameDef]'s ability to innovate and adopt new ideas." # (!)
+ OTT_literacy_negative_dynamic_modifier: "Поширена Неграмотність" # (!)
+ OTT_literacy_negative_dynamic_modifier_desc: "Неграмотність поширена серед більшої частини [TUR.GetAdjective] населення. Складність персько-арабського письма, у поєднанні з обмеженим доступом до шкіл та неадекватними освітніми стандартами, сприяла загальній незацікавленості у подальшій освіті, що помітно у відсутності взаємодії з додатковими матеріалами та урядовими бюлетенями. Такий стан справ значно гальмував попередні зусилля з модернізації та продовжує обмежувати здатність [TUR.GetNameDef] до інновацій та прийняття нових ідей." # (!)
 
- OTT_literacy_positive_dynamic_modifier: "Literacy on the Rise" # (!)
- OTT_literacy_positive_dynamic_modifier_desc: "The governmment's educational initiatives have begun to bear fruit, with illiteracy on the steady decline. Bulletins from both the Porte and the Province are spreading new ideas that are helping to improve standards of living and productivity." # (!)
+ OTT_literacy_positive_dynamic_modifier: "Зростання Грамотності" # (!)
+ OTT_literacy_positive_dynamic_modifier_desc: "Освітні ініціативи уряду почали приносити плоди, рівень неграмотності неухильно знижується. Бюлетені як від Порти, так і від Провінцій поширюють нові ідеї, які допомагають підвищити рівень життя та продуктивність." # (!)
 
  vilayet_stability_dynamic_modifier: "£pol_idea Стабільність держави"
  ott_vilayet_stability_idea: "Стабільність держави"
@@ -3567,229 +3567,229 @@
  OTT_Population_752_desc: "Малонаселений та ізольований від усього світу регіон Хадрамаут історично ігнорувався як історією, так і завойовниками. Ізоляція призвела до того, що в мові хадрамців зберігся значний вплив стародавніх південно-семітських мов, і вони стали джерелом великої цікавості для британських дослідників наприкінці 1800-х років.\nРозділені горами, хадрами займаються сільським господарством на узбережжі та скотарством на півночі, використовуючи нечисленні водні ресурси. Існує також значна громада хадрамських євреїв, що надзвичайно відрізняється від інших єврейських громад через їхню довгу історичну ізоляцію від інших громад."
 
 ### Characters ###
- TUR_resad_fuad_baraner: "Reşad Fuat Baraner"
- TUR_resad_fuad_baraner_leader_desc: "§YBorn:§! §L1902, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_resad_fuad_baraner: "Решад Фуад Баранер"
+ TUR_resad_fuad_baraner_leader_desc: "§YНародився:§! §L1902 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_sefik_husnu_deymer: "Şefik Hüsnü Deymer"
- TUR_sefik_husnu_deymer_leader_desc: "§YBorn:§! §LApril 18th, 1890, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_sefik_husnu_deymer: "Шефік Хюсню Деймер"
+ TUR_sefik_husnu_deymer_leader_desc: "§YНародився:§! §L18 квітня 1890 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_hikmet_kivilcimli: "Hikmet Âli Kıvılcımlı"
- TUR_hikmet_kivilcimli_leader_desc: "§YBorn:§! §L1902, in Priştine, Vilayet of Kosovo, Ottoman Empire§!"
+ TUR_hikmet_kivilcimli: "Хікмет Алі Кивілджімлі"
+ TUR_hikmet_kivilcimli_leader_desc: "§YНародився:§! §L1902 року в Приштині, Вілаєт Косово, Османська імперія§!"
 
- TUR_hasan_ali_yucel: "Hasan Âli Yücel"
- TUR_hasan_ali_yucel_leader_desc: "§YBorn:§! §LDecember 17th, 1897, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_hasan_ali_yucel: "Хасан Алі Юджель"
+ TUR_hasan_ali_yucel_leader_desc: "§YНародився:§! §L17 грудня 1897 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_ali_fethi_okyar: "Ali Fethi Okyar"
- TUR_ali_fethi_okyar_leader_desc: "§YBorn:§! §LApril 29th, 1880, in Prilep, Vilayet of Manastir, Ottoman Empire§!"
+ TUR_ali_fethi_okyar: "Алі Фетхі Ок'яр"
+ TUR_ali_fethi_okyar_leader_desc: "§YНародився:§! §L29 квітня 1880 року в Прилепі, Вілаєт Манастір, Османська імперія§!"
 
- TUR_adnan_menderes: "Adnan Menderes"
- TUR_adnan_menderes_leader_desc: "§YBorn:§! §L1899, in Çakırbeyli, Koçarlı, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_adnan_menderes: "Аднан Мендерес"
+ TUR_adnan_menderes_leader_desc: "§YНародився:§! §L1899 року в Чакірбейлі, Кочарли, Вілаєт Айдин, Османська імперія§!"
 
- TUR_yusuf_hikmet_bayur: "Yusuf Hikmet Bayur"
- TUR_yusuf_hikmet_bayur_leader_desc: "§YBorn:§! §LJanuary 21st, 1891, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_yusuf_hikmet_bayur: "Юсуф Хікмет Баюр"
+ TUR_yusuf_hikmet_bayur_leader_desc: "§YНародився:§! §L21 січня 1891 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_ismet_inonu: "Mustafa İsmet Reşit"
- TUR_ismet_inonu_leader_desc: "§YBorn:§! §LSeptember 24th, 1884, in Smyrna, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_ismet_inonu: "Мустафа Ісмет Решит"
+ TUR_ismet_inonu_leader_desc: "§YНародився:§! §L24 вересня 1884 року в Смірні, Вілаєт Айдин, Османська імперія§!"
 
- TUR_fevzi_cakmak: "Mustafa Fevzi Çakmak"
- TUR_fevzi_cakmak_leader_desc: "§YBorn:§! §LJanuary 12th, 1876, in Cihangir, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_fevzi_cakmak: "Мустафа Февзі Чакмак"
+ TUR_fevzi_cakmak_leader_desc: "§YНародився:§! §L12 січня 1876 року в Джіхангірі, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mehmet_kazim_orbay: "Mehmet Kâzım Orbay"
- TUR_mehmet_kazim_orbay_leader_desc: "§YBorn:§! §LMarch 11th, 1886, in Smyrna, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_mehmet_kazim_orbay: "Мехмет Кязим Орбай"
+ TUR_mehmet_kazim_orbay_leader_desc: "§YНародився:§! §L11 березня 1886 року в Смірні, Вілаєт Айдин, Османська імперія§!"
 
- TUR_mehmet_recep_peker: "Mehmet Recep Peker"
+ TUR_mehmet_recep_peker: "Мехмет Реджеп Пекер"
 
- TUR_abdulmecid_osmanoglu: "Abdülmecid II"
- TUR_abdulmecid_osmanoglu_leader_desc: "§YBorn:§! §LMay 29th, 1868, in the Dolmabahçe Palace, Galata, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!\n§YBackground:§! §LAbdülmecid II was born to then Sultan Abdulaziz and is his third son. During his early life, Abdülmecid enjoyed private education inside the walls of the palace, where he developed interests in music and arts. However, as per Ottoman traditions, he was not allowed to leave the palace until he had reached the age of 40. Still, he was happy, and over time grew increasingly content with the fact that he'll probably never be a Sultan.\n\nIn 1908, the year in which the Young Turk Revolution took place, Abdülmecid was finally old enough to leave the palace. He used his newfound freedoms to share his love for art and music with the world. He became the Chairman of the Ottoman Artists' Society, exhibited his paintings all over Europe, met with some of the most prominent musicians of the continent and learned to play new instruments.\n\nEven though Abdülmecid would have likely wanted to dedicate his entire life to music and arts, the world had bigger plans for him. On the 4th of July 1918, his first cousin Mehmed VI was crowned Sultan, a development which once again saw Abdülmecid become the heir apparent to the throne. After Mehmed had died 8 years later, Abdülmecid succeeded to the throne and was crowned Sultan of the Ottoman Empire and Caliph of all of Islam. For most people, this would've been a dream come true - but for Abdülmecid, it was something he had never truly wanted. His apathy was one of the many reasons for why the Grand Viziers appointed during his reign managed to decrease the already diminished influence of the Sultan even further, turning him into nothing but a popular figurhead that mostly keeps away from politics, and whose main role it is to represent the Empire abroad. By now, the political power of the Sultan has come to an all-time low, and it seems unlikely, if not impossible, that this will change in the near future.§!"
+ TUR_abdulmecid_osmanoglu: "Абдул-Меджид II"
+ TUR_abdulmecid_osmanoglu_leader_desc: "§YНародився:§! §L29 травня 1868 року в Палаці Долмабахче, Галата, Костантініє, Вілаєт Костантініє, Османська імперія§!\n§YПоходження:§! §LАбдул-Меджид II народився у тодішнього Султана Абдул-Азіза і є його третім сином. Протягом свого раннього життя Абдул-Меджид отримував приватну освіту у стінах палацу, де розвинув інтереси до музики та мистецтва. Однак, згідно з Османськими традиціями, йому не дозволяли залишати палац, доки він не досягне віку 40 років. Тим не менш, він був щасливий і з часом все більше мирився з тим фактом, що, ймовірно, ніколи не стане Султаном.\n\nУ 1908 році, році, коли відбулася Революція Молодотурків, Абдул-Меджид нарешті став достатньо дорослим, щоб покинути палац. Він використовував свою новознайдену свободу, щоб поділитися своєю любов'ю до мистецтва та музики зі світом. Він став Головою Османського Товариства Художників, виставляв свої картини по всій Європі, зустрічався з деякими з найвидатніших музикантів континенту та навчився грати на нових інструментах.\n\nХоча Абдул-Меджид, ймовірно, хотів би присвятити все своє життя музиці та мистецтву, світ мав на нього більші плани. 4 липня 1918 року його двоюрідний брат Мехмед VI був коронований Султаном, що знову зробило Абдул-Меджида спадкоємцем трону. Після смерті Мехмеда 8 років потому, Абдул-Меджид став Султаном Османської імперії та Халіфом усього Ісламу. Для більшості людей це було б здійсненням мрії, але для Абдул-Меджида це було те, чого він ніколи по-справжньому не бажав. Його апатія була однією з багатьох причин, чому Великі Візири, призначені під час його правління, змогли ще більше зменшити і без того незначний вплив Султана, перетворивши його лише на популярну номінальну фігуру, яка переважно тримається подалі від політики, і чия головна роль полягає у представленні Імперії за кордоном. На даний момент політична влада Султана досягла найнижчого рівня за весь час, і здається малоймовірним, якщо не неможливим, що це зміниться у найближчому майбутньому.§!"
 
- TUR_mehmed_ziyaeddin_osmanoglu: "Mehmed Ziyaeddin Osmanoğlu"
- TUR_mehmed_ziyaeddin_osmanoglu_regnal: "Mehmed VII Ziyaeddin"
- TUR_mehmed_ziyaeddin_osmanoglu_leader_desc: "§YBorn:§! §LAugust 26th, 1873, in the Çırağan Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!\n§YBackground:§! §LThe firstborn son of Mehmed V and his consort Kamures Kadın, Mehmed Ziyaeddin has been able to enjoy the life of royalty since his birth. With his family moving into the Crown Prince's wing of Dolmabahçe Palace in 1876, when his father became heir apparent to the Ottoman throne, he spent much of his youth confined in the palace's walls.\n\nDeveloping many talents and interests, he soon delved into the world of music, becoming a skilled zither player, composing multiple musical pieces, and patronising numerous promising musicians. Furthermore, he attended the Ottoman Military Academy on the eve of the Balkan Wars, and though he himself never fought on the front lines, he sometimes visited the soldiers, boosting their morale through his presence. Before and during the Weltkrieg, Mehmed received numerous military and civilian honours, both Ottoman and foreign, served as an honorary cavalry brigadier, and took on more representative tasks, even meeting Kaiser Wilhelm II in 1917. Gaining new liberties through the eventual Ottoman victory, he then pursued a new interest, graduating from the Imperial School of Medicine with a specialisation in dermatology.\n\nA true womaniser in his younger years, he is also known for his eccentric sense of fashion and outgoing personality. Still, Mehmed has always been a down-to-earth man, taking care of those who cannot help themselves. With his personal wealth, he supported Kostantiniye's poorest, paying for burials and marriages, ensuring that their needs are met, and thus earning himself the respect and trust of the populace.\n\nA man of great education and popularity, he has now ascended to the throne of the Ottoman Empire as Sultan-Caliph Mehmed VII. Following in the footsteps of Abdülmecid II, he must now guide the Ottoman Empire through a time of conflict and change - and into an uncertain future.§!"
+ TUR_mehmed_ziyaeddin_osmanoglu: "Мехмед Зіяеддін Османоглу"
+ TUR_mehmed_ziyaeddin_osmanoglu_regnal: "Мехмед VII Зіяеддін"
+ TUR_mehmed_ziyaeddin_osmanoglu_leader_desc: "§YНародився:§! §L26 серпня 1873 року в Палаці Чіраган, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!\n§YПоходження:§! §LБудучи первістком Мехмеда V та його дружини Камурес Кадин, Мехмед Зіяеддін міг насолоджуватися життям королівської особи з моменту свого народження. Оскільки його сім'я переїхала до крила Наслідного Принца Палацу Долмабахче у 1876 році, коли його батько став спадкоємцем Османського трону, він провів більшу частину своєї юності, замкнений у стінах палацу.\n\nРозвиваючи багато талантів та інтересів, він незабаром занурився у світ музики, ставши вправним гравцем на цитрі, скомпонувавши численні музичні твори та протегуючи багатьом перспективним музикантам. Крім того, він відвідував Османську Військову Академію напередодні Балканських війн, і хоча сам ніколи не воював на передовій, він іноді відвідував солдатів, піднімаючи їхній бойовий дух своєю присутністю. До та під час Світової війни Мехмед отримав численні військові та цивільні відзнаки, як Османські, так і іноземні, служив почесним кавалерійським бригадиром та брав на себе більше представницьких завдань, навіть зустрівшись із Кайзером Вільгельмом II у 1917 році. Отримавши нові свободи завдяки кінцевій Османській перемозі, він потім зайнявся новим інтересом, закінчивши Імперську Школу Медицини зі спеціалізацією в дерматології.\n\nСправжній ловелас у молодші роки, він також відомий своїм ексцентричним почуттям моди та комунікабельністю. Проте Мехмед завжди був простою людиною, піклуючись про тих, хто не може допомогти собі сам. За допомогою свого особистого статку він підтримував найбідніших жителів Костантініє, оплачуючи похорони та весілля, забезпечуючи їхні потреби, і таким чином заслужив повагу та довіру населення.\n\nЛюдина великої освіти та популярності, він тепер зійшов на трон Османської імперії як Султан-Халіф Мехмед VII. Йдучи стопами Абдул-Меджида II, він тепер повинен провести Османську імперію через час конфлікту та змін — і до невизначеного майбутнього.§!"
 
- TUR_mehmed_abdulkadir_osmanoglu: "Mehmed Abdülkadir Osmanoğlu"
- TUR_mehmed_abdulkadir_osmanoglu_regnal: "Mehmed VII Abdülkadir"
- TUR_mehmed_abdulkadir_osmanoglu_regnal_VIII: "Mehmed VIII Abdülkadir"
- TUR_mehmed_abdulkadir_osmanoglu_leader_desc: "§YBorn:§! §LJanuary 16th, 1878, in the Yıldız Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!\n§YBackground:§! §LThe second son of the late Sultan Abdülhamid II, Mehmed, much like most other Ottoman princes, grew up within the walls of one of the ruling dynasty's great palaces in Kostantiniye. Enjoying private education in the Prince's School of Yıldız Palace, he learnt to speak multiple languages and to play a variety of instruments, including the piano and the violin, which soon became one of his greatest passions. For his military education, he was sent to the German Empire. Climbing up the ladder, he was eventually promoted to the rank of brigadier and received multiple military honours throughout his career.\n\nOne of Mehmed's most notable traits is his rebellious and noncompliant attitude, which more than once led to him and his father butting heads with one another. Refusing the first marriage arranged for him, hiring non-Muslim servants as more than just concubines, and even purposefully wearing his fez in unconvential ways to spite his father, he has always been a man of his own free will - and a cause of headaches for the Sultan.\n\nHe is, however, also a generous and kind soul at heart, described as polite and always ready to support those in need of assistance. Searching for true love for most his life, Mehmed married a multitude of consorts but divorced many of them after just a few years. Going so far as to marry without the permission of the Sultan or the parliament, he was punished by Mehmed V with six months of house arrest and the halving of his allowance. Still, he continued to live the life of a royal within the palaces of Kostantiniye.\n\nAnd now, the man once described as a \"rascal\" has risen to the top, becoming the embodiment of the great Ottoman Empire and of all Islam. Less traditional in mind than most of his predecessors, he is seen as a symbol of the change that has taken hold of the Empire, a herald of the future that lies ahead.§!"
+ TUR_mehmed_abdulkadir_osmanoglu: "Мехмед Абдулкадір Османоглу"
+ TUR_mehmed_abdulkadir_osmanoglu_regnal: "Мехмед VII Абдулкадір"
+ TUR_mehmed_abdulkadir_osmanoglu_regnal_VIII: "Мехмед VIII Абдулкадір"
+ TUR_mehmed_abdulkadir_osmanoglu_leader_desc: "§YНародився:§! §L16 січня 1878 року в Палаці Їлдиз, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!\n§YПоходження:§! §LБудучи другим сином покійного Султана Абдул-Гаміда II, Мехмед, як і більшість інших Османських принців, виріс у стінах одного з великих палаців правлячої династії в Костантініє. Отримуючи приватну освіту у Школі Принців Палацу Їлдиз, він навчився розмовляти кількома мовами та грати на різних інструментах, включаючи фортепіано та скрипку, що незабаром стало однією з його найбільших пристрастей. Для військової освіти його відправили до Німецької імперії. Піднімаючись по службових сходах, він зрештою був підвищений до звання бригадира та отримав численні військові відзнаки протягом своєї кар'єри.\n\nОднією з найбільш помітних рис Мехмеда є його бунтівна та непокірна натура, яка не раз призводила до конфліктів між ним та його батьком. Відмовляючись від першого шлюбу, організованого для нього, наймаючи немусульманських слуг, які були більше, ніж просто наложницями, і навіть навмисно носячи свій фес незвичайними способами, щоб досадити батькові, він завжди був людиною своєї власної вільної волі — і причиною головного болю для Султана.\n\nПроте він також є щедрою та доброю душею, його описують як ввічливого та завжди готового підтримати тих, хто потребує допомоги. Шукаючи справжнього кохання більшу частину свого життя, Мехмед одружився з безліччю дружин, але розлучився з багатьма з них лише через кілька років. Дійшло до того, що він одружився без дозволу Султана чи парламенту, за що Мехмед V покарав його шістьма місяцями домашнього арешту та зменшенням його грошового забезпечення вдвічі. Тим не менш, він продовжував жити життям королівської особи у палацах Костантініє.\n\nІ тепер людина, яку колись описували як «шибеника», піднялася на вершину, ставши втіленням великої Османської імперії та всього Ісламу. Менш традиційний за своїми поглядами, ніж більшість його попередників, він розглядається як символ змін, що охопили Імперію, провісник майбутнього, яке чекає попереду.§!"
 
- TUR_ahmed_nuri_osmanoglu: "Ahmed Nuri Osmanoğlu"
- TUR_ahmed_nuri_osmanoglu_regnal: "Ahmed IV Nuri"
- TUR_ahmed_nuri_osmanoglu_leader_desc: "§YBorn:§! §LFebruary 12th, 1878, in the Yıldız Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!\n§YBackground:§! §LThe third son of the late Sultan Abdülhamid II, Ahmed Nuri grew up in the same palace and received the same education at the Princes' School as his brothers, where he developed an interest in painting, architecture, and chemistry. In his youth, he was enrolled at the Military College and rose to the rank of brigadier in the cavalry regiment, but this field was always foreign to him.\n\nMost people who know Ahmed personally note his incredible kindness and sensitivity, two traits which have often gotten him into trouble. Marrying only once and against his father's will, he broke with the old custom of marrying palace women by proposing to Fahriye Hanım, a woman he met during a visit to one of Kostantiniye's girls' schools. Though she has since passed away, their marriage was a happy one, and Abdülhamid even awarded his daughter-in-law a gold medal for caring for her husband in 1905.\n\nThat same year, an unknown person threw a package into the Sultan's car, and Ahmed Nuri, who was accompanying him, quickly jumped out of the car with it, thinking the package was a bomb and that he had just saved his father's life at the cost of his own. However, it turned out to be no bomb but an orphaned child, and his rough landing caused Nuri to develop a hernia, from which he suffers to this day.\n\nAnd now, this quiet and rather inconspicuous prince has risen to the top of the Ottoman Empire as Sultan Ahmed IV, Caliph of all Islam. Given his advanced age, it is questionable whether he will have the time and ability to become a great ruler, but his well-meaning and caring nature is doubted by none - and especially attested by his personal friends, many of whom have received handmade soap from him as a token of their friendship.§!"
+ TUR_ahmed_nuri_osmanoglu: "Ахмед Нурі Османоглу"
+ TUR_ahmed_nuri_osmanoglu_regnal: "Ахмед IV Нурі"
+ TUR_ahmed_nuri_osmanoglu_leader_desc: "§YНародився:§! §L12 лютого 1878 року в Палаці Їлдиз, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!\n§YПоходження:§! §LБудучи третім сином покійного Султана Абдул-Гаміда II, Ахмед Нурі виріс у тому ж палаці та отримав ту ж освіту у Школі Принців, що й його брати, де розвинув інтерес до живопису, архітектури та хімії. У юності він був зарахований до Військового Коледжу та піднявся до звання бригадира у кавалерійському полку, але ця сфера завжди була для нього чужою.\n\nБільшість людей, які знають Ахмеда особисто, відзначають його неймовірну доброту та чутливість, дві риси, які часто приносили йому неприємності. Одружившись лише один раз і проти волі свого батька, він порушив старий звичай одружуватися на палацових жінках, запропонувавши руку Фахріє Ханим, жінці, яку він зустрів під час візиту до однієї з жіночих шкіл Костантініє. Хоча вона з тих пір померла, їхній шлюб був щасливим, і Абдул-Гамід навіть нагородив свою невістку золотою медаллю за догляд за чоловіком у 1905 році.\n\nТого ж року невідома особа кинула пакунок у машину Султана, і Ахмед Нурі, який супроводжував його, швидко вистрибнув з машини з ним, думаючи, що пакунок був бомбою і що він щойно врятував життя свого батька ціною власного. Однак це виявився не бомба, а дитина-сирота, і його грубе приземлення спричинило у Нурі розвиток грижі, від якої він страждає донині.\n\nІ тепер цей тихий і досить непомітний принц піднявся на вершину Османської імперії як Султан Ахмед IV, Халіф усього Ісламу. Враховуючи його похилий вік, сумнівно, чи матиме він час і здатність стати великим правителем, але його добрі наміри та турботлива натура не викликають сумнівів — і особливо засвідчені його особистими друзями, багато з яких отримали від нього мило ручної роботи як знак їхньої дружби.§!"
 
- TUR_ahmed_nihad_osmanoglu: "Ahmed Nihad Osmanoğlu"
- TUR_ahmed_nihad_osmanoglu_regnal_IV: "Ahmed IV Nihad"
- TUR_ahmed_nihad_osmanoglu_regnal_V: "Ahmed V Nihad"
- TUR_ahmed_nihad_osmanoglu_leader_desc: "§YBorn:§! §LJuly 5th, 1883, in the Çırağan Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!\n§YBackground:§! §LAhmed Nihad was born the eldest son of Şehzade Mehmed Selahaddin, who in turn was the eldest son of Sultan Murad V. Nine years prior to Nihad's birth, Murad had been dethroned, with him and his entire branch of the Ottoman dynasty being forced to live in confinement in Kostantiniye's Çırağan Palace. Inheriting this imprisonment, Ahmed Nihad knew only the walls of the palace for much of his early life, and though his parents and sisters showed him great affection, his childhood was a lonely one.\n\nOnly with the death of Murad V in 1904 was his house arrest lifted. Immediately thereafter, Ahmed Nihad left the Çırağan Palace behind, instead choosing to live in different properties of his father before eventually settling down in a mansion of his own design in Kostantiniye. By all means a well-educated man due to his father's tutoring, Nihad used his newfound liberties to pursue his cultural interests, taking lessons in painting, learning new languages, and even composing his own musical pieces. Like most Ottoman princes, he also served in the military, becoming a Colonel of the Infantry towards the end of the Weltkrieg, a position he holds to this day.\n\nAs the oldest eligible member of the House of Osman, he has now been crowned Sultan of the Ottoman Empire and Caliph of all Islam. Presiding over a period of great turmoil and change both within and without the Empire, Sultan Nihad has thus become a guiding figure for many of our people, a beacon of piety and stability in troubled times, determined to bring unity to the nation.§!"
+ TUR_ahmed_nihad_osmanoglu: "Ахмед Ніхад Османоглу"
+ TUR_ahmed_nihad_osmanoglu_regnal_IV: "Ахмед IV Ніхад"
+ TUR_ahmed_nihad_osmanoglu_regnal_V: "Ахмед V Ніхад"
+ TUR_ahmed_nihad_osmanoglu_leader_desc: "§YНародився:§! §L5 липня 1883 року в Палаці Чіраган, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!\n§YПоходження:§! §LАхмед Ніхад народився старшим сином Шехзаде Мехмеда Салахеддіна, який, у свою чергу, був старшим сином Султана Мурада V. За дев'ять років до народження Ніхада, Мурад був скинутий з престолу, а він і вся його гілка Османської династії були змушені жити в ув'язненні в Палаці Чіраган у Костантініє. Успадкувавши це ув'язнення, Ахмед Ніхад знав лише стіни палацу більшу частину свого раннього життя, і хоча його батьки та сестри виявляли до нього велику прихильність, його дитинство було самотнім.\n\nЛише після смерті Мурада V у 1904 році його домашній арешт був знятий. Одразу після цього Ахмед Ніхад покинув Палац Чіраган, натомість вирішивши жити в різних маєтках свого батька, перш ніж зрештою оселитися у власному особняку в Костантініє. Будучи, безсумнівно, добре освіченою людиною завдяки навчанню від батька, Ніхад використав свою новознайдену свободу для задоволення своїх культурних інтересів, беручи уроки живопису, вивчаючи нові мови і навіть створюючи власні музичні твори. Як і більшість Османських принців, він також служив у армії, ставши полковником піхоти наприкінці Світової війни, посаду, яку він обіймає донині.\n\nЯк найстаріший член Дому Османів, який має право на престол, він тепер коронований Султаном Османської імперії та Халіфом усього Ісламу. Очолюючи період великих потрясінь та змін як всередині, так і за межами Імперії, Султан Ніхад став керівною фігурою для багатьох наших людей, маяком благочестя та стабільності у неспокійні часи, сповнений рішучості принести єдність нації.§!"
 
- TUR_osman_fuad_osmanoglu: "Osman Fuad Osmanoğlu"
- TUR_osman_fuad_osmanoglu_regnal: "Osman IV Fuad"
- TUR_osman_fuad_osmanoglu_leader_desc: "§YBorn:§! §LFebruary 25th, 1895, in the Çırağan Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!\n§YBackground:§! §LJust like the other grandsons of Sultan Murad V, Osman Fuad was forced to spend his early life in the Çırağan Palace. However, this restriction was lifted after the death of his grandfather in 1904, allowing Osman to join the Volunteer Officer Force during the Italian Invasion of Tripolitania in 1911. During his time in Libya, he met Mustafa Kemal, a young Captain at the time, who would soon become one of Osman's dearest friends.\n\nAfter gathering his first experiences on the battlefield, Osman attended the Ottoman Military Academy. Following his graduation, he was sent to the German Military Academy in Potsdam alongside a number of his cousins. Afterwards, he joined the German Imperial Guard of Hussars, in which he held the rank of Captain, before being recalled to the Empire following the outbreak of the Weltkrieg. Over the course of the war, he fought on many different fronts, most notably partaking in the battles of both Gallipoli and Benghazi. For his bravery in battle, he was promoted to Major-General and decorated with numerous military honours, including the Gallipoli Star and the Liakat War Medals.\n\nAfter the war, he mainly focused on his military career until the day of the Palace Raid, a coup attempt which resulted in the death of then Sultan Abdülmecid II. Practically leading the charge to retake the capital, Osman swiftly brought the putschists to justice, and was crowned Sultan following the dethronement of Mehmed Ziyaeddin. Now that he has risen to the throne, the people view him with ambivalence: where some see the valiant saviour of the Empire, others see just another puppet of the OHF, a pawn in an even greater game.§!"
- TUR_osman_fuad_osmanoglu_high_command_desc: "§YBorn:§! §LFebruary 25th, 1895, in the Çırağan Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_osman_fuad_osmanoglu: "Осман Фуад Османоглу"
+ TUR_osman_fuad_osmanoglu_regnal: "Осман IV Фуад"
+ TUR_osman_fuad_osmanoglu_leader_desc: "§YНародився:§! §L25 лютого 1895 року в Палаці Чіраган, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!\n§YПоходження:§! §LПодібно до інших онуків Султана Мурада V, Осман Фуад був змушений провести своє раннє життя в Палаці Чіраган. Однак це обмеження було знято після смерті його діда у 1904 році, що дозволило Осману приєднатися до Добровольчих Офіцерських Сил під час Італійського вторгнення у Триполітанію у 1911 році. Під час свого перебування в Лівії він познайомився з Мустафою Кемалем, тоді ще молодим Капітаном, який незабаром став одним із найдорожчих друзів Османа.\n\nНабувши першого досвіду на полі бою, Осман вступив до Османської Військової Академії. Після її закінчення його відправили до Німецької Військової Академії в Потсдамі разом із кількома його двоюрідними братами. Згодом він приєднався до Німецької Імператорської Гвардії Гусарів, у якій обіймав звання Капітана, перш ніж його відкликали до Імперії після початку Світової війни. Протягом війни він воював на багатьох різних фронтах, особливо беручи участь у битвах як при Галліполі, так і при Бенгазі. За свою хоробрість у бою він був підвищений до Генерал-майора та нагороджений численними військовими відзнаками, включаючи Галліполійську Зірку та Військові Медалі Ляката.\n\nПісля війни він переважно зосереджувався на своїй військовій кар'єрі до дня Рейду на Палац — спроби перевороту, яка призвела до смерті тодішнього Султана Абдул-Меджида II. Практично очолюючи штурм для повернення столиці, Осман швидко притягнув путчистів до відповідальності та був коронований Султаном після скинення Мехмеда Зіяеддіна. Тепер, коли він зійшов на трон, народ ставиться до нього неоднозначно: дехто бачить доблесного рятівника Імперії, інші бачать лише чергову маріонетку ОГФ, пішака у ще більшій грі.§!"
+ TUR_osman_fuad_osmanoglu_high_command_desc: "§YНародився:§! §L25 лютого 1895 року в Палаці Чіраган, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_omer_faruk_osmanoglu: "Ömer Faruk Osmanoğlu"
- TUR_omer_faruk_osmanoglu_regnal: "Ömer I Faruk"
- TUR_omer_faruk_osmanoglu_commander_desc: "§YBorn:§! §LJanuary 27th, 1898, in the Feriye Palace, Beyoğlu, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_omer_faruk_osmanoglu: "Омер Фарук Османоглу"
+ TUR_omer_faruk_osmanoglu_regnal: "Омер I Фарук"
+ TUR_omer_faruk_osmanoglu_commander_desc: "§YНародився:§! §L27 січня 1898 року в Палаці Феріє, Бейоглу, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mustafa_kemal_ataturk: "Mustafa Kemal Gelibolu"
- TUR_mustafa_kemal_ataturk_sic_desc: "§YBorn:§! §L1881, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_mustafa_kemal_ataturk: "Мустафа Кемаль Галліполі"
+ TUR_mustafa_kemal_ataturk_sic_desc: "§YНародився:§! §L1881 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_mehmed_sabahaddin: "Mehmed Sabahaddin Beyoğlu"
- TUR_mehmed_sabahaddin_sic_desc: "§YBorn:§! §LFebruary 13th, 1879, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmed_sabahaddin: "Мехмед Сабахаддін Бейоглу"
+ TUR_mehmed_sabahaddin_sic_desc: "§YНародився:§! §L13 лютого 1879 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_musa_kazim_karabekir: "Musa Kâzım Karabekir"
- TUR_musa_kazim_karabekir_sic_desc: "§YBorn:§! §LJuly 23rd, 1882, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_musa_kazim_karabekir: "Муса Кязим Карабекір"
+ TUR_musa_kazim_karabekir_sic_desc: "§YНародився:§! §L23 липня 1882 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mahmud_celaleddin_bayar: "Mahmud Celâleddin Bayar"
- TUR_mahmud_celaleddin_bayar_sic_desc: "§YBorn:§! §LMay 16th, 1883, in Umurbey, Gemlik, Vilayet of Hüdavendigâr, Ottoman Empire§!"
+ TUR_mahmud_celaleddin_bayar: "Махмуд Джеляледдін Баяр"
+ TUR_mahmud_celaleddin_bayar_sic_desc: "§YНародився:§! §L16 травня 1883 року в Умурбей, Гемлік, Вілаєт Хюдавендігяр, Османська імперія§!"
 
- TUR_shakib_arslan: "Shakib Arslan"
- TUR_shakib_arslan_sic_desc: "§YBorn:§! §LDecember 25th, 1869, in Choueifat, Mount Lebanon Mutasarrifate, Ottoman Empire§!"
+ TUR_shakib_arslan: "Шакіб Арслан"
+ TUR_shakib_arslan_sic_desc: "§YНародився:§! §L25 грудня 1869 року в Чуейфат, Мутасарріфат Гора Ліван, Османська імперія§!"
 
- TUR_mehmet_nuri_conker: "Mehmet Nuri Conker"
- TUR_mehmet_nuri_conker_advisor_desc: "§YBorn:§! §LSeptember 20th, 1882, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_mehmet_nuri_conker: "Мехмет Нурі Конкер"
+ TUR_mehmet_nuri_conker_advisor_desc: "§YНародився:§! §L20 вересня 1882 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_falih_rifki_atay: "Falih Rıfkı Bey"
- TUR_falih_rifki_atay_surname: "Falih Rıfkı Atay"
- TUR_falih_rifki_atay_advisor_desc: "§YBorn:§! §Lin Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_falih_rifki_atay: "Фаліх Рифки Бей"
+ TUR_falih_rifki_atay_surname: "Фаліх Рифки Атай"
+ TUR_falih_rifki_atay_advisor_desc: "§YНародився:§! §Lу Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mahmut_esat_bozkurt: "Mahmut Esat Bozkurt"
- TUR_mahmut_esat_bozkurt_advisor_desc: "§YBorn:§! §L1892, in Kuşadası, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_mahmut_esat_bozkurt: "Махмут Есат Бозкурт"
+ TUR_mahmut_esat_bozkurt_advisor_desc: "§YНародився:§! §L1892 року в Кушадаси, Вілаєт Айдин, Османська імперія§!"
 
- TUR_ali_kemal_kuneralp: "Ali Kemal Kuneralp"
- TUR_ali_kemal_kuneralp_advisor_desc: "§YBorn:§! §LSeptember 7th, 1869, in Süleymaniye, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_ali_kemal_kuneralp: "Алі Кемаль Кунералп"
+ TUR_ali_kemal_kuneralp_advisor_desc: "§YНародився:§! §L7 вересня 1869 року в Сюлейманіє, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mehmet_cavit: "Mehmet Cavit Gerçel"
- TUR_mehmet_cavit_advisor_desc: "§YBorn:§! §LDecember 7th, 1875, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_mehmet_cavit: "Мехмет Джавіт Герчел"
+ TUR_mehmet_cavit_advisor_desc: "§YНародився:§! §L7 грудня 1875 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_mustafa_vasif_karakol: "Mustafa Vâsıf Karakol"
- TUR_mustafa_vasif_karakol_advisor_desc: "§YBorn:§! §L1880, in Asir, Vilayet of Yemen, Ottoman Empire§!"
+ TUR_mustafa_vasif_karakol: "Мустафа Васіф Каракол"
+ TUR_mustafa_vasif_karakol_advisor_desc: "§YНародився:§! §L1880 року в Асір, Вілаєт Ємен, Османська імперія§!"
 
- TUR_yusuf_kemal_tengirsenk: "Yusuf Kemal Tengirşenk"
- TUR_yusuf_kemal_tengirsenk_advisor_desc: "§YBorn:§! §LJuly 17th, 1880, in Boyabat, Vilayet of Kastamonu, Ottoman Empire§!"
+ TUR_yusuf_kemal_tengirsenk: "Юсуф Кемаль Тенгірсенк"
+ TUR_yusuf_kemal_tengirsenk_advisor_desc: "§YНародився:§! §L17 липня 1880 року в Боябаті, Вілаєт Кастамону, Османська імперія§!"
 
- TUR_yakup_kadri_karaosmanoglu: "Yakup Kadri Karaosmanoğlu"
- TUR_yakup_kadri_karaosmanoglu_advisor_desc: "§YBorn:§! §LMarch 27th, 1889, in Cairo, Governorate of the Capital, Khedivate of Egypt§!"
+ TUR_yakup_kadri_karaosmanoglu: "Якуп Кадрі Караосманоглу"
+ TUR_yakup_kadri_karaosmanoglu_advisor_desc: "§YНародився:§! §L27 березня 1889 року в Каїрі, Мухафаза Столиці, Хедиват Єгипет§!"
 
- TUR_ismail_hakki_canbulat: "İsmail Canbulat Arı"
- TUR_ismail_hakki_canbulat_advisor_desc: "§YBorn:§! §LNovember 10th, 1880, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_ismail_hakki_canbulat: "Ісмаїл Джанбулат Ари"
+ TUR_ismail_hakki_canbulat_advisor_desc: "§YНародився:§! §L10 листопада 1880 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_ahmet_naci_tinaz: "Ahmet Naci Tınaz"
- TUR_ahmet_naci_tinaz_advisor_desc: "§YBorn:§! §L1882, in Serfiçe, Vilayet of Manastir, Ottoman Empire§!"
+ TUR_ahmet_naci_tinaz: "Ахмет Наджі Тиназ"
+ TUR_ahmet_naci_tinaz_advisor_desc: "§YНародився:§! §L1882 року в Серфіче, Вілаєт Манастір, Османська імперія§!"
 
- TUR_halide_edip_adivar: "Halide Edib Adıvar"
- TUR_halide_edip_adivar_advisor_desc: "§YBorn:§! §LJune 11th, 1884, in Beşiktaş, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_halide_edip_adivar: "Халіде Едіб Адивар"
+ TUR_halide_edip_adivar_advisor_desc: "§YНародилася:§! §L11 червня 1884 року в Бешикташ, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_riza_nur: "Rıza Nur"
- TUR_riza_nur_advisor_desc: "§YBorn:§! §LAugust 30th, 1879, in Sinop, Vilayet of Kastamonu, Ottoman Empire§!"
+ TUR_riza_nur: "Риза Нур"
+ TUR_riza_nur_advisor_desc: "§YНародився:§! §L30 серпня 1879 року в Сінопі, Вілаєт Кастамону, Османська імперія§!"
 
- TUR_mehmed_sukru_saracoglu: "Mehmet Şükrü Saracoğlu"
- TUR_mehmed_sukru_saracoglu_advisor_desc: "§YBorn:§! §LJune 17th, 1887, in Ödemiş, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_mehmed_sukru_saracoglu: "Мехмет Шюкрю Сараджоглу"
+ TUR_mehmed_sukru_saracoglu_advisor_desc: "§YНародився:§! §L17 червня 1887 року в Одеміш, Вілаєт Айдин, Османська імперія§!"
 
- TUR_resat_muhlis_erkmen: "Reşat Muhlis Erkmen"
- TUR_resat_muhlis_erkmen_advisor_desc: "§YBorn:§! §L1891, in Bursa, Vilayet of Hüdavendigâr, Ottoman Empire§!"
+ TUR_resat_muhlis_erkmen: "Решат Мухліс Еркмен"
+ TUR_resat_muhlis_erkmen_advisor_desc: "§YНародився:§! §L1891 року в Бурсі, Вілаєт Хюдавендігяр, Османська імперія§!"
 
- TUR_suleiman_sirri_aral: "Süleyman Sırrı Aral"
- TUR_suleiman_sirri_aral_advisor_desc: "§YBorn:§! §L1874, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_suleiman_sirri_aral: "Сюлейман Сирри Арал"
+ TUR_suleiman_sirri_aral_advisor_desc: "§YНародився:§! §L1874 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_yunus_nadi_abalioglu: "Yunus Nadi Abalıoğlu"
- TUR_yunus_nadi_abalioglu_advisor_desc: "§YBorn:§! §LJuly 1st, 1879, in Seydiler, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_yunus_nadi_abalioglu: "Юнус Наді Абалиоглу"
+ TUR_yunus_nadi_abalioglu_advisor_desc: "§YНародився:§! §L1 липня 1879 року в Сейділер, Вілаєт Айдин, Османська імперія§!"
 
- TUR_husnu_bingol: "Hüsnü Bingöl"
- TUR_husnu_bingol_advisor_desc: "§YBorn:§! §Lin the Ottoman Empire§!"
+ TUR_husnu_bingol: "Хюсню Бінґьоль"
+ TUR_husnu_bingol_advisor_desc: "§YНародився:§! §Lу Османській імперії§!"
 
- TUR_cemal_mersinli: "Mehmed Cemal Mersinli"
- TUR_cemal_mersinli_theorist_desc: "§YBorn:§! §L1875, in Mersin, Vilayet of Adana, Ottoman Empire§!"
+ TUR_cemal_mersinli: "Мехмед Джемаль Мерсінлі"
+ TUR_cemal_mersinli_theorist_desc: "§YНародився:§! §L1875 року в Мерсіні, Вілаєт Адана, Османська імперія§!"
 
- TUR_izzetin_calislar: "İzzettin Çalışlar"
- TUR_izzetin_calislar_theorist_desc: "§YBorn:§! §L1882, in Yanya, Vilayet of Yanya, Ottoman Empire§!"
+ TUR_izzetin_calislar: "Іззеттін Чалишлар"
+ TUR_izzetin_calislar_theorist_desc: "§YНародився:§! §L1882 року в Яніні, Вілаєт Яніна, Османська імперія§!"
 
- TUR_mehmet_fesa_evrensev: "Mehmet Fesa Evrensev"
- TUR_mehmet_fesa_evrensev_theorist_desc: "§YBorn:§! §LJanuary 6th, 1878, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmet_fesa_evrensev: "Мехмет Феса Евренсев"
+ TUR_mehmet_fesa_evrensev_theorist_desc: "§YНародився:§! §L6 січня 1878 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_omer_fahrettin_turkkan: "Ömer Fahrettin Türkkan"
- TUR_omer_fahrettin_turkkan_high_command_desc: "§YBorn:§! §LFebruary 4th, 1868, in Rusçuk, Danube Vilayet, Ottoman Empire§!"
+ TUR_omer_fahrettin_turkkan: "Омер Фахреттін Тюрккан"
+ TUR_omer_fahrettin_turkkan_high_command_desc: "§YНародився:§! §L4 лютого 1868 року в Рущуці, Дунайський вілаєт, Османська імперія§!"
 
- TUR_nuri_yamut: "Mehmet Nuri Yamut"
- TUR_nuri_yamut_commander_desc: "§YBorn:§! §L1890, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_nuri_yamut: "Мехмет Нурі Ямут"
+ TUR_nuri_yamut_commander_desc: "§YНародився:§! §L1890 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_hayrullah_fisek: "Hayrullah Fişek"
- TUR_hayrullah_fisek_commander_desc: "§YBorn:§! §LJune 3rd, 1885, in Kalkandelen, Vilayet of Kosovo, Ottoman Empire§!"
+ TUR_hayrullah_fisek: "Хайрулла Фішек"
+ TUR_hayrullah_fisek_commander_desc: "§YНародився:§! §L3 червня 1885 року в Калканделені, Вілаєт Косово, Османська імперія§!"
 
- TUR_abdurrahman_nafiz_gurman: "Abdurrahman Nafiz Gürman"
- TUR_abdurrahman_nafiz_gurman_commander_desc: "§YBorn:§! §L1882, in Bodrum, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_abdurrahman_nafiz_gurman: "Абдуррахман Нафіз Гюрман"
+ TUR_abdurrahman_nafiz_gurman_commander_desc: "§YНародився:§! §L1882 року в Бодрумі, Вілаєт Айдин, Османська імперія§!"
 
- TUR_mustafa_muglali: "Mustafa Muğlalı"
- TUR_mustafa_muglali_commander_desc: "§YBorn:§! §L1882, in Muğla, Vilayet of Aidin, Ottoman Empire§!"
+ TUR_mustafa_muglali: "Мустафа Муглали"
+ TUR_mustafa_muglali_commander_desc: "§YНародився:§! §L1882 року в Мугла, Вілаєт Айдин, Османська імперія§!"
 
- TUR_cemil_cahit_toydemir: "Cemil Cahit Toydemir"
- TUR_cemil_cahit_toydemir_commander_desc: "§YBorn:§! §L1883, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_cemil_cahit_toydemir: "Джеміль Джахіт Тойдемір"
+ TUR_cemil_cahit_toydemir_commander_desc: "§YНародився:§! §L1883 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_asim_gunduz: "Asım Gündüz"
- TUR_asim_gunduz_high_command_desc: "§YBorn:§! §L1880, in Kütahya, Vilayet of Hüdavendigâr, Ottoman Empire§!"
+ TUR_asim_gunduz: "Асим Гюндюз"
+ TUR_asim_gunduz_high_command_desc: "§YНародився:§! §L1880 року в Кютах'ї, Вілаєт Хюдавендігяр, Османська імперія§!"
 
- TUR_mehmet_hayri_tarhan: "Mehmet Hayri Tarhan"
- TUR_mehmet_hayri_tarhan_commander_desc: "§YBorn:§! §LFebruary 29th, 1880, in Tırnovacık, Vilayet of Edirne, Ottoman Empire§!"
+ TUR_mehmet_hayri_tarhan: "Мехмет Хайрі Тархан"
+ TUR_mehmet_hayri_tarhan_commander_desc: "§YНародився:§! §L29 лютого 1880 року в Тирноваджику, Вілаєт Адріанополь, Османська імперія§!"
 
- TUR_nihat_anilmis: "Mehmet Nihat Anılmış"
- TUR_nihat_anilmis_commander_desc: "§YBorn:§! §L1876, in Filibe, Danube Vilayet, Ottoman Empire§!"
+ TUR_nihat_anilmis: "Мехмет Ніхат Анилмиш"
+ TUR_nihat_anilmis_commander_desc: "§YНародився:§! §L1876 року в Філібе, Дунайський вілаєт, Османська імперія§!"
 
- TUR_fahrettin_altay: "Fahrettin Mutlu"
- TUR_fahrettin_altay_sic_desc: "§YBorn:§! §LJanuary 12th, 1880, in İşkodra, Scutari Vilayet, Ottoman Empire§!"
+ TUR_fahrettin_altay: "Фахреттін Мутлу"
+ TUR_fahrettin_altay_sic_desc: "§YНародився:§! §L12 січня 1880 року в Ішкодрі, Вілаєт Шкодер, Османська імперія§!"
 
- TUR_tahsin_yazici: "Hasan Tahsin Yazıcı"
- TUR_tahsin_yazici_commander_desc: "§YBorn:§! §L1892, in Manastir, Vilayet of Manastir, Ottoman Empire§!"
+ TUR_tahsin_yazici: "Хасан Тахсін Язиджи"
+ TUR_tahsin_yazici_commander_desc: "§YНародився:§! §L1892 року в Манастірі, Вілаєт Манастір, Османська імперія§!"
 
- TUR_huseyin_husnu_erkilet: "Hüseyin Hüsnü Emir Erkilet"
- TUR_huseyin_husnu_erkilet_army_chief_desc: "§YBorn:§! §LMarch 12th, 1883, in Gazze, Mutasarrifate of Jerusalem, Ottoman Empire§!"
+ TUR_huseyin_husnu_erkilet: "Хюсеїн Хюсню Емір Еркілет"
+ TUR_huseyin_husnu_erkilet_army_chief_desc: "§YНародився:§! §L12 березня 1883 року в Газі, Мутасарріфат Єрусалим, Османська імперія§!"
 
- TUR_sefik_aker: "Mehmet Şefik Aker"
- TUR_sefik_aker_commander_desc: "§YBorn:§! §LAugust 1st, 1878, in Kesriye, Vilayet of Manastir, Ottoman Empire§!"
+ TUR_sefik_aker: "Мехмет Шефік Акер"
+ TUR_sefik_aker_commander_desc: "§YНародився:§! §L1 серпня 1878 року в Кесріє, Вілаєт Манастір, Османська імперія§!"
 
- TUR_selahattin_adil: "Selâhattin Âdil"
- TUR_selahattin_adil_high_command_desc: "§YBorn:§! §LJanuary 19th, 1882, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_selahattin_adil: "Селахаддін Аділь"
+ TUR_selahattin_adil_high_command_desc: "§YНародився:§! §L19 січня 1882 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mehmet_ali_ulgen: "Mehmet Ali Ülgen"
- TUR_mehmet_ali_ulgen_navy_chief_desc: "§YBorn:§! §L1887, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmet_ali_ulgen: "Мехмет Алі Ульген"
+ TUR_mehmet_ali_ulgen_navy_chief_desc: "§YНародився:§! §L1887 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_sukru_okan: "Şükrü Okan"
- TUR_sukru_okan_admiral_desc: "§YBorn:§! §L1880, in Tirebolu, Vilayet of Trebizond, Ottoman Empire§!"
+ TUR_sukru_okan: "Шюкрю Окан"
+ TUR_sukru_okan_admiral_desc: "§YНародився:§! §L1880 року в Тіреболу, Вілаєт Трапезунд, Османська імперія§!"
 
- TUR_huseyin_rauf_orbay: "Hüseyin Rauf Orbay"
- TUR_huseyin_rauf_orbay_theorist_desc: "§YBorn:§! §LJuly 27th, 1881, in Cibali, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_huseyin_rauf_orbay: "Хюсеїн Рауф Орбай"
+ TUR_huseyin_rauf_orbay_theorist_desc: "§YНародився:§! §L27 липня 1881 року в Джібалі, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mahmud_muhtar_katircioglu: "Mahmut Muhtar Katırcıoğlu"
- TUR_mahmud_muhtar_katircioglu_navy_chief_desc: "§YBorn:§! §L1867, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mahmud_muhtar_katircioglu: "Махмут Мухтар Катирджиоглу"
+ TUR_mahmud_muhtar_katircioglu_navy_chief_desc: "§YНародився:§! §L1867 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_refet_bele: "İbrahim Refet Bele"
- TUR_refet_bele_army_chief_desc: "§YBorn:§! §L1881, in Selânik, Vilayet of Selânik, Ottoman Empire§!"
+ TUR_refet_bele: "Ібрагім Рефет Беле"
+ TUR_refet_bele_army_chief_desc: "§YНародився:§! §L1881 року в Салоніках, Вілаєт Салоніки, Османська імперія§!"
 
- TUR_mehmet_rustu_sakarya: "Mehmet Rüştü Üsküdarlı"
- TUR_mehmet_rustu_sakarya_army_chief_desc: "§YBorn:§! §L1877, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmet_rustu_sakarya: "Мехмет Рюшту Ускюдарли"
+ TUR_mehmet_rustu_sakarya_army_chief_desc: "§YНародився:§! §L1877 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mehmet_sadik_altincan: "Mehmet Sadık Altıncan"
- TUR_mehmet_sadik_altincan_navy_chief_desc: "§YBorn:§! §L1898, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmet_sadik_altincan: "Мехмет Садик Алтинкан"
+ TUR_mehmet_sadik_altincan_navy_chief_desc: "§YНародився:§! §L1898 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_muzaffer_goksenin: "Muzaffer Göksenin"
- TUR_muzaffer_goksenin_air_chief_desc: "§YBorn:§! §L1899, in Manastir, Vilayet of Manastir, Ottoman Empire§!"
+ TUR_muzaffer_goksenin: "Музаффер Гьоксенін"
+ TUR_muzaffer_goksenin_air_chief_desc: "§YНародився:§! §L1899 року в Манастірі, Вілаєт Манастір, Османська імперія§!"
 
- TUR_fevzi_ucaner: "Fevzi Uçaner"
- TUR_fevzi_ucaner_air_chief_desc: "§YBorn:§! §L1900, in Erzincan, Vilayet of Erzurum, Ottoman Empire§!"
+ TUR_fevzi_ucaner: "Февзі Учанер"
+ TUR_fevzi_ucaner_air_chief_desc: "§YНародився:§! §L1900 року в Ерзінджані, Вілаєт Ерзурум, Османська імперія§!"
 
- TUR_cemil_conk: "Cemil Conk"
- TUR_cemil_conk_high_command_desc: "§YBorn:§! §L1873, in Üsküdar, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_cemil_conk: "Джеміль Джонк"
+ TUR_cemil_conk_high_command_desc: "§YНародився:§! §L1873 року в Ускюдарі, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
  TUR_ali_fuat_cebesoy: "Алі Фуат Джебесой"
- TUR_ali_fuat_cebesoy_high_command_desc: "§YBorn:§! §LSeptember 23rd, 1882, in Üsküdar, Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_ali_fuat_cebesoy_high_command_desc: "§YНародився:§! §L23 вересня 1882 року в Ускюдарі, Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mehmet_fahri_engin: "Mehmet Fahri Engin"
- TUR_mehmet_fahri_engin_high_command_desc: "§YBorn:§! §L1888, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmet_fahri_engin: "Мехмет Фахрі Енгін"
+ TUR_mehmet_fahri_engin_high_command_desc: "§YНародився:§! §L1888 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_mehmet_zeki_dogan: "Mehmet Zeki Doğan"
- TUR_mehmet_zeki_dogan_high_command_desc: "§YBorn:§! §L1895, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_mehmet_zeki_dogan: "Мехмет Зекі Доган"
+ TUR_mehmet_zeki_dogan_high_command_desc: "§YНародився:§! §L1895 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_vecihi_hurkus: "Vecihi Hürkuş"
- TUR_vecihi_hurkus_scientist_desc: "§YBorn:§! §LJanuary 6th, 1896, in Kostantiniye, Vilayet of Kostantiniye, Ottoman Empire§!"
+ TUR_vecihi_hurkus: "Веджіхі Хюркуш"
+ TUR_vecihi_hurkus_scientist_desc: "§YНародився:§! §L6 січня 1896 року в Костантініє, Вілаєт Костантініє, Османська імперія§!"
 
- TUR_elyesa_bazna: "Elyesa Bazna"
+ TUR_elyesa_bazna: "Ельєса Базна"
 
 ### Traits ###
  KR_aggressive_moderniser_sic: "Агресивний модернізатор"

@@ -306,138 +306,138 @@
  PAP_country_intro_content: "Після розпаду Італії Рим опинився під загрозою нападу соціалістів, які відмовилися визнавати нову федерацію. Громадянська війна майже не торкнулася міста, оскільки місцевий гарнізон та націоналістичні бойові загони швидко придушили лівих повстанців. Рим виявився безпорадним і незабаром був знову захоплений, якби не одне але. Фердинанд, король обох Сицилій і де-факто лідер Італійської Федерації, вирішив врятувати святе місто з лап безбожних синдикалістів, чому не стала перешкоджати Австрія.\n\nПісля закінчення бойових дій народилася нова Папська держава, яка фактично була маріонеткою сицилійців, хоч вона і визнається більшістю країн як незалежна.\n\nНинішній Папа Пій XI перебуває при смерті, і Курія своїм вибором змінить політичний напрямок маленької, але гордої держави."
 
  PAP_guide: "§MThe New Pope§! ($national_populist_coloured$ / $paternal_autocrat_coloured$ / $authoritarian_democrat_coloured$ / $social_democrat_coloured$)\n£white_dot After completing the focus \"Call Papal Conclave\", electing Pius XII will maintain the §PStato Ecclesiastico§! in power, Julius IV will have the §nUltamontanisti§! come to power and both will have access to the \"Reformed Temporal Power\" branch of the focus tree.\n£white_dot Electing Stephen X or John XXIII will temporarily have the §aNuovo Papato§! come to power, and have access to the \"The Senate of the Kingdom of Rome\" branch of the focus tree, with elections being held every 5 years, with the §cMovimento Sociale Latino§! and the §SSAlleanza Cristiana Democratica§! running in every election."
- 
+
 ### Events ###
  papal_state_events.1.t: "Чорний Понеділок наздоганяє Папство!"
  papal_state_events.1.d: "Майже два тижні тому Берлінська фондова біржа пробила дно у бездонній ямі, внаслідок чого економіка Німеччини поринула у кризу. Тепер відлуння дійшли і до нас. Німецькі та австрійські компанії закриваються або звільняють своїх робітників, наша валюта втрачає свою цінність, промисловий експорт скорочується і наш державний борг починає підніматися до небес..."
  papal_state_events.1.a: "Сподіватимемося, що уряд врятує нас від гіршого..."
- 
+
  papal_state_events.2.t: "Отець Чарльз Кофлін"
  papal_state_events.2.d: "Через три роки отець Чарльз Кофлін почав щотижня транслювати радіопередачу в Америці, і понад 50 мільйонів людей увімкнули свої радіоприймачі та почули це. Він є маревним антисемітом, стверджуючи, що синдикалістська революція у Франції була "закладена євреєм" і що аварія Берлінського фондового ринку є "міжнародною змовою єврейських банкірів". Його ненависна мова буде не допускається Церквою, і Папа, як очікується, ухвалить рішення про те, чи попросити уряд Сполучених Штатів закрити його трансляцію, щоб його марення не змогло дійти до громадськості."
  papal_state_events.2.a: "Попросіть президента Сполучених Штатів закрити це радіо."
  papal_state_events.2.b: "Було б краще, якби ми не втручалися"
- 
+
  papal_state_events.3.t: "Quadragesimo Quinto Anno"
  papal_state_events.3.d: "Quadragesimo Quinto Anno (на латиниці '45-го року') це нова енцикліка, написана папою Пій XI, у якій обговорюються етичні наслідки соціально-економічного порядку (45 років по тому, як Leo XIII написав її). Енцикліка описує основні небезпеки для людської свободи та гідності, що випливають із нестримного капіталізму та синдикалізму, закликаючи до відновлення громадського порядку, заснованого на принципі солідарності та субсидіарності. У першій частині він розглядає та схвалює енцикліку свого попередника, який допоміг розвитку нової суспільної свідомості.\nЗгідно з Пієм XI, три елементи визначають справедливу заробітну плату: сімейні обов'язки працівника, економічний стан підприємства та економіки в цілому. Сім'я має вроджене право на розвиток, але це можливе лише в рамках функціонуючої економіки та цілих підприємств. Для цього папа Пій XI робить висновок, що солідарність, а не конфлікт, є необхідною умовою. Тому тато вимагає більшої солідарності, особливо між роботодавцями та працівниками, за допомогою нових форм співробітництва та спілкування між католицькими громадянами. Нова ера католицького корпоративізму лише починається."
  papal_state_events.3.a: "Відмінно."
- 
+
  papal_state_events.4.t: "Пожертвування віруючих"
  papal_state_events.4.d: "З самого початку існування Божої церкви, яка перебуває під загрозою невіруючих, вперше протягом століть пожертвування надходили від католиків по всьому світу."
  papal_state_events.4.a: "Зі світу по нитці"
- 
+
  papal_state_events.5.t: "Понтійські болота"
  papal_state_events.5.d: "Наказ було віддано, метою якого є потреба очистити Понтійські болота і таким чином відкрити марну землю для сільського господарства чи промисловості. План вимагатиме працевлаштування тисяч римлян і займе багато місяців, але результат може коштувати того."
  papal_state_events.5.a: "Поки це змушує їх працювати, я щасливий."
- 
+
  papal_state_events.6.t: "Понтійські болота очищені"
  papal_state_events.6.d: "Області, раніше відомі як Понтійські болота, тепер очищаються, а заводи та ферми виникають на всій території, ще більше зміцнюючи нашу маленьку країну економічно для майбутнього хрестового походу проти мерзенних синдикалістів."
  papal_state_events.6.a: "Монументальне досягнення!"
- 
+
  papal_state_events.7.t: "Пій XI йде в інший світ"
- 
+
  papal_state_events.8.t: "Папський конклав"
  papal_state_events.8.d: "Святий Престол, нарешті, зібрався разом, щоб обговорити обрання нового Папи. Зрештою вони обирають..."
  papal_state_events.8.a: "...обирають благочестивого та популярного, кардинала Едженіо Пачеллі."
  papal_state_events.8.b: "...обирають милосердного, Еліа Далла Коста."
  papal_state_events.8.c: "...обирають соціаліста, Ахілла Льєнара."
  papal_state_events.8.e: "...обирають жорстокого, кардинала Альфредо Ільдефонсо Шустера."
- 
+
  papal_state_events.9.t: "Перші римські вибори"
  papal_state_events.9.d: "Коли Папа відмовляється від своєї тимчасової влади та перехід від папського правління до демократії неминучий, вільні вибори відбудуться у Римі вперше після виборів у Римській Республіці 1849 року. Питання, яка партія вийде переможцем?"
  papal_state_events.9.a: "Рух латинських соціалістів!"
  papal_state_events.9.b: "Союз християнських демократів!"
- 
+
  papal_state_events.10.t: "Римські вибори [GetYear] року"
  papal_state_events.10.d: "Зі схвалення, яке видав Папа [Root.GetLeader], у Римі знову проходять вибори."
  papal_state_events.10.a: "Латинський громадський рух перемагає!"
  papal_state_events.10.b: "Християнсько-демократичний союз перемагає!"
- 
+
  papal_state_events.11.t: "Фінансова допомога від Сицилії?"
  papal_state_events.11.d: "Хоча ми визначили, що найкращий спосіб контролювати Чорний Понеділок – це шукати допомогу від Королівства обох Сицилій, ми маємо вирішити, яку частину нашого обов'язку ми попросимо погасити. Якби ми попросили їх взяти на себе всі наші борги, це значно покращило б наше фінансове становище, але також дало б більшу частину нашого суверенітету сицилійцям. Якщо це виявиться неприйнятним, ми могли б натомість вимагати, щоб вони взяли на себе тільки частину нашого боргу, хоча, якщо ми це зробимо, нам доведеться самим вжити заходів для усунення заборгованості, що залишилася, і економічної шкоди."
  papal_state_events.11.a: "Попросіть сицилійців погасити весь наш обов'язок."
  papal_state_events.11.b: "Тільки попросіть їх погасити частину нашого боргу."
- 
+
  papal_state_events.12.t: "Прохання Папської держави"
  papal_state_events.12.d: "Папська держава сильно постраждала від Чорного Понеділка і, зокрема, вони не можуть упоратися зі своїми міжнародними боргами. Незважаючи на наші власні економічні проблеми, вони просили, щоб ми взяли на себе всі свої борги, і хоча ми захищали їх з того часу, як розвалилася Італія, і прийняття їхнього прохання дозволило б нам набагато більше контролювати їх, багато хто сумнівається в тому, чи зможе чи наша економіка впоратися з цим."
  papal_state_events.12.a: "Прийміть їх запит."
  papal_state_events.12.b: "Взяти частину їхніх боргів."
  papal_state_events.12.c: "Відмова - ми маємо допомогти хоча б собі."
- 
+
  papal_state_events.13.t: "Сицилійці погоджуються!"
  papal_state_events.13.d: "Сицилійці погодилися взяти на себе наш обов'язок! Хоча ми погодилися на значні поступки, і сицилійський уряд тепер значно впливає на нас, принаймні наші борги були погашені, і наша економіка знову відновлюється."
  papal_state_events.13.a: "Відмінно!"
- 
+
  papal_state_events.14.t: "Сицилійці погасять лише частину боргу"
  papal_state_events.14.d: "На жаль, сицилійці не захотіли взяти на себе весь наш борг через свої економічні проблеми після Чорного Понеділка, але вони все ж таки погодилися погасити частину його, навіть якщо нам доведеться зробити кроки для повного відновлення нашої економіки."
  papal_state_events.14.a: "Це краще, ніж нічого."
- 
+
  papal_state_events.15.t: "Сицилійці відмовляються!"
  papal_state_events.15.d: "Королівство Обох Сицилій відмовилося від нашої благання, стверджуючи, що економіка їхньої країни важливіша! Це зробить шлях до відновлення нашої економіки важчою, ніж ми сподівалися."
  papal_state_events.15.a: "Як не пощастило."
- 
+
  papal_state_events.16.t: "Прохання Папської Держави"
  papal_state_events.16.d: "Папська держава сильно постраждала від Чорного Понеділка і зокрема вони не можуть впоратися зі своїми міжнародними боргами. Незважаючи на наші власні економічні проблеми, вони просили, щоб ми взяли на себе всі свої борги, і хоча ми захищали їх з того часу, як розвалилася Італія, але прийняття їхнього прохання дозволило б нам набагато більше контролювати їх, багато хто сумнівається в тому, чи зможе чи наша економіка впоратися з цим."
  papal_state_events.16.a: "Допоможемо їм."
  papal_state_events.16.b: "Ні, нам важливіше допомогти собі."
- 
+
  papal_state_events.17.t: "Сицилійці допоможуть нам!"
  papal_state_events.17.d: "Сицилійці погодилися взяти на себе частину наших боргів! Хоча ми не дійшли до світла в кінці тунелю, погашення деяких наших боргів полегшить навантаження на нашу економіку і зробить наше відновлення легшим завданням."
  papal_state_events.17.a: "Відмінно!"
- 
+
  papal_state_events.18.t: "Військова допомога для Папської Держави?"
  papal_state_events.18.d: "У міру наростання міжнародної напруженості та появи шансу для початку Другого Вельткрігу, як не дивно, Папська держава зауважує необхідність відновити свою армію, щоб захистити Святіший Престол від осквернення підлими синдикалістами, звичайно ж вони вирішили звернутися до нас допомогою у модернізації їхньої армії. Як ми відреагуємо?"
  papal_state_events.18.a: "Допоможемо чим зможемо!"
  papal_state_events.18.b: "Ми передамо їм невелику підтримку."
  papal_state_events.18.c: "У цьому немає потреби, ми самі захистимо їх."
- 
+
  papal_state_events.19.t: "Сицилійці згодні!"
  papal_state_events.19.d: "Королівство Обох Сицилій погодилося нам допомогти в модернізації наших військових технологій, щоб ми могли захистити себе від тиранії синдикалізму."
  papal_state_events.19.a: "Відмінно!"
- 
+
  papal_state_events.20.t: "Сицилійці надсилають невелику допомогу"
  papal_state_events.20.d: "Королівство Обох Сицилій вирішило нам допомогти, і, хоча вони не надали нам такої військової допомоги, як ми сподівалися, але вони все ж таки вирішили надати хоч якусь допомогу в модернізації нашої армії."
  papal_state_events.20.a: "Це краще, ніж нічого."
- 
+
  papal_state_events.21.t: "Сицилійці відмовляються!"
  papal_state_events.21.d: "До нашого розчарування Королівство Обох Сицилій відмовило нам у військовій допомозі, заявивши, що це буде марною тратою часу та ресурсів для їхньої власної нації і що сицилійська армія здатна і сама захищати Рим."
  papal_state_events.21.a: "Як нерозумно."
- 
+
  papal_state_events.22.t: "Синдикалістська партизанська кампанія"
  papal_state_events.22.d: "Хоча ми зупинили спробу синдикалістів створити другий Рісорджименто і повернули землю, викрадену П'ємонтом у 1860 році, схоже, що наші проблеми тут не закінчилися. Синдикалісти на звільнених територіях, відмовляючись визнати наше законне правління, взялися за зброю проти нашого уряду та беруть участь у партизанській війні проти нас!"
  papal_state_events.22.a: "Ці партизани будуть покарані!"
- 
+
  papal_state_events.23.t: "Синдикалісти влаштовують заворушення"
  papal_state_events.23.d: "Сьогодні багато прихильників синдикалізму влаштували протести та демонстрації проти нашого правління на колишніх італійських територіях. Протести незабаром перетворилися на заворушення, завдавши значних збитків актам вандалізму і покалічивши багатьох."
  papal_state_events.23.a: "Чорт!"
- 
+
  papal_state_events.24.t: "Синдикалістські засідки!"
  papal_state_events.24.d: "Синдикалістські партизани влаштували засідки проти наших військ по всій країні!"
  papal_state_events.24.a: "Чорт!"
- 
+
  papal_state_events.25.t: "Синдикалістські теракти!"
  papal_state_events.25.d: "Сьогодні синдикалістські партизани вчинили теракт, завдавши великої шкоди нашій інфраструктурі в цій галузі."
  papal_state_events.25.a: "Чорт!"
- 
+
  papal_state_events.26.t: "Саботаж синдикалістів!"
  papal_state_events.26.d: "Синдикалістські партизани підірвали одну з наших фабрик, намагаючись нам нашкодити!"
  papal_state_events.26.a: "Чорт!"
- 
+
  papal_state_events.27.t: "Кінець синдикалістського опору!"
  papal_state_events.27.d: "Після довгих місяців партизанської війни ми нарешті досягли успіху і викорінили залишки синдикалістів, які все ще протистоять нашому правлінню."
  papal_state_events.27.a: "В кінці кінців!"
- 
+
  papal_state_events.38.t: "Чорному Понеділку настав кінець!"
  papal_state_events.38.d: "Хоча це був важкий і важкий час для нашої нації та економіки, наслідки Чорного Понеділка нарешті закінчуються, і наша країна може рухатися далі."
  papal_state_events.38.a: "Нарешті!"
- 
+
  papal_state_events.39.t: "Папський конклав"
  papal_state_events.39.d: "Зі смертю Пія XI, кардинали католицької церкви зібралися в базиліці Святого Петра, щоб обрати нового Папу. Вони добровільно огородили себе від усього світу доти, доки вибори не пройдуть і їх рішення не буде оголошено."
  papal_state_events.39.a: "Помолимося, щоб їхній вибір був мудрим."
- 
+
  papal_state_events.41.t: "Сицилійсько-папський об'єднаний штаб планування"
  papal_state_events.41.d: "Папська Область щойно висунула пропозицію про організацію спільного штабу планування між двома державами, щоб краще координувати наші майбутні війни проти сил, що загрожують Італії."
  papal_state_events.41.a: "У наших ворогів немає шансів!"
- 
+
  papal_state_events.50.t: "Папська Область оголошує незалежність!"
  papal_state_events.50.SRIhelped: "Папа [PAP.GetLeader] сьогодні оголосив про те, що держава [PAP.GetNameDef] більше не зазнаватиме панування з боку держави [SIC.GetNameDef]... незважаючи на те, що загроза від держави [SRI.GetNameDef] все ще віє на півночі, і незважаючи на всю допомогу, що ми надали Папі в минулому. Багато чиновників у [Root.GetAdjective]ому уряді вважають, що це дуже необачний крок з боку Папи."
  papal_state_events.50.SRInothelped: "Папа [PAP.GetLeader] сьогодні оголосив про те, що держава [PAP.GetNameDef] більше не зазнаватиме панування з боку держави [SIC.GetNameDef]... незважаючи на те, що загроза від держави [SRI.GetNameDef] все ще віє на півночі. Багато чиновників у [Root.GetAdjective]ому уряді вважають, що Папа лише послаблює наш захист, дозволяючи синдикалістам розправитися з нами поодинці."
@@ -447,162 +447,133 @@
  papal_state_events.50.b: "Ні, ми не можемо цього дозволити."
  papal_state_events.50.c: "Ми все ще пропонуємо їм захист від синдикалістів."
  papal_state_events.50.e: "Якщо така воля понтифіка, нехай буде так."
- 
+
  papal_state_events.51.t: "Держава [From.GetNameDefCap] вимагає виплати боргу"
  papal_state_events.51.d.all: "Король [From.GetLeader] повідомив папу [Root.GetLeader], що з виходом із сфери захисту держави [SIC.GetNameDef] немає жодних проблем... але його країна надала Папству велику допомогу - як з Чорним Понеділком, так і з військовою підтримкою . Він напевно очікує, що ці борги насамперед мають бути виплачені."
  papal_state_events.51.d.debts: "Король [From.GetLeader] повідомив папу [Root.GetLeader], що з виходом зі сфери захисту держави [SIC.GetNameDef] немає жодних проблем... але його країна принесла великі жертви, щоб допомогти державі [PAP.GetNameDef] з наслідками Чорного Понеділок. Він напевно очікує, що ці борги насамперед мають бути виплачені."
  papal_state_events.51.d.military: "Король [From.GetLeader] сповістив тата [Root.GetLeader], що з виходом із сфери захисту держави [SIC.GetNameDef] немає жодних проблем... але його країна пройшла через безліч витрат, щоб забезпечити військову допомогу державі [PAP.GetNameDef] . Він напевно очікує, що ці борги насамперед мають бути виплачені."
  papal_state_events.51.a: "Якщо гроші – все, що він хоче, нехай забирає їх."
  papal_state_events.51.b: "І ми дякуємо йому за пожертву на користь Церкви."
- 
+
  papal_state_events.52.t: "Папство виплачує свій обов'язок"
  papal_state_events.52.d: "Незважаючи на те, що вона ледве могла собі це дозволити, держава [From.GetNameDef] пошкрябала по засіках і набрала суму, щоб виплатити допомогу, надану державою [SIC.GetNameDef] у минулому. Папа висловив свою подяку та вважає питання закритим."
  papal_state_events.52.a: "Нехай буде так"
- 
+
  papal_state_events.53.t: "Папство відмовляється платити"
  papal_state_events.53.d: "Папа [From.GetLeader] висловив свої побоювання з приводу того, що назвав королівською "нешанобливістю" і заявив, що вважав попередню допомогу держави [SIC.GetNameDef] даром Святої Церкви."
  papal_state_events.53.a: "Ми не розвиватимемо конфлікт далі."
  papal_state_events.53.b: "Тоді землі Церкви будуть конфісковані."
- 
+
  papal_state_events.54.t: "Сицилійці відмовляються"
  papal_state_events.54.d: "Держава [From.GetNameDefCap] недвозначно повідомила Папство, що не може допустити сепарації. Їхні солдати вже збираються на нашому кордоні."
  papal_state_events.54.a: "Тоді ми неохоче повертаємось під їхню опіку."
  papal_state_events.54.b: "Це ми ще подивимось!"
- 
+
  papal_state_events.55.t: "Сицилійці пропонують захист"
  papal_state_events.55.d: "Король [From.GetLeader] інформував Папу про те, що, хоча він повністю підтримує будь-яке рішення його святості з цього приводу, з загрозою від держави [SRI.GetNameDef], можливо, було б мудріше зберегти сицилійську протекцію, якщо вже не панування."
  papal_state_events.55.a: "Ми були б вдячні за це."
  papal_state_events.55.b: "Це зовсім не обов'язково."
- 
+
  papal_state_events.56.t: "Папство відмовляється від гарантії незалежності"
  papal_state_events.56.d: "Незрозуміло, але Папа [From.GetLeader] відмовився від пропозиції захисту із боку Сицилії. Невже його Святість збожеволів?"
  papal_state_events.56.a: "Адже це не його агресія, вірно?"
- 
+
  papal_state_events.57.t: "Папство приймає гарантію незалежності"
  papal_state_events.57.d: "Папа [From.GetLeader] приніс свою подяку за пропозицію захисту з боку Сицилії. Він відправляє королю своє благословення."
  papal_state_events.57.a: "Це велике полегшення"
- 
+
  papal_state_events.58.t: "[From.GetNameDefCap] бажає нам всього найкращого"
  papal_state_events.58.d: "Без будь-яких обіцянок чи вимог, держава [From.GetNameDef] бажає нам всього найкращого за межами їхнього захисту. Король [From.GetLeader] нагадує нам, що це було лише добровільним об'єднанням спільного захисту проти синдикалістів."
  papal_state_events.58.a: "Відмінно"
- 
+
  papal_state_events.60.t: "Прохання Папства"
  papal_state_events.60.d: "Папа [PAP.GetLeader] сьогодні відвідав державу [Root.GetNameDef], направивши [Root.GetAdjective]ому уряду термінове прохання: мотивований придушенням католиків у державі [SRI.GetNameDef], він вирішив профінансувати рух опору. Це послужить для ослаблення синдикалістів і дасть Папству можливість піднімати партизанські сили в їхньому тилу, коли почнеться неминуча війна. Однак, якщо [SRI.GetAdjective]ий уряд розкриє втручання держави [PAP.GetNameDef], це може означати вторгнення... і оскільки держава [Root.GetNameDef] діє як захисник Папи, він вирішив запитати нашого дозволу. Зрозуміло, що, незважаючи на прохання, Папа вважає, що згода була б кроком будь-якої гідної католицької нації."
  papal_state_events.60.a: "Зробіть це з нашого благословення."
  papal_state_events.60.b: "Ні, це дуже ризиковано."
- 
+
  papal_state_events.61.t: "Держава [From.GetNameDefCap] погодилася"
  papal_state_events.61.d: "Як гідний католицький монарх, король [From.GetLeader] погодився на наш план фінансування опору неосанфедистів."
  papal_state_events.61.a: "Чудово."
- 
+
  papal_state_events.62.t: "Держава [From.GetNameDefCap] відмовилася"
  papal_state_events.62.d: "Незважаючи на те, що йому повністю відомі гноблення північних католиків синдикалістським режимом, під гнітом якого вони знаходяться, король [From.GetLeader] відмовив у проханні з боку Папи, аргументуючи, що держава [From.GetNameDef] не може дозволити провокувати війну з державою [SRI.GetNameDef]."
  papal_state_events.62.a: "Яке розчарування."
- 
+
  papal_state_events.63.t: "Лідерів неосанфедистів заарештовано"
  papal_state_events.63.d: "Офіційні особи держави [SRI.GetNameDef] оголосили про перемогу над неосанфедистами, транслюючи арешти головних призвідників на національному телебаченні. На жаль, це означає, що всі можливості держави [PAP.GetNameDef] використовувати їх у війні тепер вислизнули."
  papal_state_events.63.a: "Яке розчарування."
- 
+
  papal_state_events.64.t: "Папа піднімає вірних католиків"
  papal_state_events.64.d: "Папа [PAP.GetLeader] зробив заклик до вірних католиків на території держави [SRI.GetNameDef], закликаючи їх повстати проти 'безбожних синдикалістів'... і люб'язно допомогти їм із постачанням та тренуваннями. Чисельність партизанів навряд чи є незліченними, але можуть стати дратівливим фактором, якщо вони раптово виникнуть у нашому тилу."
  papal_state_events.64.a: "Це нічого не змінює."
 
- papal_state_events.66.t: "$papal_state_events.7.t$"
- papal_state_events.66.d: "$papal_state_events.7.d$"
- papal_state_events.66.a: "$papal_state_events.7.a$"
- #Текст нище потребує вичитки, бо його перекладав Гасеп
- papal_state_events.67.t: "Пія XII обрано новим Папою"
- papal_state_events.67.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи. Кардинал Евгеніо Пачеллі прийняв ім'я Пія XII, тим самим продовжуючи лінію свого попередника."
- papal_state_events.67.a: "Щасти, Ваша Святосте"
- papal_state_events.67.b: "Нікчемну людину обрали нікчемні люди"
-
- papal_state_events.68.t: "Стефана X обрано новим Папою"
- papal_state_events.68.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи. Кардинал Елія далла Кости прийняв ім'я Стефана X. Багато хто вважає, що новий Папа може незабаром відмовитися від світської влади на користь цивільного уряду."
- papal_state_events.68.a: "Нехай щастить, Ваша Святосте"
- papal_state_events.68.b: "Принаймні він знає своє місце"
-
- papal_state_events.69.t: "Папа Іван XXIII – \"соціалістичний Папа\""
- papal_state_events.69.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи — кардинала Акілла Льонара, відомого як \"соціалістичний кардинал\". Він прийняв ім'я Івана XXIII. Багато хто вбачає в цьому пом'якшення позиції Церкви щодо синдикалізму та можливість відновлення контактів із державою [SRI.GetNameDef]."
- papal_state_events.69.a: "Нехай щастить, Ваша Святосте"
- papal_state_events.69.b: "Цікавий розвиток подій"
-
- papal_state_events.70.t: "Юлія IV обрано новим Папою"
- papal_state_events.70.d: "Білий дим над Сикстинською капелою сповістив про обрання нового Папи. Ним став Альфредо Ільдефонсо Шустер — принциповий політик і непримиренний противник синдикалізму, який прийняв ім'я Юлія IV. Очікується, що його обрання ще більше поглибить ідеологічний розкол в Італії."
- papal_state_events.70.a: "Нехай щастить, Ваша Святосте"
- papal_state_events.70.b: "Ось і показали своє справжнє обличчя"
-
- papal_state_events.71.t: "Pope Arrives in [refuge.GetNameDef]"
- papal_state_events.71.d: "Pope [PAP.GetLeader] arrived in [refuge.GetNameDef] today, having sought refuge there since his exile from Rome was decreed by [SRI.GetNameDef] more than a week ago.\n\nWhile exhausted from his journey, the Pope addressed an enormous crowd of well-wishers and faithful gathered outside his hotel, and called on the rest of the world to seek endurance and strength of heart in the face of the syndicalist menace."
- papal_state_events.71.a: "At least he's safe."
- papal_state_events.71.b: "Good riddance."
- #Текст вище потребує вичитки, бо його перекладав Гасеп
 ### Characters ###
- PAP_pius_xi: "Pius XI"
- PAP_pius_xi_leader_desc: "§YBorn:§! §LMay 31st, 1857, in Desio, Kingdom of Lombardy-Venetia, Austrian Empire§!\n§YBackground:§! §LPope Pius XI, formerly Cardinal Achille Ratti, was elected to the Holy See in 1922, having spent most of the previous years as a papal representative in the newly re-established state of Poland, and was named a cardinal in 1921. Thus, he avoided most of the turmoil of the civil war and the danger that the Papacy underwent in its later stages. He was the first pope since the unification of Italy to give an ascension speech at Saint Peter's, as the practice has been abandoned during the 'Hostage Years' under the Savoyard monarchy. His papacy has been also marked by increasing tensions between factions in the Curia, and the troubled re-establishment of temporal authority.§!"
+ PAP_pius_xi: "Пій XI"
+ PAP_pius_xi_leader_desc: "§YНародився:§! §L31 травня 1857 року в Дезіо, Королівство Ломбардо-Венеція, Австрійська імперія§!\n§YПередісторія:§! §LПапа Пій XI, колишній кардинал Акілле Ратті, був обраний на Святий Престол у 1922 році, провівши більшість попередніх років як папський представник у нововідновленій державі Польща, а кардиналом був названий у 1921 році. Таким чином, він уникнув більшості заворушень громадянської війни та небезпеки, яку зазнало папство на її пізніх етапах. Він був першим папою з часів об'єднання Італії, який виголосив вступну промову у соборі Святого Петра, оскільки ця практика була припинена під час «Років заручництва» за Савойської монархії. Його папство також було відзначене зростанням напруженості між фракціями в Курії та проблематичним відновленням світської влади.§!"
 
- PAP_college_of_cardinals: "College of Cardinals"
- PAP_college_of_cardinals_leader_desc: "§YFounded:§! §L1150, in Rome, Papal States§!\n§YBackground:§! §LWhile the conclave is in session, Carmelengo Eugenio Pacelli holds de facto administrative roles. However, the Holy See is officially empty, and the Papal State thus lacks a Head of State formally. The conclave is usually a time consuming process that may set the State and the Church itself in a brand new path for decades to come.§!"
+ PAP_college_of_cardinals: "Колегія кардиналів"
+ PAP_college_of_cardinals_leader_desc: "§YЗаснована:§! §L1150 року в Римі, Папська держава§!\n§YПередісторія:§! §LПоки триває конклав, кардинал-камерленго Еудженіо Пачеллі виконує де-факто адміністративні функції. Однак Святий Престол офіційно порожній, і Папська держава формально не має Глави Держави. Конклав зазвичай є тривалим процесом, який може визначити абсолютно новий шлях для Держави та самої Церкви на десятиліття вперед.§!"
 
- PAP_eugenio_pacelli: "Eugenio Pacelli"
- PAP_eugenio_pacelli_sic_desc: "§YBorn:§! §LMarch 2nd, 1876, in Rome, Kingdom of Italy§!"
- PAP_pius_xii: "Pius XII"
- PAP_pius_xii_leader_desc: "§YBorn:§! §LMarch 2nd, 1876, in Rome, Kingdom of Italy§!\n§YBackground:§! §LPope Pius XII, formerly Cardinal Eugenio Pacelli, is a man of great spiritual fervour. He is renowned for his piety, but has a strong authoritarian streak that is matched only by his desire to protect the people.§!"
+ PAP_eugenio_pacelli: "Еудженіо Пачеллі"
+ PAP_eugenio_pacelli_sic_desc: "§YНародився:§! §L2 березня 1876 року в Римі, Королівство Італія§!"
+ PAP_pius_xii: "Пій XII"
+ PAP_pius_xii_leader_desc: "§YНародився:§! §L2 березня 1876 року в Римі, Королівство Італія§!\n§YПередісторія:§! §LПапа Пій XII, колишній кардинал Еудженіо Пачеллі, — людина великого духовного запалу. Він відомий своєю побожністю, але має сильну авторитарну жилку, яка поступається лише його бажанню захистити народ.§!"
 
- PAP_elia_dalla_costa: "Elia dalla Costa"
- PAP_stephen_x: "Stephen X"
- PAP_stephen_x_leader_desc: "§YBorn:§! §LMay 14th, 1872, in Villaverla, Vicenza, Kingdom of Italy§!\n§YBackground:§! §LPope Stephen X, formerly Cardinal Elia dalla Costa, is a gentle man renowned for his charitable nature and love of the poor. Most assume he will eventually turn the Papacy away from its direct rule of the nation, and already forces are gathering within the Papal State to determine who will undertake that role.§!"
+ PAP_elia_dalla_costa: "Елія далла Коста"
+ PAP_stephen_x: "Стефан X"
+ PAP_stephen_x_leader_desc: "§YНародився:§! §L14 травня 1872 року у Віллаверлі, Віченца, Королівство Італія§!\n§YПередісторія:§! §LПапа Стефан X, колишній кардинал Елія далла Коста, — лагідна людина, відома своєю благодійністю та любов'ю до бідних. Більшість припускає, що він зрештою відведе папство від прямого правління нацією, і в Папській державі вже збираються сили, щоб визначити, хто візьме на себе цю роль.§!"
 
- PAP_achille_liennart: "Achille Liénart"
- PAP_john_xxiii: "John XXIII"
- PAP_john_xxiii_leader_desc: "§YBorn:§! §LFebruary 7th, 1884, in Lille, Nord, French Republic§!\n§YBackground:§! §LPope John XXIII, formerly Cardinal Achille Liènart, is a controversial choice as Pope. He is a well-known socialist, considered by some to even be a radical, and it's possible he was chosen by the Papacy due to the possibility his socialist leanings will lead to a reconciliation with the north.§!"
+ PAP_achille_liennart: "Ашиль Льєнар"
+ PAP_john_xxiii: "Іван XXIII"
+ PAP_john_xxiii_leader_desc: "§YНародився:§! §L7 лютого 1884 року в Ліллі, Нор, Французька Республіка§!\n§YПередісторія:§! §LПапа Іван XXIII, колишній кардинал Ашиль Льєнар, — суперечливий вибір на пост Папи. Він є відомим соціалістом, дехто вважає його навіть радикалом, і цілком можливо, що його обрання папством зумовлене ймовірністю того, що його соціалістичні погляди призведуть до примирення з північчю.§!"
 
- PAP_alfredo_schuster: "Alfredo Schuster"
- PAP_julius_iv: "Julius IV"
- PAP_julius_iv_leader_desc: "§YBorn:§! §LJanuary 18th, 1880, in Ospedale Santissimo Salvatore, Rome, Kingdom of Italy§!\n§YBackground:§! §LPope Julius IV, formerly Cardinal Alfredo Schuster, is a man renowned for his passion. He has been involved in the running of the Papal State for many years, and, as the former Archbishop of Milan, has declared syndicalism to be an evil he will battle until it is eradicated from the Earth.§!"
+ PAP_alfredo_schuster: "Альфредо Шустер"
+ PAP_julius_iv: "Юлій IV"
+ PAP_julius_iv_leader_desc: "§YНародився:§! §L18 січня 1880 року в Оспедале Сантіссімо Сальваторе, Рим, Королівство Італія§!\n§YПередісторія:§! §LПапа Юлій IV, колишній кардинал Альфредо Шустер, — людина, відома своєю пристрастю. Він був залучений до управління Папською державою протягом багатьох років і, як колишній архієпископ Мілана, оголосив синдикалізм злом, з яким боротиметься, доки його не буде викорінено із Землі.§!"
 
- PAP_giuseppe_pizzardo: "Giuseppe Pizzardo"
- PAP_giuseppe_pizzardo_sic_desc: "§YBorn:§! §LJuly 13th, 1877, in Savona, Genoa, Kingdom of Italy§!"
- PAP_eugene_tisserant: "Eugène Tisserant"
- PAP_eugene_tisserant_sic_desc: "§YBorn:§! §LMarch 24th, 1884, in Nancy, Meurthe-et-Moselle, French Republic§!"
+ PAP_giuseppe_pizzardo: "Джузеппе Піццардо"
+ PAP_giuseppe_pizzardo_sic_desc: "§YНародився:§! §L13 липня 1877 року в Савоні, Генуя, Королівство Італія§!"
+ PAP_eugene_tisserant: "Ежен Тіссеран"
+ PAP_eugene_tisserant_sic_desc: "§YНародився:§! §L24 березня 1884 року в Нансі, Мерт і Мозель, Французька Республіка§!"
 
- PAP_luigi_maglione: "Luigi Maglione"
- PAP_luigi_maglione_advisor_desc: "§YBorn:§! §LMarch 2nd, 1877, in Casoria, Naples, Kingdom of Italy§!"
- PAP_giovanni_battista_montini: "Giovanni Battista Montini"
- PAP_giovanni_battista_montini_advisor_desc: "§YBorn:§! §LSeptember 26th, 1897, in Concesio, Brescia, Kingdom of Italy§!"
- PAP_filippo_cremonesi: "Filippo Cremonesi"
- PAP_filippo_cremonesi_advisor_desc: "§YBorn:§! §LAugust 22nd, 1872, in Rome, Kingdom of Italy§!"
- PAP_pietro_campilli: "Pietro Campilli"
- PAP_pietro_campilli_advisor_desc: "§YBorn:§! §LNovember 30th, 1891, in Frascati, Rome, Kingdom of Italy§!"
- PAP_filippo_andrea_doria_pamphili: "Filippo Andrea Doria Pamphili"
- PAP_filippo_andrea_doria_pamphili_advisor_desc: "§YBorn:§! §LMarch 1st, 1886, in Rome, Kingdom of Italy§!"
- PAP_sergio_fenoaltea: "Sergio Fenoaltea"
- PAP_sergio_fenoaltea_advisor_desc: "§YBorn:§! §LJune 9th, 1908, in Rome, Kingdom of Italy§!"
- PAP_leone_cattani: "Leone Cattani"
- PAP_leone_cattani_advisor_desc: "§YBorn:§! §LJanuary 5th, 1906, in Rieti, Umbria, Kingdom of Italy§!"
- PAP_alberto_cianca: "Alberto Cianca"
- PAP_alberto_cianca_advisor_desc: "§YBorn:§! §LJanuary 1st, 1884, in Rome, Kingdom of Italy§!"
- PAP_ludovico_chigi_albani_dalla_rovere: "Ludovico Chigi Albani dalla Rovere"
- PAP_ludovico_chigi_albani_dalla_rovere_advisor_desc: "§YBorn:§! §LJuly 10th, 1866, in Ariccia, Comarca di Rome, Papal States§!"
- PAP_heinrich_pfyffer_von_altishofen: "Heinrich Pfyffer von Altishofen"
- PAP_heinrich_pfyffer_von_altishofen_advisor_desc: "§YBorn:§! §Lin the Kingdom of Italy§!"
- PAP_felix_morlion: "Felix Morlion"
- PAP_felix_morlion_advisor_desc: "§YBorn:§! §LMay 16th, 1904, in Diksmuide, West Flanders, Kingdom of Belgium§!"
+ PAP_luigi_maglione: "Луїджі Мальйоне"
+ PAP_luigi_maglione_advisor_desc: "§YНародився:§! §L2 березня 1877 року в Казорії, Неаполь, Королівство Італія§!"
+ PAP_giovanni_battista_montini: "Джованні Баттіста Монтіні"
+ PAP_giovanni_battista_montini_advisor_desc: "§YНародився:§! §L26 вересня 1897 року в Кончезіо, Брешія, Королівство Італія§!"
+ PAP_filippo_cremonesi: "Філіппо Кремонезі"
+ PAP_filippo_cremonesi_advisor_desc: "§YНародився:§! §L22 серпня 1872 року в Римі, Королівство Італія§!"
+ PAP_pietro_campilli: "П'єтро Кампіллі"
+ PAP_pietro_campilli_advisor_desc: "§YНародився:§! §L30 листопада 1891 року у Фраскаті, Рим, Королівство Італія§!"
+ PAP_filippo_andrea_doria_pamphili: "Філіппо Андреа Доріа Памфілі"
+ PAP_filippo_andrea_doria_pamphili_advisor_desc: "§YНародився:§! §L1 березня 1886 року в Римі, Королівство Італія§!"
+ PAP_sergio_fenoaltea: "Серджіо Феноалтеа"
+ PAP_sergio_fenoaltea_advisor_desc: "§YНародився:§! §L9 червня 1908 року в Римі, Королівство Італія§!"
+ PAP_leone_cattani: "Леоне Каттані"
+ PAP_leone_cattani_advisor_desc: "§YНародився:§! §L5 січня 1906 року в Рієті, Умбрія, Королівство Італія§!"
+ PAP_alberto_cianca: "Альберто Чіанка"
+ PAP_alberto_cianca_advisor_desc: "§YНародився:§! §L1 січня 1884 року в Римі, Королівство Італія§!"
+ PAP_ludovico_chigi_albani_dalla_rovere: "Людовіко Кіджі Альбані делла Ровере"
+ PAP_ludovico_chigi_albani_dalla_rovere_advisor_desc: "§YНародився:§! §L10 липня 1866 року в Аріччі, Комарка ді Рома, Папська область§!"
+ PAP_heinrich_pfyffer_von_altishofen: "Генріх Пфіффер фон Альтісгофен"
+ PAP_heinrich_pfyffer_von_altishofen_advisor_desc: "§YНародився:§! §Lу Королівстві Італія§!"
+ PAP_felix_morlion: "Фелікс Морліон"
+ PAP_felix_morlion_advisor_desc: "§YНародився:§! §L16 травня 1904 року в Діксмейде, Західна Фландрія, Королівство Бельгія§!"
 
- PAP_alois_hirschbuhl: "Luigi Alois Hirschbühl"
- PAP_alois_hirschbuhl_high_command_desc: "§YBorn:§! §LOctober 11th, 1883, in Chur, Grisons, Swiss Confederation§!"
- PAP_pier_ruggero_piccio: "Pier Ruggero Piccio"
- PAP_pier_ruggero_piccio_air_chief_desc: "§YBorn:§! §LSeptember 27th, 1880, in Rome, Kingdom of Italy§!"
+ PAP_alois_hirschbuhl: "Луїджі Алоїз Гіршбюль"
+ PAP_alois_hirschbuhl_high_command_desc: "§YНародився:§! §L11 жовтня 1883 року в Курі, Граубюнден, Швейцарська Конфедерація§!"
+ PAP_pier_ruggero_piccio: "П'єр Руджеро Піччіо"
+ PAP_pier_ruggero_piccio_air_chief_desc: "§YНародився:§! §L27 вересня 1880 року в Римі, Королівство Італія§!"
 
- PAP_angelo_cerica: "Angelo Cerica"
- PAP_angelo_cerica_army_chief_desc: "§YBorn:§! §LSeptember 30th, 1885, in Alatri, Rome, Kingdom of Italy§!"
- PAP_reginaldo_giuliani: "Reginaldo Giuliani"
- PAP_reginaldo_giuliani_high_command_desc: "§YBorn:§! §LAugust 28th, 1887, in Turin, Kingdom of Italy§!"
- PAP_georg_von_sury_daspremont: "Georg von Sury d'Aspremont"
- PAP_georg_von_sury_daspremont_high_command_desc: "§YBorn:§! §LSeptember 17th, 1887, in Solothurn, Swiss Confederation§!"
+ PAP_angelo_cerica: "Анджело Черіка"
+ PAP_angelo_cerica_army_chief_desc: "§YНародився:§! §L30 вересня 1885 року в Алатрі, Рим, Королівство Італія§!"
+ PAP_reginaldo_giuliani: "Реджинальдо Джуліані"
+ PAP_reginaldo_giuliani_high_command_desc: "§YНародився:§! §L28 серпня 1887 року в Турині, Королівство Італія§!"
+ PAP_georg_von_sury_daspremont: "Георг фон Сурі д'Аспремон"
+ PAP_georg_von_sury_daspremont_high_command_desc: "§YНародився:§! §L17 вересня 1887 року в Золотурні, Швейцарська Конфедерація§!"
 
- PAP_luigi_sansonetti: "Luigi Sansonetti"
- PAP_luigi_sansonetti_navy_chief_desc: "§YBorn:§! §LFebruary 22nd, 1888, in Rome, Kingdom of Italy§!"
- PAP_junio_valerio_borghese: "Junio Valerio Borghese"
- PAP_junio_valerio_borghese_high_command_desc: "§YBorn:§! §LJune 6th, 1906, in Artena, Rome, Kingdom of Italy§!"
- PAP_palatine_guard_command: "Palatine Honour Guard Command"
- PAP_palatine_guard_command_theorist_desc: "§YFounded:§! §LDecember 14th, 1850, in Rome, Comarca di Rome, Papal States§!"
+ PAP_luigi_sansonetti: "Луїджі Сансонетті"
+ PAP_luigi_sansonetti_navy_chief_desc: "§YНародився:§! §L22 лютого 1888 року в Римі, Королівство Італія§!"
+ PAP_junio_valerio_borghese: "Джуніо Валеріо Боргезе"
+ PAP_junio_valerio_borghese_high_command_desc: "§YНародився:§! §L6 червня 1906 року в Артена, Рим, Королівство Італія§!"
+ PAP_palatine_guard_command: "Командування Палатинської почесної гвардії"
+ PAP_palatine_guard_command_theorist_desc: "§YЗасновано:§! §L14 грудня 1850 року в Римі, Комарка ді Рома, Папська область§!"

@@ -1,0 +1,18 @@
+﻿l_english:
+
+ faction_generic: "Регіональний гегемон"
+
+ faction_manifest_generic_regional_dominance_name: "Регіональна гегемонія"
+ faction_manifest_generic_regional_dominance_desc: "The time has come to carve our place in the sun.\nHave your faction own 150 states."
+
+ faction_defender_of_democracy: "Захисник демократії"
+
+ faction_manifest_generic_democratic_bastion_name: "Бастіон демократії"
+ faction_manifest_generic_democratic_bastion_desc: "Переконайтеся, що всі країни світу дотримуються однієї з наступних ідеологій:\n$social_democrat_coloured$\n$social_liberal_coloured$\n$market_liberal_coloured$\n$social_conservative_coloured$" # (&)
+
+ faction_harbinger_of_a_new_order: "Harbinger of a New Order"
+
+ faction_manifest_generic_a_new_world_order_name: "Новий світовий порядок"
+ faction_manifest_generic_a_new_world_order_desc: "Переконайтеся, що всі країни світу дотримуються однієї з наступних ідеологій:\n$authoritarian_democrat_coloured$\n$paternal_autocrat_coloured$\n$national_populist_coloured$" # (&)
+
+ faction_internationale_successor: "Successor of the Internationale"

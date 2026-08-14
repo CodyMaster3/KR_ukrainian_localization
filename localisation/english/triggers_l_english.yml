@@ -5,6 +5,9 @@ or_clarification_tooltip: "Якщо §Yжодна§! з вищепереліче
 
 TRIGGER_ALL_COUNTRY_STARTS: "Усі держави"
 TRIGGER_ANY_COUNTRY_STARTS: "Будь-яка держава"
+TRIGGER_ANY_COUNTRY_OF_STARTS: "Абияка з країн ($COUNTRIES$)"
+TRIGGER_ALL_COUNTRY_OF_STARTS: "Усі з країн ($COUNTRIES$)"
+TRIGGER_ANY_STATES_OF_STARTS: "Абияка з областей ($STATES$)"
 TRIGGER_ALL_OTHER_COUNTRY_STARTS: "Усі інші держави"
 TRIGGER_ANY_OTHER_COUNTRY_STARTS: "Будь-яка інша держава"
 TRIGGER_ALL_ALLIED_COUNTRY_STARTS: "Усі союзні держави"
@@ -27,6 +30,7 @@ TRIGGER_ANY_COUNTRY_WITH_ORIGINAL_TAG: "Будь-яка держава з пер
 TRIGGER_ANY_COUNTRY_WITH_CORE_STARTS: "Будь-яка держава, чия область є осердною"
 
 TRIGGER_ALL_STATE_STARTS: "Усі області"
+TRIGGER_ALL_CLAIMANT_STARTS: "Усі країни з претензією на область $STATE$"
 TRIGGER_ANY_STATE_STARTS: "Будь-яка область"
 TRIGGER_ANY_STATE_IN_STARTS: "Будь-яка область у: $NAME|H$"
 TRIGGER_ALL_OWNED_STATE_STARTS: "Усі області у власності"
@@ -137,7 +141,9 @@ TRIGGER_HAS_ROLE_DIVISION: "Є дивізії для функції $ROLE|H$"
 TRIGGER_HAS_NOT_ROLE_DIVISION: "Нема дивізій для функції $ROLE|H$"
 TRIGGER_HAS_IDEA_WITH_TRAIT: "У частини уряду є риса $TRAIT|H$"
 TRIGGER_HAS_NOT_IDEA_WITH_TRAIT: "У частини уряду немає риси $TRAIT|H$"
-TRIGGER_HAS_NOT_COMPLETED_GOAL: "Досягнуто ціль $GOAL|H$"
+TRIGGER_HAS_NOT_COMPLETED_GOAL: "Не досягнуто ціль $GOAL|H$"
+TRIGGER_HAS_COMPLETED_GOAL_TRIGGER: "Держава $COUNTRY|H$ попередньо виконала ціль альянсу $GOAL|H$"
+TRIGGER_HAS_NOT_COMPLETED_GOAL_TRIGGER: "Держава $COUNTRY|H$ попередньо не виконала ціль альянсу $GOAL|H$"
 TRIGGER_HAS_COMPLETED_FOCUS: "Виконано фокус $FOCUS|H$"
 TRIGGER_HAS_NOT_COMPLETED_FOCUS: "Не виконано фокус $FOCUS|H$"
 TRIGGER_HAS_COMPLETED_AGENCY_UPGRADE: "Є поліпшення агентства $UPGRADE|H$"
@@ -194,16 +200,16 @@ TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_OF_TYPE_AT_LEAST: "Розгорнуто що
 TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_OF_TYPE_AT_MOST: "Розгорнуто щонайбільше $AMOUNT|H$ літаків $TYPE|H$"
 TRIGGER_HAS_VOLUNTEERS_MORE_THAN: "Має $VALUE|H$ або більше добровольців із держави $COUNTRY2|H$"
 TRIGGER_HAS_VOLUNTEERS_LESS_THAN: "Має менш ніж $VALUE|H$ добровольців із держави $COUNTRY2|H$"
-TRIGGER_HAS_WAR_LENGTH_WITH_LESS_THAN: "У стані війни з державою $COUNTRY2|H$ менш ніж $VALUE|H$"
-TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "У стані війни з державою $COUNTRY2|H$ більш ніж $VALUE|H$"
+TRIGGER_HAS_WAR_LENGTH_WITH_LESS_THAN: "У стані війни з державою $COUNTRY2|H$ менше $VALUE|H$ міс."
+TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "У стані війни з державою $COUNTRY2|H$ більше $VALUE|H$ міс."
 TRIGGER_IS_LEADING_VOLUNTEERS: "Є лідером групи добровольців"
 TRIGGER_IS_LEADING_VOLUNTEERS_IN_COUNTRY: "Є лідером групи добровольців у державі $COUNTRY1|H$"
 TRIGGER_AI_WANTS_DIVISIONS_MORE_THAN: "Хоче більш ніж $AMOUNT|H.0$ дивізій"
 TRIGGER_AI_WANTS_DIVISIONS_LESS_THAN: "Хоче менш ніж $AMOUNT|H.0$ дивізій"
-TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має мінімальне значення броні $VALUE|H$ або більше"
-TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має максимальне значення броні $VALUE|H$ або менше"
-TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_MORE_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має мінімальне значення бронебійності $VALUE|H$ або більше"
-TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_LESS_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має максимальне значення бронебійності $VALUE|H$ або менше"
+TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має мінімальну величину броні $VALUE|H$ або більше"
+TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має максимальну величину броні $VALUE|H$ або менше"
+TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_MORE_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має мінімальну величину бронебійності $VALUE|H$ або більше"
+TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_LESS_THAN: "Згідно з розвідданими, держава $COUNTRY2|H$ має максимальну величину бронебійності $VALUE|H$ або менше"
 TRIGGER_STRENGTH_RATIO_MORE_THAN: "Приблизне співвідношення боєздатності армії — щонайменше $VALUE|H0%$ порівняно з державою $COUNTRY2$"
 TRIGGER_STRENGTH_RATIO_LESS_THAN: "Приблизне співвідношення боєздатності армії — щонайбільше $VALUE|H0%$ порівняно з державою $COUNTRY2$"
 TRIGGER_FIGHTING_ARMY_STRENGTH_RATIO_MORE_THAN: "Загальне співвідношення боєздатності армії — щонайбільше $VALUE|H0%$ порівняно з державою $COUNTRY2$"
@@ -227,6 +233,8 @@ TRIGGER_HAS_WAR_WITH_MAJOR: "У стані війни з великою держ
 TRIGGER_HAS_NOT_WAR_WITH_MAJOR: "У стані миру з великою державою"
 TRIGGER_HAS_OFFENSIVE_WAR: "У стані наступальної війни"
 TRIGGER_HAS_NOT_OFFENSIVE_WAR: "Не у стані наступальної війни"
+TRIGGER_HAS_OFFENSIVE_WAR_WITHOUT_FRIEND: "У стані наступальної війни, де $COUNTRY|H$ є союзником"
+TRIGGER_HAS_NOT_OFFENSIVE_WAR_WITHOUT_FRIEND: "Не у стані наступальної війни, де $COUNTRY|H$ є союзником"
 TRIGGER_HAS_DEFENSIVE_WAR: "У стані оборонної війни"
 TRIGGER_HAS_NOT_DEFENSIVE_WAR: "Не у стані оборонної війни"
 TRIGGER_HAS_NOT_WAR_WITH: "У стані миру з державою @$TAG$$COUNTRY|H$"
@@ -260,8 +268,8 @@ TRIGGER_CONTROLS_PROVINCE: "Контролює провінцію $PROVINCE|H$"
 TRIGGER_NOT_CONTROLS_PROVINCE: "Не контролює провінцію $PROVINCE|H$"
 TRIGGER_FULL_CONTROLS_STATE: "Повністю контролює область $STATE|H$"
 TRIGGER_NOT_FULL_CONTROLS_STATE: "Не повністю контролює область $STATE|H$"
-TRIGGER_HAS_IDEOLOGY2: "Ідеологія правлячої партії — $IDEOLOGY|H$"
-TRIGGER_HAS_NOT_IDEOLOGY2: "Ідеологія правлячої партії — не $IDEOLOGY|H$"
+TRIGGER_HAS_IDEOLOGY2: "Ідеологія керівної партії — $IDEOLOGY|H$"
+TRIGGER_HAS_NOT_IDEOLOGY2: "Ідеологія керівної партії — не $IDEOLOGY|H$"
 TRIGGER_HAS_NOT_OPINION_MODIFIER: "Є модифікатор $OPINION|H$"
 TRIGGER_HAS_OPINION_MODIFIER: "Нема модифікатора $OPINION|H$"
 TRIGGER_HAS_OPINION_AT_LEAST: "Думка про державу $COUNTRY|H$ — щонайменше $VALUE|H$"
@@ -273,8 +281,8 @@ TRIGGER_DOES_NOT_EXIST: "Не існує"
 TRIGGER_EXISTS: "Існує"
 TRIGGER_COUNTRY_DOES_NOT_EXIST: "$COUNTRY|H$ не існує"
 TRIGGER_COUNTRY_EXISTS: "$COUNTRY|H$ існує"
-ORIGINAL_TAG_IS_NOT: "Початкова держава — не $COUNTRY|H$"
-ORIGINAL_TAG_IS: "Початкова держава — $COUNTRY|H$"
+ORIGINAL_TAG_IS_NOT: "Первісна країна — не $COUNTRY|H$"
+ORIGINAL_TAG_IS: "Первісна країна — $COUNTRY|H$"
 CIVILWAR_TARGET_IS_NOT: "Ціль громадянської війни — не $COUNTRY|H$"
 CIVILWAR_TARGET_IS: "Ціль громадянської війни — $COUNTRY|H$"
 TRIGGER_AT_LEAST_X_BUILDINGS: "Щонайменше $AMOUNT|H$ $BUILDING|H$"
@@ -484,6 +492,7 @@ TRIGGER_IS_NOT_RESEARCHING_TECHNOLOGY: "Зараз не досліджує те�
 TRIGGER_IS_RESEARCHING_TECHNOLOGY_COUNTRY_SPECIFIC_NAME: "Зараз досліджує технологію §Y$BASENAME$ — $TECHNOLOGY$§!"
 TRIGGER_IS_IN_TECHNOLOGY_SHARING_GROUP: "Є членом групи $GROUPNAME|Y$"
 TRIGGER_IS_NOT_IN_TECHNOLOGY_SHARING_GROUP: "Не є членом групи $GROUPNAME|Y$"
+TRIGGER_IN_TECHNOLOGY_SHARING_FACTION_NAME: "Дослідницька група альянсу"
 TRIGGER_HAS_AUTONOMY_STATE: "$NAME|Y$"
 TRIGGER_HAS_NOT_AUTONOMY_STATE: "Не $NAME|Y$"
 TRIGGER_AUTONOMY_STATE_GREATER_THAN: "Рівень автономії вищий, ніж $NAME|H$"
@@ -504,21 +513,21 @@ CASUALTIES_GREATER_THEN: "Держава понесла більш ніж $VALUE
 CASUALTIES_LESS_THEN: "Держава понесла менш ніж $VALUE|Y$ втрат у поточних війнах"
 TRIGGER_HAS_DAMAGED_BUILDINGS: "Є пошкоджені споруди"
 TRIGGER_HAS_NO_DAMAGED_BUILDINGS: "Нема пошкоджених споруд"
-TRIGGER_CAN_BUILD_RAIL_DIFF_STATES: "Можна збудувати залізницю $START|H$–$END|H$"
-TRIGGER_CAN_NOT_BUILD_RAIL_DIFF_STATES: "Не можна збудувати залізницю $START|H$–$END|H$"
+TRIGGER_CAN_BUILD_RAIL_DIFF_STATES: "Можна збудувати залізницю $START|H$ – $END|H$"
+TRIGGER_CAN_NOT_BUILD_RAIL_DIFF_STATES: "Не можна збудувати залізницю $START|H$ – $END|H$"
 TRIGGER_CAN_BUILD_RAIL_SAME_STATE: "Можна збудувати залізницю в області $STATE|H$"
 TRIGGER_CAN_NOT_BUILD_RAIL_SAME_STATE: "Не можна збудувати залізницю в області $STATE|H$"
 TRIGGER_HAS_RAILWAY_LEVEL: "Є залізниця $LEVEL|H$ рівня в області $STATE|H$"
-TRIGGER_HAS_RAILWAY_CONNECTION: "Є залізничне сполучення $START|H$–$GOAL|H$"
+TRIGGER_HAS_RAILWAY_CONNECTION: "Є залізничне сполучення $START|H$ – $GOAL|H$"
 TRIGGER_MORE_THAN_X_OCCUPIED_STATES: "Більш ніж $COUNT|Y$ окупованих ворожих областей"
 TRIGGER_LESS_THAN_X_OCCUPIED_STATES: "Менш ніж $COUNT|Y$ окупованих ворожих областей"
 TRIGGER_FLAG_SET_MORE_THAN_DAYS: "Більш ніж $DAYS|H$ дн. тому"
 TRIGGER_FLAG_SET_LESS_THAN_DAYS: "Менш ніж $DAYS|H$ дн. тому"
 TRIGGER_FLAG_SET_DATE_BEFORE: "До $DATE|H$"
 TRIGGER_FLAG_SET_DATE_AFTER: "Після $DATE|H$"
-TRIGGER_FLAG_SET_VALUE_MORE_THAN: "Значення більше, ніж $VALUE|H$"
-TRIGGER_FLAG_SET_VALUE_LESS_THAN: "Значення менше, ніж $VALUE|H$"
-TRIGGER_FLAG_SET_VALUE_EQUALS: "Значення дорівнює $VALUE|H$"
+TRIGGER_FLAG_SET_VALUE_MORE_THAN: "Величина більша, ніж $VALUE|H$"
+TRIGGER_FLAG_SET_VALUE_LESS_THAN: "Величина менша, ніж $VALUE|H$"
+TRIGGER_FLAG_SET_VALUE_EQUALS: "Величина дорівнює $VALUE|H$"
 TRIGGER_MORE_THAN_RESOURCES: "Більш ніж $AMOUNT|H$ $RESOURCE|H$"
 TRIGGER_LESS_THAN_RESOURCES: "Менш ніж $AMOUNT|H$ $RESOURCE|H$"
 TRIGGER_AT_MOST_RESOURCES: "Щонайбільше $AMOUNT|H$ $RESOURCE|H$"
@@ -529,8 +538,11 @@ TRIGGER_AT_MOST_RESOURCES_IN_STATE: "Щонайбільше $AMOUNT|H$ $RESOURCE
 TRIGGER_AT_LEAST_RESOURCES_IN_STATE: "Щонайменше $AMOUNT|H$ $RESOURCE|H$ в області $STATE|H$"
 TRIGGER_MORE_THAN_RESOURCES_IN_COUNTRY: "Більш ніж $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
 TRIGGER_LESS_THAN_RESOURCES_IN_COUNTRY: "Менш ніж $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
-TRIGGER_AT_MOST_RESOURCES_IN_COUNTRY: "Щонайбільше $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
-TRIGGER_AT_LEAST_RESOURCES_IN_COUNTRY: "Щонайменше $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
+TRIGGER_HAVE_RESOURCES_IN_COLLECTION: "$SIGN$ $AMOUNT|H$ $RESOURCE|H$ у наборі $COLLECTION$" # (&)
+TRIGGER_AT_LEAST_RESOURCES_IN_COUNTRY: "Принаймні $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
+TRIGGER_COUNT_IN_COLLECTION: "$SIGN$ $SIZE|H*$ $TYPE|H$ у наборі $COLLECTION$. Наразі: $CURRENT|H*$" # (&)
+TRIGGER_COUNT_IN_COLLECTION_EQUIPMENT_RATIO: "із принаймні $VALUE|.0%H$ спорядження"
+TRIGGER_FIELDED_MANPOWER: "Розгорнуті людські ресурси"
 TRIGGER_HAS_TECH_BONUS: "Є бонус до дослідження технології $TECH|H$"
 TRIGGER_HAS_NOT_TECH_BONUS: "Нема бонусу до дослідження технології $TECH|H$"
 TRIGGER_HAS_TECH_CATEGORY_BONUS: "Є бонус до дослідження в категорії $CATEGORY|H$"
@@ -585,12 +597,16 @@ TRIGGER_IS_ASSIGNED_ARMY_OR_NAVY: "Командує армією або флот
 TRIGGER_NOT_IS_ASSIGNED_ARMY_OR_NAVY: "Не командує армією або флотом"
 TRIGGER_IS_ASSIGNED_OPERATIVE: "Призначений до місії або операції"
 TRIGGER_NOT_IS_ASSIGNED_OPERATIVE: "Не призначений до місії або операції"
+TRIGGER_IS_IN_STATE: "Перебуває в області $STATE|H$"
+TRIGGER_NOT_IS_IN_STATE: "Не перебуває в області $STATE|H$"
 TRIGGER_NUM_UNITS_DIVISION: "Дивізія"
 TRIGGER_NUM_UNITS_DIVISIONS: "Дивізії"
 TRIGGER_NUM_UNITS_SHIP: "Корабель"
 TRIGGER_NUM_UNITS_SHIPS: "Кораблі"
 TRIGGER_IS_FIELD_MARSHALL: "§HФельдмаршал§!"
 TRIGGER_IS_NOT_FIELD_MARSHALL: "Не §Hфельдмаршал§!"
+TRIGGER_IS_PROMOTED_FROM_UNIT: "Було підвищено з військової частини"
+TRIGGER_IS_NOT_PROMOTED_FROM_UNIT: "Не було підвищено з військової частини"
 TRIGGER_TAG_UNITLEADER: "$COUNTRYADJ$."
 TRIGGER_TAG_NOT_UNITLEADER: "$COUNTRYADJ$."
 TRIGGER_COMPARE_LEVEL: "§HРівень навичок§!"
@@ -616,8 +632,8 @@ TRIGGER_HAS_ANY_BORDER_WAR: "$NAME|H$ бере участь у будь-яком
 TRIGGER_HAS_NOT_ANY_BORDER_WAR: "$NAME|H$ не бере участь у жодному прикордонному конфлікті"
 TRIGGER_HAS_BORDER_WAR_WITH: "$NAME1|H$ веде прикордонний конфлікт із державою $NAME2|H$"
 TRIGGER_HAS_NOT_BORDER_WAR_WITH: "$NAME1|H$ не веде прикордонний конфлікт із державою $NAME2|H$"
-TRIGGER_AVERAGE_UNIT_LEADER_STAT_LESS_THAN: "Середні характеристики — нижчі ніж $VALUE|H$"
-TRIGGER_AVERAGE_UNIT_LEADER_STAT_MORE_THAN: "Середні характеристики — вищі ніж $VALUE|H$"
+TRIGGER_AVERAGE_UNIT_LEADER_STAT_LESS_THAN: "Середні характеристики — нижчі ніж $VALUE|H$" # (&)
+TRIGGER_AVERAGE_UNIT_LEADER_STAT_MORE_THAN: "Середні характеристики — вищі ніж $VALUE|H$" # (&)
 TRIGGER_SKILL_LEVEL_MORE_THAN: "Рівень навичок — вище $VALUE|H$"
 TRIGGER_SKILL_LEVEL_LESS_THAN: "Рівень навичок — нижче $VALUE|H$"
 TRIGGER_ATTACK_LEVEL_MORE_THAN: "Рівень навичок атаки — вище $VALUE|H$"
@@ -629,8 +645,12 @@ TRIGGER_PLANNING_LEVEL_LESS_THAN: "Рівень навичок плануван�
 TRIGGER_LOGISTICS_LEVEL_LESS_THAN: "Рівень навичок логістики — нижче $VALUE|H$"
 TRIGGER_IS_LEADING_ARMY: "Командує армією"
 TRIGGER_IS_NOT_LEADING_ARMY: "Не командує армією"
+TRIGGER_IS_LEADING_ARMY_IN_PROVINCE: "Командує армією у провінції $NAME|H$" # (&)
+TRIGGER_IS_NOT_LEADING_ARMY_IN_PROVINCE: "Не командує армією у провінції $NAME|H$" # (&)
 TRIGGER_IS_LEADING_ARMY_GROUP: "Командує групою армій"
 TRIGGER_IS_NOT_LEADING_ARMY_GROUP: "Не командує групою армій"
+TRIGGER_CAN_BE_CAPTURED: "Може потрапити в полон"
+TRIGGER_CAN_NOT_BE_CAPTURED: "Не може потрапити в полон"
 TRIGGER_HAS_ATTACHE: "Є аташе з іншої держави"
 TRIGGER_HAS_NOT_ATTACHE: "Нема аташе з інших держав"
 TRIGGER_HAS_ATTACHE_FROM: "Є аташе з держави $COUNTRY|H$"
@@ -952,8 +972,8 @@ TRIGGER_HAS_RESOURCES_RIGHT: "$COUNTRY|H$ має всі права на ресу
 TRIGGER_HAS_NOT_RESOURCES_RIGHT: "$COUNTRY|H$ не має всіх прав на ресурс $RESOURCES|H$"
 TRIGGER_OVERLORD: "Володар"
 
-TRIGGER_PC_IS_INSIDE_INFLUENCE_RANGE: "У межах макс. діапазону впливу ШІ" # Will never be displayed
-TRIGGER_PC_IS_OUTSIDE_INFLUENCE_RANGE: "Поза межами макс. діапазону впливу ШІ" # Will never be displayed
+TRIGGER_PC_IS_INSIDE_INFLUENCE_RANGE: "У межах найбільшого діапазону впливу ШІ" # Will never be displayed
+TRIGGER_PC_IS_OUTSIDE_INFLUENCE_RANGE: "Поза межами найбільшого діапазону впливу ШІ" # Will never be displayed
 TRIGGER_HAS_COMPLETED_CUSTOM_ACHIEVEMENT: "Виконано досягнення $ACHIEVEMENT|H$"
 TRIGGER_HAS_NOT_COMPLETED_CUSTOM_ACHIEVEMENT: "Не виконано досягнення $ACHIEVEMENT|H$"
 
@@ -1012,4 +1032,49 @@ INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
 ### 1.16 COUNTENANCE ###
  TRIGGER_OWNS_ANY_STATE_OF: "Володіє абиякою з цих областей:"
  TRIGGER_NOT_OWNS_ANY_STATE_OF: "Не володіє жодною з цих областей:"
+
+### 1.17 MUSKETEER ###
+ TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS:0 "Has free $TYPE$ supportive scientist slots in $FACTIONNAME$ that can be used by $COUNTRY|H$" # (!)
+ TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS_NO:0 "Doesn't have any free $TYPE$ supportive scientist slots for $FACTIONNAME$ that can be used by $COUNTRY|H$" # (!)
+ TRIGGER_IS_SAME_CONTINENT_AS: "$COUNTRY|H$ знаходиться на тому ж континенті"
+ TRIGGER_IS_NOT_SAME_CONTINENT_AS: "$COUNTRY|H$ не знаходиться на тому ж континенті"
  TARGET_TRIGGER_COUNT_PREFIX: "Принаймні $COUNT|H$ із "
+ 
+ TRIGGER_VALUE_LESS_THAN:0 "less than $VALUE|~2H$" # (!)
+ TRIGGER_VALUE_LESS_THAN_OR_EQUAL:0 "less than or equal to $VALUE|~2H$" # (!)
+ TRIGGER_VALUE_EQUAL:0 "equal to $VALUE|~2H$" # (!)
+ TRIGGER_VALUE_GREATER_THAN:0 "greater than $VALUE|~2H$" # (!)
+ TRIGGER_VALUE_GREATER_THAN_OR_EQUAL:0 "greater than or equal to $VALUE|~2H$" # (!)
+ TRIGGER_VALUE_NOT_EQUAL:0 "not equal to $VALUE|~2H$" # (!)
+ TRIGGER_COLLECTION_SIZE_INLINE:0 "Number of $COLLECTION|H$ ($VALUE|H$) is $CONSTRAINT$" # (!)
+ TRIGGER_COLLECTION_CONTAINS_MANY:0 "Collection $COLLECTION|H$ contains all of the following:$VALUES$" # (!)
+ TRIGGER_COLLECTION_CONTAINS_MANY_VALUE:0 "$VALUE|H$" # (!)
+ TRIGGER_COLLECTION_CONTAINS:0 "Collection $COLLECTION|H$ contains $VALUE|H$" # (!)
+ TRIGGER_COLLECTION_DO_NOT_CONTAIN_MANY:0 "Collection $COLLECTION|H$ does not contain all of the following:$VALUES$" # (!)
+ TRIGGER_COLLECTION_DO_NOT_CONTAIN:0 "Collection $COLLECTION|H$ does not contain $VALUE|H$" # (!)
+ TRIGGER_COLLECTION_SIZE:0 "Number of $COLLECTION|H$ ($VALUE|H$) is:" # (!)
+ TRIGGER_ALL_COLLECTION_ELEMENTS_STARTS:0 "All $COLLECTION$" # (!)
+ TRIGGER_ANY_COLLECTION_ELEMENT_STARTS:0 "Any $COLLECTION$" # (!)
+ TRIGGER_LESS_THAN_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is less than or equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
+ TRIGGER_MORE_THAN_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is more than or equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
+ TRIGGER_NOT_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is not equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
+ TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is more than $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
+ TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is less than $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
+ TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
+ GOAL_T_TRIGGER_A:0 "Known Techs in Faction ($LEFT|0H$) is greater than $RIGHT|0H$" # (!)
+ GOAL_T_TRIGGER_B:0 "Divisions in faction ($LEFT|0H$) greater than $RIGHT|0H$" # (!)
+ TRIGGER_EQUIPMENT_CURRENT_VALUE:0 " (current stockpile: $CURRENT|H$)" # (!)
+ TRIGGER_ENERGY_RATIO: "Співвідношення енергії"
+
+### 1.19 OPERATION POSTERN ###
+ TRIGGER_GENERAL_CAPTURED: "В ув'язненні"
+ TRIGGER_GENERAL_NOT_CAPTURED: "Не в ув'язненні"
+ TRIGGER_ANY_GENERAL_CAPTURED: "Принаймні один із наших командувачів ув'язнений"
+ TRIGGER_NO_GENERAL_CAPTURED: "Жоден із наших командувачів не ув'язнений"
+ TRIGGER_HAS_GENERAL_CAPTURED_BY: "Має абиякого командувача, полоненого державою $COUNTRY|H$"
+ TRIGGER_HAS_NOT_GENERAL_CAPTURED_BY: "Не має жодного командувача, полоненого державою $COUNTRY|H$"
+
+ can_unlock_second_track_special_forces_doctrine_yes: "Special Forces §HBranch Specialism§! Requirement Fulfilled" # (!)
+ can_unlock_second_track_special_forces_doctrine_no: "Requires Extra Special Forces §HBranch Specialism§!" # (!)
+
+ volunteer_target_is_triggered_uprising_tt: "Держава §Y[ROOT.GetNameWithFlag]§! може надсилати добровольців лише повстанням, котрі та спричинила."

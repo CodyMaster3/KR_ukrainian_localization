@@ -41,8 +41,8 @@ rocket_site_desc: "Ця споруда дозволяє розміщувати �
 nuclear_reactor: "Ядерний реактор"
 nuclear_reactor_plural: "Ядерні реактори"
 nuclear_reactor_desc: "Ця споруда виробляє в області збагачений уран для використання в ядерній зброї."
-fuel_silo: "Паливний силос"
-fuel_silo_plural: "Паливні силоси"
+fuel_silo: "Паливне сховище"
+fuel_silo_plural: "Паливні сховища"
 fuel_silo_desc: "Ця споруда надає більше місця для зберігання §Hпального§!."
 supply_node: "Центр постачання"
 supply_node_plural: "Центри постачання"
@@ -80,7 +80,7 @@ rail_way_desc: "Залізниці використовуються для сп�
  air_facility_desc: "Експериментальні інститути для аеродинаміки й авіоніки дозволяють розпочинати дослідницькі проекти для літаків, ракет і відповідної електроніки."
  naval_facility: "Інститут морської інженерії"
  naval_facility_plural: "Інститути морської інженерії"
- naval_facility_desc: "Експериментальні інститути морської інженерії дозволяють розпочинати дослідницькі проекти, пов’язані з надводними кораблями та підводними човнами.\nВійськово-морську техніку можна створити лише в прибережній провінції."
+ naval_facility_desc: "Експериментальні інститути морської інженерії дозволяють розпочинати дослідницькі проекти, пов’язані з надводними кораблями та підводними човнами.\nІнститут морської інженерії можна створити лише в прибережній провінції."
  mega_gun_emplacement: "Багатозарядна великокаліберна гармата"
  mega_gun_emplacement_plural: "Багатозарядні великокаліберні гармати"
  mega_gun_emplacement_desc: "Ця великокаліберна гармата, що працює за принципом багатозарядної тяги, створена для досягнення неперевершеної дальності бомбардування. Використовуючи серію підземних тунелів, вона розганяє снаряди до надзвукової швидкості перед тим, як запускати їх у бік віддалених цілей."
@@ -102,7 +102,7 @@ rail_way_desc: "Залізниці використовуються для сп�
  landmark_colosseum_desc: "Колізей розташований у центрі Риму. Це найбільший стародавній амфітеатр, коли-небудь побудований, який використовувався римлянами та жителями міста після падіння римлян для розваг з моменту його завершення імператором Титом."
  landmark_cristo_redentor: "Христос-Спаситель"
  landmark_cristo_redentor_plural: "$landmark_cristo_redentor$"
- landmark_cristo_redentor_desc: "Христос-Спаситель височіє над Ріу-джі-Жанейру, його будівництво було завершено в 1931 році. Це національний символ Бразилії та має велике значення серед католиків у регіоні."
+ landmark_cristo_redentor_desc: "Христос-Спаситель височіє над Ріо-де-Жанейро, його будівництво було завершено в 1931 році. Це національний символ Бразилії та має велике значення серед католиків у регіоні."
  landmark_eiffel_tower: "Ейфелева вежа"
  landmark_eiffel_tower_plural: "$landmark_eiffel_tower$"
  landmark_eiffel_tower_desc: "Ейфелева вежа названа на честь свого творця Ґюстава Ейфеля, її будівництво було завершено в 1889 році. Будучи розташованою на Марсовому полі в Парижі, Залізна леді стала світовою культурною іконою Франції та є символом національної гордості."
@@ -121,11 +121,53 @@ rail_way_desc: "Залізниці використовуються для сп�
 
 ### 1.16 COUNTENANCE ###
  landmark_sadabad_complex: "Палац Саадабад"
- landmark_sadabad_complex_desc:0 "Built by the Qajars and expanded by the Pahlavis, the Sa'dabad Complex in northern Tehran serves as a royal residence and seat of power. Its palaces and gardens reflect Iran’s shifting political landscape, from conservatism to modernism."
+ landmark_sadabad_complex_desc: "Побудований династією Каджарів і розширений династією Пехлеві, Саадабадський комплекс на півночі Тегерана служить королівською резиденцією і центром влади. Його палаци й сади відображають мінливий політичний ландшафт Ірану, від консерватизму до модернізму." # (@!)
  landmark_taj_mahal: "Тадж-Магал"
- landmark_taj_mahal_desc:0 "The Taj Mahal stands as a masterpiece of Mughal architecture. Its grand white marble domes and intricate gardens make it one of the most iconic symbols of India, a testament to both imperial power and enduring legacy."
+ landmark_taj_mahal_desc: "Тадж-Магал є шедевром архітектури Імперії Великих Моголів. Його величні білі мармурові куполи та вишукані сади роблять його одним із найвідоміших символів Індії, свідченням імперської могутності та вічної спадщини." # (@!)
  landmark_hagia_sophia: "Агія-Софія"
- landmark_hagia_sophia_desc:0 "Standing at the crossroads of empires, the Hagia Sophia has been a Byzantine cathedral, an Ottoman mosque, and a symbol of Istanbul’s ever-changing rulers. Its massive dome and grand halls reflect both its spiritual significance and the ambitions of those who claimed the city as their own."
+ landmark_hagia_sophia_desc: "Стоячи на перехресті імперій, Агія-Софія була візантійським собором, османською мечеттю і символом постійно мінливих правителів Стамбула. Її масивний купол і величні зали відображають як її духовне значення, так і амбіції тих, хто вважав місто своїм." # (@!)
+
+### 1.17 MUSKETEER ###
+ landmark_tokyo_imperial_palace: "Імператорський палац"
+ landmark_tokyo_imperial_palace_plural: "$landmark_tokyo_imperial_palace$"
+ landmark_tokyo_imperial_palace_desc: "Імператорський палац у Токіо є головною резиденцією імператора, і залишається нею з часів Реставрації Мейджі та повалення останнього шьоґунату. Він є символом гордості та поваги для японського народу і надихає його на наполегливу працю." # (@!)
+ landmark_national_diet: "Будинок Парламенту Японії"
+ landmark_national_diet_plural: "$landmark_national_diet$"
+ landmark_national_diet_desc: "«Коккай-ґіджідо» — це місце, де збираються обидві палати Парламенту Японії. Будівництво було завершено на початку 1936 року, і він зведений майже повністю з японських матеріалів, за невеликими винятками. Її попередник був зруйнований у 1925 році, коли цей район знову охопила пожежа. Хоча будівля парламенту руйнувалася вже багато разів, цього разу вона, безсумнівно, простоїть століттями!" # (@)
+ landmark_hakko_ichiu: "Монумент Хакко Ічіу"
+ landmark_hakko_ichiu_plural: "$landmark_hakko_ichiu$"
+ landmark_hakko_ichiu_desc: "Вежа «Хакко Ічіу» була зведена на честь 2600-ї річниці заснування Японії та як пам’ятник, що символізує японське призначення — об’єднати вісім кутів світу під одним дахом." # (@!)
+
+ naval_supply_hub: "Морський центр постачання"
+ naval_supply_hub_desc: "Ця будівля дозволяє вашим флотам поповнювати запаси та заправлятися паливом на цій базі, окрім їхніх баз приписки, що потенційно збільшує радіус дії ваших §Yоперативних груп§!.\nМорський центр постачання можна побудувати лише у прибережній провінції, де розташована морська база не нижче 8-го рівня." # (@)
+ naval_headquarters: "Штаб ВМС" # (&)
+ naval_headquarters_desc: "Ця будівля дозволяє призначити адмірала для підвищення ефективності §Yоперативних груп§, що діють у зоні дії штабу ВМС.\n\nДо $MAXNUM|H$ штабів можуть мати призначеного адмірала одночасно.\n   Наразі призначено: $CURRNUM|H$\n\nШтаб ВМС можна побудувати лише у прибережній провінції, де розташована морська база не нижче 8-го рівня." # (@)
+ landmark_great_wall_section: "Велика китайська стіна"
+ landmark_great_wall_section_plural: "$landmark_great_wall_section$"
+ landmark_great_wall_section_desc: "Велика китайська стіна, споруджена протягом сотень років і за часів десятків урядів, є шедевром інженерної думки. Сьогодні її можна вважати символом великої мужності та непокори китайського народу перед обличчям негараздів." # (@!)
+ landmark_nanjing_presidential_palace: "Президентський палац у Нанкіні"
+ landmark_nanjing_presidential_palace_plural: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_desc: "Президентський палац у Нанкіні — це старовинний престижний комплекс, де після падіння династії Цін відбулася інавгурація великого Суня Ятсена." # (@!)
+ landmark_nanjing_presidential_palace_prc: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_prc_plural: "$landmark_nanjing_presidential_palace_plural$"
+ landmark_nanjing_presidential_palace_prc_desc: "$landmark_nanjing_presidential_palace_desc$"
+ landmark_nanjing_presidential_palace_gen: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_gen_plural: "$landmark_nanjing_presidential_palace_plural$"
+ landmark_nanjing_presidential_palace_gen_desc: "$landmark_nanjing_presidential_palace_desc$"
+ landmark_forbidden_city: "Заборонене місто"
+ landmark_forbidden_city_plural: "$landmark_forbidden_city$"
+ landmark_forbidden_city_desc: "Колишня резиденція династії Мін, Заборонене місто є символом багатовікової історії гармонії та процвітання Китаю. Сьогодні скарби та артефакти, що зберігаються там, були сховані на випадок чергового вторгнення японців..." # (@!)
+
+### 1.18 CASE GREEN ###
+ landmark_prague_castle: "Празький град"
+ landmark_prague_castle_desc: "Старовинний Празький град, найбільший у світі, протягом століть слугував резиденцією королів, імператорів, а тепер — президентів Чехословаччини. Його зовнішній вигляд свідчить про те, що це не оборонна споруда, а символ влади, що нагадує величні палаци. А за його зовнішніми стінами розташований найбільший у Чехословаччині храм, будівництво якого було завершено у 1926 році." # (@:D)
+ landmark_bojnice_castle: "Бойницький замок"
+ landmark_bojnice_castle_desc: "Колись у Бойницькому замку мешкали угорські королі та інші високопоставлені дворяни, але після відокремлення від Угорщини в 1920 році він став однією з найкрасивіших споруд Словаччини." # (@:D)
+
+### 1.19 OPERATION POSTERN ###
+ cataract_dam_mountain: "Гребля Катаракт"
+ cataract_dam_mountain_plural: "Гребля Катаракт"
+ cataract_dam_mountain_desc: "Завершена в 1907 році гребля Катаракт є одним із видатних ранніх досягнень інженерії колоніальної Австралії. Зведена на річці Катаракт у Південному нагір'ї штату Новий Південний Уельс, вона й досі залишається одним із чотирьох основних водосховищ, що забезпечують місто Сідней прісною водою." # (@:D)
 
 BUILDING_BOMBED: "Споруду $BUILDING$ підірвано!"
 BUILDING_SABOTAGED: "Споруду $BUILDING$ саботовано!"
@@ -165,9 +207,9 @@ CLICK_TO_CONVERT: "§GКлацніть§!, щоби конвертувати в 
 INSERT_CONVERSION: "§GCtrl + клацніть§!, щоби конвертувати і поставити на початок черги.\n§GAlt + клацніть§!, щоби конвертувати і поставити на кінець черги."
 INSERT_CONSTRUCTION: "§GCtrl + клацніть§!, щоби побудувати і поставити на початок черги.\n§GAlt + клацніть§!, щоби побудувати і поставити на кінець черги."
 BUILDING_CURRENT_MAX_LEVEL: "Можлива межа споруди $BUILDING|Y$: $MAXLEVEL|Y$"
-BUILDING_CURRENT_MAX_LEVEL_SHARED_SLOTS: "Межа споруд $BUILDING|Y$ у області: $MAXLEVEL|Y$"
+BUILDING_CURRENT_MAX_LEVEL_SHARED_SLOTS: "Межа споруди $BUILDING|Y$ у області: $MAXLEVEL|Y$"
 BUILDING_TERRAIN_MAX_LEVEL: "$TERRAIN|H$ — поточна межа: $MAXLEVEL|H$"
-BUILDING_TERRAIN_BASE_MAX_LEVEL: "Базове значення: $MAXLEVEL|H$"
+BUILDING_TERRAIN_BASE_MAX_LEVEL: "Базова величина: $MAXLEVEL|H$"
 BUILDING_LEVEL_HEALTH: "Міцність рівня: $VALUE|%2Y$"
 AIR_DEFENSE_IN_STATE: "\n§HЗниження шкоди від бомбардувань промисловості:§! $TOT_INDUSTRY|%G$\n§HЗниження шкоди від інших бомбардувань:§! $TOT|%G$\nППО: $AA|-%$\n"
 RADAR_ONMAP_TOOLTIP: "Рівень §Hрадарної станції§!: $LVL|G$/$TOT|H$\nВласник: $WHO|H$"
@@ -184,3 +226,30 @@ RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУтримуйте §GCtrl§!, щоби §Rпр
  GUN_EMPLACEMENT_BUILDING: "§YУстановка з багатозарядною великокаліберною гарматою§!"
  BUILDING_STATE_MODIFIER_FORMATTER_HEADING: "$BUILDING|H$ — обласні модифікатори:"
  SPECIAL_FACILITY_BUILDING: "$NAME|Y$"
+
+### 1.17 MUSKETEER ###
+ BUILDING_STATE_CATEGORY_MAX_LEVEL: "Найвищий рівень від категорії області $CATEGORY|H$: $MAXLEVEL|H$" # (&+)
+
+ STATE_CATEGORY_tiny_island: "Крихітний острів"
+ STATE_CATEGORY_small_island: "Малий острів"
+ STATE_CATEGORY_large_island: "Великий острів"
+ STATE_CATEGORY_city: "Місто"
+ STATE_CATEGORY_large_city: "Велике місто"
+ STATE_CATEGORY_town: "Містечко"
+ STATE_CATEGORY_large_town: "Велике містечко"
+ STATE_CATEGORY_enclave: "Анклав"
+ STATE_CATEGORY_metropolis: "Метрополіс"
+ STATE_CATEGORY_pastoral: "Пасовище" # (&?)
+ STATE_CATEGORY_rural: "Село" # (&?)
+ STATE_CATEGORY_megalopolis: "Мегалополіс"
+ STATE_CATEGORY_wasteland: "Пустка"
+ STRATEGIC_LOCATION_EXTRA_LEVEL: "$BUILDING|Y$ — найвищий рівень: $AMOUNT|=+$"
+ STRATEGIC_LOCATION_DESC: "§YСтратегічне розміщення§!" # (&)
+ BUILDING_DEPENDENCY_ERROR_DESC: "У провінції потрібна споруда $BUILDING|Y$ $LEVEL|Y$ рівня" # (&+)
+
+ BUILDING_GROUP_TOOLTIP: "\nВи можете мати до $LEVEL|R$ цих споруд за область. Ця межа спільна з:"
+ BUILDING_GROUP_SHARED_NAME_ENTRY: " - $NAME$"
+ energy_infrastructure: "Посилена електромережа" # (@!)
+ industrial_infrastructure: "Електрична мережа великої потужності" # (@!)
+ energy_infrastructure_desc: "Посилені лінії електропередачі й енергетична інфраструктура з системою багаторівневого резервування гарантують, що наші заводи продовжуватимуть виробництво за будь-яких обставин." # (@!)
+ industrial_infrastructure_desc: "Розширення існуючої цивільної енергетичної інфраструктури надає нам більші можливості для проведення промислових операцій високої інтенсивності." # (@!)

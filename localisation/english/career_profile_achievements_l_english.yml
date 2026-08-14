@@ -187,7 +187,7 @@ SUB_MESSAGE_SPLASHSCREEN_DESC: "Медалі та стрічки — це но�
 
 # Резервні flavor-тексти
 CAREER_PROFILE_BACKUP_QUOTE_01: "«Я є Бич Божий. Якщо Ви не скоювали великих гріхів, Бог не послав би на вас таке покарання, як я».\n\n(Чінґісхан)"
-CAREER_PROFILE_BACKUP_QUOTE_02: "«Існують три типи людей: ті, кого не зрушиш, ті, кого можна зрушити, й ті, хто рухає їх».\n\n(Приписується Бенджаміну Френкліну)"
+CAREER_PROFILE_BACKUP_QUOTE_02: "«Існують три типи людей: ті, кого не зрушиш, ті, кого можна зрушити, й ті, хто рухає їх».\n\n(Приписується Бенджаміну Франкліну)"
 CAREER_PROFILE_BACKUP_QUOTE_03: "«...люди, що вгамовують бурю та сідлають блискавку».\n\n(Тедді Рузвелт)"
 CAREER_PROFILE_BACKUP_QUOTE_04: "«Удар іншого хлопця якомога швидше, якомога сильніше, де йому найболючіше та коли він не дивиться».\n\n(Сер Вільям Слім)"
 CAREER_PROFILE_BACKUP_QUOTE_05: "«Коли ти прийдеш додому, розповіси їм про нас і скажи, що заради їхнього завтра ми віддали своє сьогодні».\n\n(Джон Максуелл Едмондс)"
@@ -219,11 +219,11 @@ CAREER_PROFILE_BACKUP_QUOTE_30: "«Зміни типізують сучасни�
 
 # Вкладка профілю кар'єри
 CAREER_PROFILE_PROFILE_PICTURES: "Доступні зображення"
-CAREER_PROFILE_TOOLTIP_POINTS: "Заробіть $VALUE|H$ балів кар'єри, щоби розблокувати."
-CAREER_PROFILE_TOOLTIP_BRONZE: "Розблоковується медаллю: $NAME|H$ (§8бронза§!)"
-CAREER_PROFILE_TOOLTIP_SILVER: "Розблоковується медаллю: $NAME|H$ (§gсрібло§!)"
-CAREER_PROFILE_TOOLTIP_GOLD: "Розблоковується медаллю: $NAME|H$ (§Yзолото§!)"
-CAREER_PROFILE_TOOLTIP_RIBBON: "Розблоковується стрічкою: $VALUE|H$"
+CAREER_PROFILE_TOOLTIP_POINTS: "Заробіть $VALUE|H$ балів кар'єри, щоби відімкнути."
+CAREER_PROFILE_TOOLTIP_BRONZE: "Відмикається медаллю: $NAME|H$ (§8бронза§!)"
+CAREER_PROFILE_TOOLTIP_SILVER: "Відмикається медаллю: $NAME|H$ (§gсрібло§!)"
+CAREER_PROFILE_TOOLTIP_GOLD: "Відмикається медаллю: $NAME|H$ (§Yзолото§!)"
+CAREER_PROFILE_TOOLTIP_RIBBON: "Відмикається стрічкою: $VALUE|H$"
 CAREER_PROFILE_TOOLTIP_PICTURE_UNLOCKED: "Використати як зображення профілю"
 CAREER_PROFILE_TOOLTIP_PICTURE_LOCKED: " \n\n£$ICON$£\n\n\n\n$REQUIREMENT$"
 

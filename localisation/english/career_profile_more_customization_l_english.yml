@@ -42,18 +42,18 @@ CAREER_PROFILE_MILITARY_FACTORIES_BUILT_LABEL: "Збудовано військ�
 CAREER_PROFILE_DOCKYARDS_BUILT_LABEL: "Збудовано верфей"
 CAREER_PROFILE_ROCKET_SITES_BUILT_LABEL: "Збудовано ракетних майданчиків"
 
-CAREER_PROFILE_LAND_DOCTRINE: "Найбільш використана наземна доктрина"
+CAREER_PROFILE_LAND_DOCTRINE: "Найужитіша велика наземна доктрина"
 CAREER_PROFILE_MOBILE_WARFARE_XP_LABEL: "Мобільна війна"
 CAREER_PROFILE_SUPERIOR_FIREPOWER_XP_LABEL: "Переважаюча вогнева міць"
 CAREER_PROFILE_GRAND_BATTLEPLAN_XP_LABEL: "Масштабне планування"
 CAREER_PROFILE_MASS_ASSAULT_XP_LABEL: "Масований штурм"
 
-CAREER_PROFILE_NAVAL_DOCTRINE: "Найбільш використана морська доктрина"
+CAREER_PROFILE_NAVAL_DOCTRINE: "Найужитіша велика морська доктрина"
 CAREER_PROFILE_FLEET_IN_BEING_XP_LABEL: "Флот у бутті"
 CAREER_PROFILE_TRADE_INTERDICTION_XP_LABEL: "Перехоплення торгівлі"
 CAREER_PROFILE_BASE_STRIKE_XP_LABEL: "Удар по базах"
 
-CAREER_PROFILE_AIR_DOCTRINE: "Найбільш використана повітряна доктрина"
+CAREER_PROFILE_AIR_DOCTRINE: "Найужитіша велика повітряна доктрина"
 CAREER_PROFILE_STRATEGIC_DESTRUCTION_XP_LABEL: "Стратегічне знищення"
 CAREER_PROFILE_BATTLEFIELD_SUPPORT_XP_LABEL: "Підтримка поля бою"
 CAREER_PROFILE_OPERATIONAL_INTEGRITY_XP_LABEL: "Оперативна цілісність"
@@ -80,9 +80,17 @@ CAREER_PROFILE_MODERN_TANK_LABEL: "Сучасні танки"
 
 CAREER_PROFILE_NAVAL_PRODUCTION: "Виробництво кораблів"
 CAREER_PROFILE_SUBMARINE_LABEL: "Підводні човни"
-CAREER_PROFILE_SCREENING_LABEL: "Патрульні кораблі"
+CAREER_PROFILE_SCREENING_LABEL: "Кораблі прикриття"
 CAREER_PROFILE_CAPITAL_SHIP_LABEL: "Важкі крейсери та лінкори"
 CAREER_PROFILE_CARRIERS_LABEL: "Авіаносці"
+
+CAREER_PROFILE_FACTION_GOALS_COMPLETED_LABEL: "Досягнуто цілей альянсу"
+CAREER_PROFILE_MASTERY_GAINED_LABEL: "Здобуто опанування доктрин" # (&)
+CAREER_PROFILE_NAVAL_HEADQUARTERS_BUILT_LABEL: "Збудовано штабів ВМС"
+
+CAREER_PROFILE_CAPTURED_COMMANDERS_LABEL: "Командувачів узято в полон"
+CAREER_PROFILE_RESCUED_COMMANDERS_LABEL: "Командувачів урятовано"
+CAREER_PROFILE_SHIP_CAPTAINS_PROMOTED_LABEL: "Капітанів кораблів підвищено"
 
 CAREER_PROFILE_GAME_TIME_LABEL: "Часу в грі"
 CAREER_PROFILE_STAT_YEARS_MONTHS: "$YEARS$ р., $MONTHS$ міс."
@@ -142,12 +150,12 @@ CAREER_PROFILE_SWITCHER_FRIENDS: "$SERVER_FRIENDS_ONLY$"
 ### МЕДАЛІ ###
 CAREER_PROFILE_PRODUCTION_IS_POWER: "§HВиробництво — сила§!"
 CAREER_PROFILE_PRODUCTION_IS_POWER_DESCRIPTION: "Збудуйте певну кількість нових цивільних або військових заводів."
-CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL: "§HІнженерний джаґґернаут§!" # (&?)
-CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL_DESCRIPTION: "Створіть дизайн танка з певним значенням броні та розмістіть принаймні 1000 їх на мапі."
+CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL: "§HІнженерна сила§!" # (&)
+CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL_DESCRIPTION: "Створіть дизайн танка з певною величиною броні та розмістіть принаймні 1000 їх на мапі."
 CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL: "§HПовітряні зáмки§!"
-CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL_DESCRIPTION: "Створіть дизайн літака з певним значенням повітряного захисту та розмістіть принаймні одне повне авікрило з ними (100 літаків)."
+CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL_DESCRIPTION: "Створіть дизайн літака з певною величиною повітряного захисту та розмістіть принаймні одне повне авікрило з ними (100 літаків)."
 CAREER_PROFILE_NEVERMINE_ME_MEDAL: "§HНе замінуй мене§!"
-CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION: "Здобудьте понад 50% переваги на морі з допомогою мін у певній кількості морських зон."
+CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION: "Засадіть понад 500 мін у певній кількості морських зон."
 CAREER_PROFILE_QUALITY_OVER_QUANTITY: "§HЯкість понад кількість§!"
 CAREER_PROFILE_QUALITY_OVER_QUANTITY_DESCRIPTION: "Здобудьте сприятливе співвідношення людських втрат після заподіяння принаймні 1 млн ворожих втрат." # (&?)
 CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL: "§HМізки та груба сила§!"
@@ -178,6 +186,42 @@ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION: "Зламуючи один шиф�
   CAREER_PROFILE_KNOWLEDGE_IS_POWER_SILVER: "$VALUE|0H$ учених 4-го рівня"
   CAREER_PROFILE_KNOWLEDGE_IS_POWER_BRONZE: "$VALUE|0H$ учених 3-го рівня"
 
+ ## 1.17 Musketeer
+  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL:0 "§HGrand Strategikon§!" # (!)
+  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION:0 "Have a certain number of Subdoctrines Mastered" # (!)
+  CAREER_PROFILE_PACTWEAVER_MEDAL:0 "§HPactweaver§!" # (!)
+  CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION:0 "Have a certain percentage of faction manifest." # (!)
+  CAREER_PROFILE_OVERACHIEVER_MEDAL:0 "§HOverachiever§!" # (!)
+  CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION:0 "Complete a certain number of long-term faction goals." # (!)
+
+  CAREER_PROFILE_GRAND_STRATEGIKON_BRONZE: "Опановано 4 субдоктрини" # (&)
+  CAREER_PROFILE_GRAND_STRATEGIKON_SILVER: "Опановано 8 субдоктрин" # (&)
+  CAREER_PROFILE_GRAND_STRATEGIKON_GOLD: "Опановано 12 субдоктрин" # (&)
+  CAREER_PROFILE_PACTWEAVER_BRONZE: "50%"
+  CAREER_PROFILE_PACTWEAVER_SILVER: "75%"
+  CAREER_PROFILE_PACTWEAVER_GOLD: "100%"
+  CAREER_PROFILE_OVERACHIEVER_BRONZE: "1"
+  CAREER_PROFILE_OVERACHIEVER_SILVER: "3"
+  CAREER_PROFILE_OVERACHIEVER_GOLD: "5"
+
+ ## 1.19 OPERATION POSTERN
+  CAREER_PROFILE_BOATS_UP_MEDAL: "Boats Up" # (!)
+  CAREER_PROFILE_BOATS_UP_MEDAL_DESCRIPTION: "Promote a Ship Captain to Admiral, and reach following skill level." # (!)
+  CAREER_PROFILE_POLISH_MY_HQ_MEDAL: "Polish My HQ" # (!)
+  CAREER_PROFILE_POLISH_MY_HQ_MEDAL_DESCRIPTION: "Deploy Army HQ that has the production cost of at least" # (!)
+  CAREER_PROFILE_DIRTY_MATH_MEDAL: "Dirty Math" # (!)
+  CAREER_PROFILE_DIRTY_MATH_MEDAL_DESCRIPTION: "Capture enemy Commanders whose sum of their skill levels is at least the following number." # (!)
+
+  CAREER_PROFILE_BOATS_UP_BRONZE: "2"
+  CAREER_PROFILE_BOATS_UP_SILVER: "4"
+  CAREER_PROFILE_BOATS_UP_GOLD: "6"
+  CAREER_PROFILE_POLISH_MY_HQ_BRONZE: "1000 £GFX_production_cost£"
+  CAREER_PROFILE_POLISH_MY_HQ_SILVER: "2250 £GFX_production_cost£"
+  CAREER_PROFILE_POLISH_MY_HQ_GOLD: "4500 £GFX_production_cost£"
+  CAREER_PROFILE_DIRTY_MATH_BRONZE: "12 рівнів"
+  CAREER_PROFILE_DIRTY_MATH_SILVER: "42 рівні"
+  CAREER_PROFILE_DIRTY_MATH_GOLD: "67 рівнів"
+
 ### СТРІЧКИ ###
 CAREER_PROFILE_ROCKETS_REIGN: "§HРакети рулять§!"
 CAREER_PROFILE_ROCKETS_REIGN_DESCRIPTION: "Збудуйте більш ніж 10 ракетних майданчиків."
@@ -189,7 +233,7 @@ CAREER_PROFILE_ORCHESTRA_OF_BOOM: "§HГромовий оркестр§!"
 CAREER_PROFILE_ORCHESTRA_OF_BOOM_DESCRIPTION: "Розмістіть дивізію, в складі якої є принаймні один батальйон артилерії, ПТА, ЗА та ракетної артилерії за підтримки роти зв'язку."
 CAREER_PROFILE_ORCHESTRA_OF_BOOM_QUOTE: "\n«Справжнє крешєндо звуків... таке безперервне, що зливається та змішується в один знищуючий рев... наче рев поїзда в тунелі, посилений у мільйон разів».\n\n(Арнолд Д. Гарві)" # (&?)
 CAREER_PROFILE_MARE_NOSTRUM: "§HMare nostrum§!"
-CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION: "Здобудьте перевагу на морі в шести основних морських регіонах Середземного моря, з яких принаймні один є оспорюваним."
+CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION: "Здобудьте панування на морі в шести основних морських регіонах Середземного моря, з яких принаймні один є оспорюваним."
 CAREER_PROFILE_MARE_NOSTRUM_QUOTE: "\n«Коли я загубив свою гвинтівку, армія оштрафувала мене на 85 доларів. Ось чому у флоті капітан іде на дно з кораблем».\n\n(Дік Ґреґорі)"
 CAREER_PROFILE_THE_THOUSAND_YEAR_BOND: "§HТисячарічні узи§!"
 CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_DESCRIPTION: "Розмістіть сто батальйонів звичайної або верблюдової кавалерії."
@@ -226,6 +270,34 @@ CAREER_PROFILE_BLITZ_THIS_QUOTE: "«Відтягніть свій шик, як �
   CAREER_PROFILE_SWEETENER_HEXADECAGON: "§HСолодкий шістнадцятикутник§!"
   CAREER_PROFILE_SWEETENER_HEXADECAGON_DESCRIPTION:0 "Research 16 Technologies unlocked by Special Projects"
   CAREER_PROFILE_SWEETENER_HEXADECAGON_QUOTE:0 ""When I came to you with those calculations, we thought we might start a chain reaction that might destroy the entire world."\n\n - Robert Oppenheimer, Oppenheimer"
+
+ ## 1.17 Musketeer
+  CAREER_PROFILE_ISLAND_HOPPER:0 "§HIsland Hopper§!" # (!)
+  CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION:0 "Take control of 10 Strategic Locations" # (!)
+  CAREER_PROFILE_ISLAND_HOPPER_QUOTE:0 ""You wanna live?! Get off the beach"\n\n - John Basilone, The Pacific" # (!)
+  CAREER_PROFILE_IM_THE_CAPTAIN_NOW:0 "§HI'm the Captain Now§!" # (!)
+  CAREER_PROFILE_IM_THE_CAPTAIN_NOW_DESCRIPTION:0 "As a minor nation, take over leadership of a faction" # (!)
+  CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE:0 ""Look at me, I'm the captain now."\n\n - Muse, Captain Philips" # (!)
+  CAREER_PROFILE_THREE_MUSKETEERS:0 "§HThe Three Musketeers§!" # (!)
+  CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION:0 "Establish three faction theaters that are manned by your officers" # (!)
+  CAREER_PROFILE_THREE_MUSKETEERS_QUOTE:0 ""All for one and one for all, united we stand divided we fall."\n\n - Alexander Dumas"  # (!)
+  CAREER_PROFILE_THE_MORE_THE_MERRIER:0 "§HThe More the Merrier§!" # (!)
+  CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION:0 "Have a faction research sharing bonus of 30%" # (!)
+  CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE:0 ""No man is an island, entire of itself, every man is a piece of the continent, a part of the main." \n\n - John Donne" # (!)
+
+ ## 1.19 OPERATION POSTERN
+  CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU: "I'm Here to Rescue You!" # (!)
+  CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_DESCRIPTION: "Successfully use a Raid to rescue your captured Commander" # (!)
+  CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_QUOTE: ""I'm sorry we're a few minutes late." \n\n - Lord Lovat" # (!)
+  CAREER_PROFILE_DEJA_VU: "Déjà Vu" # (!)
+  CAREER_PROFILE_DEJA_VU_DESCRIPTION: "Successfully use Spy Operation to rescue your captured Commander" # (!)
+  CAREER_PROFILE_DEJA_VU_QUOTE: ""I raised the question [of a rescue] again. This time it prompted action." \n\n - Major Lapham" # (!)
+  CAREER_PROFILE_THE_MORE_THINGS_CHANGES: "The More Things Change, The More They Stay the Same" # (!)
+  CAREER_PROFILE_THE_MORE_THINGS_CHANGES_DESCRIPTION: "Fully Master 2 Special Forces Subdoctrines" # (!)
+  CAREER_PROFILE_THE_MORE_THINGS_CHANGES_QUOTE: ""We were expendable. We were a bonus, that's all." \n\n - Major General Colin Gubbins" # (!)
+  CAREER_PROFILE_FULLY_DECKED_OUT: "Fully Decked Out" # (!)
+  CAREER_PROFILE_FULLY_DECKED_OUT_DESCRIPTION: "Design and Deploy a Division that has 5 Divisional Support Units and 5 Regimental Support Units" # (!)
+  CAREER_PROFILE_FULLY_DECKED_OUT_QUOTE: ""In case of doubt, attack" \n\n - George Patton" # (!)
 
 ### ЦИТАТИ ###
 CAREER_PROFILE_BACKUP_QUOTE_31: "«...багато з нас думали, що ніколи не чули більш привітний звук, ніж глибокий рев і гуркіт, що почався в нас позаду».\n\n(Фріц Крайслер)"

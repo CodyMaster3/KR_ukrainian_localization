@@ -2003,7 +2003,7 @@
  RULE_OPTION_NOR_PATH_MARLIB_DESC: "§mHøyre§!, or the Right, forms a ruling coalition with the Bondepartiet, or Farmers' Party, averting any fears of an end to Norwegian democracy."
  RULE_OPTION_NOR_PATH_RADICAL_DESC: "The Arbeiderpartiet wins the Stortingsvalget of 1936 and starts the implementation of their radical agenda."
  RULE_OPTION_NOR_PATH_PATAUT: "£KR_game_rule_flag_NOR_paternal_autocrat  Samfundsvernet"
- RULE_OPTION_NOR_PATH_PATAUT_DESC: "$RULE_OPTION_NOR_PATH_RADICAL_DESC$ In response to this, Vidkun Quisling rallies the Norwegian right and manages to seize power away from the syndicalists, installing a nationalist regime led by the §PSamfundsvernet§!, or Society Guard."
+ RULE_OPTION_NOR_PATH_PATAUT_DESC: "$RULE_OPTION_NOR_PATH_RADICAL_DESC$ In response to this, Vidkun Quisling rallies the Norwegian right and manages to seize power away from the syndicalists, installing a nationalist regime led by the §ACCmfundsvernet§!, or Society Guard."
  RULE_OPTION_NOR_PATH_SOC_DESC: "$RULE_OPTION_NOR_PATH_RADICAL_DESC$ Vidkun Quisling's attempt to rally the right and overthrow the revolutionary government fails and the transition to a socialist Norway starts."
  RULE_OPTION_NOR_PATH_RADSOC: "£KR_game_rule_flag_NOR_syndicalist  Revolution - Arbeiderpartiet"
  RULE_OPTION_NOR_PATH_RADSOC_DESC: "$RULE_OPTION_NOR_PATH_SOC_DESC$\n§RArbeiderpartiet§!, or the Labour Party, remains in control."
@@ -2955,7 +2955,7 @@
  RULE_OPTION_SOM_PATH_AUTDEM: "£KR_game_rule_flag_SOM  Tribal Council"
  RULE_OPTION_SOM_PATH_AUTDEM_DESC: "$RULE_OPTION_SOM_PATH_DEM_DESC$\nThe subsequent elections are won by the monarchy-affliliated §aGolaha Qabiilada§!, or Tribal Council."
  RULE_OPTION_SOM_PATH_PATAUT: "£KR_game_rule_flag_SOM  Warsangali Rulers"
- RULE_OPTION_SOM_PATH_PATAUT_DESC: "The §PSaldanadii Warsangali§!, or rulers of the Warsangali clan, successfully tighten their control on the other clans."
+ RULE_OPTION_SOM_PATH_PATAUT_DESC: "The §ACCldanadii Warsangali§!, or rulers of the Warsangali clan, successfully tighten their control on the other clans."
  RULE_OPTION_SOM_PATH_NATPOP: "£KR_game_rule_flag_SOM_national_populist  New Somali Movement"
  RULE_OPTION_SOM_PATH_NATPOP_DESC: "The Warsangali clan attempts to tighten its control on the other clans, but does not go far enough in their measures. Shortly after the onset of war with Ethopia, the officers affiliated with the  §nDhaqdhaqaaqa Cusub ee Soomaaliya§!, or New Somali Movement, within the military coup the monarchy.\n\n§RRequires:§!\n§CEthiopia declares war on Somalia§!"
 

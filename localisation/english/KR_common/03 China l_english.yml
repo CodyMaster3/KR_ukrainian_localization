@@ -18,11 +18,9 @@
  COUNTRY_integrated_governorate: "$NONIDEOLOGY$"
  COUNTRY_integrated_governorate_DEF: "$NONIDEOLOGYDEF$"
 
- CHN_game_rule_rigged_warning_tt: "§RA game rule has been set which has pre-determined the outcome.§!"
-
 ### Dynamic Modifiers ###
  china_dense_rural_infrastructure: "Щільнонаселена сільська область"
- china_dense_rural_infrastructure_desc: "Мережі інфраструктури в цій області вже й так дуже насичені щільністю місцевого населення.\n\nБуде прибрано з досягненням максимального рівня §Hінфраструктури§! в цій області."
+ china_dense_rural_infrastructure_desc: "Мережі інфраструктури в цій області вже й так дуже насичені щільністю місцевого населення.\n\nБуде прибрано з досягненням максимального рівня §Y$infrastructure$§! в цій області."
 
  CHN_autonomous_region_modifier: "Автономний регіон"
  CHN_autonomous_region_modifier_desc: "Влада династії Цін над прикордонними землями була складною справою, зі змінним рівнем контролю. Ці території на півночі та заході, які китайці називали «васальними регіонами», а західні спостерігачі — «Китайською Татарією», складалися з мозаїки племен, кланів та прикордонних військових гарнізонів, що присягали на вірність імператору. З розвитком китайського націоналізму та під час Синьхайської революції питання про ставлення до етнічних меншин стало наріжним для постреволюційної китайської ідентичності, що ще більше ускладнювалося спробами сецесіоністських груп створити незалежні держави в Тибеті, Монголії та Сіньцзяні. Коли китайський уряд встановив контроль над цим регіоном, можновладці вирішили, що найкращий спосіб захистити права місцевих жителів і забезпечити їхню лояльність — це створити самоврядний Автономний регіон."
@@ -142,12 +140,12 @@
  china_integrate_subjects: "Збільшити інтеграцію держави [FROM.GetNameDef]"
  china_integrate_subjects_desc: "Хоча керівництво в місті [FROM.Capital.GetCapitalVictoryPointName] має голову на плечах, що спонукало їх підкоритися нам, ми повинні покінчити з епохою мілітаристів. Ми повинні докласти зусиль, щоб сильніше інтегрувати [FROM.GetAdjective]у адміністрацію в наш державний апарат."
 
- china_joint_strike_GXC_decision: "Coordinate a joint strike with [FROM.GetNameDef]"
+ china_joint_strike_GXC_decision: "Coordinate a Joint Strike with [FROM.GetNameDef]"
  china_joint_strike_GXC_decision_desc: "On our own our chances against [GXC.GetNameDef] are slim, however [FROM.GetNameDef] might be amenable to oppose [GXC.GetAdjective] tyranny. However we should act fast - we must have the element of surprise if such a joint strike is to be effective. Should this plan work, we will move immediately against our [GXC.GetAdjective] enemies."
  china_joint_strike_GXC_attack_mission: "[YUN.GetNonIdeologyName]-[HNN.GetNonIdeologyName] Joint Strike Against [GXC.GetNameDef]"
  china_joint_strike_tooltip: "We can only do a joint strike with one faction"
- HNN_GXC_chicken_exit: "§RWe Will abandon [YUN.GetNameDef] to face [GXC.GetNameDef] on their own§!"
- YUN_GXC_chicken_exit: "§RWe Will abandon [HNN.GetNameDef] to face [GXC.GetNameDef] on their own§!"
+ HNN_GXC_chicken_exit: "§RWe will abandon [YUN.GetNameDef] to face [GXC.GetNameDef] on their own§!"
+ YUN_GXC_chicken_exit: "§RWe will abandon [HNN.GetNameDef] to face [GXC.GetNameDef] on their own§!"
 
  northwest_conflict_surrender: "Surrender to the Enemy"
 
@@ -207,7 +205,7 @@
  china_seize_concessions_desc: "Після провалу переговорів, у нас не залишається іншого вибору, окрім як звільнити наш народ на узбережжі від влади іноземців, вогнем та мечем. Наші війська вже почали підступати до передмість, щоб показати, кому насправді належать ці землі."
 
  CHN_pressure_overlord_to_act_decision: "Pressure the Central Government to Act!"
- CHN_pressure_overlord_to_act_decision_desc: "While it is true that we have submitted ourselves to the banner of [ROOT.overlord.GetLeader] and the central government, this has always been contingent on the fact that we believe [ROOT.overlord.GetNameDef] to be a credible unifier for our broken nation. The fact that [ROOT.overlord.getadjective] authorities have been dragging their feet in ending China' division is nothing short of disgraceful, and perhaps they need reminding that our loyalty is not unconditional."
+ CHN_pressure_overlord_to_act_decision_desc: "While it is true that we have submitted ourselves to the banner of [ROOT.overlord.GetLeader] and the central government, this has always been contingent on the fact that we believe [ROOT.overlord.GetNameDef] to be a credible unifier for our broken nation. The fact that [ROOT.overlord.getadjective] authorities have been dragging their feet in ending China's division is nothing short of disgraceful, and perhaps they need reminding that our loyalty is not unconditional."
 
  CHN_pressure_to_act_mission: "Pressure to Act"
  CHN_pressure_to_act_mission_desc: "The Unification Question has plagued Chinese leaders since 1911, and caught between the paradoxically aligned demands of regionalists and nationalists, we have come under pressure to act quickly to reunite the country under our banner. This of course is no easy task and unfortunately those pressing for unification come under considerably less scrutiny than we do for our alleged inaction. However, if we are truly prove ourselves to be the legitimate leaders of China, then we have no choice but to fight and win!"
@@ -219,7 +217,7 @@
  CHN_expand_mongolian_autonomous_region_desc_scripted_loc_key: "When our forces first arrived into Mongolia, a decision was made to grant the local Mongolian banners autonomy, resulting in the formation of the Outer Mongolian Autonomous Zone. An Inner Mongolian Autonomous Zone also received consideration as well. Having recently acquired further territory in areas with significant Mongol populations, it would make sense to grant these territories the same treatment."
 
  CHN_expand_xinjiang_autonomous_region_scripted_loc_key: "Expand the XAR to [FROM.GetName]"
- CHN_expand_xinjiang_autonomous_region_desc_scripted_loc_key: "When our forces first arrived into Xinjiang, a decision was made to grant the diverse province autonomy, resulting in the formation of the Xinjiang Uygur Autonomous Zone. Having recently acquired further territory in areas with significant minority populations, it would make sense to grant these territories the same treatment."
+ CHN_expand_xinjiang_autonomous_region_desc_scripted_loc_key: "When our forces first arrived into Xinjiang, a decision was made to grant the diverse province autonomy, resulting in the formation of the Xinjiang Uyghur Autonomous Zone. Having recently acquired further territory in areas with significant minority populations, it would make sense to grant these territories the same treatment."
 
  CHN_expand_tibetan_autonomous_region_scripted_loc_key: "Expand the TAR to [FROM.GetName]"
  CHN_expand_tibetan_autonomous_region_desc_scripted_loc_key: "When our forces first arrived into Tibet, a decision was made to grant the local Tibetans autonomy, resulting in the formation of the Outer Tibetan Autonomous Zone. An Inner Tibetan Autonomous Zone also received consideration as well. Having recently acquired further territory in areas with significant Tibetan populations, it would make sense to grant these territories the same treatment."
@@ -308,8 +306,8 @@
  china_alignment_zhili: "Перебуває під владою §Lдружнього до Чжилі§! режиму"
  china_alignment_zhili_NOT: "§RНе§! перебуває під владою §Lдружнього до Чжилі§! режиму"
 
- china_alignment_manchu: "Перебуває під владою §Cдружнього до маньчжурів§! режиму"
- china_alignment_manchu_NOT: "§RНе§! перебуває під владою §Cдружнього до маньчжурів§! режиму"
+ china_alignment_manchu_qing: "Перебуває під владою §Cдружнього до маньчжурів§! режиму"
+ china_alignment_manchu_qing_NOT: "§RНе§! перебуває під владою §Cдружнього до маньчжурів§! режиму"
 
  china_alignment_fengtian: "Перебуває під владою §Oдружнього до Фентяня§! режиму"
  china_alignment_fengtian_NOT: "§RНе§! перебуває під владою §Cдружнього до маньчжурів§! режиму"
@@ -331,6 +329,41 @@
 
  china_alignment_geacps: "Is ruled by a §jGEACPS§! regime"
  china_alignment_geacps_NOT: "Is §Rnot§! ruled by a §jGEACPS§! regime"
+
+#Aligned With Triggers
+
+ china_is_aligned_with_northern_zhili: "Is ruled by a §zNorthern Zhili-friendly§! regime"
+ china_is_aligned_with_northern_zhili_NOT: "Is §Rnot§! ruled by a §zNorthern Zhili-friendly§! regime"
+
+ china_is_aligned_with_southern_zhili: "Is ruled by a §YSouthern Zhili-friendly§! regime"
+ china_is_aligned_with_southern_zhili_NOT: "Is §Rnot§! ruled by a §YSouthern Zhili-friendly§! regime"
+
+ china_is_aligned_with_zhili: "Is ruled by a §LZhili-friendly§! regime"
+ china_is_aligned_with_zhili_NOT: "Is §Rnot§! ruled by a §LZhili-friendly§! regime"
+
+ china_is_aligned_with_manchu: "Is ruled by a §qManchu-friendly§! regime"
+ china_is_aligned_with_manchu_NOT: "Is §Rnot§! ruled by a §qManchu-friendly§! regime"
+
+ china_is_aligned_with_fengtian: "Is ruled by a §eFengtian-friendly§! regime"
+ china_is_aligned_with_fengtian_NOT: "Is §Rnot§! ruled by a §eFengtian-friendly§! regime"
+
+ china_is_aligned_with_beiyang: "Is ruled by a §NBeiyang-friendly§! regime"
+ china_is_aligned_with_beiyang_NOT: "Is §Rnot§! ruled by a §NBeiyang-friendly§! regime"
+
+ china_is_aligned_with_federalists: "Is ruled by a §fFederalist-friendly§! regime"
+ china_is_aligned_with_federalists_NOT: "Is §Rnot§! ruled by §fFederalist-friendly§! regime"
+
+ china_is_aligned_with_left_kmt: "Is ruled by a §kLeft Kuomintang-friendly§! regime"
+ china_is_aligned_with_left_kmt_NOT: "Is §Rnot§! ruled by a §kLeft Kuomintang-friendly§! regime"
+
+ china_is_aligned_with_right_kmt: "Is ruled by a §cRight Kuomintang-friendly§! regime"
+ china_is_aligned_with_right_kmt_NOT: "Is §Rnot§! ruled by a §cRight Kuomintang-friendly§! regime"
+
+ china_is_aligned_with_kmt: "Is ruled by a §kKuomintang-friendly§! regime"
+ china_is_aligned_with_kmt_NOT: "Is §Rnot§! ruled by a §kKuomintang-friendly§! regime"
+
+ china_is_aligned_with_southern_republicans: "Is ruled by a §GSouthern Republican-friendly§! regime"
+ china_is_aligned_with_southern_republicans_NOT: "Is §Rnot§! ruled by a §GSouthern Republican-friendly§! regime"
 
  china_is_unaligned: "Є узгодженою клікою"
  china_is_unaligned_NOT: "Є §Rне§! узгодженою клікою"
@@ -357,35 +390,84 @@
  owner_of_beijing_has_wargoal_against_ROOT: "§YВласник§! §Y[608.GetName]§!: має мету війни проти §Y[ROOT.GetNameWithFlag]§!"
  owner_of_beijing_has_war_with_wargoal_against_ROOT: "§YВласник§! §Y[608.GetName]§!: веде війну з активною метою війни проти §Y[ROOT.GetNameWithFlag]§!"
 
-
  china_chinese_united_front_does_exist: "Китайський об'єднаний фронт існує"
  china_chinese_united_front_does_not_exist: "Китайський об'єднаний фронт не існує"
  china_cannot_declare_war_while_in_united_front: "Члени Об'єднаного фронту не можуть оголошувати інші війни."
 
+ CHN_begin_civil_war_preparation_tt: "§YWe will begin preparing ourselves to challenge the Central Government. If we end up at war with our master (either during the post-unification crisis or due to a failed attempt to integrate us), we will gain an attack bonus against them. The more prepared we are, the longer our initial attack bonus will last!§!"
+ CHN_begin_civil_war_preparation_warning_tt: "§R[FROM.GetNameDefCap] authorities are positioning themselves to challenge our rule. We must be ready to confront them. (The more prepared they are, the longer their initial attack bonus will last!)§!"
+ CHN_add_to_civil_war_preparation_tt: "§GWe will expand preparations to challenge the Central Government. (The more prepared we are, the longer our initial attack bonus will last!)§!"
+ CHN_limited_civil_war_challenge_tt: "§RThe circumstances of the scenario we face mean that we will not be able to challenge the Central Government without priming our people in advance, barring any further outrage created by the central government.§!"
+ CHN_fuel_to_civil_war_warning_tt: "§RThis risky action on our part may generate scandal and give regional actors cause to challenge our authority!§!"
+ CHN_fuel_to_the_civil_war_tt: "§GThis abominable action by the Central Government has generated considerable scandal. We now have cause to challenge their authority!§!"
+ CHN_done_our_patriotic_duty_tt: "§cWe have done our patriotic duty.§!"
+
+ CHN_will_pressure_overlord_to_act_tt: "§RWe will incentivise [ROOT.overlord.GetNameDef] to begin taking decisive action to ensure unification. They will be much more likely to end up at war in the near future - we must be ready to aid them!§!"
+ CHN_pressure_to_act_tt: "§RThe pressure to pursue unification will only grow in strength!§!"
+
  china_becomes_CHN_tt: "§YНас визнали найлегітимнішим урядом Китаю.§!"
  china_is_CHN_tt: "§YМи є найлегітимнішим урядом Китаю.§!"
+ china_is_CHN_tt_NOT: "§YIs§! §Rnot§! §Ythe most legitimate government in China§!"
  china_is_the_chinese_unifier_tt: "§YОб'єднав Китай.§!"
+ china_is_the_chinese_unifier_tt_NOT: "§YHas§! §Rnot§! §Yunified China§!"
  china_has_war_with_CUF_tt: "Воює з Об'єднаним китайським фронтом"
+ china_south_china_war_over_tt: "The §YSouth China War§! has ended."
 
  CHN_has_chosen_a_capital_flag: "§YМи обрали постійну столицю для Китаю.§!"
 
- AGJ_set_leader_tt: "§eМи візьмемо на себе національне лідерство в Аньґоцзюні.§!"
- RGC_set_leader_tt: "§jМи візьмемо на себе національне лідерство в альянсі Сфери співпроцвітання.§!"
- UPC_set_leader_tt: "§fМи візьмемо на себе національне лідерство серед федералістів.§!"
- LKT_set_leader_tt: "§kМи візьмемо на себе національне лідерство в Лівому Ґоміндані.§!"
- NZH_set_leader_tt: "§zМи візьмемо на себе національне лідерство в Північній Чжилійській кліці.§!"
- MCU_set_leader_tt: "§qМи візьмемо на себе національне лідерство серед реставраторів.§!"
- RKT_set_leader_tt: "§cМи візьмемо на себе національне лідерство в Правому Ґоміндані.§!"
- SZH_set_leader_tt: "§YМи візьмемо на себе національне лідерство в Південній Чжилійській кліці.§!"
+ CHN_assume_tt: "Ми візьмемо на себе національне лідерство в"
+ AGJ_set_leader_tt: "§e$CHN_assume_tt$ Аньґоцзюні.§!"
+ RGC_set_leader_tt: "§j$CHN_assume_tt$ альянсі Сфери співпроцвітання.§!"
+ UPC_set_leader_tt: "§f$CHN_assume_tt$ серед федералістів.§!"
+ LKT_set_leader_tt: "§k$CHN_assume_tt$ Лівому Ґоміндані.§!"
+ NZH_set_leader_tt: "§z$CHN_assume_tt$ Північній Чжилійській кліці.§!"
+ MCU_set_leader_tt: "§q$CHN_assume_tt$ серед реставраторів.§!"
+ RKT_set_leader_tt: "§c$CHN_assume_tt$ Правому Ґоміндані.§!"
+ SZH_set_leader_tt: "§Y$CHN_assume_tt$ Південній Чжилійській кліці.§!"
 
- CHN_No_Other_AGJ_tt: "§YЖодна інша наявна фракція не претендує на мантію §eАньґоцзюня§!.§!"
- CHN_No_Other_RGC_tt: "§YЖодна інша наявна фракція не претендує на мантію §jСфери співпроцвітання§!.§!"
- CHN_No_Other_UPC_tt: "§YЖодна інша наявна фракція не претендує на §fфедералістську§! мантію.§!"
- CHN_No_Other_LKT_tt: "§YЖодна інша наявна фракція не претендує на мантію §kЛівого Ґоміндану§!.§!"
- CHN_No_Other_NZH_tt: "§YЖодна інша наявна фракція не претендує на мантію §zПівнічної Чжилійської кліки§!.§!"
- CHN_No_Other_MCU_tt: "§YЖодна інша наявна фракція не претендує на §qреставраційну§! мантію.§!"
- CHN_No_Other_RKT_tt: "§YЖодна інша наявна фракція не претендує на мантію §cПравого Ґоміндану§!.§!"
- CHN_No_Other_SZH_tt: "§YЖодна інша наявна фракція не претендує на мантію §YПівденної Чжилійської кліки§!.§!"
+ CHN_no_other_tt: "Жодна інша наявна фракція не претендує на"
+ CHN_No_Other_AGJ_tt: "§Y$CHN_no_other_tt$ мантію §eАньґоцзюня§!.§!"
+ CHN_No_Other_RGC_tt: "§Y$CHN_no_other_tt$ мантію §jСфери співпроцвітання§!.§!"
+ CHN_No_Other_UPC_tt: "§Y$CHN_no_other_tt$ §fфедералістську§! мантію.§!"
+ CHN_No_Other_LKT_tt: "§Y$CHN_no_other_tt$ мантію §kЛівого Ґоміндану§!.§!"
+ CHN_No_Other_NZH_tt: "§Y$CHN_no_other_tt$ мантію §zПівнічної Чжилійської кліки§!.§!"
+ CHN_No_Other_MCU_tt: "§Y$CHN_no_other_tt$ §qреставраційну§! мантію.§!"
+ CHN_No_Other_RKT_tt: "§Y$CHN_no_other_tt$ мантію §cПравого Ґоміндану§!.§!"
+ CHN_No_Other_SZH_tt: "§Y$CHN_no_other_tt$ мантію §YПівденної Чжилійської кліки§!.§!"
+ CHN_No_Other_NPA_tt: "§Y$CHN_no_other_tt$ §LNational Protection Alliance§! Mantle.§!"
+
+ CHN_has_revolted: "Has revolted in the past 90 days."
+ CHN_has_revolted_NOT: "Has §Rnot§! revolted in the past 90 days."
+
+### Bound Tooltips ###
+ CHN_gain_stab_relative_to_ideology_tt: "§C£GFX_stability_texticon §YStability§! will be gained proportionate to $IDEOLOGY$ Party Popularity.§!"
+
+ CHN_deduct_stab_relative_to_ideology_tt: "§C£GFX_stability_texticon §YStability§! will be deducted proportionate to $IDEOLOGY$ Party Popularity.§!"
+ CHN_deduct_stab_relative_to_non_ideology_tt: "§C£GFX_stability_texticon §YStability§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity.§!"
+
+ CHN_deduct_stab_relative_to_ideology_2_tt: "§C£GFX_stability_texticon §YStability§! will be deducted proportionate to $IDEOLOGY1$ and $IDEOLOGY2$ Party Popularity.§!"
+ CHN_deduct_stab_relative_to_non_ideology_2_tt: "§C£GFX_stability_texticon §YStability§! will be deducted proportionate to non-$IDEOLOGY1$ and non-$IDEOLOGY2$ Party Popularity.§!"
+
+ CHN_deduct_pp_relative_to_non_ideology_in_country_tt: "§C£GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity in $COUNTRY$.§!"
+
+ CHN_deduct_stab_and_pp_relative_to_ideology_tt: "§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to $IDEOLOGY$ Party Popularity.§!"
+ CHN_deduct_stab_and_pp_relative_to_non_ideology_tt: "§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY$ Party Popularity.§!"
+
+ CHN_deduct_stab_and_pp_relative_to_ideology_2_tt: "§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to $IDEOLOGY1$ and $IDEOLOGY2$ Party Popularity.§!"
+ CHN_deduct_stab_and_pp_relative_to_non_ideology_2_tt: "§C£GFX_stability_texticon §YStability§! and £GFX_pol_power §YPolitical Power§! will be deducted proportionate to non-$IDEOLOGY1$ and non-$IDEOLOGY2$ Party Popularity.§!"
+
+### Alignment Traits
+ CHN_anguojun_aligned: "§eAnguojun§! Aligned"
+ CHN_beiyang_aligned: "§NBeiyang Government§! Aligned"
+ CHN_geacps_aligned: "§jGEACPS§! Aligned"
+ CHN_federalist_aligned: "§fFederalist§! Aligned"
+ CHN_left_kuomintang_aligned: "§kLeft Kuomintang§! Aligned"
+ CHN_non_aligned: "Non Aligned"
+ CHN_northern_zhili_aligned: "§zNorthern Zhili§! Aligned"
+ CHN_restorationist_aligned: "§qRestorationist§! Aligned"
+ CHN_right_kuomintang_aligned: "§cRight Kuomintang§! Aligned"
+ CHN_southern_republican_aligned: "§GSouthern Republican§! Aligned"
+ CHN_southern_zhili_aligned: "§MSouthern Zhili§! Aligned"
 
 ### Army Reform
  china_army_decisions: "Реформи армії"
@@ -395,6 +477,24 @@
  china_army_reform_desc: "Армії воєначальників епохи Імперії Цін, сформовані досвідом епохи воєначальників, є майже феодальними, організованими групами регіональних вождів. Нашу армію часто критикують за низьку якість, а деяких офіцерів звинувачують у некомпетентності у всьому, окрім власного збагачення. Ми повинні прагнути більшого, якщо ми хочемо досягти чогось значного."
  china_lessons_of_war: "Уроки війни"
  china_lessons_of_war_desc: "Війна багато чому навчила нас у способах ведення сучасних конфліктів. Ми повинні провести великі структурні реформи, щоб привести наші збройні сили у відповідність до сучасних вимог та створити сили, здатні витримати випробування часом."
+
+ CHN_cleanse_army_corruption_decision: "Cleanse Army Corruption"
+ CHN_cleanse_army_corruption_decision_desc: "The soldier's pay has historically been very poor in China, but there is little shortage in \"alternative means of compensation\" for enterprising soldiers. Selling off military supplies to the black market, enrolling children and relatives as additional soldiers on the payroll, selling commissions and favours to other soldiers, extortion and protection rackets, and sometimes just outright theft from civilians are just a slice of ways Chinese soldiers have enriched themselves. Often times their officers take a cut or even take the lead in these operations. Despite our reforms, the rapid expansion of our military has been accompanied by an up-tick of corruption. This cannot stand. A thorough effort must be made to arrest embezzlers and crooks in uniform, thus ensuring supplies and men flow unimpeded to their destination as well as protect the reputation of our army."
+
+ CHN_reorganise_military_units_decision: "Reorganise Military Units"
+ CHN_reorganise_military_units_decision_desc: "Our march towards unification has come at a cost: many of our starting units have been severely thinned out from casualties and desertion, others have been swelled to an unmanageable size by deserting opponents and ad hoc reinforcements, while still others were rushed to the front before they could be properly constituted. As a result, quality has been severely degraded across the board - with uneven and ill-planned distributions of veteran and green units. Like a dulled knife, the army needs to be sharpened and this can only occur by rotating exhausted units to the rear echelons for much needed reprieve and reorganisation. Doing in a way that does not leave further vulnerabilities poses a significant logistical challenge and will require a major top-down effort by military planners."
+
+ CHN_disband_unreliable_units_decision: "Disband Unreliable Units"
+ CHN_disband_unreliable_units_decision_desc: "The army as it stands is like a circus, a diverse collection of units of varying sizes, quality, and origins that looks like a display showcase rather than a uniform, disciplined symbol of the new government. While there are some elite, dedicated units bearing modern equipment and slick uniforms, they are few and far between compared to the larger number of ex-warlord and ex-bandit armies that harass the locals and then run at the face of danger. Worse, some units only exist on paper - these ghost units go beyond inflated unit rosters, with skeletal staffing if they exist at all.\n\nWhile quantity does have a quality of its own, it also has degrading effects on quality with many better units distrusting lesser ones to guard their flanks and more idealistic soldiers suffering severe damage to morale upon witnessing the barbaric acts of their \"comrades\" on the people. This problem has only gotten worse as we've absorbed many units from enemy armies. Still, removing and disarming these units will not be a pretty affair. There will copious amounts of counter-accusations of favouritism and corruption on the part of the auditors, and many will complain that we are placing political expediency over national unity."
+
+ CHN_purge_disloyal_officers_decision: "Purge Disloyal Officers"
+ CHN_purge_disloyal_officers_decision_desc: "As enemy armies began to disintegrate, many of our former foes began to defect and sometimes entire formations changed uniforms. Unfortunately, this is often dismissed as just another reality of a military career in warlord China and neighbouring areas and while somewhat true many grow complacent about the dangers this poses for the future of the army. Many freshly recruited officers are not particularly interested in our cause, yet expect to retain the same privileges and status they enjoyed under their previous employers. Some are borderline mutinous, dismissive of loyal officers' attempts to integrate them into our mission.\n\nWe excise this tumour before it begins to spread, dismissing the most egregious examples and pre-emptively screening future recruits for loyalty. Of course, dismissed officers in the region tend to depart in turn with entire staff and units loyal to them personally, taking their guns with them. There is plenty of concern they will become bandits so we must be extra alert."
+
+ CHN_enforce_military_discipline_KMT_decision: "Enforce Military Discipline"
+ CHN_enforce_military_discipline_KMT_decision_desc: "The Chinese military has long been seen as a career of last choice for sons of the gentry and other elites: honourable young men historically were expected to do well on the Imperial Examination and go into the civilian bureaucracy. Even at the height of the warlord era, there remains considerable stigma towards military service among educated men because of prevalent negative stereotypes of soldiers and their officers as being bands of thieves, murderers, and bullies.\n\nThis has proven to be a self-fulfilling prophecy, and reports of looting and extrajudicial punishments enacted by even some of our most trusted units have grown disquietingly common as our armies grow drunk with victory and power. It will certainly not be popular, but reasserting our government's authority is needed if we are to preserve the integrity of our army. Some examples will have to be made from some while other cases will have to be covered up, both will damage our political legitimacy in the short term but is a necessary evil to ensure the long-term viability of our cause."
+
+ CHN_insist_on_civilian_control_UPC_decision: "Insist on Civilian Control"
+ CHN_insist_on_civilian_control_UPC_decision_desc: "Chinese dynasties have historically looked down on military service as lowly, and Confucian Scholar-Bureaucrats long prided themselves on maintaining strict control over the military. The waning days of the Qing Dynasty and the chaos of the Warlord Era has allowed the military to slip from the grasp of the civilian government. Worse, the lines between the two have often blurred, with military figures inserting themselves directly into the civilian government and civilian figures donning on military titles in an effort to maintain both control and legitimacy. If our army is to shed its reputation as a band of warlords, we need to leverage the might of our government into reining in our officers, even if it is likely to cause conflict in the near future."
 
  china_poor_officers_fixed_text: "Дезертирство скоротилося завдяки підвищенню заробітної плати, покращенню морального духу та підвищенню компетентності всіх військовослужбовців. Солдати-примари поступово зникають з армійських списків, хоча для повного викорінення цієї проблеми, потрібно набагато більше часу. Якщо офіцери висуватимуться за заслугами, а не за протекцією чи кумівством, на їх місці може з'явитися скоординована та ефективна командна структура."
  china_poor_army_3_officers: "Недоліки епохи мілітаристів"
@@ -406,7 +506,7 @@
  china_poor_army_2: "Системні недоліки в армії"
  china_poor_army_2_desc: "Перші кроки щодо систематичного реформування армії були зроблені. Корупція та багато проблем, що терзали нашу армію, почали зникати. Централізована бюрократія та скоординована логістика стали одними з найважливіших пунктів наших реформ, заклавши основу для решти.\n\n$china_poor_officers_fixed_text$\n\nМи вже впровадили більш надійну систему постачання та оплати, що підвищило забезпечення нашої армії та знизило кількість випадків пограбування. Потроху, народ починає довіряти нашим солдатам. І хоча система ще нестабільна і не захищена від проблем, вона стала основою для майбутніх змін."
  china_poor_army_1_officers: "Продовження військових реформ"
- china_poor_army_1_officers_desc: "Армійські реформи впевнено продовжуються. Були розпочаті спроби подолати регіоналізм у наших військах, ми почали формування ширших загальновійськових з'єднань, хоч і не без опору на місцях. Нові офіцери, не маючи за спиною кумівських зв'язків, отримують призначення, змінюючи вигляд командного складу. Курс тренувань також зазнав змін. Ступінь підготовки та озброєння наших бійців все ще не до кінця уніфіковано, але принаймні процес продовжується."
+ china_poor_army_1_officers_desc: "Армійські реформи впевнено продовжуються. Були розпочаті спроби подолати регіоналізм у наших військах, ми почали формування ширших загальновійськових з'єднань, хоч і не без опору на місцях. Нові офіцери, не маючи за спиною кумівських зв'язків, отримують призначення, змінюючи вигляд командного складу. Курс тренувань також зазнав змін. Ступінь підготовки та озброєння наших бійців все ще не до кінця уніфіковано, але принаймні процес продовжується. Although unit quality can vary, the baseline has been lifted far above the old \"Murder of Crows\" that they were formerly dismissed as."
  china_poor_army_1: "Продовження військових реформ"
  china_poor_army_1_desc: "Армійські реформи впевнено продовжуються. Були розпочаті спроби подолати регіоналізм у наших військах, ми почали формування ширших загальновійськових з'єднань, хоч і не без опору на місцях. Нові офіцери, не маючи за спиною кумівських зв'язків, отримують призначення, змінюючи вигляд командного складу.\n\n$china_poor_officers_fixed_text$\n\nКурс тренувань також зазнав змін. Ступінь підготовки та озброєння наших бійців все ще не до кінця уніфіковано, але принаймні процес продовжується."
  china_poor_army_0: "Реформовані збройні сили"

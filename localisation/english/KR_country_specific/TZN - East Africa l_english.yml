@@ -1,0 +1,14 @@
+﻿l_english:
+
+### TZN: East Africa
+ TZN: "Східна Африка"
+ TZN_ADJ: "Східноафриканськ"
+ TZN_DEF: "Східна Африка"
+
+ TZN_fed: "Східна Африка"
+ TZN_fed_ADJ: "Східноафриканськ"
+ TZN_fed_DEF: "Федерація Східної Африки"
+
+ ### Characters ###
+ TZN_Muhamed_Husan: "Muhamed Husan"
+ TZN_muhamed_husan_leader_desc: "§YBorn:§! §LFebruary 22nd, 1904, in Dar es Salaam, German East Africa§!"

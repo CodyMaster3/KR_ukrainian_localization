@@ -1,6 +1,6 @@
 ﻿l_english:
-ALERT_RIGHTCLICK: "§GКлацніть правою кнопкою, щоби прибрати.§!"
-ALERT_RIGHTCLICK_REPORT: "§GКлацніть правою кнопкою, щоби прибрати.§! Це також прибере всі непрочитані сповіщення цього типу на мапі."
+ALERT_RIGHTCLICK: "§GКлацніть ПКМ, щоби прибрати.§!"
+ALERT_RIGHTCLICK_REPORT: "§GКлацніть ПКМ, щоби прибрати.§! Це також прибере всі непрочитані сповіщення цього типу на мапі."
 alert_hostile_troops_instant: "§RВорожі війська§!"
 alert_hostile_troops_delayed: "Присутні ворожі війська в незахищеній зоні."
 alert_naval_invasion_instant: "§RМорське вторгнення§!"
@@ -32,15 +32,15 @@ alert_production_no_template_delayed: "§TВи виробляєте оснаще
 alert_production_no_template_xp: "§RВам потрібно більше досвіду перш ніж Ви зможете створити/змінити шаблон і додати туди це оснащення.§!"
 alert_production_no_template_equipments: "§TОснащення, яке виробляється без шаблону:§!"
 alert_non_payed_license_instant: "§HНевиплачені ліцензії§!"
-alert_non_payed_license_delayed: "Деякі країни не надають цивільні заводи в обмін на ліцензії:\n$LIST$§GКлацніть правою кнопкою§!, щоби прибрати."
+alert_non_payed_license_delayed: "Деякі країни не надають цивільні заводи в обмін на ліцензії:\n$LIST$§GКлацніть ПКМ§!, щоби прибрати."
 alert_decision_new_instant: "§HЄ доступні рішення§!"
-alert_decision_new_delayed: "Можна прийняти всі перелічені рішення:\n$LIST$§GКлацніть правою кнопкою, щоби відхилити це сповіщення.§!"
+alert_decision_new_delayed: "Можна прийняти всі перелічені рішення:\n$LIST$§GКлацніть ПКМ, щоби відхилити це сповіщення.§!"
 alert_decision_new_delayed_more: "...і ще $COUNT|H$."
 alert_decision_timeout_instant: "§HСкоро завершаться події або рішення§!" # (&)
-alert_decision_timeout_delayed: "Ці події або рішення скоро завершаться:\n$LIST$§GКлацніть правою кнопкою, щоби прибрати.§!"
-alert_bop_timeout_delayed: "Ці події або рішення балансу сил скоро завершаться:\n$LIST$§GКлацніть правою кнопкою, щоби прибрати.§!"
-alert_industrial_org_sizeup_instant: "§HРозблокування рис для військово-промислових організацій§!"
-alert_industrial_org_sizeup_delayed: "Ви можете розблокувати риси для ось цих військово-промислових організацій:\n$LIST$§GКлацніть правою кнопкою, щоби відхилити.§!"
+alert_decision_timeout_delayed: "Ці події або рішення скоро завершаться:\n$LIST$§GКлацніть ПКМ, щоби прибрати.§!"
+alert_bop_timeout_delayed: "Ці події або рішення балансу сил скоро завершаться:\n$LIST$§GКлацніть ПКМ, щоби прибрати.§!"
+alert_industrial_org_sizeup_instant: "§HВідімкнення рис для військово-промислових організацій§!"
+alert_industrial_org_sizeup_delayed: "Ви можете відімкнути риси для ось цих військово-промислових організацій:\n$LIST$§GКлацніть ПКМ, щоби відхилити.§!"
 TIMEOUT_ITEM_LOC: " - $NAME|H$ (§Hлишилося $DAYS|0$ дн.§!)"
 alert_free_civilian_factories_instant: "§HВільні цивільні заводи§!"
 alert_free_civilian_factories_delayed: "§TУ Вас є вільні цивільні заводи для торгівлі та будівництва.§!"
@@ -100,9 +100,9 @@ alert_faction_member_near_assuming_leadership_delayed: "Ці члени алья
 FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: "   $COUNTRY|Y$ ($PROGRESS|0%Y$)"
 FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP: "   $COUNTRY|Y$ (§R100%§!)"
 DIPLOMACY_REQUEST_HEADER: "Запит від держави $COUNTRY|Y$: $NAME|Y$"
-DIPLOMACY_REQUEST_CLICKS: "§GКлацніть, щоби відкрити.\nКлацніть правою кнопкою, щоби відхилити.§!"
-alert_expensive_ships_low_str_instant: "§HВеликі кораблі з §Rнизькою боєздатністю§!§!"
-alert_expensive_ships_low_str_entry: "У флоті $FLEET|H$ є $NUM|R$ великих кораблів із низькою боєздатністю.\n"
+DIPLOMACY_REQUEST_CLICKS: "§GКлацніть, щоби відкрити.\nShift + клацніть, щоби прийняти.\nКлацніть ПКМ, щоби відхилити.§!"
+alert_expensive_ships_low_str_instant: "§HОсновні кораблі з §Rнизькою боєздатністю§!§!"
+alert_expensive_ships_low_str_entry: "У флоті $FLEET|H$ є $NUM|R$ основних кораблів із низькою боєздатністю.\n"
 alert_air_reserve_unused_instant: "§HЄ доступні літаки на складі§!"
 alert_air_reserve_unused_delayed: "У нас є невикористані літаки в резервах."
 alert_air_wings_unassigned_instant: "§HАвіакрила без завдання або прикріплення до регіону§!"
@@ -135,7 +135,7 @@ alert_external_influences_boost_party_popularity: "збільшує популя
 alert_lack_of_resources_instant: "§HНестача ресурсів§!"
 alert_lack_of_resources_delayed: "Потрібно: $RESOURCES$.\nОснащення вироблятиметься в §Rповільнішому темпі§!, поки заводам не вистачає ресурсів."
 alert_paused_diplomatic_actions_instant: "§HДипломатичні дії не можуть прогресувати§!"
-alert_paused_diplomatic_actions_delayed: "Деякі Ваші дипломатичні дії не можуть прогресувати, тому що у Вас бракує політичної влади.\nРозгляньте варіант скасування цих дій, щоб вони на Ваш приріст прлітичної влади.\n\nЗачеплені відносини:\n$COUNTRIES$" # (&)
+alert_paused_diplomatic_actions_delayed: "Деякі Ваші дипломатичні дії не можуть прогресувати, тому що у Вас бракує політичної влади.\nПоміркуйте над скасуванням цих дій, щоб вони не впливали на Ваш приріст прлітичної влади.\n\nЗачеплені відносини:\n$COUNTRIES$" # (&)
 alert_resistance_instant: "§HОпір окупації!§!"
 alert_resistance_delayed_high_resistance_list: "§HВисокий рівень спротиву в:§!"
 alert_resistance_delayed_countries: "§HДержави:§!"
@@ -178,21 +178,21 @@ alert_expeditionary_force_delayed: "Ви маєте експедиційні в�
 alert_ally_pulling_its_expeditionaries_instant: "§HЕкспедиційні війська відкликаються§!"
 alert_ally_pulling_its_expeditionaries_delayed: "Експедиційні війська з держав(и) $COUNTRY_LIST|H$ відкликаються й незабаром повернуться у свої країни."
 ALERT_RIGHTCLICK_DISMISS_CURRENT_COMBATS: "§GКлацніть, щоби відхилити поточні бої.§!"
-ALERT_LEFTCLICK_TOGGLE_COMBATS: "§GКлацніть лівою кнопкою, щоби перемикатися між боями.§!" # (&)
+ALERT_LEFTCLICK_TOGGLE_COMBATS: "§GКлацніть ЛКМ, щоби перемикатися між боями.§!" # (&)
 ALERT_NAVAL_COMBAT_INFO: "Є $NUM|H$ нових морських боїв у флотах, які позначені як важливі." # (&)
 ALERT_NAVAL_COMBAT_INFO_REGION: "Є $NUM|H$ нових морських боїв у цьому регіоні." # (&)
 ALERT_PRIORITY: "§HПріоритет сповіщень флоту:§! $TYPE$"
 ALERT_PRIORITY_NORMAL: "Нормальний"
 ALERT_PRIORITY_HIGH: "§GВисокий§!"
 ALERT_PRIORITY_DETAILS: "Флоти з високим пріоритетом сповіщення надсилатимуть свої сповіщення разом із іншими глобальними сповіщеннями." # (&)
-ALERT_RIGHTCLICK_DISMISS_CURRENT_SPOTTERS: "§GКлацніть правою кнопкою, щоби прибрати поточні виявлення.§!"
-ALERT_LEFTCLICK_TOGGLE_SPOTTER: "§GКлацніть лівою кнопкою, щоби перемикатися між виявленнями.§!"
+ALERT_RIGHTCLICK_DISMISS_CURRENT_SPOTTERS: "§GКлацніть ПКМ, щоби прибрати поточні виявлення.§!"
+ALERT_LEFTCLICK_TOGGLE_SPOTTER: "§GКлацніть ЛКМ, щоби перемикатися між виявленнями.§!"
 ALERT_SPOTTER_INFO: "Є $NUM|H$ нових виявлень у регіонах із флотами, які позначені як важливі."
 ALERT_SPOTTER_INFO_REGION: "Є $NUM|H$ нових виявлень у цьому регіоні."
 ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP: "§RВорожий шифр не розшифровується.§!"
-ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED: "§GКлацніть лівою кнопкою§!, щоби відкрити вікно криптології."
+ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED: "§GКлацніть ЛКМ§!, щоби відкрити вікно криптології."
 ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP: "Ви успішно зламали шифри ось цих країн:"
-ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED: "§GКлацніть лівою кнопкою§!, щоби відкрити вікно криптології."
+ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED: "§GКлацніть ЛКМ§!, щоби відкрити вікно криптології."
 alert_not_enough_garrison_instant: "§HНедостатньо людських ресурсів або оснащення для задоволення потреб гарнізонів§!"
 alert_not_enough_garrison_warning: "§RДеякі закони окупації не матимуть повного ефекту, поки потреби гарнізонів не будуть повністю задоволені.§!"
 alert_not_enough_garrison_delayed: "Нам не вистачає $NUM|*H$ людських ресурсів."
@@ -201,7 +201,7 @@ ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT: "Можна завербувати а�
 ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED: "§GКлацніть§!, щоби відкрити вікно вербування"
 ALERT_LOSING_TRAINS: "Втрата потягів через ворожі удари по логістиці!"
 alert_doctrine_unlock_instant: "§YЄ доступні доктрини§!"
-alert_doctrine_unlock_delayed: "Ви можете розблокувати нове: \n$DOCTRINE$"
+alert_doctrine_unlock_delayed: "Ви можете відімкнути нові доктрини: \n$DOCTRINE$"
 alert_officer_corps_instant: "§YЗміна офіцерського корпусу§!"
 alert_officer_corps_spirit_delayed: "Військові духи:\nВи можете вибрати:\n$SPIRIT|Y$"
 alert_officer_corps_advisor_delayed: "Радники:\nВи можете вибрати:\n$ADVISOR|Y$\n"
@@ -222,3 +222,24 @@ alert_raid_completed_delayed_entry: "Ми завершили наліт $RAID_TY
 alert_got_raided_instant: "§YВорог провів нальоти§!"
 alert_got_raided_delayed_header: ""
 alert_got_raided_delayed_entry: "Ціль $TARGET_NAME$ було пошкоджено внаслідок нальоту $RAID_TYPE_NAME|H$. Результат: $OUTCOME$."
+
+### 1.17 MUSKETEER ###
+ alert_out_of_fuel_instant: "§HПальне закінчилося§!"
+ alert_out_of_fuel_delayed_header: "Потрібно: §Yнафта ($VALUE$)§!\nНафта необхідна для дієвої праці автомобільної техніки, літаків і кораблів." # (&)
+ alert_out_of_fuel_delayed_entry_army: "§YАрмія§!\nПри $LOW_THRESHOLD|Y1%$ запасів пального починають падати бойові параметри.\nПри §Y0%§! пального:\nШвидкість: $ARMY_SPEED_PENALTY|R1%$\nБойові параметри (паливоспоживаюча техніка): $ARMY_COMBAT_PENALTY|R1%$\nПриріст досвіду від тренувань: $ARMY_TRAINING_XP_GAIN|R1%$ щодня" # (&+)
+ alert_out_of_fuel_delayed_entry_air: "§YАвіація§!\nКоли пального не стачає:\nЕфективність завдань: $AIR_EFFICIENCY_PENALTY|R1%$" # (&+)
+ alert_out_of_fuel_delayed_entry_navy: "§YФлот§!\nКоли пального не вистачає:" # (&+)
+ alert_out_of_fuel_delayed_subentry_navy_speed: "Швидкість: $NAVAL_SPEED_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_range: "Дальність: $NAVAL_RANGE_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_attack: "Атака: $NAVAL_ATTACK_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_torpedo: "Атака торпед субмарин: $NAVAL_TORPEDO_PENALTY|R1%$" # (&)
+ alert_headquarter_admiral_instant: "Адмірала можна призначити до штабу ВМС:" # (&)
+ alert_headquarter_admiral_location: "  $LOCATION|Y$"
+ alert_headquarter_admiral_delayed: "Призначте адмірала, аби збільшити ефективність §Yоперативних груп§!, котрі працюють у межах досяжності штабу ВМС." # (&)
+ alert_lack_of_power_instant: "§HНедостатньо енергії§!"
+ alert_lack_of_power_delayed_header: "Ми маємо $COAL|R$£out_of_power_texticon£ од. вугілля.\nЗадоволено $PERCENTAGE|.0H%$ потреб промисловості в енергії, що дає лось ці ефекти:" # (&)
+ alert_lack_of_power_delayed_civ: "Кожен £civ_factory цивільний завод надає на $VALUE|H$ £civ_factory_output£ менше, а модифікатор швидкості будівництва скорочується на $PERCENTAGE|.0R%$."
+ alert_lack_of_power_delayed_mil: "Кожен £mil_factory військовий завод надає на $VALUE|H$ £production_cost£ менше, а модифікатор продуктивності заводів скорочується на $PERCENTAGE|.0R%$."
+ alert_lack_of_power_delayed_nav: "Кожна £nav_dockyard_texticon верф надає на $VALUE|H$ £navprod_cost£ менше, а модифікатор продуктивності верфей скорочується на $PERCENTAGE|.0R%$."
+ alert_faction_can_select_goal_instant: "§HВи можете вибрати нову ціль для альянсу§!"
+ alert_faction_can_select_goal_delayed_header: "Якщо ми ніщо не вдіємо, ціль альянсу можуть вибрати інші члени."

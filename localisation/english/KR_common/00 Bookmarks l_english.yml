@@ -9,16 +9,9 @@
  KR_scenario_name: "Спадщина Вельткригу"
  KR_scenario_desc: "На світанку 1936 року спадщина Вельткригу важким тягарем лягає на плечі нового покоління. Німеччина стоїть у центрі світу, неперевершена потуга, але біля її ніг лежать вороги, як старі, так і нові: від французького синдикалістського Інтернаціоналу до старої Антанти, від незламної Росії до сонця, що сходить, яке не розкаюється. У той самий час Німеччина, завдяки своїм величезним можливостям, небезпечно перенапружується, її союзники в Константинополі та Відні відчужуються, а по той бік Атлантики американський колосс хитається. Минуло сімнадцять років після закінчення війни, і мало хто очікує, що новий рік принесе переломний момент, але незабаром одна-єдина іскра може бути достатньою, щоб запалити порохову бочку заново..."
 
-### Nation Selection Screen ###
- new_this_patch_title: "НОВЕ В ЦЬОМУ ПАТЧІ"
- new_this_patch_title_b: "§b$new_this_patch_title$§!"
-
- feature_highlight_icon_0_tt: ""
- feature_highlight_icon_1_tt: ""
- feature_highlight_icon_2_tt: ""
-
- highlight_major_0_tt: "You can play as the §YFree Russian Army§! by starting a campaign as §YRussia§!, §YGermany§!, or the §YEastern Reichspakt members§!. An event to do so will occur shortly after the outbreak of the Russo-German war.\n\n§RRussia must be controlled by Savinkov or the socialists, which can be set in the Game Rules.§!"
- highlight_major_1_tt: "You can play as the §YFar Eastern Army§! by starting a campaign as §YRussia§!, §YJapan§!, or §YFengtian§!. An event to do so will occur shortly after the start of the Far Eastern Uprising.\n\n§RRussia must be controlled by Savinkov or the socialists, which can be set in the Game Rules.§!"
+### Labels ###
+ new_content_label: "Новий вміст"
+ recommended_label: "Рекомендовано"
 
 ### Other ###
  Debug_KR_gathering_storm_desc: "Якщо ви бачите це, будь ласка, створіть звіт про помилку"

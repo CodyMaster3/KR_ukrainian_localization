@@ -5,14 +5,14 @@
  CIVIL_WAR_NAME_USA_CSA: "Друга громадянська війна в США"
  CIVIL_WAR_NAME_TEX_USA: "Друга громадянська війна в США"
  CIVIL_WAR_NAME_USA_TEX: "Друга громадянська війна в США"
- CIVIL_WAR_NAME_PSA_USA: "Друга громадянська війна в США"
- CIVIL_WAR_NAME_USA_PSA: "Друга громадянська війна в США"
- CIVIL_WAR_NAME_PSA_CSA: "Друга громадянська війна в США"
- CIVIL_WAR_NAME_CSA_PSA: "Друга громадянська війна в США"
+ CIVIL_WAR_NAME_ACC_USA: "Друга громадянська війна в США"
+ CIVIL_WAR_NAME_USA_ACC: "Друга громадянська війна в США"
+ CIVIL_WAR_NAME_ACC_CSA: "Друга громадянська війна в США"
+ CIVIL_WAR_NAME_CSA_ACC: "Друга громадянська війна в США"
  CIVIL_WAR_NAME_TEX_CSA: "Друга громадянська війна в США"
  CIVIL_WAR_NAME_CSA_TEX: "Друга громадянська війна в США"
- CIVIL_WAR_NAME_PSA_TEX: "Друга громадянська війна в США"
- CIVIL_WAR_NAME_TEX_PSA: "Друга громадянська війна в США"
+ CIVIL_WAR_NAME_ACC_TEX: "Друга громадянська війна в США"
+ CIVIL_WAR_NAME_TEX_ACC: "Друга громадянська війна в США"
 
 ### Spanish Civil War ###
  CIVIL_WAR_NAME_SPA_SPR: "Громадянська війна в Іспанії"
@@ -127,8 +127,8 @@
 ### 2nd Mexican-American War ###
  WAR_NAME_USA_MEX: "Друга $ORDER$$SECOND$-$FIRST$ війна"
  WAR_NAME_MEX_USA: "Друга $ORDER$$FIRST$-$SECOND$ війна"
- WAR_NAME_PSA_MEX: "Друга $ORDER$$FIRST$-ТША"
- WAR_NAME_MEX_PSA: "Друга $ORDER$$FIRST$-ТША"
+ WAR_NAME_ACC_MEX: "Друга $ORDER$$FIRST$-ТША"
+ WAR_NAME_MEX_ACC: "Друга $ORDER$$FIRST$-ТША"
  WAR_TAKE_CLAIM_MEX_USA: "$ORDER$$FIRST$ агресія за $STATE$"
  WAR_TAKE_CORE_MEX_USA: "$ORDER$$FIRST$ претензія на $STATE$"
 

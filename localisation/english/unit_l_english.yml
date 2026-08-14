@@ -36,7 +36,7 @@ UNIT_LEADER_ADVISOR_ROLE_BTN_TT_HEADER: " §YРолі офіцерсього к�
 UNIT_LEADER_ADD_ADVISOR_APPLICABLE_ROLES: "$NAME|Y$ буде доступний на посаду радника з роллю $ROLENAME|Y$ або $PROMOTEDROLENAME|Y$"
 UNIT_LEADER_ADD_ADVISOR_NO_ROLES: "$NAME|Y$ не має доступних ролей."
 UNIT_LEADER_ADD_ADVISOR_HAS_ROLES: "$NAME|Y$ має $NUMBER$ доступних ролей."
-UNIT_LEADER_ADD_ADVISOR_ROLE: "$NAME|Y$ буде достаний як радник ($TYPE|Y$) із цією рисою: "
+UNIT_LEADER_ADD_ADVISOR_ROLE: "$NAME|Y$ буде доступний як радник ($TYPE|Y$) із цією рисою: "
 UNIT_LEADER_CANNOT_ADD_ADVISOR_ROLE: "$NAME|Y$ не має правильного набору навичок, щоби стати радником."
 UNIT_LEADER_CANNOT_ADD_ADVISOR_ROLE_MIN_SKILL_LEVEL: "§RПотрібен принаймні $LEVEL|Y$ рівень навичок, щоби стати радником.§!\n"
 UNIT_LEADER_CHOOSE_ADVISOR_ROLE: "Обрати роль радника"
@@ -45,7 +45,7 @@ UNIT_LEADER_ADD_ADVISOR_TITLE: "Додати командувача як рад�
 UNIT_LEADER_ADD_ADVISOR_DESC: "Ви справді хочете додати $NAME|Y$ на посаду $ROLE|Y$? Після цього $NAME|Y$ не зможе бути призначений(-а) на іншу посаду радника.\n\nДодавання цього командувача як радника коштує £command_power $COST|Y0$."
 UNIT_LEADER_SORT_SKILL: "Сортувати за загальними навичками"
 UNIT_LEADER_SORT_ADVISOR: "Сортувати за станом радника"
-HOURLY_MORALE_REGAIN_BASE: "Базове значення: $VAL|=+$\n"
+HOURLY_MORALE_REGAIN_BASE: "Базова величина: $VAL|=+$\n"
 ATTRITION: "Виснаження:"
 ATTRITION_DESC: "Щоденна ймовірність втрати оснащення"
 ATTRITION_TOTAL: "Загальне виснаження: $TOT|=-1%2$"
@@ -57,12 +57,12 @@ ATTRITION_EQUIPMENT: "\n - Оснащення: $ATT|=-1$"
 ATTRITION_STATE_MODIFIERS: "\n - Обласні модифікатори:"
 ATTRITION_WEATHER_MODIFIERS: "\n - Погодні модифікатори:"
 ATTRITION_LOOSE_EQ_CHANCE: "Імовірність втрати оснащення:"
-ATTRITION_LOOSE_EQ_ENTRY: "  - $EQ|G$ — імовірність: $CH|Y%1$ (надійність: $RE|Y1%$)"
+ATTRITION_LOOSE_EQ_ENTRY: "  - $EQ|G$ — очікувані втрати щодня: $CH|Y%1$ (надійність: $RE|Y1%$)"
 ATTRITION_TECH_FACTOR: "Від технологій: $VALUE|-0%$"
 ATTRITION_TRAINING: "Від §Hвійськових тренувань§!: $VALUE|-0%$"
 ATTRITION_SUPPLY: " - Поганий стан постачання: $ATT|-0%$"
-ATTRITION_SINGLE_UNIT: "§RЦя війська частина страждає від виснаження!\nПоточний рівень: $VALUE|Y0%$§!"
-ATTRITION_SOME_UNITS: "§R$COUNT|Y$ військових частин страждають від виснаження!\nМаксимальний поточний рівень: $MAX|Y0%$§!"
+ATTRITION_SINGLE_UNIT: "§RЦя військова частина страждає від виснаження!\nПоточний рівень: $VALUE|Y0%$§!"
+ATTRITION_SOME_UNITS: "§R$COUNT|Y$ військ. част. страждають від виснаження!\nМаксимальний поточний рівень: $MAX|Y0%$§!"
 ATTRITION_MULMOD_BY: " помножений на $MOD|Y$ через:\n$WHY$"
 DIG_IN_UNIT: "Ця військова частина §Hукріплена§!. Вона отримує $DIG|0+%$ бонусу до оборонного бою з максимальних $MAX|0%Y$."
 DIG_IN_AVG: "Ці військові частини §Hукріплені§!. Середній бонус до оборонного бою — $DIG|0+%$"
@@ -79,8 +79,8 @@ ACTION_UNIT_INVASION: "$COUNT|H$ — проводять морське втор
 ACTION_UNIT_STRATEGIC_DISABLED: "$COUNT|H$ — страт. передислокація вимкнена"
 ACTION_UNIT_SUPPORT_BOMBARDMENT: "надають підтримку бомбардуванням у бою поблизу"
 ACTION_UNIT_NAVAL_TRANSFER_INTERCEPTED: "$COUNT|H$ — перехопили конвой"
-ENTRENCHMENT_TT2: "Ця військова частина §Hукріплена§!. Вона отримує $DIG|0+%$ бонусу до оборонного бою (максимум: $MAX|0%Y$)."
-ENTRENCHMENT_INCREASE_BY_X_REACH_MAX_IN: " Укріпленість збільшується на $DELTA|0%Y$ кожний день. Максимальний рівень буде досягнутий через $DAYS|Y$ дн."
+ENTRENCHMENT_TT2: "Ця військова частина §Hукріплена§!. Вона отримує $DIG|1+%$ бонусу до оборонного бою (максимум: $MAX|1%Y$)."
+ENTRENCHMENT_INCREASE_BY_X_REACH_MAX_IN: " Укріпленість збільшується на $DELTA|2%Y$ кожний день. Максимальний рівень буде досягнутий через $DAYS|Y$ дн."
 ENTRENCHMENT_DESC: "Базовий максимум: $BASE_MAX|Y$\n$MAX_MODIFIERS$\n\nБазовий приріст: $BASE_GAIN|Y$\n$GAIN_MODIFIERS$"
 DIG_IN_DIVISION_MOD_DESC: "Шаблон дивізій: $VALUE|=+$"
 DIG_IN_MOD_MULTI_DESC: "Помножувальні модифікатори:"
@@ -91,13 +91,13 @@ MERGE_NAVIES_ON_A_MISSION: "§RВи не можете об'єднувати фл
 MERGE_NAVIES_NOT_SAME_LOCATION: "§RУсі обрані флоти мусять бути в одному й тому ж місці, щоб їх можна було об'єднати.§!"
 MERGE_NAVIES_REFITTING: "§RВи не можете об'єднувати флоти, які проходять переозброєння.§!"
 RANDOM_AIR_ACCIDENT_CHANCE_HEADER: "Імовірність нещасть при зльоті та посадці:"
-RANDOM_AIR_ACCIDENT_CHANCE_BASE: "\n  - Надійність оснащення ($RE|Y%1$): $CH|R%1$\nТоді підсумок множиться на §Y100%§! плюс:\nТоді це множиться на:"
-RANDOM_AIR_ACCIDENT_CHANCE_RELIABILITY: "\n  - Надійність оснащення ($RE|Y%1$): $CH|R%1$"
+RANDOM_AIR_ACCIDENT_CHANCE_BASE: "\n  - Надійність оснащення ($RE|Y%1$): $CH|R%1$\nТоді це множиться на:"
+RANDOM_AIR_ACCIDENT_CHANCE_RELIABILITY: "\n  - Надійність оснащення ($RE|Y%1$): $CH|R%1$\nЗ цього виходить імовірність $TOTAL|R1%$, котра далі множиться на:"
 RANDOM_AIR_ACCIDENT_CHANCE_CARRIER: "\n  - Множник перебування на авіаносці: $CAR|R1$"
-RANDOM_AIR_ACCIDENT_CHANCE_TRAINING: "\n  - Множник активних §Yповітряних тренувань§!: $VALUE|2-=%$"
+RANDOM_AIR_ACCIDENT_CHANCE_TRAINING: "  - Множник активних §Yповітряних тренувань§!: $VALUE|2-=%$"
 RANDOM_AIR_ACCIDENT_CHANCE_WEATHER: "\n  - Погода: "
 RANDOM_AIR_ACCIDENT_CHANCE_GLOBAL: "\n  - Країна: $VALUE|-=%$"
-RANDOM_AIR_ACCIDENT_CHANCE_TOTAL: "\nПідсумок: $TOT|R%$"
+RANDOM_AIR_ACCIDENT_CHANCE_TOTAL: "\nПідсумкова ймовірність нещасть: $TOT|R%$"
 RANDOM_AIR_ACCIDENTS_HAPPENED: "Усього нещасть сталося: $TOT|R$"
 AIR_WING_EXPERIENCE_VALUE_MODIFIER: "  - Досвід: $VALUE|%-=2$"
 DESELECT_UNIT: "Скасувати вибір"
@@ -113,6 +113,15 @@ PLAN_EXECUTE_RUSH_DESC: "Військові частини атакуватим�
 PLAN_EXECUTE_BLITZ_DESC: "§YБлискавичні§! бойові плани"
 PLAN_EXECUTE_MODE: "Режим виконання бойових планів"
 CHANGE_TEMPLATE_UNIT: "Змінити шаблон дивізій"
+CLICK_TO_CHANGE_DIVISION: "§GКлацніть§!, щоби змінити шаблон дивізії."
+HQ_LIST_ITEM_CLICK_TO_DEPLOY: "§GКлацніть§!, щоби розгорнути з цим шаблоном штабу армії."
+HQ_LIST_ITEM_RIGHT_CLICK_TO_DESIGN: "§GКлацніть ПКМ§!, щоби відкрити конструктор штабів армії."
+HQ_LIST_ITEM_INSUFFICIENT_CP: "§RНедостатньо командної влади§! (треба £command_power $COST|H0$)"
+ARMY_HQ_TEMPLATES: "Шаблони штабів армії"
+ARMY_HQ_TEMPLATES_TOGGLE_TOOLTIP: "§GКлацніть§!, щоби перемкнути список §Yшаблонів армійських штабів§!, де можна переглядати та керувати шаблони армійських штабів."
+ARMY_HQ_DESIGNER: "Конструктор штабів армії"
+ARMY_HQ_DEPLOYED_DETAILS: "$DEPLOYED$/$ARMIES$"
+ARMY_HQ_DEPLOYED_DETAILS_TOOLTIP: "Розгорнуті §Yштаби армії§!: §Y$DEPLOYED$§!\nУсього армій: §Y$ARMIES$§!"
 SELECT_UNIT: "Обрати"
 UNIT_LEADER_BUTTON: "§GКлацніть, щоби змінити командира§!"
 MOVE_SHIPS_TITLE: "Оберіть кораблі для переправлення"
@@ -139,7 +148,7 @@ TASK_FORCE_COMPOSITION_SUB_1: "§GКлацніть§!, щоби відняти �
 TASK_FORCE_COMPOSITION_SUB_5: "§GCtrl + клацніть§!, щоби відняти §Y5§!"
 TASK_FORCE_COMPOSITION_SUB_10: "§GShift + клацніть§!, щоби відняти §Y10§!"
 SHIP_IS_PRIDE_OF_FLEET: "Судно $NAME|H$ призначене як §Hгордість ВМС§!"
-SHIP_IS_PRIDE_OF_FLEET_DESC: "§HГордість ВМС§! отримує різні бонуси, але §Hпідтримка війни§! його країни постраждає, якщо корабель буде потоплений."
+SHIP_IS_PRIDE_OF_FLEET_DESC: "§HГордість ВМС§! отримує різні бонуси, але §Hпідтримка війни§! її країни постраждає, якщо корабель буде потоплений."
 NAVY_CONTAINS_PRIDE_OF_FLEET: "У цьому флоті є §Hгордість ВМС§! ($NAME|H$)"
 NAVY_CONTAINS_PRIDE_OF_FLEET_WITHOUT_NAME: "У цьому флоті є §Hгордість ВМС§!"
 FLEET_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION: "£mapicon_unit_invalid_orders  У цьому флоті є оперативні групи, які працюють на субоптимальній ефективності пального" # (&)
@@ -182,11 +191,11 @@ ENABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GКлацніть§!, щоб §Hуві�
 DISABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GКлацніть§!, щоби §Hвимкнути§! §Hавтоматичне підкріплення§! обраних оперативних груп."
 TASK_FORCE_AUTO_REINFORCEMENT_DISABLED_FOR_DETACHED: "§RВідділені оперативні групи не можуть §Hавтоматично підкріплюватися§!.§!"
 TASK_FORCE_AUTO_REINFORCEMENT_DESC: "Поки §Hавтоматичне підкріплення§! оперативної групи ввімкнене, вона діставатиме кораблі з резервних флотів її театру, щоби відповідати встановленим вимогам.\nКоли ввімкнено, вимоги будуть перелічені під кількістю кораблів в оперативній групі.\n\nОперативна група ніколи автоматично не поверне кораблі, якщо кількість перевищує вимоги."
-ENABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GКлацніть§!, щоб §Hувімкнути§! §Hпоповнення на ходу§! для вибраних оперативних груп." # (&?)
-DISABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GКлацніть§!, щоби §Hвимкнути§! §Hпоповнення на ходу§! для вибраних оперативних груп." # (&?)
-TASK_FORCE_UNDERWAY_REPLENISHMENT_DISABLED_FOR_DETACHED: "§RОкремі оперативні групи не можуть §Hпоповюватися на ходу§!§!" # (&?)
-TASK_FORCE_UNDERWAY_REPLENISHMENT_DESC: "Коли ввімкнено §HПоповнення на ходу§! для оперативної групи, їй не потрібно буде заходити в порт, щоб поповнити запаси пального. Конвої прибуватимуть до оперативної групи під час руху, щоби поповнити її баки.\nЯкщо увімкнено, дальність дії оперативної групи збільшується на $FACTOR_BONUS|%+=0$ за рахунок кількості конвоїв, пропорційної максимальному денному споживанню пального." # (&?)
-TASK_FORCE_UNDERWAY_REPLENISHMENT_STATUS: "§HПоповнення на ходу§! тепер $ON_OFF|H$" # (&?)
+ENABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GКлацніть§!, щоб §Hувімкнути§! §Hпоповнення в морі§! для вибраних оперативних груп." # (&?)
+DISABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GКлацніть§!, щоби §Hвимкнути§! §Hпоповнення в морі§! для вибраних оперативних груп." # (&?)
+TASK_FORCE_UNDERWAY_REPLENISHMENT_DISABLED_FOR_DETACHED: "§RОкремі оперативні групи не можуть §Hпоповюватися в морі§!§!" # (&?)
+TASK_FORCE_UNDERWAY_REPLENISHMENT_DESC: "Коли для оперативної групи ввімкнено §HПоповнення в морі§!, їй не потрібно буде заходити в порт для поповнення запасів пального. Конвої прибуватимуть до оперативної групи на ходу, щоби поповнити її баки.\nЯкщо ввімкнено, дальність дії оперативної групи зросте на $FACTOR_BONUS|%+=0$ за рахунок числа конвоїв, пропорційного найбільшому денному споживанню пального." # (&?)
+TASK_FORCE_UNDERWAY_REPLENISHMENT_STATUS: "§HПоповнення в морі§! тепер $ON_OFF|H$" # (&?)
 UNDERWAY_REPLENISHMENT_RANGE_BONUS: "Відстань: $FACTOR|+%=0$" # (&?)
 UNDERWAY_REPLENISHMENT_CONVOY_SHORTAGE_IMPACT: "  -  Нестача конвоїв: §Rx§!$RATIO|2R$" # (&?)
 UNDERWAY_REPLENISHMENT_CONVOY_COST: "Необхідні конвої: $NUMBER_OF_CONVOYS|Y0$" # (&?)
@@ -241,12 +250,11 @@ UNIT_BLOCKS_STRAIT_WITHIN_FRIENDLY: "Флот §Gблокує§! протоку 
 UNIT_BLOCKS_STRAIT_WITHIN_HOSTILE: "Флот §Rблокує§! протоку в області $STATE1|H$"
 UNIT_BLOCKS_STRAIT_BETWEEN_FRIENDLY: "Флот §Gблокує§! протоку між областями $STATE1|H$ та $STATE2|H$"
 UNIT_BLOCKS_STRAIT_BETWEEN_HOSTILE: "Флот §Rблокує§! протоку між областями $STATE1|H$ та $STATE2|H$"
-# ((+))
-#NO_MOVE_IS_IN_HOME_REPAIRING:0 "$FLEET|H$ is currently repairing in $TARGET|H$."
-#NO_MOVE_HEADING_HOME_TO_REPAIR:0 "$FLEET|H$ is on its way to $TARGET|H$ to repair."
-#NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0 "Afterwards, it will continue its last mission ($MIS|H$).\n"
-#NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN:0 "Afterwards, it will merge back with the $FLEET|H$.\n"
-#NO_MOVE_HEADING_HOME_TO_REPAIR_STAY:0 "Afterwards, it will stay in the base.\n"
+NO_MOVE_IS_IN_HOME_REPAIRING: "Наразі $FLEET|H$ ремонтується в порту $TARGET|H$." # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR: "$FLEET|H$ прямує до порту $TARGET|H$ на ремонт." # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME: "Після цього він продовжить своє останнє завдання ($MIS|H$).\n" # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN: "Після цього він возз'єднається з флотом $FLEET|H$.\n" # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR_STAY: "Після цього він залишиться на базі.\n" # (&+)
 #NAVY_REPAIR_REJOIN_DESC:0 "Rejoining with $FLEET|H$ when reparations are complete."
 #NAVY_DETACHED_PARENT_STATUS:0 "Our task force we've detached from."
 #NAVY_DETACHED_CHILD_STATUS:0 "Detached from us: $STATUS|H$"
@@ -255,13 +263,13 @@ UNIT_BLOCKS_STRAIT_BETWEEN_HOSTILE: "Флот §Rблокує§! протоку 
 #NAVY_ACTIVITY_MOVING_TO_REFIT_DESC:0 "$FLEET|H$ on its way to $TARGET|H$ to refit."
 #NAVY_ACTIVITY_REFITTING_DESC:0 "$FLEET|H$ refitting in $TARGET|H$."
 #NAVY_ACTIVITY_REINFORCING_DESC:0 "$FLEET|H$ on its way to reinforce $TARGET|H$."
-#NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REFIT:0 "On the way to refit."
-#NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REPAIR:0 "On the way to repair."
-#NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_ONE_SHIP:0 "Refitting $PROGRESS|%1G$."
-#NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_MANY_SHIPS:0 "Refitting §G$NUM$/$MAX$§! ships."
-#NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP:0 "Repairing $PROGRESS|%1G$."
-#NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_MANY_SHIPS:0 "Repairing §G$NUM$/$MAX$§! ships."
-#NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING:0 "Reinforcing with $PARENT|H$."
+NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REFIT: "Прямує на переобладнання."
+NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REPAIR: "Прямує на ремонт."
+NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_ONE_SHIP: "Переобладнання $PROGRESS|%1G$."
+NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_MANY_SHIPS: "Переобладнання §G$NUM$/$MAX$§! кораблів."
+NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP: "Ремонт $PROGRESS|%1G$."
+NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_MANY_SHIPS: "Ремонт §G$NUM$/$MAX$§! кораблів."
+NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING: "Поповнює флот $PARENT|H$."
 NO_ACCESS_TO_TARGET: "Військова частина не може ввійти в провінцію."
 NO_RAILWAY_ACCESS_TO_TARGET: "Військова частина не може ввійти в провінцію без залізниць."
 NO_RAILWAY_ACCESS_TO_TARGET_COOLDOWN: "Військова частина не може ввійти в провінцію з неконвертованими залізницями. Конверсія буде завершена через $DAYS$ дн."
@@ -288,10 +296,14 @@ EQUIPMENT_TOTAL: "$CURRENT|0$"
 MANPOWER_TOTAL_VALUE: "$VALUE|0*$"
 MANPOWER_AIR_WING_CREATION_VALUE: "$VALUE|0$"
 SERVICE_MANPOWER_HEADER: "Службові людські ресурси"
-anti_tank: "ПТА підтримки"
+anti_tank: "Протитанкова артилерія підтримки"
 anti_tank_desc: ""
+anti_tank_battery: "Протитанкова батарея"
+anti_tank_battery_desc: ""
 anti_air: "Зенітна артилерія підтримки"
 anti_air_desc: ""
+anti_air_battery: "Зенітна батарея"
+anti_air_battery_desc: ""
 artillery: "Артилерія підтримки"
 artillery_desc: ""
 rocket_artillery: "Ракетна артилерія підтримки"
@@ -300,10 +312,10 @@ rocket_artillery_brigade: "Ракетна артилерія"
 mot_rocket_artillery_brigade: "Буксирувана ракетна артилерія"
 rocket_artillery_brigade_desc: ""
 anti_tank_brigade: "Протитанкова артилерія"
-mot_anti_tank_brigade: "Моторизована ПТА"
+mot_anti_tank_brigade: "Моторизована протитанкова артилерія"
 anti_tank_brigade_desc: ""
 anti_air_brigade: "Зенітна артилерія"
-mot_anti_air_brigade: "Моторизована ЗА"
+mot_anti_air_brigade: "Моторизована зенітна артилерія"
 anti_air_brigade_desc: ""
 artillery_brigade: "Артилерія"
 mot_artillery_brigade: "Моторизована артилерія"
@@ -318,6 +330,14 @@ super_heavy_tank_destroyer_brigade: "Надважкий ВТ"
 #super_heavy_tank_destroyer_brigade_desc:0 "A super heavy tank chassis with an even larger gun in a fixed mount instead of a turret."
 modern_tank_destroyer_brigade: "Сучасний ВТ"
 #modern_tank_destroyer_brigade_desc:0 "A Modern Tank chassis fitted with a much larger gun instead of a turret."
+light_tank_destroyer_support: "Підтримка легких ВТ"
+medium_tank_destroyer_support: "Підтримка середніх ВТ"
+heavy_tank_destroyer_support: "Підтримка важких ВТ"
+modern_tank_destroyer_support: "Підтримка сучасних ВТ"
+light_sp_anti_air_support: "Підтримка легких ЗСУ"
+medium_sp_anti_air_support: "Підтримка середніх ЗСУ"
+heavy_sp_anti_air_support: "Підтримка важких ЗСУ"
+modern_sp_anti_air_support: "Підтримка сучасних ЗСУ"
 light_sp_anti_air_brigade: "Легка ЗСУ"
 medium_sp_anti_air_brigade: "Середня ЗСУ"
 heavy_sp_anti_air_brigade: "Важка ЗСУ"
@@ -333,9 +353,9 @@ cavalry_desc: "Піхота верхи на конях. Дорожча, але �
 camelry: "Верблюдова кавалерія"
 camelry_desc: "Піхота верхи на верблюдах. Дорожча, але більш універсальна."
 motorized: "Моторизована піхота"
-#motorized_desc: "Транспорт моторизованої піхоти, як-от вантажівки та мотоцикли." # (&)
+motorized_desc: "Моторизований транспорт для піхоти, як-от вантажівки та мотоцикли."
 mechanized: "Механізована піхота"
-#mechanized_desc: "Легкоброньований піхотний транспорт." # (&)
+mechanized_desc: "Легкоброньований транспорт для піхоти."
 light_armor: "Легкий танк"
 light_armor_desc: "Легкоброньовані танки."
 medium_armor: "Середній танк"
@@ -343,6 +363,7 @@ medium_armor_desc: "Середні танки гнучкі й можуть ви�
 heavy_armor: "Важкий танк"
 heavy_armor_desc: "Найсильніші танки з сильними бронею та зброєю, але повільні та тактично негнучкі."
 super_heavy_armor: "Надважкий танк"
+super_heavy_armor_desc: "Super-Heavy tanks trade mobility and speed for firepower and armor beyond that of the standard Heavy Tanks." # (!)
 modern_armor: "Сучасний танк"
 #modern_armor_desc:0 "Modern Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks."
 infantry: "Піхота"
@@ -388,6 +409,40 @@ signal_company: "Рота зв'язку"
 #signal_company_desc:0 "Responsible for local communications working in the division."
 maintenance_company: "Ремонтна рота"
 #maintenance_company_desc:0 "Performs various forms of maintenance on division equipment to prevent failure."
+hq_support_company: "Персонал штабу"
+hq_support_company_desc: "A dedicated headquarters staff company that administrates and assists with the unit's activities." # (!)
+hq_engineer: "Персонал інженерів"
+hq_engineer_desc: "Deals with matters regarding fortifications and mobility/counter-mobility measures." # (!)
+hq_recon: "Персонал розвідки"
+hq_recon_desc: "Collects and analyzes reconnaissance data received from the field." # (!)
+hq_military_police: "Персонал військової поліції"
+hq_military_police_desc: "Maintains local order and directs division traffic across the army's area of operations." # (!)
+hq_maintenance: "Персонал технічного планування"
+hq_maintenance_desc: "Plans and supports maintenance & repair efforts on the army level." # (!)
+hq_field_hospital: "Персонал шпиталю"
+hq_field_hospital_desc: "Responsible for medical administration and providing efficient casualty evacuation and treatment within the army area." # (!)
+hq_logistics: "Персонал логістики й обслуговування"
+hq_logistics_desc: "Prioritizes and allocates the distribution of supplies and fuel within the army." # (!)
+hq_signal: "Персонал зв'язку та розвідки"
+hq_signal_desc: "Coordinates communication efforts within the army, while also collecting and keeping track of gathered intelligence." # (!)
+hq_infantry: "Піхотна охорона штабу"
+hq_infantry_desc: "A smaller infantry battalion, dedicated towards HQ security." # (!)
+hq_motorized: "Мотопіхотна охорона штабу"
+hq_motorized_desc: "Infantry in motorized vehicles, allowing more rapid relocation of the HQ." # (!)
+hq_paratrooper: "Повітряно-десантна охорона штабу"
+hq_paratrooper_desc: "Allows an HQ to join an airborne invasion directly, along with providing additional security." # (!)
+hq_light_armor: "Охорона штабу з легкої бронетехніки" # (&+?): підглянуто в ПЛ
+hq_light_armor_desc: "Armored battalions lets the HQ unit move quicker on the field as well as survive longer in combat, if the circumstances require it." # (!)
+hq_medium_armor: "Охорона штабу з середньої бронетехніки" # (&+?): підглянуто в ПЛ
+hq_medium_armor_desc: "$hq_light_armor_desc$"
+hq_heavy_armor: "Охорона штабу з важкої бронетехніки" # (&+?): підглянуто в ПЛ
+hq_heavy_armor_desc: "$hq_light_armor_desc$"
+hq_naval_liaison: "Naval Liaison" # (!)
+hq_naval_liaison_desc: "Provides joint Army-Navy cooperation during amphibious landing operations." # (!)
+hq_air_liaison: "Forward Air Controller" # (!)
+hq_air_liaison_desc: "Air-Ground control parties and other units assigned with the task of ensuring close cooperation between the air force and the land units they support." # (!)
+hq_specops: "Координація спеціальних операцій"
+hq_specops_desc: "Staff office for the planning and coordination of Special Forces operations." # (!)
 amphibious_armor: "Батальйон танків-амфібій"
 amphibious_armor_desc: "Батальйон танків-амфібій."
 amphibious_mechanized: "Батальйон тракторів-амфібій"
@@ -398,6 +453,14 @@ amphibious_medium_armor: "Батальйон середніх танків-ам�
 amphibious_medium_armor_desc: "Батальйон medium танків, здатних проводити земноводні операції."
 amphibious_heavy_armor: "Батальйон важких танків-амфібій"
 amphibious_heavy_armor_desc: "Батальйон heavy танків, здатних проводити земноводні операції."
+fire_support: "Важкозбройова рота"
+fire_support_desc: "Heavy machine guns, light mortars, and other heavy weaponry that can support infantry operations." # (!)
+mot_fire_support: "Моторизована важкозбройова рота"
+mot_fire_support_desc: "Motorization for a Heavy Weapons Company, allowing for greater mobility and breakthrough exploitation." # (!)
+field_guns: "Піхотні гармати"
+field_guns_desc: "Transportable mortars and lighter artillery pieces that provide indirect fire support to infantry." # (!)
+rocket_battery: "Полкова ракетна батарея"
+rocket_battery_desc: "Rocket artillery for support on the regimental level." # (!)
 UNIT_LEADER_TRAITS: "Подробиці"
 UNIT_LEADER_PROMOTE: "Підвищити"
 UNIT_LEADER_PROMOTE_WITH_COST: "Підвищити £command_power $CP|2R$"
@@ -412,7 +475,9 @@ UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL: "§RНе можна ввійти в пров
 PLAN_PREPARATION: "Бонус до атаки від підготовки плану: $VALUE|0Y%$ (максимум: $MAX|0Y%$)"
 PLAN_PREPARATION_FACTOR: "Бонус до атаки від підготовки плану помножений на: $VALUE|0+%$"
 PLAN_PREPARATION_CHANGE: "Підготовка збільшується на $VALUE|1Y%$ кожного дня."
+PLAN_PREPARATION_DECREASE: "Підготовка спадає на $VALUE|1R%$ кожного дня."
 PLAN_PREPARATION_DESC: "Військові частини в стартових позиціях плану почнуть збирати бонус від підготовки. Коли вони почнуть воювати за планом або рухатися геть, бонус знову почне спадати."
+PLAN_PREPARATION_HQ_DESC: "§RЩоби збільшити готовність її плану, дивізія мусить бути в армії з розгорнутим армійським штабом.§!"
 SELECT_HALF_DIVISIONS: "§TОбрати половину поточних дивізій§!"
 HOLD_DIVISIONS: "§TЗупнити дивізії§!"
 MOUNT_BUTTON_SINGLE_LOAD_DESC: "Завантажити дивізію на транспортний корабель."
@@ -420,34 +485,34 @@ MOUNT_BUTTON_SINGLE_UNLOAD_DESC: "Вивантажити дивізію з тр�
 MOUNT_BUTTON_MULT_LOAD_DESC: "Завантажити всі доступні дивізії на транспортні кораблі."
 MOUNT_BUTTON_MULT_UNLOAD_DESC: "Вивантажити всі доступні дивізії з транспортних кораблів."
 MOUNT_BUTTON_ERROR_DESC: "Завантажити/вивантажити транспортні кораблі з військовими частинами."
-MAX_ORGANIZATION_TITLE: "§HМакс. організація:§!\n"
+MAX_ORGANIZATION_TITLE: "§HМежа організації:§!\n"
 FROM_TEMPLATE: "Шаблон дивізій: $VAL|Y$"
 FROM_TEMPLATE_MOD: "Від шаблону дивізій: $VAL|+=%$"
 FROM_TEMPLATE_MOD2: "Від шаблону дивізій: $VAL|+=$"
 OOS_MOD2: "Нестача припасів: $VAL|+=%$"
 ORG_REGAIN_INFRA2: "Інфраструктура: $VAL|+=%$"
 PARADROP_MORALE_PENALTY: "Нещодавня повітряна доставка: $VAL|+=%$"
-MORALE_TITLE: "§HЩогодинне відновлення:§! $VAL|+=$"
+MORALE_TITLE: "§HЩогодинне відновлення:§! $VAL|+=3$"
 SHIP_MORALE: "Корабель: $VAL|Y$"
 SHIP_MORALE_MOD: "Корабель: $VAL|=%$"
 NAVAL_COMBAT_SHIP_ORGANIZATION: "Організація: $CUR|0Y$/$MAX|0Y$\n"
 NAVAL_COMBAT_SHIP_ORGANIZATION_DESC: "Організація показує готовність до бою та наскільки корабель організований. Корабель без організації не може боротися"
 ORG_LOSS_TITLE: "§HВтрата в бою:§!"
-ORG_LOSS_AT_LOW_ORG_FACTOR: "Втрата організації в бою при менш ніж $LEVEL|0Y%$ макс. організації: $VAL|-=%$"
+ORG_LOSS_AT_LOW_ORG_FACTOR: "Втрата організації в бою при менш ніж $LEVEL|0Y%$ від межі організації: $VAL|-=%$"
 STAT_FROM_TECH: "Від технологій: $VAL|+=1%$"
 STAT_FROM_EQUIPMENT: "Від оснащення: $VAL|+=1%$"
-STAT_BASE_VALUE: "Базове значення: "
+STAT_BASE_VALUE: "Базова величина: "
 #LOW_MANPOWER_STAT_EFFECT:0 "§RWe currently only have $CUR|Y$ of $MAX|Y$ men in this division, limiting all stats to $FACTOR|%Y$ of what they would be if all equipment was present.§!"
 TITLE_STATS_FROM_BATTALIONS: "§HСклад дивізії:§!"
-TITLE_STATS_FROM_OTHER: "§YЗовнішні фактори:§!"
-UNIT_EXILED: "Ця військова частина знаходиться у вигнанні. Їй потрібно повернутися на нащу територію."
-FINAL_STAT_AVERAGE: "Середнє базове значення: "
-FINAL_STAT_TOTAL: "Загальне базове значення: "
-FINAL_STAT_MAX: "Найвище значення: "
-FINAL_STAT_MIN: "Найнижче базове значення: "
-FINAL_STAT_WEIGHTED: "Кінцеве зважене середнє значення ($WEIGHT|%0Y$ найвищого): "
+TITLE_STATS_FROM_OTHER: "§YЗовнішні чинники:§!"
+UNIT_EXILED: "Ця військова частина знаходиться у вигнанні. Їй потрібно повернутися на нашу територію."
+FINAL_STAT_AVERAGE: "Середня базова величина: "
+FINAL_STAT_TOTAL: "Загальна базова величина: "
+FINAL_STAT_MAX: "Найвища величина: "
+FINAL_STAT_MIN: "Найнижча базова величина: "
+FINAL_STAT_WEIGHTED: "Кінцева зважена середня величина ($WEIGHT|%0Y$ найвищої): "
 STAT_SUBUNIT_COUNT: "$VAL$ x "
-UNIT_STATS_STATS_TAB: "Характеристики"
+UNIT_STATS_STATS_TAB: "Параметри"
 UNIT_STATS_TEMPLATE_TAB: "Шаблон"
 COMBAT_UNIT_ICON_WINNING: "§GПеремагають у битві ($AMOUNT|H%0$)§!"
 COMBAT_UNIT_ICON_LOSING: "§RПрограють у битві ($AMOUNT|H%0$)§!"
@@ -455,24 +520,34 @@ COMBAT_UNIT_ICON_UNDECIDED: "§TБитва§!"
 COMBAT_UNIT_ICON_DESC: "§T$UNIT|H$ бере участь у битві в області $STATE|H$.§!"
 COMBAT_UNIT_ICON_TERRAIN: "§TЛандшафт: $TERRAIN|lH$§!"
 category_light_infantry: "Легка піхота"
+category_anti_tank: "Уся протитанкова піхота"
+category_mobile_anti_tank: "Рухома протитанкова артилерія"
+category_rocket_artillery: "Уся ракетна артилерія"
 TRANSPORT_WEIGHT_VAL: "$VAL$"
 TRANSPORT_WEIGHT_DESC: "Загальна вага дивізій"
 category_all_infantry: "Уся піхота та мотор./мех."
 category_front_line: "Усі фронтові батальйони"
-category_support_battalions: "Роти підтримки"
-category_all_armor: "Варіанти танків і бронетехніки"
+category_support_battalions: "Усі роти підтримки"
+category_divisional_support_battalions: "Роти дивізійної підтримки"
+category_regimental_support_battalions: "Роти полкової підтримки"
+category_all_armor: "Різновиди танків і бронетехніки"
 category_tanks: "Танки"
 category_army: "Армія"
 category_special_forces: "Спецпризначенці"
 category_recon: "Розвідка"
 category_line_artillery: "Лінійна артилерія"
-category_artillery: "Пітримка артилерії та лінійна артилерія"
+category_artillery: "Підтримка артилерії та лінійна артилерія"
 category_fighter: "Винищувачі"
 category_heavy_fighter: "Важкі винищувачі"
 category_cas: "Штурмова авіація"
 category_nav_bomber: "Морські бомбардувальники"
 category_tac_bomber: "Тактичні бомбардувальники"
 category_strat_bomber: "Стратегічні бомбардувальники"
+category_carrier_fighter: "Палубні винищувачі"
+category_carrier_nav_bomber: "Палубні морські бомбардувальники"
+category_carrier_cas: "Палубна штурмова авіація"
+category_maritime_patrol_bomber: "Морські патрульні бомбардувальники"
+category_scout_plane: "Літаки-розвідники"
 category_anti_air: "Батальйони ППО"
 #TRANSPORT_ALREADY_ACTIVE:0 "We are already being transported"
 #TRANSPORT_NO_NAVAL_BASE:0 "Cannot transport to a non-naval base location"
@@ -496,13 +571,17 @@ NAVAL_INVASION_PREPERATION_SPEED: "Швидкість підготовки:"
 #NAVAL_INVASION_BLOCKED_STRAIT:0 "§RDue to $RULES|H$ being blocked between $FIRST|H$ and $SECOND|H$ our armies cannot invade.§!"
 #NAVAL_INVASION_OVER_CAP:1 "§RNaval Invasion Capacity Exceeded:§!\nUsed in invasions $USED|Y$\nTotal limit $MAX|Y$\nSelected divisions $SELECTION|R$.\nResearch more £tech_mod Transports Technology to increase your Naval Invasion Capacity."
 MODIFIER_NAVAL_INVASION_CAPACITY: "Місткість морського вторгнення" # (&)
-#MODIFIER_NAVAL_INVASION_CAPACITY_DESC:0 "Total number of divisions that can be assigned to a naval invasion order."
+MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Підсумкове число дивізій, яке можна призначити до всіх наказів про морське вторгнення."
+MODIFIER_NAVAL_INVASION_DIVISION_CAP: "Місткість дивізій у морському вторгненні" # (&)
+MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC: "Найбільше число дивізій, яке можна призначити до наказу про морське вторгнення."
+MODIFIER_AIR_INVASION_DIVISION_CAP: "Місткість дивізій у повітряному десанті" # (&)
+MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Найбільше число дивізій, яке можна призначити до наказу про повітряний десант."
 MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE: "Рейдова дистанція морських десантників" # (&?)
 MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE_DESC: "Максимальна дальність рейдів морського десанту." # (&?)
 motorized_rocket_brigade: "Моторизована ракетна артилерія"
 motorized_rocket_brigade_short: "Мот. р. артилерія"
 #motorized_rocket_brigade_desc:0 "Self-propelled rocket artillery allows for larger, multiple rocket launchers which can both move in and out quickly after striking a target area."
-NAVAL_SUPREMACY: "§HПеревага на морі:§! $VALUE|%H$"
+MINIMUM_SEAZONE_DOMINANCE_NEEDED: "Потрібно принаймні $VALUE|0Y$ £naval_dominance_texticon£ §Hпанування на морі§!, аби ця морська зона вважалася під дружнім контролем." # (&+)
 NAVAL_REGION_ACCESS_LEVEL: "Рівень доступу: $LVL$"
 NAVAL_REGION_ACCESS_ALLOWED: "§GДозволено§!"
 NAVAL_REGION_ACCESS_ALLOWED_DESC: " - Наші §Hфлоти§! та §Hторгові шляхи§! проходитимуть крізь цей регіон як завжди."
@@ -513,23 +592,21 @@ NAVAL_REGION_ACCESS_BLOCKED_DESC: " - Наші §Hторгові шляхи§! �
 CAN_NOT_PARADROP_BATALION: "$AMOUNT|H$ батальйонів $BATALION|H$ не можуть десантуватися."
 CAN_PARADROP_TEMPLATE: "Дивізії з цим шаблоном §GМОЖУТЬ§! десантуватися."
 CAN_NOT_PARADROP_TEMPLATE: "Дивізії з цим шаблоном §RНЕ МОЖУТЬ§! десантуватися."
+ALLOW_AS_HQ_TEMPLATE: "Цей шаблон §GМОЖНА§! використовувати як шаблон штабу армії."
+NOT_ALLOW_AS_HQ_TEMPLATE: "Цей шаблон §RНЕ МОЖНА§! використовувати як шаблон штабу армії."
 BATALION_CAN_BE_PARCHUTED: "Цей батальйон §GМОЖЕ§! десантуватися."
 BATALION_CAN_NOT_BE_PARCHUTED: "Цей батальйон §RНЕ МОЖЕ§! десантуватися."
-ESTIMATED_NAVAL_POWER: "  Дружні кораблі з наказом вступати в бій: $US|0Y$\n  Ворожі кораблі з наказом вступати в бій: $THEM|Y$"
-ESTIMATED_NAVAL_POWER_SUPREMACY: "  Дружня перевага: $US|0Y$\n  Ворожа перевага: $THEM|Y$"
 NAV_AIR_SUPERIORITY: "  Наша перевага в повітрі збільшує наш вплив кількості кораблів на: $VALUE|%G=$"
 NAV_MINES_EFFECT_ON_US: "  Наше покриття мін збільшує наш вплив кількості кораблів на: $VALUE|%G=$"
 NAV_ENEMY_AIR_SUPERIORITY: "  Ворожа перевага в повітрі збільшує їхній вплив кількості кораблів на: $VALUE|%=R$"
 NAV_MINES_EFFECT_ON_ENEMY: "  Вороже покриття мін збільшує їхній вплив кількості кораблів на: $VALUE|%G=$"
-NAV_SUPREMACY_INTEL: "§RМи знаємо надто мало про цей регіон!§!"
-NAV_SUPREMACY_INTEL_SCALED: "§RПеревага на морі масштабується на $RATIO|%.0R$, тому що в нас є мало розвідданих.§!" # (&)
 INTEL_EFFICIENCY: "  Ефективність розвідданих: $VAL|%+$"
-NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH: " - $NAME|Y$ — У нас є $SUP|0%R$ переваги на морі, а потрібно $NEEDED|0%Y$\n"
-NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RНедостаня перевага на морі в регіонах:§!\n"
+NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH: " - $NAME|Y$ — У нас є £GFX_naval_dominance_texticon $SUP|0R$ з потрібних £GFX_naval_dominance_texticon $NEEDED|0Y$\n"
+NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RНедостатнє £GFX_naval_dominance_texticon §Yпанування на морі§! в регіонах:§!\n"
 NAVAL_INVASION_WE: "нашій"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL: "\n§RДержаві $WHO$ бракує достатніх розвідданих, щоби насмілитися провести вторгнення крізь регіони:§!"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT: "\n§Rпризначте більше флотів або авіакрил на завдання, або покрийте регіони радарами.§!\n"
-NAVAL_INVASION_CANT_TRANSFER: "\nПроведення морських вторгнень потребує панування на морі в зонах на його шляху. Його можна здобути з допомогою:\n - панування в небі\n - кораблів на завданнях"
+NAVAL_INVASION_CANT_TRANSFER: "\nПроведення морських вторгнень потребує £GFX_naval_dominance_texticon §Yпанування на морі§! в зонах на його шляху. Його можна здобути з допомогою:\n - кораблів на завданнях патрулювання/ударної сили"
 CLICK_TO_ASSIGN_COMMANDER: "§GКлацніть, щоби призначити цього командира.§!"
 #NAVAL_INVASION_NOT_REACHED_START:0 "§RSome divisions assigned to this invasion have not reached the start position yet.§!\n"
 #PARADROP_INVASION_CAN_NOT_TRANSFER:0 "§RTo perform a Paradrop operation we must have more than $RATIO|0%H$ Air Superiority in next strategic regions: $LIST$§!"
@@ -545,6 +622,8 @@ GOOD_ARMOR_ATTACK_DESC_ORG: "\nАтакуючи ворожу дивізію, я�
 DIVISION_SHATTERED: "Перехоплення!"
 OVERRUN_POPUP: "Перехоплення!"
 PREPERATION_BASE_DAILY_GAIN: "Базовий щоденний приріст: $VALUE|0%Y$"
+PREPARATION_BASE_DAILY_DECAY: "Базове щоденне спадання: $VALUE|0%Y$"
+PREPARATION_BASE_DAILY_DECAY_MANUAL_ORDER: "Базове щоденне спадання (ручний наказ частинам): $VALUE|0%Y$"
 PREPERATION_BASE_MAX: "Базовий максимум: $VALUE|0%Y$"
 PLAN_PREPERATION_BREAKDOWN: "$MAX_DESC$\n$SPEED_DESC$"
 CLICK_TO_ASSIGN: "Клац — признач."
@@ -556,6 +635,7 @@ ADD_MANEUVER_SKILL: "Додати навичку маневрування: $NUM|
 ADD_COORDINATION_SKILL: "Додати навичку координації: $NUM|+$"
 ADD_SKILL_LEVEL: "Додати рівень навичок: $NUM|+$"
 CHOOSE_INSIGNIA: "Обрати емблему"
+SELECT_COLOR: "Обрати колір на мапі"
 CLICK_TO_ASSIGN_TRAITS: "§HКлацніть§!, щоби призначити нову §Hрису§! цьому §Hкомандувачу§!."
 CLICK_TO_ASSIGN_TRAITS_DETAIL: "$LEADER|H$ має ще $NUM|H$ доступних комірок для рис."
 LEADER_GAIN_TRAIT_LEVEL: "Командувачу можна призначати нову рису кожний $NUM|.0H$ рівень.\n"
@@ -570,25 +650,33 @@ CLICK_TO_HIDE_ARMIES: "Клацніть, щоб §Hприховати§! арм�
 CLICK_TO_SHOW_ARMIES: "Клацніть, щоб §Hпоказати§! армії, які належать до цієї групи.\n"
 TOGGLE_ARMY_GROUP_VIEW_ARMIES_DIVISIONS: "Перемкнути перегляд армій/дивізій у цій групі армій."
 DIVISION_VIEW_SELECT_ARMY: "§GКлацніть§!, щоб обрати армію цієї дивізії."
+CAPTAIN_VIEW_SELECT_TASK_FORCE: "§GКлацніть§!, щоб обрати оперативну групу цього корабля."
 NEW_FLEET_NAME: "Новий флот"
 CREATE_FLEET_FROM_SELECTED_TASK_FORCES: "§GКлацніть§!, щоби створити новий флот із обраних оперативних груп."
 CANNOT_CREATE_FLEET_FROM_SELECTED_TASK_FORCES: "§RНе можна створити флот із поточним вибором§!"
-NUMBER_OF_ENEMY_SHIPS: "Припущена кількість ворожих кораблів у регіоні"
-NUMBER_OF_ALLY_SHIPS: "Кількість дружніх кораблів у регіоні"
-EFFECT_OF_OUR_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Вплив нашої переваги в повітрі на нашу перевагу на морі"
-EFFECT_OF_ENEMY_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Вплив ворожої переваги в повітрі на нашу пеевагу на морі"
-EFFECT_OF_OUR_MINES_ON_NAVAL_SUPREMACY: "Вплив наших мін на нашу перевагу на морі"
-EFFECT_OF_ENEMY_MINES_ON_NAVAL_SUPREMACY: "Вплив ворожих мін на їхню перевагу на морі"
-NO_NAVAL_SUPREMACY_INFO: "У цьому регіоні немає ні ворожих, ні дружніх кораблів"
-#damaged_heavy_guns:1 "Main Battery Turret Destroyed"
-#damaged_light_guns:1 "Main Battery Mount Disabled"
-#damaged_torpedoes:0 "Torpedo Tubes Disabled"
-#destroyed_ammo_storage:1 "Magazine Hit"
-#on_fire:1 "Heavy Fires"
-#broken_propeller:0 "Broken Propeller"
-#rudder_jammed:0 "Rudder Jammed"
-#ballast_tanks_inoperable:0 "Ballast Tanks Inoperable"
-#damaged_secondaries:0 "Secondaries Knocked Out"
+NUMBER_OF_ENEMY_SHIPS: "Припущене число ворожих кораблів у регіоні"
+NUMBER_OF_ALLY_SHIPS: "Число дружніх кораблів у регіоні"
+damaged_heavy_guns: "Башта головної батареї вийшла з ладу"
+damaged_light_guns: "Установка легкої батареї вийшла з ладу"
+damaged_torpedoes: "Торпедний апарат вийшов із ладу"
+destroyed_ammo_storage: "Пошкоджено боєзапас"
+on_fire: "Сильна пожежа"
+broken_propeller: "Поломка гвинта"
+rudder_jammed: "Заклинило стерно"
+ballast_tanks_inoperable: "Баластні цистерни вийшли з ладу"
+damaged_secondaries: "Допоміжні батареї вибиті"
+leaking_pressure_hull: "Герметичний корпус протікає"
+battery_leak: "Батарея протікає"
+jammed_torpedo: "Торпедний апарат заклинило"
+broken_diesel: "Дизельний двигун зламаний"
+broken_bilge_pump: "Трюмний насос зламаний"
+shortcircuited_radar_1: "Радар замкнуло"
+shortcircuited_radar_2: "$shortcircuited_radar_1$"
+shortcircuited_radar_3: "$shortcircuited_radar_1$"
+shortcircuited_radar_4: "$shortcircuited_radar_1$"
+leaking_fuel_tanks: "Паливні баки протікають"
+coolant_loss: "Втрата охолоджувача для реактора"
+fire_direction_breakdown: "Поломка приладу керування вогнем"
 CONFIRM_DISBAND_FLEET_TITLE: "Розформувати флот"
 CONFIRM_DISBAND_FLEET_DESC: "Ви справді хочете §YРОЗФОРМУВАТИ§! флот $NAME|H$?\n\nУсі оперативні групи будуть переміщені в резерв."
 division_list_army_column_button_tooltip: "§GКлацніть§!, щоби відсортувати дивізії за §Hармією§!.\n§GShift + клацніть§!, щоби відсортувати в зворотному порядку."
@@ -606,11 +694,16 @@ DIVISION_PLURAL: "дивізії"
 RAILWAY_GUN: "залізнична гармата"
 RAILWAY_GUN_PLURAL: "залізничні гармати"
 ARMY_COMPOSITION_HEADER: "§YСклад§!\n"
-#ARMY_COMPOSITION_SPECIAL_HEADER:0 "\nIt also gets bonuses based on this:\n"
+ARMY_COMPOSITION_SPECIAL_HEADER: "\nТакож отримує бонуси на основі цього:\n"
 #ARMY_COMPOSITION_DELAYED:0 "The composition controls which bonuses are applied from advisors and commanders. Battalions lacking equipment contribute less than those that are fully equipped."
 
+SUBUNIT_BONUS_HEADER: "$ICON$ $NAME|H$:"
+SUBUNIT_BONUS_CATEGORY_ADD: " - Батальйони $CATEGORY$:" # (&)
 SUBUNIT_CATEGORY_ADD: "§HМодифікатор батальйону: $CATEGORY$§!"
-SUBUNIT_CATEGORY_ADD_STAT: "$NAME$: $VALUE|+=$\n"
+SUBUNIT_CATEGORY_ADD_STAT: "- $NAME$: $VALUE|+=$\n"
+SUBUNIT_CATEGORY_NEG_ADD_STAT: "- $NAME$: $VALUE|-=$\n"
+SUBUNIT_CATEGORY_MULT_STAT: "- $NAME$: $VALUE|+=%$\n"
+SUBUNIT_CATEGORY_NEG_MULT_STAT: "- $NAME$: $VALUE|-=%$\n"
 SUBUNIT_CATEGORY_MULT_STAT: "$NAME$: $VALUE|+=%$\n"
 SUBUNIT_CATEGORY_ADD_STAT_VALUE: "$VALUE|+=$"
 SUBUNIT_CATEGORY_MULT_STAT_VALUE: "$VALUE|+=%$"
@@ -621,8 +714,12 @@ mountaineers_ski: "Лижні війська"
 category_mountaineers: "Уся гірська піхота"
 category_paratroopers: "Увесь повітряний десант"
 category_marines: "Уся морська піхота"
-rangers_support: "Рейнджери"
-rangers_support_desc:0 "Рейнджери — це елітні штурмові війська першої лінії, що спеціалізуються на проникненні та ближньому бою." #TODO CD
+category_rangers: "Усі рейнджери"
+category_marines_and_amphibious: "Усі морпіхи й амфібійні підрозділи"
+rangers_support: "Рейнджери-розвідники"
+rangers_support_desc:0 "Рейнджери-розвідники — це елітні штурмові війська, що спеціалізуються на інфільтрації, розвідці та ближньому бою." # (@!)
+ranger_battalion: "Рейнджери"
+ranger_battalion_desc:0 "Рейнджери — провідні спеціалісти, коли йдеться про ведення бойових дій в умовах густої та вкритої рослинністю місцевості." # (@!)
 pioneer_support: "Піонери" # (&)
 pioneer_support_desc:0 "Піонери — це талановиті інженери, які вміють зміцнювати плацдарми, реалізовувати загальні інженерні проєкти та закріплювати здобутки."
 category_amphibious_tanks: "Танки-амфібії"
@@ -630,6 +727,8 @@ SF_MARINES_exfiltration_effect_tt:0 "Морський десант має мож
 SF_marine_demoliton_effect_TT:0 "Підрозділи морської піхоти завдадуть §H1§! рівень шкоди всім стратегічним обласним будівлям після будь-якого успішного морського вторгнення."
 marines_commandoes_mechanised_non_mtg: "Спеціалізований вишкіл"
 marines_commandoes_mechanised_non_mtg_desc:0 "Давайте посилювати наші елітні кадри спецпризначенців, хоча і за рахунок їх більш широкого застосування."
+northern_territory_recon_support: "Northern Territory Reconnaissance Unit" # (!)
+northern_territory_recon_support_desc: "With local knowledge and bushcraft skills, the Northern Territory Reconnaissance Unit surveils even the most remote and inhospitable lands." # (!)
 winter_logistics_support: "Рота зимової логістики"
 winter_logistics_support_desc:0 "Забезпечення піхоти відповідним спорядженням для боротьби в зимових умовах."
 long_range_patrol_support: "Патрульна рота далекої дії"
@@ -644,6 +743,9 @@ category_tank_destroyers: "Винищувачі танків"
 category_self_propelled_artillery: "Самохідна артилерія"
 category_self_propelled_anti_air: "Самохідна зенітна артилерія"
 category_helicopter_support_companies: "Вертолітні роти підтримки"
+category_tank_destroyer_regimental_support: "Полкова підтримка винищувачів танків"
+category_self_propelled_anti_air_regimental_support: "Полкова підтримка зенітних СУ"
+category_regimental_support_artillery: "Піхотні гармати та ракетні батареї"
 jungle_pioneers_support: "Рота першопрохідців джунглів" # (&)
 
 ### ДОКТРИНИ ССО (Arms Against Tyranny) ###
@@ -670,49 +772,44 @@ jungle_pioneers_support: "Рота першопрохідців джунглів
  marines_expeditionary_support_desc:0 "Наразі неможливо переоцінити очевидну важливість співробітництва між відділами армії. Виділення логістики оперативних груп для наших операцій дійсно робить нас силою, з якою слід зважатися."
 
 ### 1.15 KAISER ###
- sturmtruppe_battalion: "Батальйон Stosstruppen" # (&?)
- sturmtruppe_battalion_desc: "Елітні піхотні підрозділи, підготовлені та оснащені для роботи в якості штурмових батальйонів у складі звичайних дивізій." # (&?)
+ sturmtruppe_battalion: "Батальйон Stosstruppen" # (@)
+ sturmtruppe_battalion_desc: "Елітні піхотні підрозділи, підготовлені та оснащені для роботи в якості штурмових батальйонів у складі звичайних дивізій." # (@)
 
- assault_engineer: "Штурмова інженерно-саперна рота" # (&?)
- assault_engineer_desc: "Спеціалізуючись на прориві укріплених позицій, штурмові інженери поєднують досвід вибухотехніків з броньованим захистом, забезпечуючи мобільність і захист навіть у найнесприятливіших умовах." # (&?)
- armored_engineer: "Бронетанкова інженерна рота" # (&?)
- armored_engineer_desc: "Універсальні транспортні засоби, призначені для будівництва укріплень, розчищення перешкод та підвищення мобільності на полі бою в бойових умовах." # (&?)
- armored_maintenance: "Бронетанкова ремонтна рота" # (&?)
- armored_maintenance_desc: "Спеціалізовані машини, призначені для евакуації та ремонту пошкоджених танків та інших броньованих одиниць безпосередньо на полі бою." # (&?)
- armored_signal: "Бронетанкова рота зв'язку" # (&?)
- armored_signal_desc: "Спеціалізовані транспортні засоби, що забезпечують керівництво та координацію на полі бою, оснащені сучасними системами зв'язку для управління операціями з лінії фронту." # (&?)
- motorized_military_police: "Моторизована військова поліція" # (&?)
- motorized_military_police_desc: "Підтримка порядку та придушення опору на окупованих територіях, а також ведення розвідки в зонах активних бойових дій." # (&?)
- helicopter_recon: "Вертолітна розвідка" # (&?)
- helicopter_recon_desc: "Спеціально підготовлені об'єктиви, встановлені на вертольотах, здатні швидко розвідувати місцевість незалежно від рельєфу і завдавати точних ударів там, де це необхідно." # (&?)
- helicopter_transport: "Вертолітні перевезення" # (&?)
- helicopter_transport_desc: "Вертольоти з модифікаціями місткості або підйом вантажу на тросі, що дозволяє швидко доставити обладнання туди, де воно потрібне, незалежно від рельєфу місцевості." # (&?)
- helicopter_field_hospital: "Вертоліт Мед-Евакуації" # (&?)
- helicopter_field_hospital_desc: "До уваги особового складу! Прибувають вертольоти з пораненими! Гелікоптери Мед-Евакуації здатні вивезти поранених з поля бою набагато швидше, ніж звичайна карета швидкої допомоги." # (&?)
- helicopter_brigade: "Вертолітна бригада" # (&?)
- helicopter_brigade_desc: "Вертолітна бригада підтримки загального призначення, здатна надавати гнучку мобільну допомогу в різних сферах." # (&?)
+ assault_engineer: "Штурмова інженерно-саперна рота" # (@)
+ assault_engineer_desc: "Спеціалізуючись на прориві укріплених позицій, штурмові інженери поєднують досвід вибухотехніків з броньованим захистом, забезпечуючи мобільність і захист навіть у найнесприятливіших умовах." # (@)
+ armored_engineer: "Бронетанкова інженерна рота" # (@)
+ armored_engineer_desc: "Універсальні транспортні засоби, призначені для будівництва укріплень, розчищення перешкод та підвищення мобільності на полі бою в бойових умовах." # (@)
+ armored_maintenance: "Бронетанкова ремонтна рота" # (@)
+ armored_maintenance_desc: "Спеціалізовані машини, призначені для евакуації та ремонту пошкоджених танків та інших броньованих одиниць безпосередньо на полі бою." # (@)
+ armored_signal: "Бронетанкова рота зв'язку" # (@)
+ armored_signal_desc: "Спеціалізовані транспортні засоби, що забезпечують керівництво та координацію на полі бою, оснащені сучасними системами зв'язку для управління операціями з лінії фронту." # (@)
+ motorized_military_police: "Моторизована військова поліція" # (@)
+ motorized_military_police_desc: "Підтримка порядку та придушення опору на окупованих територіях, а також ведення розвідки в зонах активних бойових дій." # (@)
+ helicopter_recon: "Вертолітна розвідка" # (@)
+ helicopter_recon_desc: "Спеціально підготовлені об'єктиви, встановлені на вертольотах, здатні швидко розвідувати місцевість незалежно від рельєфу і завдавати точних ударів там, де це необхідно." # (@)
+ helicopter_transport: "Вертолітні перевезення" # (@)
+ helicopter_transport_desc: "Вертольоти з модифікаціями місткості або підйом вантажу на тросі, що дозволяє швидко доставити обладнання туди, де воно потрібне, незалежно від рельєфу місцевості." # (@)
+ helicopter_field_hospital: "Вертоліт Мед-Евакуації" # (@)
+ helicopter_field_hospital_desc: "До уваги особового складу! Прибувають вертольоти з пораненими! Гелікоптери Мед-Евакуації здатні вивезти поранених з поля бою набагато швидше, ніж звичайна карета швидкої допомоги." # (@)
+ helicopter_brigade: "Вертолітна бригада" # (@)
+ helicopter_brigade_desc: "Вертолітна бригада підтримки загального призначення, здатна надавати гнучку мобільну допомогу в різних сферах." # (@)
 
  super_heavy_artillery: "Надважка артилерія"
- super_heavy_artillery_desc: "Спеціалізований підрозділ, оснащений великокаліберними гаубицями, призначений для руйнування ворожих укріплень та траншейних позицій." # (&?)
+ super_heavy_artillery_desc: "Спеціалізований підрозділ, оснащений великокаліберними гаубицями, призначений для руйнування ворожих укріплень та траншейних позицій." # (@)
  self_propelled_super_heavy_artillery: "Самохідна надважка артилерія"
- self_propelled_super_heavy_artillery_desc: "Великокаліберні гаубиці, встановлені на мобільних шасі, поєднують в собі нищівну вогневу міць та покращену мобільність, щоб знищити оборону супротивника." # (&?)
+ self_propelled_super_heavy_artillery_desc: "Великокаліберні гаубиці, встановлені на мобільних шасі, поєднують в собі нищівну вогневу міць та покращену мобільність, щоб знищити оборону супротивника." # (@)
  super_heavy_railway_gun: "$super_heavy_railway_gun_equipment$"
  super_heavy_railway_gun_desc: "$super_heavy_railway_gun_equipment_desc$"
  land_cruiser: "Сухопутний крейсер"
- land_cruiser_desc: "Колосальна військова машина, оснащена озброєнням рівня лінкора і найважчою бронею, але надзвичайно повільна і затратна в ресурсах." # (&?)
+ land_cruiser_desc: "Колосальна військова машина, оснащена озброєнням рівня лінкора і найважчою бронею, але надзвичайно повільна і затратна в ресурсах." # (@)
 
  strat_bomber_intercontinental: "Міжконтинентальний бомбардувальник"
 
 ### 1.16 COUNTENANCE ###
  elephantry: "Елефантерія"
- elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супротив піхоти."
+ elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супроти піхоти."
 
-
-NO_MOVE_IS_IN_HOME_REPAIRING:0 "Флот $FLEET|H$ зараз знаходиться на ремонті в районі $TARGET|H$."
-NO_MOVE_HEADING_HOME_TO_REPAIR:0 "Флот $FLEET|H$ прямує до району $TARGET|H$ для ремонту."
-NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0 "Після цього він продовжить виконання останнього завдання ($MIS|H$).\n"
-NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN:0 "Після цього він знову об'єднається з флотом $FLEET|H$.\n"
-NO_MOVE_HEADING_HOME_TO_REPAIR_STAY:0 "Після цього він залишиться на базі.\n"
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 NAVY_REPAIR_REJOIN_DESC:0 "Возз'єднання з флотом $FLEET|H$ після закінчення ремонту."
 NAVY_DETACHED_PARENT_STATUS:0 "Наша оперативна група, від якої ми відокремилися."
 NAVY_DETACHED_CHILD_STATUS:0 "Відокремився від нас: $STATUS|H$"
@@ -721,20 +818,11 @@ NAVY_MERGE_PARENT_STATUS:2 "Ми рухаємося до цієї операти
 NAVY_ACTIVITY_MOVING_TO_REFIT_DESC:0 "Флот $FLEET|H$ прямує на базу $TARGET|H$ для переозброєння."
 NAVY_ACTIVITY_REFITTING_DESC:0 "Флот $FLEET|H$ проходить переозброєння на базі $TARGET|H$."
 NAVY_ACTIVITY_REINFORCING_DESC:0 "Флот $FLEET|H$ прямує до флоту $TARGET|H$, щоби поповнити його."
-NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REFIT:0 "Відправляється на переозброєння."
-NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REPAIR:0 "Відправляється на ремонт."
-NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_ONE_SHIP:0 "Переозброєння: $PROGRESS|%1G$."
-NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_MANY_SHIPS:0 "Кораблів на переозброєнні: §G$NUM$/$MAX$§!."
-NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP:0 "Ремонт: $PROGRESS|%1G$."
-NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_MANY_SHIPS:0 "Кораблів на ремонті: §G$NUM$/$MAX$§!."
-NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING:0 "Поповнює: $PARENT|H$."
 NO_MOVE_DISEMBARKING:0 "Неможливо рухатися під час розвантаження."
 NO_MOVE_RETREAT:0 "Ми не можемо наказувати рухатися під час відступу."
-heavy_tank_destroyer_brigade_desc:0 "Важка протитанкова установка не має вежі, зате несе важку зброю, закріплену в корпусі."
-super_heavy_tank_destroyer_brigade_desc:0 "Шасі надважкого танка з великокаліберним знаряддям, закріпленим у корпусі замість вежі."
+heavy_tank_destroyer_brigade_desc:0 "Важка протитанкова установка не має башту, зате несе важку зброю, закріплену в корпусі."
+super_heavy_tank_destroyer_brigade_desc:0 "Шасі надважкого танка з великокаліберним знаряддям, закріпленим у корпусі замість башти."
 modern_tank_destroyer_brigade_desc:0 "Шасі сучасного танка, оснащене більш важким знаряддям замість башти, що повертається."
-motorized_desc:0 "Піхота, оснащена засобами транспортування, як-от вантажівки та мотоцикли."
-mechanized_desc:0 "Піхота, оснащена легкоброньованими засобами транспортування."
 modern_armor_desc:0 "Сучасні танки здатні впоратися з будь-яким завданням на полі бою. Потужна зброя та похила броня усунули необхідність спеціалізованих видів танків."
 paratrooper_desc:0 "Використовуючи повітрянодесантні війська, ми можемо вторгатися в раніше недоступні райони і розміщувати там ключові сили, що відкриває нові тактичні можливості."
 marine_desc:0 "Війська, що спеціалізуються на морських десантних операціях, стають все більш незамінними. Імпровізовані тактичні прийоми та спорядження йдуть у минуле — наша морська піхота тепер проходить спеціальну підготовку і оснащена спеціальними десантними кораблями."
@@ -759,25 +847,14 @@ TRANSPORT_ACTIVE_CANT_MOVE:0 "Не можна переміщувати війс�
 TRANSPORT_NOT_DURING_COMBAT:0 "Неможливо перенаправити конвой, який перебуває в бою."
 NO_COUNTER_ATTACK_IN_COMBAT:0 "§RНеможливо контратакувати військову частину, якщо ви вже обороняєтеся проти неї§!"
 NAVAL_TRANSPORT_INTERCEPT_WARNING:1 "§RМи знаходимося у стані війни, і є ризик, що ворог потопить наші транспорти з військами. Щоб цього не сталося, кораблям, що знаходяться в цьому районі, необхідно дати завдання з супроводу.§!\nВірогідність виявлення та перехоплення транспортів на цей маршрут становить $ATTR|%R0$."
-NAVAL_TRANSPORT_MOVE_DESC:0 "§GКлацніть правою кнопкою§! на §Yморській іконці§!, щоби відправити §Yтранспорти§! з військовими частинами до цієї §Yморської бази§!. Транспортам необхідні конвої в кількості $CONVOYS|Y$."
-NAVAL_TRANSPORT_MOVE_DESC_ICON:0 "§GКлацніть правою кнопкою§!, щоби відправити §Yтранспорти§! з військовими частинами до цієї §Yморської бази§!. Транспортам необхідні конвої в кількості $CONVOYS|Y$."
+NAVAL_TRANSPORT_MOVE_DESC:0 "§GКлацніть ПКМ§! на §Yморській іконці§!, щоби відправити §Yтранспорти§! з військовими частинами до цієї §Yморської бази§!. Транспортам необхідні конвої в кількості $CONVOYS|Y$."
+NAVAL_TRANSPORT_MOVE_DESC_ICON:0 "§GКлацніть ПКМ§!, щоби відправити §Yтранспорти§! з військовими частинами до цієї §Yморської бази§!. Транспортам необхідні конвої в кількості $CONVOYS|Y$."
 NAVAL_TRANSPORT_MOVE_DISALLOWED_DESC:0 "$UNIT_TYPE_PLURAL|U$ не може використовувати морський транспорт."
 NAVAL_INVASION_BLOCKED_STRAIT:0 "§RЧерез те, що $RULES|H$ між провінціями $FIRST|H$ і $SECOND|H$ блоковано, наші війська не можуть вторгнутися.§!"
 NAVAL_INVASION_OVER_CAP:1 "§RДосягнуто межу місткості морського вторгнення:§!\nВикористововано у вторгненнях: $USED|Y$\nЗагальна межа: $MAX|Y$\nВибрано дивізій $SELECTION|R$.\nДослідіть більше £tech_mod транспортних технологій, підвищити місткість морського вторгнення."
-MODIFIER_NAVAL_INVASION_CAPACITY_DESC:0 "Загальна кількість дивізій, які можна прикріпити до наказу про морське вторгнення."
 motorized_rocket_brigade_desc:0 "Реактивна артилерія дозволяє використовувати більші установки з безліччю ракет, які можуть швидко змінити дислокацію після удару."
 NAVAL_INVASION_NOT_REACHED_START:0 "§RДеякі дивізії, що беруть участь у цьому вторгненні, ще не прибули до стартової точки.§!\n"
-PARADROP_INVASION_CAN_NOT_TRANSFER:0 "§RЩоб провести десантну операцію, нам необхідно більш ніж $RATIO|0%H$ переваги в повітрі в ось цих стратегічних регіонах: $LIST$§!"
+PARADROP_INVASION_CAN_NOT_TRANSFER:0 "§RЩоби провести десантну операцію, нам необхідно більш ніж $RATIO|0%H$ переваги в повітрі в ось цих стратегічних регіонах: $LIST$§!"
 TEMPLATE_DURING_REORGANIZATION:0 "Дивізія зараз переходить на новий або змінений шаблон. Вона буде використовувати параметри старого шаблону, доки не накопичить достатню кількість техніки для нового.\n"
 PIERCING_GOOD_DESC:0 "Дивізія не отримає додаткових бонусів через можливість пробити броню ворожої дивізії, але й ворог не отримає бонусів через броню."
-damaged_heavy_guns:1 "Вежа головного калібру знищена"
-damaged_light_guns:1 "Кулеметна установка пошкоджена"
-damaged_torpedoes:0 "Торпедні апарати пошкоджені"
-destroyed_ammo_storage:1 "Потрапити в боєзапас"
-on_fire:1 "Сильна пожежа"
-broken_propeller:0 "Поломка гвинта"
-rudder_jammed:0 "Заклинило кермо"
-ballast_tanks_inoperable:0 "Баластні цистерни виведені з ладу"
-damaged_secondaries:0 "Допоміжні знаряддя пошкоджені"
-ARMY_COMPOSITION_SPECIAL_HEADER:0 "\nТакож отримує бонуси, основа:\n"
-ARMY_COMPOSITION_DELAYED:0 "Від складу дивізії залежать бонуси радників і командирів, що застосовуються. Батальйони з недостатнім спорядженням менше поповнюють значення, ніж повністю укомплектовані батальйони."
+ARMY_COMPOSITION_DELAYED:0 "Від складу дивізії залежать бонуси радників і командирів, що застосовуються. Батальйони з недостатнім спорядженням докладаються менше, ніж повністю укомплектовані батальйони."

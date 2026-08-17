@@ -514,11 +514,11 @@
  modifier_army_sub_unit_long_range_patrol_support_defence_factor: "Захист далеких партулів"
  modifier_army_sub_unit_category_special_forces_max_org_factor: "Організація спецпризначенців"
 
- modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Cav/Mot/Mech Organisation" # (!)
+ modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Кав./Мот./Mех. Організація" # (!)
 
- modifier_army_sub_unit_artillery_brigade_attack_factor: "$artillery_brigade$ Attack" # (!)
- modifier_army_sub_unit_artillery_brigade_defence_factor: "$artillery_brigade$ Defence" # (!)
- modifier_army_sub_unit_artillery_brigade_max_org_factor: "$artillery_brigade$ Organisation" # (!)
+ modifier_army_sub_unit_artillery_brigade_attack_factor: "$artillery_brigade$ Атака" # (!)
+ modifier_army_sub_unit_artillery_brigade_defence_factor: "$artillery_brigade$ Захист" # (!)
+ modifier_army_sub_unit_artillery_brigade_max_org_factor: "$artillery_brigade$ Організація" # (!)
  modifier_army_sub_unit_artillery_brigade_speed_factor: "$artillery_brigade$ Speed" # (!)
 
  modifier_unit_militia_design_cost_factor: "$militia$ Unit Design Cost" # (!)

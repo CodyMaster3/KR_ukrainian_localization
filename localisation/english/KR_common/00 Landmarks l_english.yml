@@ -1,117 +1,117 @@
 ﻿l_english:
 ## Europe
  # Denmark
- landmark_christiansborg_palace: "The Christiansborg Palace"
+landmark_christiansborg_palace: "Палац Крістіансборґ"
  landmark_christiansborg_palace_plural: "$landmark_christiansborg_palace$"
- landmark_christiansborg_palace_desc: "§LChristiansborg Palace is a monumental neobaroque palace standing on the islet of Slotsholmen at the heart of Copenhagen. Rebuilt after the great fire of 1884 and completed only recently, the palace now serves as the seat of the Danish state, housing the Folketing, the Supreme Court, and the offices of the Prime Minister. Long a symbol of royal authority and governance in Denmark, Christiansborg embodies the continuity of the Danish monarchy and constitutional tradition.§!"
+ landmark_christiansborg_palace_desc: "§LПалац Крістіансборґ — це монументальний необароковий палац на острівці Слотсгольмен у самому серці Копенгагена. Відбудований після великої пожежі 1884 року й завершений лише нещодавно, палац нині слугує осідком данської держави: тут розміщуються Фолькетинг, Верховний суд та офіси прем'єр-міністра. Будучи давнім символом королівської влади й урядування в Данії, Крістіансборґ уособлює тяглість данської монархії та конституційних традицій.§!"
 
  # France
- landmark_arc_de_triomphe: "The Arc de Triomphe"
+ landmark_arc_de_triomphe: "Тріумфальна арка"
  landmark_arc_de_triomphe_plural: "$landmark_arc_de_triomphe$"
- landmark_arc_de_triomphe_desc: "§LThe Arc de Triomphe is a grand triumphal monument dominating the western end of the Champs-Élysées in Paris. Commissioned by Napoleon to honour the victories and soldiers of France, it stands as a testament to the nation's military glory and sacrifice. Beneath its vault rests the Tomb of the Unknown Soldier, a solemn reminder of the Great War and its lasting mark upon the French Republic. The Arc de Triomphe endures as a powerful symbol of French unity and national pride.§!"
+ landmark_arc_de_triomphe_desc: "§LТріумфальна арка — це величний тріумфальний монумент, що височіє на західному кінці Єлисейських Полів у Парижі. Зведена за наказом Наполеона для вшанування перемог і воїнів Франції, вона є свідченням військової слави та самопожертви нації. Під її склепінням спочиває Могила невідомого солдата — урочисте нагадування про Велику війну та її незгладимий слід в історії Французької Республіки. Тріумфальна арка залишається могутнім символом французької єдності та національної гордості.§!"
 
- landmark_notre_dame: "Notre-Dame de Paris"
+ landmark_notre_dame: "Собор Паризької Богоматері"
  landmark_notre_dame_plural: "$landmark_notre_dame$"
- landmark_notre_dame_desc: "§LNotre-Dame de Paris is a Gothic cathedral rising from the Île de la Cité at the historic heart of Paris. Constructed over centuries, it has borne witness to coronations, revolutions, and the spiritual life of France. Renowned for its soaring towers, vast rose windows, and resonant bells, the cathedral endures through the turmoils of the past decades as a witness to France's faith and history.§!"
+ landmark_notre_dame_desc: "§LСобор Паризької Богоматері — готичний собор, що височіє на острові Сіте в історичному серці Парижа. Споруджуваний упродовж століть, він був свідком коронацій, революцій та духовного життя Франції. Відомий своїми високими вежами, велетенськими вікнами-розами й дзвінкими дзвонами, собор пройшов крізь буремні десятиліття як свідок віри та історії Франції.§!"
 
  # Germany
- landmark_brandenburg_gate: "Brandenburg Gate"
+ landmark_brandenburg_gate: "Бранденбурзькі ворота"
  landmark_brandenburg_gate_plural: "$landmark_brandenburg_gate$"
- landmark_brandenburg_gate_desc: "§LThe Brandenburg Gate is a grand neoclassical monument standing at the heart of Berlin. Erected in the late eighteenth century as a symbol of peace, it has since become the foremost emblem of the Prussian and German state. Beneath the reign of the Kaiser, the Gate overlooks parades, ceremonies, and civic life in the capital of a modern Germany, embodying both imperial tradition and the unity of the German nation.§!"
+ landmark_brandenburg_gate_desc: "§LБранденбурзькі ворота — велична неокласична пам'ятка в самому серці Берліна. Зведені наприкінці XVIII століття як символ миру, вони згодом стали головною емблемою прусської та німецької держави. За правління кайзера ворота споглядають паради, урочистості та суспільне життя в столиці сучасної Німеччини, втілюючи як імперські традиції, так і єдність німецької нації.§!"
 
- landmark_cologne_cathedral: "The Cologne Cathedral"
+ landmark_cologne_cathedral: "Кельнський собор"
  landmark_cologne_cathedral_plural: "$landmark_cologne_cathedral$"
- landmark_cologne_cathedral_desc: "§LCologne Cathedral is a towering Gothic masterpiece dominating the skyline of the Rhine city of Cologne. Begun in the Middle Ages and completed in the nineteenth century, its twin spires and vast interior reflect centuries of German craftsmanship and devotion. Long a place of pilgrimage and national pride, the cathedral stands as a symbol of faith, perseverance, and the enduring cultural heritage of Germany.§!"
+ landmark_cologne_cathedral_desc: "§LКельнський собор — величний готичний шедевр, що височіє над прирейнським містом Кельн. Закладений у добу Середньовіччя й завершений у XIX столітті, він своїми двома шпилями та неосяжним простором інтер'єру відображає століття німецької майстерності та побожності. Давнє місце паломництва й національної гордості, собор слугує символом віри, наполегливості та незгасної культурної спадщини Німеччини.§!"
 
  # Italy
- landmark_leaning_tower_of_pisa: "The Leaning Tower of Pisa"
+ landmark_leaning_tower_of_pisa: "Пізанська вежа"
  landmark_leaning_tower_of_pisa_plural: "$landmark_leaning_tower_of_pisa$"
- landmark_leaning_tower_of_pisa_desc: "§LThe Leaning Tower of Pisa is a distinctive Romanesque bell tower rising above the Piazza dei Miracoli. Constructed during the Middle Ages, its unintended tilt has made it one of the most recognisable landmarks in Italy. Standing beside the cathedral it was built to serve, the tower stands as a testament of Italian ingenuity, persistence, and the enduring legacy of the peninsula's historic city-states.§!"
+ landmark_leaning_tower_of_pisa_desc: "§LПізанська вежа — своєрідна романська дзвіниця, що височіє над П'яцца-дей-Міраколі. Зведена в епоху Середньовіччя, вона через свій ненавмисний нахил стала однією з найупізнаваніших пам'яток Італії. Стоячи поруч із собором, для якого її й будували, вежа є свідченням італійської винахідливості, наполегливості та неперехідної спадщини історичних міст-держав півострова.§!"
 
  # Russia
- landmark_saint_basils_cathedral: "Saint Basil's Cathedral"
+ landmark_saint_basils_cathedral: "Храм Василія Блаженного"
  landmark_saint_basils_cathedral_plural: "$landmark_saint_basils_cathedral$"
- landmark_saint_basils_cathedral_desc: "§LSaint Basil's Cathedral rises on Red Square in Moscow, its vivid onion domes and patterned brickwork forming a commanding presence beside the Kremlin. Once commissioned by Ivan IV to mark the conquest of Kazan, it now endures under the watchful authority of the Russian state, a relic of Tsarist power that continues to witness the lives of the city's citizens. Within its chapels, the echoes of centuries of worship endure, marking the building as a testament to Russia's history and spiritual tradition.§!"
+ landmark_saint_basils_cathedral_desc: "§LХрам Василія Блаженного височіє на Красній площі в Москві, вирізняючись яскравими банями-цибулинами та візерунковою цегляною кладкою поруч із Кремлем. Зведений за наказом Івана IV на честь підкорення Казані, нині він височіє під пильним оком російської влади як реліквія царських часів, що продовжує свідчити життя містян. У його приділах і досі лунають відлуння століть богослужінь, роблячи цю будівлю свідченням російської історії та духовної традиції.§!"
 
- landmark_winter_palace: "The Winter Palace"
+ landmark_winter_palace: "Зимовий палац"
  landmark_winter_palace_plural: "$landmark_winter_palace$"
- landmark_winter_palace_desc: "§LThe Winter Palace is a magnificent rococo palace which used to serve as the official residence of the House Romanov until 1917. At the heart of Petrograd, the palace witnessed many key events of Russian revolutions. One part of the palace is housing the Hermitage Museum while the rest is a sprawling administrative complex. The Winter Palace remains a symbol of pride for all Russia.§!"
+ landmark_winter_palace_desc: "§LЗимовий палац — величний рококовий палац, що до 1917 року слугував офіційною резиденцією дому Романових. У самому серці Петрограда палац став свідком багатьох ключових подій російських революцій. В одній його частині розміщено музей Ермітаж, тоді як решта є розлогим адміністративним комплексом. Зимовий палац залишається символом гордості для всієї Росії.§!"
 
- landmark_vozhd_liberator: "Vozhd the Liberator"
+ landmark_vozhd_liberator: "Вождь-визволитель"
  landmark_vozhd_liberator_plural: "$landmark_vozhd_liberator$"
- landmark_vozhd_liberator_desc: "§LVozhd the Liberator stands on the bank of Kharkov river, and is a 22-metre tall bronze depiction of Boris Savinkov, seated on 29-meter tall neoclassical pedestal. The Vozhd, wearing a long overcoat and looking sternly to the West, stands as a heroic figure over his home city. Inside the pedestal, an eternal fire burns for the unknown soldiers who gave their lives in the Great Patriotic War.§!"
+ landmark_vozhd_liberator_desc: "§LМонумент «Вождь-визволитель» височіє на березі річки Харків і є 22-метровою бронзовою постаттю Бориса Савінкова на 29-метровому неокласичному постаменті. Вождь у довгому пальті суворо дивиться на захід, постаючи героїчною постаттю над рідним містом. Усередині постаменту палає вічний вогонь на честь невідомих солдатів, які віддали життя у Великій Вітчизняній війні.§!"
 
 ## Americas
  # United States
- landmark_white_house: "The White House"
+ landmark_white_house: "Білий дім"
  landmark_white_house_plural: "$landmark_white_house$"
- landmark_white_house_desc: "§LThe White House is a neoclassical mansion standing at the centre of Washington, D.C., serving as the residence and office of the President of the United States. Constructed in the late eighteenth century, it has witnessed the formation of the nation, political crises, and the administrations of successive presidents. Noted for its porticoes, state rooms, and enduring façade, the White House remains the foremost seat of American executive power and a marker of national continuity.§!"
+ landmark_white_house_desc: "§LБілий дім — це неокласичний маєток у центрі Вашингтона, округ Колумбія, що слугує резиденцією та робочим місцем президента Сполучених Штатів. Зведений наприкінці XVIII століття, він став свідком становлення нації, політичних криз та правління багатьох президентів. Відомий своїми портиками, парадними залами та незмінним фасадом, Білий дім залишається головним осідком американської виконавчої влади й символом національної спадкоємності.§!"
 
- landmark_capitol: "The Capitol"
+ landmark_capitol: "Капітолій"
  landmark_capitol_plural: "$landmark_capitol$"
- landmark_capitol_desc: "§LThe United States Capitol rises prominently on Capitol Hill in Washington, D.C., as the seat of the nation's Congress. Begun in the late eighteenth century and completed through successive expansions, it has been the stage for legislative debate and political change. Its dome, chambers, and grand staircases mark it as the centre of the United States' political life and constitutional order.§!"
+ landmark_capitol_desc: "§LКапітолій Сполучених Штатів велично височіє на Капітолійському пагорбі у Вашингтоні, округ Колумбія, слугуючи місцем засідань Конгресу країни. Закладений наприкінці XVIII століття й розширений у наступні епохи, він став ареною законодавчих дебатів та політичних зрушень. Його купол, сесійні зали та величні сходи роблять його осередком політичного життя й конституційного ладу Сполучених Штатів.§!"
 
- landmark_washington_monument: "The Washington Monument"
+ landmark_washington_monument: "Монумент Вашингтона"
  landmark_washington_monument_plural: "$landmark_washington_monument$"
- landmark_washington_monument_desc: "§LThe Washington Monument is a towering obelisk on the National Mall in Washington, D.C., erected in honour of George Washington, the nation's first president. Completed in 1888 after decades of interrupted construction, it has witnessed the growth of the capital and the civic life of the republic. Its stark height and commanding presence mark it as a lasting memorial to American leadership and national memory.§!"
+ landmark_washington_monument_desc: "§LМонумент Вашингтона — це височезний обеліск на Національній алеї у Вашингтоні, округ Колумбія, споруджений на честь Джорджа Вашингтона, першого президента країни. Завершений у 1888 році після десятиліть вимушених перерв у будівництві, він споглядав зростання столиці та громадянське життя республіки. Його вражаюча висота та величний вигляд роблять обеліск вічним меморіалом американського лідерства та національної пам'яті.§!"
 
- landmark_pentagon: "The Pentagon"
+ landmark_pentagon: "Пентагон"
  landmark_pentagon_plural: "$landmark_pentagon$"
- landmark_pentagon_desc: "§LThe Pentagon is a vast five-sided headquarters for the United States War Department on the outskirts of Washington, D.C. Designed to centralise military administration and consolidate the nation's defence operations, the structure embodies modern engineering and the organisational strength of the American armed forces. It stands as a testament to the country's preparedness and national resolve.§!"
+ landmark_pentagon_desc: "§LПентагон — це велетенська п'ятикутна штаб-квартира Військового міністерства США на околиці Вашингтона, округ Колумбія. Спроєктована для централізації військового управління та об'єднання оборонних операцій нації, споруда втілює сучасну інженерну думку й організаційну міць американських збройних сил. Вона слугує свідченням оборонної готовності країни та її національної рішучості.§!"
 
- landmark_empire_state_building: "The Empire State Building"
+ landmark_empire_state_building: "Емпайр-Стейт-Білдінг"
  landmark_empire_state_building_plural: "$landmark_empire_state_building$"
- landmark_empire_state_building_desc: "§LThe Empire State Building rises above Manhattan as a towering symbol of New York City's ambition. Completed in 1931, it stands as the tallest man-made structure in the world. Its Art Deco façade and spire now define the city's skyline, standing as a monument to American industry, enterprise, and the rapid growth of the modern metropolis.§!"
+ landmark_empire_state_building_desc: "§LЕмпайр-Стейт-Білдінг височіє над Мангеттеном як величний символ амбіцій Нью-Йорка. Завершений у 1931 році, він є найвищою рукотворною спорудою у світі. Його фасад у стилі ар-деко та шпиль нині визначають краєвид міста, постаючи монументом американської промисловості, підприємництва та стрімкого зростання сучасного мегаполіса.§!"
 
- landmark_boulder_dam: "Boulder Dam"
+ landmark_boulder_dam: "Гребля Боулдер"
  landmark_boulder_dam_plural: "$landmark_boulder_dam$"
- landmark_boulder_dam_desc: "§LBoulder Dam spans the Colorado River on the border of Arizona and Nevada, an immense concrete structure completed in the early 1930s. Built to control flooding, provide irrigation, and generate electric power, it has transformed the surrounding region. Its scale and engineering have reshaped the surrounding region, demonstrating the nation's industrial capacity and its ability to command the natural environment.§!"
+ landmark_boulder_dam_desc: "§LГребля Боулдер перекриває річку Колорадо на межі штатів Аризона та Невада, будучи колосальною бетонною спорудою, завершеною на початку 1930-х років. Зведена для стримування повеней, забезпечення зрошення та виробництва електроенергії, вона змінила прилеглий край. Її масштаби та інженерна досконалість перетворили навколишній регіон, продемонструвавши промисловий потенціал нації та її здатність приборкувати природне середовище.§!"
 
- landmark_golden_gate_bridge: "Golden Gate Bridge"
+ landmark_golden_gate_bridge: "Міст «Золота Брама»"
  landmark_golden_gate_bridge_plural: "$landmark_golden_gate_bridge$"
- landmark_golden_gate_bridge_desc: "§LThe Golden Gate Bridge spans the entrance to San Francisco Bay, a bold suspension bridge that connects the city with Marin County. Its towers and sweeping cables create one of the world's longest and most striking crossings. The bridge stands as a testament to American engineering, ambition, and the mastery of modern infrastructure.§!"
+ landmark_golden_gate_bridge_desc: "§LМіст «Золота Брама» пролягає над входом до затоки Сан-Франциско — сміливий висячий міст, що сполучає місто з округом Марін. Його пілони та вигнуті троси утворюють одну з найдовших і найдивовижніших переправ у світі. Міст є свідченням американської інженерної майстерності, амбіцій та досконалості сучасної інфраструктури.§!"
 
- landmark_hollywood_sign: "Hollywoodland Sign"
+ landmark_hollywood_sign: "Знак Голлівудленду"
  landmark_hollywood_sign_plural: "$landmark_hollywood_sign$"
- landmark_hollywood_sign_desc: "§LThe Hollywoodland sign rises on the hills above Los Angeles, its large white letters advertising a residential development and marking the growing district. Erected in 1923, it has become a prominent feature of the city's landscape. Visible across the surrounding area, the sign has come to be closely associated with the motion picture industry and the rapid expansion of Los Angeles.§!"
+ landmark_hollywood_sign_desc: "§LЗнак Голлівудленду височіє на пагорбах над Лос-Анджелесом, а його великі білі літери рекламують житлову забудову та позначають новий район, що розвивається. Встановлений у 1923 році, він став помітною рисою міського краєвиду. Видимий звідусіль навколо, знак став тісно асоціюватися з кіноіндустрією та стрімким розростанням Лос-Анджелеса.§!"
 
  # Mexico
- landmark_chichen_itza: "Chichen Itza"
+ landmark_chichen_itza: "Чичен-Іца"
  landmark_chichen_itza_plural: "$landmark_chichen_itza$"
- landmark_chichen_itza_desc: "§LChichen Itza rises on the Yucatán Peninsula as the remains of a great Maya city, its pyramids, temples, and ball courts reflecting centuries of pre-Columbian civilisation. In recent years, American archaeologists and scholars have undertaken extensive studies and preservation efforts, bringing the site to wider attention. The ruins attest both to the ingenuity of the Maya civilisation and to the expanding role of the United States in the study and preservation of the ancient Americas.§!"
+ landmark_chichen_itza_desc: "§LЧичен-Іца височіє на півострові Юкатан як руїни величного міста мая; його піраміди, храми та майданчики для гри в м'яч відображають століття доколумбової цивілізації. Останніми роками американські археологи та науковці доклали значних зусиль для досліджень і збереження пам'ятки, привернувши до неї широку увагу. Ці руїни свідчать як про винахідливість цивілізації мая, так і про дедалі вагомішу роль Сполучених Штатів у вивченні та збереженні спадщини стародавньої Америки.§!"
 
  # Chile
- landmark_moai: "Mo'ai"
+ landmark_moai: "Моаї"
  landmark_moai_plural: "$landmark_moai$"
- landmark_moai_desc: "§LThe mo'ai statues of Easter Island rise along the shores and ridges of the island, their massive stone forms crafted by the Rapa Nui people centuries ago. Under Chilean administration since the late nineteenth century, the statues have drawn the attention of scholars and visitors alike. They remain as silent witnesses to the ingenuity and culture of the island's original inhabitants, marking a remote corner of the Pacific long shaped by human hands.§!"
+ landmark_moai_desc: "§LСтатуї моаї острова Пасхи височіють уздовж узбережжя та хребтів острова; їхні масивні кам'яні фігури були витесані народом рапануї багато століть тому. Перебуваючи під управлінням Чилі з кінця XIX століття, ці кам'яні велетні приваблюють як науковців, так і мандрівників. Вони залишаються мовчазними свідками винахідливості й культури корінних жителів острова, позначаючи цей віддалений куточок Тихого океану, здавна сформований людськими руками.§!"
 
-## Asia
+ ## Asia
  # Burma
- landmark_shwedagon_pagoda: "Shwedagon Pagoda"
+ landmark_shwedagon_pagoda: "Пагода Шведагон"
  landmark_shwedagon_pagoda_plural: "$landmark_shwedagon_pagoda$"
- landmark_shwedagon_pagoda_desc: "§LThe Shwedagon Pagoda rises on the slopes of the Shwedagon Hill in Yangon, Burma, and is one of the most sacred Buddhist sites in the country. Its golden spire and ancient architecture reflect centuries of devotion and cultural heritage. The pagoda continues to attract pilgrims and visitors from across Asia, symbolising the enduring spiritual significance of Burma's Buddhist traditions.§!"
+ landmark_shwedagon_pagoda_desc: "§LПагода Шведагон височіє на схилах пагорба Сінґуттара в Янгоні, Бірма, і є однією з найсвятіших буддійських святинь країни. Її золотий шпиль та старовинна архітектура відображають століття побожності та культурної спадщини. Пагода продовжує приваблювати паломників і відвідувачів з усієї Азії, символізуючи незмінне духовне значення буддійських традицій Бірми.§!"
 
  # Japan
- landmark_himeji_castle: "Himeji Castle"
+ landmark_himeji_castle: "Замок Хімедзі"
  landmark_himeji_castle_plural: "$landmark_himeji_castle$"
- landmark_himeji_castle_desc: "§LHimeji Castle overlooks the city of Himeji and is among the best-preserved feudal fortresses in Japan. Completed in the early seventeenth century, its white-plastered walls, layered defences, and towering keep exemplify Tokugawa-era military design. Surviving civil war, restoration, and modernisation, the castle continues to reflect Japan's martial traditions and imperial past.§!"
+ landmark_himeji_castle_desc: "§LЗамок Хімедзі височіє над містом Хімедзі та є однією з найкраще збережених феодальних твердинь Японії. Завершений на початку XVII століття, він вирізняється побіленими стінами, багатоярусними укріпленнями й високим донжоном, що є взірцем військової архітектури доби Токуґава. Переживши громадянські війни, реставрацію та модернізацію, замок і досі уособлює воїнські традиції та імперське минуле Японії.§!"
 
- landmark_okayama_castle: "Okayama Castle"
+ landmark_okayama_castle: "Замок Окаяма"
  landmark_okayama_castle_plural: "$landmark_okayama_castle$"
- landmark_okayama_castle_desc: "§LOkayama Castle stands beside the Asahi River, its dark exterior and commanding keep distinguishing it from other Japanese strongholds. Built in the late sixteenth century, it served as a regional centre of power during the Sengoku and early Tokugawa periods. Today, the structure recalls the authority of local domains and the legacy of the samurai class.§!"
+ landmark_okayama_castle_desc: "§LЗамок Окаяма стоїть на березі річки Асахі; його темне облицювання та величний донжон вирізняють його з-поміж інших японських твердинь. Зведений наприкінці XVI століття, він слугував регіональним центром влади в періоди Сенґоку та раннього Токуґава. Сьогодні ця споруда нагадує про могутність місцевих уділів і спадщину стану самураїв.§!"
 
  # Siam
- landmark_wat_arun: "Wat Arun"
+ landmark_wat_arun: "Ват Арун"
  landmark_wat_arun_plural: "$landmark_wat_arun$"
- landmark_wat_arun_desc: "§LWat Arun occupies the western bank of the Chao Phraya River in Bangkok and forms one of the most recognisable religious sites in Siam. Centred on its towering prang, the temple complex shows strong Khmer influence and long-established Buddhist traditions. Closely linked to the Chakri dynasty and the capital, Wat Arun continues to signify the close ties between faith, monarchy, and the Siamese state.§!"
+ landmark_wat_arun_desc: "§LВат Арун височіє на західному березі річки Чао-Прая в Бангкоку і є однією з найупізнаваніших релігійних святинь Сіаму. У центрі храмового комплексу здіймається величний пранг, у якому помітний сильний кхмерський вплив та давні буддійські традиції. Тісно пов'язаний із династією Чакрі та столицею, Ват Арун і досі уособлює міцний зв'язок між вірою, монархією та сіамською державою.§!"
 
-## Middle East
+ ## Middle East
  # Arabia
- landmark_kaaba: "The Kaaba"
+ landmark_kaaba: "Кааба"
  landmark_kaaba_plural: "$landmark_kaaba$"
- landmark_kaaba_desc: "§LAt the centre of the Great Mosque in Mecca rises the Kaaba, the holiest site in Islam. Its black-draped structure has for centuries guided the direction of Muslim prayer and pilgrimage. Rebuilt and maintained over successive generations, the Kaaba continues to shape the spiritual life of the Islamic world and affirm the preeminence of Mecca as a sacred city.§!"
+ landmark_kaaba_desc: "§LУ центрі Заповідної мечеті в Мецці височіє Кааба — найсвятіше місце в ісламі. Її вкрита чорним покривалом споруда впродовж століть визначає напрямок мусульманської молитви та паломництва. Перебудована й підтримувана багатьма поколіннями, Кааба продовжує формувати духовне життя ісламського світу та утверджувати статус Мекки як священного міста.§!"
 
  # Egypt
- landmark_pyramids_of_giza: "The Pyramids of Giza"
+ landmark_pyramids_of_giza: "Піраміди Гізи"
  landmark_pyramids_of_giza_plural: "$landmark_pyramids_of_giza$"
- landmark_pyramids_of_giza_desc: "§LOn the desert plateau west of Cairo, the pyramids of Giza dominate the landscape as the monumental tombs of Egypt's ancient pharaohs. Constructed during the Old Kingdom, their vast scale and precise workmanship testify to the organisation and authority of early Egyptian civilisation. Predating the modern state by millennia, the pyramids stand as enduring monuments to human ambition and ingenuity.§!"
+ landmark_pyramids_of_giza_desc: "§LНа пустельному плато на захід від Каїра над краєвидом височіють піраміди Гізи — монументальні гробниці стародавніх фараонів Єгипту. Зведені за часів Стародавнього царства, вони своїми грандіозними масштабами та винятковою точністю виконання свідчать про організованість і могутність ранньої єгипетської цивілізації. Будучи на тисячоліття старшими за сучасну державу, піраміди залишаються вічним пам'ятником людським амбіціям та винахідливості.§!"

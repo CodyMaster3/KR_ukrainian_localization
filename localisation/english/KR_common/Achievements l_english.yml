@@ -1,6 +1,6 @@
 ﻿l_english:
 
- kr_achievements: "Kaiserreich"
+ kr_achievements: "Кайзеррайх"
 
 ### Titles and Conditions
 
@@ -25,23 +25,23 @@
  RUS_see_nick_that_wasnt_so_hard_achievement_achievement_NAME: "Ведмежий марш"
  RUS_see_nick_that_wasnt_so_hard_achievement_achievement_DESC: "Граючи за Росію, переможіть Німеччину і отримайте всі початкові території Східних держав (окрім Фінляндії) у власність вашої фракції."
 
- RUS_and_hades_followed_achievement_NAME: "...And Hades Followed With Him"
- RUS_and_hades_followed_achievement_DESC: "As the Russian State, end German hegemony and eliminate all of the world's socialist governments."
+ RUS_and_hades_followed_achievement_NAME: "…І пекло йшло слідом за ним"
+ RUS_and_hades_followed_achievement_DESC: "Граючи за Російську Державу, покладіть край німецькій гегемонії та ліквідуйте всі соціалістичні уряди світу."
 
- RUS_take_notes_kerensky_achievement_NAME: "Take Notes, Kerensky"
- RUS_take_notes_kerensky_achievement_DESC: "As a republican Russia, complete all of a President's agendas."
+ RUS_take_notes_kerensky_achievement_NAME: "Занотовуй, Керенський"
+ RUS_take_notes_kerensky_achievement_DESC: "Граючи за республіканську Росію, виконайте всі пункти програми президента."
 
- RUS_two_emperors_walk_into_a_tsar_achievement_NAME: "Two Emperors Walk Into A Tsar"
- RUS_two_emperors_walk_into_a_tsar_achievement_DESC: "As a monarchist Russia, win the Second Weltkrieg and have at least two of the German, Austrian, Ottoman, or Japanese monarchies in your faction."
+ RUS_two_emperors_walk_into_a_tsar_achievement_NAME: "Заходять якось два імператори до царя"
+ RUS_two_emperors_walk_into_a_tsar_achievement_DESC: "Граючи за монархічну Росію, здобудьте перемогу в другому Вельткригу та майте у своєму альянсі щонайменше двох монархів з-поміж німецького, австрійського, османського або японського."
 
- RUS_whatever_happened_to_the_popular_front_achievement_NAME: "Whatever Happened To The Popular Front?"
- RUS_whatever_happened_to_the_popular_front_achievement_DESC: "As a socialist Russia, claim the mantle of the revolution after assuming leadership of or dismantling the Internationale, and turn all of Europe socialist."
+ RUS_whatever_happened_to_the_popular_front_achievement_NAME: "Що ж сталося з Народним фронтом?"
+ RUS_whatever_happened_to_the_popular_front_achievement_DESC: "Граючи за соціалістичну Росію, перейміть провідну роль у революції, очоливши або розпустивши Інтернаціонал, і зробіть усю Європу соціалістичною."
 
- RUS_you_and_what_army_achievement_NAME: "You, And What Army?"
- RUS_you_and_what_army_achievement_DESC: "As the Free Russian Army, successfully liberate Russia and establish a new republic."
+ RUS_you_and_what_army_achievement_NAME: "Ти і яке військо?"
+ RUS_you_and_what_army_achievement_DESC: "Граючи за Вільну російську армію, успішно звільніть Росію та проголосіть нову республіку."
 
- RUS_from_siberia_with_love_achievement_NAME: "From Siberia With Love"
- RUS_from_siberia_with_love_achievement_DESC: "As the Far Eastern Army, survive your insurrection against the Russian government and establish a new Russian state."
+ RUS_from_siberia_with_love_achievement_NAME: "Із Сибіру з любов'ю"
+ RUS_from_siberia_with_love_achievement_DESC: "Граючи за Далекосхідну армію, проголосіть нову Російську державу."
 
  GBR_very_long_holiday_achievement_NAME: "Відпустку завершено!"
  GBR_very_long_holiday_achievement_DESC: "Граючи за Канаду, переможіть Британський Союз і відновіть Сполучене Королівство, володіючи всією його основною територією."
@@ -364,31 +364,31 @@
  LBA_caravan_simulator_achievement_NAME: "Симулятор каравану 1936"
  LBA_caravan_simulator_achievement_DESC: "Граючи за Киренаїку, покращте всі свої караванні станції до максимального рівня."
 
- CHINA_source_of_the_nation_achievement_NAME: "The Source of the Nation"
- CHINA_source_of_the_nation_achievement_DESC: "As a Chinese faction, proclaim a national government with Xi'an as your capital."
+ CHINA_source_of_the_nation_achievement_NAME: "Джерело нації"
+ CHINA_source_of_the_nation_achievement_DESC: "Граючи за китайську фракцію, проголосіть національний уряд зі столицею в Сіані."
 
- CA_dont_steppe_achievement_NAME: "Don't Steppe On Me"
- CA_dont_steppe_achievement_DESC: "As any Central Asian country, establish a united Central Asian state."
+ CA_dont_steppe_achievement_NAME: "Не наступай на мій степ"
+ CA_dont_steppe_achievement_DESC: "Граючи за будь-яку країну Центральної Азії, створіть об'єднану Центральноазійську державу."
 
- INDIA_truth_alone_endures_achievement_NAME: "Truth Alone Endures"
- INDIA_truth_alone_endures_achievement_DESC: "As an Indian government, control, or have an ally control, all core Indian territory."
+ INDIA_truth_alone_endures_achievement_NAME: "Лише правда торжествує"
+ INDIA_truth_alone_endures_achievement_DESC: "Граючи за індійський уряд, контролюйте самостійно або через союзника всі національні території Індії."
 
- PHI_mabuhay_achievement_NAME: "Mabuhay!"
- PHI_mabuhay_achievement_DESC: "As the Philippines, complete a political faction's capstone focus."
+ PHI_mabuhay_achievement_NAME: "Мабухай!"
+ PHI_mabuhay_achievement_DESC: "Граючи за Філіппіни, завершіть ключовий завершальний фокус політичної фракції."
 
- USA_we_have_returned_achievement_NAME: "We Have Returned!"
- USA_we_have_returned_achievement_DESC: "As any American faction, either win the Fight for the Philippines or have the Philippines as your puppet."
+ USA_we_have_returned_achievement_NAME: "Ми повернулися!"
+ USA_we_have_returned_achievement_DESC: "Граючи за будь-яку американську фракцію, виграйте битву за Філіппіни або зробіть Філіппіни своєю маріонеткою."
 
- TUR_hand_that_rocks_achievement_NAME: "The Hand That Rocks The Cradle"
- TUR_hand_that_rocks_achievement_DESC: "As the Ottoman Empire, collect all civilian factories from your Egyptian puppet, while having the lowest level of unrest."
+ TUR_hand_that_rocks_achievement_NAME: "Рука, що гойдає колиску"
+ TUR_hand_that_rocks_achievement_DESC: "Граючи за Османську імперію, отримайте всі цивільні фабрики від своєї єгипетської маріонетки, утримуючи найнижчий рівень заворушень."
 
 ### Tooltips (organised by the order in which they appear in the achievements file)
 
- legacy_achievement_tt: "§RThis achievement is retained from a previous version of the mod, and can no longer be obtained normally.§!"
+ legacy_achievement_tt: "§RЦе досягнення збереглося з попередньої версії моду, і його більше не можна здобути звичайним шляхом.§!"
 
  achievements_disabled: "§RКористувацькі досягнення наразі вимкнені.§!\n§YЩоб увімкнути їх, натисніть перемикач у меню налаштувань.§!"
 
- achievement_available_as_any_tag_tooltip: "This Achievement can be earned while playing as any country."
+ achievement_available_as_any_tag_tooltip: "Це досягнення можна здобути, граючи за будь-яку країну."
 
  second_weltkrieg_is_over_in_europe_tooltip: "Другий Вельткриг завершився поразкою або Німеччини, або Франції та Росії."
 
@@ -460,7 +460,7 @@
 
  believe_in_the_heart_of_the_cards_achievement_tooltip: "Перемогли у картковій грі «Чорний понеділок», не програвши й не пропустивши жодного ходу."
 
- another_place_in_the_sun_achievement_tooltip: "All Caribbean islands are owned by Germany's faction."
+ another_place_in_the_sun_achievement_tooltip: "Усі карибські острови належать країнам німецького альянсу."
 
  only_mostly_dead_achievement_tooltip: "Перемогли у Другому Вельткризі після пережитого в останню мить перевороту."
 

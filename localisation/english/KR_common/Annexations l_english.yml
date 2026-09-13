@@ -310,7 +310,7 @@
  annexation_events.8.a_generic: "Сподіваюся, ми не опинимося на протилежних сторонах..."
 
  annexation_events.184.t: "Реставрація династії О'Ніл"
- annexation_events.184.d: "Now that we have recreated an Irish state some have proposed the restoration of an Irish monarchy. The most obvious option would be the O'Neills, descendants of the last High King of Ireland, Brian O'Neill, and who played a major part in both the Nine Years War and the Irish Confederate Wars with Hugh O'Neill and Owen Roe O'Neill achieving many great victories against the English and Scots. The current head of the Clanaboy line of the O'Neill dynasty Jorge Maria O'Neill resides in Portugal, currently working as an electrical engineer, a role far beneath his station."
+ annexation_events.184.d: "Тепер, коли ми відновили Ірландську державу, дехто пропонує реставрацію ірландської монархії. Найочевиднішим вибором були б О'Ніли — нащадки останнього верховного короля Ірландії Браяна О'Ніла, які відіграли важливу роль як у Дев'ятирічній війні, так і у Війнах Ірландської конфедерації, коли Г'ю О'Ніл та Оуен Роу О'Ніл здобули безліч славетних перемог над англійцями та шотландцями. Нинішній голова кланабойської гілки династії О'Нілів, Жорже Марія О'Ніл, живе в Португалії та працює інженером-електриком — заняття, що зовсім не личить його високому походженню."
  annexation_events.184.a: "Вони будуть відновлені на троні Ірландії!"
  annexation_events.184.b: "Зберегти республіку."
 
@@ -319,7 +319,7 @@
  annexation_events.185.a: "O'Neill Abú!"
 
  annexation_events.200.t: "Кому віддати Італію?"
- annexation_events.200.desc: "Although we have triumphed over the northern Italian socialist regime, it is clear to all in [ROOT.Capital.GetName] that we have no interest or ability to continue to occupy the Italian lands our country occupies. It is clear, indeed, that we must return these lands to an existing Italian state. There is no guarantee that whoever we hand these lands to will ever be in a position to return the favor, but the government we choose to transfer authority to will be handed a great amount of legitimacy on a silver platter, and may then go on to quickly unify Italy. [ROOT.GetLeader] should therefore be discerning, and make the final decision with knowledge of the possible consequences of what would be easy to dismiss as a peace far less important than the war that led to it."
+ annexation_events.200.desc: "Хоча ми й здобули перемогу над північноіталійським соціалістичним режимом, усім у місті [ROOT.Capital.GetName] зрозуміло, що ми не маємо ані зацікавленості, ані змоги й надалі утримувати окуповані нашою країною італійські землі. Цілком очевидно, що ми мусимо повернути ці території одній з існуючих італійських держав. Немає жодних гарантій, що ті, кому ми їх передамо, колись зможуть віддячити послугою за послугу, проте уряд, обраний нами для передачі влади, отримає колосальну легітимність на блюдечку й згодом зможе швидко об'єднати всю Італію. Тому діяч [ROOT.GetLeader] має діяти обачно та ухвалити остаточне рішення, усвідомлюючи можливі наслідки кроку, який легко знецінити як мирний процес, значно менш важливий за війну, що до нього призвела."
  annexation_events.200.a: "[?valid_italian_targets_grant^0.GetNonIdeologyNameDefCap]"
  annexation_events.200.b: "[?valid_italian_targets_grant^1.GetNonIdeologyNameDefCap]"
  annexation_events.200.c: "[?valid_italian_targets_grant^2.GetNonIdeologyNameDefCap]"
@@ -331,7 +331,7 @@
  annexation_events.200.i: "[?valid_italian_targets_grant^8.GetNonIdeologyNameDefCap]"
 
  annexation_events.201.t: "Кому запропонувати Італію?"
- annexation_events.201.desc: "Although we have triumphed over the northern Italian socialist regime, it is clear to all in [ROOT.Capital.GetName] that we have no interest or ability to continue to occupy the Italian lands our country occupies. It is clear, indeed, that we must return these lands to an existing Italian state. There is no guarantee that whoever we hand these lands to will ever be in a position to return the favor, but the government we choose to transfer authority to will be handed a great amount of legitimacy on a silver platter, and may then go on to quickly unify Italy. [ROOT.GetLeader] should therefore be discerning, and make the final decision with knowledge of the possible consequences of what would be easy to dismiss as a peace far less important than the war that led to it."
+ annexation_events.201.desc: "Хоча ми й здобули перемогу над північноіталійським соціалістичним режимом, усім у місті [ROOT.Capital.GetName] зрозуміло, що ми не маємо ані зацікавленості, ані змоги й надалі утримувати окуповані нашою країною італійські землі. Цілком очевидно, що ми мусимо повернути ці території одній з існуючих італійських держав. Немає жодних гарантій, що ті, кому ми їх передамо, колись зможуть віддячити послугою за послугу, проте уряд, обраний нами для передачі влади, отримає колосальну легітимність на блюдечку й згодом зможе швидко об'єднати всю Італію. Тому діяч [ROOT.GetLeader] має діяти обачно та ухвалити остаточне рішення, усвідомлюючи можливі наслідки кроку, який легко знецінити як мирний процес, значно менш важливий за війну, що до нього призвела."
  annexation_events.201.a: "[?valid_italian_targets_offer^0.GetNonIdeologyNameDefCap]"
  annexation_events.201.b: "[?valid_italian_targets_offer^1.GetNonIdeologyNameDefCap]"
  annexation_events.201.c: "[?valid_italian_targets_offer^2.GetNonIdeologyNameDefCap]"
@@ -364,15 +364,15 @@
  #annexation_germany_desc: "For the last fifty years, the German Empire has stood united in the centre of Europe. From the once-Polish lands of Prussia to the Francophone Catholic west, from Lower Saxony in the north to Bavaria in the south, the conservative Kaiserreich created one nation where before there had been many. However, with our victory, we have a chance to radically restructure the German state structure. Our total conquest has shattered the spirit of German civil resistance, and we essentially have unlimited license to choose whichever government, or governments, serve our interests in Central Europe."
 
  annexation_28: "Доля Ельзас-Лотарингії"
- annexation_28_desc: "Since the capitulation of our last remaining enemies in Europe, our military administration has governed the territories of Alsace and Lorraine, long contested by Germany and France, with martial law. With peace comes expectations of change, however, and envoys from Strasbourg, often accompanied by imperious French ambassadors, have been seen in the hallways of power in [ROOT.Capital.GetName], hoping to pressure stressed bureaucrats into restoring the mostly German-speaking territory to France before anyone in our administration has time to sit down and fully consider the matter. Should we indulge their requests? Is Alsace once and for all German? Or should we give the Alsatians a few good years of [ROOT.GetAdjective] occupation before considering the matter properly, when the world situation best permits it?"
+ annexation_28_desc: "З моменту капітуляції наших останніх супротивників у Європі наша військова адміністрація керувала територіями Ельзасу та Лотарингії, за які тривалий час сперечалися Німеччина та Франція, за законами воєнного стану. Проте разом із настанням миру приходять і сподівання на зміни: посланців зі Страсбурга, часто у супроводі пихатих французьких послів, дедалі частіше помічають у владних коридорах у місті [ROOT.Capital.GetName]. Вони сподіваються натиснути на виснажених бюрократів, аби повернути цю здебільшого німецькомовну територію Франції, доки ніхто в нашій адміністрації не встиг сісти й досконало розглянути це питання. Чи варто нам задовольнити їхні прохання? Чи Ельзас раз і назавжди належить Німеччині? Або ж дати ельзасцям відчути кілька років окупації ([ROOT.GetAdjective]), перш ніж належно розглянути це питання, коли світова ситуація якнайкраще цьому сприятиме?"
  annexation_events.1001.a: "[german_palatinate.GetGrantTerritoryEventOption]"
  annexation_events.1001.b: "[german_baden.GetGrantTerritoryEventOption]"
 
  annexation_8: "Доля Люксембургу"
- annexation_8_desc: "For centuries, the Luxembourg Question troubled the great powers. After the Weltkrieg and twenty-five years of German rule, few of the Luxembourgish people have aspirations for independence, and in the era of syndicalism, close air support, and cryptologic decryption, any mention of the Salic Law has been met not so much with contempt as bafflement. The Grand Duchy of Luxembourg will not return to the map of Europe. However, there is also no need to return it to Germany. Luxembourg was part of both France and then Belgium little more than a century ago without complaint, and should a decision serve our foreign policy, there is little doubt that Luxembourg would cause no trouble this time either."
+ annexation_8_desc: "Протягом століть Люксембурзьке питання турбувало великі держави. Після Світової війни та двадцяти п'яти років німецького правління мало хто з люксембуржців плекає надії на незалежність, а в епоху синдикалізму, безпосередньої авіаційної підтримки та криптографічного дешифрування будь-яка згадка Салічної правди викликає радше здивування, аніж презирство. Велике Герцогство Люксембург не повернеться на карту Європи. Проте немає й потреби повертати його Німеччині. Трохи більше ніж століття тому Люксембург без жодних нарікань входив спершу до складу Франції, а згодом — Бельгії, і якщо це рішення відповідатиме інтересам нашої зовнішньої політики, навряд чи Люксембург створить проблеми й цього разу."
 
  annexation_781: "Доля Рейнланду"
- annexation_781_desc: "The beating heart of German industry, the foundation of the Prussian dominance of Germany, and the brutal stage for the Second Weltkrieg - the Rhineland is in some respects the place most responsible for the horrors of the twentieth century. Consequently, some advisors in our government have recommended detaching the Rhineland from Germany, and even imposing massive reparations to depower the region. On the other hand, with the war so recently over, it is unlikely that Germany could threaten us again anytime soon, and they might be a far more capable ally and economic partner with, rather than without, the foundries of the Ruhr. Whatever we decide, it would be wise to do so quickly, for the longer we occupy the Rhineland, the more of our resources it will absorb rather than produce."
+ annexation_781_desc: "Битке серце німецької промисловості, підґрунтя прусського домінування в Німеччині та жорстока арена Другої світової війни — Рейнланд у певному сенсі є місцем, найбільш відповідальним за жахи двадцятого століття. Відтак деякі радники в нашому уряді рекомендували відокремити Рейнланд від Німеччини та навіть накласти величезні репарації, аби позбавити регіон сили. З іншого боку, коли війна щойно закінчилася, малоймовірно, що Німеччина знову зможе загрожувати нам найближчим часом, і вона була б значно дієздатнішим союзником та економічним партнером разом із ливарнями Руру, ніж без них. Що б ми не вирішили, було б розумно зробити це якнайшвидше, адже що довше ми окупуємо Рейнланд, то більше наших ресурсів він поглинатиме, а не вироблятиме."
  annexation_events.1003.a: "Звільнити Рейнську державу."
  annexation_events.1003.b: "Звільнити Рейнську державу та впровадити суворі репарації."
  annexation_events.1003.c: "[hesse.GetGrantTerritoryEventOption]"
@@ -383,14 +383,14 @@
  annexation_events.1003.h: "Анексувати західний берег Рейну."
 
  annexation_59: "Доля Північної Німеччини"
- annexation_59_desc: "Before the Prussians dominated Europe, they subjugated Germany, and before they subjugated Germany, they started with the North German Federation. Now [Root.GetNameDef] has stripped even Northern Germany away, and it is up to [Root.GetNameDef] to determine what will become of the Lower Saxon lands. We could create a puppet state based in Hamburg or Brunswick, relocating the centre of German political life westward for the first time in centuries. Alternatively, we could decide to favor one of our other German allied states, possibly bolstering their legitimacy and power to reunite Germany themselves one day. Can we afford to take the chance? Or for the security of Europe, must our soldiers occupy North Germany for the foreseeable future?"
- annexation_events.1004.a: "Звільнити Північнонімецьку державу."
+ annexation_59_desc: "Перш ніж запанувати над Європою, пруссаки підкорили Німеччину, а перш ніж підкорити Німеччину, вони почали з Північнонімецького союзу. Тепер [Root.GetNameDef] відібрала навіть Північну Німеччину, і саме [Root.GetNameDef] має вирішити подальшу долю нижньосаксонських земель. Ми могли б створити маріонеткову державу зі столицею в Гамбурзі чи Брауншвейзі, уперше за багато століть змістивши центр німецького політичного життя на захід. Як альтернативу, ми могли б надати перевагу одній з інших союзних німецьких держав, можливо, зміцнивши її легітимність та сили для майбутнього самостійного возз'єднання Німеччини. Чи можемо ми дозволити собі ризикнути? Або ж заради безпеки Європи наші солдати мусять окупувати Північну Німеччину в найближчому майбутньому?"
+ annexation_events.1004.a: "Звільнити північнонімецьку державу."
 
  annexation_782: "Доля регіону [782.GetName]"
- annexation_782_desc: "One of the first victims of Prussian imperialism was the Danish-speaking province of [782.GetName]. It was in the aftermath of the Second Schleswig War in the 1860s that Prussia was able to dominate Germany from a war that started around their base in the region, and although Denmark and Germany have been allies in the century since it has remained a sore point for the local population that they are ruled by foreigners. However, sometimes diplomatic and military necessity override obscure matters of linguistic history, and there is no doubt that the territory would be safer in the hands of a German ally than a Danish foe. Our military commander in the region is capably handling unrest, for now, but should we make a decision on the future of [782.GetName] and spare him the trouble?"
+ annexation_782_desc: "Однією з перших жертв прусського імперіалізму стала данськомовна провінція [782.GetName]. Саме після Другої Шлезвізької війни у 1860-х роках Пруссія змогла встановити панування над Німеччиною внаслідок війни, що розпочалася навколо її плацдарму в цьому регіоні. Хоча за минуле століття Данія та Німеччина були союзниками, для місцевого населення факт правління іноземців залишався болючою темою. Проте іноді дипломатична та військова необхідність переважають над тонкощами мовної історії, і немає сумніву, що ця територія була б у більшій безпеці в руках німецького союзника, ніж данського ворога. Наш військовий командувач у цьому регіоні поки що вміло стримує заворушення, але чи не варто ухвалити рішення щодо майбутнього провінції [782.GetName] і позбавити його зайвого клопоту?"
 
  annexation_64: "Доля Пруссії"
- annexation_64_desc: "Brandenburg was the centre of gravity of Prussia, and thus the Prussian-formed German Empire. For decades, Berlin has bustled with activity, mostly with the politicians and diplomats of the great powers but as of [GetYear] with the barked orders and shouts of soldiers, and, now, enforced quiet under [Root.GetAdjective] martial law. With the end of the former German state comes, almost inevitably, the beginning of a new.\n\nA German state based in Berlin would be a powerful contender for a reunification of Germany one day, so some in our government have proposed granting Brandenburg and Berlin to a German statelet based in a western city, so that Prussia can never rise again. Others point to the need for a strong Prussian ally to counter our enemies on their borders, and claim that with our military supremacy over Europe Prussia would never dream of challenging us again. No doubt, of course, the Prussians could appreciate the irony of a good, long \"temporary\" military occupation."
+ annexation_64_desc: "Бранденбург був центром тяжіння Пруссії, а отже, і створеної Пруссією Німецької імперії. Десятиліттями Берлін вирував життям — здебільшого політиками та дипломатами великих держав, але станом на [GetYear] рік — гавкотом наказів і вигуками солдатів, а тепер — вимушеною тишею під час воєнного стану ([Root.GetAdjective]). Із крахом колишньої Німецької держави майже неминуче настає початок нової.\n\nНімецька держава зі столицею в Берліні була б потужним претендентом на майбутнє возз'єднання Німеччини, тому деякі члени нашого уряду запропонували передати Бранденбург і Берлін німецькому карликовому державному утворенню із західного міста, аби Пруссія більше ніколи не повстала знову. Інші ж наголошують на потребі мати сильного прусського союзника для протидії нашим ворогам на їхніх кордонах і стверджують, що за нашої військової переваги над Європою Пруссія навіть подумати не посміє про новий виклик нам. Безумовно, пруссаки цілком здатні оцінити іронію хорошої, тривалої «тимчасової» військової окупації."
  annexation_events.1006.a: "Звільнити Прусську державу."
  annexation_events.1006.c: "[north_germany.GetGrantTerritoryEventOption]"
 
@@ -426,7 +426,7 @@
  annexation_events.1013.a: "Звільнити Південнонімецьку державу."
 
  annexation_10: "Доля Польщі"
- annexation_10_desc: "Once again, Poland is on the verge of being wiped off the map of Europe. Once a powerful player in European geopolitics, the three Partitions of Poland in the late eighteenth century annexed Poland-Lithuania to its three neighbors, and only the Germany victory against Russia in the First Weltkrieg restored it, albeit as a shell of its former self. With the capitulation of authorities in Warsaw to [ROOT.GetAdjective] troops, we now control the majority of the country, and accordingly its fate is in our hands. Should we grant Poland its liberty, at least within the bounds of the limited kingdom of the last century? Of course, once we have taken this step, there is nothing stopping us from imposing a government that favors our interests, or allowing this friendly government to realise Pan-Slavic dreams of a greater Poland. On the other hand, if our interests demand it, we can follow the example of so many powers before us and haul down the Polish red-and-white bicolor for good."
+ annexation_10_desc: "Польща знову опинилася на межі зникнення з карти Європи. Колись могутній гравець європейської геополітики, Річ Посполита була розділена між трьома сусідами внаслідок трьох поділів Польщі наприкінці XVIII століття, і лише перемога Німеччини над Росією в Першій світовій війні відновила її, хоча й у вигляді блідої тіні колишньої величі. Після капітуляції варшавської влади перед військами ([ROOT.GetAdjective]) ми контролюємо більшу частину країни, тож її доля тепер у наших руках. Чи варто нам дарувати Польщі свободу, принаймні в межах обмеженого королівства минулого століття? Звісно, зробивши цей крок, нам ніщо не завадить нав'язати уряд, який відстоюватиме наші інтереси, або дозволити цьому дружньому уряду втілити панславістські мрії про Велику Польщу. З іншого боку, якщо того вимагатимуть наші інтереси, ми можемо наслідувати приклад багатьох держав до нас і назавжди спустити польський біло-червоний стяг."
  annexation_events.1014.a: "Звільнити Республіку Польща."
  annexation_events.1014.b: "Відновити монархію Гогенцоллернів."
  annexation_events.1014.c: "Встановити монархію Габсбургів."
@@ -509,7 +509,7 @@
  annexation_109: "Доля Хорватії"
  annexation_109_desc: "Ми взяли під контроль території Хорватії, але серед місцевих жителів спостерігається певний опір. Ми повинні вирішити, що робити з їхніми землями."
  annexation_events.1031.a: "Звільнити Хорватію."
- annexation_events.1031.b: "Liberate a united Yugoslavia."
+ annexation_events.1031.b: "Створити єдину Югославію"
  annexation_events.1031.c: "Запропонуйте її [can_offer_croatia_to_serbia.GetNonIdeologyNameDef] в обмін на союз."
 
  annexation_163: "Доля Далмації"
@@ -540,7 +540,7 @@
  annexation_761_desc: "Тепер, коли регіон Тичино знаходиться під нашим контролем, ми маємо вирішити, що з ним робити."
 
  annexation_16: "Доля Франції"
- annexation_16_desc: "The First French Empire fell to a continental coalition, the Second Empire and the Third Republic to German arms, and so too the new French Republic has fallen to the military of [Root.GetNameDef]. Their government has capitulated totally, and fled overseas. The war on the Continent is, for all intents and purposes, over. Again, therefore, the French nation lies defeated, ready for a regime change. With our military occupying practically the entire country, we have full control over the direction of that regime change. Should we establish a friendly government, backed by our military? The French people may have had their spirit finally broken by this last war, but there is no guarantee that we will not be fighting them again in twenty years. Perhaps it would be better to come to an agreement with the government-in-exile, whose envoys have been clamoring for a handover arrangement ever since the fall of Paris."
+ annexation_16_desc: "Перша Французька імперія впала під натиском континентальної коаліції, Друга імперія та Третя республіка — під ударами німецької зброї, і так само нова Французька Республіка впала перед військами [Root.GetNameDef]. Їхній уряд повністю капітулював і втік за океан. Війна на континенті, фактично, завершена. Тож французька нація знову зазнала поразки й готова до зміни режиму. Оскільки наші війська окупували практично всю країну, ми маємо повний контроль над напрямком цієї зміни режиму. Чи варто нам встановити дружній уряд за підтримки нашої армії? Можливо, дух французького народу й був остаточно зламаний цією останньою війною, проте немає жодної гарантії, що за двадцять років ми знову не воюватимемо з ними. Можливо, краще було б дійти згоди з урядом у вигнанні, чиї посланці наполегливо вимагають домовленостей про передачу влади ще від часу падіння Парижа."
  annexation_events.1041.a: "Відновити Французьку Комуну!"
  annexation_events.1041.b: "Відновити Національну Францію!"
  annexation_events.1041.c: "Звільнити Францію під маріонетковим урядом."
@@ -757,7 +757,7 @@
  annexation_events.1083.a: "Звільнити Кіпр!"
 
  annexation_41: "Доля Іспанії"
- annexation_41_desc: "Spain, formerly an empire spanning across the globe, has fallen to our armies. For over a century, the country has been a war-torn nation; it has experienced a devastating civil war in recent memory, a gruelling battle to secure the Rif in the 1920s, a humiliating defeat to the USA in 1898, three Carlist Wars, not to mention the consequences of the Napoleonic Wars.\n\nSpanish society and its economy have long been held back, whether it be the result of domestic or foreign reasons. With our government having the responsibility of deciding what to do with Spain, we should tread carefully should we wish to not repeat the mistakes of the past. If Spain is to properly recover, it must be brought into the modern age, both socially and economically."
+ annexation_41_desc: "Іспанія впала перед нашими арміями. Понад століття країну шматували війни: вона ще пам'ятає спустошливу громадянську війну, виснажливу битву за Ер-Риф у 1920-х роках, принизливу поразку від США у 1898 році, три Карлістські війни, не кажучи вже про наслідки Наполеонівських війн.\n\nІспанське суспільство та його економіка тривалий час стримувалися у розвитку, чи то через внутрішні, чи то через зовнішні чинники. Оскільки наш уряд узяв на себе відповідальність за подальшу долю Іспанії, нам слід діяти обачно, якщо ми не хочемо повторити помилок минулого. Якщо Іспанія має належним чином відновитися, її необхідно ввести в модерну епоху — як соціально, так і економічно."
  annexation_events.1084.a: "Звільнити соціалістичну Іспанію"
  annexation_events.1084.b: "Відновити Королівство під владою [annexation_spain_kingdom_option]."
  annexation_spain_carlists_option: "Карлістів"
@@ -844,11 +844,11 @@
 
  annexation_2: "Доля Риму"
  annexation_2_desc: "У зв'язку з тим, що наші війська контролювали вічне місто та прилеглі до нього території, було порушено питання про управління цим районом. Хоча створення італійського уряду могло б надати нам голос на півострові, відновлення Папської області вимагає Святий Престол і вище духовенство."
- annexation_events.1100.a: "Re-establish the Papal States."
+ annexation_events.1100.a: "Відновити Папську область."
 
  annexation_117: "Доля Південної Італії"
  annexation_117_desc: "Наші армії взяли під свій контроль Південну Італію, а місцеві жителі прагнуть самоврядування. Ми маємо вирішити, що робити з регіоном."
- annexation_events.1101.a: "Restore the Kingdom of the Two Sicilies."
+ annexation_events.1101.a: "Відновити королівство Обох Сицилій."
 
  annexation_114: "Доля Сардинії"
  annexation_114_desc: "Острів, укріплений королем у вигнанні, виявився твердим горішком, але тепер він у наших руках. Що нам робити із територією?"
@@ -889,7 +889,7 @@
  annexation_events.1111.a: "[danubian_plain.GetGrantTerritoryEventOption]"
 
  annexation_817: "Доля регіону [817.GetName]"
- annexation_817_desc: "Регіон [817.GetName] тепер знаходиться під нашим контролем. Once under the Crown of Aragon, the region formally joined Spain in 1516 when the Crowns of Aragon and Castile were united. However, following the Treaty of the Pyrenees in 1659, that concluded the Franco-Spanish War, it was ceded to the French Crown and had been under French sovereignty ever since then.\n\nThe region has long held a significant Catalan-speaking population within its borders. Ever since the start of the 18th century, the Catalans and their language have been largely suppressed, with some nationalist voices calling for Catalan representation in the region. This leaves us with a couple options of what to do with this contested territory."
+ annexation_817_desc: "Регіон [817.GetName] тепер перебуває під нашим контролем. Колись перебуваючи під владою Арагонської корони, цей регіон офіційно увійшов до складу Іспанії у 1516 році після об'єднання корон Арагону та Кастилії. Проте за Піренейським мирним договором 1659 року, який завершив Франко-іспанську війну, його було передано Французькій короні, і відтоді він перебував під суверенітетом Франції.\n\nУ межах цього регіону здавна проживає значна частина каталономовного населення. Починаючи з XVIII століття, каталонці та їхня мова зазнавали значних утисків, хоча окремі націоналістичні голоси й закликали до представництва каталонців у регіоні. Це залишає нам кілька варіантів того, як учинити з цією спірною територією."
  annexation_events.1112.a: "[languedoc.GetGrantTerritoryEventOption]"
  annexation_events.1112.b: "[catalonia.GetGrantTerritoryEventOption]"
 
@@ -898,7 +898,7 @@
  annexation_events.1113.a: "[lublin.GetGrantTerritoryEventOption]"
 
  annexation_779: "Доля регіону [779.GetName]"
- annexation_779_desc: "The region of [779.GetName], home to a Basque community, has fallen under our control. Fully incorporated into France since at least the 15th century, the Basque people enjoyed significant autonomy till the French Revolution in the late 18th century abolished it. Since then, recognition of the Basques in the region has been limited especially with them being a minority in the region. Some nationalist movements in the Spanish Basque Country have sprung up hoping to make the region part of an independent Basque Country. This offers us many choices of how we could approach this."
+ annexation_779_desc: "Регіон [779.GetName], батьківщина баскської громади, перейшов під наш контроль. Повністю включені до складу Франції щонайменше з XV століття, баски користувалися значною автономією, допоки наприкінці XVIII століття Французька революція її не скасувала. Відтоді визнання прав басків у цьому регіоні було обмеженим, особливо з огляду на те, що вони становлять там меншість. Тим часом в іспанській Країні Басків виникли націоналістичні рухи, які сподіваються зробити цей регіон частиною незалежної Басконії. Це дає нам чимало варіантів того, як підійти до цього питання."
  annexation_events.1114.a: "[aquitaine.GetGrantTerritoryEventOption]"
  annexation_events.1114.b: "[navarre.GetGrantTerritoryEventOption]"
  annexation_events.1114.c: "[basque_country.GetGrantTerritoryEventOption]"
@@ -1281,11 +1281,11 @@
  annexation_events.3009.e: "Відмовитися від Айгунського договору, а решту території віддати нашому володареві."
 
  annexation_613: "Доля Китаю"
- annexation_613_desc: "Після довгої та завзятої кампанії на величезних просторах Китаю, ми нарешті здобули історичну перемогу. Тепер, коли ми виграли війну, ми маємо вирішити, як найкраще забезпечити мир. This is no easy feat, given that the Chinese have been plagued by civil war and warlordism for the last few decades and rival governments have largely been unable to assert their authority over the provinces. Many competing factions and ideologies have come and gone over the years, each promising to address China's leading issues but often struggling to achieve traction out of their respective heartlands. How should we go about managing the Chinese lands we've conquered?"
+ annexation_613_desc: "Після довгої та завзятої кампанії на величезних просторах Китаю ми нарешті здобули історичну перемогу. Тепер, коли ми виграли війну, ми маємо вирішити, як найкраще забезпечити мир. Це нелегке завдання, зважаючи на те, що протягом останніх кількох десятиліть Китай терзали громадянська війна та мілітаризм, а суперницькі уряди здебільшого були неспроможні утвердити свою владу над провінціями. Багато ворогуючих фракцій та ідеологій з'являлися й зникали впродовж років, кожна з яких обіцяла розв'язати головні проблеми Китаю, проте часто ледве знаходила підтримку за межами власних осередків. Як нам слід організувати управління завойованими китайськими землями?"
  annexation_events.3010.a: "Включити Китай до мандату."
 
  annexation_322: "Доля Тибету"
- annexation_322_desc: "After our successful campaign in the Tibetan Plateau we now have the task to establish a new local administrative authority in order to restore peace. Tibet has long been under the rule of the nominal rule of the Dalai Lama, the foremost spiritual leader of the dominant school of Tibetan Buddhism. In practice however, the monasteries have exerted great power over the land, which has been challenged by both reformist and revolutionary groups. Tibetan stability has further been rocked by war with their neighbors. It is up to us now to create a lasting peace for the region."
+ annexation_322_desc: "Після успішної кампанії на Тибетському плато перед нами постало завдання створити нову місцеву адміністративну владу для відновлення миру. Тибет тривалий час перебував під номінальним правлінням Далай-лами — головного духовного лідера панівної школи тибетського буддизму. Проте на практиці монастирі мали величезну владу над цією землею, яку намагалися оскаржити як реформаторські, так і революційні угруповання. Стабільність Тибету ще більше похитнули війни із сусідами. Тепер саме нам належить забезпечити тривалий мир у цьому регіоні."
  annexation_events.3011.a: "Звільнити Тибет."
 
  annexation_617: "Доля Сіньцзяню"
@@ -1293,14 +1293,14 @@
  annexation_events.3012.a: "Звільнити Східний Туркестан."
 
  annexation_330: "Доля Монголії"
- annexation_330_desc: "After our successful campaign in the steppes of Mongolia, we now have the task to establish a new local administrative authority in order to restore peace. This is no easy task, especially since there is only one permanent city in Mongolia and the vast majority of the locals live semi-nomadic lifestyles. Mongolia has been ruled by Roman von Ungern-Sternberg, who expelled Chinese troops from the region, aiding Bogd Khan in declaring independence. His rule however was undermined by resistance by the local aristocracy and clergy, as well as leftist revolutionaries along with tensions with the neighboring Hui Ma Clans. Ultimately however, we have prevailed and the choice for Mongolia's future rests in our hands."
+ annexation_330_desc: "Після нашої успішної кампанії в степах Монголії перед нами постало завдання створити нову місцеву адміністративну владу для відновлення миру. Це нелегка справа, надто з огляду на те, що в Монголії є лише одне постійне місто, а переважна більшість місцевих жителів веде напівкочовий спосіб життя. Монголією правив Роман фон Унгерн-Штернберг, який вибив із регіону китайські війська, допомігши Богдо-хану проголосити незалежність. Проте його правління підривали опір місцевої аристократії та духовенства, ліві революціонери, а також напруженість у відносинах із сусідніми мусульманськими кланами Ма. Зрештою ми перемогли, і тепер вибір майбутнього для Монголії — у наших руках."
  annexation_events.3013.a: "Звільнити Монголію."
 
  annexation_329: "Доля регіону [329.GetName]"
  annexation_329_desc: "Регіон [329.GetName] був взятий під наш контроль, оскільки наші війська окупували цей регіон. Тепер ми маємо вирішити, що з ним робити."
 
  annexation_716: "Доля Маньчжурії"
- annexation_716_desc: "After our successful campaign in Manchuria we now have the task to establish a new local administrative authority in order to restore peace. Manchuria, also known as Dongbei (the Northeast) in Chinese, is a region rich in natural resources as well as industry. Named after the Manchu tribes that once ruled the area, their conquest of China and the later opening of the region to Han immigration has ironically caused ethnic Manchus to become a minority and many have since assimilated. In the aftermath of the Xinhai Revolution, the Fengtian Clique backed by Japan utilized the region as their home base in their efforts to unite China under their banner. Today however, the land is ours to govern and we have several options for how to proceed."
+ annexation_716_desc: "Після нашої успішної кампанії в Маньчжурії перед нами постало завдання створити нову місцеву адміністративну владу для відновлення миру. Маньчжурія, також відома китайською мовою як Дунбей (Північний Схід), — це регіон, багатий як на природні ресурси, так і на промисловість. Названий на честь маньчжурських племен, які колись правили цією територією, він зазнав іронічного повороту долі: завоювання ними Китаю та подальше відкриття регіону для ханьської імміграції призвели до того, що етнічні маньчжури стали тут меншістю, а чимало з них згодом асимілювалися. Після Синьхайської революції підтримувана Японією Фентянська кліка використовувала цей регіон як свою головну базу в спробах об'єднати Китай під власним стягом. Проте сьогодні ця земля перебуває під нашим управлінням, і ми маємо кілька варіантів подальших дій."
  annexation_events.3015.a: "Створити незалежну Маньчжурію."
 
  annexation_743: "Доля Міст-Концесій"
@@ -1323,7 +1323,7 @@
  annexation_events.3019.b: "[russia_nikolayevsk.GetGrantTerritoryEventOption]"
 
  annexation_524: "Доля Тайваню"
- annexation_524_desc: "The island of Taiwan has been brought under our control as our troops occupy the region. The island, also known as Formosa, has undergone several waves of immigration and masters over the centuries. The Qing dynasty, which conquered it from Ming loyalists in the 17th Century, were forced to hand over the islands to the ascendant Japanese Empire after the First Sino-Japanese War. The Japanese have worked to integrate the island, however they have also met resistance by various local parties who have sought either reintegration into China or local autonomy. It is up to us now to determine its future."
+ annexation_524_desc: "Острів Тайвань перейшов під наш контроль, коли наші війська зайняли цей регіон. Острів, також відомий як Формоза, упродовж століть пережив кілька хвиль імміграції та змін правителів. Династія Цін, яка відвоювала його у прихильників династії Мін у XVII столітті, була змушена поступитися островами дедалі міцнішій Японській імперії після Першої японо-китайської війни. Японці докладали зусиль для інтеграції острова, однак зіткнулися з опором різних місцевих сил, які прагнули або реінтеграції з Китаєм, або місцевої автономії. Тепер саме нам належить визначити його майбутнє."
  annexation_events.3020.a: "Звільнити незалежний Тайвань."
 
  annexation_289: "Доля Сіаму"
@@ -1367,14 +1367,14 @@
  annexation_events.3028.b: "[papua.GetGrantTerritoryEventOption]"
 
  annexation_846: "Доля Малайзії"
- annexation_846_desc: "With the heartlands of the Malay peninsula now firmly under our control, a decision must be reached as to the territory's future. These lands, once protectorates of both the British and German Empires, have long been internally divided in governance, despite a shared history and identity. It is now left up to us how the future governance of these many assorted states shall be handled."
+ annexation_846_desc: "Тепер, коли центральні землі Малайського півострова перебувають під нашим надійним контролем, необхідно ухвалити рішення щодо майбутнього цієї території. Ці землі, колишні протекторати як Британської, так і Німецької імперій, тривалий час мали внутрішньо роздроблену систему управління, попри спільну історію та ідентичність. Тепер саме нам вирішувати, як буде організовано майбутнє управління всіма цими різноманітними державами."
  annexation_events.3029.a: "Звільніть Малаю як республіку."
  annexation_events.3029.b: "Звільнити Малаю під владою султанів."
  annexation_events.3029.c: "Відновити німецьку Східну Азію."
 
  annexation_333: "The Fate of North Borneo"
- annexation_333_desc: "The lands of northern Borneo have been brought under our control, including those that have historically belonged to the White Rajahs of Sarawak and the Sultans of Brunei. When the British Empire collapsed, these historical British protectorates shifted their loyalties to Germany, under whom little effectively changed, but we are now presented with an opportunity to reshape the region's future towards our interests."
- annexation_events.3030.a: "Release Sarawak as a republic."
+ annexation_333_desc: "Землі північного Борнео перейшли під наш контроль, зокрема й ті, що історично належали білим раджам Сараваку та султанам Брунею. Коли Британська імперія розпалася, ці історичні британські протекторати переорієнтувалися на Німеччину, за якої фактично мало що змінилося, проте зараз перед нами відкривається можливість перекроїти майбутнє регіону відповідно до наших інтересів."
+ annexation_events.3030.a: "Звільнити Саравак як республіку."
  annexation_events.3030.b: "Відновити Раджу Саравака."
 
  annexation_439: "Доля Центральної Індії"
@@ -1393,7 +1393,7 @@
  annexation_433: "Доля Раджпутани"
  annexation_433_desc: "Раджпутана була взята під наш контроль, оскільки наші війська окупували цей регіон. Тепер ми маємо вирішити, що з нею робити."
  annexation_events.3035.a: "Звільнити Раджпутан."
- annexation_events.3035.b: "Split it between India and Punjab."
+ annexation_events.3035.b: "Розділити між Індією та Пенджабом."
 
  annexation_440: "Доля Східного Пенджабу"
  annexation_440_desc: "Східний Пенджаб був взятий під наш контроль, оскільки наші війська окупували цей регіон. Тепер ми маємо вирішити, що з ним робити."
@@ -1473,8 +1473,8 @@
  annexation_323: "Доля Непалу"
  annexation_323_desc: "Після успішної кампанії в Гімалаях, ми маємо створити нову місцеву адміністрацію для відновлення миру в Катманду. Що ж нам робити?"
  annexation_events.3052.a: "Звільнити Непал."
- annexation_events.3052.b: "Restore the Shah Dynasty."
- annexation_events.3052.c: "Empower the Rana Dynasty."
+ annexation_events.3052.b: "Відновити династію Шах."
+ annexation_events.3052.c: "Передати владу династії Рана."
  annexation_events.3052.d: "[oudh.GetGrantTerritoryEventOption]"
 
  annexation_324: "Доля Бутану"
@@ -1552,7 +1552,7 @@
  annexation_999_desc: "$annexation_northern_malaya_desc$"
 
  annexation_336: "Доля Сінгапуру"
- annexation_336_desc: "The great city of Singapore, the former entrepôt of Britain and administrative capital of Germany's eastern territories, has fallen under the control of our troops. While sparsely inhabited by native Malays prior to British rule, it would soon explode in size, with a majority of the population now descended from Chinese immigrants to the island. Its valuable position on the Singapore strait has led to its nickname as the Gibraltar of the East, and such value must be kept in mind when deciding the island state's future."
+ annexation_336_desc: "Величне місто Сінгапур, колишній торговельний центр Британії та адміністративна столиця східних територій Німеччини, перейшло під контроль наших військ. Хоча до британського правління воно було малозаселене корінними малайцями, невдовзі місто стрімко розрослося, і нині більшість його населення становлять нащадки китайських іммігрантів. Його вигідне розташування в Сінгапурській протоці принесло йому прізвисько «Гібралтар Сходу», і цю цінність необхідно враховувати під час визначення майбутнього цієї острівної держави."
 
  annexation_721: "Доля регіону [721.GetName]"
  annexation_721_desc: "Колишня португальська колонія [721.GetName] перейшла під наш контроль, оскільки наші війська окупували регіон. Тепер ми повинні вирішити, що з нею робити."
@@ -1674,16 +1674,16 @@
  annexation_1111_desc: "[1111.GetName] раніше перебувала під управлінням Цінського Китаю до інциденту П'янма/Хпімау в 1910-х роках, коли місцеві лідери Тусі перейшли на бік Великої Британії і відтоді стали частиною Бірми. Тепер, коли ця територія опинилася під нашим контролем. Тепер ми повинні вирішити, що з нею робити."
 
  annexation_1042: "Доля регіону [1042.GetName]"
- annexation_1042_desc: "[1042.GetName] was administered in a contentious between Russia, China, and Afghanistan ever since 1864 with the signing of the unequal Tacheng Boundary Treaty. Stipulating the border between Russia and China extending to the Pamir Mountains and bounded by Kokand, it did not specify the boundary of Badakhshan, this was further muddled by the signing of another unequal treaty, the Sino-Russian Ili Treaty which stipulated that the Sino-Russian border \"shall be determined in accordance with the existing borders of the two countries\".\n\nFurthermore in 1884, a boundary survey and yet another unequal treaty, the Sino-Russian Kashgar Boundary Treaty, simply added a disputed area to the border. The Russian Empire would send soldiers into the region in 1891, and then entered the Chinese territory in 1892. In 1895, Russia and Britain would divide the Pamirs between themselves, despite the Qing lodging diplomatic complaints.\n\nAdditionally, there exists Afghanistan's claim having historically controlled the region for centuries. After the Russian conquest of Turkestan, the border between Russia and Afghanistan remained loosely defined. Forming the 1884 Afghan Boundary Commission, Britain and Russia hoped to settle the issue, but before the commission could come to an agreement, Russia launched an invasion to push the border as far south as possible, resulting in the Panjdeh Incident; becoming a point of continuous contention from there onwards into the interwar. With multiple parties all lodging claims, it is now up to us to determine its future."
+ annexation_1042_desc: "Управління регіоном [1042.GetName] було предметом суперечок між Росією, Китаєм та Афганістаном ще з 1864 року після підписання нерівноправного Тарбагатайського (Таченського) протоколу про розмежування. Визначаючи кордон між Росією та Китаєм аж до гір Паміру та меж Коканда, він не окреслював межі Бадахшану; ситуація ще більше заплуталася після підписання іншого нерівноправного договору — російсько-китайського Петербурзького (Ілійського) договору, який передбачав, що кордон між державами «має визначатися відповідно до вже існуючих кордонів двох країн».\n\nБа більше, у 1884 році демаркація кордону та черговий нерівноправний договір — Кашгарський протокол — просто додали спірну територію до кордону. Російська імперія ввела війська в регіон у 1891 році, а в 1892 році увійшла на китайську територію. У 1895 році Росія та Британія поділили Памір між собою, попри дипломатичні протести династії Цін.\n\nКрім того, існують претензії Афганістану, який історично контролював цей регіон упродовж століть. Після завоювання Росією Туркестану кордон між Росією та Афганістаном залишався нечітким. Створивши у 1884 році Афганську розмежувальну комісію, Британія та Росія сподівалися владнати це питання, але перш ніж комісія змогла дійти згоди, Росія розпочала вторгнення, аби просунути кордон якомога далі на південь, що призвело до бою на Кушці (Пендженського інциденту); відтоді й аж до міжвоєнного періоду ця територія залишалася осередком постійної напруженості. З огляду на претензії кількох сторін, тепер саме нам належить визначити її майбутнє."
 
- annexation_555: "The Fate of [FROM.FROM.GetName]"
- annexation_555_desc: "[FROM.FROM.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it."
+ annexation_555: "Доля регіону [FROM.FROM.GetName]"
+ annexation_555_desc: "Регіон [FROM.FROM.GetName] перейшов під наш контроль, коли наші війська зайняли цю територію. Тепер ми маємо вирішити, як із ним учинити."
 
- annexation_583: "The Fate of the Grey Wedge"
- annexation_583_desc: "The \"Grey Wedge\" between Siberia and Kazakhstan has been brought under our control as our troops occupy the region. We must now decide what to do with it."
+ annexation_583: "Доля Сірого Клину"
+ annexation_583_desc: "«Сірий Клин» між Сибіром і Казахстаном перейшов під наш контроль, коли наші війська зайняли цей регіон. Тепер ми маємо вирішити, як із ним учинити."
 
- annexation_1034: "The Fate of the Malabar Coast"
- annexation_1034_desc: "The Malabar Coast has been brought under our control as our troops occupy the region. We must now decide what to do with it."
+ annexation_1034: "Доля Малабарського узбережжя"
+ annexation_1034_desc: "Малабарське узбережжя перейшло під наш контроль, коли наші війська зайняли цей регіон. Тепер ми маємо вирішити, як із ним учинити."
 
 ### Middle East Events ###
 
@@ -1719,7 +1719,7 @@
  annexation_451: "[annexation_libya_title]"
  annexation_451_desc: "[annexation_libya_description]"
  annexation_libya_libya: "Доля Лівії"
- annexation_libya_libya_desc: "Although the Libyans put up a respectable fight, we have launched a full offensive and forced them to surrender. Tripoli is now in our hands, but what should we do with the old Ottoman lands of Cyrenaica, Tripolitania, and Fezzan?"
+ annexation_libya_libya_desc: "Хоча лівійці й чинили гідний опір, ми розпочали повномасштабний наступ і змусили їх капітулювати. Триполі тепер у наших руках, але як нам учинити зі старими османськими землями Киренаїки, Триполітанії та Феццану?"
  annexation_libya_cyrenaica: "Доля Кіренаїки"
  annexation_libya_cyrenaica_desc: "Регіон Кіренаїки зараз знаходиться під нашим контролем. Ми маємо вирішити, що з ними робити."
  annexation_events.4007.a: "Звільнити Кіренаїку!"
@@ -1896,7 +1896,7 @@
  annexation_events.5013.a: "Створити державу Гвінея."
 
  annexation_272: "Доля Сенегалу"
- annexation_272_desc: "The port of Dakar, formerly the most important port of French West Africa, has fallen to our repeated assaults and with it, the full colony of Senegal including the 4 French communes fell. But with this change of ownership came more problems as the skilled French administrators left the territory, leaving us with an organisational void, should we create a loyal satellite here to alleviate our problems?"
+ annexation_272_desc: "Порт Дакар, колись найважливіший порт Французької Західної Африки, упав під нашими безперервними штурмами, а разом із ним упала й уся колонія Сенегал, включно з 4 французькими комунами. Проте зі зміною влади виникли й нові проблеми, оскільки досвідчені французькі адміністратори покинули територію, залишивши нам організаційний вакуум. Чи варто нам створити тут лояльного сателіта, аби полегшити наше становище?"
  annexation_events.5015.a: "Створити державу Сенегамбія."
 
  annexation_557: "Доля Мавританії"
@@ -1904,7 +1904,7 @@
  annexation_events.5016.a: "Створити державу Мавританія."
 
  annexation_556: "Доля Малі"
- annexation_556_desc: "The valley of the Niger River, once known as French Sudan or Mali is now directly under our control. Though this colony needs a better administration that we will have difficulties to provide. Nevertheless, the local people and the remnants of the French administration can administer it for us to an extent, should we let them form a loyal puppet state?"
+ annexation_556_desc: "Долина річки Нігер, колись відома як Французький Судан або Малі, тепер перебуває під нашим прямим контролем. Утім, цій колонії потрібна ефективніша адміністрація, яку нам буде важко забезпечити. Тим не менш, місцеве населення та залишки французької адміністрації можуть певною мірою управляти нею замість нас. Чи варто дозволити їм утворити лояльну маріонеткову державу?"
  annexation_events.5017.a: "Створити державу Малі."
 
  annexation_808: "Доля Верхньої Вольти"
@@ -1912,7 +1912,7 @@
  annexation_events.5018.a: "Створити державу Верхня Вольта."
 
  annexation_809: "Доля Нігеру"
- annexation_809_desc: "Our proud armies have just annexed the former French colony of Niger which is now in need of a proper government, should we establish our administration there or should we let them form a local government?"
+ annexation_809_desc: "Наші звитяжні армії щойно анексували колишню французьку колонію Нігер, яка тепер потребує належного уряду. Чи варто нам встановити там власну адміністрацію, чи краще дозволити їм сформувати місцевий уряд?"
  annexation_events.5019.a: "Створити державу Нігер."
 
  annexation_515: "Доля Чаду"
@@ -1921,8 +1921,8 @@
 
  annexation_461: "Доля Марокко"
  annexation_461_desc: "Ми звільнили Марокко від німців, але наші сили зараз мають труднощі з окупацією гірських і напівзасушливих районів країни. Хоча міські центри знаходяться під нашим контролем, можливо, було б розумно передати подальший контроль місцевим жителям."
- annexation_events.5021.a: "Liberate a Moroccan republic."
- annexation_events.5021.b: "Restore the Alaouite monarch."
+ annexation_events.5021.a: "Звільнити марокканську республіку."
+ annexation_events.5021.b: "Відновити монарха з династії Алауїтів."
 
  annexation_699: "Доля Ріо-де-Оро"
  annexation_699_desc: "Пустельний район Ріо-де-Оро зараз знаходиться під нашим контролем. Ми маємо вирішити, що з ним робити."
@@ -1986,7 +1986,7 @@
  annexation_events.5037.b: "Відновити монархію Меріни."
 
  annexation_681: "Доля Південної Африки"
- annexation_681_desc: "Finally the African dominion of South Africa has capitulated to our glorious armies which now march through the Cape. After the start of our military occupation and now that the war is finished some voices have arisen claiming we need to create a puppet South African nation to keep the area under control but during those discussions, another issue has been brought to the table: if we do create this puppet state, should it retain the protectorate of Bechuanaland and the disillusioned province of Southern Rhodesia it has controlled for over a decade, or should we reduce their zone of influence to the core of the country? It is now yours to decide."
+ annexation_681_desc: "Зрештою Південна Африка капітулювала перед нашими славетними арміями, які нині крокують Капською землею. Після початку нашої військової окупації й тепер, коли війна закінчилася, пролунали голоси про необхідність створення маріонеткової південноафриканської держави для утримання регіону під контролем. Проте під час цих обговорень постало ще одне питання: якщо ми й створимо цю маріонеткову державу, чи повинна вона зберегти протекторат Бечуаналенд та зневірену провінцію Південна Родезія, які вона контролювала понад десятиліття, чи нам слід обмежити їхню зону впливу лише корінними землями країни? Вибір за вами."
  annexation_events.5038.a: "Звільнити Південну Африку."
 
  annexation_541: "Доля Намібії"
@@ -1994,7 +1994,7 @@
  annexation_events.5039.a: "Створити державу Намібія!"
 
  annexation_542: "Доля Ботсвани"
- annexation_542_desc: "The protectorate of Botswana, switched from British to South African leadership has seen many changes and is now prime for independence. Should we create a Botswanan satellite?"
+ annexation_542_desc: "Протекторат Ботсвана, що перейшов від британського до південноафриканського керівництва, зазнав багатьох змін і тепер цілком готовий до незалежності. Чи варто нам створити ботсванського сателіта?"
  annexation_events.5040.a: "Створити державу Ботсвана."
 
  annexation_545: "Доля Зімбабве"
@@ -2013,7 +2013,7 @@
  annexation_892_desc: "Спірні прикордонні території між Кенією і Сомалі були взяті під наш контроль після того, як наші війська окупували регіон. Тепер ми повинні вирішити, що з ними робити."
 
  annexation_296: "Доля Португальської Гвінеї"
- annexation_296_desc: "Now that we occupy the former Portuguese colony of Guinea, it has been suggested that a puppet government be set up, administered in part by locals; should we proceed with this arrangement, it would be prudent to move the seat of government from Bolama - a colonial relic, difficult to access and far removed from the mainland - to Bissau, whose more central location offers a more solid foundation for a future state."
+ annexation_296_desc: "Тепер, коли ми окупували колишню португальську колонію Гвінею, надійшла пропозиція створити маріонетковий уряд, керований частково місцевими жителями. Якщо ми погодимося на цей крок, було б розумно перенести резиденцію уряду з Болами — колоніального пережитку, важкодоступного й віддаленого від материка — до Бісау, чиє більш центральне розташування створить надійнішу основу для майбутньої держави."
  annexation_events.5045.a: "Сформувати державу Гвінея-Бісау"
 
  annexation_297: "Доля Екваторіальної Гвінеї"

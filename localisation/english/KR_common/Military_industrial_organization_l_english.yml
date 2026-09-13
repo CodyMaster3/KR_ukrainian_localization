@@ -8,7 +8,7 @@
  ### KR MIO Decision Category ###
  ################################
 
- MIO_decisions: "Military Industrial Organisations"
+ MIO_decisions: "Військово-промислові організації"
 
  #####################
  ### KR MIO Titles ###
@@ -16,7 +16,7 @@
 
  ### Generic ###
 
- generic_KR_general_purpose_organization: "General Purpose Manufacturer"
+ generic_KR_general_purpose_organization: "Виробник загального призначення"
 
  #########################################
  ### KR Subtitles (initial trait name) ###
@@ -24,7 +24,7 @@
 
  ### Material Equipment ###
 
- generic_KR_general_purpose_initial_trait: "General Purpose Designer"
+ generic_KR_general_purpose_initial_trait: "Конструктор загального призначення"
 
  #####################
  ### KR MIO Traits ###
@@ -35,298 +35,299 @@
 
  ### KR Generic Traits ###
 
- KR_MIO_Trait_optical_sights: "Optical Sights" #soft_attack/hard_attack/defense/breakthrough/ap_attack/air_attack/surface_detection/lg_attack/hg_attack
- KR_MIO_Trait_experimental_anti_tank_grenades: "Experimental Anti-Tank Grenades" #hard_attack/ap_attack/breakthrough/defense
- KR_MIO_Trait_expanded_fragmentation_grenades: "Expanded Fragmentation Grenades" #soft_attack/breakthrough/defense
- KR_MIO_Trait_experimental_body_armour: "Experimental Body Armour" #defense/breakthrough
- KR_MIO_Trait_experimental_anti_vehicle_mines: "Experimental Anti-Vehicle Mines" #hard_attack/ap_attack/breakthrough/defense
- KR_MIO_Trait_fire_selectors: "Fire Selectors" #reliability/soft_attack/defense/breakthrough
- KR_MIO_Trait_lmg_rotary_feed_cylinders: "LMG Rotary Feed Cylinders" #soft_attack/defense/breakthrough/reliability
- KR_MIO_Trait_experimental_semi_automatic_rifles: "Experimental Semi-Automatic Rifles" #soft_attack/defense/breakthrough
- KR_MIO_Trait_mortar_spring_loaded_shock_absorbers: "Mortar Spring-Loaded Shock Absorbers" #soft_attack/defense/breakthrough
- KR_MIO_Trait_smoothed_hmg_feeding_system: "Smoothed HMG Feeding System" #soft_attack/defense/breakthrough/reliability
- KR_MIO_Trait_mine_tilt_rod_fuses: "Mine Tilt Rod Fuses" #soft_attack/defense/hard_attack/ap_attack
- KR_MIO_Trait_heavier_mortar_strike_packages: "Heavier Mortar Strike Packages" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_lighter_infantry_equipment: "Lighter Infantry Equipment" #maximum_speed
- KR_MIO_Trait_incendiary_bottles: "Incendiary Bottles" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_clear_cycling_jamming_faults: "Clear Cycling Jamming Faults" #reliability
- KR_MIO_Trait_increased_fire_rate: "Increased Fire-Rate" #soft_attack/defense/hard_attack/breakthrough/air_superiority/air_attack/lg_attack/hg_attack/air_attack/torpedo_attack
- KR_MIO_Trait_increased_small_arms_fire_rate: "Increased Small Arms Fire-Rate" #soft_attack/defense/breakthrough
- KR_MIO_Trait_repurposed_civilian_motorcycles: "Repurposed Civilian Motorcycles" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_incendiary_anti_tank_ampulla_throwers: "Incendiary Anti-Tank Ampulla-Throwers" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_government_enticement: "Government Enticement" #military_industrial_organization_research_bonus/military_industrial_organization_funds_gain/military_industrial_organization_size_up_requirement
- KR_MIO_Trait_extended_smg_lmg_magazines: "Extended SMG/LMG Magazines" #soft_attack/defense/breakthrough
- KR_MIO_Trait_emergency_replacement_parts: "Emergency Replacement Parts" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor/reliability
- KR_MIO_Trait_long_life_production_run: "Long-Life Production Run" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_standardise_parts: "Standardise Parts" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_joint_front_line_designer_development_teams: "Joint Front Line Designer-Development Teams" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_influence_from_competing_branches: "Influence From Competing Branches" #any
- KR_MIO_Trait_internal_development_of_anti_air_guns: "Internal Development of Anti-Air Guns" #any
- KR_MIO_Trait_expanded_engineer_department: "Expanded Engineer Department" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/
- KR_MIO_Trait_extended_barrel_life: "Extended Barrel Life" #reliability
- KR_MIO_Trait_increased_firing_range: "Increased Firing Range" #soft_attack/defense/breakthrough/hard_attack/ap_attack/air_attack/air_superiority/hg_attack/lg_attack/torpedo_attack
- KR_MIO_Trait_improved_repair_procedures: "Improved Repair Procedures" #reliability
- KR_MIO_Trait_simplified_iterative_design_process: "Simplified Iterative Design Process" #reliability/military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
- KR_MIO_Trait_specialize_in_heavy_artillery: "Specialize in Heavy Artillery" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_apc_shells: "APC Shells" #hard_attack/ap_attack/breakthrough/defense
- KR_MIO_Trait_short_term_government_contracts: "Short Term Government Contracts" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_long_term_government_contracts: "Long Term Government Contracts" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_specialize_in_siege_artillery: "Specialize in Siege Artillery" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_specialize_in_naval_artillery: "Specialize in Naval Artillery" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_quality_manufacturing_tools: "Quality Manufacturing Tools" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_dedicated_conversion_facilities: "Dedicated Conversion Facilities" #production_conversion_speed_factor
- KR_MIO_Trait_decreased_shell_windage: "Decreased Shell Windage" #soft_attack/defense/breakthrough/hard_attack/ap_attack/air_attack/air_superiority/hg_attack/lg_attack
- KR_MIO_Trait_crane_operated_reloading_mechanism: "Crane Operated Reloading Mechanism" #railway_gun_attack
- KR_MIO_Trait_experimental_prototypes: "Experimental Prototypes" #any
- KR_MIO_Trait_thoroughly_tested_designs: "Thoroughly Tested Designs" #reliability/military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
- KR_MIO_Trait_illumination_shells: "Illumination Shells" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_standardised_ammunition_sizes: "Standardised Ammunition Sizes" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_increased_propellant: "Increased Propellant" #soft_attack/defense/breakthrough/hard_attack/ap_attack/air_attack/air_superiority/hg_attack/lg_attack
- KR_MIO_Trait_interservice_competition_for_material_suppliers: "Interservice Competition For Material Suppliers" #production_resource_need_factor/production_resource_penalty_factor
- KR_MIO_Trait_interservice_cooperation: "Interservice Cooperation" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_build_our_own_facilities: "Build Our Own Facilities" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_build_joint_facilities: "Build Joint Facilities" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_share_engine_design_with_aircraft_department: "Share Engine Design with Aircraft Department" #maximum_speed/fuel_consumption/build_cost_ic
- KR_MIO_Trait_increased_salaries: "Increased Salaries" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_workplace_propaganda: "Workplace Propaganda" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_expanded_design_department: "Expanded Design Department" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
- KR_MIO_Trait_improved_fragmentation_rockets: "Improved Fragmentation Rockets" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_improved_shrapnel_rockets: "Improved Shrapnel Rockets" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_larger_rocket_rack: "Larger Rocket Rack" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_heavier_rocket_payload: "Heavier Rocket Payload" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_spiral_launch_frame: "Spiral Launch Frame" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_recognise_survivourship_bias_reports: "Recognise Survivourship Bias Reports" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
- KR_MIO_Trait_weight_centered_turret_design: "Weight Centered Turret Design" #any
- KR_MIO_Trait_composite_armour: "Composite Armour" #armor_value/hardness/defense/breakthrough/air_defence/air_superiority
- KR_MIO_Trait_gurdier_alloys: "Sturdier Alloys" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_improved_dozer_equipment: "Improved Dozer Equipment" #armor_value/hardness/defense/entrenchment
- KR_MIO_Trait_side_skurts: "Side Skurts" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_telescopic_sights: "Telescopic Sights" #soft_attack/defense/breakthrough/hard_attack/sufrace_detection
- KR_MIO_Trait_increased_muzzle_velocity: "Increased Muzzle Velocity" #hard_attack/ap_attack/breakthrough/defense
- KR_MIO_Trait_inner_ridged_cannon: "Inner-Ridged Cannon" #soft_attack/defense/breakthrough/hard_attack/ap_attack/hg_attack/lg_attack
- KR_MIO_Trait_experimental_apds_ammunition: "Experimental APDS Ammunition" #hard_attack/ap_attack/breakthrough/defense
- KR_MIO_Trait_reinforced_tracks: "Reinforced Tracks" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_mine_resistant_underside: "Mine-Resistant Underside" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_suspension_improvements: "Suspension Improvements" #reliability/maximum_speed/defense/breakthrough
- KR_MIO_Trait_frontline_design_reporters: "Frontline Design Reporters" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
- KR_MIO_Trait_politically_connected_designers: "Politically Connected Designers" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus/military_industrial_organization_funds_gain
- KR_MIO_Trait_spare_on_board_parts: "Spare On-Board Parts" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_eliminate_small_arms_weak_spots: "Eliminate Small Arms Weak Spots" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_refined_gearbox: "Refined Gearbox" #reliability/maximum_speed
- KR_MIO_Trait_increased_internal_ammunition_capacity: "Increased Internal Ammunition Capacity" #any
- KR_MIO_Trait_additional_space_for_fuel_drums: "Additional Space For Fuel Drums" #fuel_capacity
- KR_MIO_Trait_efficient_engine_design: "Efficient Engine Design" #maximum_speed/fuel_consumption/fuel_capacity
- KR_MIO_Trait_experimental_hei_ammunition: "Experimental HEI Ammunition" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_experimental_hesh_ammunition: "Experimental HESH Ammunition" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_joint_allied_research_department: "Joint Allied Research Department" #military_industrial_organization_research_bonus
- KR_MIO_Trait_joint_allied_production_department: "Joint Allied Production Department" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_inspiration_from_anti_air_gun_designs: "Inspiration From Anti-Air Gun Designs" #air_attack
- KR_MIO_Trait_longer_work_hours: "Longer Work Hours" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_prevent_internal_armour_fragmentation: "Prevent Internal Armour Fragmentation" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_repurposed_infantry_support_weapons: "Repurposed Infantry Support Weapons" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_simplify_engine_design: "Simplify Engine Design" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_cheaper_ignition_setup: "Cheaper Ignition Setup" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_setup_additional_facilities: "Setup Additional Facilities" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_adaptable_hull_design: "Adaptable Hull Design" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_local_arms_factories: "Local Arms Factories" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_earth_pits_for_casting_armour: "Earth Pits for Casting Armour" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_designed_obsolesence: "Designed Obsolesence" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_experimental_radar: "Experimental Radar" #sub_detection/surface_detection/air_bombing/night_penalty
- KR_MIO_Trait_expanded_fuel_storage: "Expanded Fuel Storage" #air_range/naval_range/fuel_consumption
- KR_MIO_Trait_reduced_torpedo_size: "Reduced Torpedo Size" #torpedo_attack/naval_strike_attack/naval_strike_targetting
- KR_MIO_Trait_torpedo_impact_testing: "Torpedo Impact Testing" #torpedo_attack/naval_strike_attack/naval_strike_targetting
- KR_MIO_Trait_attract_foreign_private_investments: "Attract Foreign Private Investments" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_attract_government_investments: "Attract Government Investments" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_lighter_fuselage: "Lighter Fuselage" #air_superiority/naval_strike_attack/naval_strike_targetting/weight/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_experimental_fuselage_designs: "Experimental Fuselage Designs" #air_superiority/naval_strike_attack/naval_strike_targetting/weight/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_improved_materials_for_radiator_cooling: "Improved Materials For Radiator Cooling" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_improve_engine_overheat_limit: "Improve Engine Overheat Limit" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_standardized_torpedo_locks: "Standardized Torpedo Locks" #reliability
- KR_MIO_Trait_heavier_torpedo_payload: "Heavier Torpedo Payload" #naval_strike_attack/naval_strike_targetting
- KR_MIO_Trait_additional_minelaying_storage: "Additional Minelaying Storage" #mines_planting
- KR_MIO_Trait_stronger_magnetic_demining_coil: "Stronger Magnetic Demining Coil" #mines_sweeping
- KR_MIO_Trait_improved_aerodynamic_profile: "Improved Aerodynamic Profile" #air_superiority/naval_strike_attack/naval_strike_targetting/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_reduce_machine_gun_spread: "Reduce Machine Gun Spread" #air_superiority/air_attack/soft_attack/defense/breakthrough
- KR_MIO_Trait_eliminate_aircraft_weak_spots: "Eliminate Aircraft Weak Spots" #air_superiority/naval_strike_attack/naval_strike_targetting/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_improved_gliding_potential: "Improved Gliding Potential" #air_range
- KR_MIO_Trait_improved_ammunition_yawing: "Improved Ammunition Yawing" #air_attack/soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_redesigned_cockpit: "Redesigned Cockpit" #air_defence
- KR_MIO_Trait_improved_turning_capabilities: "Improved Turning Capabilities" #air_superiority/air_agility/air_defence
- KR_MIO_Trait_eliminate_wasteful_fuel_use: "Eliminate Wasteful Fuel Use" #air_range/fuel_consumption
- KR_MIO_Trait_internal_component_isolation: "Internal Component Isolation" #reliability
- KR_MIO_Trait_increase_wing_loading_limit: "Increase Wing Loading Limit" #air_superiority/naval_strike_attack/naval_strike_targetting/air_agility/air_attack/air_defence
- KR_MIO_Trait_eliminate_random_engine_fires: "Eliminate Random Engine Fires" #reliability
- KR_MIO_Trait_improved_propeller_design: "Improved Propeller Design" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_hexagonal_bombs: "Hexagonal Bombs" #air_bombing/air_ground_attack
- KR_MIO_Trait_cluster_munitions: "Cluster Munitions" #air_bombing/air_ground_attack/soft_attack/defense/breakthrough
- KR_MIO_Trait_heavier_explosive_payload: "Heavier Explosive Payload" #soft_attack/hard_attack/ap_attack/defense/breakthrough/lg_attack/hg_attack/hg_armor_piercing/lg_armor_piercing/torpedo_attack/sub_attack/air_bombing/air_ground_attack
- KR_MIO_Trait_air_ground_radar: "Air-Ground Radar" #sub_detection/surface_detection/air_bombing/night_penalty
- KR_MIO_Trait_additional_weakspot_protection: "Additional Weakspot Protection" #defense/breakthrough/armor_value/hardness/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/air_superiority/reliability/air_defence
- KR_MIO_Trait_improved_bomb_fins: "Improved Bomb Fins" #air_bombing/air_ground_attack
- KR_MIO_Trait_standardise_cas_parts: "Standardise CAS Parts" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_externally_mounted_bombs: "Externally Mounted Bombs" #air_bombing/air_ground_attack
- KR_MIO_Trait_engine_turbocharger: "Engine Turbocharger" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_reinforced_undercarriage: "Reinforced Undercarriage" #air_defence
- KR_MIO_Trait_increased_work_hours: "Increased Work Hours" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_eliminate_resource_waste: "Eliminate Resource Waste" #production_resource_need_factor/production_resource_penalty_factor
- KR_MIO_Trait_material_recycling: "Material Recycling" #production_resource_need_factor/production_resource_penalty_factor
- KR_MIO_Trait_simplified_dissasembly_procedures: "Simplified Dissasembly Procedures" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_cheaper_materials: "Cheaper Materials" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_double_bottom: "Double Bottom" #armor_value/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_double_hull: "Double Hull" #armor_value/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_additional_aircraft_spacing: "Additional Aircraft Spacing" #carrier_size
- KR_MIO_Trait_universalized_carrier_designs: "Universalized Carrier Designs" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_autonomous_turbine_columns: "Autonomous Turbine Columns" #naval_speed/naval_range
- KR_MIO_Trait_impulse_type_turbines: "Impulse-Type Turbines" #naval_speed/naval_range
- KR_MIO_Trait_welded_armoured_decks: "Welded Armoured Decks" #armor_value/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_individual_fire_pumps: "Individual Fire Pumps" #reliability/max_strength
- KR_MIO_Trait_fire_main_pipe: "Fire Main Pipe" #reliability/max_strength
- KR_MIO_Trait_collaborate_with_national_companies: "Collaborate With National Companies" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
- KR_MIO_Trait_additional_fuel_capacity_for_plane_catapult_module: "Additional Fuel Capacity For Plane Catapult Module" #surface_detection
- KR_MIO_Trait_improve_light_gunnery_targetting: "Improve Gunnery Targetting" #naval_light_gun_hit_chance_factor/naval_heavy_gun_hit_chance_factor/hg_attack/lg_attack
- KR_MIO_Trait_improve_torpedo_targetting: "Improve Torpedo Targetting" #naval_torpedo_hit_chance_factor/torpedo_attack
- KR_MIO_Trait_sonobuoys: "Sonobuoys" #sub_detection
- KR_MIO_Trait_denser_small_calibre_penetration_materials: "Denser Small Calibre Penetration Materials" #soft_attack/defense/breakthrough/defense/lg_attack/lg_armor_piercing
- KR_MIO_Trait_denser_heavy_calibre_penetration_materials: "Denser Heavy Calibre Penetration Materials" #hard_attack/ap_attack/breakthrough/defense/hg_attack/hg_armor_piercing
- KR_MIO_Trait_efficient_engine_designs: "Efficient Engine Designs" #maximum_speed/reliability/naval_speed/thrust/air_agility/air_defence
- KR_MIO_Trait_simplified_internal_compartments: "Simplified Internal Compartments" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_simplified_ship_designs: "Simplified Ship Designs" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_improved_ship_camouflage_patterns: "Improved Ship Camouflage Patterns" #surface_visibility/sub_visibility
- KR_MIO_Trait_additional_anti_air_weapons: "Additional Anti-Air Weapons" #air_attack
- KR_MIO_Trait_increased_fuel_efficiency: "Increased Fuel Efficiency" #fuel_consumption
- KR_MIO_Trait_high_quality_engines: "High Quality Engines" #maximum_speed/reliability/naval_speed/thrust/air_agility/air_defence
- KR_MIO_Trait_extensive_testing: "Extensive Testing" #reliability
- KR_MIO_Trait_increase_worker_salaries: "Increase Worker Salaries" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_larger_externally_mounted_fuel_tanks: "Larger Externally Mounted Fuel Tanks" #fuel_capacity
- KR_MIO_Trait_stronger_tracks: "Stronger Tracks" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_extended_engine_lifespan: "Extended Engine Lifespan" #reliability
- KR_MIO_Trait_clear_gearbox_faults: "Clear Gearbox Faults" #reliability
- KR_MIO_Trait_smoothed_steering: "Smoothed Steering" #reliability
- KR_MIO_Trait_increased_anti_air_explosive_shell_packaging: "Increased Anti-Air Explosive Shell Packaging" #air_attack
- KR_MIO_Trait_expanded_labour_pool: "Expanded Labour Pool" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_long_life_production_runs: "Long-Life Production Runs" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_rapid_upscaling: "Rapid Upscaling" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_extreme_rapid_upscaling: "Extreme Rapid Upscaling" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_smoothen_bureaucratic_procedures: "Smoothen Bureaucratic Procedures" #military_industrial_organization_design_team_assign_cost
- KR_MIO_Trait_government_contract_favoritism: "Government Contract Favoritism" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus/military_industrial_organization_funds_gain
- KR_MIO_Trait_mass_produced_interchangable_armour_plates: "Mass Produced Interchangable Armour Plates" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_thicker_side_skurts: "Thicker Side Skurts" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_double_plated_side_skurts: "Double-Plated Side Skurts" #armor_value/hardness/defense/breakthrough
- KR_MIO_Trait_wedge_breechblocks: "Wedge Breechblocks" #soft_attack/hard_attack/lg_attack/defense/breakthrough
- KR_MIO_Trait_top_side_turret_machinegun_protection: "Top-Side Turret Machinegun Protection" #hardness/defense
- KR_MIO_Trait_expanded_state_investment: "Expanded State Investment" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_thicker_armour_plating: "Thicker Armour Plating" #hardness/defense/armor_value
- KR_MIO_Trait_extensively_detailed_crew_manuals: "Extensively Detailed Crew Manuals" #any
- KR_MIO_Trait_hire_additional_designers: "Hire Additional Designers" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
- KR_MIO_Trait_fully_cast_turret: "Fully Cast Turret" #hardness/defense/armor_value
- KR_MIO_Trait_double_layered_armour: "Double Layered Armour" #hardness/defense/armor_value/max_strength
- KR_MIO_Trait_ergonomic_interior: "Ergonomic Interior" #any
- KR_MIO_Trait_denser_shell_tipped_penetration_materials: "Denser Shell Tipped Penetration Materials" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
- KR_MIO_Trait_increased_shell_payload: "Increased Shell Payload" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
- KR_MIO_Trait_increased_shell_velocity: "Increased Shell Velocity" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
- KR_MIO_Trait_stable_firing_mechanisms: "Stable Firing Mechanisms" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/
- KR_MIO_Trait_external_armour_belt: "External Armour Belt" #hardness/defense/armor_value/max_strength
- KR_MIO_Trait_increase_gun_calibre: "Increase Gun Calibre" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
- KR_MIO_Trait_increased_passive_sonar_range: "Increased Passive Sonar Range" #sub_detection/surface_detection
- KR_MIO_Trait_increased_fuel_tank_capacity: "Increased Fuel Tank Capacity" #fuel_capacity
- KR_MIO_Trait_additional_anti_air_weapon_systems: "Additional Anti-Air Weapon Systems" #air_attack
- KR_MIO_Trait_increased_activate_sonar_range: "Increased Activate Sonar Range" #sub_detection/surface_detection
- KR_MIO_Trait_increased_depth_charge_inventory: "Increased Depth Charge Inventory" #sub_attack
- KR_MIO_Trait_increased_depth_charge_payload: "Increased Depth Charge Payload" #sub_attack
- KR_MIO_Trait_sturdier_hulls: "Sturdier Hulls" #hardness/defense/armor_value/max_strength
- KR_MIO_Trait_dedicated_refit_bays: "Dedicated Refit Bays" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_dedicated_conversion_bays: "Dedicated Conversion Bays" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_dedicated_repair_bays: "Dedicated Repair Bays" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_anti_torpedo_bulge: "Anti-Torpedo Bulge" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_counter_flooding_system: "Counter Flooding System" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_flooding_boundries: "Flooding Boundries" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_harden_external_armour_belt: "Harden External Armour Belt" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength/armor_value
- KR_MIO_Trait_isolated_and_secure_magazine_storage: "Isolated And Secure Magazine Storage" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
- KR_MIO_Trait_regular_inspections: "Regular Inspections" #reliability
- KR_MIO_Trait_reduce_propellor_noise: "Reduce Propellor Noise" #sub_visibility
- KR_MIO_Trait_improved_hydrodynamic_design: "Improved Hydrodynamic Design" #naval_speed
- KR_MIO_Trait_increase_mine_capacity: "Increase Mine Capacity" #mines_planting
- KR_MIO_Trait_open_cycle_propulsion: "Open-Cycle Propulsion" #naval_speed
- KR_MIO_Trait_large_torpedo_banks: "Large Torpedo Banks" #torpedo_attack
- KR_MIO_Trait_increased_contact_detonator_reliability: "Increased Contact Detonator Reliability" #reliability
- KR_MIO_Trait_longer_catapult_launch_system: "Longer Catapult Launch System" #surface_detection
- KR_MIO_Trait_longer_radar_range: "Longer Radar Range" #sub_detection/surface_detection
- KR_MIO_Trait_high_quality_optics: "High Quality Optics" #sub_detection/surface_detection/soft_attack/hard_attack/defense/breakthrough/surface_detection
- KR_MIO_Trait_additional_radar_arrays: "Additional Radar Arrays" #sub_detection/surface_detection
- KR_MIO_Trait_additional_dockyard_facilities: "Additional Dockyard Facilities" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_restructure_development_procedures: "Restructure Development Procedures" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_prioritise_acquiring_machine_tools: "Prioritise Acquiring Machine Tools" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_rush_design_process: "Rush Design Process" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_government_lobbying: "Government Lobbying" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
- KR_MIO_Trait_stricter_design_specifications: "Stricter Design Specifications" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
- KR_MIO_Trait_space_efficient_designs: "Space Efficient Designs" #any
- KR_MIO_Trait_expanded_bomb_bay: "Expanded Bomb Bay" #air_bombing/air_ground_attack
- KR_MIO_Trait_improved_aerodynamic_bomb_profile: "Improved Aerodynamic Bomb Profile" #air_bombing/air_ground_attack
- KR_MIO_Trait_invest_in_aerial_mining_demining_equipment: "Invest In Aerial Mining & Demining Equipment" #mines_planting/mines_sweeping
- KR_MIO_Trait_increased_fuel_tank_size: "Increased Fuel Tank Size" #naval_range/air_range/fuel_consumption/fuel_capacity
- KR_MIO_Trait_eliminate_torpedo_lock_jams: "Eliminate Torpedo Lock Jams" #reliability
- KR_MIO_Trait_reinforced_fuselage: "Reinforced Fuselage" #air_superiority/naval_strike_attack/naval_strike_targetting/weight/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_high_quality_materials_for_radiator_cooling: "High Quality Materials For Radiator Cooling" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
- KR_MIO_Trait_increased_fire_accuracy: "Increased Fire Accuracy" #air_superiority/air_attack/soft_attack/hard_attack/ap_attack/defense/breakthrough/lg_attack/hg_attack/torpedo_attack
- KR_MIO_Trait_increased_armament_fire_rate: "Increased Armament Fire Rate" #air_superiority/air_attack
- KR_MIO_Trait_increased_wing_loading_limit: "Increased Wing Loading Limit" #air_superiority/naval_strike_attack/naval_strike_targetting/air_agility/air_attack/air_defence
- KR_MIO_Trait_redesign_engine: "Redesign Engine" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence/naval_range
- KR_MIO_Trait_fuel_efficient_engines: "Fuel Efficient Engines" #fuel_consumption/air_range/naval_range
- KR_MIO_Trait_on_board_fuel_tank_storage: "On-Board Fuel Tank Storage" #air_range/fuel_capacity
- KR_MIO_Trait_expanded_external_fuel_tanks: "Expanded External Fuel Tanks" #air_range/fuel_capacity
- KR_MIO_Trait_r_d_department_expansion: "R&D Department Expansion" #military_industrial_organization_research_bonus
- KR_MIO_Trait_heat_bombs: "HEAT Bombs" #air_ground_attack
- KR_MIO_Trait_improved_air_brakes: "Improved Air Brakes" #air_superiority/naval_strike_attack/naval_strike_targetting/air_agility/air_attack/air_defence/air_ground_attack
- KR_MIO_Trait_air_burst_turret_munitions: "Air-Burst Turret Munitions" #air_defence/air_attack
- KR_MIO_Trait_increased_turret_fire_rate: "Increased Turret Fire Rate" #air_defence/air_attack
- KR_MIO_Trait_additional_turret_ammunition_storage: "Additional Turret Ammunition Storage" #air_defence/air_attack
- KR_MIO_Trait_increased_turret_accuracy: "Increased Turret Accuracy" #air_defence/air_attack
- KR_MIO_Trait_bigger_bomb_bay: "Bigger Bomb Bay" #air_bombing/air_ground_attack
- KR_MIO_Trait_simplify_dissasembly_procedures: "Simplify Dissasembly Procedures" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_simplify_assembly_procedures: "Simplify Assembly Procedures" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_inner_barrel_rifling: "Inner Barrel Rifling" #soft_attack/hard_attack/ap_attack/defense/breakthrough/hg_attack/lg_attack/hg_armor_piercing/lg_armor_piercing/air_attack/air_defense
- KR_MIO_Trait_increase_mine_explosive_yield: "Increase Mine Explosive Yield" #soft_attack/hard_attack/ap_attack/defense/breakthrough
- KR_MIO_Trait_lightweight_infantry_equipment: "Lightweight Infantry Equipment" #maximum_speed
- KR_MIO_Trait_increased_hmg_lmg_fire_rate: "Increased HMG/LMG Fire Rate" #soft_attack/defense/breakthrough
- KR_MIO_Trait_increased_hmg_lmg_accuracy: "Increased HMG/LMG Accuracy" #soft_attack/defense/breakthrough
- KR_MIO_Trait_increased_recoilless_rifle_velocity: "Increased Recoilless Rifle Muzzle Velocity" #hard_attack/ap_attack/defense/breakthrough
- KR_MIO_Trait_extended_hmg_lmg_magazines: "Extended HMG/LMG Magazines" #soft_attack/defense/breakthrough
- KR_MIO_Trait_increased_rifle_magazines: "Increased Rifle Magazines" #soft_attack/defense/breakthrough
- KR_MIO_Trait_anti_tank_sticky_bombs: "Anti-Tank Sticky Bombs" #hard_attack/ap_attack/defense/breakthrough
- KR_MIO_Trait_clear_magazine_jam_faults: "Clear Magazine Jam Faults" #reliability
- KR_MIO_Trait_simplify_mortar_designs: "Simplify Mortar Designs" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_simplified_bazooka_designs: "Simplified Bazooka Designs" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_cheaper_ammunition: "Cheaper Ammunition" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_standardise_optical_sights: "Standardise Optical Sights" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_apbc_shells: "APBC Shells" #hard_attack/ap_attack/defense/breakthrough
- KR_MIO_Trait_increased_fragmentation_shell_fragments: "Increased Fragmentation Shell Fragments" #soft_attack/defense/breakthrough
- KR_MIO_Trait_specialise_in_heavy_artillery: "Specialise In Heavy Artillery" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_apcbc_shells: "APCBC Shells" #hard_attack/ap_attack/defense/breakthrough
- KR_MIO_Trait_expertly_timed_fuses: "Expertly Timed Fuses" #soft_attack/defense/breakthrough/hard_attack/ap_attack/hg_attack/lg_attack
- KR_MIO_Trait_specialise_in_siege_artillery: "Specialise In Siege Artillery" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_increased_air_burst_munition_fragments: "Increased Air Burst Munition Fragments" #air_attack
- KR_MIO_Trait_bigger_gun_shields: "Bigger Gun Shields" #hardness/defense
- KR_MIO_Trait_reduce_small_arms_vulnerabilities: "Reduce Small Arms Vulnerabilities" #hardness/defense/armor_value/breakthrough
- KR_MIO_Trait_closed_chassis: "Closed Chassis" #hardness/defense/armor_value/breakthrough
- KR_MIO_Trait_bullet_proof_panels: "Bullet Proof Panels" #hardness/defense/armor_value/breakthrough
- KR_MIO_Trait_armoured_pulpit_mount: "Armoured Pulpit Mount" #hardness/defense/armor_value/breakthrough
- KR_MIO_Trait_utilise_lighter_materials: "Utilise Lighter Materials" #maximum_speed
- KR_MIO_Trait_clear_random_engine_jams: "Clear Random Engine Jams" #reliability
- KR_MIO_Trait_stress_tested_gearbox: "Stress Tested Gearbox" #reliability/maximum_speed
- KR_MIO_Trait_stress_tested_supension_system: "Stress Tested Supension System" #reliability
- KR_MIO_Trait_reduced_engine_noise: "Reduced Engine Noise" #sub_visibility
- KR_MIO_Trait_longer_barrels: "Longer Barrels" #hard_attack/ap_attack/soft_attack/defense/breakthrough
- KR_MIO_Trait_smoother_transmission: "Smoother Transmission" #maximum_speed
- KR_MIO_Trait_rush_production_process: "Rush Production Process" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_optical_sights: "Оптичні приціли"
+ KR_MIO_Trait_experimental_anti_tank_grenades: "Експериментальні протитанкові гранати"
+ KR_MIO_Trait_expanded_fragmentation_grenades: "Покращені осколкові гранати"
+ KR_MIO_Trait_experimental_body_armour: "Експериментальні бронежилети"
+ KR_MIO_Trait_experimental_anti_vehicle_mines: "Експериментальні протитранспортні міни"
+ KR_MIO_Trait_fire_selectors: "Перемикачі режимів вогню"
+ KR_MIO_Trait_lmg_rotary_feed_cylinders: "Барабанні магазини для ручних кулеметів"
+ KR_MIO_Trait_experimental_semi_automatic_rifles: "Експериментальні самозарядні гвинтівки"
+ KR_MIO_Trait_mortar_spring_loaded_shock_absorbers: "Пружинні амортизатори мінометів"
+ KR_MIO_Trait_smoothed_hmg_feeding_system: "Покращена система подачі важких кулеметів"
+ KR_MIO_Trait_mine_tilt_rod_fuses: "Штирові підривники для мін"
+ KR_MIO_Trait_heavier_mortar_strike_packages: "Важчі мінометні боєприпаси"
+ KR_MIO_Trait_lighter_infantry_equipment: "Полегшене піхотне спорядження"
+ KR_MIO_Trait_incendiary_bottles: "Запальні пляшки"
+ KR_MIO_Trait_clear_cycling_jamming_faults: "Усунення затримок під час стрільби"
+ KR_MIO_Trait_increased_fire_rate: "Підвищена швидкострільність"
+ KR_MIO_Trait_increased_small_arms_fire_rate: "Підвищена швидкострільність стрілецької зброї"
+ KR_MIO_Trait_repurposed_civilian_motorcycles: "Переобладнані цивільні мотоцикли"
+ KR_MIO_Trait_incendiary_anti_tank_ampulla_throwers: "Запальні протитанкові ампуломети"
+ KR_MIO_Trait_government_enticement: "Урядові стимули"
+ KR_MIO_Trait_extended_smg_lmg_magazines: "Збільшені магазини для ПП та кулеметів"
+ KR_MIO_Trait_emergency_replacement_parts: "Аварійні запасні частини"
+ KR_MIO_Trait_long_life_production_run: "Довгострокова виробнича серія"
+ KR_MIO_Trait_standardise_parts: "Стандартизація деталей"
+ KR_MIO_Trait_joint_front_line_designer_development_teams: "Спільні конструкторсько-фронтові групи"
+ KR_MIO_Trait_influence_from_competing_branches: "Вплив конкуруючих родів військ"
+ KR_MIO_Trait_internal_development_of_anti_air_guns: "Власна розробка зенітних гармат"
+ KR_MIO_Trait_expanded_engineer_department: "Розширений інженерний відділ"
+ KR_MIO_Trait_extended_barrel_life: "Збільшений ресурс ствола"
+ KR_MIO_Trait_increased_firing_range: "Збільшена дальність стрільби"
+ KR_MIO_Trait_improved_repair_procedures: "Покращені ремонтні процедури"
+ KR_MIO_Trait_simplified_iterative_design_process: "Спрощений поетапний процес проєктування"
+ KR_MIO_Trait_specialize_in_heavy_artillery: "Спеціалізація на важкій артилерії"
+ KR_MIO_Trait_apc_shells: "Бронебійні снаряди з балістичним наконечником"
+ KR_MIO_Trait_short_term_government_contracts: "Короткострокові державні контракти"
+ KR_MIO_Trait_long_term_government_contracts: "Довгострокові державні контракти"
+ KR_MIO_Trait_specialize_in_siege_artillery: "Спеціалізація на облоговій артилерії"
+ KR_MIO_Trait_specialize_in_naval_artillery: "Спеціалізація на морській артилерії"
+ KR_MIO_Trait_quality_manufacturing_tools: "Якісні виробничі інструменти"
+ KR_MIO_Trait_dedicated_conversion_facilities: "Спеціалізовані потужності для переобладнання"
+ KR_MIO_Trait_decreased_shell_windage: "Зменшений вітровий знос снарядів"
+ KR_MIO_Trait_crane_operated_reloading_mechanism: "Крановий механізм перезаряджання"
+ KR_MIO_Trait_experimental_prototypes: "Експериментальні прототипи"
+ KR_MIO_Trait_thoroughly_tested_designs: "Ретельно випробувані конструкції"
+ KR_MIO_Trait_illumination_shells: "Освітлювальні снаряди"
+ KR_MIO_Trait_standardised_ammunition_sizes: "Стандартизовані калібри боєприпасів"
+ KR_MIO_Trait_increased_propellant: "Збільшений пороховий заряд"
+ KR_MIO_Trait_interservice_competition_for_material_suppliers: "Міжвідомча конкуренція за постачальників матеріалів"
+ KR_MIO_Trait_interservice_cooperation: "Міжвідомча співпраця"
+ KR_MIO_Trait_build_our_own_facilities: "Будівництво власних потужностей"
+ KR_MIO_Trait_build_joint_facilities: "Будівництво спільних потужностей"
+ KR_MIO_Trait_share_engine_design_with_aircraft_department: "Обмін проєктами двигунів з авіаційним відділом"
+ KR_MIO_Trait_increased_salaries: "Підвищені заробітні плати"
+ KR_MIO_Trait_workplace_propaganda: "Виробнича пропаганда"
+ KR_MIO_Trait_expanded_design_department: "Розширене конструкторське бюро"
+ KR_MIO_Trait_improved_fragmentation_rockets: "Покращені осколкові ракети"
+ KR_MIO_Trait_improved_shrapnel_rockets: "Покращені шрапнельні ракети"
+ KR_MIO_Trait_larger_rocket_rack: "Збільшена пускова рама для ракет"
+ KR_MIO_Trait_heavier_rocket_payload: "Важча бойова частина ракет"
+ KR_MIO_Trait_spiral_launch_frame: "Спіральна пускова напрямна"
+ KR_MIO_Trait_recognise_survivourship_bias_reports: "Врахування звітів щодо систематичної помилки вцілілого" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
+ KR_MIO_Trait_weight_centered_turret_design: "Конструкція башти з відцентрованою вагою" #any
+ KR_MIO_Trait_composite_armour: "Комбінована броня" #armor_value/hardness/defense/breakthrough/air_defence/air_superiority
+ KR_MIO_Trait_gurdier_alloys: "Міцніші сплави" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_improved_dozer_equipment: "Покращене бульдозерне обладнання" #armor_value/hardness/defense/entrenchment
+ KR_MIO_Trait_side_skurts: "Бортові екрани" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_telescopic_sights: "Телескопічні приціли" #soft_attack/defense/breakthrough/hard_attack/sufrace_detection
+ KR_MIO_Trait_increased_muzzle_velocity: "Збільшена початкова швидкість снаряда" #hard_attack/ap_attack/breakthrough/defense
+ KR_MIO_Trait_inner_ridged_cannon: "Гармата з внутрішніми нарізами" #soft_attack/defense/breakthrough/hard_attack/ap_attack/hg_attack/lg_attack
+ KR_MIO_Trait_experimental_apds_ammunition: "Експериментальні підкаліберні снаряди" #hard_attack/ap_attack/breakthrough/defense
+ KR_MIO_Trait_reinforced_tracks: "Посилені гусениці" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_mine_resistant_underside: "Протимінне посилення днища" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_suspension_improvements: "Покращення підвіски" #reliability/maximum_speed/defense/breakthrough
+ KR_MIO_Trait_frontline_design_reporters: "Фронтові спостерігачі від конструкторів" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
+ KR_MIO_Trait_politically_connected_designers: "Конструктори з політичними зв'язками" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus/military_industrial_organization_funds_gain
+ KR_MIO_Trait_spare_on_board_parts: "Бортовий комплект запасних частин" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_eliminate_small_arms_weak_spots: "Усунення вразливих до стрілецької зброї місць" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_refined_gearbox: "Удосконалена коробка передач" #reliability/maximum_speed
+ KR_MIO_Trait_increased_internal_ammunition_capacity: "Збільшений внутрішній боєкомплект" #any
+ KR_MIO_Trait_additional_space_for_fuel_drums: "Додаткове місце для паливних бочок" #fuel_capacity
+ KR_MIO_Trait_efficient_engine_design: "Економічна конструкція двигуна" #maximum_speed/fuel_consumption/fuel_capacity
+ KR_MIO_Trait_experimental_hei_ammunition: "Експериментальні осколково-фугасні запальні снаряди" #soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_experimental_hesh_ammunition: "Експериментальні бронебійно-фугасні снаряди" #soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_joint_allied_research_department: "Спільний дослідницький відділ союзників" #military_industrial_organization_research_bonus
+ KR_MIO_Trait_joint_allied_production_department: "Спільний виробничий відділ союзників" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_inspiration_from_anti_air_gun_designs: "Запозичення рішень із конструкцій зенітних гармат" #air_attack
+ KR_MIO_Trait_longer_work_hours: "Подовжений робочий день" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_prevent_internal_armour_fragmentation: "Захист від внутрішнього сколювання броні" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_repurposed_infantry_support_weapons: "Переобладнана зброя піхотної підтримки" #soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_simplify_engine_design: "Спрощення конструкції двигуна" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_cheaper_ignition_setup: "Дешевша система запалювання" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_setup_additional_facilities: "Створення додаткових виробничих потужностей" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_adaptable_hull_design: "Адаптивна конструкція корпусу" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_local_arms_factories: "Місцеві збройові заводи" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_earth_pits_for_casting_armour: "Земляні ями для відливання броні" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_designed_obsolesence: "Заплановане застарівання" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_experimental_radar: "Експериментальний радар" #sub_detection/surface_detection/air_bombing/night_penalty
+ KR_MIO_Trait_expanded_fuel_storage: "Розширені баки для пального" #air_range/naval_range/fuel_consumption
+ KR_MIO_Trait_reduced_torpedo_size: "Зменшений розмір торпед" #torpedo_attack/naval_strike_attack/naval_strike_targetting
+ KR_MIO_Trait_torpedo_impact_testing: "Випробування торпед на контактне спрацьовування" #torpedo_attack/naval_strike_attack/naval_strike_targetting
+ KR_MIO_Trait_attract_foreign_private_investments: "Залучення іноземних приватних інвестицій" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_attract_government_investments: "Залучення державних інвестицій" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_lighter_fuselage: "Полегшений фюзеляж" #air_superiority/naval_strike_attack/naval_strike_targetting/weight/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_experimental_fuselage_designs: "Експериментальні конструкції фюзеляжу" #air_superiority/naval_strike_attack/naval_strike_targetting/weight/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_improved_materials_for_radiator_cooling: "Покращені матеріали для радіаторного охолодження" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_improve_engine_overheat_limit: "Підвищення порогу перегріву двигуна" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_standardized_torpedo_locks: "Стандартизовані торпедні кріплення" #reliability
+ KR_MIO_Trait_heavier_torpedo_payload: "Важча бойова частина торпед" #naval_strike_attack/naval_strike_targetting
+ KR_MIO_Trait_additional_minelaying_storage: "Додатковий відсік для мінування" #mines_planting
+ KR_MIO_Trait_stronger_magnetic_demining_coil: "Посилена електромагнітна тральна котушка" #mines_sweeping
+ KR_MIO_Trait_improved_aerodynamic_profile: "Покращений аеродинамічний профіль" #air_superiority/naval_strike_attack/naval_strike_targetting/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_reduce_machine_gun_spread: "Зменшення розсіювання куль кулеметів" #air_superiority/air_attack/soft_attack/defense/breakthrough
+ KR_MIO_Trait_eliminate_aircraft_weak_spots: "Усунення вразливих місць літака" #air_superiority/naval_strike_attack/naval_strike_targetting/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_improved_gliding_potential: "Покращені планувальні якості" #air_range
+ KR_MIO_Trait_improved_ammunition_yawing: "Зменшення рискання снарядів" #air_attack/soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_redesigned_cockpit: "Оновлена кабіна пілота" #air_defence
+ KR_MIO_Trait_improved_turning_capabilities: "Покращена маневреність на розворотах" #air_superiority/air_agility/air_defence
+ KR_MIO_Trait_eliminate_wasteful_fuel_use: "Усунення перевитрати пального" #air_range/fuel_consumption
+ KR_MIO_Trait_internal_component_isolation: "Ізоляція внутрішніх компонентів" #reliability
+ KR_MIO_Trait_increase_wing_loading_limit: "Збільшення граничного навантаження на крило" #air_superiority/naval_strike_attack/naval_strike_targetting/air_agility/air_attack/air_defence
+ KR_MIO_Trait_eliminate_random_engine_fires: "Усунення раптових загорянь двигуна" #reliability
+ KR_MIO_Trait_improved_propeller_design: "Покращена конструкція повітряного гвинта" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_hexagonal_bombs: "Гексагональні бомби" #air_bombing/air_ground_attack
+ KR_MIO_Trait_cluster_munitions: "Касетні боєприпаси" #air_bombing/air_ground_attack/soft_attack/defense/breakthrough
+ KR_MIO_Trait_heavier_explosive_payload: "Важчий заряд вибухівки" #soft_attack/hard_attack/ap_attack/defense/breakthrough/lg_attack/hg_attack/hg_armor_piercing/lg_armor_piercing/torpedo_attack/sub_attack/air_bombing/air_ground_attack
+ KR_MIO_Trait_air_ground_radar: "Радар класу «повітря — земля»" #sub_detection/surface_detection/air_bombing/night_penalty
+ KR_MIO_Trait_additional_weakspot_protection: "Додатковий захист уразливих місць" #defense/breakthrough/armor_value/hardness/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/air_superiority/reliability/air_defence
+ KR_MIO_Trait_improved_bomb_fins: "Покращене оперення бомб" #air_bombing/air_ground_attack
+ KR_MIO_Trait_standardise_cas_parts: "Стандартизація деталей штурмовиків" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_externally_mounted_bombs: "Зовнішня підвіска бомб" #air_bombing/air_ground_attack
+ KR_MIO_Trait_engine_turbocharger: "Турбокомпресор двигуна" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_reinforced_undercarriage: "Посилене шасі" #air_defence
+ KR_MIO_Trait_increased_work_hours: "Подовжений робочий день" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_eliminate_resource_waste: "Усунення марнування ресурсів" #production_resource_need_factor/production_resource_penalty_factor
+ KR_MIO_Trait_material_recycling: "Вторинна переробка матеріалів" #production_resource_need_factor/production_resource_penalty_factor
+ KR_MIO_Trait_simplified_dissasembly_procedures: "Спрощені процедури демонтажу" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_cheaper_materials: "Дешевші матеріали" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_double_bottom: "Подвійне дно" #armor_value/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_double_hull: "Подвійний корпус" #armor_value/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_additional_aircraft_spacing: "Додатковий простір для літаків" #carrier_size
+ KR_MIO_Trait_universalized_carrier_designs: "Уніфіковані проєкти авіаносців" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_autonomous_turbine_columns: "Автономні турбінні установки" #naval_speed/naval_range
+ KR_MIO_Trait_impulse_type_turbines: "Активні турбіни" #naval_speed/naval_range
+ KR_MIO_Trait_welded_armoured_decks: "Зварні броньовані палуби" #armor_value/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_individual_fire_pumps: "Індивідуальні пожежні помпи" #reliability/max_strength
+ KR_MIO_Trait_fire_main_pipe: "Головна пожежна магістраль" #reliability/max_strength
+ KR_MIO_Trait_collaborate_with_national_companies: "Співпраця з національними компаніями" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
+ KR_MIO_Trait_additional_fuel_capacity_for_plane_catapult_module: "Додатковий запас пального для катапультного модуля літаків" #surface_detection
+ KR_MIO_Trait_improve_light_gunnery_targetting: "Покращене наведення гармат" #naval_light_gun_hit_chance_factor/naval_heavy_gun_hit_chance_factor/hg_attack/lg_attack
+ KR_MIO_Trait_improve_torpedo_targetting: "Покращене наведення торпед" #naval_torpedo_hit_chance_factor/torpedo_attack
+ KR_MIO_Trait_sonobuoys: "Гідроакустичні буї" #sub_detection
+ KR_MIO_Trait_denser_small_calibre_penetration_materials: "Матеріали підвищеної густини для дрібнокаліберних снарядів" #soft_attack/defense/breakthrough/defense/lg_attack/lg_armor_piercing
+ KR_MIO_Trait_denser_heavy_calibre_penetration_materials: "Матеріали підвищеної густини для великокаліберних снарядів" #hard_attack/ap_attack/breakthrough/defense/hg_attack/hg_armor_piercing
+ KR_MIO_Trait_efficient_engine_designs: "Економічні конструкції двигунів" #maximum_speed/reliability/naval_speed/thrust/air_agility/air_defence
+ KR_MIO_Trait_simplified_internal_compartments: "Спрощені внутрішні відсіки" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_simplified_ship_designs: "Спрощені проєкти кораблів" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_improved_ship_camouflage_patterns: "Покращені схеми камуфляжу кораблів" #surface_visibility/sub_visibility
+ KR_MIO_Trait_additional_anti_air_weapons: "Додаткове зенітне озброєння" #air_attack
+ KR_MIO_Trait_increased_fuel_efficiency: "Підвищена паливна ефективність" #fuel_consumption
+ KR_MIO_Trait_high_quality_engines: "Високоякісні двигуни" #maximum_speed/reliability/naval_speed/thrust/air_agility/air_defence
+ KR_MIO_Trait_extensive_testing: "Масштабні випробування" #reliability
+ KR_MIO_Trait_increase_worker_salaries: "Підвищення заробітної плати робітникам" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_larger_externally_mounted_fuel_tanks: "Збільшені зовнішні паливні баки" #fuel_capacity
+ KR_MIO_Trait_stronger_tracks: "Міцніші гусениці" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_extended_engine_lifespan: "Збільшений ресурс двигуна" #reliability
+ KR_MIO_Trait_clear_gearbox_faults: "Усунення дефектів коробки передач" #reliability
+ KR_MIO_Trait_smoothed_steering: "Плавніше рульове керування" #reliability
+ KR_MIO_Trait_increased_anti_air_explosive_shell_packaging: "Збільшений заряд зенітних снарядів" #air_attack
+ KR_MIO_Trait_expanded_labour_pool: "Розширення ринку праці" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_long_life_production_runs: "Довгострокові виробничі серії" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_rapid_upscaling: "Швидке розширення виробництва" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_extreme_rapid_upscaling: "Надшвидке розширення виробництва" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_smoothen_bureaucratic_procedures: "Спрощення бюрократичних процедур" #military_industrial_organization_design_team_assign_cost
+ KR_MIO_Trait_government_contract_favoritism: "Фаворитизм у державних контрактах" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus/military_industrial_organization_funds_gain
+ KR_MIO_Trait_mass_produced_interchangable_armour_plates: "Масові взаємозамінні бронеплити" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_thicker_side_skurts: "Потовщені бортові екрани" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_double_plated_side_skurts: "Двошарові бортові екрани" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_wedge_breechblocks: "Клинові затвори" #soft_attack/hard_attack/lg_attack/defense/breakthrough
+ KR_MIO_Trait_top_side_turret_machinegun_protection: "Захист баштового кулемета зверху" #hardness/defense
+ KR_MIO_Trait_expanded_state_investment: "Розширені державні інвестиції" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_thicker_armour_plating: "Потовщені бронеплити" #hardness/defense/armor_value
+ KR_MIO_Trait_extensively_detailed_crew_manuals: "Детальні інструкції для екіпажу" #any
+ KR_MIO_Trait_hire_additional_designers: "Найм додаткових конструкторів" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
+ KR_MIO_Trait_fully_cast_turret: "Суцільнолита башта" #hardness/defense/armor_value
+ KR_MIO_Trait_double_layered_armour: "Двошарова броня" #hardness/defense/armor_value/max_strength
+ KR_MIO_Trait_ergonomic_interior: "Ергономічне внутрішнє компонування" #any
+ KR_MIO_Trait_denser_shell_tipped_penetration_materials: "Матеріали підвищеної густини для наконечників снарядів" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
+ KR_MIO_Trait_increased_shell_payload: "Збільшений розривний заряд снарядів" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
+ KR_MIO_Trait_increased_shell_velocity: "Збільшена початкова швидкість снаряда" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
+ KR_MIO_Trait_stable_firing_mechanisms: "Стабільні ударно-спускові механізми" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/
+ KR_MIO_Trait_external_armour_belt: "Зовнішній броньовий пояс" #hardness/defense/armor_value/max_strength
+ KR_MIO_Trait_increase_gun_calibre: "Збільшення калібру гармати" #soft_attack/hard_attack/ap_attack/breakthrough/defense/air_attack/lg_attack/hg_attack/lg_armor_piercing/hg_armor_piercing
+ KR_MIO_Trait_increased_passive_sonar_range: "Збільшена дальність пасивного гідролокатора" #sub_detection/surface_detection
+ KR_MIO_Trait_increased_fuel_tank_capacity: "Збільшена місткість паливних баків" #fuel_capacity
+ KR_MIO_Trait_additional_anti_air_weapon_systems: "Додаткові зенітні комплекси" #air_attack
+ KR_MIO_Trait_increased_activate_sonar_range: "Збільшена дальність активного гідролокатора" #sub_detection/surface_detection
+ KR_MIO_Trait_increased_depth_charge_inventory: "Збільшений запас глибинних бомб" #sub_attack
+ KR_MIO_Trait_increased_depth_charge_payload: "Збільшений заряд глибинних бомб" #sub_attack
+ KR_MIO_Trait_sturdier_hulls: "Міцніші корпуси" #hardness/defense/armor_value/max_strength
+ KR_MIO_Trait_dedicated_refit_bays: "Спеціалізовані доки для модернізації" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_dedicated_conversion_bays: "Спеціалізовані доки для перебудови" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_dedicated_repair_bays: "Спеціалізовані ремонтні доки" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_anti_torpedo_bulge: "Протиторпедні булі" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_counter_flooding_system: "Система контрзатоплення" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_flooding_boundries: "Перегородки затоплення" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_harden_external_armour_belt: "Посилення зовнішнього броньового пояса" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength/armor_value
+ KR_MIO_Trait_isolated_and_secure_magazine_storage: "Ізольовані та захищені льохи боєзапасу" #naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/max_strength
+ KR_MIO_Trait_regular_inspections: "Регулярні перевірки" #reliability
+ KR_MIO_Trait_reduce_propellor_noise: "Зниження шуму гребних гвинтів" #sub_visibility
+ KR_MIO_Trait_improved_hydrodynamic_design: "Покращена гідродинамічна форма" #naval_speed
+ KR_MIO_Trait_increase_mine_capacity: "Збільшення місткості мін" #mines_planting
+ KR_MIO_Trait_open_cycle_propulsion: "Рушійна установка відкритого циклу" #naval_speed
+ KR_MIO_Trait_large_torpedo_banks: "Великі торпедні батареї" #torpedo_attack
+ KR_MIO_Trait_increased_contact_detonator_reliability: "Підвищена надійність контактних детонаторів" #reliability
+ KR_MIO_Trait_longer_catapult_launch_system: "Подовжена катапульта запуску" #surface_detection
+ KR_MIO_Trait_longer_radar_range: "Збільшена дальність дії радара" #sub_detection/surface_detection
+ KR_MIO_Trait_high_quality_optics: "Високоякісна оптика" #sub_detection/surface_detection/soft_attack/hard_attack/defense/breakthrough/surface_detection
+ KR_MIO_Trait_additional_radar_arrays: "Додаткові антенні решітки радара" #sub_detection/surface_detection
+ KR_MIO_Trait_additional_dockyard_facilities: "Додаткові верфові потужності" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_restructure_development_procedures: "Реструктуризація процедур розробки" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
+ KR_MIO_Trait_prioritise_acquiring_machine_tools: "Пріоритетне придбання верстатів" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_rush_design_process: "Прискорений процес проєктування" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
+ KR_MIO_Trait_government_lobbying: "Лобіювання в уряді" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
+ KR_MIO_Trait_stricter_design_specifications: "Суворіші вимоги техзавдання" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
+ KR_MIO_Trait_space_efficient_designs: "Компактні конструктивні рішення" #any
+ KR_MIO_Trait_expanded_bomb_bay: "Розширений бомбовідсік" #air_bombing/air_ground_attack
+ KR_MIO_Trait_improved_aerodynamic_bomb_profile: "Покращений аеродинамічний профіль бомб" #air_bombing/air_ground_attack
+ KR_MIO_Trait_invest_in_aerial_mining_demining_equipment: "Інвестиції в обладнання для повітряного мінування та тралення" #mines_planting/mines_sweeping
+ KR_MIO_Trait_increased_fuel_tank_size: "Збільшений розмір паливних баків" #naval_range/air_range/fuel_consumption/fuel_capacity
+ KR_MIO_Trait_eliminate_torpedo_lock_jams: "Усунення заклинювання торпедних замків" #reliability
+ KR_MIO_Trait_reinforced_fuselage: "Посилений фюзеляж" #air_superiority/naval_strike_attack/naval_strike_targetting/weight/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_high_quality_materials_for_radiator_cooling: "Високоякісні матеріали для радіаторного охолодження" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence
+ KR_MIO_Trait_increased_fire_accuracy: "Підвищена точність стрільби" #air_superiority/air_attack/soft_attack/hard_attack/ap_attack/defense/breakthrough/lg_attack/hg_attack/torpedo_attack
+ KR_MIO_Trait_increased_armament_fire_rate: "Підвищена скорострільність озброєння" #air_superiority/air_attack
+ KR_MIO_Trait_increased_wing_loading_limit: "Збільшення граничного навантаження на крило" #air_superiority/naval_strike_attack/naval_strike_targetting/air_agility/air_attack/air_defence
+ KR_MIO_Trait_redesign_engine: "Модернізація конструкції двигуна" #air_superiority/naval_strike_attack/naval_strike_targetting/thrust/maximum_speed/air_range/air_agility/air_attack/air_defence/naval_range
+ KR_MIO_Trait_fuel_efficient_engines: "Економічні двигуни" #fuel_consumption/air_range/naval_range
+ KR_MIO_Trait_on_board_fuel_tank_storage: "Вбудовані паливні баки" #air_range/fuel_capacity
+ KR_MIO_Trait_expanded_external_fuel_tanks: "Розширені підвісні паливні баки" #air_range/fuel_capacity
+ KR_MIO_Trait_r_d_department_expansion: "Розширення науково-дослідного відділу" #military_industrial_organization_research_bonus
+ KR_MIO_Trait_heat_bombs: "Кумулятивні авіабомби" #air_ground_attack
+ KR_MIO_Trait_improved_air_brakes: "Покращені повітряні гальма" #air_superiority/naval_strike_attack/naval_strike_targetting/air_agility/air_attack/air_defence/air_ground_attack
+ KR_MIO_Trait_air_burst_turret_munitions: "Турельні боєприпаси дистанційного підриву" #air_defence/air_attack
+ KR_MIO_Trait_increased_turret_fire_rate: "Підвищена швидкострільність турелей" #air_defence/air_attack
+ KR_MIO_Trait_additional_turret_ammunition_storage: "Додатковий боєзапас турелі" #air_defence/air_attack
+ KR_MIO_Trait_increased_turret_accuracy: "Підвищена точність турелей" #air_defence/air_attack
+ KR_MIO_Trait_bigger_bomb_bay: "Збільшений бомбовідсік" #air_bombing/air_ground_attack
+ KR_MIO_Trait_simplify_dissasembly_procedures: "Спрощення процедур розбирання" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_simplify_assembly_procedures: "Спрощення процедур складання" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_inner_barrel_rifling: "Нарізи ствола" #soft_attack/hard_attack/ap_attack/defense/breakthrough/hg_attack/lg_attack/hg_armor_piercing/lg_armor_piercing/air_attack/air_defense
+ KR_MIO_Trait_increase_mine_explosive_yield: "Збільшення потужності заряду мін" #soft_attack/hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_lightweight_infantry_equipment: "Полегшене піхотне спорядження" #maximum_speed
+ KR_MIO_Trait_increased_hmg_lmg_fire_rate: "Підвищена скорострільність станкових та ручних кулеметів" #soft_attack/defense/breakthrough
+ KR_MIO_Trait_increased_hmg_lmg_accuracy: "Підвищена точність станкових та ручних кулеметів" #soft_attack/defense/breakthrough
+ KR_MIO_Trait_increased_recoilless_rifle_velocity: "Збільшена початкова швидкість безвідкотних гармат" #hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_extended_hmg_lmg_magazines: "Збільшені магазини для станкових та ручних кулеметів" #soft_attack/defense/breakthrough
+ KR_MIO_Trait_increased_rifle_magazines: "Збільшена місткість гвинтівочних магазинів" #soft_attack/defense/breakthrough
+ KR_MIO_Trait_anti_tank_sticky_bombs: "Протитанкові липкі гранати" #hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_clear_magazine_jam_faults: "Усунення заклинювання магазинів" #reliability
+ KR_MIO_Trait_simplify_mortar_designs: "Спрощення конструкцій мінометів" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_simplified_bazooka_designs: "Спрощена конструкція базук" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_cheaper_ammunition: "Дешевші боєприпаси" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_standardise_optical_sights: "Стандартизація оптичних прицілів" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_apbc_shells: "Бронебійні тупоголові снаряди з балістичним наконечником" #hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_increased_fragmentation_shell_fragments: "Збільшена кількість осколків у снарядах" #soft_attack/defense/breakthrough
+ KR_MIO_Trait_specialise_in_heavy_artillery: "Спеціалізація на важкій артилерії" #soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_apcbc_shells: "Бронебійні снаряди з бронебійним та балістичним наконечниками" #hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_expertly_timed_fuses: "Високоточні дистанційні підривники" #soft_attack/defense/breakthrough/hard_attack/ap_attack/hg_attack/lg_attack
+ KR_MIO_Trait_specialise_in_siege_artillery: "Спеціалізація на облоговій артилерії" #soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_increased_air_burst_munition_fragments: "Збільшена кількість осколків у боєприпасах дистанційного підриву" #air_attack
+ KR_MIO_Trait_bigger_gun_shields: "Збільшені гарматні щити" #hardness/defense
+ KR_MIO_Trait_reduce_small_arms_vulnerabilities: "Зменшення вразливості до стрілецької зброї" #hardness/defense/armor_value/breakthrough
+ KR_MIO_Trait_closed_chassis: "Закрите шасі" #hardness/defense/armor_value/breakthrough
+ KR_MIO_Trait_bullet_proof_panels: "Куленепробивні панелі" #hardness/defense/armor_value/breakthrough
+ KR_MIO_Trait_armoured_pulpit_mount: "Броньована відкрита турель" #hardness/defense/armor_value/breakthrough
+ KR_MIO_Trait_utilise_lighter_materials: "Використання легших матеріалів" #maximum_speed
+ KR_MIO_Trait_clear_random_engine_jams: "Усунення раптових заклинювань двигуна" #reliability
+ KR_MIO_Trait_stress_tested_gearbox: "Випробувана на міцність коробка передач" #reliability/maximum_speed
+ KR_MIO_Trait_stress_tested_supension_system: "Випробувана на міцність підвіска" #reliability
+ KR_MIO_Trait_reduced_engine_noise: "Знижений рівень шуму двигуна" #sub_visibility
+ KR_MIO_Trait_longer_barrels: "Подовжені стволи" #hard_attack/ap_attack/soft_attack/defense/breakthrough
+ KR_MIO_Trait_smoother_transmission: "Плавніша трансмісія" #maximum_speed
+ KR_MIO_Trait_rush_production_process: "Прискорений процес виробництва"
+ #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
 
  ##################
  ### KR Headers ###
  ##################
 
- KR_mio_header_artillery: "Artillery"
- KR_mio_header_infantry_equipment: "Infantry Equipment"
- KR_mio_header_motorised: "Motorised"
- KR_mio_header_support_equipment: "Support Equipment"
+ KR_mio_header_artillery: "Артилерія"
+ KR_mio_header_infantry_equipment: "Піхотне спорядження"
+ KR_mio_header_motorised: "Моторизована техніка"
+ KR_mio_header_support_equipment: "Допоміжне спорядження"
 
  #######################
  ### KR MIO Tooltips ###
@@ -337,11 +338,11 @@
  KR_available_mio_tt: "$available_mio_tt$\n$MIO$ ($TYPE|H$)"
  KR_unavailable_mio_tt: "$unavailable_mio_tt$\n$MIO$ ($TYPE|H$)"
 
- KR_mio_trait_mutually_exclusive_with: "§gMutually exclusive with $TRAIT_1|H$ and $TRAIT_2|H$§!"
+ KR_mio_trait_mutually_exclusive_with: "§gВзаємовиключно з $TRAIT_1|H$ та $TRAIT_2|H$§!"
 
- KR_mio_has_completed_trait: "£GFX_trigger_yes §gHas completed trait $TRAIT|Y$§!"
- KR_mio_has_completed_trait_NOT: "£GFX_trigger_no §gHas completed trait $TRAIT|Y$§!"
- KR_mio_has_completed_trait_2: "£GFX_trigger_yes §gHas completed trait $TRAIT_1|Y$ or trait $TRAIT_2|Y$§!"
- KR_mio_has_completed_trait_2_NOT: "£GFX_trigger_no §gHas completed trait $TRAIT_1|Y$ or trait $TRAIT_2|Y$§!"
+ KR_mio_has_completed_trait: "£GFX_trigger_yes §gЗавершено рису $TRAIT|Y$§!"
+ KR_mio_has_completed_trait_NOT: "£GFX_trigger_no §gЗавершено рису $TRAIT|Y$§!"
+ KR_mio_has_completed_trait_2: "£GFX_trigger_yes §gЗавершено рису $TRAIT_1|Y$ або рису $TRAIT_2|Y$§!"
+ KR_mio_has_completed_trait_2_NOT: "£GFX_trigger_no §gЗавершено рису $TRAIT_1|Y$ або рису $TRAIT_2|Y$§!"
 
- MIO_more_than_X_funds: "§Y[THIS.GetName]§! has at least $FUNDS$ §YFunds§!"
+ MIO_more_than_X_funds: "§Y[THIS.GetName]§! має щонайменше $FUNDS$ §Yкоштів§!"

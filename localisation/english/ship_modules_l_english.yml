@@ -40,6 +40,9 @@ EQ_MOD_CAT_sub_ship_nuclear_engine_TITLE: "Ядерні двигуни підв�
 EQ_MOD_CAT_carrier_ship_nuclear_engine_TITLE: "Ядерні двигуни авіаносців"
 EQ_MOD_CAT_heavy_ship_nuclear_engine_TITLE: "Ядерні двигуни важких кораблів"
 EQ_MOD_CAT_ship_sub_coating_TITLE: "Покриття"
+EQ_MOD_CAT_ship_escort_deck_space_TITLE: "Простір в ангарі"
+EQ_MOD_CAT_ship_submarine_deck_space_TITLE: "Простір у підводному ангарі" # (&)
+EQ_MOD_CAT_ship_seaplane_tender_TITLE: "Гідроавіаносець"
 
 ### КОМІРКИ ДЛЯ КОРАБЕЛЬНИХ МОДУЛІВ ###
 EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE: "Батарея"
@@ -66,10 +69,10 @@ ship_light_battery_1_short: "Легка батарея I"
 ship_light_battery_1_desc: "Порівняно мала гармата для використання на есмінцях і малих кораблях."
 ship_light_battery_2: "105-мм скорострільна гармата"
 ship_light_battery_2_short: "Легка батарея II"
-#ship_light_battery_2_desc:0 "A small gun with a powered mount to allow the gun to get on target quickly."
+#ship_light_battery_2_desc:0 "A small gun with a powered mount to allow it to track targets quickly."
 ship_light_battery_3: "127-мм скорострільна гармата"
 ship_light_battery_3_short: "Легка батарея III"
-#ship_light_battery_3_desc:0 "A small gun with gunshields to protect the crew from flying splinters and harsh weather."
+#ship_light_battery_3_desc:0 "A small gun with a gun shield to protect the crew from shell splinters and harsh weather."
 ship_light_battery_4: "130-мм скорострільна гармата"
 ship_light_battery_4_short: "Легка батарея IV"
 #ship_light_battery_4_desc:0 "A pair of small guns in a powered, armored mount."
@@ -78,13 +81,13 @@ dp_light_battery_1_short: "Універсальна головна батаре�
 #dp_light_battery_1_desc:0 "A small gun in a special mount, allowing it to engage airplanes as well as surface targets."
 dp_light_battery_2: "113-мм універсальна батарея"
 dp_light_battery_2_short: "Універсальна головна батарея II"
-#dp_light_battery_2_desc:1 "A small gun with a high angle gunshield, allowing it to engage airplanes as well as surface targets."
+#dp_light_battery_2_desc:1 "A small gun with a high angle mount and gun shield, allowing it to engage airplanes as well as surface targets."
 dp_light_battery_3: "127-мм універсальна батарея"
 dp_light_battery_3_short: "Універсальна головна батарея III"
-#dp_light_battery_3_desc:1 "A small gun high angle enclosed turret, allowing it to engage airplanes as well as surface targets."
+#dp_light_battery_3_desc:1 "A small gun in a high angle enclosed turret, allowing it to engage airplanes as well as surface targets."
 dp_light_battery_4: "127-мм скорострільна універсальна батарея"
 dp_light_battery_4_short: "Універсальна головна батарея IV"
-#dp_light_battery_4_desc:0 "A small gun in a high angle powered turret, allowing it to engage airplanes as well as surface targets."
+#dp_light_battery_4_desc:0 "A small, rapid-fire gun in a high angle powered turret, allowing it to engage airplanes as well as surface targets."
 
 ship_heavy_battery_1: "28-см гармата"
 ship_heavy_battery_1_short: "Важка батарея I"
@@ -230,31 +233,43 @@ ship_airplane_launcher_1: "Катапульта для гідролітаків"
 ship_airplane_launcher_1_desc: "Проста катапульта для літаків запускає в повітря маленький розвідувальний літак."
 ship_airplane_launcher_2: "Поліпшена катапульта для гідролітаків"
 #ship_airplane_launcher_2_desc:0 "An improved launch mechanism that allows the ship to launch a larger plane with greater range and speed."
+ship_seaplane_tender_1: "Обладнання гідроавіаносця" # змінено від просто «г-ав.»
+ship_seaplane_tender_1_desc:0 "Equipment for refueling and recovering seaplanes, keeping them operational with less reliance on shore-based resupply." # (!)
+ship_seaplane_tender_2: "Поліпшене обладнання гідроавіаносця" # змінено від просто «г-ав.»
+ship_seaplane_tender_2_desc:0 "While the earliest seaplane tenders were converted merchant ships, newer types are purpose-built and have greatly improved seaplane support capabilities." # (!)
 
-sub_missile_launcher:0 "Submarine Missile Launcher"
-sub_missile_launcher_desc:0 "A submarine-mounted launcher for guided and ballistic missiles."
-slbm_launcher:0 "Submarine Nuclear Missile Launcher"
-slbm_launcher_desc:0 "A submarine-mounted launcher for nuclear ballistic missiles."
-ship_engine_sub_aip_1:0 "Air-Independent Propulsion"
-ship_engine_sub_aip_1_desc:0 "First iteration of the new engine types, allowing submarine to remain operational underwater for a longer time, at the cost of vastly increased fuel consumption and reduced ship range."
-ship_engine_sub_aip_2:0 "AIP-Diesel Combination Engine"
-ship_engine_sub_aip_2_desc:0 "New version of the air-independent propulsion systems, offering better performance at the lower fuel consumption."
-ship_engine_sub_aip_3:0 "High Speed Walter Engines"
-ship_engine_sub_aip_3_desc:0 "We have reached the pinnacle of what we think can be achieved with AIP Engines. This engine offers excellent speed, while at the same time retaining fuel consumption at acceptable levels."
-ship_anechoic_tile:0 "Anechoic Tiles"
-ship_anechoic_tile_desc:0 "Rubber tile coating that is designed to reduce the range at which ship can be detected by both passive and active sonar."
-ship_torpedo_sub_nuclear:0 "Nuclear Torpedo"
-ship_torpedo_sub_nuclear_desc:0 "Torpedoes that carry a nuclear warhead, providing a highly effective weapon against enemy ships, at the cost of higher risk for accidents."
+sub_missile_launcher:0 "Підводний ракетний пусковий пристрій" # (@!)
+sub_missile_launcher_desc:0 "Підводний пусковий пристрій для керованих і балістичних ракет." # (@!)
+slbm_launcher:0 "Підводний ядерний ракетний пусковий пристрій" # (@!)
+slbm_launcher_desc:0 "Підводний пусковий пристрій для ядерних балістичних ракет." # (@!)
+ship_engine_sub_aip_1: "Повітрянонезалежний рушій"
+ship_engine_sub_aip_1_desc:0 "Перша версія нових типів двигунів, що дозволяє підводному човну залишатися в робочому стані під водою протягом більш тривалого часу, за рахунок значно збільшеного споживання палива та зменшеної дальності плавання." # (@!)
+ship_engine_sub_aip_2: "Поєднаний дизельно-повітрянонезалежний двигун" # (&?)
+ship_engine_sub_aip_2_desc:0 "Нова версія незалежних від повітря систем руху, що забезпечують кращі характеристики при меншому споживанні палива." # (@!)
+ship_engine_sub_aip_3: "Високошвидкісні двигуни «Walter»"
+ship_engine_sub_aip_3_desc:0 "Ми досягли вершини того, що, на нашу думку, можна досягти за допомогою двигунів AIP. Цей двигун забезпечує чудову швидкість, одночасно зберігаючи споживання палива на прийнятному рівні." # (@!)
+ship_anechoic_tile: "Звукопоглинаюче покриття"
+ship_anechoic_tile_desc:0 "Гумове покриття плиток, призначене для зменшення діапазону, в якому судно може бути виявлене як пасивним, так і активним сонаром." # (@!)
+ship_torpedo_sub_nuclear: "Ядерна торпеда"
+ship_torpedo_sub_nuclear_desc:0 "Торпеди, що несуть ядерну боєголовку, є високоефективною зброєю проти ворожих кораблів, але мають вищий ризик аварій." # (@!)
 
 ship_deck_space: "Простір в ангарі"
 #ship_deck_space_desc:0 "A large open area inside the ship that allows the servicing and arming of wheeled airplanes. Adding further hangar space to a ship dramatically drives up cost."
 big_ship_deck_space: "ЗПС плавучого аеродрому"
-big_ship_deck_space_desc:0 "Open area that allows to service, refuel and resupply airplanes and prepare them for their missions. Allows to store and use non-carrier plane variants."
+big_ship_deck_space_desc:0 "Відкрита зона, яка дозволяє обслуговувати, заправляти та дозаправляти літаки і готувати їх до виконання завдань. Дозволяє зберігати та використовувати літаки, що не належать до авіаносців." # (@!)
+ship_escort_deck_space: "Ангар ескортного авіаносця"
+ship_escort_deck_space_desc:0 "Open area inside the ship that allows the servicing and arming of wheeled airplanes. Much smaller and cramped than hangars on the Fleet Carriers." # (!)
+ship_submarine_deck_space: "Ангар підводного авіаносця"
+ship_submarine_deck_space_desc:0 "A watertight compartment and catapult equipment allowing a submarine to carry, launch and recover a small number of seaplanes." # (!)
 
 ship_sonar_1: "Гідрофони"
 ship_sonar_1_desc: "Простий набір гідрофонів для відслідковування цілі під водою завдяки звуку, який вона видає."
 ship_sonar_2: "Активний сонар"
 #ship_sonar_2_desc:0 "An active noise emitter that sends a short 'ping' into the water, then listens for the echo from a submerged submarine hull."
+ship_sonar_3: "УдосконаленИй сонар"
+ship_sonar_3_desc:0 "Improved active sonar array using stronger signal pulses and directional scanning." # (!)
+ship_sonar_4: "Сучасний сонар"
+ship_sonar_4_desc:0 "State of the art sonar system, providing superior tracking of the submerged targets." # (!)
 
 ship_radar_1: "Дециметровий пошуковий радар"
 ship_radar_1_short: "Радар I"
@@ -322,7 +337,7 @@ heavy_ship_engine_4_short: "Важкий двигун IV"
 #heavy_ship_engine_4_desc:0 "Designed with new materials and improved boiler design, this powerplant is intended to allow a modern battleship to keep up with fast carriers and cruisers."
 heavy_ship_nuclear_engine_1: "Ядерний реактор важкого корабля"
 heavy_ship_nuclear_engine_1_short: "Реактор важкого корабля"
-heavy_ship_nuclear_engine_1_desc:0 "A powerful nuclear reactor, capable of powering the heaviest of ships without need for refuelling." # (!)
+heavy_ship_nuclear_engine_1_desc:0 "Потужний ядерний реактор, здатний живити найважчі кораблі без необхідності в дозаправці." # (@!)
 carrier_ship_engine_1: "Двигун 50 000 к. с. н. в."
 carrier_ship_engine_1_short: "Двигун авіаносця I"
 #carrier_ship_engine_1_desc:0 "A basic set of engines allow a mid-sized carrier to reach the speeds necessary for the safe operation of aircraft."
@@ -337,7 +352,7 @@ carrier_ship_engine_4_short: "Двигун авіаносця IV"
 #carrier_ship_engine_4_desc:0 "This powerplant was designed to equip a modern 'fast carrier' intended to function as the centerpiece of a carrier group."
 carrier_ship_nuclear_engine_1: "Ядерний реактор авіаносця"
 carrier_ship_nuclear_engine_1_short: "Реактор авіаносця"
-carrier_ship_nuclear_engine_1_desc:0 "A powerful nuclear reactor, capable of powering colossal carriers without need them needing to refuel." # (!)
+carrier_ship_nuclear_engine_1_desc:0 "Потужний ядерний реактор, здатний живити колосальні авіаносці без необхідності в дозаправці." # (@!)
 ship_armor_bb_1: "200-мм пояс/40-мм палуба"
 ship_armor_bb_1_short: "Броня лінкора I"
 #ship_armor_bb_1_desc:0 "Designed to protect a ship against guns of its own caliber, this armor scheme ensures that every part of the ship is well-protected according to its usefulness."
@@ -374,21 +389,22 @@ ship_armor_cruiser_4_short: "Броня крейсера IV"
 ship_armor_carrier_deck: "90-мм палуба"
 ship_armor_carrier_deck_short: "Броня льотної палуби"
 #ship_armor_carrier_deck_desc:0 "Heavy armor plates protect the hangar spaces against hits by enemy bombers at the cost of less working space."
-ship_armor_ice_carrier_deck_1:0 "Pykrete Runway Reinforcements" # (!)
-ship_armor_ice_carrier_deck_1_desc:0 "Additional construction reinforcements, ensuring stronger and more resilient construction, while also providing better resistance against the elements." # (!)
-ship_armor_ice_carrier_deck_2:0 "Steel-Reinforced Pykrete Runway" # (!)
-ship_armor_ice_carrier_deck_2_desc:0 "Steel-Reinforced Pykrete provides sturdier construction, capable of withstanding more damage, while offering better insulation." # (!)
-ship_armor_ice_carrier_deck_3:0 "Ice-Composite Runway" # (!)
-ship_armor_ice_carrier_deck_3_desc:0 "Materials and methods used offer the best structure resillience and reducing the impact of weather on the ship operations." # (!)
+ship_armor_ice_carrier_deck_1:0 "Зміцнення злітно-посадкової смуги пайкеритом" # (@!)
+ship_armor_ice_carrier_deck_1_desc:0 "Додаткові конструктивні підкріплення, що забезпечують міцність і стійкість конструкції, а також кращу стійкість до впливу зовнішніх факторів." # (@!)
+ship_armor_ice_carrier_deck_2:0 "Армована сталлю пайкеритова злітна смуга" # (@!)
+ship_armor_ice_carrier_deck_2_desc:0 "Армований сталлю пайкерит забезпечує міцнішу конструкцію, здатну витримувати більші пошкодження, одночасно забезпечуючи кращу ізоляцію." # (@!)
+ship_armor_ice_carrier_deck_3:0 "Злітна смуга з льодокомпозиту" # (@!)
+ship_armor_ice_carrier_deck_3_desc:0 "Використані матеріали та методи забезпечують найкращу міцність конструкції та зменшують вплив погодних умов на експлуатацію судна." # (@!)
 SHIP_DESIGNER_MODULE_SELECTION: "§HКомірка модуля:§! $NAME$\nОберіть модуль:"
 
 ship_light_battery_sub: "200-мм батарея"
-ship_light_battery_sub_desc:0 "A formidable deck gun of a caliber more commonly found on light cruisers."
+ship_light_battery_sub_desc:0 "Потужна палубна гармата калібру, який частіше зустрічається на легких крейсерах." # (@!)
 EQ_MOD_CAT_ship_light_battery_sub_TITLE: "Палубні гармати"
-cruiser_submarine_specialization:0 "Long Range Hunters"
-cruiser_submarine_specialization_desc:0 "Cruiser Submarines represent the pinnacle of heavy sub-surface raiding. What they lack in maneuverability and stealth, they certainly make up for in reach."
-midget_submarine_specialization:0 "Midget Submarine Pioneers"
-midget_submarine_specialization_desc:0 "Small submarines designed for harbor raiding or light convoy raiding suit our naval doctrine perfectly."
+cruiser_submarine_specialization:0 "Мисливці на великі відстані" # (@!)
+cruiser_submarine_specialization_desc:0 "Крейсерські підводні човни є вершиною важких підводних рейдів. Те, чого їм бракує в маневреності та непомітності, вони з лишком компенсують дальністю дії." # (@!)
+midget_submarine_specialization:0 "Піонери карликових підводних човнів" # (@!)
+midget_submarine_specialization_desc:0 "Невеликі підводні човни, призначені для нападів на порти або легких конвоїв, ідеально відповідають нашій флотській доктрині." # (@!)
+
 
 ### АВТОПЕРЕКЛАД ###
 ship_light_battery_2_desc: "Маленька гарамата з посиленою основою, що дозволяє тій швидко потрапити в ціль."
@@ -396,10 +412,10 @@ ship_light_battery_3_desc: "Невелика гарамата з щитами д
 ship_light_battery_4_desc: "Пара невеликих гармат у броньованому кріпленні."
 dp_light_battery_1_desc: "Мала гармата в спеціальній установці, що дозволяє вражати літаки, а також надводні цілі."
 dp_light_battery_2_desc: "Невелика гармата з великим кутом щита, що дозволяє вражати літаки, а також надводні цілі."
-dp_light_battery_3_desc: "Невелика гармата з високим кутом закритої вежі, що дозволяє вражати літаки, а також надводні цілі."
+dp_light_battery_3_desc: "Невелика гармата з високим кутом закритої башти, що дозволяє вражати літаки, а також надводні цілі."
 dp_light_battery_4_desc: "Невелика гармата в башті з приводом під великим кутом, що дозволяє вражати літаки, а також надводні цілі."
 ship_heavy_battery_1_desc: "Гармата великого калібру ще до Великої війни."
-ship_heavy_battery_2_desc: "Набір великокаліберних гармат у важкоброньованій установці. Модифікована вежа дозволяє збільшити кут висоти гармати, таким чином збільшуючи радіус дії."
+ship_heavy_battery_2_desc: "Набір великокаліберних гармат у важкоброньованій установці. Модифікована башта дозволяє збільшити кут висоти гармати, таким чином збільшуючи радіус дії."
 ship_heavy_battery_3_desc: "Важкоброньоване кріплення для важких гармат, що включає низку нових технологій для підвищення точності та швидкості стрільби."
 ship_heavy_battery_4_desc: "Остаточна еволюція важкої вогневої потужності, це важкоброньоване кріплення забезпечує високий ступінь точності на великих відстанях."
 ship_super_heavy_battery_1_desc: "Найбільша гармата, яка коли-небудь встановлювалася на кораблі, ці масивні гармати були розроблені, щоб пробивати будь-яку можливу броню на будь-якій відстані."
@@ -413,9 +429,9 @@ ship_medium_battery_2_desc: "Розвиток попереднього диза�
 ship_medium_battery_3_desc: "Хоча це не найбільша гармата, яку можна встановити на крейсері, ця гармата забезпечує найкращий баланс між вагою озброєння та вогневою потужністю та може надійно вразити броню крейсера."
 ship_medium_battery_4_desc: "Оскільки калібр обмежений наявними запасами боєприпасів і з огляду на модернізацію старих кораблів, ця нова гармата має вдосконалену систему автоматичного заряджання, яка значно покращує швидкість стрільби."
 ship_secondaries_1_desc: "Розміщена в казематі з борту корабля, ця легка гармата дає більшим кораблям певний захист від менших кораблів."
-ship_secondaries_2_desc: "Невелика баштова установка для швидкострільних гармат, призначена для захисту великих кораблів від міноносців і торпедних катерів."
+ship_secondaries_2_desc: "Невелика баштова установка для швидкострільних гармат, призначена для захисту основних кораблів від міноносців і торпедних катерів."
 dp_ship_secondaries_1_desc: "Поєднуючи функції важкої протиповітряної гармати та додаткової батареї, це кріплення суттєво підвищує протиповітряні можливості корабля, одночасно забезпечуючи певний захист від менших надводних цілей."
-dp_ship_secondaries_2_desc: "Розміщення вторинної гармати подвійного призначення у вежі значно підвищує захист екіпажу."
+dp_ship_secondaries_2_desc: "Розміщення вторинної гармати подвійного призначення в башті значно підвищує захист екіпажу."
 dp_ship_secondaries_3_desc: "Подвійні потужні турелі подвійного призначення дозволяють значно збільшити вогневу міць."
 dp_ship_secondaries_4_desc: "Створені для швидкої стрільби по всіх формах цілей, це найкраща допоміжна зброя."
 ship_fire_control_system_0_desc: "Центральна станція високо на щоглі корабля визначає дальність до цілі та передає цю інформацію на гарматні установки."

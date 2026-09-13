@@ -81,13 +81,13 @@
 ### Diplomacy Tooltips ###
  REQUEST_EXP_FORCE_BLOCKED_GENERIC_TT: "§RЦя країна не дозволяє вам запитувати їхні сили.§!"
 
- REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_HUNGARY_TT: "§RThe crownland of Hungary does not allow you to request their forces until either the Still Their King or Ausgleich Renegotiations of 1947 focuses have been taken.§!"
+ REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_HUNGARY_TT: "§RУгорщина не дозволяє запитувати свої війська, доки не буде завершено фокус «Досі їхній король» або «Переговори щодо Аусґляйху 1947 року».§!"
 
- REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_OTHER_TT: "§RAustrian crownlands do not allow you to request their forces until either the Drastic Measures in Dire Times or Cisleithania Together focuses have been taken.§!"
+ REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_OTHER_TT: "§RІнші суб'єкти не дозволяють запитувати свої війська, доки не буде завершено фокус «Рішучі заходи у скрутні часи» або «Цислейтанія разом».§!"
 
- REQUEST_EXP_FORCE_BLOCKED_CHINA_TT: "§RChinese warlords that are Associated Governorates do not allow you to request their forces until they have been integrated at least one level.§!"
+ REQUEST_EXP_FORCE_BLOCKED_CHINA_TT: "§RКитайські мілітаристи в статусі асоційованих губернаторств не дозволяють запитувати свої війська, доки їх не буде інтегровано принаймні на один рівень.§!"
 
- REQUEST_EXP_FORCE_BLOCKED_SHANXI_TT: "§RShanxi does not allow you to request their forces until the Yan Xishan-Feng Yuxiang power struggle has concluded.§!"
+ REQUEST_EXP_FORCE_BLOCKED_SHANXI_TT: "§RШаньсі не дозволяє запитувати свої війська, доки не завершиться боротьба за владу між Янь Сішанем та Фен Юйсянем.§!"
 
  EMBARGO_THREAT_TT: "§RСвітова напруженість має бути вищою за §Y50%§!.§!"
 
@@ -203,8 +203,8 @@
 ### Options GUI ###
  kr_options_title: "—— Параметри ——"
 
- kr_intro_screen_button_title: "§YIntro Screen§!"
- kr_intro_screen_button_tooltip: "Click to re-open the §Yintro screen§!.\n\nThe intro screen contains:\n£white_dot §YOptions§! for customising your experience\n£white_dot Historical background for your country\n£white_dot §YPath Guides§! specific to your country\n£white_dot Information on mod-specific features"
+ kr_intro_screen_button_title: "§YВступний екран§!"
+ kr_intro_screen_button_tooltip: "Натисніть, щоб знову відкрити §Yвступний екран§!.\n\nВступний екран містить:\n£white_dot §YПараметри§! для налаштування гри під себе\n£white_dot Історичну довідку про вашу країну\n£white_dot §YПосібники зі шляхів розвитку§! для вашої країни\n£white_dot Інформацію про особливості мода"
 
  custom_achievements_text: "Досягнення КР"
  custom_achievements_tooltip: "§GКлацніть§! щоб увімкнути можливість розблокування користувацьких досягнень."
@@ -231,19 +231,19 @@
  is_in_same_economic_sphere_as: "Знаходиться в тій самій §Yекономічній сфері§!, що й $COUNTRY|Y$"
  is_in_same_economic_sphere_as_NOT: "§RНе§! знаходиться в тій самій §Yекономічній сфері§!, що й $COUNTRY|Y$"
 
- is_in_economic_sphere_led_by: "Is part of $COUNTRY|Y$'s §Yeconomic sphere§!"
- is_in_economic_sphere_led_by_NOT: "Is §Rnot§! part of $COUNTRY|Y$'s §Yeconomic sphere§!"
+ is_in_economic_sphere_led_by: "Входить до §Yекономічної сфери§! $COUNTRY|Y$"
+ is_in_economic_sphere_led_by_NOT: "§RНе§! входить до §Yекономічної сфери§! $COUNTRY|Y$"
 
- is_leader_of_economic_sphere_of: "Is the leader of $COUNTRY|Y$'s §Yeconomic sphere§!"
- is_leader_of_economic_sphere_of_NOT: "Is §Rnot§! the leader of $COUNTRY|Y$'s §Yeconomic sphere§!"
+ is_leader_of_economic_sphere_of: "Є лідером §Yекономічної сфери§! $COUNTRY|Y$"
+ is_leader_of_economic_sphere_of_NOT: "§RНе§! є лідером §Yекономічної сфери§! $COUNTRY|Y$"
 
  economic_sphere_label_text: "[GetEconomicSphereName]"
- economic_sphere_label_none: "No Economic Sphere"
+ economic_sphere_label_none: "Немає економічної сфери"
 
  economic_sphere_label_tooltip: "[PoliticalTabEconomicSphereLabel_GetTooltip]"
- economic_sphere_label_tooltip_leader: "§Y[ROOT.GetNameWithFlag]§! is the leader of §Y[GetEconomicSphereName]§!."
- economic_sphere_label_tooltip_member: "§Y[ROOT.GetNameWithFlag]§! is a member of §Y[GetEconomicSphereName]§!, which is led by §Y[?economic_sphere:members^0.GetNameWithFlag]§!."
- economic_sphere_label_tooltip_none: "§Y[ROOT.GetNameWithFlag]§! is not a member of any economic spheres."
+ economic_sphere_label_tooltip_leader: "§Y[ROOT.GetNameWithFlag]§! є лідером сфери §Y[GetEconomicSphereName]§!."
+ economic_sphere_label_tooltip_member: "§Y[ROOT.GetNameWithFlag]§! є членом сфери §Y[GetEconomicSphereName]§!, очолюваної країною §Y[?economic_sphere:members^0.GetNameWithFlag]§!."
+ economic_sphere_label_tooltip_none: "§Y[ROOT.GetNameWithFlag]§! не входить до жодної економічної сфери."
 
  economic_sphere_label_tooltip_delayed: "[PoliticalTabEconomicSphereLabel_GetTooltipDelayed]"
  economic_sphere_label_tooltip_delayed_text: "§L[GetEconomicSphereDesc]§!"
@@ -439,8 +439,8 @@
 
  second_weltkrieg_threat: "Другий Вельткриг"
  second_weltkrieg_has_started: "Початок Другого Вельткрігу"
- second_weltkrieg_has_started_NOT: "The Second Weltkrieg has §Rnot§! begun"
- second_weltkrieg_has_ended: "The Second Weltkrieg has ended"
+ second_weltkrieg_has_started_NOT: "Другий Вельткриг §Rне§! розпочався"
+ second_weltkrieg_has_ended: "Другий Вельткриг завершився"
 
 ### Operatives ###
  operation_infiltrate_armed_forces_army_outcome: "$operation_infiltrate_armed_forces_army$ ефективність"
@@ -507,8 +507,8 @@
  is_in_faction_but_not_leader: "Входить до союзу, але не є його лідером"
  is_in_faction_but_not_leader_NOT: "Є лідером союзу чи не у союзі"
 
- imminent_war: "§Y[THIS.GetNameWithFlag]§! is likely to be at war soon"
- imminent_war_NOT: "§Y[THIS.GetNameWithFlag]§! is unlikely to be at war soon"
+imminent_war: "Ймовірно, невдовзі §Y[THIS.GetNameWithFlag]§! опиниться у стані війни"
+ imminent_war_NOT: "Малоймовірно, що невдовзі §Y[THIS.GetNameWithFlag]§! опиниться у стані війни"
 
  has_guarantor: "Гарантується"
  has_guarantor_NOT: "Не гарантується"

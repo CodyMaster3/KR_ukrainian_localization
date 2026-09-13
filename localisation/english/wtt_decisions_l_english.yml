@@ -26,7 +26,7 @@ war_building_slot: "Привласнення промислових земель
 war_building_slot_flag: "Ще не отримано додаткову комірку для будівництва від привласнення земель"
 special_projects: "Проєкти важкої промисловості"
 foreign_politics: "Зовнішня політика"
-foreign_politics_desc: "Good foreign policy is vital to the survival of a nation, no matter its size. While some nations prefer to focus on building alliances, other, more aggressive, powers opt to challenge their opponents head-on in open conflict. Whatever we choose, we must not be foolhardy, for only through tactful foreign policy can we build friendships and destroy our enemies." # (!)
+foreign_politics_desc: "Грамотна зовнішня політика є життєво важливою для виживання нації, незалежно від її розміру. У той час як деякі держави воліють зосередитися на створенні альянсів, інші, більш агресивні потуги, обирають кидати виклик своїм суперникам у прямому відкритому протистоянні. Що б ми не обрали, ми не маємо діяти безрозсудно, адже лише завдяки виваженій зовнішній політиці ми зможемо знайти друзів і знищити ворогів."
 prospect_for_resources: "Розвідка ресурсів"
 prospect_for_resources_desc: "Наші геологи знайшли на наших територіях низку перспективних родовищ корисних копалин. Ми можемо витратити певний капітал на розвиток цих родовищ. Розвиток видобувних технологій може зробити придатними для розробки більше родовищ."
 economy_decisions: "Економічна політика"
@@ -62,5 +62,5 @@ demob_manpower_mission: "Послабити призов"
 foreign_policy: "Зовнішня політика"
 promises_of_peace: "Обіцянки миру"
 promises_of_peace_desc: "Історія навчила нас жахів війни. Ми мусимо не допустити цього знову. Час нашій нації досягти миру та процвітання."
-prestigious_projects: "National Prestige" # (!)
+prestigious_projects: "Національний престиж"
 war_propaganda_campaign_running: " Уже проводиться кампанія військової пропаганди"

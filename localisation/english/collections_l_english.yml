@@ -64,7 +64,7 @@
  COLLECTION_FACTION_CONTROLS_NORTHERN_MANDATE: "Підвладні нам області у східному Сибіру"
  COLLECTION_FACTION_CONTROLS_SOUTHERN_MANDATE: "Підвладні нам області в південно-східній Азії"
  COLLECTION_FACTION_CONTROLS_GREATER_GAME: "Підвладні нам області в середній Азії"
- COLLECTION_MAJORITY_ARE_SUBJECTS: "subjects to the faction leader is" # (!)
+ COLLECTION_MAJORITY_ARE_SUBJECTS: "суб'єктів лідера фракції становить"
  COLLECTION_NO_JAPANESE_IN_CHINA: "Материкові області Китаю, підвладні Японії та її союзникам"
  COLLECTION_AMOUNT_OF_SUBJECTS_TO_FACTION_LEADER: "Кількість країн, які є підлеглими лідеру альянсу"
  COLLECTION_COUNTRIES_EUROPE_NON_ALIGNED: "Нейтральні країни в Європі"
@@ -72,7 +72,7 @@
  COLLECTION_CONTROLLED_COMINTERN_BORDER_STATES: "Підвладні нам початкові прикордонні області"
  COLLECTION_NEIGHBORING_STATES: "Області, що межують із лідером альянсу"
  COLLECTION_CONTROLLED_PUPPET_BORDER_STATES: "Області, підвладні суб'єктам лідера альянсу"
- COLLECTION_FACTION_BORDER_STATES_FULL_INFRASTRUCTURE: "Faction-controlled border-states without maximum infrastructure" # (!)
+ COLLECTION_FACTION_BORDER_STATES_FULL_INFRASTRUCTURE: "Прикордонні регіони під контролем фракції без максимального рівня інфраструктури" 
  COLLECTION_FACTION_LAND_FACILITY: "Інститути наземної війни альянсу"
  COLLECTION_FACTION_NAVAL_FACILITY: "Інститути морської інженерії альянсу"
  COLLECTION_FACTION_AIR_FACILITY: "Інститути аеродинаміки й авіаноіки альянсу"
@@ -97,4 +97,4 @@
  COLLECTION_NON_COMMUNIST_STATES: "Області, підвладні некомуністам"
  COLLECTION_ALL_SAME_CONTINENT_COUNTRIES: "Усі країни на тому ж континенті"
  COLLECTION_ALL_COMMUNIST_OR_DEFEATED_SAME_CONTINENT_COUNTRIES: "Комуністичні країни на тому ж континенті"
- COLLECTION_CONTROLLED_AUSTRONESIA_STATES: "controlled Austronesian claims awarded by preceding focuses" # (!)
+ COLLECTION_CONTROLLED_AUSTRONESIA_STATES: "Підконтрольні австронезійські претензії, отримані за попередніми фокусами" 

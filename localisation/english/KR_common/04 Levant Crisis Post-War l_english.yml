@@ -130,8 +130,8 @@
  levant_crisis_events.26.a: "Отже, війна."
  levant_crisis_events.26.b: "We should give in and move back to our territory."
 
- levant_crisis_events.27.t: "The Question of Conscription"
- levant_crisis_events.27.d1: "The current war threatens to remove the Ottoman Empire from the map forever. No one calling themselves a man can stay at home when his homeland is threatened. If they do not go freely, it is time for the laws to change, and give them some motivation."
- levant_crisis_events.27.d2: "Our enemies are numerous, and so must we be. Luckily conscription is already in place across the Empire, placing us well prepared to face both fronts in this war. With both superior numbers and equipment, we will make easy work of the upstarts trying to destroy the House of Osman."
- levant_crisis_events.27.a: "The Sultan calls."
- levant_crisis_events.27.b: "We were well prepared."
+ levant_crisis_events.27.t: "Питання призову"
+ levant_crisis_events.27.d1: "Нинішня війна загрожує назавжди стерти Османську імперію з карти. Жоден, хто називає себе чоловіком, не може сидіти вдома, коли його батьківщина в небезпеці. Якщо вони не йдуть добровільно, настав час змінити закони й дати їм належну мотивацію."
+ levant_crisis_events.27.d2: "Наших ворогів багато, отже, і нас має бути не менше. На щастя, призов уже діє по всій імперії, тому ми добре підготовлені до ведення війни на два фронти. Маючи перевагу як у чисельності, так і в спорядженні, ми легко розправимося з вискочнями, які намагаються знищити дім Османів."
+ levant_crisis_events.27.a: "Султан кличе."
+ levant_crisis_events.27.b: "Ми були добре підготовлені."

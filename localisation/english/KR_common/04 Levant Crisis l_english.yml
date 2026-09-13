@@ -1,15 +1,15 @@
 ﻿l_english:
 
 ### Missions ###
- EGY_levant_crisis_mission: "Taking the Initiative"
- EGY_levant_crisis_mission_desc: "Compared to the Ottomans, our infrastructure is insufficient for a prolonged war. We must strike swiftly and decisively, ending the conflict before the enemy can regroup and fortify their defences."
- OTT_levant_crisis_mission: "Halt the Egyptian Advance"
- OTT_levant_crisis_mission_desc: "The General Staff is in disarray over the Levant Crisis, but one thing is certain: the Egyptian Army cannot sustain a prolonged war against us. A defense-in-depth strategy can wear them down, forcing them to overextend their lines - but we must turn the tide before they threaten the heartland."
+ EGY_levant_crisis_mission: "Перехоплення ініціативи"
+ EGY_levant_crisis_mission_desc: "У порівнянні з османами, наша інфраструктура недостатня для затяжної війни. Ми маємо завдати швидкого й рішучого удару, поклавши край конфлікту ще до того, як ворог зможе перегрупуватися та зміцнити свою оборону."
+ OTT_levant_crisis_mission: "Зупинити єгипетський наступ"
+ OTT_levant_crisis_mission_desc: "Генеральний штаб розгублений через кризу в Леванті, але одне зрозуміло точно: єгипетська армія не витримає затяжної війни проти нас. Стратегія ешелонованої оборони здатна виснажити їх, змусивши розтягнути свої лінії, проте ми мусимо переломити хід подій до того, як вони створять загрозу серцю імперії."
 
 ### Ideas ###
- EGY_levant_crisis_initiative_base: "Levant Crisis: on the Initiative"
- EGY_levant_crisis_initiative_lost: "Levant Crisis: Initiative Lost"
- OTT_levant_crisis_initiative: "Levant Crisis: Counteroffensive"
+ EGY_levant_crisis_initiative_base: "Криза в Леванті: перехоплення ініціативи"
+ EGY_levant_crisis_initiative_lost: "Криза в Леванті: ініціативу втрачено"
+ OTT_levant_crisis_initiative: "Криза в Леванті: контрнаступ"
 
 ### Operation Abu'l-A'war events
  palabu.1.t: "Операція Абу аль-А'вар"

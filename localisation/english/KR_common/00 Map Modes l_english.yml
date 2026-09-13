@@ -2,17 +2,17 @@
 
 ### Map Modes ###
  MAPMODE_CORES_CLAIMS_MAP_MODE: "§Y$MAPMODE_CORES_CLAIMS_MAP_MODE_NAME$§! режим мапи"
- MAPMODE_CORES_CLAIMS_MAP_MODE_NAME: "Cores/Claims"
- MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION: "Shows the current cores and claims."
+ MAPMODE_CORES_CLAIMS_MAP_MODE_NAME: "Національні/претендовані території"
+ MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION: "Показує поточні національні території та претензії."
 
  cores_claims_map_mode_tooltip: "§Y[FROM.GetName]§! ([FROM.Owner.GetFlag] [FROM.Owner.GetName])"
  cores_claims_map_mode_tooltip_delayed: "[FROM.GetCoreClaimMapModeTooltip]"
 
- cores_claims_map_mode_tooltip_core: "§Y[FROM.GetName]§! is a §Ycore state§! of §Y[ROOT.GetNameWithFlag]§!."
- cores_claims_map_mode_tooltip_potential_core_50: "§Y[FROM.GetName]§! is a §Ypotential core state§! of §Y[ROOT.GetNameWithFlag]§!. If owned, it will become a core upon reaching §Y50%§! compliance."
- cores_claims_map_mode_tooltip_potential_core_80: "§Y[FROM.GetName]§! is a §Ypotential core state§! of §Y[ROOT.GetNameWithFlag]§!. If owned, it will become a core upon reaching §Y80%§! compliance."
- cores_claims_map_mode_tooltip_claim: "§Y[FROM.GetName]§! is §Yclaimed§! by §Y[ROOT.GetNameWithFlag]§!."
- cores_claims_map_mode_tooltip_owned: "§Y[FROM.GetName]§! is §Yoccupied§! by §Y[ROOT.GetNameWithFlag]§!."
+ cores_claims_map_mode_tooltip_core: "§Y[FROM.GetName]§! — §Yнаціональний регіон§! країни §Y[ROOT.GetNameWithFlag]§!."
+ cores_claims_map_mode_tooltip_potential_core_50: "§Y[FROM.GetName]§! — §Yпотенційний національний регіон§! країни §Y[ROOT.GetNameWithFlag]§!. У разі володіння стане національним після досягнення §Y50%§! підкорення."
+ cores_claims_map_mode_tooltip_potential_core_80: "§Y[FROM.GetName]§! — §Yпотенційний національний регіон§! країни §Y[ROOT.GetNameWithFlag]§!. У разі володіння стане національним після досягнення §Y80%§! підкорення."
+ cores_claims_map_mode_tooltip_claim: "Країна §Y[ROOT.GetNameWithFlag]§! висуває §Yпретензії§! на регіон §Y[FROM.GetName]§!."
+ cores_claims_map_mode_tooltip_owned: "Регіон §Y[FROM.GetName]§! §Yокупований§! країною §Y[ROOT.GetNameWithFlag]§!."
 
  MAPMODE_OPINION_MAP_MODE: "§Y$MAPMODE_OPINION_MAP_MODE_NAME$§! режим мапи"
  MAPMODE_OPINION_MAP_MODE_NAME: "Думка"
@@ -23,7 +23,7 @@
 
  opinion_map_mode_tooltip_delayed2: "ROOT is [ROOT.GetName]\nFROM is [FROM.GetName]\nFROM.FROM is [FROM.FROM.GetName]"
 
- opinion_map_mode_tooltip_delayed_desc: "Their opinion of us: [?FROM.controller:opinion@ROOT|+=0]\nOur opinion of them: [?ROOT.opinion@FROM.controller|+=0]"
+ opinion_map_mode_tooltip_delayed_desc: "Їхня думка про нас: [?FROM.controller:opinion@ROOT|+=0]\nНаша думка про них: [?ROOT.opinion@FROM.controller|+=0]"
 
  MAPMODE_ECONOMIC_SPHERES_MAP_MODE: "§Y$MAPMODE_ECONOMIC_SPHERES_MAP_MODE_NAME$§! режим мапи"
  MAPMODE_ECONOMIC_SPHERES_MAP_MODE_NAME: "Сфери економіки"

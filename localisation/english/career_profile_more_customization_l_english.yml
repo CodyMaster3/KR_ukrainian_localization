@@ -187,12 +187,12 @@ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION: "Зламуючи один шиф�
   CAREER_PROFILE_KNOWLEDGE_IS_POWER_BRONZE: "$VALUE|0H$ учених 3-го рівня"
 
  ## 1.17 Musketeer
-  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL:0 "§HGrand Strategikon§!" # (!)
-  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION:0 "Have a certain number of Subdoctrines Mastered" # (!)
-  CAREER_PROFILE_PACTWEAVER_MEDAL:0 "§HPactweaver§!" # (!)
-  CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION:0 "Have a certain percentage of faction manifest." # (!)
-  CAREER_PROFILE_OVERACHIEVER_MEDAL:0 "§HOverachiever§!" # (!)
-  CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION:0 "Complete a certain number of long-term faction goals." # (!)
+  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL:0 "§HВеликий стратегикон§!"
+ CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION:0 "Опануйте певну кількість субдоктрин"
+ CAREER_PROFILE_PACTWEAVER_MEDAL:0 "§HТворець пактів§!"
+ CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION:0 "Виконайте маніфест фракції на певний відсоток"
+ CAREER_PROFILE_OVERACHIEVER_MEDAL:0 "§HПеревиконавець§!"
+ CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION:0 "Виконайте певну кількість довгострокових цілей фракції"
 
   CAREER_PROFILE_GRAND_STRATEGIKON_BRONZE: "Опановано 4 субдоктрини" # (&)
   CAREER_PROFILE_GRAND_STRATEGIKON_SILVER: "Опановано 8 субдоктрин" # (&)
@@ -205,12 +205,12 @@ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION: "Зламуючи один шиф�
   CAREER_PROFILE_OVERACHIEVER_GOLD: "5"
 
  ## 1.19 OPERATION POSTERN
-  CAREER_PROFILE_BOATS_UP_MEDAL: "Boats Up" # (!)
-  CAREER_PROFILE_BOATS_UP_MEDAL_DESCRIPTION: "Promote a Ship Captain to Admiral, and reach following skill level." # (!)
-  CAREER_PROFILE_POLISH_MY_HQ_MEDAL: "Polish My HQ" # (!)
-  CAREER_PROFILE_POLISH_MY_HQ_MEDAL_DESCRIPTION: "Deploy Army HQ that has the production cost of at least" # (!)
-  CAREER_PROFILE_DIRTY_MATH_MEDAL: "Dirty Math" # (!)
-  CAREER_PROFILE_DIRTY_MATH_MEDAL_DESCRIPTION: "Capture enemy Commanders whose sum of their skill levels is at least the following number." # (!)
+  CAREER_PROFILE_BOATS_UP_MEDAL: "Підняти вітрила"
+ CAREER_PROFILE_BOATS_UP_MEDAL_DESCRIPTION: "Підвищіть капітана корабля до адмірала та досягніть такого рівня навичок:"
+ CAREER_PROFILE_POLISH_MY_HQ_MEDAL: "Навести глянець у штабі"
+ CAREER_PROFILE_POLISH_MY_HQ_MEDAL_DESCRIPTION: "Розгорніть армійський штаб із вартістю виробництва щонайменше"
+ CAREER_PROFILE_DIRTY_MATH_MEDAL: "Брудна математика"
+ CAREER_PROFILE_DIRTY_MATH_MEDAL_DESCRIPTION: "Захопіть ворожих командирів, сума рівнів навичок яких становить щонайменше таке число:"
 
   CAREER_PROFILE_BOATS_UP_BRONZE: "2"
   CAREER_PROFILE_BOATS_UP_SILVER: "4"
@@ -259,45 +259,45 @@ CAREER_PROFILE_BLITZ_THIS_QUOTE: "«Відтягніть свій шик, як �
 
  # 1.15 Kaiser
   CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY: "§HЗавдання успішно провалено§!"
-  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY_DESCRIPTION:0 "Fail a raid while having 80% success chance or higher."
-  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY_QUOTE:0 ""The raid must be considered as a reconnaissance in force... We had to get all the information necessary before launching operations on a much larger scale..."\n\n- Winston Churchill, on Dieppe Raid, September 8, 1942"
-  CAREER_PROFILE_PUNCH_IT: "§HБий 'го!§!"
-  CAREER_PROFILE_PUNCH_IT_DESCRIPTION:0 "Successfully raid a nuclear facility, while controlling at least one state neighboring the facility"
-  CAREER_PROFILE_PUNCH_IT_QUOTE:0 ""For the sake of the nations life it was neccessary to restore the army's will to die"\n\n - Alexander Kerensky on the June Offensive"
-  CAREER_PROFILE_PLAN_L: "§HПлан «L»§!"
-  CAREER_PROFILE_PLAN_L_DESCRIPTION:0 "Starting as a landlocked country, complete 2 naval special projects, build 10 destroyers, 5 cruisers, 2 battleships and 1 carrier."
-  CAREER_PROFILE_PLAN_L_QUOTE:0 ""It takes the Navy three years to build a ship. It will take three hundred years to build a new tradition. The evacuation will continue."\n\n - Andrew Cunningham, on evacuation of Crete"
-  CAREER_PROFILE_SWEETENER_HEXADECAGON: "§HСолодкий шістнадцятикутник§!"
-  CAREER_PROFILE_SWEETENER_HEXADECAGON_DESCRIPTION:0 "Research 16 Technologies unlocked by Special Projects"
-  CAREER_PROFILE_SWEETENER_HEXADECAGON_QUOTE:0 ""When I came to you with those calculations, we thought we might start a chain reaction that might destroy the entire world."\n\n - Robert Oppenheimer, Oppenheimer"
+  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY_DESCRIPTION:0 "Проваліть рейд, маючи 80% шансу на успіх або більше."
+ CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY_QUOTE:0 "«Цей рейд слід розглядати як розвідку боєм... Ми мусили здобути всю необхідну інформацію перед початком значно масштабніших операцій...»\n\n— Вінстон Черчилль про рейд на Дьєп, 8 вересня 1942 року"
+ CAREER_PROFILE_PUNCH_IT: "§HБий 'го!§!"
+ CAREER_PROFILE_PUNCH_IT_DESCRIPTION:0 "Успішно здійсніть рейд на ядерний об'єкт, контролюючи щонайменше один сусідній із ним регіон"
+ CAREER_PROFILE_PUNCH_IT_QUOTE:0 "«Задля порятунку життя нації було необхідно відновити в армії волю йти на смерть»\n\n— Олександр Керенський про Червневий наступ"
+ CAREER_PROFILE_PLAN_L: "§HПлан «L»§!"
+ CAREER_PROFILE_PLAN_L_DESCRIPTION:0 "Почавши гру за країну без виходу до моря, завершіть 2 військово-морські спецпроєкти, побудуйте 10 есмінців, 5 крейсерів, 2 лінкори та 1 авіаносець."
+ CAREER_PROFILE_PLAN_L_QUOTE:0 "«Флоту потрібно три роки, щоб побудувати корабель. Але знадобиться триста років, щоб створити нову традицію. Евакуація триватиме».\n\n— Ендрю Каннінгем про евакуацію з Криту"
+ CAREER_PROFILE_SWEETENER_HEXADECAGON: "§HСолодкий шістнадцятикутник§!"
+ CAREER_PROFILE_SWEETENER_HEXADECAGON_DESCRIPTION:0 "Дослідіть 16 технологій, розблокованих спеціальними проєктами"
+ CAREER_PROFILE_SWEETENER_HEXADECAGON_QUOTE:0 "«Коли я прийшов до тебе з тими розрахунками, ми гадали, що можемо запустити ланцюгову реакцію, яка знищить увесь світ».\n\n— Роберт Оппенгеймер, «Оппенгеймер»"
 
  ## 1.17 Musketeer
-  CAREER_PROFILE_ISLAND_HOPPER:0 "§HIsland Hopper§!" # (!)
-  CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION:0 "Take control of 10 Strategic Locations" # (!)
-  CAREER_PROFILE_ISLAND_HOPPER_QUOTE:0 ""You wanna live?! Get off the beach"\n\n - John Basilone, The Pacific" # (!)
-  CAREER_PROFILE_IM_THE_CAPTAIN_NOW:0 "§HI'm the Captain Now§!" # (!)
-  CAREER_PROFILE_IM_THE_CAPTAIN_NOW_DESCRIPTION:0 "As a minor nation, take over leadership of a faction" # (!)
-  CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE:0 ""Look at me, I'm the captain now."\n\n - Muse, Captain Philips" # (!)
-  CAREER_PROFILE_THREE_MUSKETEERS:0 "§HThe Three Musketeers§!" # (!)
-  CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION:0 "Establish three faction theaters that are manned by your officers" # (!)
-  CAREER_PROFILE_THREE_MUSKETEERS_QUOTE:0 ""All for one and one for all, united we stand divided we fall."\n\n - Alexander Dumas"  # (!)
-  CAREER_PROFILE_THE_MORE_THE_MERRIER:0 "§HThe More the Merrier§!" # (!)
-  CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION:0 "Have a faction research sharing bonus of 30%" # (!)
-  CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE:0 ""No man is an island, entire of itself, every man is a piece of the continent, a part of the main." \n\n - John Donne" # (!)
+  CAREER_PROFILE_ISLAND_HOPPER:0 "§HСтрибун островами§!"
+ CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION:0 "Установіть контроль над 10 стратегічними локаціями"
+ CAREER_PROFILE_ISLAND_HOPPER_QUOTE:0 "«Хочете жити?! Забирайтеся з пляжу!»\n\n— Джон Базілоне, «Тихий океан»"
+ CAREER_PROFILE_IM_THE_CAPTAIN_NOW:0 "§HТепер я тут капітан§!"
+ CAREER_PROFILE_IM_THE_CAPTAIN_NOW_DESCRIPTION:0 "Граючи за другорядну державу, очольте фракцію"
+ CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE:0 "«Поглянь на мене. Тепер я тут капітан».\n\n— Мусе, «Капітан Філліпс»"
+ CAREER_PROFILE_THREE_MUSKETEERS:0 "§HТри мушкетери§!"
+ CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION:0 "Створіть три театри воєнних дій фракції, керовані вашими офіцерами"
+ CAREER_PROFILE_THREE_MUSKETEERS_QUOTE:0 "«Один за всіх, і всі за одного: разом ми встоїмо, поодинці — впадемо».\n\n— Александр Дюма"
+ CAREER_PROFILE_THE_MORE_THE_MERRIER:0 "§HЩо більше, то краще§!"
+ CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION:0 "Отримайте 30% бонус до спільного дослідження у фракції"
+ CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE:0 "«Немає людини, що була б як острів, сама по собі; кожна людина — це частка материка, частина суходолу».\n\n— Джон Донн"
 
  ## 1.19 OPERATION POSTERN
-  CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU: "I'm Here to Rescue You!" # (!)
-  CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_DESCRIPTION: "Successfully use a Raid to rescue your captured Commander" # (!)
-  CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_QUOTE: ""I'm sorry we're a few minutes late." \n\n - Lord Lovat" # (!)
-  CAREER_PROFILE_DEJA_VU: "Déjà Vu" # (!)
-  CAREER_PROFILE_DEJA_VU_DESCRIPTION: "Successfully use Spy Operation to rescue your captured Commander" # (!)
-  CAREER_PROFILE_DEJA_VU_QUOTE: ""I raised the question [of a rescue] again. This time it prompted action." \n\n - Major Lapham" # (!)
-  CAREER_PROFILE_THE_MORE_THINGS_CHANGES: "The More Things Change, The More They Stay the Same" # (!)
-  CAREER_PROFILE_THE_MORE_THINGS_CHANGES_DESCRIPTION: "Fully Master 2 Special Forces Subdoctrines" # (!)
-  CAREER_PROFILE_THE_MORE_THINGS_CHANGES_QUOTE: ""We were expendable. We were a bonus, that's all." \n\n - Major General Colin Gubbins" # (!)
-  CAREER_PROFILE_FULLY_DECKED_OUT: "Fully Decked Out" # (!)
-  CAREER_PROFILE_FULLY_DECKED_OUT_DESCRIPTION: "Design and Deploy a Division that has 5 Divisional Support Units and 5 Regimental Support Units" # (!)
-  CAREER_PROFILE_FULLY_DECKED_OUT_QUOTE: ""In case of doubt, attack" \n\n - George Patton" # (!)
+ CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU: "§HЯ тут, щоб урятувати вас!§!"
+ CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_DESCRIPTION: "Успішно використайте рейд, щоб урятувати свого полоненого командира"
+ CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_QUOTE: "«Вибачте, що ми запізнилися на кілька хвилин».\n\n— Лорд Ловат"
+ CAREER_PROFILE_DEJA_VU: "§HДежавю§!"
+ CAREER_PROFILE_DEJA_VU_DESCRIPTION: "Успішно використайте шпигунську операцію, щоб урятувати свого полоненого командира"
+ CAREER_PROFILE_DEJA_VU_QUOTE: "«Я знову підняв питання [про порятунок]. Цього разу це спонукало до дій».\n\n— Майор Лепхем"
+ CAREER_PROFILE_THE_MORE_THINGS_CHANGES: "§HЩо більше все змінюється, то більше все залишається як було§!"
+ CAREER_PROFILE_THE_MORE_THINGS_CHANGES_DESCRIPTION: "Повністю опануйте 2 субдоктрини військ спеціального призначення"
+ CAREER_PROFILE_THE_MORE_THINGS_CHANGES_QUOTE: "«Ми були розхідним матеріалом. Ми були просто бонусом, от і все».\n\n— Генерал-майор Колін Габбінс"
+ CAREER_PROFILE_FULLY_DECKED_OUT: "§HПовний фарш§!"
+ CAREER_PROFILE_FULLY_DECKED_OUT_DESCRIPTION: "Спроєктуйте та розгорніть дивізію, яка має 5 дивізійних рот забезпечення та 5 полкових рот забезпечення"
+ CAREER_PROFILE_FULLY_DECKED_OUT_QUOTE: "«Якщо сумніваєшся — атакуй»\n\n— Джордж Паттон"
 
 ### ЦИТАТИ ###
 CAREER_PROFILE_BACKUP_QUOTE_31: "«...багато з нас думали, що ніколи не чули більш привітний звук, ніж глибокий рев і гуркіт, що почався в нас позаду».\n\n(Фріц Крайслер)"
